@@ -22,6 +22,7 @@ java {
 }
 
 repositories {
+    mavenLocal()
     mavenCentral()
     maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")
     maven("https://repo.papermc.io/repository/maven-public/")
@@ -34,10 +35,6 @@ dependencies {
     "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.1")
     compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
-
-    compileOnly("com.github.Sefiraat:Networks:3de3c9d608") {
-        isTransitive = false
-    }
 
     implementation("com.github.Riley31415:InfinityLib:1.3.10") {
         isTransitive = false

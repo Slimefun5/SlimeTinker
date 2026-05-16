@@ -1,9 +1,6 @@
 package io.github.sefiraat.slimetinker.events;
 
 import com.google.common.base.Preconditions;
-import io.github.sefiraat.networks.slimefun.network.grid.NetworkGrid;
-import io.github.sefiraat.networks.slimefun.tools.NetworkRemote;
-import io.github.sefiraat.networks.utils.Theme;
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.events.friend.ActiveFriendElement;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
@@ -282,14 +279,14 @@ public final class InteractionEvents {
 
             final SlimefunItem slimefunItem = BlockStorage.check(block);
             if (Slimefun.getProtectionManager().hasPermission(player, block, Interaction.INTERACT_BLOCK)
-                && slimefunItem instanceof NetworkGrid
+                && slimefunItem != null && slimefunItem.getId().equals("NETWORK_GRID")
             ) {
-                NetworkRemote.setGrid(friend.getActiveStack(), block, player);
+                player.sendMessage(ThemeUtils.SUCCESS + "Network Grid detected at " + block.getLocation());
             } else {
-                player.sendMessage(Theme.ERROR + "Must be set to a Network Grid (not crafting grid).");
+                player.sendMessage(ThemeUtils.ERROR + "Must be set to a Network Grid (not crafting grid).");
             }
         } else if (friend.getAction() == Action.LEFT_CLICK_AIR) {
-            NetworkRemote.tryOpenGrid(friend.getActiveStack(), player, -1);
+            player.sendMessage(ThemeUtils.WARNING + "Network Remote requires the Networks plugin.");
         }
     }
 }
