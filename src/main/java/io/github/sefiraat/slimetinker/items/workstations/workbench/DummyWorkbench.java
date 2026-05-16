@@ -3,8 +3,8 @@ package io.github.sefiraat.slimetinker.items.workstations.workbench;
 import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import org.bukkit.Material;
 
 public final class DummyWorkbench {
@@ -22,3 +22,4 @@ public final class DummyWorkbench {
         throw new IllegalStateException("Utility class");
     }
 }
+

@@ -1,6 +1,6 @@
 package io.github.sefiraat.slimetinker.itemgroups;
 
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import org.bukkit.NamespacedKey;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
@@ -19,3 +19,4 @@ public class DummyItemGroup extends ItemGroup {
     }
 
 }
+

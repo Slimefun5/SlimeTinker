@@ -4,7 +4,7 @@ import io.github.sefiraat.slimetinker.items.Materials;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterial;
 import io.github.sefiraat.slimetinker.utils.Ids;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
-import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
+import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
@@ -20,7 +20,7 @@ public final class TinkersMaterialsCore {
 
     private static final Map<String, TinkerMaterial> CM_MAP = new HashMap<>();
 
-    private static final TinkerMaterial IRON = new TinkerMaterial(Ids.IRON, SlimefunItems.IRON_DUST, "#8c8c8c")
+    private static final TinkerMaterial IRON = new TinkerMaterial(Ids.IRON, SlimefunItems.IRON_DUST.item(), "#8c8c8c")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_IRON_HEAD)
         .setTraitToolRod(Traits.CORE_IRON_ROD)
@@ -37,7 +37,7 @@ public final class TinkersMaterialsCore {
         .setFormHelmet(Material.IRON_HELMET.toString())
         .build();
 
-    private static final TinkerMaterial GOLD = new TinkerMaterial(Ids.GOLD, SlimefunItems.GOLD_DUST, "#ffe138")
+    private static final TinkerMaterial GOLD = new TinkerMaterial(Ids.GOLD, SlimefunItems.GOLD_DUST.item(), "#ffe138")
         .setLiquidTexture(SkullTextures.ALLOY_RED)
         .setTraitToolHead(Traits.CORE_GOLD_HEAD)
         .setTraitToolRod(Traits.CORE_GOLD_ROD)
@@ -54,7 +54,7 @@ public final class TinkersMaterialsCore {
         .setFormHelmet(Material.GOLDEN_HELMET.toString())
         .build();
 
-    private static final TinkerMaterial COPPER = new TinkerMaterial(Ids.COPPER, SlimefunItems.COPPER_DUST, "#c99732")
+    private static final TinkerMaterial COPPER = new TinkerMaterial(Ids.COPPER, SlimefunItems.COPPER_DUST.item(), "#c99732")
         .setLiquidTexture(SkullTextures.ALLOY_BROWN)
         .setTraitToolHead(Traits.CORE_COPPER_HEAD)
         .setTraitToolRod(Traits.CORE_COPPER_ROD)
@@ -66,7 +66,7 @@ public final class TinkersMaterialsCore {
         .setFormDust(SlimefunItems.COPPER_DUST.getItemId())
         .build();
 
-    private static final TinkerMaterial LEAD = new TinkerMaterial(Ids.LEAD, SlimefunItems.LEAD_DUST, "#9043ba")
+    private static final TinkerMaterial LEAD = new TinkerMaterial(Ids.LEAD, SlimefunItems.LEAD_DUST.item(), "#9043ba")
         .setLiquidTexture(SkullTextures.ALLOY_PURPLE)
         .setTraitToolHead(Traits.CORE_LEAD_HEAD)
         .setTraitToolRod(Traits.CORE_LEAD_ROD)
@@ -78,7 +78,7 @@ public final class TinkersMaterialsCore {
         .setFormDust(SlimefunItems.LEAD_DUST.getItemId())
         .build();
 
-    private static final TinkerMaterial SILVER = new TinkerMaterial(Ids.SILVER, SlimefunItems.SILVER_DUST, "#d4d4d4")
+    private static final TinkerMaterial SILVER = new TinkerMaterial(Ids.SILVER, SlimefunItems.SILVER_DUST.item(), "#d4d4d4")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_SILVER_HEAD)
         .setTraitToolRod(Traits.CORE_SILVER_ROD)
@@ -90,7 +90,7 @@ public final class TinkersMaterialsCore {
         .setFormDust(SlimefunItems.SILVER_DUST.getItemId())
         .build();
 
-    private static final TinkerMaterial ALUMINUM = new TinkerMaterial(Ids.ALUMINUM, SlimefunItems.ALUMINUM_DUST, "#b0b0b0")
+    private static final TinkerMaterial ALUMINUM = new TinkerMaterial(Ids.ALUMINUM, SlimefunItems.ALUMINUM_DUST.item(), "#b0b0b0")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_ALUMINUM_HEAD)
         .setTraitToolRod(Traits.CORE_ALUMINUM_ROD)
@@ -102,7 +102,7 @@ public final class TinkersMaterialsCore {
         .setFormDust(SlimefunItems.ALUMINUM_DUST.getItemId())
         .build();
 
-    private static final TinkerMaterial TIN = new TinkerMaterial(Ids.TIN, SlimefunItems.TIN_DUST, "#a89b9b")
+    private static final TinkerMaterial TIN = new TinkerMaterial(Ids.TIN, SlimefunItems.TIN_DUST.item(), "#a89b9b")
         .setLiquidTexture(SkullTextures.ALLOY_BLUE_PALE)
         .setTraitToolHead(Traits.CORE_TIN_HEAD)
         .setTraitToolRod(Traits.CORE_TIN_ROD)
@@ -114,7 +114,7 @@ public final class TinkersMaterialsCore {
         .setFormDust(SlimefunItems.TIN_DUST.getItemId())
         .build();
 
-    private static final TinkerMaterial ZINC = new TinkerMaterial(Ids.ZINC, SlimefunItems.ZINC_DUST, "#9ba8a6")
+    private static final TinkerMaterial ZINC = new TinkerMaterial(Ids.ZINC, SlimefunItems.ZINC_DUST.item(), "#9ba8a6")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_ZINC_HEAD)
         .setTraitToolRod(Traits.CORE_ZINC_ROD)
@@ -126,7 +126,7 @@ public final class TinkersMaterialsCore {
         .setFormDust(SlimefunItems.ZINC_DUST.getItemId())
         .build();
 
-    private static final TinkerMaterial MAGNESIUM = new TinkerMaterial(Ids.MAGNESIUM, SlimefunItems.MAGNESIUM_DUST, "#e8cef5")
+    private static final TinkerMaterial MAGNESIUM = new TinkerMaterial(Ids.MAGNESIUM, SlimefunItems.MAGNESIUM_DUST.item(), "#e8cef5")
         .setLiquidTexture(SkullTextures.ALLOY_PINK)
         .setTraitToolHead(Traits.CORE_MAGNESIUM_HEAD)
         .setTraitToolRod(Traits.CORE_MAGNESIUM_ROD)
@@ -145,7 +145,7 @@ public final class TinkersMaterialsCore {
         .setFormBlock(Material.COAL_BLOCK.toString())
         .build();
 
-    private static final TinkerMaterial STEEL = new TinkerMaterial(Ids.STEEL, SlimefunItems.STEEL_INGOT, "#d1d1d1")
+    private static final TinkerMaterial STEEL = new TinkerMaterial(Ids.STEEL, SlimefunItems.STEEL_INGOT.item(), "#d1d1d1")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_STEEL_HEAD)
         .setTraitToolRod(Traits.CORE_STEEL_ROD)
@@ -160,7 +160,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial DAMASCUS_STEEL = new TinkerMaterial(Ids.DAMASCUS_STEEL, SlimefunItems.DAMASCUS_STEEL_INGOT, "#a38c8c")
+    private static final TinkerMaterial DAMASCUS_STEEL = new TinkerMaterial(Ids.DAMASCUS_STEEL, SlimefunItems.DAMASCUS_STEEL_INGOT.item(), "#a38c8c")
         .setLiquidTexture(SkullTextures.ALLOY_RED)
         .setTraitToolHead(Traits.CORE_DAMASCUS_STEEL_HEAD)
         .setTraitToolRod(Traits.CORE_DAMASCUS_STEEL_ROD)
@@ -176,7 +176,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial DURALUMIN = new TinkerMaterial(Ids.DURALUMIN, SlimefunItems.DURALUMIN_INGOT, "#a3a089")
+    private static final TinkerMaterial DURALUMIN = new TinkerMaterial(Ids.DURALUMIN, SlimefunItems.DURALUMIN_INGOT.item(), "#a3a089")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_DURALUMIN_HEAD)
         .setTraitToolRod(Traits.CORE_DURALUMIN_ROD)
@@ -191,7 +191,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial BRONZE = new TinkerMaterial(Ids.BRONZE, SlimefunItems.BRONZE_INGOT, "#877435")
+    private static final TinkerMaterial BRONZE = new TinkerMaterial(Ids.BRONZE, SlimefunItems.BRONZE_INGOT.item(), "#877435")
         .setLiquidTexture(SkullTextures.ALLOY_BROWN)
         .setTraitToolHead(Traits.CORE_BRONZE_HEAD)
         .setTraitToolRod(Traits.CORE_BRONZE_ROD)
@@ -206,7 +206,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial ALUMINUM_BRONZE = new TinkerMaterial(Ids.ALUMINUM_BRONZE, SlimefunItems.ALUMINUM_BRONZE_INGOT, "#bdaa6d")
+    private static final TinkerMaterial ALUMINUM_BRONZE = new TinkerMaterial(Ids.ALUMINUM_BRONZE, SlimefunItems.ALUMINUM_BRONZE_INGOT.item(), "#bdaa6d")
         .setLiquidTexture(SkullTextures.ALLOY_TAN)
         .setTraitToolHead(Traits.CORE_ALUMINUM_BRONZE_HEAD)
         .setTraitToolRod(Traits.CORE_ALUMINUM_BRONZE_ROD)
@@ -221,7 +221,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial HARDENED_METAL = new TinkerMaterial(Ids.HARDENED_METAL, SlimefunItems.HARDENED_METAL_INGOT, "#29251a")
+    private static final TinkerMaterial HARDENED_METAL = new TinkerMaterial(Ids.HARDENED_METAL, SlimefunItems.HARDENED_METAL_INGOT.item(), "#29251a")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_HARDENED_METAL_HEAD)
         .setTraitToolRod(Traits.CORE_HARDENED_METAL_ROD)
@@ -238,7 +238,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial CORINTHIAN_BRONZE = new TinkerMaterial(Ids.CORINTHIAN_BRONZE, SlimefunItems.CORINTHIAN_BRONZE_INGOT, "#8a6500")
+    private static final TinkerMaterial CORINTHIAN_BRONZE = new TinkerMaterial(Ids.CORINTHIAN_BRONZE, SlimefunItems.CORINTHIAN_BRONZE_INGOT.item(), "#8a6500")
         .setLiquidTexture(SkullTextures.ALLOY_BROWN)
         .setTraitToolHead(Traits.CORE_CORINTHIAN_BRONZE_HEAD)
         .setTraitToolRod(Traits.CORE_CORINTHIAN_BRONZE_ROD)
@@ -255,7 +255,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial SOLDER = new TinkerMaterial(Ids.SOLDER, SlimefunItems.SOLDER_INGOT, "#b7afbd")
+    private static final TinkerMaterial SOLDER = new TinkerMaterial(Ids.SOLDER, SlimefunItems.SOLDER_INGOT.item(), "#b7afbd")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_SOLDER_HEAD)
         .setTraitToolRod(Traits.CORE_SOLDER_ROD)
@@ -270,7 +270,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial BILLON = new TinkerMaterial(Ids.BILLON, SlimefunItems.BILLON_INGOT, "#b0c2be")
+    private static final TinkerMaterial BILLON = new TinkerMaterial(Ids.BILLON, SlimefunItems.BILLON_INGOT.item(), "#b0c2be")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_BILLON_HEAD)
         .setTraitToolRod(Traits.CORE_BILLON_ROD)
@@ -285,7 +285,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial BRASS = new TinkerMaterial(Ids.BRASS, SlimefunItems.BRASS_INGOT, "#dbcd4b")
+    private static final TinkerMaterial BRASS = new TinkerMaterial(Ids.BRASS, SlimefunItems.BRASS_INGOT.item(), "#dbcd4b")
         .setLiquidTexture(SkullTextures.ALLOY_TAN)
         .setTraitToolHead(Traits.CORE_BRASS_HEAD)
         .setTraitToolRod(Traits.CORE_BRASS_ROD)
@@ -300,7 +300,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial ALUMINUM_BRASS = new TinkerMaterial(Ids.ALUMINUM_BRASS, SlimefunItems.ALUMINUM_BRASS_INGOT, "#dbd279")
+    private static final TinkerMaterial ALUMINUM_BRASS = new TinkerMaterial(Ids.ALUMINUM_BRASS, SlimefunItems.ALUMINUM_BRASS_INGOT.item(), "#dbd279")
         .setLiquidTexture(SkullTextures.ALLOY_BROWN)
         .setTraitToolHead(Traits.CORE_ALUMINUM_BRASS_HEAD)
         .setTraitToolRod(Traits.CORE_ALUMINUM_BRASS_ROD)
@@ -315,7 +315,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial NICKEL = new TinkerMaterial(Ids.NICKEL, SlimefunItems.NICKEL_INGOT, "#ebebeb")
+    private static final TinkerMaterial NICKEL = new TinkerMaterial(Ids.NICKEL, SlimefunItems.NICKEL_INGOT.item(), "#ebebeb")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_NICKEL_HEAD)
         .setTraitToolRod(Traits.CORE_NICKEL_ROD)
@@ -330,7 +330,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial COBALT = new TinkerMaterial(Ids.COBALT, SlimefunItems.COBALT_INGOT, "#9e9e9e")
+    private static final TinkerMaterial COBALT = new TinkerMaterial(Ids.COBALT, SlimefunItems.COBALT_INGOT.item(), "#9e9e9e")
         .setLiquidTexture(SkullTextures.ALLOY_BLUE)
         .setTraitToolHead(Traits.CORE_COBALT_HEAD)
         .setTraitToolRod(Traits.CORE_COBALT_ROD)
@@ -346,7 +346,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial REINFORCED_ALLOY = new TinkerMaterial(Ids.REINFORCED_ALLOY, SlimefunItems.REINFORCED_ALLOY_INGOT, "#465899")
+    private static final TinkerMaterial REINFORCED_ALLOY = new TinkerMaterial(Ids.REINFORCED_ALLOY, SlimefunItems.REINFORCED_ALLOY_INGOT.item(), "#465899")
         .setLiquidTexture(SkullTextures.ALLOY_PURPLE)
         .setTraitToolHead(Traits.CORE_REINFORCED_ALLOY_HEAD)
         .setTraitToolRod(Traits.CORE_REINFORCED_ALLOY_ROD)
@@ -408,7 +408,7 @@ public final class TinkersMaterialsCore {
         .setFormGem(Material.REDSTONE.toString())
         .build();
 
-    private static final TinkerMaterial SILICON = new TinkerMaterial(Ids.SILICON, SlimefunItems.SILICON, "#f2f2f2")
+    private static final TinkerMaterial SILICON = new TinkerMaterial(Ids.SILICON, SlimefunItems.SILICON.item(), "#f2f2f2")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolBinder(Traits.CORE_SILICON_BINDER)
         .setTraitArmorGambeson(Traits.CORE_SILICON_GAMBESON)
@@ -423,7 +423,7 @@ public final class TinkersMaterialsCore {
         .setTraitArmorGambeson(Traits.CORE_LEATHER_GAMBESON)
         .build();
 
-    private static final TinkerMaterial FERROSILICON = new TinkerMaterial(Ids.FERROSILICON, SlimefunItems.FERROSILICON, "#f2f2f2")
+    private static final TinkerMaterial FERROSILICON = new TinkerMaterial(Ids.FERROSILICON, SlimefunItems.FERROSILICON.item(), "#f2f2f2")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolHead(Traits.CORE_FERROSILICON_HEAD)
         .setTraitArmorPlates(Traits.CORE_FERROSILICON_PLATES)
@@ -437,7 +437,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial REDSTONE_ALLOY = new TinkerMaterial(Ids.REDSTONE_ALLOY, SlimefunItems.REDSTONE_ALLOY, "#700d21")
+    private static final TinkerMaterial REDSTONE_ALLOY = new TinkerMaterial(Ids.REDSTONE_ALLOY, SlimefunItems.REDSTONE_ALLOY.item(), "#700d21")
         .setLiquidTexture(SkullTextures.ALLOY_RED)
         .setTraitToolRod(Traits.CORE_REDSTONE_ALLOY_ROD)
         .setTraitArmorPlates(Traits.CORE_REDSTONE_ALLOY_PLATES)
@@ -464,7 +464,7 @@ public final class TinkersMaterialsCore {
         .setFormGem(Material.DRAGON_BREATH.toString())
         .build();
 
-    private static final TinkerMaterial BOOMERITE = new TinkerMaterial(Ids.BOOMERITE, Materials.INGOT_CAST_BOOMERITE, "#d94c00")
+    private static final TinkerMaterial BOOMERITE = new TinkerMaterial(Ids.BOOMERITE, Materials.INGOT_CAST_BOOMERITE.item(), "#d94c00")
         .setLiquidTexture(SkullTextures.ALLOY_PURPLE)
         .setTraitToolHead(Traits.CORE_BOOMERITE_HEAD)
         .setTraitArmorPlates(Traits.CORE_BOOMERITE_PLATES)
@@ -479,7 +479,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial SEFIRITE = new TinkerMaterial(Ids.SEFIRITE, Materials.INGOT_CAST_SEFIRITE, "#9beb34")
+    private static final TinkerMaterial SEFIRITE = new TinkerMaterial(Ids.SEFIRITE, Materials.INGOT_CAST_SEFIRITE.item(), "#9beb34")
         .setLiquidTexture(SkullTextures.ALLOY_GREEN)
         .setTraitArmorPlates(Traits.CORE_SEFIRITE_PLATES)
         .setFormNugget(Materials.NUGGET_CAST_SEFIRITE.getItemId())
@@ -487,12 +487,12 @@ public final class TinkersMaterialsCore {
         .setFormBlock(Materials.BLOCK_CAST_SEFIRITE.getItemId())
         .build();
 
-    private static final TinkerMaterial LIQUID_CHRISTMAS = new TinkerMaterial(Ids.LIQUID_CHRISTMAS, SlimefunItems.CHRISTMAS_PRESENT, "#00cc36")
+    private static final TinkerMaterial LIQUID_CHRISTMAS = new TinkerMaterial(Ids.LIQUID_CHRISTMAS, SlimefunItems.CHRISTMAS_PRESENT.item(), "#00cc36")
         .setLiquidTexture(SkullTextures.ALLOY_GREEN)
         .setFormIngot(SlimefunItems.CHRISTMAS_PRESENT.getItemId())
         .build();
 
-    private static final TinkerMaterial CRINGLEIUM = new TinkerMaterial(Ids.CRINGLEIUM, Materials.INGOT_CAST_CRINGLEIUM, "#00cc36")
+    private static final TinkerMaterial CRINGLEIUM = new TinkerMaterial(Ids.CRINGLEIUM, Materials.INGOT_CAST_CRINGLEIUM.item(), "#00cc36")
         .setLiquidTexture(SkullTextures.ALLOY_GREEN)
         .setTraitArmorLinks(Traits.CORE_CRINGLEIUM_LINKS)
         .setFormNugget(Materials.NUGGET_CAST_CRINGLEIUM.getItemId())
@@ -505,28 +505,28 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial FLOWING_FONDNESS = new TinkerMaterial(Ids.FLOWING_FONDNESS, SlimefunItems.RAINBOW_GLASS_VALENTINE, "#eb34d2")
+    private static final TinkerMaterial FLOWING_FONDNESS = new TinkerMaterial(Ids.FLOWING_FONDNESS, SlimefunItems.RAINBOW_GLASS_VALENTINE.item(), "#eb34d2")
         .setLiquidTexture(SkullTextures.ALLOY_PINK)
         .setFormNugget(Materials.NUGGET_CAST_FONDNESS.getItemId())
         .setFormIngot(Materials.INGOT_CAST_FONDNESS.getItemId())
         .setFormBlock(SlimefunItems.RAINBOW_GLASS_VALENTINE.getItemId())
         .build();
 
-    private static final TinkerMaterial DETAILED_DEVOTION = new TinkerMaterial(Ids.DETAILED_DEVOTION, SlimefunItems.RAINBOW_CONCRETE_VALENTINE, "#e68cd9")
+    private static final TinkerMaterial DETAILED_DEVOTION = new TinkerMaterial(Ids.DETAILED_DEVOTION, SlimefunItems.RAINBOW_CONCRETE_VALENTINE.item(), "#e68cd9")
         .setLiquidTexture(SkullTextures.ALLOY_PINK)
         .setFormNugget(Materials.NUGGET_CAST_DEVOTION.getItemId())
         .setFormIngot(Materials.INGOT_CAST_DEVOTION.getItemId())
         .setFormBlock(SlimefunItems.RAINBOW_CONCRETE_VALENTINE.getItemId())
         .build();
 
-    private static final TinkerMaterial PURIFIED_PASSION = new TinkerMaterial(Ids.PURIFIED_PASSION, SlimefunItems.RAINBOW_GLAZED_TERRACOTTA_VALENTINE, "#471240")
+    private static final TinkerMaterial PURIFIED_PASSION = new TinkerMaterial(Ids.PURIFIED_PASSION, SlimefunItems.RAINBOW_GLAZED_TERRACOTTA_VALENTINE.item(), "#471240")
         .setLiquidTexture(SkullTextures.ALLOY_PINK)
         .setFormNugget(Materials.NUGGET_CAST_PASSION.getItemId())
         .setFormIngot(Materials.INGOT_CAST_PASSION.getItemId())
         .setFormBlock(SlimefunItems.RAINBOW_GLAZED_TERRACOTTA_VALENTINE.getItemId())
         .build();
 
-    private static final TinkerMaterial LIQUID_LOVE = new TinkerMaterial(Ids.LIQUID_LOVE, Materials.INGOT_CAST_LOVE, "#eb34d2")
+    private static final TinkerMaterial LIQUID_LOVE = new TinkerMaterial(Ids.LIQUID_LOVE, Materials.INGOT_CAST_LOVE.item(), "#eb34d2")
         .setLiquidTexture(SkullTextures.ALLOY_PINK)
         .setFormNugget(Materials.NUGGET_CAST_LOVE.getItemId())
         .setFormIngot(Materials.INGOT_CAST_LOVE.getItemId())
@@ -539,7 +539,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial NICEINIUM = new TinkerMaterial(Ids.NICEINIUM, Materials.INGOT_CAST_NICE, "#80550d")
+    private static final TinkerMaterial NICEINIUM = new TinkerMaterial(Ids.NICEINIUM, Materials.INGOT_CAST_NICE.item(), "#80550d")
         .setLiquidTexture(SkullTextures.ALLOY_TAN)
         .setFormNugget(Materials.NUGGET_CAST_NICE.getItemId())
         .setFormIngot(Materials.INGOT_CAST_NICE.getItemId())
@@ -553,7 +553,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial SMITHIUM = new TinkerMaterial(Ids.SMITHIUM, Materials.INGOT_CAST_SMITHIUM, "#6E7F80")
+    private static final TinkerMaterial SMITHIUM = new TinkerMaterial(Ids.SMITHIUM, Materials.INGOT_CAST_SMITHIUM.item(), "#6E7F80")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setFormNugget(Materials.NUGGET_CAST_SMITHIUM.getItemId())
         .setFormIngot(Materials.INGOT_CAST_SMITHIUM.getItemId())
@@ -569,7 +569,7 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial ANNIVERSARIUM = new TinkerMaterial(Ids.ANNIVERSARIUM, Materials.INGOT_CAST_ANNIVERSARIUM, "#32b41e")
+    private static final TinkerMaterial ANNIVERSARIUM = new TinkerMaterial(Ids.ANNIVERSARIUM, Materials.INGOT_CAST_ANNIVERSARIUM.item(), "#32b41e")
         .setLiquidTexture(SkullTextures.ALLOY_RED)
         .setFormNugget(Materials.NUGGET_CAST_ANNIVERSARIUM.getItemId())
         .setFormIngot(Materials.INGOT_CAST_ANNIVERSARIUM.getItemId())
@@ -639,3 +639,8 @@ public final class TinkersMaterialsCore {
         return CM_MAP;
     }
 }
+
+
+
+
+

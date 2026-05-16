@@ -1,7 +1,7 @@
 package io.github.sefiraat.slimetinker.items;
 
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.core.attributes.NotPlaceable;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.core.attributes.NotPlaceable;
 import org.bukkit.Material;
 
 import javax.annotation.Nonnull;
@@ -27,3 +27,4 @@ public class BaseItem extends SlimefunItemStack implements NotPlaceable {
     }
 
 }
+

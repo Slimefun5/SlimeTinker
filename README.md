@@ -2,7 +2,7 @@
 <img width="800" src="https://github.com/Sefiraat/SlimeTinker/blob/master/images/logo/logo.svg"><br><br>
 </p>
 
-SlimeTinker is a Slimefun4 addon that tries it's best to recreate the amazing Tinker's Construct
+SlimeTinker is a Slimefun5 addon that tries it's best to recreate the amazing Tinker's Construct
 Mod ([link](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)) in Vanilla Minecraft.
 
 ## Download SlimeTinker

@@ -103,8 +103,8 @@ public class DurabilityListener implements Listener {
     private void modChecks(ItemStack damagedItem, PlayerItemDamageEvent event) {
         Map<String, Integer> modLevels = Modifications.getAllModLevels(damagedItem);
 
-        if (modLevels.containsKey(StackUtils.getIdOrType(Materials.MOD_PLATE))) { // PLATE
-            modCheckPlate(damagedItem, modLevels.get(StackUtils.getIdOrType(Materials.MOD_PLATE)), event);
+        if (modLevels.containsKey(StackUtils.getIdOrType(Materials.MOD_PLATE.item()))) { // PLATE
+            modCheckPlate(damagedItem, modLevels.get(StackUtils.getIdOrType(Materials.MOD_PLATE.item())), event);
         }
     }
 
@@ -118,3 +118,4 @@ public class DurabilityListener implements Listener {
         }
     }
 }
+

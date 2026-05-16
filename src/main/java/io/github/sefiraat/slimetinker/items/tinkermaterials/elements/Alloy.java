@@ -7,8 +7,8 @@ import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterial;
 import io.github.sefiraat.slimetinker.items.workstations.smeltery.DummySmelteryAlloy;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -36,8 +36,12 @@ public class Alloy {
                 "Molten " + titName,
                 ThemeUtils.PASSIVE + "A molten alloy metal of " + titName
             );
-        SlimefunItemStack[] alloyRecipe = parent.getAlloyRecipe();
-        Preconditions.checkNotNull(alloyRecipe, "Alloy recipe is null. SefiDumb™");
+        SlimefunItemStack[] sfAlloyRecipe = parent.getAlloyRecipe();
+        Preconditions.checkNotNull(sfAlloyRecipe, "Alloy recipe is null.");
+        org.bukkit.inventory.ItemStack[] alloyRecipe = new org.bukkit.inventory.ItemStack[sfAlloyRecipe.length];
+        for (int i = 0; i < sfAlloyRecipe.length; i++) {
+         alloyRecipe[i] = sfAlloyRecipe[i] != null ? sfAlloyRecipe[i].item() : null;
+        }
         this.item = new SlimefunItem(ItemGroups.ALLOYS, itemStack, DummySmelteryAlloy.TYPE, alloyRecipe);
         item.register(SlimeTinker.getInstance());
         for (SlimefunItemStack i : parent.getAlloyRecipe()) {
@@ -65,3 +69,8 @@ public class Alloy {
         return item;
     }
 }
+
+
+
+
+

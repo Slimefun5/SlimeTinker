@@ -11,8 +11,8 @@ import io.github.sefiraat.slimetinker.managers.SupportedPluginsManager;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import org.bukkit.inventory.ItemStack;
 
 import javax.annotation.Nonnull;
@@ -218,8 +218,10 @@ public class MaterialTrait {
     protected static ItemStack[] propRecipe(SlimefunItemStack part, ItemStack stack) {
         return new ItemStack[]{
             null, null, null,
-            part, null, stack,
+            part.item(), null, stack,
             null, null, null
         };
     }
 }
+
+

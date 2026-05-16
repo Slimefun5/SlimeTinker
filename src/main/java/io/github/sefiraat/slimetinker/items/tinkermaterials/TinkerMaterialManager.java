@@ -320,22 +320,22 @@ public class TinkerMaterialManager {
     }
 
     private void fillDieMetals() {
-        MAP_DIE_NUGGET.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_NUGGET);
-        MAP_DIE_INGOT.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_INGOT);
-        MAP_DIE_BLOCK.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_BLOCK);
-        MAP_DIE_GEM.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_GEM);
-        MAP_DIE_REPAIRKIT.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_REPAIRKIT);
-        MAP_DIE_SHOVELHEAD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_SHOVELHEAD);
-        MAP_DIE_PICKAXEHEAD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_PICKAXEHEAD);
-        MAP_DIE_AXEHEAD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_AXEHEAD);
-        MAP_DIE_HOEHEAD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_HOEHEAD);
-        MAP_DIE_SWORDBLADE.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_SWORDBLADE);
-        MAP_DIE_TOOLROD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_TOOLROD);
-        MAP_DIE_ARMOUR_PLATES_HELM.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_HELM_PLATE);
-        MAP_DIE_ARMOUR_PLATES_CHEST.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_CHEST_PLATE);
-        MAP_DIE_ARMOUR_PLATES_LEGGINGS.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_LEG_PLATE);
-        MAP_DIE_ARMOUR_PLATES_BOOTS.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_BOOT_PLATE);
-        MAP_DIE_ARMOUR_MAIL.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_MAIL_LINK);
+        MAP_DIE_NUGGET.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_NUGGET.item());
+        MAP_DIE_INGOT.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_INGOT.item());
+        MAP_DIE_BLOCK.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_BLOCK.item());
+        MAP_DIE_GEM.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_GEM.item());
+        MAP_DIE_REPAIRKIT.put(TinkerMaterialManager.getById(Ids.GOLD), Casts.CAST_REPAIRKIT.item());
+        MAP_DIE_SHOVELHEAD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_SHOVELHEAD.item());
+        MAP_DIE_PICKAXEHEAD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_PICKAXEHEAD.item());
+        MAP_DIE_AXEHEAD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_AXEHEAD.item());
+        MAP_DIE_HOEHEAD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_HOEHEAD.item());
+        MAP_DIE_SWORDBLADE.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_SWORDBLADE.item());
+        MAP_DIE_TOOLROD.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_TOOLROD.item());
+        MAP_DIE_ARMOUR_PLATES_HELM.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_HELM_PLATE.item());
+        MAP_DIE_ARMOUR_PLATES_CHEST.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_CHEST_PLATE.item());
+        MAP_DIE_ARMOUR_PLATES_LEGGINGS.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_LEG_PLATE.item());
+        MAP_DIE_ARMOUR_PLATES_BOOTS.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_BOOT_PLATE.item());
+        MAP_DIE_ARMOUR_MAIL.put(TinkerMaterialManager.getById(Ids.BRASS), Casts.CAST_MAIL_LINK.item());
     }
 
     private void fillCastingDies() {
@@ -524,3 +524,4 @@ public class TinkerMaterialManager {
         return MAP;
     }
 }
+

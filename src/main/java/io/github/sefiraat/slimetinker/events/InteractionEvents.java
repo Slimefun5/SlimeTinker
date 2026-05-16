@@ -15,12 +15,12 @@ import io.github.sefiraat.slimetinker.utils.GeneralUtils;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import io.github.thebusybiscuit.slimefun4.api.MinecraftVersion;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.core.attributes.Rechargeable;
-import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.data.persistent.PersistentDataAPI;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.protection.Interaction;
+import io.github.thebusybiscuit.slimefun5.api.MinecraftVersion;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.core.attributes.Rechargeable;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.protection.Interaction;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.Effect;
 import org.bukkit.Location;
@@ -117,7 +117,7 @@ public final class InteractionEvents {
                 && Slimefun.getProtectionManager().hasPermission(p, location, Interaction.PLACE_BLOCK)
             ) {
                 p.teleport(location);
-                p.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.ENDEREYE_LAUNCH, 10);
+                p.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.TRIAL_SPAWNER_DETECT_PLAYER, 10);
                 ItemUtils.setCooldown(i, "NOCLIP", 300000);
             } else {
                 p.sendMessage(ThemeUtils.WARNING + "Couldn't teleport! Try again.");
@@ -293,3 +293,4 @@ public final class InteractionEvents {
         }
     }
 }
+

@@ -1,7 +1,7 @@
 package io.github.sefiraat.slimetinker.config;
 
 import io.github.sefiraat.slimetinker.SlimeTinker;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.config.Config;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.config.Config;
 
 import java.io.File;
 import java.io.IOException;
@@ -31,3 +31,4 @@ public class ConfigManager {
         return this.config;
     }
 }
+

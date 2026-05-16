@@ -9,8 +9,8 @@ import io.github.sefiraat.slimetinker.utils.Experience;
 import io.github.sefiraat.slimetinker.utils.Ids;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import org.bukkit.Color;
 import org.bukkit.Location;
 import org.bukkit.Material;
@@ -175,7 +175,7 @@ public class BlockBreakListener implements Listener {
 
         int lapisLevel = modLevels.get(Material.LAPIS_LAZULI.toString());
         ItemStack dummyFortune = new ItemStack(Material.DIAMOND_PICKAXE);
-        dummyFortune.addEnchantment(Enchantment.LOOT_BONUS_BLOCKS, 3);
+        dummyFortune.addEnchantment(Enchantment.FORTUNE, 3);
 
         List<Material> materialList = new ArrayList<>();
 
@@ -196,7 +196,7 @@ public class BlockBreakListener implements Listener {
                     addDrops.add(additionalDrop);
                     Location location = block.getLocation().clone().add(0.5, 0.5, 0.5);
                     Particle.DustOptions dustOptions = new Particle.DustOptions(Color.BLUE, 2);
-                    block.getWorld().spawnParticle(Particle.REDSTONE, location, 10, 0.2, 0.2, 0.2, 0.5, dustOptions);
+                    block.getWorld().spawnParticle(Particle.DUST, location, 10, 0.2, 0.2, 0.2, 0.5, dustOptions);
                 }
             }
         }
@@ -209,3 +209,4 @@ public class BlockBreakListener implements Listener {
     }
 
 }
+

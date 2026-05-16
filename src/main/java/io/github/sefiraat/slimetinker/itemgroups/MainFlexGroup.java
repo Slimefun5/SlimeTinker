@@ -1,14 +1,14 @@
 package io.github.sefiraat.slimetinker.itemgroups;
 
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.groups.FlexItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.player.PlayerProfile;
-import io.github.thebusybiscuit.slimefun4.core.guide.SlimefunGuide;
-import io.github.thebusybiscuit.slimefun4.core.guide.SlimefunGuideMode;
-import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.utils.ChestMenuUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.groups.FlexItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.player.PlayerProfile;
+import io.github.thebusybiscuit.slimefun5.core.guide.SlimefunGuide;
+import io.github.thebusybiscuit.slimefun5.core.guide.SlimefunGuideMode;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ChestMenu;
 import net.md_5.bungee.api.ChatColor;
 import net.md_5.bungee.api.chat.ClickEvent;
@@ -22,15 +22,13 @@ import javax.annotation.ParametersAreNonnullByDefault;
 
 public class MainFlexGroup extends FlexItemGroup {
 
-    private static final ItemStack DOCS_ITEM_STACK = new CustomItemStack(
-        Material.BOOK,
-        ThemeUtils.GUIDE + "Documentation Wiki",
+    private static final ItemStack DOCS_ITEM_STACK = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", Material.BOOK, ThemeUtils.GUIDE + "Documentation Wiki",
         ThemeUtils.PASSIVE + "Click to get the link to the",
         ThemeUtils.PASSIVE + "documentation Wiki for SlimeTinker",
         ThemeUtils.PASSIVE + "and other Sefiraat addons.",
         "",
         ThemeUtils.CLICK_INFO + "Guide"
-    );
+    ).item();
 
     private static final int GUIDE_BACK = 1;
     private static final int DOCS = 9;
@@ -185,3 +183,4 @@ public class MainFlexGroup extends FlexItemGroup {
         return false;
     }
 }
+

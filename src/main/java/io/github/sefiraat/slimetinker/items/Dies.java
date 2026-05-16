@@ -6,8 +6,8 @@ import io.github.sefiraat.slimetinker.items.workstations.workbench.Workbench;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.implementation.items.blocks.UnplaceableBlock;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
@@ -166,7 +166,7 @@ public final class Dies {
     };
     protected static final ItemStack[] RECIPE_DIE_MAIL_LINKS = new ItemStack[]{
         null, null, null,
-        null, new ItemStack(Material.CHAIN), null,
+        null, new ItemStack(Material.IRON_NUGGET), null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_DIE_REPAIR_KIT = new ItemStack[]{
@@ -190,3 +190,6 @@ public final class Dies {
         new UnplaceableBlock(ItemGroups.CASTS, DIE_MAIL_LINK, Workbench.TYPE, RECIPE_DIE_MAIL_LINKS).register(p);
     }
 }
+
+
+

@@ -8,7 +8,7 @@
     <version>MODIFIED</version>
 
     <name>SlimeTinker</name>
-    <description>Slimefun4 Addon SlimeTinker</description>
+    <description>Slimefun5 Addon SlimeTinker</description>
     <url>https://github.com/Sefiraat/SlimeTinker</url>
 
     <licenses>
@@ -243,7 +243,7 @@
         </dependency>
         <dependency>
             <groupId>com.github.Slimefun</groupId>
-            <artifactId>Slimefun4</artifactId>
+            <artifactId>Slimefun5</artifactId>
             <version>d25f22439e</version>
             <scope>provided</scope>
         </dependency>

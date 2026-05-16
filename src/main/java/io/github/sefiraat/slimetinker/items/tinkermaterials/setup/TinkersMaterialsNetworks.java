@@ -3,7 +3,7 @@ package io.github.sefiraat.slimetinker.items.tinkermaterials.setup;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterial;
 import io.github.sefiraat.slimetinker.utils.Ids;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -46,3 +46,4 @@ public final class TinkersMaterialsNetworks {
         return CM_MAP;
     }
 }
+

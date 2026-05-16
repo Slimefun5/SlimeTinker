@@ -10,7 +10,7 @@ import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.WorldUtils;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
 import org.bukkit.Color;
 import org.bukkit.Effect;
 import org.bukkit.Location;
@@ -130,11 +130,11 @@ public final class PlayerDamagedEvents {
                 p.setHealth(1);
                 friend.setDamageMod(0);
                 Particle.DustOptions dustOptions = new Particle.DustOptions(Color.fromRGB(20, 20, 20), 2);
-                p.getWorld().spawnParticle(Particle.REDSTONE, p.getLocation(), 30, 3, 3, 3, 1, dustOptions);
+                p.getWorld().spawnParticle(Particle.DUST, p.getLocation(), 30, 3, 3, 3, 1, dustOptions);
                 Particle.DustOptions dustOptions2 = new Particle.DustOptions(Color.fromRGB(1, 1, 1), 2);
-                p.getWorld().spawnParticle(Particle.REDSTONE, p.getLocation(), 30, 3, 3, 3, 1, dustOptions2);
+                p.getWorld().spawnParticle(Particle.DUST, p.getLocation(), 30, 3, 3, 3, 1, dustOptions2);
                 Particle.DustOptions dustOptions3 = new Particle.DustOptions(Color.fromRGB(40, 40, 40), 2);
-                p.getWorld().spawnParticle(Particle.REDSTONE, p.getLocation(), 30, 3, 3, 3, 1, dustOptions3);
+                p.getWorld().spawnParticle(Particle.DUST, p.getLocation(), 30, 3, 3, 3, 1, dustOptions3);
                 p.sendMessage(ThemeUtils.WARNING + "Protective has saved you from death. It's now on cooldown - take care!");
                 ItemUtils.setCooldown(i, "PROTECTIVE", 1200000);
             } else {
@@ -226,7 +226,7 @@ public final class PlayerDamagedEvents {
 
     public static void linksAluBronze(EventFriend friend) {
         Player p = friend.getPlayer();
-        if (p.getHealth() <= (p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue() / 2)) {
+        if (p.getHealth() <= (p.getAttribute(Attribute.MAX_HEALTH).getValue() / 2)) {
             p.addPotionEffect(new PotionEffect(PotionEffectType.LEVITATION, 100, 2));
         }
     }
@@ -241,7 +241,7 @@ public final class PlayerDamagedEvents {
             Location location = p.getLocation().clone().add(rndX, rndY, rndZ);
             if (p.getWorld().getBlockAt(location).getType() == Material.AIR) {
                 p.teleport(location);
-                p.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.ENDEREYE_LAUNCH, 10);
+                p.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.TRIAL_SPAWNER_DETECT_PLAYER, 10);
             }
         }
     }
@@ -265,7 +265,7 @@ public final class PlayerDamagedEvents {
 
     public static void linksBrass(EventFriend friend) {
         Player p = friend.getPlayer();
-        if (p.getHealth() <= (p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue() / 2)) {
+        if (p.getHealth() <= (p.getAttribute(Attribute.MAX_HEALTH).getValue() / 2)) {
             p.addPotionEffect(new PotionEffect(PotionEffectType.SPEED, 100, 2));
         }
     }
@@ -330,7 +330,7 @@ public final class PlayerDamagedEvents {
         if (friend.getCause() == EntityDamageEvent.DamageCause.CONTACT) {
             Player p = friend.getPlayer();
             friend.setDamageMod(0);
-            p.setHealth(Math.min(p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue(), p.getHealth() + friend.getInitialDamage()));
+            p.setHealth(Math.min(p.getAttribute(Attribute.MAX_HEALTH).getValue(), p.getHealth() + friend.getInitialDamage()));
         }
     }
 
@@ -393,7 +393,7 @@ public final class PlayerDamagedEvents {
             friend.setCancelEvent(true);
             LivingEntity l = (LivingEntity) friend.getDamagingEntity();
             l.addPotionEffect(new PotionEffect(PotionEffectType.BLINDNESS, 100, 1));
-            l.getWorld().spawnParticle(Particle.FIREWORKS_SPARK, l.getLocation(), 3, 0.2, 0.2, 0.2);
+            l.getWorld().spawnParticle(Particle.FIREWORK, l.getLocation(), 3, 0.2, 0.2, 0.2);
             l.damage(friend.getInitialDamage(), friend.getPlayer());
         }
     }
@@ -415,43 +415,43 @@ public final class PlayerDamagedEvents {
             int roll = GeneralUtils.roll(100);
             ItemStack i;
             if (roll < 5) {
-                i = Materials.NUGGET_CAST_ADAMANTITE.clone();
+                i = Materials.NUGGET_CAST_ADAMANTITE.item();
             } else if (roll < 10) {
-                i = Materials.NUGGET_CAST_TITANIUM.clone();
+                i = Materials.NUGGET_CAST_TITANIUM.item();
             } else if (roll < 15) {
-                i = Materials.NUGGET_CAST_MYTHRIL.clone();
+                i = Materials.NUGGET_CAST_MYTHRIL.item();
             } else if (roll < 20) {
-                i = Materials.NUGGET_CAST_MAGNONIUM.clone();
+                i = Materials.NUGGET_CAST_MAGNONIUM.item();
             } else if (roll < 25) {
-                i = Materials.NUGGET_CAST_MAGSTEEL.clone();
+                i = Materials.NUGGET_CAST_MAGSTEEL.item();
             } else if (roll < 30) {
-                i = Materials.NUGGET_CAST_REINFORCED.clone();
+                i = Materials.NUGGET_CAST_REINFORCED.item();
             } else if (roll < 35) {
-                i = Materials.NUGGET_CAST_REDSTONE_ALLOY.clone();
+                i = Materials.NUGGET_CAST_REDSTONE_ALLOY.item();
             } else if (roll < 40) {
-                i = Materials.NUGGET_CAST_ALU_BRASS.clone();
+                i = Materials.NUGGET_CAST_ALU_BRASS.item();
             } else if (roll < 50) {
-                i = Materials.NUGGET_CAST_COR_BRONZE.clone();
+                i = Materials.NUGGET_CAST_COR_BRONZE.item();
             } else if (roll < 55) {
-                i = Materials.NUGGET_CAST_HARD_METAL.clone();
+                i = Materials.NUGGET_CAST_HARD_METAL.item();
             } else if (roll < 60) {
-                i = Materials.NUGGET_CAST_ALU_BRONZE.clone();
+                i = Materials.NUGGET_CAST_ALU_BRONZE.item();
             } else if (roll < 65) {
-                i = Materials.NUGGET_CAST_DAMASCUS_STEEL.clone();
+                i = Materials.NUGGET_CAST_DAMASCUS_STEEL.item();
             } else if (roll < 70) {
-                i = Materials.NUGGET_CAST_COBALT.clone();
+                i = Materials.NUGGET_CAST_COBALT.item();
             } else if (roll < 75) {
-                i = Materials.NUGGET_CAST_NICKEL.clone();
+                i = Materials.NUGGET_CAST_NICKEL.item();
             } else if (roll < 80) {
-                i = Materials.NUGGET_CAST_BILLON.clone();
+                i = Materials.NUGGET_CAST_BILLON.item();
             } else if (roll < 85) {
-                i = Materials.NUGGET_CAST_SOLDER.clone();
+                i = Materials.NUGGET_CAST_SOLDER.item();
             } else if (roll < 90) {
-                i = Materials.NUGGET_CAST_DURALIUM.clone();
+                i = Materials.NUGGET_CAST_DURALIUM.item();
             } else if (roll < 95) {
-                i = Materials.NUGGET_CAST_STEEL.clone();
+                i = Materials.NUGGET_CAST_STEEL.item();
             } else {
-                i = Materials.NUGGET_CAST_COAL.clone();
+                i = Materials.NUGGET_CAST_COAL.item();
             }
             WorldUtils.dropItem(i, friend.getPlayer());
         }
@@ -551,7 +551,7 @@ public final class PlayerDamagedEvents {
         ) {
             Player p = friend.getPlayer();
             friend.setCancelEvent(true);
-            p.setHealth(Math.min(p.getHealth() + friend.getInitialDamage(), p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue()));
+            p.setHealth(Math.min(p.getHealth() + friend.getInitialDamage(), p.getAttribute(Attribute.MAX_HEALTH).getValue()));
         }
     }
 
@@ -598,7 +598,7 @@ public final class PlayerDamagedEvents {
         if (GeneralUtils.testChance(5, 100)) {
             Player p = friend.getPlayer();
             friend.setCancelEvent(true);
-            p.setHealth(Math.min(p.getHealth() + friend.getInitialDamage(), p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue()));
+            p.setHealth(Math.min(p.getHealth() + friend.getInitialDamage(), p.getAttribute(Attribute.MAX_HEALTH).getValue()));
         }
     }
 
@@ -622,16 +622,16 @@ public final class PlayerDamagedEvents {
         if (GeneralUtils.testChance(1, 5)) {
             Player p = friend.getPlayer();
             PotionEffect speed = p.hasPotionEffect(PotionEffectType.SPEED) ? p.getPotionEffect(PotionEffectType.SPEED) : null;
-            PotionEffect haste = p.hasPotionEffect(PotionEffectType.FAST_DIGGING) ? p.getPotionEffect(PotionEffectType.FAST_DIGGING) : null;
+            PotionEffect haste = p.hasPotionEffect(PotionEffectType.HASTE) ? p.getPotionEffect(PotionEffectType.HASTE) : null;
             if (speed == null) {
                 p.addPotionEffect(new PotionEffect(PotionEffectType.SPEED, 200, 0));
             } else {
                 p.addPotionEffect(new PotionEffect(PotionEffectType.SPEED, 200, Math.min(speed.getAmplifier() + 1, 9)));
             }
             if (haste == null) {
-                p.addPotionEffect(new PotionEffect(PotionEffectType.FAST_DIGGING, 200, 1));
+                p.addPotionEffect(new PotionEffect(PotionEffectType.HASTE, 200, 1));
             } else {
-                p.addPotionEffect(new PotionEffect(PotionEffectType.FAST_DIGGING, 200, Math.min(haste.getAmplifier() + 2, 19)));
+                p.addPotionEffect(new PotionEffect(PotionEffectType.HASTE, 200, Math.min(haste.getAmplifier() + 2, 19)));
             }
         }
     }
@@ -713,3 +713,4 @@ public final class PlayerDamagedEvents {
         }
     }
 }
+

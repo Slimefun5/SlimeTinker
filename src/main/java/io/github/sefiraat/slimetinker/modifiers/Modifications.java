@@ -80,20 +80,20 @@ public class Modifications {
         MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(Material.QUARTZ)));
         MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(Material.DIAMOND)));
         MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(Material.EMERALD)));
-        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(Materials.MOD_PLATE));
+        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(Materials.MOD_PLATE.item()));
 
         MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.REDSTONE)), new Mod(MOD_MAP_REDSTONE_TOOL, Keys.ST_MOD_LEVEL_REDSTONE));
         MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.LAPIS_LAZULI)), new Mod(MOD_MAP_LAPIS_TOOL, Keys.ST_MOD_LEVEL_LAPIS));
         MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.QUARTZ)), new Mod(MOD_MAP_QUARTZ_TOOL, Keys.ST_MOD_LEVEL_QUARTZ));
         MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.DIAMOND)), new Mod(MOD_MAP_DIAMOND_TOOL, Keys.ST_MOD_LEVEL_DIAMOND));
         MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.EMERALD)), new Mod(MOD_MAP_EMERALD_TOOL, Keys.ST_MOD_LEVEL_EMERALD));
-        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(Materials.MOD_PLATE), new Mod(MOD_MAP_PLATE, Keys.ST_MOD_LEVEL_OBSIDIAN));
+        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(Materials.MOD_PLATE.item()), new Mod(MOD_MAP_PLATE, Keys.ST_MOD_LEVEL_OBSIDIAN));
 
         // ARMOUR
 
-        MODIFICATION_LIST_ARMOUR.add(StackUtils.getIdOrType(Materials.MOD_PLATE));
+        MODIFICATION_LIST_ARMOUR.add(StackUtils.getIdOrType(Materials.MOD_PLATE.item()));
 
-        MODIFICATION_DEFINITIONS_ARMOUR.put(StackUtils.getIdOrType(Materials.MOD_PLATE), new Mod(MOD_MAP_PLATE, Keys.ST_MOD_LEVEL_OBSIDIAN));
+        MODIFICATION_DEFINITIONS_ARMOUR.put(StackUtils.getIdOrType(Materials.MOD_PLATE.item()), new Mod(MOD_MAP_PLATE, Keys.ST_MOD_LEVEL_OBSIDIAN));
 
     }
 
@@ -283,3 +283,4 @@ public class Modifications {
         return MODIFICATION_DEFINITIONS_ARMOUR;
     }
 }
+
