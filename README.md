@@ -1,3 +1,7 @@
+<p align="center">
+<img width="800" src="https://github.com/Sefiraat/SlimeTinker/blob/master/images/logo/logo.svg"><br><br>
+</p>
+
 # SlimeTinker
 
 [![Build Status](https://Slimefun5.github.io/builds/Slimefun5/SlimeTinker/stable/badge.svg)](https://Slimefun5.github.io/builds/Slimefun5/SlimeTinker/stable)
@@ -12,30 +16,9 @@ A Slimefun addon inspired by Tinkers' Construct that adds customizable tools and
 - Paper 1.16.* - 26.1.*
 - Slimefun 5
 
-## Developer API
-
-You can easily depend on this project using [github-gradle](https://github.com/intisy/github-gradle).
-
-In your `build.gradle.kts`:
-
-```kotlin
-plugins {
-    id("io.github.intisy.github-gradle") version "1.8.2.1"
-}
-
-dependencies {
-    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.1.3.1")
-}
-```
-
-<p align="center">
-<img width="800" src="https://github.com/Sefiraat/SlimeTinker/blob/master/images/logo/logo.svg"><br><br>
-</p>
-
 SlimeTinker is a Slimefun5 addon that tries it's best to recreate the amazing Tinker's Construct
 Mod ([link](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)) in Vanilla Minecraft.
 
-## Download SlimeTinker
 ## Info
 
 For more information about SlimeTinker, please visit my <a href="https://sefiraat.dev/slimetinker/basics">documentation</a> page.
@@ -86,8 +69,25 @@ Big thanks to [Riley](https://github.com/Mooy1) for the great InfinityLib which 
 thanks to [Martin](https://github.com/martinbrom) who helped us out with ideas and direction. Thanks
 to [Boomer](https://www.youtube.com/channel/UC2ZmER18YBRYube-62-JVpA) for testing, feeding back and breaking things for
 me!
+
 ## Thanks!
 
 A big thanks to the owners of **mct.tantrum.org** who have tested nearly everything I have made and really given me direction and drive to make these things and was the first server willing to take the buggy mess that Tinker was, at first, onto their server!
 
 A big shout-out to GentlemanCheesy who puts a lot of time and effort into making skull textures for me across many of my addons. Without these they would be far blander and certainly not be half as attractive as they are!
+
+## Developer API
+
+You can easily depend on this project using [github-gradle](https://github.com/intisy/github-gradle).
+
+In your `build.gradle.kts`:
+
+```kotlin
+plugins {
+    id("io.github.intisy.github-gradle") version "1.8.2.1"
+}
+
+dependencies {
+    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.1.3.1")
+}
+```
