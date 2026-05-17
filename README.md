@@ -1,5 +1,6 @@
 # SlimeTinker
 
+[![Build Status](https://Slimefun5.github.io/builds/Slimefun5/SlimeTinker/stable/badge.svg)](https://Slimefun5.github.io/builds/Slimefun5/SlimeTinker/stable)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Slimefun5/SlimeTinker/total)
 [![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
 [![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/SlimeTinker?style=social)](https://github.com/Slimefun5/SlimeTinker)
@@ -8,7 +9,7 @@
 
 ## Requirements
 - Java 25
-- Paper 1.21.x
+- Paper 1.16.* - 26.1.*
 - Slimefun 5
 
 ## Developer API
@@ -23,6 +24,7 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.1.2")
+    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.1.3.1")
 }
 ```
+
