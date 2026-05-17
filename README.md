@@ -5,7 +5,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
 [![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/SlimeTinker?style=social)](https://github.com/Slimefun5/SlimeTinker)
 
-A Slimefun 5 Addon.
+A Slimefun addon inspired by Tinkers' Construct that adds customizable tools and armor with unique traits.
 
 ## Requirements
 - Java 25
