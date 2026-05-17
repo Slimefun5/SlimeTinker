@@ -9,15 +9,12 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
 [![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/SlimeTinker?style=social)](https://github.com/Slimefun5/SlimeTinker)
 
-A Slimefun addon inspired by Tinkers' Construct that adds customizable tools and armor with unique traits.
+A Tinkers' Construct-inspired addon for Slimefun that lets you craft, customize, and level modular tools and armor with unique material traits.
 
 ## Requirements
 - Java 25
 - Paper 1.16.* - 26.1.*
 - Slimefun 5
-
-SlimeTinker is a Slimefun5 addon that tries it's best to recreate the amazing Tinker's Construct
-Mod ([link](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)) in Vanilla Minecraft.
 
 ## Info
 
