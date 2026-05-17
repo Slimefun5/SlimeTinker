@@ -35,7 +35,7 @@ dependencies {
     compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
 
-    implementation("com.github.Riley31415:InfinityLib:1.3.10") {
+    implementation("com.github.Slimefun5:InfinityLib:v1.3.10") {
         isTransitive = false
     }
     implementation("org.bstats:bstats-bukkit:3.0.2")
@@ -84,3 +84,4 @@ tasks {
 }
 
 // Trigger CI
+
