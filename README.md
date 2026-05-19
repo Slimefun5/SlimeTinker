@@ -8,6 +8,7 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Slimefun5/SlimeTinker/total)
 [![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
 [![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/SlimeTinker?style=social)](https://github.com/Slimefun5/SlimeTinker)
+[![bStats](https://bStats.org/signatures/bukkit/SlimeTinker.svg)](https://bStats.org/plugin/bukkit/SlimeTinker/31392)
 
 A Tinkers' Construct-inspired addon for Slimefun that lets you craft, customize, and level modular tools and armor with unique material traits.
 
