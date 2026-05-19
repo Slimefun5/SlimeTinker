@@ -31,6 +31,7 @@ repositories {
 }
 
 dependencies {
+    githubImplementation("Slimefun5:SlimefunMetrics:master")
     "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.1")
     compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
@@ -38,8 +39,7 @@ dependencies {
     implementation("com.github.Slimefun5:InfinityLib:v1.3.10") {
         isTransitive = false
     }
-    implementation("org.bstats:bstats-bukkit:3.0.2")
-    implementation("co.aikar:acf-paper:0.5.1-SNAPSHOT")
+        implementation("co.aikar:acf-paper:0.5.1-SNAPSHOT")
 
     testImplementation(platform("org.junit:junit-bom:5.11.4"))
     testImplementation("org.junit.jupiter:junit-jupiter")
@@ -70,8 +70,7 @@ tasks {
     shadowJar {
         archiveFileName.set("SlimeTinker v${project.version}-MC26.1.2.jar")
         relocate("io.github.mooy1.infinitylib", "io.github.sefiraat.slimetinker.infinitylib")
-        relocate("org.bstats", "io.github.sefiraat.slimetinker.bstats")
-        relocate("co.aikar.commands", "io.github.sefiraat.slimetinker.acf")
+                relocate("co.aikar.commands", "io.github.sefiraat.slimetinker.acf")
         relocate("co.aikar.locales", "io.github.sefiraat.slimetinker.locales")
         exclude("META-INF/**")
     }

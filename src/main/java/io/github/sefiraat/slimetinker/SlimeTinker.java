@@ -23,8 +23,8 @@ import io.github.sefiraat.slimetinker.runnables.RunnableManager;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.updater.BlobBuildUpdater;
 
-import org.bstats.bukkit.Metrics;
 import org.bukkit.plugin.java.JavaPlugin;
+import dev.walshy.sfmetrics.MetricsModule;
 
 public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
 
@@ -52,9 +52,10 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
+        MetricsModule.setup(this, 31392);
 
-        new Metrics(this, 11748);
 
+        
         instance = this;
 
         getLogger().info("########################################");
