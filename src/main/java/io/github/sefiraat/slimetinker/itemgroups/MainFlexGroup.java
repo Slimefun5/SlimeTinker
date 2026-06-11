@@ -52,7 +52,7 @@ public class MainFlexGroup extends FlexItemGroup {
     };
 
     public MainFlexGroup(NamespacedKey key, ItemStack item) {
-        super(key, item);
+        super(new io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey(key.getNamespace(), key.getKey()), item);
     }
 
     @Override

@@ -18,7 +18,7 @@ public final class DummySmelteryTrait {
         "metal, it will give the finished tool",
         "this property."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_SMELTERY_A, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_SMELTERY_A), STACK);
 
     private DummySmelteryTrait() {
         throw new IllegalStateException("Utility class");

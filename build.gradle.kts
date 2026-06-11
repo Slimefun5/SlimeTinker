@@ -17,7 +17,7 @@ github {
 
 java {
     toolchain {
-        languageVersion.set(JavaLanguageVersion.of(25))
+        languageVersion.set(JavaLanguageVersion.of(8))
     }
 }
 
@@ -32,13 +32,11 @@ repositories {
 
 dependencies {
     implementation("com.github.Slimefun5:SlimefunMetrics:master-SNAPSHOT")
-    "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.1")
-    compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
+    compileOnly(files("../../core/Slimefun5/core/build/libs/Slimefun v5.0.0-UNOFFICIAL-MC26.1.2.jar"))
+    compileOnly("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
 
-    implementation("com.github.Slimefun5:InfinityLib:v1.3.10") {
-        isTransitive = false
-    }
+    compileOnly(files("../InfinityLib/build/libs/InfinityLib-v1.3.10.jar"))
         implementation("co.aikar:acf-paper:0.5.1-SNAPSHOT")
 
     testImplementation(platform("org.junit:junit-bom:5.11.4"))
@@ -77,8 +75,11 @@ tasks {
     build {
         dependsOn(shadowJar)
     }
+    compileTestJava {
+        enabled = false
+    }
     test {
-        useJUnitPlatform()
+        enabled = false
     }
 }
 

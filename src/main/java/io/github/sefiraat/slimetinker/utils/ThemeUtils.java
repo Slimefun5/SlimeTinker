@@ -277,7 +277,7 @@ public final class ThemeUtils {
 
     @Nonnull
     public static String getLine() {
-        return PASSIVE + "-".repeat(25);
+        return PASSIVE + new String(new char[25]).replace('\0', '-');
     }
 }
 

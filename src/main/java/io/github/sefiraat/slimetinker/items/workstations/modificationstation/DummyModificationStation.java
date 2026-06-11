@@ -19,7 +19,7 @@ public final class DummyModificationStation {
         "Once enough material has been added, the",
         "modification will level."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_TOOL_TABLE, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_TOOL_TABLE), STACK);
 
     private DummyModificationStation() {
         throw new IllegalStateException("Utility class");

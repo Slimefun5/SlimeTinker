@@ -90,4 +90,14 @@ public final class Keys {
         return new NamespacedKey(SlimeTinker.getInstance(), key);
     }
 
+    @Nonnull
+    public static io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey sfKey(@Nonnull NamespacedKey key) {
+        return new io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey(key.getNamespace(), key.getKey());
+    }
+
+    @Nonnull
+    public static io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey sfCreate(@Nonnull String key) {
+        return new io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey("slimetinker", key);
+    }
+
 }

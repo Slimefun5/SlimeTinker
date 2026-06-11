@@ -18,7 +18,7 @@ public final class DummySmeltery {
         "tinkers smeltery using the",
         "relevant cast and metal/liquid."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_SMELTERY, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_SMELTERY), STACK);
 
     private DummySmeltery() {
         throw new IllegalStateException("Utility class");

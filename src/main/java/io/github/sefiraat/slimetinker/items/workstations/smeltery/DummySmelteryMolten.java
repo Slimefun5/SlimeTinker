@@ -19,7 +19,7 @@ public final class DummySmelteryMolten {
         "Smeltery. Items melt when provided",
         "enough lava as a heat source."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_SMELTERY_M, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_SMELTERY_M), STACK);
 
     private DummySmelteryMolten() {
         throw new IllegalStateException("Utility class");

@@ -80,13 +80,13 @@ public final class TickEvents {
             double x = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
             double y = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
             double z = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
-            location.getWorld().spawnParticle(Particle.DUST, location.clone().add(x, y, z), 1, green);
+            location.getWorld().spawnParticle(Particle.REDSTONE, location.clone().add(x, y, z), 1, green);
         }
         for (int i = 0; i <= 5; i++) {
             double x = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
             double y = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
             double z = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
-            location.getWorld().spawnParticle(Particle.DUST, location.clone().add(x, y, z), 1, red);
+            location.getWorld().spawnParticle(Particle.REDSTONE, location.clone().add(x, y, z), 1, red);
         }
         increaseEffect(PotionEffectType.SATURATION, friend.getPotionEffects(), 2);
     }
@@ -123,7 +123,7 @@ public final class TickEvents {
     }
 
     public static void headBillon(EventFriend friend) {
-        increaseEffect(PotionEffectType.HASTE, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.FAST_DIGGING, friend.getPotionEffects());
     }
 
     public static void headGold(EventFriend friend) {
@@ -179,7 +179,7 @@ public final class TickEvents {
     public static void bindWarpedRoot(EventFriend friend) {
         int rnd = ThreadLocalRandom.current().nextInt(1, 5);
         if (rnd == 1) {
-            friend.getPlayer().setHealth(Math.min(friend.getPlayer().getHealth() + 1, friend.getPlayer().getAttribute(Attribute.MAX_HEALTH).getValue()));
+            friend.getPlayer().setHealth(Math.min(friend.getPlayer().getHealth() + 1, friend.getPlayer().getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue()));
         }
     }
 
@@ -188,11 +188,11 @@ public final class TickEvents {
     }
 
     public static void rodIron(EventFriend friend) {
-        increaseEffect(PotionEffectType.STRENGTH, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.INCREASE_DAMAGE, friend.getPotionEffects());
     }
 
     public static void headAlubronze(EventFriend friend) {
-        increaseEffect(PotionEffectType.STRENGTH, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.INCREASE_DAMAGE, friend.getPotionEffects());
     }
 
     public static void rodSilver(EventFriend friend) {
@@ -200,7 +200,7 @@ public final class TickEvents {
     }
 
     public static void rodBillon(EventFriend friend) {
-        increaseEffect(PotionEffectType.JUMP_BOOST, friend.getPotionEffects(), 4);
+        increaseEffect(PotionEffectType.JUMP, friend.getPotionEffects(), 4);
     }
 
     public static void headBrass(EventFriend friend) {
@@ -214,12 +214,12 @@ public final class TickEvents {
     }
 
     public static void rodCorbronze(EventFriend friend) {
-        increaseEffect(PotionEffectType.NAUSEA, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.CONFUSION, friend.getPotionEffects());
     }
 
     public static void headDuralium(EventFriend friend) {
         if (ItemUtils.isTinkersBroken(friend.getTool())) {
-            increaseEffect(PotionEffectType.MINING_FATIGUE, friend.getPotionEffects());
+            increaseEffect(PotionEffectType.SLOW_DIGGING, friend.getPotionEffects());
         }
     }
 
@@ -232,11 +232,11 @@ public final class TickEvents {
     }
 
     public static void headMetal(EventFriend friend) {
-        increaseEffect(PotionEffectType.HASTE, friend.getPotionEffects(), 2);
+        increaseEffect(PotionEffectType.FAST_DIGGING, friend.getPotionEffects(), 2);
     }
 
     public static void headMythril(EventFriend friend) {
-        increaseEffect(PotionEffectType.HASTE, friend.getPotionEffects(), 2);
+        increaseEffect(PotionEffectType.FAST_DIGGING, friend.getPotionEffects(), 2);
         increaseEffect(PotionEffectType.SPEED, friend.getPotionEffects());
     }
 
@@ -281,7 +281,7 @@ public final class TickEvents {
     }
 
     public static void rodSingIron(EventFriend friend) {
-        increaseEffect(PotionEffectType.STRENGTH, friend.getPotionEffects(), 2);
+        increaseEffect(PotionEffectType.INCREASE_DAMAGE, friend.getPotionEffects(), 2);
     }
 
     public static void rodMythril(EventFriend friend) {
@@ -318,7 +318,7 @@ public final class TickEvents {
                         Location location = l.getLocation().clone().add(rndX, rndY, rndZ);
                         if (entity.getWorld().getBlockAt(location).getType() == Material.AIR) {
                             entity.teleport(location);
-                            entity.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.TRIAL_SPAWNER_DETECT_PLAYER, 10);
+                            entity.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.SMOKE, 10);
                         }
                         break;
                     case 4:
@@ -340,11 +340,11 @@ public final class TickEvents {
     }
 
     public static void bindSlimesteel(EventFriend friend) {
-        increaseEffect(PotionEffectType.JUMP_BOOST, friend.getPotionEffects(), 2);
+        increaseEffect(PotionEffectType.JUMP, friend.getPotionEffects(), 2);
     }
 
     public static void headOsmiumSuperalloy(EventFriend friend) {
-        increaseEffect(PotionEffectType.MINING_FATIGUE, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.SLOW_DIGGING, friend.getPotionEffects());
     }
 
     public static void rodStarDust(EventFriend friend) {
@@ -536,7 +536,7 @@ public final class TickEvents {
     public static void gambesonWarpedRoots(EventFriend friend) {
         if (GeneralUtils.testChance(1, 4)) {
             Player p = friend.getPlayer();
-            double maxHealth = p.getAttribute(Attribute.MAX_HEALTH).getValue();
+            double maxHealth = p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue();
             friend.getPlayer().setHealth(Math.min(p.getHealth() + 1, maxHealth));
         }
     }
@@ -574,7 +574,7 @@ public final class TickEvents {
         if (environment == World.Environment.NETHER) {
             increaseEffect(PotionEffectType.SPEED, friend.getPotionEffects(), 2);
         } else if (environment == World.Environment.THE_END) {
-            increaseEffect(PotionEffectType.SLOWNESS, friend.getPotionEffects());
+            increaseEffect(PotionEffectType.SLOW, friend.getPotionEffects());
         }
     }
 
@@ -700,7 +700,7 @@ public final class TickEvents {
     public static void plateStardust(EventFriend friend) {
         Player p = friend.getPlayer();
         if (!GeneralUtils.day(p.getWorld()) && GeneralUtils.testChance(5, 100)) {
-            p.setHealth(Math.min(p.getAttribute(Attribute.MAX_HEALTH).getValue(), p.getHealth() + 1));
+            p.setHealth(Math.min(p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue(), p.getHealth() + 1));
         }
     }
 
@@ -724,7 +724,7 @@ public final class TickEvents {
     }
 
     public static void plateOsmium(EventFriend friend) {
-        increaseEffect(PotionEffectType.SLOWNESS, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.SLOW, friend.getPotionEffects());
     }
 
     public static void plateUnpatentabilum(EventFriend friend) {
@@ -752,7 +752,7 @@ public final class TickEvents {
     }
 
     public static void plateReinforcedSlimesteel(EventFriend friend) {
-        increaseEffect(PotionEffectType.JUMP_BOOST, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.JUMP, friend.getPotionEffects());
         increaseEffect(PotionEffectType.SPEED, friend.getPotionEffects());
     }
 
@@ -783,7 +783,7 @@ public final class TickEvents {
 
     public static void plateBoomerite(EventFriend friend) {
         Player p = friend.getPlayer();
-        TNTPrimed tnt = (TNTPrimed) p.getWorld().spawnEntity(p.getLocation(), EntityType.TNT);
+        TNTPrimed tnt = (TNTPrimed) p.getWorld().spawnEntity(p.getLocation(), EntityType.PRIMED_TNT);
         tnt.setSource(friend.getPlayer());
         tnt.setVelocity(new Vector(p.getLocation().getDirection().getX(), 1, p.getLocation().getDirection().getZ()));
     }

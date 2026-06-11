@@ -18,7 +18,7 @@ public final class DummySmelteryAlloy {
         "Smeltery by inputting correct metal",
         "types and clicking Alloy."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_SMELTERY_A, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_SMELTERY_A), STACK);
 
     private DummySmelteryAlloy() {
         throw new IllegalStateException("Utility class");

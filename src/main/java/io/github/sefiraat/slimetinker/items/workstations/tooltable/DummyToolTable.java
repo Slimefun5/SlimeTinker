@@ -16,7 +16,7 @@ public final class DummyToolTable {
         "Tinker's Tool Table",
         "This item is made on a Tinker's Tool Table."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_TOOL_TABLE, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_TOOL_TABLE), STACK);
 
     private DummyToolTable() {
         throw new IllegalStateException("Utility class");

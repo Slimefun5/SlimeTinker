@@ -17,7 +17,7 @@ public final class DummySmelteryMulti {
         "This is a multiblock, build in the world",
         "as shown here."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_SMELTERY_A, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_SMELTERY_A), STACK);
 
     private DummySmelteryMulti() {
         throw new IllegalStateException("Utility class");

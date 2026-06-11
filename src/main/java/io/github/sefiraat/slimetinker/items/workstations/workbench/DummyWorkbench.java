@@ -16,7 +16,7 @@ public final class DummyWorkbench {
         "ToolTable",
         "This item is crafted in the workbench."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_WORKBENCH, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_WORKBENCH), STACK);
 
     private DummyWorkbench() {
         throw new IllegalStateException("Utility class");

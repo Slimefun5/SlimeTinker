@@ -10,7 +10,7 @@ import javax.annotation.Nonnull;
 public class DummyItemGroup extends ItemGroup {
 
     public DummyItemGroup(NamespacedKey key, ItemStack item) {
-        super(key, item);
+        super(new io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey(key.getNamespace(), key.getKey()), item);
     }
 
     @Override

@@ -16,7 +16,7 @@ public final class DummyArmourTable {
         "Tinker's Armour Table",
         "This item is made on a Tinker's Armour Table."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_ARMOUR_TABLE, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_ARMOUR_TABLE), STACK);
 
     private DummyArmourTable() {
         throw new IllegalStateException("Utility class");
