@@ -1,7 +1,7 @@
 plugins {
     java
     id("com.gradleup.shadow")
-    id("io.github.intisy.github-gradle")
+    id("io.github.intisy.github-gradle") version "1.8.3"
 }
 
 group = "dev.sefiraat"
@@ -32,11 +32,11 @@ repositories {
 
 dependencies {
     implementation("com.github.Slimefun5:SlimefunMetrics:master-SNAPSHOT")
-    compileOnly(files("../../core/Slimefun5/core/build/libs/Slimefun v5.0.0-UNOFFICIAL-MC26.1.2.jar"))
+    githubCompileOnly("Slimefun5:Slimefun5:v5.2.1")
     compileOnly("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
 
-    compileOnly(files("../InfinityLib/build/libs/InfinityLib-v1.3.10.jar"))
+    githubImplementation("Slimefun5:InfinityLib:v1.3.12")
         implementation("co.aikar:acf-paper:0.5.1-SNAPSHOT")
 
     testImplementation(platform("org.junit:junit-bom:5.11.4"))
@@ -66,6 +66,7 @@ tasks {
         enabled = false
     }
     shadowJar {
+        relocate("org.bstats", "slimetinker.libs.bstats")
         archiveFileName.set("SlimeTinker v${project.version}-MC26.1.2.jar")
         relocate("io.github.mooy1.infinitylib", "io.github.sefiraat.slimetinker.infinitylib")
                 relocate("co.aikar.commands", "io.github.sefiraat.slimetinker.acf")
