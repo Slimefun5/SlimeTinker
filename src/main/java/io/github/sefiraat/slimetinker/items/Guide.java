@@ -8,11 +8,13 @@ import io.github.sefiraat.slimetinker.items.templates.ToolTemplateExplosive;
 import io.github.sefiraat.slimetinker.items.workstations.armourtable.DummyArmourTable;
 import io.github.sefiraat.slimetinker.items.workstations.tooltable.DummyToolTable;
 import io.github.sefiraat.slimetinker.utils.Ids;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
@@ -40,7 +42,7 @@ public final class Guide {
 
     public static final SlimefunItemStack TOOL_SHOVEL_DUMMY = ThemeUtils.themedItemStack(
         "TOOL_SHOVEL_DUMMY",
-        Material.STONE_SHOVEL,
+        MaterialCompat.safe(XMaterial.STONE_SHOVEL),
         ThemeItemType.TOOL,
         "Tinker's Shovel",
         ThemeUtils.PASSIVE + "A shovel formed of three parts.",
@@ -50,7 +52,7 @@ public final class Guide {
 
     public static final SlimefunItemStack TOOL_PICKAXE_DUMMY = ThemeUtils.themedItemStack(
         "TOOL_PICKAXE_DUMMY",
-        Material.STONE_PICKAXE,
+        MaterialCompat.safe(XMaterial.STONE_PICKAXE),
         ThemeItemType.TOOL,
         "Tinker's Pickaxe",
         ThemeUtils.PASSIVE + "A pickaxe formed of three parts.",
@@ -60,7 +62,7 @@ public final class Guide {
 
     public static final SlimefunItemStack TOOL_AXE_DUMMY = ThemeUtils.themedItemStack(
         "TOOL_AXE_DUMMY",
-        Material.STONE_AXE,
+        MaterialCompat.safe(XMaterial.STONE_AXE),
         ThemeItemType.TOOL,
         "Tinker's Axe",
         ThemeUtils.PASSIVE + "An axe formed of three parts.",
@@ -70,7 +72,7 @@ public final class Guide {
 
     public static final SlimefunItemStack TOOL_HOE_DUMMY = ThemeUtils.themedItemStack(
         "TOOL_HOE_DUMMY",
-        Material.STONE_HOE,
+        MaterialCompat.safe(XMaterial.STONE_HOE),
         ThemeItemType.TOOL,
         "Tinker's Hoe",
         ThemeUtils.PASSIVE + "A hoe formed of three parts.",
@@ -80,7 +82,7 @@ public final class Guide {
 
     public static final SlimefunItemStack TOOL_SWORD_DUMMY = ThemeUtils.themedItemStack(
         "TOOL_SWORD_DUMMY",
-        Material.STONE_SWORD,
+        MaterialCompat.safe(XMaterial.STONE_SWORD),
         ThemeItemType.TOOL,
         "Tinker's Sword",
         ThemeUtils.PASSIVE + "A sword formed of three parts.",
@@ -90,7 +92,7 @@ public final class Guide {
 
     public static final SlimefunItemStack ARMOUR_HELMET_DUMMY = ThemeUtils.themedItemStack(
         "ARMOUR_HELMET_DUMMY",
-        Material.LEATHER_HELMET,
+        MaterialCompat.safe(XMaterial.LEATHER_HELMET),
         ThemeItemType.ARMOUR,
         "Tinker's Helmet",
         ThemeUtils.PASSIVE + "A helmet formed of three parts.",
@@ -103,7 +105,7 @@ public final class Guide {
 
     public static final SlimefunItemStack ARMOUR_CHESTPLATE_DUMMY = ThemeUtils.themedItemStack(
         "ARMOUR_CHESTPLATE_DUMMY",
-        Material.LEATHER_CHESTPLATE,
+        MaterialCompat.safe(XMaterial.LEATHER_CHESTPLATE),
         ThemeItemType.ARMOUR,
         "Tinker's Chestplate",
         ThemeUtils.PASSIVE + "A chestplate formed of three parts.",
@@ -116,7 +118,7 @@ public final class Guide {
 
     public static final SlimefunItemStack ARMOUR_LEGGINGS_DUMMY = ThemeUtils.themedItemStack(
         "ARMOUR_LEGGINGS_DUMMY",
-        Material.LEATHER_LEGGINGS,
+        MaterialCompat.safe(XMaterial.LEATHER_LEGGINGS),
         ThemeItemType.ARMOUR,
         "Tinker's Leggings",
         ThemeUtils.PASSIVE + "A pair of leggings formed of three parts.",
@@ -129,7 +131,7 @@ public final class Guide {
 
     public static final SlimefunItemStack ARMOUR_BOOTS_DUMMY = ThemeUtils.themedItemStack(
         "ARMOUR_BOOTS_DUMMY",
-        Material.LEATHER_BOOTS,
+        MaterialCompat.safe(XMaterial.LEATHER_BOOTS),
         ThemeItemType.ARMOUR,
         "Tinker's Boots",
         ThemeUtils.PASSIVE + "A pair of boots formed of three parts.",
@@ -296,90 +298,90 @@ public final class Guide {
     @Nonnull
     private static Map<Integer, Material> getShovelMap() {
         Map<Integer, Material> map = new LinkedHashMap<>();
-        map.put(LEVEL_TOOLS_NETHERITE, Material.NETHERITE_SHOVEL);
-        map.put(LEVEL_TOOLS_DIAMOND, Material.DIAMOND_SHOVEL);
-        map.put(LEVEL_TOOLS_IRON, Material.IRON_SHOVEL);
-        map.put(LEVEL_TOOLS_GOLD, Material.GOLDEN_SHOVEL);
+        map.put(LEVEL_TOOLS_NETHERITE, MaterialCompat.safe(XMaterial.NETHERITE_SHOVEL));
+        map.put(LEVEL_TOOLS_DIAMOND, MaterialCompat.safe(XMaterial.DIAMOND_SHOVEL));
+        map.put(LEVEL_TOOLS_IRON, MaterialCompat.safe(XMaterial.IRON_SHOVEL));
+        map.put(LEVEL_TOOLS_GOLD, MaterialCompat.safe(XMaterial.GOLDEN_SHOVEL));
         return map;
     }
 
     @Nonnull
     private static Map<Integer, Material> getPickaxeMap() {
         Map<Integer, Material> map = new LinkedHashMap<>();
-        map.put(LEVEL_TOOLS_NETHERITE, Material.NETHERITE_PICKAXE);
-        map.put(LEVEL_TOOLS_DIAMOND, Material.DIAMOND_PICKAXE);
-        map.put(LEVEL_TOOLS_IRON, Material.IRON_PICKAXE);
-        map.put(LEVEL_TOOLS_GOLD, Material.GOLDEN_PICKAXE);
+        map.put(LEVEL_TOOLS_NETHERITE, MaterialCompat.safe(XMaterial.NETHERITE_PICKAXE));
+        map.put(LEVEL_TOOLS_DIAMOND, MaterialCompat.safe(XMaterial.DIAMOND_PICKAXE));
+        map.put(LEVEL_TOOLS_IRON, MaterialCompat.safe(XMaterial.IRON_PICKAXE));
+        map.put(LEVEL_TOOLS_GOLD, MaterialCompat.safe(XMaterial.GOLDEN_PICKAXE));
         return map;
     }
 
     @Nonnull
     private static Map<Integer, Material> getAxeMap() {
         Map<Integer, Material> map = new LinkedHashMap<>();
-        map.put(LEVEL_TOOLS_NETHERITE, Material.NETHERITE_AXE);
-        map.put(LEVEL_TOOLS_DIAMOND, Material.DIAMOND_AXE);
-        map.put(LEVEL_TOOLS_IRON, Material.IRON_AXE);
-        map.put(LEVEL_TOOLS_GOLD, Material.GOLDEN_AXE);
+        map.put(LEVEL_TOOLS_NETHERITE, MaterialCompat.safe(XMaterial.NETHERITE_AXE));
+        map.put(LEVEL_TOOLS_DIAMOND, MaterialCompat.safe(XMaterial.DIAMOND_AXE));
+        map.put(LEVEL_TOOLS_IRON, MaterialCompat.safe(XMaterial.IRON_AXE));
+        map.put(LEVEL_TOOLS_GOLD, MaterialCompat.safe(XMaterial.GOLDEN_AXE));
         return map;
     }
 
     @Nonnull
     private static Map<Integer, Material> getHoeMap() {
         Map<Integer, Material> map = new LinkedHashMap<>();
-        map.put(LEVEL_TOOLS_NETHERITE, Material.NETHERITE_HOE);
-        map.put(LEVEL_TOOLS_DIAMOND, Material.DIAMOND_HOE);
-        map.put(LEVEL_TOOLS_IRON, Material.IRON_HOE);
-        map.put(LEVEL_TOOLS_GOLD, Material.GOLDEN_HOE);
+        map.put(LEVEL_TOOLS_NETHERITE, MaterialCompat.safe(XMaterial.NETHERITE_HOE));
+        map.put(LEVEL_TOOLS_DIAMOND, MaterialCompat.safe(XMaterial.DIAMOND_HOE));
+        map.put(LEVEL_TOOLS_IRON, MaterialCompat.safe(XMaterial.IRON_HOE));
+        map.put(LEVEL_TOOLS_GOLD, MaterialCompat.safe(XMaterial.GOLDEN_HOE));
         return map;
     }
 
     @Nonnull
     private static Map<Integer, Material> getSwordMap() {
         Map<Integer, Material> map = new LinkedHashMap<>();
-        map.put(LEVEL_TOOLS_NETHERITE, Material.NETHERITE_SWORD);
-        map.put(LEVEL_TOOLS_DIAMOND, Material.DIAMOND_SWORD);
-        map.put(LEVEL_TOOLS_IRON, Material.IRON_SWORD);
-        map.put(LEVEL_TOOLS_GOLD, Material.GOLDEN_SWORD);
+        map.put(LEVEL_TOOLS_NETHERITE, MaterialCompat.safe(XMaterial.NETHERITE_SWORD));
+        map.put(LEVEL_TOOLS_DIAMOND, MaterialCompat.safe(XMaterial.DIAMOND_SWORD));
+        map.put(LEVEL_TOOLS_IRON, MaterialCompat.safe(XMaterial.IRON_SWORD));
+        map.put(LEVEL_TOOLS_GOLD, MaterialCompat.safe(XMaterial.GOLDEN_SWORD));
         return map;
     }
 
     @Nonnull
     private static Map<Integer, Material> getHelmetMap() {
         Map<Integer, Material> map = new LinkedHashMap<>();
-        map.put(LEVEL_ARMOUR_NETHERITE, Material.NETHERITE_HELMET);
-        map.put(LEVEL_ARMOUR_DIAMOND, Material.DIAMOND_HELMET);
-        map.put(LEVEL_ARMOUR_IRON, Material.IRON_HELMET);
-        map.put(LEVEL_ARMOUR_CHAIN, Material.CHAINMAIL_HELMET);
+        map.put(LEVEL_ARMOUR_NETHERITE, MaterialCompat.safe(XMaterial.NETHERITE_HELMET));
+        map.put(LEVEL_ARMOUR_DIAMOND, MaterialCompat.safe(XMaterial.DIAMOND_HELMET));
+        map.put(LEVEL_ARMOUR_IRON, MaterialCompat.safe(XMaterial.IRON_HELMET));
+        map.put(LEVEL_ARMOUR_CHAIN, MaterialCompat.safe(XMaterial.CHAINMAIL_HELMET));
         return map;
     }
 
     @Nonnull
     private static Map<Integer, Material> getChestplateMap() {
         Map<Integer, Material> map = new LinkedHashMap<>();
-        map.put(LEVEL_ARMOUR_NETHERITE, Material.NETHERITE_CHESTPLATE);
-        map.put(LEVEL_ARMOUR_DIAMOND, Material.DIAMOND_CHESTPLATE);
-        map.put(LEVEL_ARMOUR_IRON, Material.IRON_CHESTPLATE);
-        map.put(LEVEL_ARMOUR_CHAIN, Material.CHAINMAIL_CHESTPLATE);
+        map.put(LEVEL_ARMOUR_NETHERITE, MaterialCompat.safe(XMaterial.NETHERITE_CHESTPLATE));
+        map.put(LEVEL_ARMOUR_DIAMOND, MaterialCompat.safe(XMaterial.DIAMOND_CHESTPLATE));
+        map.put(LEVEL_ARMOUR_IRON, MaterialCompat.safe(XMaterial.IRON_CHESTPLATE));
+        map.put(LEVEL_ARMOUR_CHAIN, MaterialCompat.safe(XMaterial.CHAINMAIL_CHESTPLATE));
         return map;
     }
 
     @Nonnull
     private static Map<Integer, Material> getLeggingsMap() {
         Map<Integer, Material> map = new LinkedHashMap<>();
-        map.put(LEVEL_ARMOUR_NETHERITE, Material.NETHERITE_LEGGINGS);
-        map.put(LEVEL_ARMOUR_DIAMOND, Material.DIAMOND_LEGGINGS);
-        map.put(LEVEL_ARMOUR_IRON, Material.IRON_LEGGINGS);
-        map.put(LEVEL_ARMOUR_CHAIN, Material.CHAINMAIL_LEGGINGS);
+        map.put(LEVEL_ARMOUR_NETHERITE, MaterialCompat.safe(XMaterial.NETHERITE_LEGGINGS));
+        map.put(LEVEL_ARMOUR_DIAMOND, MaterialCompat.safe(XMaterial.DIAMOND_LEGGINGS));
+        map.put(LEVEL_ARMOUR_IRON, MaterialCompat.safe(XMaterial.IRON_LEGGINGS));
+        map.put(LEVEL_ARMOUR_CHAIN, MaterialCompat.safe(XMaterial.CHAINMAIL_LEGGINGS));
         return map;
     }
 
     @Nonnull
     private static Map<Integer, Material> getBootsMap() {
         Map<Integer, Material> map = new LinkedHashMap<>();
-        map.put(LEVEL_ARMOUR_NETHERITE, Material.NETHERITE_BOOTS);
-        map.put(LEVEL_ARMOUR_DIAMOND, Material.DIAMOND_BOOTS);
-        map.put(LEVEL_ARMOUR_IRON, Material.IRON_BOOTS);
-        map.put(LEVEL_ARMOUR_CHAIN, Material.CHAINMAIL_BOOTS);
+        map.put(LEVEL_ARMOUR_NETHERITE, MaterialCompat.safe(XMaterial.NETHERITE_BOOTS));
+        map.put(LEVEL_ARMOUR_DIAMOND, MaterialCompat.safe(XMaterial.DIAMOND_BOOTS));
+        map.put(LEVEL_ARMOUR_IRON, MaterialCompat.safe(XMaterial.IRON_BOOTS));
+        map.put(LEVEL_ARMOUR_CHAIN, MaterialCompat.safe(XMaterial.CHAINMAIL_BOOTS));
         return map;
     }
 

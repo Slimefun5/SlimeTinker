@@ -1,7 +1,7 @@
 package io.github.sefiraat.slimetinker.utils;
 
 import io.github.sefiraat.slimetinker.SlimeTinker;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 
 import javax.annotation.Nonnull;
 

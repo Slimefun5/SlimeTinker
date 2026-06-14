@@ -7,8 +7,9 @@ import io.github.sefiraat.slimetinker.utils.SkullTextures;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
-import org.bukkit.Material;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 
 public final class Dies {
@@ -109,69 +110,69 @@ public final class Dies {
     public static final SlimefunItemStack DIE_REPAIR_KIT =
         ThemeUtils.themedItemStack(
             "DIE_REPAIR_KIT",
-            Material.MINECART,
+            MaterialCompat.safe(XMaterial.MINECART),
             ThemeItemType.CAST,
             "Die: Repair Kit",
             ThemeUtils.PASSIVE + DIE_DESC
         );
     protected static final ItemStack[] RECIPE_DIE_SHOVEL_HEAD = new ItemStack[]{
-        null, new ItemStack(Material.COBBLESTONE), null,
+        null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null,
         null, null, null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_DIE_PICKAXE_HEAD = new ItemStack[]{
-        new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE),
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)),
         null, null, null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_DIE_AXE_HEAD = new ItemStack[]{
-        new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE), null,
-        new ItemStack(Material.COBBLESTONE), null, null,
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null,
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null, null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_DIE_HOE_HEAD = new ItemStack[]{
-        new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE), null,
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null,
         null, null, null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_DIE_SWORD_BLADE = new ItemStack[]{
-        null, new ItemStack(Material.COBBLESTONE), null,
-        null, new ItemStack(Material.COBBLESTONE), null,
+        null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null,
+        null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_DIE_TOOL_ROD = new ItemStack[]{
         null, null, null,
-        null, new ItemStack(Material.STICK), null,
+        null, new ItemStack(MaterialCompat.safe(XMaterial.STICK)), null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_DIE_HELM_PLATE = new ItemStack[]{
-        new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE),
-        new ItemStack(Material.COBBLESTONE), null, new ItemStack(Material.COBBLESTONE),
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)),
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)),
         null, null, null
     };
     protected static final ItemStack[] RECIPE_DIE_CHEST_PLATE = new ItemStack[]{
-        new ItemStack(Material.COBBLESTONE), null, new ItemStack(Material.COBBLESTONE),
-        new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE),
-        new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE)
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)),
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)),
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE))
     };
     protected static final ItemStack[] RECIPE_DIE_LEG_PLATE = new ItemStack[]{
-        new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE), new ItemStack(Material.COBBLESTONE),
-        new ItemStack(Material.COBBLESTONE), null, new ItemStack(Material.COBBLESTONE),
-        new ItemStack(Material.COBBLESTONE), null, new ItemStack(Material.COBBLESTONE)
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)),
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)),
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE))
     };
     protected static final ItemStack[] RECIPE_DIE_BOOT_PLATE = new ItemStack[]{
         null, null, null,
-        new ItemStack(Material.COBBLESTONE), null, new ItemStack(Material.COBBLESTONE),
-        new ItemStack(Material.COBBLESTONE), null, new ItemStack(Material.COBBLESTONE)
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)),
+        new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE))
     };
     protected static final ItemStack[] RECIPE_DIE_MAIL_LINKS = new ItemStack[]{
         null, null, null,
-        null, new ItemStack(Material.IRON_NUGGET), null,
+        null, new ItemStack(MaterialCompat.safe(XMaterial.IRON_NUGGET)), null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_DIE_REPAIR_KIT = new ItemStack[]{
         null, null, null,
-        null, new ItemStack(Material.OBSIDIAN), null,
+        null, new ItemStack(MaterialCompat.safe(XMaterial.OBSIDIAN)), null,
         null, null, null
     };
 

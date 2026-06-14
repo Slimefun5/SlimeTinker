@@ -14,8 +14,9 @@ import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
-import org.bukkit.Material;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 
 import javax.annotation.Nonnull;
@@ -29,7 +30,7 @@ public final class Workstations {
     // Tinkers Smeltery
     public static final SlimefunItemStack TINKERS_SMELTERY_CORE = ThemeUtils.themedItemStack(
         "TINKERS_SMELTERY_CORE",
-        Material.CHISELED_POLISHED_BLACKSTONE,
+        MaterialCompat.safe(XMaterial.CHISELED_POLISHED_BLACKSTONE),
         ThemeItemType.MACHINE,
         "Tinker's Smeltery",
         "Melts down metals into liquids.",
@@ -41,7 +42,7 @@ public final class Workstations {
     // Workbench
     public static final SlimefunItemStack TINKERS_WORKBENCH = ThemeUtils.themedItemStack(
         "TINKERS_WORKBENCH",
-        Material.FLETCHING_TABLE,
+        MaterialCompat.safe(XMaterial.FLETCHING_TABLE),
         ThemeItemType.MACHINE,
         "Tinker's Workbench",
         "Used for crafting various items",
@@ -53,7 +54,7 @@ public final class Workstations {
     // Tool Table
     public static final SlimefunItemStack TINKERS_TABLE = ThemeUtils.themedItemStack(
         "TINKERS_TABLE",
-        Material.SMITHING_TABLE,
+        MaterialCompat.safe(XMaterial.SMITHING_TABLE),
         ThemeItemType.MACHINE,
         "Tinker's Tool Table",
         "Combines parts into tools."
@@ -62,7 +63,7 @@ public final class Workstations {
     // Armour Table
     public static final SlimefunItemStack TINKERS_ARMOUR_TABLE = ThemeUtils.themedItemStack(
         "TINKERS_ARMOUR_TABLE",
-        Material.SMITHING_TABLE,
+        MaterialCompat.safe(XMaterial.SMITHING_TABLE),
         ThemeItemType.MACHINE,
         "Tinker's Armour Table",
         "Combines parts into armour pieces."
@@ -71,7 +72,7 @@ public final class Workstations {
     // Repair
     public static final SlimefunItemStack TINKERS_REPAIR_BENCH = ThemeUtils.themedItemStack(
         "TINKERS_REPAIR_BENCH",
-        Material.CARTOGRAPHY_TABLE,
+        MaterialCompat.safe(XMaterial.CARTOGRAPHY_TABLE),
         ThemeItemType.MACHINE,
         "Tinker's Repair Bench",
         "Repairs tools and weapons."
@@ -80,7 +81,7 @@ public final class Workstations {
     // Swapping
     public static final SlimefunItemStack TINKERS_SWAPPING_STATION = ThemeUtils.themedItemStack(
         "TINKERS_SWAPPING_STATION",
-        Material.LOOM,
+        MaterialCompat.safe(XMaterial.LOOM),
         ThemeItemType.MACHINE,
         "Tinker's Swapping Station",
         "Swaps parts of tools with new parts."
@@ -89,7 +90,7 @@ public final class Workstations {
     // Modification
     public static final SlimefunItemStack TINKERS_MOD_STATION = ThemeUtils.themedItemStack(
         "TINKERS_MOD_STATION",
-        Material.GRINDSTONE,
+        MaterialCompat.safe(XMaterial.GRINDSTONE),
         ThemeItemType.MACHINE,
         "Tinker's Modification Station",
         "Applies modifications to tools and weapons."
@@ -102,39 +103,39 @@ public final class Workstations {
     };
 
     private static final ItemStack[] RECIPE_TINKERS_WORKBENCH = new ItemStack[]{
-        new ItemStack(Material.IRON_BLOCK), new ItemStack(Material.IRON_BLOCK), new ItemStack(Material.IRON_BLOCK),
-        new ItemStack(Material.OAK_PLANKS), new ItemStack(Material.CRAFTING_TABLE), new ItemStack(Material.OAK_PLANKS),
-        new ItemStack(Material.OAK_PLANKS), new ItemStack(Material.DISPENSER), new ItemStack(Material.OAK_PLANKS)
+        new ItemStack(MaterialCompat.safe(XMaterial.IRON_BLOCK)), new ItemStack(MaterialCompat.safe(XMaterial.IRON_BLOCK)), new ItemStack(MaterialCompat.safe(XMaterial.IRON_BLOCK)),
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), new ItemStack(MaterialCompat.safe(XMaterial.CRAFTING_TABLE)), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)),
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), new ItemStack(MaterialCompat.safe(XMaterial.DISPENSER)), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS))
     };
 
     private static final ItemStack[] RECIPE_TINKERS_TABLE = new ItemStack[]{
         Materials.BLOCK_CAST_STEEL.item(), Materials.BLOCK_CAST_STEEL.item(), Materials.BLOCK_CAST_STEEL.item(),
-        new ItemStack(Material.OAK_PLANKS), Workstations.TINKERS_WORKBENCH.item(), new ItemStack(Material.OAK_PLANKS),
-        new ItemStack(Material.OAK_PLANKS), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(Material.OAK_PLANKS)
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), Workstations.TINKERS_WORKBENCH.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)),
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS))
     };
 
     private static final ItemStack[] RECIPE_TINKERS_ARMOUR_TABLE = new ItemStack[]{
         Materials.BLOCK_CAST_DAMASCUS_STEEL.item(), Materials.BLOCK_CAST_DAMASCUS_STEEL.item(), Materials.BLOCK_CAST_DAMASCUS_STEEL.item(),
-        new ItemStack(Material.OAK_PLANKS), Workstations.TINKERS_WORKBENCH.item(), new ItemStack(Material.OAK_PLANKS),
-        new ItemStack(Material.OAK_PLANKS), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(Material.OAK_PLANKS)
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), Workstations.TINKERS_WORKBENCH.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)),
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS))
     };
 
     private static final ItemStack[] RECIPE_TINKERS_REPAIR_BENCH = new ItemStack[]{
         Materials.BLOCK_CAST_ALUMINUM.item(), Materials.BLOCK_CAST_ALUMINUM.item(), Materials.BLOCK_CAST_ALUMINUM.item(),
-        new ItemStack(Material.OAK_PLANKS), Workstations.TINKERS_WORKBENCH.item(), new ItemStack(Material.OAK_PLANKS),
-        new ItemStack(Material.OAK_PLANKS), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(Material.OAK_PLANKS)
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), Workstations.TINKERS_WORKBENCH.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)),
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS))
     };
 
     private static final ItemStack[] RECIPE_TINKERS_SWAPPING_STATION = new ItemStack[]{
         Materials.BLOCK_CAST_COR_BRONZE.item(), Materials.BLOCK_CAST_COR_BRONZE.item(), Materials.BLOCK_CAST_COR_BRONZE.item(),
-        new ItemStack(Material.OAK_PLANKS), Workstations.TINKERS_WORKBENCH.item(), new ItemStack(Material.OAK_PLANKS),
-        new ItemStack(Material.OAK_PLANKS), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(Material.OAK_PLANKS)
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), Workstations.TINKERS_WORKBENCH.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)),
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS))
     };
 
     private static final ItemStack[] RECIPE_TINKERS_MOD_STATION = new ItemStack[]{
         Materials.BLOCK_CAST_REINFORCED.item(), Materials.BLOCK_CAST_REINFORCED.item(), Materials.BLOCK_CAST_REINFORCED.item(),
-        new ItemStack(Material.OAK_PLANKS), Workstations.TINKERS_TABLE.item(), new ItemStack(Material.OAK_PLANKS),
-        new ItemStack(Material.OAK_PLANKS), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(Material.OAK_PLANKS)
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), Workstations.TINKERS_TABLE.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)),
+        new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS)), SlimefunItems.POWER_CRYSTAL.item(), new ItemStack(MaterialCompat.safe(XMaterial.OAK_PLANKS))
     };
 
     public static void set(@Nonnull SlimeTinker p) {

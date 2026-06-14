@@ -4,8 +4,9 @@ import io.github.sefiraat.slimetinker.items.Materials;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterial;
 import io.github.sefiraat.slimetinker.utils.Ids;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
-import org.bukkit.Material;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 
 import java.util.HashMap;
@@ -26,15 +27,15 @@ public final class TinkersMaterialsCore {
         .setTraitToolRod(Traits.CORE_IRON_ROD)
         .setTraitArmorPlates(Traits.CORE_IRON_PLATES)
         .setTraitArmorLinks(Traits.CORE_IRON_LINKS)
-        .setFormNugget(Material.IRON_NUGGET.toString())
-        .setFormIngot(Material.IRON_INGOT.toString())
-        .setFormBlock(Material.IRON_BLOCK.toString())
-        .setFormOre(Material.IRON_ORE.toString())
+        .setFormNugget(MaterialCompat.safe(XMaterial.IRON_NUGGET).toString())
+        .setFormIngot(MaterialCompat.safe(XMaterial.IRON_INGOT).toString())
+        .setFormBlock(MaterialCompat.safe(XMaterial.IRON_BLOCK).toString())
+        .setFormOre(MaterialCompat.safe(XMaterial.IRON_ORE).toString())
         .setFormDust(SlimefunItems.IRON_DUST.getItemId())
-        .setFormBoots(Material.IRON_BOOTS.toString())
-        .setFormLeggings(Material.IRON_LEGGINGS.toString())
-        .setFormChestplate(Material.IRON_CHESTPLATE.toString())
-        .setFormHelmet(Material.IRON_HELMET.toString())
+        .setFormBoots(MaterialCompat.safe(XMaterial.IRON_BOOTS).toString())
+        .setFormLeggings(MaterialCompat.safe(XMaterial.IRON_LEGGINGS).toString())
+        .setFormChestplate(MaterialCompat.safe(XMaterial.IRON_CHESTPLATE).toString())
+        .setFormHelmet(MaterialCompat.safe(XMaterial.IRON_HELMET).toString())
         .build();
 
     private static final TinkerMaterial GOLD = new TinkerMaterial(Ids.GOLD, SlimefunItems.GOLD_DUST.item(), "#ffe138")
@@ -43,15 +44,15 @@ public final class TinkersMaterialsCore {
         .setTraitToolRod(Traits.CORE_GOLD_ROD)
         .setTraitArmorPlates(Traits.CORE_GOLD_PLATES)
         .setTraitArmorLinks(Traits.CORE_GOLD_LINKS)
-        .setFormNugget(Material.GOLD_NUGGET.toString())
-        .setFormIngot(Material.GOLD_INGOT.toString())
-        .setFormBlock(Material.GOLD_BLOCK.toString())
-        .setFormOre(Material.GOLD_ORE.toString())
+        .setFormNugget(MaterialCompat.safe(XMaterial.GOLD_NUGGET).toString())
+        .setFormIngot(MaterialCompat.safe(XMaterial.GOLD_INGOT).toString())
+        .setFormBlock(MaterialCompat.safe(XMaterial.GOLD_BLOCK).toString())
+        .setFormOre(MaterialCompat.safe(XMaterial.GOLD_ORE).toString())
         .setFormDust(SlimefunItems.GOLD_DUST.getItemId())
-        .setFormBoots(Material.GOLDEN_BOOTS.toString())
-        .setFormLeggings(Material.GOLDEN_LEGGINGS.toString())
-        .setFormChestplate(Material.GOLDEN_CHESTPLATE.toString())
-        .setFormHelmet(Material.GOLDEN_HELMET.toString())
+        .setFormBoots(MaterialCompat.safe(XMaterial.GOLDEN_BOOTS).toString())
+        .setFormLeggings(MaterialCompat.safe(XMaterial.GOLDEN_LEGGINGS).toString())
+        .setFormChestplate(MaterialCompat.safe(XMaterial.GOLDEN_CHESTPLATE).toString())
+        .setFormHelmet(MaterialCompat.safe(XMaterial.GOLDEN_HELMET).toString())
         .build();
 
     private static final TinkerMaterial COPPER = new TinkerMaterial(Ids.COPPER, SlimefunItems.COPPER_DUST.item(), "#c99732")
@@ -138,11 +139,11 @@ public final class TinkersMaterialsCore {
         .setFormDust(SlimefunItems.MAGNESIUM_DUST.getItemId())
         .build();
 
-    private static final TinkerMaterial COAL = new TinkerMaterial(Ids.COAL, new ItemStack(Material.COAL), "#2d2e2d")
+    private static final TinkerMaterial COAL = new TinkerMaterial(Ids.COAL, new ItemStack(MaterialCompat.safe(XMaterial.COAL)), "#2d2e2d")
         .setLiquidTexture(SkullTextures.ALLOY_BROWN)
         .setFormNugget(Materials.NUGGET_CAST_COAL.getItemId())
-        .setFormIngot(Material.COAL.toString())
-        .setFormBlock(Material.COAL_BLOCK.toString())
+        .setFormIngot(MaterialCompat.safe(XMaterial.COAL).toString())
+        .setFormBlock(MaterialCompat.safe(XMaterial.COAL_BLOCK).toString())
         .build();
 
     private static final TinkerMaterial STEEL = new TinkerMaterial(Ids.STEEL, SlimefunItems.STEEL_INGOT.item(), "#d1d1d1")
@@ -365,60 +366,60 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial STRING = new TinkerMaterial(Ids.STRING, new ItemStack(Material.STRING), "#f5f5f5")
+    private static final TinkerMaterial STRING = new TinkerMaterial(Ids.STRING, new ItemStack(MaterialCompat.safe(XMaterial.STRING)), "#f5f5f5")
         .setTraitToolBinder(Traits.CORE_STRING_BINDER)
         .setTraitArmorGambeson(Traits.CORE_STRING_GAMBESON)
         .build();
 
-    private static final TinkerMaterial VINE = new TinkerMaterial(Ids.VINE, new ItemStack(Material.VINE), "#4ca86b")
+    private static final TinkerMaterial VINE = new TinkerMaterial(Ids.VINE, new ItemStack(MaterialCompat.safe(XMaterial.VINE)), "#4ca86b")
         .setTraitToolBinder(Traits.CORE_VINE_BINDER)
         .setTraitArmorGambeson(Traits.CORE_VINE_GAMBESON)
         .build();
 
-    private static final TinkerMaterial CRIMSON_ROOTS = new TinkerMaterial(Ids.CRIMSON_ROOTS, new ItemStack(Material.CRIMSON_ROOTS), "#b5365e")
+    private static final TinkerMaterial CRIMSON_ROOTS = new TinkerMaterial(Ids.CRIMSON_ROOTS, new ItemStack(MaterialCompat.safe(XMaterial.CRIMSON_ROOTS)), "#b5365e")
         .setTraitToolBinder(Traits.CORE_CRIMSON_ROOT_BINDER)
         .setTraitArmorGambeson(Traits.CORE_CRIMSON_ROOT_GAMBESON)
         .build();
 
-    private static final TinkerMaterial WARPED_ROOTS = new TinkerMaterial(Ids.WARPED_ROOTS, new ItemStack(Material.WARPED_ROOTS), "#36b549")
+    private static final TinkerMaterial WARPED_ROOTS = new TinkerMaterial(Ids.WARPED_ROOTS, new ItemStack(MaterialCompat.safe(XMaterial.WARPED_ROOTS)), "#36b549")
         .setTraitToolBinder(Traits.CORE_WARPED_ROOT_BINDER)
         .setTraitArmorGambeson(Traits.CORE_WARPED_ROOT_GAMBESON)
         .build();
 
-    private static final TinkerMaterial WEEPING_VINES = new TinkerMaterial(Ids.WEEPING_VINES, new ItemStack(Material.WEEPING_VINES), "#9c091d")
+    private static final TinkerMaterial WEEPING_VINES = new TinkerMaterial(Ids.WEEPING_VINES, new ItemStack(MaterialCompat.safe(XMaterial.WEEPING_VINES)), "#9c091d")
         .setTraitToolBinder(Traits.CORE_WEEPING_VINE_BINDER)
         .setTraitArmorGambeson(Traits.CORE_WEEPING_VINE_GAMBESON)
         .build();
 
-    private static final TinkerMaterial TWISTING_VINES = new TinkerMaterial(Ids.TWISTING_VINES, new ItemStack(Material.TWISTING_VINES), "#1b8045")
+    private static final TinkerMaterial TWISTING_VINES = new TinkerMaterial(Ids.TWISTING_VINES, new ItemStack(MaterialCompat.safe(XMaterial.TWISTING_VINES)), "#1b8045")
         .setTraitToolBinder(Traits.CORE_TWISTING_VINE_BINDER)
         .setTraitArmorGambeson(Traits.CORE_TWISTING_VINE_GAMBESON)
         .build();
 
-    private static final TinkerMaterial SLIME = new TinkerMaterial(Ids.SLIME, new ItemStack(Material.SLIME_BALL), "#29e01f")
+    private static final TinkerMaterial SLIME = new TinkerMaterial(Ids.SLIME, new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL)), "#29e01f")
         .setLiquidTexture(SkullTextures.ALLOY_GREEN)
         .setTraitToolBinder(Traits.CORE_SLIME_BINDER)
         .setTraitArmorGambeson(Traits.CORE_SLIME_GAMBESON)
         .build();
 
-    private static final TinkerMaterial REDSTONE = new TinkerMaterial(Ids.REDSTONE, new ItemStack(Material.REDSTONE), "#c4082e")
+    private static final TinkerMaterial REDSTONE = new TinkerMaterial(Ids.REDSTONE, new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE)), "#c4082e")
         .setLiquidTexture(SkullTextures.ALLOY_RED)
-        .setFormBlock(Material.REDSTONE_BLOCK.toString())
-        .setFormOre(Material.REDSTONE_ORE.toString())
-        .setFormGem(Material.REDSTONE.toString())
+        .setFormBlock(MaterialCompat.safe(XMaterial.REDSTONE_BLOCK).toString())
+        .setFormOre(MaterialCompat.safe(XMaterial.REDSTONE_ORE).toString())
+        .setFormGem(MaterialCompat.safe(XMaterial.REDSTONE).toString())
         .build();
 
     private static final TinkerMaterial SILICON = new TinkerMaterial(Ids.SILICON, SlimefunItems.SILICON.item(), "#f2f2f2")
         .setLiquidTexture(SkullTextures.ALLOY_SILVER)
         .setTraitToolBinder(Traits.CORE_SILICON_BINDER)
         .setTraitArmorGambeson(Traits.CORE_SILICON_GAMBESON)
-        .setFormIngot(Material.QUARTZ.toString())
-        .setFormBlock(Material.QUARTZ_BLOCK.toString())
-        .setFormOre(Material.NETHER_QUARTZ_ORE.toString())
+        .setFormIngot(MaterialCompat.safe(XMaterial.QUARTZ).toString())
+        .setFormBlock(MaterialCompat.safe(XMaterial.QUARTZ_BLOCK).toString())
+        .setFormOre(MaterialCompat.safe(XMaterial.NETHER_QUARTZ_ORE).toString())
         .setFormGem(SlimefunItems.SILICON.getItemId())
         .build();
 
-    private static final TinkerMaterial LEATHER = new TinkerMaterial(Ids.LEATHER, new ItemStack(Material.LEATHER), "#918056")
+    private static final TinkerMaterial LEATHER = new TinkerMaterial(Ids.LEATHER, new ItemStack(MaterialCompat.safe(XMaterial.LEATHER)), "#918056")
         .setTraitToolBinder(Traits.CORE_LEATHER_BINDER)
         .setTraitArmorGambeson(Traits.CORE_LEATHER_GAMBESON)
         .build();
@@ -452,16 +453,16 @@ public final class TinkersMaterialsCore {
         )
         .build();
 
-    private static final TinkerMaterial DIAMOND = new TinkerMaterial(Ids.DIAMOND, new ItemStack(Material.DIAMOND), "#5fdde8")
+    private static final TinkerMaterial DIAMOND = new TinkerMaterial(Ids.DIAMOND, new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND)), "#5fdde8")
         .setLiquidTexture(SkullTextures.ALLOY_BLUE)
-        .setFormBlock(Material.DIAMOND_BLOCK.toString())
-        .setFormOre(Material.DIAMOND_ORE.toString())
-        .setFormGem(Material.DIAMOND.toString())
+        .setFormBlock(MaterialCompat.safe(XMaterial.DIAMOND_BLOCK).toString())
+        .setFormOre(MaterialCompat.safe(XMaterial.DIAMOND_ORE).toString())
+        .setFormGem(MaterialCompat.safe(XMaterial.DIAMOND).toString())
         .build();
 
-    private static final TinkerMaterial DRACONIC = new TinkerMaterial(Ids.DRACONIC, new ItemStack(Material.DRAGON_BREATH), "#9532a8")
+    private static final TinkerMaterial DRACONIC = new TinkerMaterial(Ids.DRACONIC, new ItemStack(MaterialCompat.safe(XMaterial.DRAGON_BREATH)), "#9532a8")
         .setLiquidTexture(SkullTextures.ALLOY_PURPLE_DEEP)
-        .setFormGem(Material.DRAGON_BREATH.toString())
+        .setFormGem(MaterialCompat.safe(XMaterial.DRAGON_BREATH).toString())
         .build();
 
     private static final TinkerMaterial BOOMERITE = new TinkerMaterial(Ids.BOOMERITE, Materials.INGOT_CAST_BOOMERITE.item(), "#d94c00")

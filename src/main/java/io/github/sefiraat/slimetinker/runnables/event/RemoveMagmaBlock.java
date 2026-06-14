@@ -1,6 +1,7 @@
 package io.github.sefiraat.slimetinker.runnables.event;
 
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.block.Block;
 import org.bukkit.scheduler.BukkitRunnable;
 
@@ -14,6 +15,6 @@ public class RemoveMagmaBlock extends BukkitRunnable {
 
     @Override
     public void run() {
-        block.setType(Material.LAVA);
+        block.setType(MaterialCompat.safe(XMaterial.LAVA));
     }
 }

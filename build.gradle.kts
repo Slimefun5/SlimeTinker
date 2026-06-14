@@ -36,7 +36,7 @@ dependencies {
     compileOnly("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
 
-    githubImplementation("Slimefun5:InfinityLib:v1.3.12")
+    githubImplementation("Slimefun5:InfinityLib:v1.3.13")
         implementation("co.aikar:acf-paper:0.5.1-SNAPSHOT")
 
     testImplementation(platform("org.junit:junit-bom:5.11.4"))

@@ -4,8 +4,9 @@ import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.events.friend.TraitEventType;
 import io.github.sefiraat.slimetinker.modifiers.Modifications;
 import io.github.sefiraat.slimetinker.utils.EntityUtils;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Color;
-import org.bukkit.Material;
 import org.bukkit.Particle;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.LivingEntity;
@@ -83,8 +84,8 @@ public class EntityDamagedListener implements Listener {
     private void modChecks(ItemStack heldItem, EventFriend friend) {
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
 
-        if (modLevels.containsKey(Material.QUARTZ.toString())) { // QUARTZ
-            modCheckQuartz(modLevels.get(Material.QUARTZ.toString()), friend);
+        if (modLevels.containsKey(MaterialCompat.safe(XMaterial.QUARTZ).toString())) { // QUARTZ
+            modCheckQuartz(modLevels.get(MaterialCompat.safe(XMaterial.QUARTZ).toString()), friend);
         }
     }
 

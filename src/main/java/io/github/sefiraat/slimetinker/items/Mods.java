@@ -3,11 +3,12 @@ package io.github.sefiraat.slimetinker.items;
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.itemgroups.ItemGroups;
 import io.github.sefiraat.slimetinker.items.workstations.modificationstation.DummyModificationStation;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
-import org.bukkit.Material;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 
 public final class Mods {
@@ -18,7 +19,7 @@ public final class Mods {
 
     public static final SlimefunItemStack MOD_REDSTONE_DUMMY = ThemeUtils.themedItemStack(
         "MOD_REDSTONE_DUMMY",
-        Material.REDSTONE,
+        MaterialCompat.safe(XMaterial.REDSTONE),
         ThemeItemType.MOD,
         "Modification: Redstone",
         ThemeUtils.PASSIVE + "When applied to a tool, the holder",
@@ -28,7 +29,7 @@ public final class Mods {
 
     public static final SlimefunItemStack MOD_LAPIS_DUMMY = ThemeUtils.themedItemStack(
         "MOD_LAPIS_DUMMY",
-        Material.LAPIS_LAZULI,
+        MaterialCompat.safe(XMaterial.LAPIS_LAZULI),
         ThemeItemType.MOD,
         "Modification: Lapis",
         ThemeUtils.PASSIVE + "When applied to a tool, the holder",
@@ -39,7 +40,7 @@ public final class Mods {
 
     public static final SlimefunItemStack MOD_QUARTZ_DUMMY = ThemeUtils.themedItemStack(
         "MOD_QUARTZ_DUMMY",
-        Material.QUARTZ,
+        MaterialCompat.safe(XMaterial.QUARTZ),
         ThemeItemType.MOD,
         "Modification: Quartz",
         ThemeUtils.PASSIVE + "When applied to a tool, the holder",
@@ -50,7 +51,7 @@ public final class Mods {
 
     public static final SlimefunItemStack MOD_DIAMOND_DUMMY = ThemeUtils.themedItemStack(
         "MOD_DIAMOND_DUMMY",
-        Material.DIAMOND,
+        MaterialCompat.safe(XMaterial.DIAMOND),
         ThemeItemType.MOD,
         "Modification: Diamond",
         ThemeUtils.PASSIVE + "When applied to a tool, the holder",
@@ -60,7 +61,7 @@ public final class Mods {
 
     public static final SlimefunItemStack MOD_EMERALD_DUMMY = ThemeUtils.themedItemStack(
         "MOD_EMERALD_DUMMY",
-        Material.EMERALD,
+        MaterialCompat.safe(XMaterial.EMERALD),
         ThemeItemType.MOD,
         "Modification: Emerald",
         ThemeUtils.PASSIVE + "When applied to a tool, the holder",
@@ -72,7 +73,7 @@ public final class Mods {
 
     public static final SlimefunItemStack MOD_PLATE_DUMMY = ThemeUtils.themedItemStack(
         "MOD_PLATE_DUMMY",
-        Material.OBSIDIAN,
+        MaterialCompat.safe(XMaterial.OBSIDIAN),
         ThemeItemType.MOD,
         "Modification: Reinforced Plate",
         ThemeUtils.PASSIVE + "A tool with this modification has a",

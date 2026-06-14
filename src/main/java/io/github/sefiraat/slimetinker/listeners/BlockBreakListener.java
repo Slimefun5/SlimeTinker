@@ -4,6 +4,7 @@ import io.github.sefiraat.slimetinker.events.friend.EventChannels;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.events.friend.TraitEventType;
 import io.github.sefiraat.slimetinker.modifiers.Modifications;
+import io.github.sefiraat.slimetinker.utils.BlockDataCompat;
 import io.github.sefiraat.slimetinker.utils.BlockUtils;
 import io.github.sefiraat.slimetinker.utils.Experience;
 import io.github.sefiraat.slimetinker.utils.Ids;
@@ -11,12 +12,13 @@ import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Color;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.Particle;
 import org.bukkit.block.Block;
-import org.bukkit.block.data.Ageable;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -24,10 +26,9 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.event.block.BlockDropItemEvent;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.persistence.PersistentDataContainer;
-import org.bukkit.persistence.PersistentDataType;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -106,7 +107,7 @@ public class BlockBreakListener implements Listener {
             event.getItems().clear();
             Player player = friend.getPlayer();
             for (ItemStack i : friend.getDrops()) { // Drop items in original collection not flagged for removal
-                if (friend.getRemoveDrops().contains(i) || i.getType() == Material.AIR) {
+                if (friend.getRemoveDrops().contains(i) || i.getType() == MaterialCompat.safe(XMaterial.AIR)) {
                     continue;
                 }
                 if (friend.isBlocksIntoInv()) {
@@ -136,15 +137,13 @@ public class BlockBreakListener implements Listener {
 
         ItemMeta im = itemStack.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
 
-        String toolType = c.get(Keys.TOOL_INFO_TOOL_TYPE, PersistentDataType.STRING);
+        String toolType = Pdc.getString(im, Keys.TOOL_INFO_TOOL_TYPE.toString());
         assert toolType != null;
 
         // Hoe Stuff (Ageable and fully grown only)
-        if (block.getBlockData() instanceof Ageable) {
-            Ageable ageable = (Ageable) block.getBlockData();
-            if (ageable.getAge() == ageable.getMaximumAge()) {
+        if (BlockDataCompat.isAgeable(block)) {
+            if (BlockDataCompat.isFullyGrownAgeable(block)) {
                 return toolType.equals(Ids.HOE);
             }
             return false;
@@ -169,12 +168,12 @@ public class BlockBreakListener implements Listener {
 
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
 
-        if (block.getDrops().isEmpty() || !modLevels.containsKey(Material.LAPIS_LAZULI.toString()) || heldItem.containsEnchantment(Enchantment.SILK_TOUCH)) { // There must be drops, the tools must have the lapis mod and the tool cannot have silk
+        if (block.getDrops().isEmpty() || !modLevels.containsKey(MaterialCompat.safe(XMaterial.LAPIS_LAZULI).toString()) || heldItem.containsEnchantment(Enchantment.SILK_TOUCH)) { // There must be drops, the tools must have the lapis mod and the tool cannot have silk
             return;
         }
 
-        int lapisLevel = modLevels.get(Material.LAPIS_LAZULI.toString());
-        ItemStack dummyFortune = new ItemStack(Material.DIAMOND_PICKAXE);
+        int lapisLevel = modLevels.get(MaterialCompat.safe(XMaterial.LAPIS_LAZULI).toString());
+        ItemStack dummyFortune = new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND_PICKAXE));
         dummyFortune.addEnchantment(Enchantment.LOOT_BONUS_BLOCKS, 3);
 
         List<Material> materialList = new ArrayList<>();

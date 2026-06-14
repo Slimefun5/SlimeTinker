@@ -2,23 +2,24 @@ package io.github.sefiraat.slimetinker.events;
 
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
+import io.github.sefiraat.slimetinker.utils.AttributeCompat;
 import io.github.sefiraat.slimetinker.utils.EntityUtils;
 import io.github.sefiraat.slimetinker.utils.GeneralUtils;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.protection.Interaction;
 import org.bukkit.Bukkit;
 import org.bukkit.Color;
 import org.bukkit.Effect;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Location;
-import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.Particle;
-import org.bukkit.attribute.Attribute;
 import org.bukkit.entity.Animals;
 import org.bukkit.entity.EnderDragon;
 import org.bukkit.entity.Entity;
@@ -64,7 +65,7 @@ public final class EntityDamageEvents {
             int rndZ = ThreadLocalRandom.current().nextInt(-25, 26);
             Entity entity = friend.getDamagedEntity();
             Location location = entity.getLocation().clone().add(rndX, rndY, rndZ);
-            if (entity.getWorld().getBlockAt(location).getType() == Material.AIR) {
+            if (entity.getWorld().getBlockAt(location).getType() == MaterialCompat.safe(XMaterial.AIR)) {
                 entity.teleport(location);
                 entity.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.SMOKE, 10);
             }
@@ -152,7 +153,7 @@ public final class EntityDamageEvents {
         }
         int rnd = ThreadLocalRandom.current().nextInt(1, 4);
         if (rnd == 1) {
-            p.setHealth(Math.min(p.getHealth() + 1, p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue()));
+            p.setHealth(Math.min(p.getHealth() + 1, AttributeCompat.getMaxHealth(p)));
         }
     }
 
@@ -237,8 +238,8 @@ public final class EntityDamageEvents {
     public static void headReinforcedDraconium(EventFriend friend) {
         if (friend.getDamagedEntity() instanceof EnderDragon) {
             final Player player = friend.getPlayer();
-            final int stacks = PersistentDataAPI.getInt(player, Keys.DRACONIC_STACKS, 0);
-            final long falloff = PersistentDataAPI.getLong(player, Keys.DRACONIC_DURATION, 0L);
+            final int stacks = Pdc.getInt(player, Keys.DRACONIC_STACKS.toString(), 0);
+            final long falloff = Pdc.getLong(player, Keys.DRACONIC_DURATION.toString(), 0L);
 
             if (falloff >= System.currentTimeMillis()) {
                 friend.setDamageMod(friend.getDamageMod() + (0.1 * stacks));
@@ -268,7 +269,7 @@ public final class EntityDamageEvents {
     public static void rodOsmium(EventFriend friend) {
         LivingEntity e = (LivingEntity) friend.getDamagedEntity();
         if (e.getType() == EntityType.ENDERMAN) {
-            PersistentDataAPI.setString(e, new NamespacedKey(SlimeTinker.getInstance(), "ST_STOP_TELEPORT"), "Y");
+            Pdc.setString(e, new NamespacedKey(SlimeTinker.getInstance(), "ST_STOP_TELEPORT").toString(), "Y");
             e.addPotionEffect(new PotionEffect(PotionEffectType.SLOW, 100, 5, true, true));
         }
     }
@@ -324,7 +325,7 @@ public final class EntityDamageEvents {
                 return true;
             }
 
-            final long cleaveCooldown = PersistentDataAPI.getLong(entity, key, 0);
+            final long cleaveCooldown = Pdc.getLong(entity, key.toString(), 0);
             return System.currentTimeMillis() < cleaveCooldown;
         });
 
@@ -333,7 +334,7 @@ public final class EntityDamageEvents {
                 final Particle.DustOptions dustOptions = new Particle.DustOptions(Color.fromRGB(250, 75, 10), 3);
                 final LivingEntity livingEntity = (LivingEntity) entity;
 
-                PersistentDataAPI.setLong(entity, key, System.currentTimeMillis() + 1000);
+                Pdc.setLong(entity, key.toString(), System.currentTimeMillis() + 1000);
                 livingEntity.damage(friend.getInitialDamage(), friend.getPlayer());
                 entity.getWorld().spawnParticle(Particle.REDSTONE, entity.getLocation(), 2, 1, 1, 1, 1, dustOptions);
             }
@@ -401,7 +402,7 @@ public final class EntityDamageEvents {
         if (friend.getDamagedEntity() instanceof LivingEntity) {
             friend.setCancelEvent(true);
             LivingEntity l = (LivingEntity) friend.getDamagedEntity();
-            l.setHealth(Math.min(l.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue(), l.getHealth() + friend.getInitialDamage()));
+            l.setHealth(Math.min(AttributeCompat.getMaxHealth(l), l.getHealth() + friend.getInitialDamage()));
         }
 
     }
@@ -455,11 +456,11 @@ public final class EntityDamageEvents {
             ItemStack i = friend.getActiveStack();
             ItemMeta im = i.getItemMeta();
             NamespacedKey k = Keys.ARMOUR_SOULS_STORED;
-            long souls = PersistentDataAPI.getLong(im, k, 0);
+            long souls = Pdc.getLong(im, k.toString(), 0);
             friend.setDamageMod(friend.getDamageMod() + ((double) souls / 10000L));
             if (friend.getInitialDamage() >= e.getHealth()) {
                 souls = Math.max(souls + 1, 10000L);
-                PersistentDataAPI.setLong(im, k, souls);
+                Pdc.setLong(im, k.toString(), souls);
             }
             i.setItemMeta(im);
         }

@@ -12,7 +12,8 @@ import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 
 public final class Parts {
@@ -129,7 +130,7 @@ public final class Parts {
 
     public static final SlimefunItemStack PART_REPAIR_KIT_DUMMY = ThemeUtils.themedItemStack(
         "PART_REPAIR_KIT_DUMMY",
-        Material.CHEST_MINECART,
+        MaterialCompat.safe(XMaterial.CHEST_MINECART),
         ThemeItemType.CAST,
         "Part: Repair Kit",
         ThemeUtils.PASSIVE + "Repairs broken items in the Repair Bench."
@@ -185,7 +186,7 @@ public final class Parts {
 
     public static final SlimefunItemStack PART_REPAIR_KIT = ThemeUtils.themedItemStack(
         "PART_REPAIR_KIT",
-        Material.CHEST_MINECART,
+        MaterialCompat.safe(XMaterial.CHEST_MINECART),
         ThemeItemType.PART,
         DESC_ERROR,
         ThemeUtils.PASSIVE + DESC_ERROR
@@ -193,7 +194,7 @@ public final class Parts {
 
     public static final SlimefunItemStack PART_BINDING_GENERAL_DISPLAY = ThemeUtils.themedItemStack(
         "PART_BINDING_GENERAL_DISPLAY",
-        Material.STRING,
+        MaterialCompat.safe(XMaterial.STRING),
         ThemeItemType.CRAFTING,
         "Binding Material",
         ThemeUtils.PASSIVE + "A material suitable to make binding from.",
@@ -243,7 +244,7 @@ public final class Parts {
 
     public static final SlimefunItemStack PART_GAMBESON_GENERAL_DISPLAY = ThemeUtils.themedItemStack(
         "PART_GAMBESON_GENERAL_DISPLAY",
-        Material.STRING,
+        MaterialCompat.safe(XMaterial.STRING),
         ThemeItemType.CRAFTING,
         "Gambeson Material",
         ThemeUtils.PASSIVE + "A material suitable to make a Gambeson.",

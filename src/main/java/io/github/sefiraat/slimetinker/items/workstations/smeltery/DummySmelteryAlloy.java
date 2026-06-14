@@ -5,13 +5,14 @@ import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 
 public final class DummySmelteryAlloy {
 
     public static final SlimefunItemStack STACK = ThemeUtils.themedItemStack(
         "DUMMY_TINKERS_SMELTERY_ALLOY",
-        Material.CHISELED_POLISHED_BLACKSTONE,
+        MaterialCompat.safe(XMaterial.CHISELED_POLISHED_BLACKSTONE),
         ThemeItemType.MACHINE,
         "Tinker's Smeltery",
         "This alloy is made in the Tinker's",

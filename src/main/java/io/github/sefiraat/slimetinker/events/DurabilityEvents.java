@@ -3,7 +3,8 @@ package io.github.sefiraat.slimetinker.events;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.Damageable;
 import org.bukkit.inventory.meta.ItemMeta;
@@ -79,8 +80,8 @@ public final class DurabilityEvents {
         if (d.getDamage() < 50) {
             return;
         }
-        ItemStack i = new ItemStack(Material.IRON_INGOT, 1);
-        if (friend.getPlayer().getInventory().containsAtLeast(new ItemStack(Material.IRON_INGOT), 1)) {
+        ItemStack i = new ItemStack(MaterialCompat.safe(XMaterial.IRON_INGOT), 1);
+        if (friend.getPlayer().getInventory().containsAtLeast(new ItemStack(MaterialCompat.safe(XMaterial.IRON_INGOT)), 1)) {
             ItemUtils.repairItem(friend.getTool(), 50);
             friend.getPlayer().getInventory().removeItem(i);
             friend.getPlayer().sendMessage(ThemeUtils.SUCCESS + "Your tool was repaired with some iron you had lying around!");

@@ -6,7 +6,7 @@ import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
@@ -45,10 +45,10 @@ public class PartTemplate extends UnplaceableBlock {
         ItemMeta im = itemStack.getItemMeta();
         im.setLore(getLore(material, color));
         im.setDisplayName(color + getName(material));
-        PersistentDataAPI.setString(im, Keys.PART_MATERIAL, material);
-        PersistentDataAPI.setString(im, Keys.PART_CLASS, partClass);
+        Pdc.setString(im, Keys.PART_MATERIAL.toString(), material);
+        Pdc.setString(im, Keys.PART_CLASS.toString(), partClass);
         if (partType != null) {
-            PersistentDataAPI.setString(im, Keys.PART_TYPE, partType);
+            Pdc.setString(im, Keys.PART_TYPE.toString(), partType);
         }
         itemStack.setItemMeta(im);
         return itemStack;

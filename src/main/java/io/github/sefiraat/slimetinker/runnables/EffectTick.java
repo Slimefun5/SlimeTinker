@@ -6,7 +6,8 @@ import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.events.friend.TraitEventType;
 import io.github.sefiraat.slimetinker.modifiers.Modifications;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.potion.PotionEffect;
@@ -57,7 +58,7 @@ public class EffectTick extends BukkitRunnable {
 
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
         for (Map.Entry<String, Integer> entry : modLevels.entrySet()) {
-            if (Material.REDSTONE.toString().equals(entry.getKey())) {
+            if (MaterialCompat.safe(XMaterial.REDSTONE).toString().equals(entry.getKey())) {
                 modRedstone(entry.getValue(), potionEffects);
             }
         }

@@ -2,13 +2,11 @@ package io.github.sefiraat.slimetinker.utils;
 
 import io.github.sefiraat.slimetinker.items.Guide;
 import io.github.sefiraat.slimetinker.modifiers.Modifications;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.compat.Pdc;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.persistence.PersistentDataContainer;
-import org.bukkit.persistence.PersistentDataType;
 
 import java.util.Map;
 import java.util.concurrent.ThreadLocalRandom;
@@ -23,34 +21,33 @@ public final class Experience {
     public static final double EXP_GROWTH = 1.3;
 
     public static void setupExpNew(ItemMeta im) {
-        PersistentDataAPI.setInt(im, Keys.ST_EXP_CURRENT, 0);
-        PersistentDataAPI.setDouble(im, Keys.ST_EXP_REQUIRED, EXP_LEVEL_BASE);
-        PersistentDataAPI.setInt(im, Keys.ST_LEVEL, 0);
-        PersistentDataAPI.setInt(im, Keys.ST_MOD_SLOTS, 0);
+        Pdc.setInt(im, Keys.ST_EXP_CURRENT.toString(), 0);
+        Pdc.setDouble(im, Keys.ST_EXP_REQUIRED.toString(), EXP_LEVEL_BASE);
+        Pdc.setInt(im, Keys.ST_LEVEL.toString(), 0);
+        Pdc.setInt(im, Keys.ST_MOD_SLOTS.toString(), 0);
     }
 
     public static void addExp(ItemStack itemStack, int amount, Player player, boolean tool) {
 
         ItemMeta im = itemStack.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
 
         if (copperChecks(itemStack, player, amount)) {
             return;
         }
 
         // Add the EXP given
-        int currentExp = c.get(Keys.ST_EXP_CURRENT, PersistentDataType.INTEGER);
-        double expRequired = c.get(Keys.ST_EXP_REQUIRED, PersistentDataType.DOUBLE);
-        int level = c.get(Keys.ST_LEVEL, PersistentDataType.INTEGER);
-        int modSlots = c.get(Keys.ST_MOD_SLOTS, PersistentDataType.INTEGER);
+        int currentExp = Pdc.getInt(im, Keys.ST_EXP_CURRENT.toString(), 0);
+        double expRequired = Pdc.getDouble(im, Keys.ST_EXP_REQUIRED.toString(), 0);
+        int level = Pdc.getInt(im, Keys.ST_LEVEL.toString(), 0);
+        int modSlots = Pdc.getInt(im, Keys.ST_MOD_SLOTS.toString(), 0);
         int newExp = 0;
 
         // Emerald mod
         Map<String, Integer> modLevels = Modifications.getAllModLevels(itemStack);
 
-        if (modLevels.containsKey(Material.EMERALD.toString())) { // EMERALD
-            int eLevel = modLevels.get(Material.EMERALD.toString());
+        if (modLevels.containsKey(MaterialCompat.safe(XMaterial.EMERALD).toString())) { // EMERALD
+            int eLevel = modLevels.get(MaterialCompat.safe(XMaterial.EMERALD).toString());
             if (eLevel > 0) amount = tool ? amount + eLevel : (int) Math.ceil(amount * (1 + eLevel * 0.1));
         }
 
@@ -69,10 +66,10 @@ public final class Experience {
             newExp = currentExp + amount;
         }
 
-        c.set(Keys.ST_EXP_CURRENT, PersistentDataType.INTEGER, newExp);
-        c.set(Keys.ST_EXP_REQUIRED, PersistentDataType.DOUBLE, expRequired);
-        c.set(Keys.ST_LEVEL, PersistentDataType.INTEGER, level);
-        c.set(Keys.ST_MOD_SLOTS, PersistentDataType.INTEGER, modSlots);
+        Pdc.setInt(im, Keys.ST_EXP_CURRENT.toString(), newExp);
+        Pdc.setDouble(im, Keys.ST_EXP_REQUIRED.toString(), expRequired);
+        Pdc.setInt(im, Keys.ST_LEVEL.toString(), level);
+        Pdc.setInt(im, Keys.ST_MOD_SLOTS.toString(), modSlots);
 
         itemStack.setItemMeta(im);
 
@@ -89,9 +86,9 @@ public final class Experience {
         ItemMeta im = itemStack.getItemMeta();
         String type;
         if (ItemUtils.isTool(itemStack)) {
-            type = PersistentDataAPI.getString(im, Keys.TOOL_INFO_TOOL_TYPE);
+            type = Pdc.getString(im, Keys.TOOL_INFO_TOOL_TYPE.toString());
         } else if (ItemUtils.isArmour(itemStack)) {
-            type = PersistentDataAPI.getString(im, Keys.ARMOUR_INFO_ARMOUR_TYPE);
+            type = Pdc.getString(im, Keys.ARMOUR_INFO_ARMOUR_TYPE.toString());
         } else {
             throw new IllegalArgumentException("Trying to promote something that isn't armour or a tool!");
         }

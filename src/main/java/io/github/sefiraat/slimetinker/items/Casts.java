@@ -8,9 +8,10 @@ import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.ChatColor;
-import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
 public final class Casts {
@@ -26,7 +27,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_NUGGET =
         ThemeUtils.themedItemStack(
             "CAST_NUGGET",
-            Material.YELLOW_CARPET,
+            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
             ThemeItemType.CAST,
             "Cast: Metal Nugget",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -37,7 +38,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_BLOCK =
         ThemeUtils.themedItemStack(
             "CAST_BLOCK",
-            Material.YELLOW_CARPET,
+            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
             ThemeItemType.CAST,
             "Cast: Metal Block",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -48,7 +49,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_INGOT =
         ThemeUtils.themedItemStack(
             "CAST_INGOT",
-            Material.YELLOW_CARPET,
+            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
             ThemeItemType.CAST,
             "Cast: Metal Ingot",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -59,7 +60,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_GEM =
         ThemeUtils.themedItemStack(
             "CAST_GEM",
-            Material.YELLOW_CARPET,
+            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
             ThemeItemType.CAST,
             "Cast: Gem",
             ThemeUtils.PASSIVE + "A cast for non-metallic liquids.",
@@ -70,7 +71,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_SHOVELHEAD =
         ThemeUtils.themedItemStack(
             "CAST_SHOVELHEAD",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Shovel Head",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -81,7 +82,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_PICKAXEHEAD =
         ThemeUtils.themedItemStack(
             "CAST_PICKAXEHEAD",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Pickaxe Head",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -92,7 +93,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_AXEHEAD =
         ThemeUtils.themedItemStack(
             "CAST_AXE_HEAD",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Axe Head",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -103,7 +104,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_HOEHEAD =
         ThemeUtils.themedItemStack(
             "CAST_HOEHEAD",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Hoe Head",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -114,7 +115,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_SWORDBLADE =
         ThemeUtils.themedItemStack(
             "CAST_SWORDBLADE",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Sword Blade",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -125,7 +126,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_TOOLROD =
         ThemeUtils.themedItemStack(
             "CAST_TOOLROD",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Tool Rod",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -136,7 +137,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_HELM_PLATE =
         ThemeUtils.themedItemStack(
             "CAST_HELM_PLATE",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Helmet Plates",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -147,7 +148,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_CHEST_PLATE =
         ThemeUtils.themedItemStack(
             "CAST_CHEST_PLATE",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Chestplate Plates",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -158,7 +159,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_LEG_PLATE =
         ThemeUtils.themedItemStack(
             "CAST_LEG_PLATE",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Legging Plates",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -169,7 +170,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_BOOT_PLATE =
         ThemeUtils.themedItemStack(
             "CAST_BOOT_PLATE",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Boot Plates",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -180,7 +181,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_MAIL_LINK =
         ThemeUtils.themedItemStack(
             "CAST_MAIL_LINK",
-            Material.ORANGE_CARPET,
+            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
             ThemeItemType.CAST,
             "Cast: Mail Links",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -191,7 +192,7 @@ public final class Casts {
     public static final SlimefunItemStack CAST_REPAIRKIT =
         ThemeUtils.themedItemStack(
             "CAST_REPAIRKIT",
-            Material.YELLOW_CARPET,
+            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
             ThemeItemType.CAST,
             "Cast: Repair Kit",
             ThemeUtils.PASSIVE + CAST_DESC,
@@ -200,22 +201,22 @@ public final class Casts {
             ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Repair Kit"
         );
     protected static final ItemStack[] RECIPE_CAST_NUGGET = new ItemStack[]{
-        new ItemStack(Material.GOLD_INGOT, 2), new ItemStack(Material.IRON_NUGGET), null,
+        new ItemStack(MaterialCompat.safe(XMaterial.GOLD_INGOT), 2), new ItemStack(MaterialCompat.safe(XMaterial.IRON_NUGGET)), null,
         null, null, null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_CAST_INGOT = new ItemStack[]{
-        new ItemStack(Material.GOLD_INGOT, 2), new ItemStack(Material.BRICK), null,
+        new ItemStack(MaterialCompat.safe(XMaterial.GOLD_INGOT), 2), new ItemStack(MaterialCompat.safe(XMaterial.BRICK)), null,
         null, null, null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_CAST_BLOCK = new ItemStack[]{
-        new ItemStack(Material.GOLD_INGOT, 2), new ItemStack(Material.STONE), null,
+        new ItemStack(MaterialCompat.safe(XMaterial.GOLD_INGOT), 2), new ItemStack(MaterialCompat.safe(XMaterial.STONE)), null,
         null, null, null,
         null, null, null
     };
     protected static final ItemStack[] RECIPE_CAST_GEM = new ItemStack[]{
-        new ItemStack(Material.GOLD_INGOT, 2), new ItemStack(Material.DIAMOND), null,
+        new ItemStack(MaterialCompat.safe(XMaterial.GOLD_INGOT), 2), new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND)), null,
         null, null, null,
         null, null, null
     };
@@ -275,7 +276,7 @@ public final class Casts {
         null, null, null
     };
     protected static final ItemStack[] RECIPE_CAST_REPAIR_KIT = new ItemStack[]{
-        new ItemStack(Material.GOLD_INGOT, 2), Dies.DIE_REPAIR_KIT.item(), null,
+        new ItemStack(MaterialCompat.safe(XMaterial.GOLD_INGOT), 2), Dies.DIE_REPAIR_KIT.item(), null,
         null, null, null,
         null, null, null
     };

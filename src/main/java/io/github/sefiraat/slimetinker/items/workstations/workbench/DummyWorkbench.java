@@ -5,13 +5,14 @@ import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 
 public final class DummyWorkbench {
 
     public static final SlimefunItemStack STACK = ThemeUtils.themedItemStack(
         "DUMMY_TINKERS_SMELTERY",
-        Material.FLETCHING_TABLE,
+        MaterialCompat.safe(XMaterial.FLETCHING_TABLE),
         ThemeItemType.MACHINE,
         "ToolTable",
         "This item is crafted in the workbench."

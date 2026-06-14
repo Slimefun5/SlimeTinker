@@ -3,11 +3,14 @@ package io.github.sefiraat.slimetinker.events;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.listeners.BlockMap;
 import io.github.sefiraat.slimetinker.managers.MemoryManager;
+import io.github.sefiraat.slimetinker.utils.BlockDataCompat;
 import io.github.sefiraat.slimetinker.utils.GeneralUtils;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import io.github.thebusybiscuit.slimefun5.utils.tags.SlimefunTag;
 import org.bukkit.Bukkit;
 import org.bukkit.Color;
@@ -159,34 +162,34 @@ public final class BlockBreakEvents {
                 case ANDESITE:
                 case GRANITE:
                 case DIORITE:
-                    m = Material.GRAVEL;
+                    m = MaterialCompat.safe(XMaterial.GRAVEL);
                     break;
                 case BONE_BLOCK:
-                    m = Material.BONE_MEAL;
+                    m = MaterialCompat.safe(XMaterial.BONE_MEAL);
                     amount = 9;
                     break;
                 case SANDSTONE:
-                    m = Material.SAND;
+                    m = MaterialCompat.safe(XMaterial.SAND);
                     amount = 4;
                     break;
                 case RED_SANDSTONE:
-                    m = Material.RED_SAND;
+                    m = MaterialCompat.safe(XMaterial.RED_SAND);
                     amount = 4;
                     break;
                 case PRISMARINE_BRICKS:
-                    m = Material.PRISMARINE;
+                    m = MaterialCompat.safe(XMaterial.PRISMARINE);
                     amount = 2;
                     break;
                 case PRISMARINE:
-                    m = Material.PRISMARINE_SHARD;
+                    m = MaterialCompat.safe(XMaterial.PRISMARINE_SHARD);
                     amount = 4;
                     break;
                 case NETHER_WART_BLOCK:
-                    m = Material.NETHER_WART;
+                    m = MaterialCompat.safe(XMaterial.NETHER_WART);
                     amount = 9;
                     break;
                 case QUARTZ_BLOCK:
-                    m = Material.QUARTZ;
+                    m = MaterialCompat.safe(XMaterial.QUARTZ);
                     amount = 4;
                     break;
                 default:
@@ -224,19 +227,19 @@ public final class BlockBreakEvents {
             ItemStack i;
             int rnd2 = GeneralUtils.roll(1000);
             if (rnd2 > 975) {
-                i = new ItemStack(Material.ANCIENT_DEBRIS);
+                i = new ItemStack(MaterialCompat.safe(XMaterial.ANCIENT_DEBRIS));
             } else if (rnd2 > 900) {
-                i = new ItemStack(Material.DIAMOND);
+                i = new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND));
             } else if (rnd2 > 800) {
-                i = new ItemStack(Material.LAPIS_LAZULI);
+                i = new ItemStack(MaterialCompat.safe(XMaterial.LAPIS_LAZULI));
             } else if (rnd2 > 700) {
-                i = new ItemStack(Material.REDSTONE);
+                i = new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE));
             } else if (rnd2 > 550) {
-                i = new ItemStack(Material.GOLD_ORE);
+                i = new ItemStack(MaterialCompat.safe(XMaterial.GOLD_ORE));
             } else if (rnd2 > 400) {
-                i = new ItemStack(Material.IRON_ORE);
+                i = new ItemStack(MaterialCompat.safe(XMaterial.IRON_ORE));
             } else {
-                i = new ItemStack(Material.COAL);
+                i = new ItemStack(MaterialCompat.safe(XMaterial.COAL));
             }
             friend.getAddDrops().add(i);
             Particle.DustOptions dustOptions = new Particle.DustOptions(Color.fromRGB(60, 60, 60), 2);
@@ -283,7 +286,7 @@ public final class BlockBreakEvents {
 
     public static void plateBronze(EventFriend friend) {
         Block b = friend.getBlock();
-        if (org.bukkit.Tag.CROPS.isTagged(b.getType())) {
+        if (BlockDataCompat.isCrop(b.getType())) {
             Optional<ItemStack> opStack = b.getDrops().stream().findFirst();
             if (opStack.isPresent()) {
                 ItemStack i = opStack.get();

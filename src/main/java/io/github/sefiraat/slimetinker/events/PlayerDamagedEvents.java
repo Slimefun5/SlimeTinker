@@ -4,20 +4,21 @@ import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.items.Materials;
 import io.github.sefiraat.slimetinker.runnables.event.RemoveWolf;
+import io.github.sefiraat.slimetinker.utils.AttributeCompat;
 import io.github.sefiraat.slimetinker.utils.EntityUtils;
 import io.github.sefiraat.slimetinker.utils.GeneralUtils;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.WorldUtils;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Color;
 import org.bukkit.Effect;
 import org.bukkit.Location;
-import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.Particle;
-import org.bukkit.attribute.Attribute;
 import org.bukkit.entity.EnderDragon;
 import org.bukkit.entity.Enderman;
 import org.bukkit.entity.Entity;
@@ -205,8 +206,8 @@ public final class PlayerDamagedEvents {
     public static void plateSilver(EventFriend friend) {
         NamespacedKey key = Keys.STOP_EVENTS;
         Player player = friend.getPlayer();
-        if (!PersistentDataAPI.hasInt(player, key) && friend.getCause() == EntityDamageEvent.DamageCause.LIGHTNING) {
-            PersistentDataAPI.setInt(player, key, 1);
+        if (!Pdc.hasInt(player, key.toString()) && friend.getCause() == EntityDamageEvent.DamageCause.LIGHTNING) {
+            Pdc.setInt(player, key.toString(), 1);
             friend.setCancelEvent(true);
             int rnd = ThreadLocalRandom.current().nextInt(3, 7);
             for (int i = 0; i <= rnd; i++) {
@@ -214,7 +215,7 @@ public final class PlayerDamagedEvents {
                 int rndz = ThreadLocalRandom.current().nextInt(-3, 4);
                 player.getWorld().strikeLightningEffect(player.getLocation().clone().add(rndx, 0, rndz));
             }
-            PersistentDataAPI.remove(player, key);
+            Pdc.remove(player, key.toString());
         }
     }
 
@@ -226,7 +227,7 @@ public final class PlayerDamagedEvents {
 
     public static void linksAluBronze(EventFriend friend) {
         Player p = friend.getPlayer();
-        if (p.getHealth() <= (p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue() / 2)) {
+        if (p.getHealth() <= (AttributeCompat.getMaxHealth(p) / 2)) {
             p.addPotionEffect(new PotionEffect(PotionEffectType.LEVITATION, 100, 2));
         }
     }
@@ -239,7 +240,7 @@ public final class PlayerDamagedEvents {
             int rndZ = ThreadLocalRandom.current().nextInt(-25, 26);
             Player p = friend.getPlayer();
             Location location = p.getLocation().clone().add(rndX, rndY, rndZ);
-            if (p.getWorld().getBlockAt(location).getType() == Material.AIR) {
+            if (p.getWorld().getBlockAt(location).getType() == MaterialCompat.safe(XMaterial.AIR)) {
                 p.teleport(location);
                 p.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.SMOKE, 10);
             }
@@ -265,7 +266,7 @@ public final class PlayerDamagedEvents {
 
     public static void linksBrass(EventFriend friend) {
         Player p = friend.getPlayer();
-        if (p.getHealth() <= (p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue() / 2)) {
+        if (p.getHealth() <= (AttributeCompat.getMaxHealth(p) / 2)) {
             p.addPotionEffect(new PotionEffect(PotionEffectType.SPEED, 100, 2));
         }
     }
@@ -293,7 +294,7 @@ public final class PlayerDamagedEvents {
     public static void plateGold(EventFriend friend) {
         if (GeneralUtils.testChance(1, 100)) {
             Location l = friend.getPlayer().getLocation();
-            l.getWorld().dropItemNaturally(l, new ItemStack(Material.GOLD_NUGGET));
+            l.getWorld().dropItemNaturally(l, new ItemStack(MaterialCompat.safe(XMaterial.GOLD_NUGGET)));
         }
     }
 
@@ -330,7 +331,7 @@ public final class PlayerDamagedEvents {
         if (friend.getCause() == EntityDamageEvent.DamageCause.CONTACT) {
             Player p = friend.getPlayer();
             friend.setDamageMod(0);
-            p.setHealth(Math.min(p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue(), p.getHealth() + friend.getInitialDamage()));
+            p.setHealth(Math.min(AttributeCompat.getMaxHealth(p), p.getHealth() + friend.getInitialDamage()));
         }
     }
 
@@ -365,8 +366,8 @@ public final class PlayerDamagedEvents {
     public static void plateSingSilver(EventFriend friend) {
         NamespacedKey key = Keys.STOP_EVENTS;
         Player player = friend.getPlayer();
-        if (!PersistentDataAPI.hasInt(player, key) && friend.getCause() == EntityDamageEvent.DamageCause.LIGHTNING) {
-            PersistentDataAPI.setInt(player, key, 1);
+        if (!Pdc.hasInt(player, key.toString()) && friend.getCause() == EntityDamageEvent.DamageCause.LIGHTNING) {
+            Pdc.setInt(player, key.toString(), 1);
             friend.setCancelEvent(true);
             int rnd = ThreadLocalRandom.current().nextInt(7, 20);
             for (int i = 0; i <= rnd; i++) {
@@ -374,7 +375,7 @@ public final class PlayerDamagedEvents {
                 int rndz = ThreadLocalRandom.current().nextInt(-5, 6);
                 player.getWorld().strikeLightningEffect(player.getLocation().clone().add(rndx, 0, rndz));
             }
-            PersistentDataAPI.remove(player, key);
+            Pdc.remove(player, key.toString());
         }
     }
 
@@ -461,10 +462,10 @@ public final class PlayerDamagedEvents {
         ItemStack i = friend.getActiveStack();
         ItemMeta im = i.getItemMeta();
         NamespacedKey k = Keys.ARMOUR_INFINITE_CAPACITY_STORED;
-        double d = PersistentDataAPI.getDouble(im, k, 0);
+        double d = Pdc.getDouble(im, k.toString(), 0);
         if (d < 5) {
             d = Math.min(5, d + friend.getInitialDamage() / 10);
-            PersistentDataAPI.setDouble(im, k, d);
+            Pdc.setDouble(im, k.toString(), d);
             i.setItemMeta(im);
         }
     }
@@ -479,9 +480,9 @@ public final class PlayerDamagedEvents {
     public static void headReinforcedDraconium(EventFriend friend) {
         if (friend.getDamagingEntity() instanceof EnderDragon) {
             final Player player = friend.getPlayer();
-            final int stacks = PersistentDataAPI.getInt(player, Keys.DRACONIC_STACKS, 0);
-            PersistentDataAPI.setInt(player, Keys.DRACONIC_STACKS, stacks + 1);
-            PersistentDataAPI.setLong(player, Keys.DRACONIC_DURATION, System.currentTimeMillis() + (15 * 1000));
+            final int stacks = Pdc.getInt(player, Keys.DRACONIC_STACKS.toString(), 0);
+            Pdc.setInt(player, Keys.DRACONIC_STACKS.toString(), stacks + 1);
+            Pdc.setLong(player, Keys.DRACONIC_DURATION.toString(), System.currentTimeMillis() + (15 * 1000));
         }
     }
 
@@ -489,7 +490,7 @@ public final class PlayerDamagedEvents {
         ItemStack i = friend.getActiveStack();
         ItemMeta im = i.getItemMeta();
         NamespacedKey k = Keys.ARMOUR_INFINITLY_POWERFUL_STORED;
-        int d = PersistentDataAPI.getInt(im, k, 0);
+        int d = Pdc.getInt(im, k.toString(), 0);
         d = (int) (d + friend.getInitialDamage());
         int numberOfEnchants = 0;
         for (int level : i.getEnchantments().values()) {
@@ -498,9 +499,9 @@ public final class PlayerDamagedEvents {
         int requirement = 2000 + (2000 * numberOfEnchants);
         if (d >= requirement) {
             ItemUtils.incrementRandomEnchant(i, im);
-            PersistentDataAPI.setInt(im, k, 0);
+            Pdc.setInt(im, k.toString(), 0);
         } else {
-            PersistentDataAPI.setInt(im, k, d);
+            Pdc.setInt(im, k.toString(), d);
         }
         i.setItemMeta(im);
     }
@@ -539,7 +540,7 @@ public final class PlayerDamagedEvents {
 
     public static void plateSingGold(EventFriend friend) {
         if (friend.getInitialDamage() >= 1 && GeneralUtils.testChance(1, 100)) {
-            WorldUtils.dropItem(new ItemStack(Material.GOLD_NUGGET, GeneralUtils.roll(4)), friend.getPlayer());
+            WorldUtils.dropItem(new ItemStack(MaterialCompat.safe(XMaterial.GOLD_NUGGET), GeneralUtils.roll(4)), friend.getPlayer());
         }
     }
 
@@ -551,7 +552,7 @@ public final class PlayerDamagedEvents {
         ) {
             Player p = friend.getPlayer();
             friend.setCancelEvent(true);
-            p.setHealth(Math.min(p.getHealth() + friend.getInitialDamage(), p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue()));
+            p.setHealth(Math.min(p.getHealth() + friend.getInitialDamage(), AttributeCompat.getMaxHealth(p)));
         }
     }
 
@@ -572,13 +573,13 @@ public final class PlayerDamagedEvents {
             ItemStack i = friend.getActiveStack();
             ItemMeta im = i.getItemMeta();
             NamespacedKey k = Keys.ARMOUR_HYPERBOLIC_STORED;
-            int amount = PersistentDataAPI.getInt(im, k, 0);
+            int amount = Pdc.getInt(im, k.toString(), 0);
             double dmg = friend.getInitialDamage() * friend.getDamageMod();
             if (amount >= dmg) {
                 friend.setCancelEvent(true);
                 amount -= dmg;
             }
-            PersistentDataAPI.setInt(im, k, amount);
+            Pdc.setInt(im, k.toString(), amount);
             i.setItemMeta(im);
         }
     }
@@ -598,7 +599,7 @@ public final class PlayerDamagedEvents {
         if (GeneralUtils.testChance(5, 100)) {
             Player p = friend.getPlayer();
             friend.setCancelEvent(true);
-            p.setHealth(Math.min(p.getHealth() + friend.getInitialDamage(), p.getAttribute(Attribute.GENERIC_MAX_HEALTH).getValue()));
+            p.setHealth(Math.min(p.getHealth() + friend.getInitialDamage(), AttributeCompat.getMaxHealth(p)));
         }
     }
 
@@ -689,9 +690,9 @@ public final class PlayerDamagedEvents {
         ItemStack i = friend.getActiveStack();
         ItemMeta im = i.getItemMeta();
         NamespacedKey k = Keys.ARMOUR_UNCONVENTIONAL_STORED;
-        int amount = PersistentDataAPI.getInt(im, k, 0);
+        int amount = Pdc.getInt(im, k.toString(), 0);
 
-        PersistentDataAPI.setInt(im, k, (int) (amount + friend.getInitialDamage()));
+        Pdc.setInt(im, k.toString(), (int) (amount + friend.getInitialDamage()));
         i.setItemMeta(im);
     }
 

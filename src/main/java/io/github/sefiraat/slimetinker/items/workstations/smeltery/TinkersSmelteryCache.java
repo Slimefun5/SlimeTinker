@@ -14,8 +14,9 @@ import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ClickAction;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Location;
-import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
@@ -67,14 +68,14 @@ public final class TinkersSmelteryCache extends AbstractCache {
         }
 
         // Inputting Lava into the tank
-        if (input.getType() == Material.LAVA_BUCKET) {
-            if (levelLava <= (LAVA_MAX - LAVA_PER_BUCKET) && blockMenu.fits(new ItemStack(Material.BUCKET), TinkersSmeltery.OUTPUT_SLOT)) {
+        if (input.getType() == MaterialCompat.safe(XMaterial.LAVA_BUCKET)) {
+            if (levelLava <= (LAVA_MAX - LAVA_PER_BUCKET) && blockMenu.fits(new ItemStack(MaterialCompat.safe(XMaterial.BUCKET)), TinkersSmeltery.OUTPUT_SLOT)) {
                 input.setAmount(input.getAmount() - 1);
-                blockMenu.pushItem(new ItemStack(Material.BUCKET), TinkersSmeltery.OUTPUT_SLOT);
+                blockMenu.pushItem(new ItemStack(MaterialCompat.safe(XMaterial.BUCKET)), TinkersSmeltery.OUTPUT_SLOT);
                 levelLava += LAVA_PER_BUCKET;
-            } else if (blockMenu.fits(new ItemStack(Material.LAVA_BUCKET), TinkersSmeltery.OUTPUT_SLOT)) {
+            } else if (blockMenu.fits(new ItemStack(MaterialCompat.safe(XMaterial.LAVA_BUCKET)), TinkersSmeltery.OUTPUT_SLOT)) {
                 input.setAmount(input.getAmount() - 1);
-                blockMenu.pushItem(new ItemStack(Material.LAVA_BUCKET), TinkersSmeltery.OUTPUT_SLOT);
+                blockMenu.pushItem(new ItemStack(MaterialCompat.safe(XMaterial.LAVA_BUCKET)), TinkersSmeltery.OUTPUT_SLOT);
             }
             return;
         }

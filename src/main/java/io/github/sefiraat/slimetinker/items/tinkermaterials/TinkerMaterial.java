@@ -15,13 +15,15 @@ import io.github.sefiraat.slimetinker.items.workstations.workbench.Workbench;
 import io.github.sefiraat.slimetinker.managers.TraitManager;
 import io.github.sefiraat.slimetinker.utils.Ids;
 import io.github.sefiraat.slimetinker.utils.Keys;
+import io.github.sefiraat.slimetinker.utils.ColorCompat;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import net.md_5.bungee.api.ChatColor;
-import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
@@ -445,7 +447,7 @@ public class TinkerMaterial {
     }
 
     public ChatColor getColor() {
-        return ChatColor.of(this.colorHex);
+        return ColorCompat.of(this.colorHex);
     }
 
     public SlimefunItemStack getLiquidItemStack(int amount) {
@@ -504,8 +506,8 @@ public class TinkerMaterial {
 
         ItemMeta im = i.getItemMeta();
 
-        PersistentDataAPI.setString(im, Keys.PART_MATERIAL, name);
-        PersistentDataAPI.setString(im, Keys.PART_CLASS, Ids.BINDING);
+        Pdc.setString(im, Keys.PART_MATERIAL.toString(), name);
+        Pdc.setString(im, Keys.PART_CLASS.toString(), Ids.BINDING);
 
         i.setItemMeta(im);
         return i;
@@ -548,8 +550,8 @@ public class TinkerMaterial {
 
         ItemMeta im = i.getItemMeta();
 
-        PersistentDataAPI.setString(im, Keys.PART_MATERIAL, name);
-        PersistentDataAPI.setString(im, Keys.PART_CLASS, Ids.GAMBESON);
+        Pdc.setString(im, Keys.PART_MATERIAL.toString(), name);
+        Pdc.setString(im, Keys.PART_CLASS.toString(), Ids.GAMBESON);
         i.setItemMeta(im);
         return i;
     }
@@ -571,7 +573,7 @@ public class TinkerMaterial {
         String titName = ThemeUtils.toTitleCase(name);
         return ThemeUtils.themedItemStack(
             "PART_REPAIR_KIT_" + name,
-            Material.CHEST_MINECART,
+            MaterialCompat.safe(XMaterial.CHEST_MINECART),
             ThemeItemType.PART,
             getColor() + titName + ThemeUtils.ITEM_PART + " Repair Kit",
             ThemeUtils.PASSIVE + "A kit that is able to repair items",

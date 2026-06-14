@@ -3,8 +3,9 @@ package io.github.sefiraat.slimetinker.listeners;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.events.friend.TraitEventType;
 import io.github.sefiraat.slimetinker.modifiers.Modifications;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Color;
-import org.bukkit.Material;
 import org.bukkit.Particle;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.LivingEntity;
@@ -89,8 +90,8 @@ public class PlayerDamagedListener implements Listener {
     private void modChecks(EntityDamageEvent event, ItemStack heldItem) { // Entity Damaging player
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
 
-        if (event instanceof EntityDamageByEntityEvent && modLevels.containsKey(Material.DIAMOND.toString())) { // DIAMOND
-            modCheckDiamond((EntityDamageByEntityEvent) event, modLevels.get(Material.DIAMOND.toString()));
+        if (event instanceof EntityDamageByEntityEvent && modLevels.containsKey(MaterialCompat.safe(XMaterial.DIAMOND).toString())) { // DIAMOND
+            modCheckDiamond((EntityDamageByEntityEvent) event, modLevels.get(MaterialCompat.safe(XMaterial.DIAMOND).toString()));
         }
 
     }

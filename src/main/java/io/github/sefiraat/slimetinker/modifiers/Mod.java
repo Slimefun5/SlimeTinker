@@ -1,6 +1,6 @@
 package io.github.sefiraat.slimetinker.modifiers;
 
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 
 import java.util.Map;
 

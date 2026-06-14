@@ -7,7 +7,8 @@ import io.github.sefiraat.slimetinker.utils.Experience;
 import io.github.sefiraat.slimetinker.utils.Ids;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -63,7 +64,7 @@ public class PlayerInteractListener implements Listener {
             String type = ItemUtils.getToolTypeName(itemStack);
             Preconditions.checkNotNull(type, "Item is tool but without a type? /sf cheat or other error has happened.");
             return ((type.equals(Ids.HOE) || type.equals(Ids.SHOVEL))
-                && (block.getType() == Material.DIRT || block.getType() == Material.GRASS_BLOCK));
+                && (block.getType() == MaterialCompat.safe(XMaterial.DIRT) || block.getType() == MaterialCompat.safe(XMaterial.GRASS_BLOCK)));
         } else {
             return false;
         }
