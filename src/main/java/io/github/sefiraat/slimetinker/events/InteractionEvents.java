@@ -262,7 +262,7 @@ public final class InteractionEvents {
 
         final Player player = friend.getPlayer();
 
-        if (player.getInventory().getItemInMainHand().getType() != MaterialCompat.safe(XMaterial.AIR)) {
+        if (player.getInventory().getItemInHand().getType() != MaterialCompat.safe(XMaterial.AIR)) {
             return;
         }
 

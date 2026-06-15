@@ -36,7 +36,7 @@ public class EntityDamagedListener implements Listener {
         }
 
         Player player = (Player) event.getDamager();
-        ItemStack heldItem = player.getInventory().getItemInMainHand();
+        ItemStack heldItem = player.getInventory().getItemInHand();
 
         EventFriend friend = new EventFriend(player, TraitEventType.ENTITY_DAMAGED);
 

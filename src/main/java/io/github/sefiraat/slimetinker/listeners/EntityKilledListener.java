@@ -79,7 +79,7 @@ public class EntityKilledListener implements Listener {
         }
 
         Player player = dyingEntity.getKiller();
-        ItemStack heldItem = player.getInventory().getItemInMainHand();
+        ItemStack heldItem = player.getInventory().getItemInHand();
 
         EventFriend friend = new EventFriend(player, TraitEventType.ENTITY_DAMAGED);
 

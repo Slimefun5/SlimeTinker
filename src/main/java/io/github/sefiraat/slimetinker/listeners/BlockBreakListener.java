@@ -45,7 +45,7 @@ public class BlockBreakListener implements Listener {
     public void onBlockBreak(BlockBreakEvent event) {
 
         Player player = event.getPlayer();
-        ItemStack heldItem = player.getInventory().getItemInMainHand();
+        ItemStack heldItem = player.getInventory().getItemInHand();
         Block block = event.getBlock();
 
         if (Slimefun.getIntegrations().isEventFaked(event)

@@ -63,7 +63,7 @@ public final class EventChannels {
 
     public static void checkTool(EventFriend friend) {
 
-        ItemStack i = friend.getPlayer().getInventory().getItemInMainHand();
+        ItemStack i = friend.getPlayer().getInventory().getItemInHand();
 
         if (!ItemUtils.isTool(i)) {
             return;

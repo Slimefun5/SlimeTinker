@@ -28,7 +28,7 @@ public class PlayerInteractListener implements Listener {
     public void onInteract(PlayerInteractEvent event) {
 
         Player player = event.getPlayer();
-        ItemStack heldItem = player.getInventory().getItemInMainHand();
+        ItemStack heldItem = player.getInventory().getItemInHand();
 
         EventFriend friend = new EventFriend(player, TraitEventType.INTERACT);
         friend.setBlock(event.getClickedBlock());

@@ -45,7 +45,7 @@ public class PlayerDamagedListener implements Listener {
         checkArmour(friend);
 
         // Mods
-        modChecks(event, player.getInventory().getItemInMainHand());
+        modChecks(event, player.getInventory().getItemInHand());
 
         // Settle
         settlePotionEffects(friend);
@@ -76,7 +76,7 @@ public class PlayerDamagedListener implements Listener {
 
         if (friend.isActionTaken()) {
             // Mods
-            modChecks(event, player.getInventory().getItemInMainHand());
+            modChecks(event, player.getInventory().getItemInHand());
 
             // Settle
             settlePotionEffects(friend);

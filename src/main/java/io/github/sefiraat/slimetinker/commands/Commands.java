@@ -35,7 +35,7 @@ public class Commands extends BaseCommand {
     public void tool(CommandSender sender, int amount) {
         if (sender instanceof Player) {
             Player p = (Player) sender;
-            ItemStack i = p.getInventory().getItemInMainHand();
+            ItemStack i = p.getInventory().getItemInHand();
             if (ItemUtils.isTool(i) || ItemUtils.isArmour(i)) {
                 Experience.addExp(i, amount, p, false);
             }

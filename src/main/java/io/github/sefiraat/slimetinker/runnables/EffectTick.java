@@ -27,7 +27,7 @@ public class EffectTick extends BukkitRunnable {
     @Override
     public void run() {
         for (Player player : SlimeTinker.getInstance().getServer().getOnlinePlayers()) {
-            ItemStack heldItem = player.getInventory().getItemInMainHand();
+            ItemStack heldItem = player.getInventory().getItemInHand();
 
             Map<PotionEffectType, Integer> potionEffects = new HashMap<>();
             EventFriend friend = new EventFriend(player, TraitEventType.TICK);
