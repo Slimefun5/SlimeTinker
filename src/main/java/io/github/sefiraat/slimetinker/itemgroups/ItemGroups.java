@@ -45,6 +45,19 @@ public final class ItemGroups {
     ).item());
 
     public static void set(SlimeTinker p) {
+        MAIN.setTheme("tools");
+        WORKSTATIONS.setTheme("machines");
+        MATERIALS.setTheme("resources");
+        MOLTEN_METALS.setTheme("resources");
+        ALLOYS.setTheme("resources");
+        CASTS.setTheme("resources");
+        PARTS.setTheme("resources");
+        TOOLS.setTheme("tools");
+        ARMOUR.setTheme("armor");
+        TRAITS.setTheme("tools");
+        MODIFICATIONS.setTheme("tools");
+        PART_DICT.setTheme("resources");
+
         MAIN.register(p);
         WORKSTATIONS.register(p);
         MATERIALS.register(p);
