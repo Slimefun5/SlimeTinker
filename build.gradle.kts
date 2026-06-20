@@ -67,7 +67,7 @@ tasks {
     }
     shadowJar {
         relocate("org.bstats", "slimetinker.libs.bstats")
-        archiveFileName.set("SlimeTinker v${project.version}-MC26.1.2.jar")
+        archiveFileName.set("SlimeTinker-1.0.0-UNOFFICIAL.jar")
         relocate("io.github.mooy1.infinitylib", "io.github.sefiraat.slimetinker.infinitylib")
                 relocate("co.aikar.commands", "io.github.sefiraat.slimetinker.acf")
         relocate("co.aikar.locales", "io.github.sefiraat.slimetinker.locales")
