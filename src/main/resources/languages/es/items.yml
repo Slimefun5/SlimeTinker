@@ -1,0 +1,36 @@
+# Traducciones de objetos al español para SlimeTinker
+# Los objetos no listados usan el inglés por defecto.
+TINKERS_SMELTERY_CORE:
+  name: "&3Fundición del Artesano"
+  lore:
+    - "&7Funde metales en líquidos."
+    - "&7Los metales pueden luego alearse"
+    - "&7y fundirse en diversas formas."
+    - "&7Requiere lava como combustible"
+TINKERS_WORKBENCH:
+  name: "&3Banco de Trabajo del Artesano"
+  lore:
+    - "&7Usado para fabricar diversos objetos"
+    - "&7y piezas para herramientas y"
+    - "&7construcciones del Artesano. También"
+    - "&7funciona como mesa de fabricación mejorada."
+TINKERS_TABLE:
+  name: "&3Mesa de Herramientas del Artesano"
+  lore:
+    - "&7Combina piezas en herramientas."
+TINKERS_ARMOUR_TABLE:
+  name: "&3Mesa de Armaduras del Artesano"
+  lore:
+    - "&7Combina piezas en piezas de armadura."
+TINKERS_REPAIR_BENCH:
+  name: "&3Banco de Reparación del Artesano"
+  lore:
+    - "&7Repara herramientas y armas."
+TINKERS_SWAPPING_STATION:
+  name: "&3Estación de Intercambio del Artesano"
+  lore:
+    - "&7Intercambia piezas de herramientas por nuevas."
+TINKERS_MOD_STATION:
+  name: "&3Estación de Modificación del Artesano"
+  lore:
+    - "&7Aplica modificaciones a herramientas y armas."

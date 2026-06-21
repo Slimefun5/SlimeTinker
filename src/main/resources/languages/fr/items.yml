@@ -1,0 +1,36 @@
+# Traductions françaises des objets pour SlimeTinker
+# Les objets non listés utilisent l'anglais par défaut.
+TINKERS_SMELTERY_CORE:
+  name: "&3Fonderie du Bricoleur"
+  lore:
+    - "&7Fait fondre les métaux en liquides."
+    - "&7Les métaux peuvent ensuite être alliés"
+    - "&7et coulés sous diverses formes."
+    - "&7Nécessite de la lave comme combustible"
+TINKERS_WORKBENCH:
+  name: "&3Établi du Bricoleur"
+  lore:
+    - "&7Utilisé pour fabriquer divers objets"
+    - "&7et pièces pour les outils et les"
+    - "&7constructions du Bricoleur. Sert aussi"
+    - "&7de table de fabrication améliorée."
+TINKERS_TABLE:
+  name: "&3Table à Outils du Bricoleur"
+  lore:
+    - "&7Combine les pièces en outils."
+TINKERS_ARMOUR_TABLE:
+  name: "&3Table d'Armure du Bricoleur"
+  lore:
+    - "&7Combine les pièces en pièces d'armure."
+TINKERS_REPAIR_BENCH:
+  name: "&3Établi de Réparation du Bricoleur"
+  lore:
+    - "&7Répare les outils et les armes."
+TINKERS_SWAPPING_STATION:
+  name: "&3Station d'Échange du Bricoleur"
+  lore:
+    - "&7Échange les pièces des outils contre de nouvelles."
+TINKERS_MOD_STATION:
+  name: "&3Station de Modification du Bricoleur"
+  lore:
+    - "&7Applique des modifications aux outils et aux armes."

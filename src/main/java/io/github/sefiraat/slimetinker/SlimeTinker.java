@@ -21,6 +21,7 @@ import io.github.sefiraat.slimetinker.managers.MemoryManager;
 import io.github.sefiraat.slimetinker.managers.TraitManager;
 import io.github.sefiraat.slimetinker.runnables.RunnableManager;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.updater.BlobBuildUpdater;
 
 import org.bukkit.plugin.java.JavaPlugin;
@@ -82,6 +83,8 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
         if (getConfig().getBoolean("auto-update") && getDescription().getVersion().startsWith("Dev")) {
             new BlobBuildUpdater(this, getFile(), "SlimeTinker", "Dev").start();
         }
+
+        Slimefun.getItemTranslationService().registerTranslations(this);
     }
 
     @Override

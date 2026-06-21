@@ -1,0 +1,36 @@
+# Deutsche Item-Übersetzungen für SlimeTinker
+# Nicht aufgeführte Items fallen auf Englisch zurück.
+TINKERS_SMELTERY_CORE:
+  name: "&3Schmelzofen des Tüftlers"
+  lore:
+    - "&7Schmilzt Metalle zu Flüssigkeiten."
+    - "&7Metalle können dann legiert und"
+    - "&7in verschiedene Formen gegossen werden."
+    - "&7Benötigt Lava als Brennstoff"
+TINKERS_WORKBENCH:
+  name: "&3Werkbank des Tüftlers"
+  lore:
+    - "&7Zum Herstellen verschiedener Gegenstände"
+    - "&7und Teile für Werkzeuge und Konstruktionen"
+    - "&7des Tüftlers. Dient auch als"
+    - "&7verbesserter Handwerkstisch."
+TINKERS_TABLE:
+  name: "&3Werkzeugtisch des Tüftlers"
+  lore:
+    - "&7Kombiniert Teile zu Werkzeugen."
+TINKERS_ARMOUR_TABLE:
+  name: "&3Rüstungstisch des Tüftlers"
+  lore:
+    - "&7Kombiniert Teile zu Rüstungsteilen."
+TINKERS_REPAIR_BENCH:
+  name: "&3Reparaturbank des Tüftlers"
+  lore:
+    - "&7Repariert Werkzeuge und Waffen."
+TINKERS_SWAPPING_STATION:
+  name: "&3Austauschstation des Tüftlers"
+  lore:
+    - "&7Tauscht Teile von Werkzeugen gegen neue Teile aus."
+TINKERS_MOD_STATION:
+  name: "&3Modifikationsstation des Tüftlers"
+  lore:
+    - "&7Wendet Modifikationen auf Werkzeuge und Waffen an."
