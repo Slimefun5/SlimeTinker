@@ -85,6 +85,22 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
         }
 
         Slimefun.getItemTranslationService().registerTranslations(this);
+        registerWiki();
+    }
+
+    private void registerWiki() {
+        io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiText wiki = io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getWikiText();
+        String topicId = "addon_slimetinker";
+        wiki.registerTopic(new io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiTopic(topicId, "Slime Tinker", io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial.ANVIL, "&7Modular, upgradeable tools"));
+        wiki.setMechanic(topicId, java.util.Arrays.asList(
+            "&7Forge modular tools and armor from", "&7interchangeable parts at the workbench.", "",
+            "&7Each part adds traits scaling with its", "&7material; tools gain XP and level up to", "&7unlock extra modifier slots over time.", "",
+            "&7Click an item below for its recipe."));
+        java.util.List<String> items = new java.util.ArrayList<>();
+        for (io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem item : io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getRegistry().getEnabledSlimefunItems()) {
+            try { if (item.getAddon() == this) { items.add(item.getId()); } } catch (Exception | LinkageError ignored) { }
+        }
+        wiki.setTopicItems(topicId, items);
     }
 
     @Override
