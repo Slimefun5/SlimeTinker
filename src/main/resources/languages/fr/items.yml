@@ -1,36 +1,428 @@
 # Traductions françaises des objets pour SlimeTinker
-# Les objets non listés utilisent l'anglais par défaut.
-TINKERS_SMELTERY_CORE:
+# Items not listed fall back to English.
+ARMOUR_BOOTS_DUMMY:
+  name: "&aBottes du Bricoleur"
+ARMOUR_CHESTPLATE_DUMMY:
+  name: "&aPlastron du Bricoleur"
+ARMOUR_HELMET_DUMMY:
+  name: "&aCasque du Bricoleur"
+ARMOUR_INFO:
+  name: "&3Armure du Bricoleur: Info"
+ARMOUR_LEGGINGS_DUMMY:
+  name: "&aJambières du Bricoleur"
+BLOCK_CAST_ADAMANTITE:
+  name: "&7Bloc d'Adamanitite"
+BLOCK_CAST_ADVANCED_ALLOY:
+  name: "&7Bloc d'Alliage Avancé"
+BLOCK_CAST_ALUMINUM:
+  name: "&7Bloc d'Aluminium"
+BLOCK_CAST_ALU_BRASS:
+  name: "&7Bloc de Laiton d'Aluminium"
+BLOCK_CAST_ALU_BRONZE:
+  name: "&7Bloc de Bronze d'Aluminium"
+BLOCK_CAST_ANNIVERSARIUM:
+  name: "&7Bloc d'Anniversarium"
+BLOCK_CAST_BILLON:
+  name: "&7Bloc de Billon"
+BLOCK_CAST_BOOMERITE:
+  name: "&7Bloc de Boomérite"
+BLOCK_CAST_BRASS:
+  name: "&7Bloc de Laiton"
+BLOCK_CAST_BRONZE:
+  name: "&7Bloc de Bronze"
+BLOCK_CAST_COBALT:
+  name: "&7Bloc de Cobalt"
+BLOCK_CAST_COPPER:
+  name: "&7Bloc de Cuivre"
+BLOCK_CAST_COR_BRONZE:
+  name: "&7Bloc de Bronze Corinthien"
+BLOCK_CAST_CRINGLEIUM:
+  name: "&7Bloc de Cringleium"
+BLOCK_CAST_DAMASCUS_STEEL:
+  name: "&7Bloc d'Acier de Damas"
+BLOCK_CAST_DURALIUM:
+  name: "&7Bloc de Duralium"
+BLOCK_CAST_FERROSILICON:
+  name: "&7Bloc de Ferrosilicium"
+BLOCK_CAST_HARD_METAL:
+  name: "&7Bloc de Métal Durci"
+BLOCK_CAST_INFINITY:
+  name: "&7Bloc d'Infini"
+BLOCK_CAST_IRIDIUM:
+  name: "&7Bloc d'Iridium"
+BLOCK_CAST_LEAD:
+  name: "&7Bloc de Plomb"
+BLOCK_CAST_LOVE:
+  name: "&7Bloc d'Amour"
+BLOCK_CAST_MAGNESIUM:
+  name: "&7Bloc de Magnésium"
+BLOCK_CAST_MAGNONIUM:
+  name: "&7Bloc de Magnonium"
+BLOCK_CAST_MAGSTEEL:
+  name: "&7Bloc de MagAcier"
+BLOCK_CAST_MAG_THOR:
+  name: "&7Bloc de Mag-Thor"
+BLOCK_CAST_MIXED_METAL:
+  name: "&7Bloc de Métal Mixte"
+BLOCK_CAST_MYTHRIL:
+  name: "&7Bloc de Mithril"
+BLOCK_CAST_NICE:
+  name: "&7Bloc de Nice"
+BLOCK_CAST_NICKEL:
+  name: "&7Bloc de Nickel"
+BLOCK_CAST_OSMIUM:
+  name: "&7Bloc d'Osmium"
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Bloc de Superalliage d'Osmium"
+BLOCK_CAST_REDSTONE_ALLOY:
+  name: "&7Bloc d'Alliage de Redstone"
+BLOCK_CAST_REFINED_IRON:
+  name: "&7Bloc de Fer Raffiné"
+BLOCK_CAST_REINFORCED:
+  name: "&7Bloc d'Alliage Renforcé"
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  name: "&7Bloc de Draconium Renforcé"
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Bloc d'Acier de Slime Renforcé"
+BLOCK_CAST_SCRAP:
+  name: "&7Bloc de Ferraille"
+BLOCK_CAST_SEFIRITE:
+  name: "&7Bloc de Séfirite"
+BLOCK_CAST_SILVER:
+  name: "&7Bloc d'Argent"
+BLOCK_CAST_SLIMESTEEL:
+  name: "&7Bloc d'Acier de Slime"
+BLOCK_CAST_SMITHIUM:
+  name: "&7Bloc de Smithium"
+BLOCK_CAST_SOLDER:
+  name: "&7Bloc de Soudure"
+BLOCK_CAST_STAINLESSSTEEL:
+  name: "&7Bloc d'Acier Inoxydable"
+BLOCK_CAST_STEEL:
+  name: "&7Bloc d'Acier"
+BLOCK_CAST_TIN:
+  name: "&7Bloc d'Étain"
+BLOCK_CAST_TITANIUM:
+  name: "&7Bloc de Titane"
+BLOCK_CAST_UNPATENTABILUM:
+  name: "&7Bloc d'Unpatentabilum"
+BLOCK_CAST_VOID:
+  name: "&7Bloc de Vide"
+BLOCK_CAST_ZINC:
+  name: "&7Bloc de Zinc"
+CAST_AXE_HEAD:
+  name: "&eMoule: Tête de Hache"
+CAST_BLOCK:
+  name: "&eMoule: Bloc de Métal"
+CAST_BOOT_PLATE:
+  name: "&eMoule: Plaques de Bottes"
+CAST_CHEST_PLATE:
+  name: "&eMoule: Plaques de Plastron"
+CAST_GEM:
+  name: "&eMoule: Gemme"
+CAST_HELM_PLATE:
+  name: "&eMoule: Plaques de Casque"
+CAST_HOEHEAD:
+  name: "&eMoule: Tête de Houe"
+CAST_INGOT:
+  name: "&eMoule: Lingot de Métal"
+CAST_LEG_PLATE:
+  name: "&eMoule: Plaques de Jambières"
+CAST_MAIL_LINK:
+  name: "&eMoule: Maillons"
+CAST_NUGGET:
+  name: "&eMoule: Pépite de Métal"
+CAST_PICKAXEHEAD:
+  name: "&eMoule: Tête de Pioche"
+CAST_REPAIRKIT:
+  name: "&eMoule: Kit de Réparation"
+CAST_SHOVELHEAD:
+  name: "&eMoule: Tête de Pelle"
+CAST_SWORDBLADE:
+  name: "&eMoule: Lame d'Épée"
+CAST_TOOLROD:
+  name: "&eMoule: Tige d'Outil"
+DIE_AXE_HEAD:
+  name: "&eMatrice: Tête de Hache de Pierre"
+DIE_BOOT_PLATE:
+  name: "&eMatrice: Plaques de Bottes de Pierre"
+DIE_CHEST_PLATE:
+  name: "&eMatrice: Plaques de Plastron de Pierre"
+DIE_HELM_PLATE:
+  name: "&eMatrice: Plaques de Casque de Pierre"
+DIE_HOE_HEAD:
+  name: "&eMatrice: Tête de Houe de Pierre"
+DIE_LEG_PLATE:
+  name: "&eMatrice: Plaques de Jambières de Pierre"
+DIE_MAIL_LINK:
+  name: "&eMatrice: Maillons"
+DIE_PICKAXE_HEAD:
+  name: "&eMatrice: Tête de Pioche de Pierre"
+DIE_REPAIR_KIT:
+  name: "&eMatrice: Kit de Réparation"
+DIE_SHOVEL_HEAD:
+  name: "&eMatrice: Tête de Pelle de Pierre"
+DIE_SWORD_BLADE:
+  name: "&eMatrice: Lame d'Épée de Pierre"
+DIE_TOOL_ROD:
+  name: "&eMatrice: Tige d'Outil"
+DUMMY_MODIFICATION_STATION:
+  name: "&3Station de Modification du Bricoleur"
+DUMMY_TINKERS_ARMOUR_TABLE:
+  name: "&3Table d'Armure du Bricoleur"
+DUMMY_TINKERS_SMELTERY:
   name: "&3Fonderie du Bricoleur"
-  lore:
-    - "&7Fait fondre les métaux en liquides."
-    - "&7Les métaux peuvent ensuite être alliés"
-    - "&7et coulés sous diverses formes."
-    - "&7Nécessite de la lave comme combustible"
-TINKERS_WORKBENCH:
-  name: "&3Établi du Bricoleur"
-  lore:
-    - "&7Utilisé pour fabriquer divers objets"
-    - "&7et pièces pour les outils et les"
-    - "&7constructions du Bricoleur. Sert aussi"
-    - "&7de table de fabrication améliorée."
-TINKERS_TABLE:
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  name: "&3Fonderie du Bricoleur"
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  name: "&3Fonderie du Bricoleur"
+DUMMY_TINKERS_SMELTERY_MULTI:
+  name: "&3Fonderie du Bricoleur"
+DUMMY_TINKERS_SMELTERY_PROP:
+  name: "&3Fonderie du Bricoleur"
+DUMMY_TINKERS_TABLE:
   name: "&3Table à Outils du Bricoleur"
-  lore:
-    - "&7Combine les pièces en outils."
+GROUT:
+  name: "&7Mortier"
+INGOT_CAST_ANNIVERSARIUM:
+  name: "&7Lingot d'Anniversarium"
+INGOT_CAST_BOOMERITE:
+  name: "&7Lingot de Boomérite"
+INGOT_CAST_CRINGLEIUM:
+  name: "&7Lingot de Cringleium"
+INGOT_CAST_DAXI_ABSORPTION:
+  name: "&7Lingot d'Absorption Daxi"
+INGOT_CAST_DAXI_FORTITUDE:
+  name: "&7Lingot de Résistance Daxi"
+INGOT_CAST_DAXI_REGENERATION:
+  name: "&7Lingot de Régénération Daxi"
+INGOT_CAST_DAXI_SATURATION:
+  name: "&7Lingot de Saturation Daxi"
+INGOT_CAST_DAXI_STRENGTH:
+  name: "&7Lingot de Force Daxi"
+INGOT_CAST_DEVOTION:
+  name: "&7Lingot de Dévotion"
+INGOT_CAST_FONDNESS:
+  name: "&7Lingot d'Affection"
+INGOT_CAST_LOVE:
+  name: "&7Lingot d'Amour"
+INGOT_CAST_NICE:
+  name: "&7Lingot de Nice"
+INGOT_CAST_PASSION:
+  name: "&7Lingot de Passion"
+INGOT_CAST_REINFORCED_DRACONIUM:
+  name: "&7Lingot de Draconium Renforcé"
+INGOT_CAST_SEFIRITE:
+  name: "&7Lingot de Séfirite"
+INGOT_CAST_SMITHIUM:
+  name: "&7Lingot de Smithium"
+MOD_DIAMOND_DUMMY:
+  name: "&dModification: Diamant"
+MOD_EMERALD_DUMMY:
+  name: "&dModification: Émeraude"
+MOD_LAPIS_DUMMY:
+  name: "&dModification: Lapis"
+MOD_PLATE:
+  name: "&dPlaque Renforcée"
+MOD_PLATE_DUMMY:
+  name: "&dModification: Plaque Renforcée"
+MOD_QUARTZ_DUMMY:
+  name: "&dModification: Quartz"
+MOD_REDSTONE_DUMMY:
+  name: "&dModification: Redstone"
+NUGGET_CAST_ADAMANTITE:
+  name: "&7Pépite d'Adamantite"
+NUGGET_CAST_ADVANCED_ALLOY:
+  name: "&7Pépite d'Alliage Avancé"
+NUGGET_CAST_ALUMINUM:
+  name: "&7Pépite d'Aluminium"
+NUGGET_CAST_ALU_BRASS:
+  name: "&7Pépite de Laiton d'Aluminium"
+NUGGET_CAST_ALU_BRONZE:
+  name: "&7Pépite de Bronze d'Aluminium"
+NUGGET_CAST_ANNIVERSARIUM:
+  name: "&7Pépite d'Anniversarium"
+NUGGET_CAST_BILLON:
+  name: "&7Pépite de Billon"
+NUGGET_CAST_BOOMERITE:
+  name: "&7Pépite de Boomérite"
+NUGGET_CAST_BRASS:
+  name: "&7Pépite de Laiton"
+NUGGET_CAST_BRONZE:
+  name: "&7Pépite de Bronze"
+NUGGET_CAST_COAL:
+  name: "&7Pépite de Charbon"
+NUGGET_CAST_COBALT:
+  name: "&7Pépite de Cobalt"
+NUGGET_CAST_COPPER:
+  name: "&7Pépite de Cuivre"
+NUGGET_CAST_COR_BRONZE:
+  name: "&7Pépite de Bronze Corinthien"
+NUGGET_CAST_CRINGLEIUM:
+  name: "&7Pépite de Cringleium"
+NUGGET_CAST_DAMASCUS_STEEL:
+  name: "&7Pépite d'Acier de Damas"
+NUGGET_CAST_DAXI_ABSORPTION:
+  name: "&7Pépite d'Absorption Daxi"
+NUGGET_CAST_DAXI_FORTITUDE:
+  name: "&7Pépite de Résistance Daxi"
+NUGGET_CAST_DAXI_REGENERATION:
+  name: "&7Pépite de Régénération Daxi"
+NUGGET_CAST_DAXI_SATURATION:
+  name: "&7Pépite de Saturation Daxi"
+NUGGET_CAST_DAXI_STRENGTH:
+  name: "&7Pépite de Force Daxi"
+NUGGET_CAST_DEVOTION:
+  name: "&7Pépite de Dévotion"
+NUGGET_CAST_DURALIUM:
+  name: "&7Pépite de Duralium"
+NUGGET_CAST_FERROSILICON:
+  name: "&7Pépite de Ferrosilicium"
+NUGGET_CAST_FONDNESS:
+  name: "&7Pépite d'Affection"
+NUGGET_CAST_HARD_METAL:
+  name: "&7Pépite de Métal Durci"
+NUGGET_CAST_INFINITY:
+  name: "&7Pépite d'Infini"
+NUGGET_CAST_IRIDIUM:
+  name: "&7Pépite d'Iridium"
+NUGGET_CAST_LEAD:
+  name: "&7Pépite de Plomb"
+NUGGET_CAST_LOVE:
+  name: "&7Pépite d'Amour"
+NUGGET_CAST_MAGNESIUM:
+  name: "&7Pépite de Magnésium"
+NUGGET_CAST_MAGNONIUM:
+  name: "&7Pépite de Magnonium"
+NUGGET_CAST_MAGSTEEL:
+  name: "&7Pépite de MagAcier"
+NUGGET_CAST_MAG_THOR:
+  name: "&7Pépite de Mag-Thor"
+NUGGET_CAST_MIXED_METAL:
+  name: "&7Pépite de Métal Mixte"
+NUGGET_CAST_MYTHRIL:
+  name: "&7Pépite de Mithril"
+NUGGET_CAST_NICE:
+  name: "&7Pépite de Nice"
+NUGGET_CAST_NICKEL:
+  name: "&7Pépite de Nickel"
+NUGGET_CAST_OSMIUM:
+  name: "&7Pépite d'Osmium"
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Pépite de Superalliage d'Osmium"
+NUGGET_CAST_PASSION:
+  name: "&7Pépite de Passion"
+NUGGET_CAST_REDSTONE_ALLOY:
+  name: "&7Pépite d'Alliage de Redstone"
+NUGGET_CAST_REFINED_IRON:
+  name: "&7Pépite de Fer Raffiné"
+NUGGET_CAST_REINFORCED:
+  name: "&7Pépite d'Alliage Renforcé"
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  name: "&7Pépite de Draconium Renforcé"
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Pépite d'Acier de Slime Renforcé"
+NUGGET_CAST_SCRAP:
+  name: "&7Pépite de Ferraille"
+NUGGET_CAST_SEFIRITE:
+  name: "&7Pépite de Séfirite"
+NUGGET_CAST_SILVER:
+  name: "&7Pépite d'Argent"
+NUGGET_CAST_SLIMESTEEL:
+  name: "&7Pépite d'Acier de Slime"
+NUGGET_CAST_SMITHIUM:
+  name: "&7Pépite de Smithium"
+NUGGET_CAST_SOLDER:
+  name: "&7Pépite de Soudure"
+NUGGET_CAST_STAINLESSSTEEL:
+  name: "&7Pépite d'Acier Inoxydable"
+NUGGET_CAST_STEEL:
+  name: "&7Pépite d'Acier"
+NUGGET_CAST_TIN:
+  name: "&7Pépite d'Étain"
+NUGGET_CAST_TITANIUM:
+  name: "&7Pépite de Titane"
+NUGGET_CAST_UNPATENTABILUM:
+  name: "&7Pépite d'Unpatentabilum"
+NUGGET_CAST_ZINC:
+  name: "&7Pépite de Zinc"
+PART_AXE_HEAD_DUMMY:
+  name: "&ePièce: Tête de Hache"
+PART_BINDING_DUMMY:
+  name: "&ePièce: Liaison"
+PART_BINDING_GENERAL_DISPLAY:
+  name: "&7Matériau de Liaison"
+PART_BOOT_PLATE_DUMMY:
+  name: "&ePièce: Plaques de Bottes"
+PART_CHEST_PLATE_DUMMY:
+  name: "&ePièce: Plaques de Plastron"
+PART_GAMBESON_DUMMY:
+  name: "&ePièce: Gambison"
+PART_GAMBESON_GENERAL_DISPLAY:
+  name: "&7Matériau de Gambison"
+PART_HELM_PLATE_DUMMY:
+  name: "&ePièce: Plaques de Casque"
+PART_HOE_HEAD_DUMMY:
+  name: "&ePièce: Tête de Houe"
+PART_LEG_PLATE_DUMMY:
+  name: "&ePièce: Plaques de Jambières"
+PART_MAIL_LINKS_DUMMY:
+  name: "&ePièce: Maillons"
+PART_PICKAXE_HEAD_DUMMY:
+  name: "&ePièce: Tête de Pioche"
+PART_REPAIR_KIT_DUMMY:
+  name: "&ePièce: Kit de Réparation"
+PART_SHOVEL_HEAD_DUMMY:
+  name: "&ePièce: Tête de Pelle"
+PART_SWORD_BLADE_DUMMY:
+  name: "&ePièce: Lame d'Épée"
+PART_TOOL_ROD_DUMMY:
+  name: "&ePièce: Tige d'Outil"
+PROP_BINDING:
+  name: "&bPièce: Liant"
+PROP_GAMBESON:
+  name: "&bPièce: Gambison"
+PROP_HEAD:
+  name: "&bPièce: Tête"
+PROP_LINKS:
+  name: "&bPièce: Maillons"
+PROP_PLATES:
+  name: "&bPièce: Plaques"
+PROP_ROD:
+  name: "&bPièce: Tige d'Outil"
+SEARED_BRICK:
+  name: "&7Brique Cuite"
+SEARED_BRICK_BLOCK:
+  name: "&7Bloc de Brique Cuite"
+SEARED_TANK:
+  name: "&7Réservoir Cuit"
+SMELTERY_CONTROLLER:
+  name: "&3Contrôleur de Fonderie"
+SPOUT:
+  name: "&7Bec Cuit"
 TINKERS_ARMOUR_TABLE:
   name: "&3Table d'Armure du Bricoleur"
-  lore:
-    - "&7Combine les pièces en pièces d'armure."
-TINKERS_REPAIR_BENCH:
-  name: "&3Établi de Réparation du Bricoleur"
-  lore:
-    - "&7Répare les outils et les armes."
-TINKERS_SWAPPING_STATION:
-  name: "&3Station d'Échange du Bricoleur"
-  lore:
-    - "&7Échange les pièces des outils contre de nouvelles."
 TINKERS_MOD_STATION:
   name: "&3Station de Modification du Bricoleur"
-  lore:
-    - "&7Applique des modifications aux outils et aux armes."
+TINKERS_REPAIR_BENCH:
+  name: "&3Établi de Réparation du Bricoleur"
+TINKERS_SMELTERY_CORE:
+  name: "&3Fonderie du Bricoleur"
+TINKERS_SWAPPING_STATION:
+  name: "&3Station d'Échange du Bricoleur"
+TINKERS_TABLE:
+  name: "&3Table à Outils du Bricoleur"
+TINKERS_WORKBENCH:
+  name: "&3Établi du Bricoleur"
+TOOL_AXE_DUMMY:
+  name: "&aHache du Bricoleur"
+TOOL_HOE_DUMMY:
+  name: "&aHoue du Bricoleur"
+TOOL_INFO:
+  name: "&3Outils du Bricoleur: Info"
+TOOL_PICKAXE_DUMMY:
+  name: "&aPioche du Bricoleur"
+TOOL_SHOVEL_DUMMY:
+  name: "&aPelle du Bricoleur"
+TOOL_SWORD_DUMMY:
+  name: "&aÉpée du Bricoleur"

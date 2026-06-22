@@ -1,0 +1,428 @@
+# Nederlandse itemvertalingen voor SlimeTinker
+# Items not listed fall back to English.
+ARMOUR_BOOTS_DUMMY:
+  name: "&aLaarzen van de Knutselaar"
+ARMOUR_CHESTPLATE_DUMMY:
+  name: "&aBorstplaat van de Knutselaar"
+ARMOUR_HELMET_DUMMY:
+  name: "&aHelm van de Knutselaar"
+ARMOUR_INFO:
+  name: "&3Pantser van de Knutselaar: Info"
+ARMOUR_LEGGINGS_DUMMY:
+  name: "&aBeenkappen van de Knutselaar"
+BLOCK_CAST_ADAMANTITE:
+  name: "&7Adamanitite Blok"
+BLOCK_CAST_ADVANCED_ALLOY:
+  name: "&7Geavanceerde Legering Blok"
+BLOCK_CAST_ALUMINUM:
+  name: "&7Aluminium Blok"
+BLOCK_CAST_ALU_BRASS:
+  name: "&7Aluminiummessing Blok"
+BLOCK_CAST_ALU_BRONZE:
+  name: "&7Aluminiumbrons Blok"
+BLOCK_CAST_ANNIVERSARIUM:
+  name: "&7Anniversarium Blok"
+BLOCK_CAST_BILLON:
+  name: "&7Billoen Blok"
+BLOCK_CAST_BOOMERITE:
+  name: "&7Boomeriet Blok"
+BLOCK_CAST_BRASS:
+  name: "&7Messing Blok"
+BLOCK_CAST_BRONZE:
+  name: "&7Brons Blok"
+BLOCK_CAST_COBALT:
+  name: "&7Kobalt Blok"
+BLOCK_CAST_COPPER:
+  name: "&7Koper Blok"
+BLOCK_CAST_COR_BRONZE:
+  name: "&7Korinthisch Brons Blok"
+BLOCK_CAST_CRINGLEIUM:
+  name: "&7Cringleium Blok"
+BLOCK_CAST_DAMASCUS_STEEL:
+  name: "&7Damaststaal Blok"
+BLOCK_CAST_DURALIUM:
+  name: "&7Duralium Blok"
+BLOCK_CAST_FERROSILICON:
+  name: "&7Ferrosilicium Blok"
+BLOCK_CAST_HARD_METAL:
+  name: "&7Gehard Metaal Blok"
+BLOCK_CAST_INFINITY:
+  name: "&7Oneindigheid Blok"
+BLOCK_CAST_IRIDIUM:
+  name: "&7Iridium Blok"
+BLOCK_CAST_LEAD:
+  name: "&7Lood Blok"
+BLOCK_CAST_LOVE:
+  name: "&7Liefde Blok"
+BLOCK_CAST_MAGNESIUM:
+  name: "&7Magnesium Blok"
+BLOCK_CAST_MAGNONIUM:
+  name: "&7Magnonium Blok"
+BLOCK_CAST_MAGSTEEL:
+  name: "&7MagStaal Blok"
+BLOCK_CAST_MAG_THOR:
+  name: "&7Mag-Thor Blok"
+BLOCK_CAST_MIXED_METAL:
+  name: "&7Gemengd Metaal Blok"
+BLOCK_CAST_MYTHRIL:
+  name: "&7Mithril Blok"
+BLOCK_CAST_NICE:
+  name: "&7Nice Blok"
+BLOCK_CAST_NICKEL:
+  name: "&7Nikkel Blok"
+BLOCK_CAST_OSMIUM:
+  name: "&7Osmium Blok"
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Osmium-superlegering Blok"
+BLOCK_CAST_REDSTONE_ALLOY:
+  name: "&7Redstone-legering Blok"
+BLOCK_CAST_REFINED_IRON:
+  name: "&7Geraffineerd IJzer Blok"
+BLOCK_CAST_REINFORCED:
+  name: "&7Versterkte Legering Blok"
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  name: "&7Versterkt Draconium Blok"
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Versterkt Slijmstaal Blok"
+BLOCK_CAST_SCRAP:
+  name: "&7Schroot Blok"
+BLOCK_CAST_SEFIRITE:
+  name: "&7Sefiriet Blok"
+BLOCK_CAST_SILVER:
+  name: "&7Zilver Blok"
+BLOCK_CAST_SLIMESTEEL:
+  name: "&7Slijmstaal Blok"
+BLOCK_CAST_SMITHIUM:
+  name: "&7Smithium Blok"
+BLOCK_CAST_SOLDER:
+  name: "&7Soldeer Blok"
+BLOCK_CAST_STAINLESSSTEEL:
+  name: "&7Roestvrij Staal Blok"
+BLOCK_CAST_STEEL:
+  name: "&7Staal Blok"
+BLOCK_CAST_TIN:
+  name: "&7Tin Blok"
+BLOCK_CAST_TITANIUM:
+  name: "&7Titanium Blok"
+BLOCK_CAST_UNPATENTABILUM:
+  name: "&7Unpatentabilum Blok"
+BLOCK_CAST_VOID:
+  name: "&7Leegte Blok"
+BLOCK_CAST_ZINC:
+  name: "&7Zink Blok"
+CAST_AXE_HEAD:
+  name: "&eVorm: Bijlkop"
+CAST_BLOCK:
+  name: "&eVorm: Metaal Blok"
+CAST_BOOT_PLATE:
+  name: "&eVorm: Laarsplaten"
+CAST_CHEST_PLATE:
+  name: "&eVorm: Borstplaten"
+CAST_GEM:
+  name: "&eVorm: Edelsteen"
+CAST_HELM_PLATE:
+  name: "&eVorm: Helmplaten"
+CAST_HOEHEAD:
+  name: "&eVorm: Schoffelkop"
+CAST_INGOT:
+  name: "&eVorm: Metaal Staaf"
+CAST_LEG_PLATE:
+  name: "&eVorm: Beenplaten"
+CAST_MAIL_LINK:
+  name: "&eVorm: Maliënschakels"
+CAST_NUGGET:
+  name: "&eVorm: Metaal Klompje"
+CAST_PICKAXEHEAD:
+  name: "&eVorm: Houweelkop"
+CAST_REPAIRKIT:
+  name: "&eVorm: Reparatieset"
+CAST_SHOVELHEAD:
+  name: "&eVorm: Schepkop"
+CAST_SWORDBLADE:
+  name: "&eVorm: Zwaardkling"
+CAST_TOOLROD:
+  name: "&eVorm: Gereedschapsstaaf"
+DIE_AXE_HEAD:
+  name: "&eMatrijs: Stenen Bijlkop"
+DIE_BOOT_PLATE:
+  name: "&eMatrijs: Stenen Laarsplaten"
+DIE_CHEST_PLATE:
+  name: "&eMatrijs: Stenen Borstplaten"
+DIE_HELM_PLATE:
+  name: "&eMatrijs: Stenen Helmplaten"
+DIE_HOE_HEAD:
+  name: "&eMatrijs: Stenen Schoffelkop"
+DIE_LEG_PLATE:
+  name: "&eMatrijs: Stenen Beenplaten"
+DIE_MAIL_LINK:
+  name: "&eMatrijs: Maliënschakels"
+DIE_PICKAXE_HEAD:
+  name: "&eMatrijs: Stenen Houweelkop"
+DIE_REPAIR_KIT:
+  name: "&eMatrijs: Reparatieset"
+DIE_SHOVEL_HEAD:
+  name: "&eMatrijs: Stenen Schepkop"
+DIE_SWORD_BLADE:
+  name: "&eMatrijs: Stenen Zwaardkling"
+DIE_TOOL_ROD:
+  name: "&eMatrijs: Gereedschapsstaaf"
+DUMMY_MODIFICATION_STATION:
+  name: "&3Modificatiestation van de Knutselaar"
+DUMMY_TINKERS_ARMOUR_TABLE:
+  name: "&3Pantsertafel van de Knutselaar"
+DUMMY_TINKERS_SMELTERY:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_SMELTERY_MULTI:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_SMELTERY_PROP:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_TABLE:
+  name: "&3Gereedschapstafel van de Knutselaar"
+GROUT:
+  name: "&7Voegmortel"
+INGOT_CAST_ANNIVERSARIUM:
+  name: "&7Anniversarium Staaf"
+INGOT_CAST_BOOMERITE:
+  name: "&7Boomeriet Staaf"
+INGOT_CAST_CRINGLEIUM:
+  name: "&7Cringleium Staaf"
+INGOT_CAST_DAXI_ABSORPTION:
+  name: "&7Absorptie Daxi Staaf"
+INGOT_CAST_DAXI_FORTITUDE:
+  name: "&7Standvastigheid Daxi Staaf"
+INGOT_CAST_DAXI_REGENERATION:
+  name: "&7Regeneratie Daxi Staaf"
+INGOT_CAST_DAXI_SATURATION:
+  name: "&7Verzadiging Daxi Staaf"
+INGOT_CAST_DAXI_STRENGTH:
+  name: "&7Kracht Daxi Staaf"
+INGOT_CAST_DEVOTION:
+  name: "&7Toewijding Staaf"
+INGOT_CAST_FONDNESS:
+  name: "&7Genegenheid Staaf"
+INGOT_CAST_LOVE:
+  name: "&7Liefde Staaf"
+INGOT_CAST_NICE:
+  name: "&7Nice Staaf"
+INGOT_CAST_PASSION:
+  name: "&7Passie Staaf"
+INGOT_CAST_REINFORCED_DRACONIUM:
+  name: "&7Versterkt Draconium Staaf"
+INGOT_CAST_SEFIRITE:
+  name: "&7Sefiriet Staaf"
+INGOT_CAST_SMITHIUM:
+  name: "&7Smithium Staaf"
+MOD_DIAMOND_DUMMY:
+  name: "&dModificatie: Diamant"
+MOD_EMERALD_DUMMY:
+  name: "&dModificatie: Smaragd"
+MOD_LAPIS_DUMMY:
+  name: "&dModificatie: Lapis"
+MOD_PLATE:
+  name: "&dVersterkte Plaat"
+MOD_PLATE_DUMMY:
+  name: "&dModificatie: Versterkte Plaat"
+MOD_QUARTZ_DUMMY:
+  name: "&dModificatie: Kwarts"
+MOD_REDSTONE_DUMMY:
+  name: "&dModificatie: Redstone"
+NUGGET_CAST_ADAMANTITE:
+  name: "&7Adamantiet Klompje"
+NUGGET_CAST_ADVANCED_ALLOY:
+  name: "&7Geavanceerde Legering Klompje"
+NUGGET_CAST_ALUMINUM:
+  name: "&7Aluminium Klompje"
+NUGGET_CAST_ALU_BRASS:
+  name: "&7Aluminiummessing Klompje"
+NUGGET_CAST_ALU_BRONZE:
+  name: "&7Aluminiumbrons Klompje"
+NUGGET_CAST_ANNIVERSARIUM:
+  name: "&7Anniversarium Klompje"
+NUGGET_CAST_BILLON:
+  name: "&7Billoen Klompje"
+NUGGET_CAST_BOOMERITE:
+  name: "&7Boomeriet Klompje"
+NUGGET_CAST_BRASS:
+  name: "&7Messing Klompje"
+NUGGET_CAST_BRONZE:
+  name: "&7Brons Klompje"
+NUGGET_CAST_COAL:
+  name: "&7Kool Klompje"
+NUGGET_CAST_COBALT:
+  name: "&7Kobalt Klompje"
+NUGGET_CAST_COPPER:
+  name: "&7Koper Klompje"
+NUGGET_CAST_COR_BRONZE:
+  name: "&7Korinthisch Brons Klompje"
+NUGGET_CAST_CRINGLEIUM:
+  name: "&7Cringleium Klompje"
+NUGGET_CAST_DAMASCUS_STEEL:
+  name: "&7Damaststaal Klompje"
+NUGGET_CAST_DAXI_ABSORPTION:
+  name: "&7Absorptie Daxi Klompje"
+NUGGET_CAST_DAXI_FORTITUDE:
+  name: "&7Standvastigheid Daxi Klompje"
+NUGGET_CAST_DAXI_REGENERATION:
+  name: "&7Regeneratie Daxi Klompje"
+NUGGET_CAST_DAXI_SATURATION:
+  name: "&7Verzadiging Daxi Klompje"
+NUGGET_CAST_DAXI_STRENGTH:
+  name: "&7Kracht Daxi Klompje"
+NUGGET_CAST_DEVOTION:
+  name: "&7Toewijding Klompje"
+NUGGET_CAST_DURALIUM:
+  name: "&7Duralium Klompje"
+NUGGET_CAST_FERROSILICON:
+  name: "&7Ferrosilicium Klompje"
+NUGGET_CAST_FONDNESS:
+  name: "&7Genegenheid Klompje"
+NUGGET_CAST_HARD_METAL:
+  name: "&7Gehard Metaal Klompje"
+NUGGET_CAST_INFINITY:
+  name: "&7Oneindigheid Klompje"
+NUGGET_CAST_IRIDIUM:
+  name: "&7Iridium Klompje"
+NUGGET_CAST_LEAD:
+  name: "&7Lood Klompje"
+NUGGET_CAST_LOVE:
+  name: "&7Liefde Klompje"
+NUGGET_CAST_MAGNESIUM:
+  name: "&7Magnesium Klompje"
+NUGGET_CAST_MAGNONIUM:
+  name: "&7Magnonium Klompje"
+NUGGET_CAST_MAGSTEEL:
+  name: "&7MagStaal Klompje"
+NUGGET_CAST_MAG_THOR:
+  name: "&7Mag-Thor Klompje"
+NUGGET_CAST_MIXED_METAL:
+  name: "&7Gemengd Metaal Klompje"
+NUGGET_CAST_MYTHRIL:
+  name: "&7Mithril Klompje"
+NUGGET_CAST_NICE:
+  name: "&7Nice Klompje"
+NUGGET_CAST_NICKEL:
+  name: "&7Nikkel Klompje"
+NUGGET_CAST_OSMIUM:
+  name: "&7Osmium Klompje"
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Osmium-superlegering Klompje"
+NUGGET_CAST_PASSION:
+  name: "&7Passie Klompje"
+NUGGET_CAST_REDSTONE_ALLOY:
+  name: "&7Redstone-legering Klompje"
+NUGGET_CAST_REFINED_IRON:
+  name: "&7Geraffineerd IJzer Klompje"
+NUGGET_CAST_REINFORCED:
+  name: "&7Versterkte Legering Klompje"
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  name: "&7Versterkt Draconium Klompje"
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Versterkt Slijmstaal Klompje"
+NUGGET_CAST_SCRAP:
+  name: "&7Schroot Klompje"
+NUGGET_CAST_SEFIRITE:
+  name: "&7Sefiriet Klompje"
+NUGGET_CAST_SILVER:
+  name: "&7Zilver Klompje"
+NUGGET_CAST_SLIMESTEEL:
+  name: "&7Slijmstaal Klompje"
+NUGGET_CAST_SMITHIUM:
+  name: "&7Smithium Klompje"
+NUGGET_CAST_SOLDER:
+  name: "&7Soldeer Klompje"
+NUGGET_CAST_STAINLESSSTEEL:
+  name: "&7Roestvrij Staal Klompje"
+NUGGET_CAST_STEEL:
+  name: "&7Staal Klompje"
+NUGGET_CAST_TIN:
+  name: "&7Tin Klompje"
+NUGGET_CAST_TITANIUM:
+  name: "&7Titanium Klompje"
+NUGGET_CAST_UNPATENTABILUM:
+  name: "&7Unpatentabilum Klompje"
+NUGGET_CAST_ZINC:
+  name: "&7Zink Klompje"
+PART_AXE_HEAD_DUMMY:
+  name: "&eOnderdeel: Bijlkop"
+PART_BINDING_DUMMY:
+  name: "&eOnderdeel: Binding"
+PART_BINDING_GENERAL_DISPLAY:
+  name: "&7Binding Materiaal"
+PART_BOOT_PLATE_DUMMY:
+  name: "&eOnderdeel: Laarsplaten"
+PART_CHEST_PLATE_DUMMY:
+  name: "&eOnderdeel: Borstplaten"
+PART_GAMBESON_DUMMY:
+  name: "&eOnderdeel: Wambuis"
+PART_GAMBESON_GENERAL_DISPLAY:
+  name: "&7Wambuis Materiaal"
+PART_HELM_PLATE_DUMMY:
+  name: "&eOnderdeel: Helmplaten"
+PART_HOE_HEAD_DUMMY:
+  name: "&eOnderdeel: Schoffelkop"
+PART_LEG_PLATE_DUMMY:
+  name: "&eOnderdeel: Beenplaten"
+PART_MAIL_LINKS_DUMMY:
+  name: "&eOnderdeel: Maliënschakels"
+PART_PICKAXE_HEAD_DUMMY:
+  name: "&eOnderdeel: Houweelkop"
+PART_REPAIR_KIT_DUMMY:
+  name: "&eOnderdeel: Reparatieset"
+PART_SHOVEL_HEAD_DUMMY:
+  name: "&eOnderdeel: Schepkop"
+PART_SWORD_BLADE_DUMMY:
+  name: "&eOnderdeel: Zwaardkling"
+PART_TOOL_ROD_DUMMY:
+  name: "&eOnderdeel: Gereedschapsstaaf"
+PROP_BINDING:
+  name: "&bOnderdeel: Bindmiddel"
+PROP_GAMBESON:
+  name: "&bOnderdeel: Wambuis"
+PROP_HEAD:
+  name: "&bOnderdeel: Kop"
+PROP_LINKS:
+  name: "&bOnderdeel: Maliënschakels"
+PROP_PLATES:
+  name: "&bOnderdeel: Platen"
+PROP_ROD:
+  name: "&bOnderdeel: Gereedschapsstaaf"
+SEARED_BRICK:
+  name: "&7Gebakken Baksteen"
+SEARED_BRICK_BLOCK:
+  name: "&7Gebakken Baksteenblok"
+SEARED_TANK:
+  name: "&7Gebakken Tank"
+SMELTERY_CONTROLLER:
+  name: "&3Smelterij-controller"
+SPOUT:
+  name: "&7Gebakken Tuit"
+TINKERS_ARMOUR_TABLE:
+  name: "&3Pantsertafel van de Knutselaar"
+TINKERS_MOD_STATION:
+  name: "&3Modificatiestation van de Knutselaar"
+TINKERS_REPAIR_BENCH:
+  name: "&3Reparatiebank van de Knutselaar"
+TINKERS_SMELTERY_CORE:
+  name: "&3Smelterij van de Knutselaar"
+TINKERS_SWAPPING_STATION:
+  name: "&3Verwisselstation van de Knutselaar"
+TINKERS_TABLE:
+  name: "&3Gereedschapstafel van de Knutselaar"
+TINKERS_WORKBENCH:
+  name: "&3Werkbank van de Knutselaar"
+TOOL_AXE_DUMMY:
+  name: "&aBijl van de Knutselaar"
+TOOL_HOE_DUMMY:
+  name: "&aSchoffel van de Knutselaar"
+TOOL_INFO:
+  name: "&3Gereedschap van de Knutselaar: Info"
+TOOL_PICKAXE_DUMMY:
+  name: "&aHouweel van de Knutselaar"
+TOOL_SHOVEL_DUMMY:
+  name: "&aSchep van de Knutselaar"
+TOOL_SWORD_DUMMY:
+  name: "&aZwaard van de Knutselaar"

@@ -1,0 +1,428 @@
+# Traduzioni italiane degli oggetti per SlimeTinker
+# Items not listed fall back to English.
+ARMOUR_BOOTS_DUMMY:
+  name: "&aStivali del Riparatore"
+ARMOUR_CHESTPLATE_DUMMY:
+  name: "&aCorazza del Riparatore"
+ARMOUR_HELMET_DUMMY:
+  name: "&aElmo del Riparatore"
+ARMOUR_INFO:
+  name: "&3Armatura del Riparatore: Info"
+ARMOUR_LEGGINGS_DUMMY:
+  name: "&aGambali del Riparatore"
+BLOCK_CAST_ADAMANTITE:
+  name: "&7Blocco d'Adamanitite"
+BLOCK_CAST_ADVANCED_ALLOY:
+  name: "&7Blocco di Lega Avanzata"
+BLOCK_CAST_ALUMINUM:
+  name: "&7Blocco d'Alluminio"
+BLOCK_CAST_ALU_BRASS:
+  name: "&7Blocco d'Ottone d'Alluminio"
+BLOCK_CAST_ALU_BRONZE:
+  name: "&7Blocco di Bronzo d'Alluminio"
+BLOCK_CAST_ANNIVERSARIUM:
+  name: "&7Blocco d'Anniversario"
+BLOCK_CAST_BILLON:
+  name: "&7Blocco di Bassa Lega"
+BLOCK_CAST_BOOMERITE:
+  name: "&7Blocco di Boomerite"
+BLOCK_CAST_BRASS:
+  name: "&7Blocco d'Ottone"
+BLOCK_CAST_BRONZE:
+  name: "&7Blocco di Bronzo"
+BLOCK_CAST_COBALT:
+  name: "&7Blocco di Cobalto"
+BLOCK_CAST_COPPER:
+  name: "&7Blocco di Rame"
+BLOCK_CAST_COR_BRONZE:
+  name: "&7Blocco di Bronzo Corinzio"
+BLOCK_CAST_CRINGLEIUM:
+  name: "&7Blocco di Cringleio"
+BLOCK_CAST_DAMASCUS_STEEL:
+  name: "&7Blocco d'Acciaio Damasco"
+BLOCK_CAST_DURALIUM:
+  name: "&7Blocco di Duralio"
+BLOCK_CAST_FERROSILICON:
+  name: "&7Blocco di Ferrosilicio"
+BLOCK_CAST_HARD_METAL:
+  name: "&7Blocco di Metallo Indurito"
+BLOCK_CAST_INFINITY:
+  name: "&7Blocco d'Infinito"
+BLOCK_CAST_IRIDIUM:
+  name: "&7Blocco d'Iridio"
+BLOCK_CAST_LEAD:
+  name: "&7Blocco di Piombo"
+BLOCK_CAST_LOVE:
+  name: "&7Blocco d'Amore"
+BLOCK_CAST_MAGNESIUM:
+  name: "&7Blocco di Magnesio"
+BLOCK_CAST_MAGNONIUM:
+  name: "&7Blocco di Magnonio"
+BLOCK_CAST_MAGSTEEL:
+  name: "&7Blocco di MagAcciaio"
+BLOCK_CAST_MAG_THOR:
+  name: "&7Blocco di Mag-Thor"
+BLOCK_CAST_MIXED_METAL:
+  name: "&7Blocco di Metallo Misto"
+BLOCK_CAST_MYTHRIL:
+  name: "&7Blocco di Mithril"
+BLOCK_CAST_NICE:
+  name: "&7Blocco di Nice"
+BLOCK_CAST_NICKEL:
+  name: "&7Blocco di Nichel"
+BLOCK_CAST_OSMIUM:
+  name: "&7Blocco d'Osmio"
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Blocco di Superlega di Osmio"
+BLOCK_CAST_REDSTONE_ALLOY:
+  name: "&7Blocco di Lega di Redstone"
+BLOCK_CAST_REFINED_IRON:
+  name: "&7Blocco di Ferro Raffinato"
+BLOCK_CAST_REINFORCED:
+  name: "&7Blocco di Lega Rinforzata"
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  name: "&7Blocco di Draconio Rinforzato"
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Blocco d'Acciaio di Slime Rinforzato"
+BLOCK_CAST_SCRAP:
+  name: "&7Blocco di Rottame"
+BLOCK_CAST_SEFIRITE:
+  name: "&7Blocco di Sefirite"
+BLOCK_CAST_SILVER:
+  name: "&7Blocco d'Argento"
+BLOCK_CAST_SLIMESTEEL:
+  name: "&7Blocco d'Acciaio di Slime"
+BLOCK_CAST_SMITHIUM:
+  name: "&7Blocco di Smithio"
+BLOCK_CAST_SOLDER:
+  name: "&7Blocco di Lega Saldante"
+BLOCK_CAST_STAINLESSSTEEL:
+  name: "&7Blocco d'Acciaio Inox"
+BLOCK_CAST_STEEL:
+  name: "&7Blocco d'Acciaio"
+BLOCK_CAST_TIN:
+  name: "&7Blocco di Stagno"
+BLOCK_CAST_TITANIUM:
+  name: "&7Blocco di Titanio"
+BLOCK_CAST_UNPATENTABILUM:
+  name: "&7Blocco d'Impatentabile"
+BLOCK_CAST_VOID:
+  name: "&7Blocco di Vuoto"
+BLOCK_CAST_ZINC:
+  name: "&7Blocco di Zinco"
+CAST_AXE_HEAD:
+  name: "&eStampo: Testa d'Ascia"
+CAST_BLOCK:
+  name: "&eStampo: Blocco di Metallo"
+CAST_BOOT_PLATE:
+  name: "&eStampo: Piastre degli Stivali"
+CAST_CHEST_PLATE:
+  name: "&eStampo: Piastre della Corazza"
+CAST_GEM:
+  name: "&eStampo: Gemma"
+CAST_HELM_PLATE:
+  name: "&eStampo: Piastre dell'Elmo"
+CAST_HOEHEAD:
+  name: "&eStampo: Testa di Zappa"
+CAST_INGOT:
+  name: "&eStampo: Lingotto di Metallo"
+CAST_LEG_PLATE:
+  name: "&eStampo: Piastre dei Gambali"
+CAST_MAIL_LINK:
+  name: "&eStampo: Maglie"
+CAST_NUGGET:
+  name: "&eStampo: Pepita di Metallo"
+CAST_PICKAXEHEAD:
+  name: "&eStampo: Testa di Piccone"
+CAST_REPAIRKIT:
+  name: "&eStampo: Kit di Riparazione"
+CAST_SHOVELHEAD:
+  name: "&eStampo: Testa di Pala"
+CAST_SWORDBLADE:
+  name: "&eStampo: Lama di Spada"
+CAST_TOOLROD:
+  name: "&eStampo: Asta dello Strumento"
+DIE_AXE_HEAD:
+  name: "&eMatrice: Testa d'Ascia di Pietra"
+DIE_BOOT_PLATE:
+  name: "&eMatrice: Piastre degli Stivali di Pietra"
+DIE_CHEST_PLATE:
+  name: "&eMatrice: Piastre della Corazza di Pietra"
+DIE_HELM_PLATE:
+  name: "&eMatrice: Piastre dell'Elmo di Pietra"
+DIE_HOE_HEAD:
+  name: "&eMatrice: Testa di Zappa di Pietra"
+DIE_LEG_PLATE:
+  name: "&eMatrice: Piastre dei Gambali di Pietra"
+DIE_MAIL_LINK:
+  name: "&eMatrice: Maglie"
+DIE_PICKAXE_HEAD:
+  name: "&eMatrice: Testa di Piccone di Pietra"
+DIE_REPAIR_KIT:
+  name: "&eMatrice: Kit di Riparazione"
+DIE_SHOVEL_HEAD:
+  name: "&eMatrice: Testa di Pala di Pietra"
+DIE_SWORD_BLADE:
+  name: "&eMatrice: Lama di Spada di Pietra"
+DIE_TOOL_ROD:
+  name: "&eMatrice: Asta dello Strumento"
+DUMMY_MODIFICATION_STATION:
+  name: "&3Stazione di Modifica del Riparatore"
+DUMMY_TINKERS_ARMOUR_TABLE:
+  name: "&3Tavolo delle Armature del Riparatore"
+DUMMY_TINKERS_SMELTERY:
+  name: "&3Fonderia del Riparatore"
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  name: "&3Fonderia del Riparatore"
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  name: "&3Fonderia del Riparatore"
+DUMMY_TINKERS_SMELTERY_MULTI:
+  name: "&3Fonderia del Riparatore"
+DUMMY_TINKERS_SMELTERY_PROP:
+  name: "&3Fonderia del Riparatore"
+DUMMY_TINKERS_TABLE:
+  name: "&3Tavolo degli Strumenti del Riparatore"
+GROUT:
+  name: "&7Malta"
+INGOT_CAST_ANNIVERSARIUM:
+  name: "&7Lingotto d'Anniversario"
+INGOT_CAST_BOOMERITE:
+  name: "&7Lingotto di Boomerite"
+INGOT_CAST_CRINGLEIUM:
+  name: "&7Lingotto di Cringleio"
+INGOT_CAST_DAXI_ABSORPTION:
+  name: "&7Lingotto d'Assorbimento Daxi"
+INGOT_CAST_DAXI_FORTITUDE:
+  name: "&7Lingotto di Forza Daxi"
+INGOT_CAST_DAXI_REGENERATION:
+  name: "&7Lingotto di Rigenerazione Daxi"
+INGOT_CAST_DAXI_SATURATION:
+  name: "&7Lingotto di Saturazione Daxi"
+INGOT_CAST_DAXI_STRENGTH:
+  name: "&7Lingotto di Forza Daxi"
+INGOT_CAST_DEVOTION:
+  name: "&7Lingotto di Devozione"
+INGOT_CAST_FONDNESS:
+  name: "&7Lingotto d'Affetto"
+INGOT_CAST_LOVE:
+  name: "&7Lingotto d'Amore"
+INGOT_CAST_NICE:
+  name: "&7Lingotto di Nice"
+INGOT_CAST_PASSION:
+  name: "&7Lingotto di Passione"
+INGOT_CAST_REINFORCED_DRACONIUM:
+  name: "&7Lingotto di Draconio Rinforzato"
+INGOT_CAST_SEFIRITE:
+  name: "&7Lingotto di Sefirite"
+INGOT_CAST_SMITHIUM:
+  name: "&7Lingotto di Smithio"
+MOD_DIAMOND_DUMMY:
+  name: "&dModifica: Diamante"
+MOD_EMERALD_DUMMY:
+  name: "&dModifica: Smeraldo"
+MOD_LAPIS_DUMMY:
+  name: "&dModifica: Lapis"
+MOD_PLATE:
+  name: "&dPiastra Rinforzata"
+MOD_PLATE_DUMMY:
+  name: "&dModifica: Piastra Rinforzata"
+MOD_QUARTZ_DUMMY:
+  name: "&dModifica: Quarzo"
+MOD_REDSTONE_DUMMY:
+  name: "&dModifica: Redstone"
+NUGGET_CAST_ADAMANTITE:
+  name: "&7Pepita d'Adamantite"
+NUGGET_CAST_ADVANCED_ALLOY:
+  name: "&7Pepita di Lega Avanzata"
+NUGGET_CAST_ALUMINUM:
+  name: "&7Pepita d'Alluminio"
+NUGGET_CAST_ALU_BRASS:
+  name: "&7Pepita d'Ottone d'Alluminio"
+NUGGET_CAST_ALU_BRONZE:
+  name: "&7Pepita di Bronzo d'Alluminio"
+NUGGET_CAST_ANNIVERSARIUM:
+  name: "&7Pepita d'Anniversario"
+NUGGET_CAST_BILLON:
+  name: "&7Pepita di Bassa Lega"
+NUGGET_CAST_BOOMERITE:
+  name: "&7Pepita di Boomerite"
+NUGGET_CAST_BRASS:
+  name: "&7Pepita d'Ottone"
+NUGGET_CAST_BRONZE:
+  name: "&7Pepita di Bronzo"
+NUGGET_CAST_COAL:
+  name: "&7Pepita di Carbone"
+NUGGET_CAST_COBALT:
+  name: "&7Pepita di Cobalto"
+NUGGET_CAST_COPPER:
+  name: "&7Pepita di Rame"
+NUGGET_CAST_COR_BRONZE:
+  name: "&7Pepita di Bronzo Corinzio"
+NUGGET_CAST_CRINGLEIUM:
+  name: "&7Pepita di Cringleio"
+NUGGET_CAST_DAMASCUS_STEEL:
+  name: "&7Pepita d'Acciaio Damasco"
+NUGGET_CAST_DAXI_ABSORPTION:
+  name: "&7Pepita d'Assorbimento Daxi"
+NUGGET_CAST_DAXI_FORTITUDE:
+  name: "&7Pepita di Forza Daxi"
+NUGGET_CAST_DAXI_REGENERATION:
+  name: "&7Pepita di Rigenerazione Daxi"
+NUGGET_CAST_DAXI_SATURATION:
+  name: "&7Pepita di Saturazione Daxi"
+NUGGET_CAST_DAXI_STRENGTH:
+  name: "&7Pepita di Forza Daxi"
+NUGGET_CAST_DEVOTION:
+  name: "&7Pepita di Devozione"
+NUGGET_CAST_DURALIUM:
+  name: "&7Pepita di Duralio"
+NUGGET_CAST_FERROSILICON:
+  name: "&7Pepita di Ferrosilicio"
+NUGGET_CAST_FONDNESS:
+  name: "&7Pepita d'Affetto"
+NUGGET_CAST_HARD_METAL:
+  name: "&7Pepita di Metallo Indurito"
+NUGGET_CAST_INFINITY:
+  name: "&7Pepita d'Infinito"
+NUGGET_CAST_IRIDIUM:
+  name: "&7Pepita d'Iridio"
+NUGGET_CAST_LEAD:
+  name: "&7Pepita di Piombo"
+NUGGET_CAST_LOVE:
+  name: "&7Pepita d'Amore"
+NUGGET_CAST_MAGNESIUM:
+  name: "&7Pepita di Magnesio"
+NUGGET_CAST_MAGNONIUM:
+  name: "&7Pepita di Magnonio"
+NUGGET_CAST_MAGSTEEL:
+  name: "&7Pepita di MagAcciaio"
+NUGGET_CAST_MAG_THOR:
+  name: "&7Pepita di Mag-Thor"
+NUGGET_CAST_MIXED_METAL:
+  name: "&7Pepita di Metallo Misto"
+NUGGET_CAST_MYTHRIL:
+  name: "&7Pepita di Mithril"
+NUGGET_CAST_NICE:
+  name: "&7Pepita di Nice"
+NUGGET_CAST_NICKEL:
+  name: "&7Pepita di Nichel"
+NUGGET_CAST_OSMIUM:
+  name: "&7Pepita d'Osmio"
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Pepita di Superlega di Osmio"
+NUGGET_CAST_PASSION:
+  name: "&7Pepita di Passione"
+NUGGET_CAST_REDSTONE_ALLOY:
+  name: "&7Pepita di Lega di Redstone"
+NUGGET_CAST_REFINED_IRON:
+  name: "&7Pepita di Ferro Raffinato"
+NUGGET_CAST_REINFORCED:
+  name: "&7Pepita di Lega Rinforzata"
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  name: "&7Pepita di Draconio Rinforzato"
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Pepita d'Acciaio di Slime Rinforzato"
+NUGGET_CAST_SCRAP:
+  name: "&7Pepita di Rottame"
+NUGGET_CAST_SEFIRITE:
+  name: "&7Pepita di Sefirite"
+NUGGET_CAST_SILVER:
+  name: "&7Pepita d'Argento"
+NUGGET_CAST_SLIMESTEEL:
+  name: "&7Pepita d'Acciaio di Slime"
+NUGGET_CAST_SMITHIUM:
+  name: "&7Pepita di Smithio"
+NUGGET_CAST_SOLDER:
+  name: "&7Pepita di Lega Saldante"
+NUGGET_CAST_STAINLESSSTEEL:
+  name: "&7Pepita d'Acciaio Inox"
+NUGGET_CAST_STEEL:
+  name: "&7Pepita d'Acciaio"
+NUGGET_CAST_TIN:
+  name: "&7Pepita di Stagno"
+NUGGET_CAST_TITANIUM:
+  name: "&7Pepita di Titanio"
+NUGGET_CAST_UNPATENTABILUM:
+  name: "&7Pepita d'Impatentabile"
+NUGGET_CAST_ZINC:
+  name: "&7Pepita di Zinco"
+PART_AXE_HEAD_DUMMY:
+  name: "&eParte: Testa d'Ascia"
+PART_BINDING_DUMMY:
+  name: "&eParte: Legatura"
+PART_BINDING_GENERAL_DISPLAY:
+  name: "&7Materiale di Legatura"
+PART_BOOT_PLATE_DUMMY:
+  name: "&eParte: Piastre degli Stivali"
+PART_CHEST_PLATE_DUMMY:
+  name: "&eParte: Piastre della Corazza"
+PART_GAMBESON_DUMMY:
+  name: "&eParte: Gambeson"
+PART_GAMBESON_GENERAL_DISPLAY:
+  name: "&7Materiale di Gambeson"
+PART_HELM_PLATE_DUMMY:
+  name: "&eParte: Piastre dell'Elmo"
+PART_HOE_HEAD_DUMMY:
+  name: "&eParte: Testa di Zappa"
+PART_LEG_PLATE_DUMMY:
+  name: "&eParte: Piastre dei Gambali"
+PART_MAIL_LINKS_DUMMY:
+  name: "&eParte: Maglie"
+PART_PICKAXE_HEAD_DUMMY:
+  name: "&eParte: Testa di Piccone"
+PART_REPAIR_KIT_DUMMY:
+  name: "&eParte: Kit di Riparazione"
+PART_SHOVEL_HEAD_DUMMY:
+  name: "&eParte: Testa di Pala"
+PART_SWORD_BLADE_DUMMY:
+  name: "&eParte: Lama di Spada"
+PART_TOOL_ROD_DUMMY:
+  name: "&eParte: Asta dello Strumento"
+PROP_BINDING:
+  name: "&bParte: Legante"
+PROP_GAMBESON:
+  name: "&bParte: Gambeson"
+PROP_HEAD:
+  name: "&bParte: Testa"
+PROP_LINKS:
+  name: "&bParte: Maglie"
+PROP_PLATES:
+  name: "&bParte: Piastre"
+PROP_ROD:
+  name: "&bParte: Asta dello Strumento"
+SEARED_BRICK:
+  name: "&7Mattone Cotto"
+SEARED_BRICK_BLOCK:
+  name: "&7Blocco di Mattoni Cotti"
+SEARED_TANK:
+  name: "&7Serbatoio Cotto"
+SMELTERY_CONTROLLER:
+  name: "&3Controllore della Fonderia"
+SPOUT:
+  name: "&7Beccuccio Cotto"
+TINKERS_ARMOUR_TABLE:
+  name: "&3Tavolo delle Armature del Riparatore"
+TINKERS_MOD_STATION:
+  name: "&3Stazione di Modifica del Riparatore"
+TINKERS_REPAIR_BENCH:
+  name: "&3Banco di Riparazione del Riparatore"
+TINKERS_SMELTERY_CORE:
+  name: "&3Fonderia del Riparatore"
+TINKERS_SWAPPING_STATION:
+  name: "&3Stazione di Scambio del Riparatore"
+TINKERS_TABLE:
+  name: "&3Tavolo degli Strumenti del Riparatore"
+TINKERS_WORKBENCH:
+  name: "&3Banco da lavoro del Riparatore"
+TOOL_AXE_DUMMY:
+  name: "&aAscia del Riparatore"
+TOOL_HOE_DUMMY:
+  name: "&aZappa del Riparatore"
+TOOL_INFO:
+  name: "&3Strumenti del Riparatore: Info"
+TOOL_PICKAXE_DUMMY:
+  name: "&aPiccone del Riparatore"
+TOOL_SHOVEL_DUMMY:
+  name: "&aPala del Riparatore"
+TOOL_SWORD_DUMMY:
+  name: "&aSpada del Riparatore"

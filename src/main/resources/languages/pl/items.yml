@@ -1,0 +1,428 @@
+# Polskie tłumaczenia przedmiotów dla SlimeTinker
+# Items not listed fall back to English.
+ARMOUR_BOOTS_DUMMY:
+  name: "&aButy Majsterkowicza"
+ARMOUR_CHESTPLATE_DUMMY:
+  name: "&aNapierśnik Majsterkowicza"
+ARMOUR_HELMET_DUMMY:
+  name: "&aHełm Majsterkowicza"
+ARMOUR_INFO:
+  name: "&3Zbroja Majsterkowicza: Informacje"
+ARMOUR_LEGGINGS_DUMMY:
+  name: "&aNogawice Majsterkowicza"
+BLOCK_CAST_ADAMANTITE:
+  name: "&7Adamanitite Blok"
+BLOCK_CAST_ADVANCED_ALLOY:
+  name: "&7Zaawansowany stop Blok"
+BLOCK_CAST_ALUMINUM:
+  name: "&7Aluminium Blok"
+BLOCK_CAST_ALU_BRASS:
+  name: "&7Mosiądz aluminiowy Blok"
+BLOCK_CAST_ALU_BRONZE:
+  name: "&7Brąz aluminiowy Blok"
+BLOCK_CAST_ANNIVERSARIUM:
+  name: "&7Anniversarium Blok"
+BLOCK_CAST_BILLON:
+  name: "&7Bilon Blok"
+BLOCK_CAST_BOOMERITE:
+  name: "&7Boomeryt Blok"
+BLOCK_CAST_BRASS:
+  name: "&7Mosiądz Blok"
+BLOCK_CAST_BRONZE:
+  name: "&7Brąz Blok"
+BLOCK_CAST_COBALT:
+  name: "&7Kobalt Blok"
+BLOCK_CAST_COPPER:
+  name: "&7Miedź Blok"
+BLOCK_CAST_COR_BRONZE:
+  name: "&7Brąz koryncki Blok"
+BLOCK_CAST_CRINGLEIUM:
+  name: "&7Cringleium Blok"
+BLOCK_CAST_DAMASCUS_STEEL:
+  name: "&7Stal damasceńska Blok"
+BLOCK_CAST_DURALIUM:
+  name: "&7Duralium Blok"
+BLOCK_CAST_FERROSILICON:
+  name: "&7Żelazokrzem Blok"
+BLOCK_CAST_HARD_METAL:
+  name: "&7Utwardzony metal Blok"
+BLOCK_CAST_INFINITY:
+  name: "&7Nieskończoność Blok"
+BLOCK_CAST_IRIDIUM:
+  name: "&7Iryd Blok"
+BLOCK_CAST_LEAD:
+  name: "&7Ołów Blok"
+BLOCK_CAST_LOVE:
+  name: "&7Miłość Blok"
+BLOCK_CAST_MAGNESIUM:
+  name: "&7Magnez Blok"
+BLOCK_CAST_MAGNONIUM:
+  name: "&7Magnonium Blok"
+BLOCK_CAST_MAGSTEEL:
+  name: "&7MagStal Blok"
+BLOCK_CAST_MAG_THOR:
+  name: "&7Mag-Thor Blok"
+BLOCK_CAST_MIXED_METAL:
+  name: "&7Metal mieszany Blok"
+BLOCK_CAST_MYTHRIL:
+  name: "&7Mithril Blok"
+BLOCK_CAST_NICE:
+  name: "&7Nice Blok"
+BLOCK_CAST_NICKEL:
+  name: "&7Nikiel Blok"
+BLOCK_CAST_OSMIUM:
+  name: "&7Osm Blok"
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Superstop osmu Blok"
+BLOCK_CAST_REDSTONE_ALLOY:
+  name: "&7Stop z czerwienitu Blok"
+BLOCK_CAST_REFINED_IRON:
+  name: "&7Rafinowane żelazo Blok"
+BLOCK_CAST_REINFORCED:
+  name: "&7Wzmocniony stop Blok"
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  name: "&7Wzmocnione draconium Blok"
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Wzmocniona stal ze szlamu Blok"
+BLOCK_CAST_SCRAP:
+  name: "&7Złom Blok"
+BLOCK_CAST_SEFIRITE:
+  name: "&7Sefiryt Blok"
+BLOCK_CAST_SILVER:
+  name: "&7Srebro Blok"
+BLOCK_CAST_SLIMESTEEL:
+  name: "&7Stal ze szlamu Blok"
+BLOCK_CAST_SMITHIUM:
+  name: "&7Smithium Blok"
+BLOCK_CAST_SOLDER:
+  name: "&7Lut Blok"
+BLOCK_CAST_STAINLESSSTEEL:
+  name: "&7Stal nierdzewna Blok"
+BLOCK_CAST_STEEL:
+  name: "&7Stal Blok"
+BLOCK_CAST_TIN:
+  name: "&7Cyna Blok"
+BLOCK_CAST_TITANIUM:
+  name: "&7Tytan Blok"
+BLOCK_CAST_UNPATENTABILUM:
+  name: "&7Unpatentabilum Blok"
+BLOCK_CAST_VOID:
+  name: "&7Pustka Blok"
+BLOCK_CAST_ZINC:
+  name: "&7Cynk Blok"
+CAST_AXE_HEAD:
+  name: "&eForma: Głowica topora"
+CAST_BLOCK:
+  name: "&eForma: Metal Blok"
+CAST_BOOT_PLATE:
+  name: "&eForma: Płyty butów"
+CAST_CHEST_PLATE:
+  name: "&eForma: Płyty napierśnika"
+CAST_GEM:
+  name: "&eForma: Klejnot"
+CAST_HELM_PLATE:
+  name: "&eForma: Płyty hełmu"
+CAST_HOEHEAD:
+  name: "&eForma: Głowica motyki"
+CAST_INGOT:
+  name: "&eForma: Metal Sztabka"
+CAST_LEG_PLATE:
+  name: "&eForma: Płyty nogawic"
+CAST_MAIL_LINK:
+  name: "&eForma: Ogniwa kolczugi"
+CAST_NUGGET:
+  name: "&eForma: Metal Bryłka"
+CAST_PICKAXEHEAD:
+  name: "&eForma: Głowica kilofa"
+CAST_REPAIRKIT:
+  name: "&eForma: Zestaw naprawczy"
+CAST_SHOVELHEAD:
+  name: "&eForma: Głowica łopaty"
+CAST_SWORDBLADE:
+  name: "&eForma: Ostrze miecza"
+CAST_TOOLROD:
+  name: "&eForma: Pręt narzędziowy"
+DIE_AXE_HEAD:
+  name: "&eMatryca: Kamienny Głowica topora"
+DIE_BOOT_PLATE:
+  name: "&eMatryca: Kamienny Płyty butów"
+DIE_CHEST_PLATE:
+  name: "&eMatryca: Kamienny Płyty napierśnika"
+DIE_HELM_PLATE:
+  name: "&eMatryca: Kamienny Płyty hełmu"
+DIE_HOE_HEAD:
+  name: "&eMatryca: Kamienny Głowica motyki"
+DIE_LEG_PLATE:
+  name: "&eMatryca: Kamienny Płyty nogawic"
+DIE_MAIL_LINK:
+  name: "&eMatryca: Ogniwa kolczugi"
+DIE_PICKAXE_HEAD:
+  name: "&eMatryca: Kamienny Głowica kilofa"
+DIE_REPAIR_KIT:
+  name: "&eMatryca: Zestaw naprawczy"
+DIE_SHOVEL_HEAD:
+  name: "&eMatryca: Kamienny Głowica łopaty"
+DIE_SWORD_BLADE:
+  name: "&eMatryca: Kamienny Ostrze miecza"
+DIE_TOOL_ROD:
+  name: "&eMatryca: Pręt narzędziowy"
+DUMMY_MODIFICATION_STATION:
+  name: "&3Stacja modyfikacji Majsterkowicza"
+DUMMY_TINKERS_ARMOUR_TABLE:
+  name: "&3Stół zbroi Majsterkowicza"
+DUMMY_TINKERS_SMELTERY:
+  name: "&3Odlewnia Majsterkowicza"
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  name: "&3Odlewnia Majsterkowicza"
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  name: "&3Odlewnia Majsterkowicza"
+DUMMY_TINKERS_SMELTERY_MULTI:
+  name: "&3Odlewnia Majsterkowicza"
+DUMMY_TINKERS_SMELTERY_PROP:
+  name: "&3Odlewnia Majsterkowicza"
+DUMMY_TINKERS_TABLE:
+  name: "&3Stół narzędziowy Majsterkowicza"
+GROUT:
+  name: "&7Zaprawa"
+INGOT_CAST_ANNIVERSARIUM:
+  name: "&7Anniversarium Sztabka"
+INGOT_CAST_BOOMERITE:
+  name: "&7Boomeryt Sztabka"
+INGOT_CAST_CRINGLEIUM:
+  name: "&7Cringleium Sztabka"
+INGOT_CAST_DAXI_ABSORPTION:
+  name: "&7Absorpcji Daxi Sztabka"
+INGOT_CAST_DAXI_FORTITUDE:
+  name: "&7Hartu Daxi Sztabka"
+INGOT_CAST_DAXI_REGENERATION:
+  name: "&7Regeneracji Daxi Sztabka"
+INGOT_CAST_DAXI_SATURATION:
+  name: "&7Sytości Daxi Sztabka"
+INGOT_CAST_DAXI_STRENGTH:
+  name: "&7Mocy Daxi Sztabka"
+INGOT_CAST_DEVOTION:
+  name: "&7Oddanie Sztabka"
+INGOT_CAST_FONDNESS:
+  name: "&7Sympatia Sztabka"
+INGOT_CAST_LOVE:
+  name: "&7Miłość Sztabka"
+INGOT_CAST_NICE:
+  name: "&7Nice Sztabka"
+INGOT_CAST_PASSION:
+  name: "&7Pasja Sztabka"
+INGOT_CAST_REINFORCED_DRACONIUM:
+  name: "&7Wzmocnione draconium Sztabka"
+INGOT_CAST_SEFIRITE:
+  name: "&7Sefiryt Sztabka"
+INGOT_CAST_SMITHIUM:
+  name: "&7Smithium Sztabka"
+MOD_DIAMOND_DUMMY:
+  name: "&dModyfikacja: Diament"
+MOD_EMERALD_DUMMY:
+  name: "&dModyfikacja: Szmaragd"
+MOD_LAPIS_DUMMY:
+  name: "&dModyfikacja: Lazuryt"
+MOD_PLATE:
+  name: "&dWzmocniona płyta"
+MOD_PLATE_DUMMY:
+  name: "&dModyfikacja: Wzmocniona płyta"
+MOD_QUARTZ_DUMMY:
+  name: "&dModyfikacja: Kwarc"
+MOD_REDSTONE_DUMMY:
+  name: "&dModyfikacja: Czerwienit"
+NUGGET_CAST_ADAMANTITE:
+  name: "&7Adamantyt Bryłka"
+NUGGET_CAST_ADVANCED_ALLOY:
+  name: "&7Zaawansowany stop Bryłka"
+NUGGET_CAST_ALUMINUM:
+  name: "&7Aluminium Bryłka"
+NUGGET_CAST_ALU_BRASS:
+  name: "&7Mosiądz aluminiowy Bryłka"
+NUGGET_CAST_ALU_BRONZE:
+  name: "&7Brąz aluminiowy Bryłka"
+NUGGET_CAST_ANNIVERSARIUM:
+  name: "&7Anniversarium Bryłka"
+NUGGET_CAST_BILLON:
+  name: "&7Bilon Bryłka"
+NUGGET_CAST_BOOMERITE:
+  name: "&7Boomeryt Bryłka"
+NUGGET_CAST_BRASS:
+  name: "&7Mosiądz Bryłka"
+NUGGET_CAST_BRONZE:
+  name: "&7Brąz Bryłka"
+NUGGET_CAST_COAL:
+  name: "&7Węgiel Bryłka"
+NUGGET_CAST_COBALT:
+  name: "&7Kobalt Bryłka"
+NUGGET_CAST_COPPER:
+  name: "&7Miedź Bryłka"
+NUGGET_CAST_COR_BRONZE:
+  name: "&7Brąz koryncki Bryłka"
+NUGGET_CAST_CRINGLEIUM:
+  name: "&7Cringleium Bryłka"
+NUGGET_CAST_DAMASCUS_STEEL:
+  name: "&7Stal damasceńska Bryłka"
+NUGGET_CAST_DAXI_ABSORPTION:
+  name: "&7Absorpcji Daxi Bryłka"
+NUGGET_CAST_DAXI_FORTITUDE:
+  name: "&7Hartu Daxi Bryłka"
+NUGGET_CAST_DAXI_REGENERATION:
+  name: "&7Regeneracji Daxi Bryłka"
+NUGGET_CAST_DAXI_SATURATION:
+  name: "&7Sytości Daxi Bryłka"
+NUGGET_CAST_DAXI_STRENGTH:
+  name: "&7Mocy Daxi Bryłka"
+NUGGET_CAST_DEVOTION:
+  name: "&7Oddanie Bryłka"
+NUGGET_CAST_DURALIUM:
+  name: "&7Duralium Bryłka"
+NUGGET_CAST_FERROSILICON:
+  name: "&7Żelazokrzem Bryłka"
+NUGGET_CAST_FONDNESS:
+  name: "&7Sympatia Bryłka"
+NUGGET_CAST_HARD_METAL:
+  name: "&7Utwardzony metal Bryłka"
+NUGGET_CAST_INFINITY:
+  name: "&7Nieskończoność Bryłka"
+NUGGET_CAST_IRIDIUM:
+  name: "&7Iryd Bryłka"
+NUGGET_CAST_LEAD:
+  name: "&7Ołów Bryłka"
+NUGGET_CAST_LOVE:
+  name: "&7Miłość Bryłka"
+NUGGET_CAST_MAGNESIUM:
+  name: "&7Magnez Bryłka"
+NUGGET_CAST_MAGNONIUM:
+  name: "&7Magnonium Bryłka"
+NUGGET_CAST_MAGSTEEL:
+  name: "&7MagStal Bryłka"
+NUGGET_CAST_MAG_THOR:
+  name: "&7Mag-Thor Bryłka"
+NUGGET_CAST_MIXED_METAL:
+  name: "&7Metal mieszany Bryłka"
+NUGGET_CAST_MYTHRIL:
+  name: "&7Mithril Bryłka"
+NUGGET_CAST_NICE:
+  name: "&7Nice Bryłka"
+NUGGET_CAST_NICKEL:
+  name: "&7Nikiel Bryłka"
+NUGGET_CAST_OSMIUM:
+  name: "&7Osm Bryłka"
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Superstop osmu Bryłka"
+NUGGET_CAST_PASSION:
+  name: "&7Pasja Bryłka"
+NUGGET_CAST_REDSTONE_ALLOY:
+  name: "&7Stop z czerwienitu Bryłka"
+NUGGET_CAST_REFINED_IRON:
+  name: "&7Rafinowane żelazo Bryłka"
+NUGGET_CAST_REINFORCED:
+  name: "&7Wzmocniony stop Bryłka"
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  name: "&7Wzmocnione draconium Bryłka"
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Wzmocniona stal ze szlamu Bryłka"
+NUGGET_CAST_SCRAP:
+  name: "&7Złom Bryłka"
+NUGGET_CAST_SEFIRITE:
+  name: "&7Sefiryt Bryłka"
+NUGGET_CAST_SILVER:
+  name: "&7Srebro Bryłka"
+NUGGET_CAST_SLIMESTEEL:
+  name: "&7Stal ze szlamu Bryłka"
+NUGGET_CAST_SMITHIUM:
+  name: "&7Smithium Bryłka"
+NUGGET_CAST_SOLDER:
+  name: "&7Lut Bryłka"
+NUGGET_CAST_STAINLESSSTEEL:
+  name: "&7Stal nierdzewna Bryłka"
+NUGGET_CAST_STEEL:
+  name: "&7Stal Bryłka"
+NUGGET_CAST_TIN:
+  name: "&7Cyna Bryłka"
+NUGGET_CAST_TITANIUM:
+  name: "&7Tytan Bryłka"
+NUGGET_CAST_UNPATENTABILUM:
+  name: "&7Unpatentabilum Bryłka"
+NUGGET_CAST_ZINC:
+  name: "&7Cynk Bryłka"
+PART_AXE_HEAD_DUMMY:
+  name: "&eCzęść: Głowica topora"
+PART_BINDING_DUMMY:
+  name: "&eCzęść: Wiązanie"
+PART_BINDING_GENERAL_DISPLAY:
+  name: "&7Wiązanie Materiał"
+PART_BOOT_PLATE_DUMMY:
+  name: "&eCzęść: Płyty butów"
+PART_CHEST_PLATE_DUMMY:
+  name: "&eCzęść: Płyty napierśnika"
+PART_GAMBESON_DUMMY:
+  name: "&eCzęść: Przeszywanica"
+PART_GAMBESON_GENERAL_DISPLAY:
+  name: "&7Przeszywanica Materiał"
+PART_HELM_PLATE_DUMMY:
+  name: "&eCzęść: Płyty hełmu"
+PART_HOE_HEAD_DUMMY:
+  name: "&eCzęść: Głowica motyki"
+PART_LEG_PLATE_DUMMY:
+  name: "&eCzęść: Płyty nogawic"
+PART_MAIL_LINKS_DUMMY:
+  name: "&eCzęść: Ogniwa kolczugi"
+PART_PICKAXE_HEAD_DUMMY:
+  name: "&eCzęść: Głowica kilofa"
+PART_REPAIR_KIT_DUMMY:
+  name: "&eCzęść: Zestaw naprawczy"
+PART_SHOVEL_HEAD_DUMMY:
+  name: "&eCzęść: Głowica łopaty"
+PART_SWORD_BLADE_DUMMY:
+  name: "&eCzęść: Ostrze miecza"
+PART_TOOL_ROD_DUMMY:
+  name: "&eCzęść: Pręt narzędziowy"
+PROP_BINDING:
+  name: "&bCzęść: Spoiwo"
+PROP_GAMBESON:
+  name: "&bCzęść: Przeszywanica"
+PROP_HEAD:
+  name: "&bCzęść: Głowica"
+PROP_LINKS:
+  name: "&bCzęść: Ogniwa kolczugi"
+PROP_PLATES:
+  name: "&bCzęść: Płyty"
+PROP_ROD:
+  name: "&bCzęść: Pręt narzędziowy"
+SEARED_BRICK:
+  name: "&7Wypalona cegła"
+SEARED_BRICK_BLOCK:
+  name: "&7Blok wypalonej cegły"
+SEARED_TANK:
+  name: "&7Wypalony zbiornik"
+SMELTERY_CONTROLLER:
+  name: "&3Kontroler odlewni"
+SPOUT:
+  name: "&7Wypalany wylew"
+TINKERS_ARMOUR_TABLE:
+  name: "&3Stół zbroi Majsterkowicza"
+TINKERS_MOD_STATION:
+  name: "&3Stacja modyfikacji Majsterkowicza"
+TINKERS_REPAIR_BENCH:
+  name: "&3Stół naprawczy Majsterkowicza"
+TINKERS_SMELTERY_CORE:
+  name: "&3Odlewnia Majsterkowicza"
+TINKERS_SWAPPING_STATION:
+  name: "&3Stacja wymiany Majsterkowicza"
+TINKERS_TABLE:
+  name: "&3Stół narzędziowy Majsterkowicza"
+TINKERS_WORKBENCH:
+  name: "&3Stół roboczy Majsterkowicza"
+TOOL_AXE_DUMMY:
+  name: "&aTopór Majsterkowicza"
+TOOL_HOE_DUMMY:
+  name: "&aMotyka Majsterkowicza"
+TOOL_INFO:
+  name: "&3Narzędzia Majsterkowicza: Informacje"
+TOOL_PICKAXE_DUMMY:
+  name: "&aKilof Majsterkowicza"
+TOOL_SHOVEL_DUMMY:
+  name: "&aŁopata Majsterkowicza"
+TOOL_SWORD_DUMMY:
+  name: "&aMiecz Majsterkowicza"

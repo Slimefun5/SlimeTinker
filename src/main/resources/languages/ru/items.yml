@@ -1,0 +1,428 @@
+# Русские переводы предметов для SlimeTinker
+# Items not listed fall back to English.
+ARMOUR_BOOTS_DUMMY:
+  name: "&aБотинки Жестянщика"
+ARMOUR_CHESTPLATE_DUMMY:
+  name: "&aНагрудник Жестянщика"
+ARMOUR_HELMET_DUMMY:
+  name: "&aШлем Жестянщика"
+ARMOUR_INFO:
+  name: "&3Броня Жестянщика: Информация"
+ARMOUR_LEGGINGS_DUMMY:
+  name: "&aПоножи Жестянщика"
+BLOCK_CAST_ADAMANTITE:
+  name: "&7Adamanitite Блок"
+BLOCK_CAST_ADVANCED_ALLOY:
+  name: "&7Улучшенный сплав Блок"
+BLOCK_CAST_ALUMINUM:
+  name: "&7Алюминий Блок"
+BLOCK_CAST_ALU_BRASS:
+  name: "&7Алюминиевая латунь Блок"
+BLOCK_CAST_ALU_BRONZE:
+  name: "&7Алюминиевая бронза Блок"
+BLOCK_CAST_ANNIVERSARIUM:
+  name: "&7Аннивэрсарий Блок"
+BLOCK_CAST_BILLON:
+  name: "&7Биллон Блок"
+BLOCK_CAST_BOOMERITE:
+  name: "&7Бумерит Блок"
+BLOCK_CAST_BRASS:
+  name: "&7Латунь Блок"
+BLOCK_CAST_BRONZE:
+  name: "&7Бронза Блок"
+BLOCK_CAST_COBALT:
+  name: "&7Кобальт Блок"
+BLOCK_CAST_COPPER:
+  name: "&7Медь Блок"
+BLOCK_CAST_COR_BRONZE:
+  name: "&7Коринфская бронза Блок"
+BLOCK_CAST_CRINGLEIUM:
+  name: "&7Крингелий Блок"
+BLOCK_CAST_DAMASCUS_STEEL:
+  name: "&7Дамасская сталь Блок"
+BLOCK_CAST_DURALIUM:
+  name: "&7Дюралий Блок"
+BLOCK_CAST_FERROSILICON:
+  name: "&7Ферросилиций Блок"
+BLOCK_CAST_HARD_METAL:
+  name: "&7Закалённый металл Блок"
+BLOCK_CAST_INFINITY:
+  name: "&7Бесконечность Блок"
+BLOCK_CAST_IRIDIUM:
+  name: "&7Иридий Блок"
+BLOCK_CAST_LEAD:
+  name: "&7Свинец Блок"
+BLOCK_CAST_LOVE:
+  name: "&7Любовь Блок"
+BLOCK_CAST_MAGNESIUM:
+  name: "&7Магний Блок"
+BLOCK_CAST_MAGNONIUM:
+  name: "&7Магноний Блок"
+BLOCK_CAST_MAGSTEEL:
+  name: "&7МагСталь Блок"
+BLOCK_CAST_MAG_THOR:
+  name: "&7Маг-Тор Блок"
+BLOCK_CAST_MIXED_METAL:
+  name: "&7Смешанный металл Блок"
+BLOCK_CAST_MYTHRIL:
+  name: "&7Мифрил Блок"
+BLOCK_CAST_NICE:
+  name: "&7Найс Блок"
+BLOCK_CAST_NICKEL:
+  name: "&7Никель Блок"
+BLOCK_CAST_OSMIUM:
+  name: "&7Осмий Блок"
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Осмиевый суперсплав Блок"
+BLOCK_CAST_REDSTONE_ALLOY:
+  name: "&7Сплав редстоуна Блок"
+BLOCK_CAST_REFINED_IRON:
+  name: "&7Очищенное железо Блок"
+BLOCK_CAST_REINFORCED:
+  name: "&7Усиленный сплав Блок"
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  name: "&7Усиленный дракониум Блок"
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Усиленная слизистая сталь Блок"
+BLOCK_CAST_SCRAP:
+  name: "&7Лом Блок"
+BLOCK_CAST_SEFIRITE:
+  name: "&7Сефирит Блок"
+BLOCK_CAST_SILVER:
+  name: "&7Серебро Блок"
+BLOCK_CAST_SLIMESTEEL:
+  name: "&7Слизистая сталь Блок"
+BLOCK_CAST_SMITHIUM:
+  name: "&7Смитий Блок"
+BLOCK_CAST_SOLDER:
+  name: "&7Припой Блок"
+BLOCK_CAST_STAINLESSSTEEL:
+  name: "&7Нержавеющая сталь Блок"
+BLOCK_CAST_STEEL:
+  name: "&7Сталь Блок"
+BLOCK_CAST_TIN:
+  name: "&7Олово Блок"
+BLOCK_CAST_TITANIUM:
+  name: "&7Титан Блок"
+BLOCK_CAST_UNPATENTABILUM:
+  name: "&7Незапатентий Блок"
+BLOCK_CAST_VOID:
+  name: "&7Пустота Блок"
+BLOCK_CAST_ZINC:
+  name: "&7Цинк Блок"
+CAST_AXE_HEAD:
+  name: "&eФорма: Головка топора"
+CAST_BLOCK:
+  name: "&eФорма: Металл Блок"
+CAST_BOOT_PLATE:
+  name: "&eФорма: Пластины ботинок"
+CAST_CHEST_PLATE:
+  name: "&eФорма: Пластины нагрудника"
+CAST_GEM:
+  name: "&eФорма: Самоцвет"
+CAST_HELM_PLATE:
+  name: "&eФорма: Пластины шлема"
+CAST_HOEHEAD:
+  name: "&eФорма: Головка мотыги"
+CAST_INGOT:
+  name: "&eФорма: Металл Слиток"
+CAST_LEG_PLATE:
+  name: "&eФорма: Пластины поножей"
+CAST_MAIL_LINK:
+  name: "&eФорма: Кольчужные звенья"
+CAST_NUGGET:
+  name: "&eФорма: Металл Самородок"
+CAST_PICKAXEHEAD:
+  name: "&eФорма: Головка кирки"
+CAST_REPAIRKIT:
+  name: "&eФорма: Ремонтный набор"
+CAST_SHOVELHEAD:
+  name: "&eФорма: Головка лопаты"
+CAST_SWORDBLADE:
+  name: "&eФорма: Лезвие меча"
+CAST_TOOLROD:
+  name: "&eФорма: Стержень инструмента"
+DIE_AXE_HEAD:
+  name: "&eШтамп: Каменная Головка топора"
+DIE_BOOT_PLATE:
+  name: "&eШтамп: Каменная Пластины ботинок"
+DIE_CHEST_PLATE:
+  name: "&eШтамп: Каменная Пластины нагрудника"
+DIE_HELM_PLATE:
+  name: "&eШтамп: Каменная Пластины шлема"
+DIE_HOE_HEAD:
+  name: "&eШтамп: Каменная Головка мотыги"
+DIE_LEG_PLATE:
+  name: "&eШтамп: Каменная Пластины поножей"
+DIE_MAIL_LINK:
+  name: "&eШтамп: Кольчужные звенья"
+DIE_PICKAXE_HEAD:
+  name: "&eШтамп: Каменная Головка кирки"
+DIE_REPAIR_KIT:
+  name: "&eШтамп: Ремонтный набор"
+DIE_SHOVEL_HEAD:
+  name: "&eШтамп: Каменная Головка лопаты"
+DIE_SWORD_BLADE:
+  name: "&eШтамп: Каменная Лезвие меча"
+DIE_TOOL_ROD:
+  name: "&eШтамп: Стержень инструмента"
+DUMMY_MODIFICATION_STATION:
+  name: "&3Станция модификации Жестянщика"
+DUMMY_TINKERS_ARMOUR_TABLE:
+  name: "&3Стол брони Жестянщика"
+DUMMY_TINKERS_SMELTERY:
+  name: "&3Плавильня Жестянщика"
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  name: "&3Плавильня Жестянщика"
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  name: "&3Плавильня Жестянщика"
+DUMMY_TINKERS_SMELTERY_MULTI:
+  name: "&3Плавильня Жестянщика"
+DUMMY_TINKERS_SMELTERY_PROP:
+  name: "&3Плавильня Жестянщика"
+DUMMY_TINKERS_TABLE:
+  name: "&3Стол инструментов Жестянщика"
+GROUT:
+  name: "&7Раствор"
+INGOT_CAST_ANNIVERSARIUM:
+  name: "&7Аннивэрсарий Слиток"
+INGOT_CAST_BOOMERITE:
+  name: "&7Бумерит Слиток"
+INGOT_CAST_CRINGLEIUM:
+  name: "&7Крингелий Слиток"
+INGOT_CAST_DAXI_ABSORPTION:
+  name: "&7Поглощения Дакси Слиток"
+INGOT_CAST_DAXI_FORTITUDE:
+  name: "&7Стойкости Дакси Слиток"
+INGOT_CAST_DAXI_REGENERATION:
+  name: "&7Регенерации Дакси Слиток"
+INGOT_CAST_DAXI_SATURATION:
+  name: "&7Насыщения Дакси Слиток"
+INGOT_CAST_DAXI_STRENGTH:
+  name: "&7Силы Дакси Слиток"
+INGOT_CAST_DEVOTION:
+  name: "&7Преданность Слиток"
+INGOT_CAST_FONDNESS:
+  name: "&7Симпатия Слиток"
+INGOT_CAST_LOVE:
+  name: "&7Любовь Слиток"
+INGOT_CAST_NICE:
+  name: "&7Найс Слиток"
+INGOT_CAST_PASSION:
+  name: "&7Страсть Слиток"
+INGOT_CAST_REINFORCED_DRACONIUM:
+  name: "&7Усиленный дракониум Слиток"
+INGOT_CAST_SEFIRITE:
+  name: "&7Сефирит Слиток"
+INGOT_CAST_SMITHIUM:
+  name: "&7Смитий Слиток"
+MOD_DIAMOND_DUMMY:
+  name: "&dМодификация: Алмаз"
+MOD_EMERALD_DUMMY:
+  name: "&dМодификация: Изумруд"
+MOD_LAPIS_DUMMY:
+  name: "&dМодификация: Лазурит"
+MOD_PLATE:
+  name: "&dУсиленная пластина"
+MOD_PLATE_DUMMY:
+  name: "&dМодификация: Усиленная пластина"
+MOD_QUARTZ_DUMMY:
+  name: "&dМодификация: Кварц"
+MOD_REDSTONE_DUMMY:
+  name: "&dМодификация: Редстоун"
+NUGGET_CAST_ADAMANTITE:
+  name: "&7Адамантит Самородок"
+NUGGET_CAST_ADVANCED_ALLOY:
+  name: "&7Улучшенный сплав Самородок"
+NUGGET_CAST_ALUMINUM:
+  name: "&7Алюминий Самородок"
+NUGGET_CAST_ALU_BRASS:
+  name: "&7Алюминиевая латунь Самородок"
+NUGGET_CAST_ALU_BRONZE:
+  name: "&7Алюминиевая бронза Самородок"
+NUGGET_CAST_ANNIVERSARIUM:
+  name: "&7Аннивэрсарий Самородок"
+NUGGET_CAST_BILLON:
+  name: "&7Биллон Самородок"
+NUGGET_CAST_BOOMERITE:
+  name: "&7Бумерит Самородок"
+NUGGET_CAST_BRASS:
+  name: "&7Латунь Самородок"
+NUGGET_CAST_BRONZE:
+  name: "&7Бронза Самородок"
+NUGGET_CAST_COAL:
+  name: "&7Уголь Самородок"
+NUGGET_CAST_COBALT:
+  name: "&7Кобальт Самородок"
+NUGGET_CAST_COPPER:
+  name: "&7Медь Самородок"
+NUGGET_CAST_COR_BRONZE:
+  name: "&7Коринфская бронза Самородок"
+NUGGET_CAST_CRINGLEIUM:
+  name: "&7Крингелий Самородок"
+NUGGET_CAST_DAMASCUS_STEEL:
+  name: "&7Дамасская сталь Самородок"
+NUGGET_CAST_DAXI_ABSORPTION:
+  name: "&7Поглощения Дакси Самородок"
+NUGGET_CAST_DAXI_FORTITUDE:
+  name: "&7Стойкости Дакси Самородок"
+NUGGET_CAST_DAXI_REGENERATION:
+  name: "&7Регенерации Дакси Самородок"
+NUGGET_CAST_DAXI_SATURATION:
+  name: "&7Насыщения Дакси Самородок"
+NUGGET_CAST_DAXI_STRENGTH:
+  name: "&7Силы Дакси Самородок"
+NUGGET_CAST_DEVOTION:
+  name: "&7Преданность Самородок"
+NUGGET_CAST_DURALIUM:
+  name: "&7Дюралий Самородок"
+NUGGET_CAST_FERROSILICON:
+  name: "&7Ферросилиций Самородок"
+NUGGET_CAST_FONDNESS:
+  name: "&7Симпатия Самородок"
+NUGGET_CAST_HARD_METAL:
+  name: "&7Закалённый металл Самородок"
+NUGGET_CAST_INFINITY:
+  name: "&7Бесконечность Самородок"
+NUGGET_CAST_IRIDIUM:
+  name: "&7Иридий Самородок"
+NUGGET_CAST_LEAD:
+  name: "&7Свинец Самородок"
+NUGGET_CAST_LOVE:
+  name: "&7Любовь Самородок"
+NUGGET_CAST_MAGNESIUM:
+  name: "&7Магний Самородок"
+NUGGET_CAST_MAGNONIUM:
+  name: "&7Магноний Самородок"
+NUGGET_CAST_MAGSTEEL:
+  name: "&7МагСталь Самородок"
+NUGGET_CAST_MAG_THOR:
+  name: "&7Маг-Тор Самородок"
+NUGGET_CAST_MIXED_METAL:
+  name: "&7Смешанный металл Самородок"
+NUGGET_CAST_MYTHRIL:
+  name: "&7Мифрил Самородок"
+NUGGET_CAST_NICE:
+  name: "&7Найс Самородок"
+NUGGET_CAST_NICKEL:
+  name: "&7Никель Самородок"
+NUGGET_CAST_OSMIUM:
+  name: "&7Осмий Самородок"
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Осмиевый суперсплав Самородок"
+NUGGET_CAST_PASSION:
+  name: "&7Страсть Самородок"
+NUGGET_CAST_REDSTONE_ALLOY:
+  name: "&7Сплав редстоуна Самородок"
+NUGGET_CAST_REFINED_IRON:
+  name: "&7Очищенное железо Самородок"
+NUGGET_CAST_REINFORCED:
+  name: "&7Усиленный сплав Самородок"
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  name: "&7Усиленный дракониум Самородок"
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Усиленная слизистая сталь Самородок"
+NUGGET_CAST_SCRAP:
+  name: "&7Лом Самородок"
+NUGGET_CAST_SEFIRITE:
+  name: "&7Сефирит Самородок"
+NUGGET_CAST_SILVER:
+  name: "&7Серебро Самородок"
+NUGGET_CAST_SLIMESTEEL:
+  name: "&7Слизистая сталь Самородок"
+NUGGET_CAST_SMITHIUM:
+  name: "&7Смитий Самородок"
+NUGGET_CAST_SOLDER:
+  name: "&7Припой Самородок"
+NUGGET_CAST_STAINLESSSTEEL:
+  name: "&7Нержавеющая сталь Самородок"
+NUGGET_CAST_STEEL:
+  name: "&7Сталь Самородок"
+NUGGET_CAST_TIN:
+  name: "&7Олово Самородок"
+NUGGET_CAST_TITANIUM:
+  name: "&7Титан Самородок"
+NUGGET_CAST_UNPATENTABILUM:
+  name: "&7Незапатентий Самородок"
+NUGGET_CAST_ZINC:
+  name: "&7Цинк Самородок"
+PART_AXE_HEAD_DUMMY:
+  name: "&eДеталь: Головка топора"
+PART_BINDING_DUMMY:
+  name: "&eДеталь: Связка"
+PART_BINDING_GENERAL_DISPLAY:
+  name: "&7Связка Материал"
+PART_BOOT_PLATE_DUMMY:
+  name: "&eДеталь: Пластины ботинок"
+PART_CHEST_PLATE_DUMMY:
+  name: "&eДеталь: Пластины нагрудника"
+PART_GAMBESON_DUMMY:
+  name: "&eДеталь: Гамбезон"
+PART_GAMBESON_GENERAL_DISPLAY:
+  name: "&7Гамбезон Материал"
+PART_HELM_PLATE_DUMMY:
+  name: "&eДеталь: Пластины шлема"
+PART_HOE_HEAD_DUMMY:
+  name: "&eДеталь: Головка мотыги"
+PART_LEG_PLATE_DUMMY:
+  name: "&eДеталь: Пластины поножей"
+PART_MAIL_LINKS_DUMMY:
+  name: "&eДеталь: Кольчужные звенья"
+PART_PICKAXE_HEAD_DUMMY:
+  name: "&eДеталь: Головка кирки"
+PART_REPAIR_KIT_DUMMY:
+  name: "&eДеталь: Ремонтный набор"
+PART_SHOVEL_HEAD_DUMMY:
+  name: "&eДеталь: Головка лопаты"
+PART_SWORD_BLADE_DUMMY:
+  name: "&eДеталь: Лезвие меча"
+PART_TOOL_ROD_DUMMY:
+  name: "&eДеталь: Стержень инструмента"
+PROP_BINDING:
+  name: "&bДеталь: Связующее"
+PROP_GAMBESON:
+  name: "&bДеталь: Гамбезон"
+PROP_HEAD:
+  name: "&bДеталь: Головка"
+PROP_LINKS:
+  name: "&bДеталь: Кольчужные звенья"
+PROP_PLATES:
+  name: "&bДеталь: Пластины"
+PROP_ROD:
+  name: "&bДеталь: Стержень инструмента"
+SEARED_BRICK:
+  name: "&7Обожжённый кирпич"
+SEARED_BRICK_BLOCK:
+  name: "&7Блок обожжённого кирпича"
+SEARED_TANK:
+  name: "&7Обожжённый резервуар"
+SMELTERY_CONTROLLER:
+  name: "&3Контроллер плавильни"
+SPOUT:
+  name: "&7Обожжённый носик"
+TINKERS_ARMOUR_TABLE:
+  name: "&3Стол брони Жестянщика"
+TINKERS_MOD_STATION:
+  name: "&3Станция модификации Жестянщика"
+TINKERS_REPAIR_BENCH:
+  name: "&3Ремонтный верстак Жестянщика"
+TINKERS_SMELTERY_CORE:
+  name: "&3Плавильня Жестянщика"
+TINKERS_SWAPPING_STATION:
+  name: "&3Станция замены Жестянщика"
+TINKERS_TABLE:
+  name: "&3Стол инструментов Жестянщика"
+TINKERS_WORKBENCH:
+  name: "&3Верстак Жестянщика"
+TOOL_AXE_DUMMY:
+  name: "&aТопор Жестянщика"
+TOOL_HOE_DUMMY:
+  name: "&aМотыга Жестянщика"
+TOOL_INFO:
+  name: "&3Инструменты Жестянщика: Информация"
+TOOL_PICKAXE_DUMMY:
+  name: "&aКирка Жестянщика"
+TOOL_SHOVEL_DUMMY:
+  name: "&aЛопата Жестянщика"
+TOOL_SWORD_DUMMY:
+  name: "&aМеч Жестянщика"

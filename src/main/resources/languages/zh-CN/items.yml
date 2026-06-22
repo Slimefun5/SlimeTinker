@@ -1,0 +1,428 @@
+# SlimeTinker 物品中文翻译
+# Items not listed fall back to English.
+ARMOUR_BOOTS_DUMMY:
+  name: "&a工匠靴子"
+ARMOUR_CHESTPLATE_DUMMY:
+  name: "&a工匠胸甲"
+ARMOUR_HELMET_DUMMY:
+  name: "&a工匠头盔"
+ARMOUR_INFO:
+  name: "&3工匠盔甲：信息"
+ARMOUR_LEGGINGS_DUMMY:
+  name: "&a工匠护腿"
+BLOCK_CAST_ADAMANTITE:
+  name: "&7Adamanitite块"
+BLOCK_CAST_ADVANCED_ALLOY:
+  name: "&7高级合金块"
+BLOCK_CAST_ALUMINUM:
+  name: "&7铝块"
+BLOCK_CAST_ALU_BRASS:
+  name: "&7铝黄铜块"
+BLOCK_CAST_ALU_BRONZE:
+  name: "&7铝青铜块"
+BLOCK_CAST_ANNIVERSARIUM:
+  name: "&7周年铟块"
+BLOCK_CAST_BILLON:
+  name: "&7贱金属合金块"
+BLOCK_CAST_BOOMERITE:
+  name: "&7爆裂石块"
+BLOCK_CAST_BRASS:
+  name: "&7黄铜块"
+BLOCK_CAST_BRONZE:
+  name: "&7青铜块"
+BLOCK_CAST_COBALT:
+  name: "&7钴块"
+BLOCK_CAST_COPPER:
+  name: "&7铜块"
+BLOCK_CAST_COR_BRONZE:
+  name: "&7科林斯青铜块"
+BLOCK_CAST_CRINGLEIUM:
+  name: "&7圣诞铟块"
+BLOCK_CAST_DAMASCUS_STEEL:
+  name: "&7大马士革钢块"
+BLOCK_CAST_DURALIUM:
+  name: "&7硬铝块"
+BLOCK_CAST_FERROSILICON:
+  name: "&7硅铁块"
+BLOCK_CAST_HARD_METAL:
+  name: "&7硬化金属块"
+BLOCK_CAST_INFINITY:
+  name: "&7无尽块"
+BLOCK_CAST_IRIDIUM:
+  name: "&7铱块"
+BLOCK_CAST_LEAD:
+  name: "&7铅块"
+BLOCK_CAST_LOVE:
+  name: "&7爱块"
+BLOCK_CAST_MAGNESIUM:
+  name: "&7镁块"
+BLOCK_CAST_MAGNONIUM:
+  name: "&7磁能铟块"
+BLOCK_CAST_MAGSTEEL:
+  name: "&7磁钢块"
+BLOCK_CAST_MAG_THOR:
+  name: "&7镁钍块"
+BLOCK_CAST_MIXED_METAL:
+  name: "&7混合金属块"
+BLOCK_CAST_MYTHRIL:
+  name: "&7秘银块"
+BLOCK_CAST_NICE:
+  name: "&7美好块"
+BLOCK_CAST_NICKEL:
+  name: "&7镍块"
+BLOCK_CAST_OSMIUM:
+  name: "&7锇块"
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7锇超合金块"
+BLOCK_CAST_REDSTONE_ALLOY:
+  name: "&7红石合金块"
+BLOCK_CAST_REFINED_IRON:
+  name: "&7精炼铁块"
+BLOCK_CAST_REINFORCED:
+  name: "&7强化合金块"
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  name: "&7强化龙石块"
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7强化史莱姆钢块"
+BLOCK_CAST_SCRAP:
+  name: "&7废料块"
+BLOCK_CAST_SEFIRITE:
+  name: "&7塞菲石块"
+BLOCK_CAST_SILVER:
+  name: "&7银块"
+BLOCK_CAST_SLIMESTEEL:
+  name: "&7史莱姆钢块"
+BLOCK_CAST_SMITHIUM:
+  name: "&7史密斯铟块"
+BLOCK_CAST_SOLDER:
+  name: "&7焊料块"
+BLOCK_CAST_STAINLESSSTEEL:
+  name: "&7不锈钢块"
+BLOCK_CAST_STEEL:
+  name: "&7钢块"
+BLOCK_CAST_TIN:
+  name: "&7锡块"
+BLOCK_CAST_TITANIUM:
+  name: "&7钛块"
+BLOCK_CAST_UNPATENTABILUM:
+  name: "&7无法专利铟块"
+BLOCK_CAST_VOID:
+  name: "&7虚空块"
+BLOCK_CAST_ZINC:
+  name: "&7锌块"
+CAST_AXE_HEAD:
+  name: "&e铸模：斧头"
+CAST_BLOCK:
+  name: "&e铸模：金属块"
+CAST_BOOT_PLATE:
+  name: "&e铸模：靴子护甲板"
+CAST_CHEST_PLATE:
+  name: "&e铸模：胸甲护甲板"
+CAST_GEM:
+  name: "&e铸模：宝石"
+CAST_HELM_PLATE:
+  name: "&e铸模：头盔护甲板"
+CAST_HOEHEAD:
+  name: "&e铸模：锄头"
+CAST_INGOT:
+  name: "&e铸模：金属锭"
+CAST_LEG_PLATE:
+  name: "&e铸模：护腿护甲板"
+CAST_MAIL_LINK:
+  name: "&e铸模：锁甲环"
+CAST_NUGGET:
+  name: "&e铸模：金属粒"
+CAST_PICKAXEHEAD:
+  name: "&e铸模：镐头"
+CAST_REPAIRKIT:
+  name: "&e铸模：修复套件"
+CAST_SHOVELHEAD:
+  name: "&e铸模：锹头"
+CAST_SWORDBLADE:
+  name: "&e铸模：剑刃"
+CAST_TOOLROD:
+  name: "&e铸模：工具杆"
+DIE_AXE_HEAD:
+  name: "&e模具：石斧头"
+DIE_BOOT_PLATE:
+  name: "&e模具：石靴子护甲板"
+DIE_CHEST_PLATE:
+  name: "&e模具：石胸甲护甲板"
+DIE_HELM_PLATE:
+  name: "&e模具：石头盔护甲板"
+DIE_HOE_HEAD:
+  name: "&e模具：石锄头"
+DIE_LEG_PLATE:
+  name: "&e模具：石护腿护甲板"
+DIE_MAIL_LINK:
+  name: "&e模具：锁甲环"
+DIE_PICKAXE_HEAD:
+  name: "&e模具：石镐头"
+DIE_REPAIR_KIT:
+  name: "&e模具：修复套件"
+DIE_SHOVEL_HEAD:
+  name: "&e模具：石锹头"
+DIE_SWORD_BLADE:
+  name: "&e模具：石剑刃"
+DIE_TOOL_ROD:
+  name: "&e模具：工具杆"
+DUMMY_MODIFICATION_STATION:
+  name: "&3工匠改造站"
+DUMMY_TINKERS_ARMOUR_TABLE:
+  name: "&3工匠盔甲台"
+DUMMY_TINKERS_SMELTERY:
+  name: "&3工匠冶炼厂"
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  name: "&3工匠冶炼厂"
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  name: "&3工匠冶炼厂"
+DUMMY_TINKERS_SMELTERY_MULTI:
+  name: "&3工匠冶炼厂"
+DUMMY_TINKERS_SMELTERY_PROP:
+  name: "&3工匠冶炼厂"
+DUMMY_TINKERS_TABLE:
+  name: "&3工匠工具台"
+GROUT:
+  name: "&7灰浆"
+INGOT_CAST_ANNIVERSARIUM:
+  name: "&7周年铟锭"
+INGOT_CAST_BOOMERITE:
+  name: "&7爆裂石锭"
+INGOT_CAST_CRINGLEIUM:
+  name: "&7圣诞铟锭"
+INGOT_CAST_DAXI_ABSORPTION:
+  name: "&7伤害吸收达西锭"
+INGOT_CAST_DAXI_FORTITUDE:
+  name: "&7坚韧达西锭"
+INGOT_CAST_DAXI_REGENERATION:
+  name: "&7再生达西锭"
+INGOT_CAST_DAXI_SATURATION:
+  name: "&7饱和达西锭"
+INGOT_CAST_DAXI_STRENGTH:
+  name: "&7力量达西锭"
+INGOT_CAST_DEVOTION:
+  name: "&7奉献锭"
+INGOT_CAST_FONDNESS:
+  name: "&7喜爱锭"
+INGOT_CAST_LOVE:
+  name: "&7爱锭"
+INGOT_CAST_NICE:
+  name: "&7美好锭"
+INGOT_CAST_PASSION:
+  name: "&7热情锭"
+INGOT_CAST_REINFORCED_DRACONIUM:
+  name: "&7强化龙石锭"
+INGOT_CAST_SEFIRITE:
+  name: "&7塞菲石锭"
+INGOT_CAST_SMITHIUM:
+  name: "&7史密斯铟锭"
+MOD_DIAMOND_DUMMY:
+  name: "&d改造：钻石"
+MOD_EMERALD_DUMMY:
+  name: "&d改造：绿宝石"
+MOD_LAPIS_DUMMY:
+  name: "&d改造：青金石"
+MOD_PLATE:
+  name: "&d强化板"
+MOD_PLATE_DUMMY:
+  name: "&d改造：强化板"
+MOD_QUARTZ_DUMMY:
+  name: "&d改造：石英"
+MOD_REDSTONE_DUMMY:
+  name: "&d改造：红石"
+NUGGET_CAST_ADAMANTITE:
+  name: "&7精金粒"
+NUGGET_CAST_ADVANCED_ALLOY:
+  name: "&7高级合金粒"
+NUGGET_CAST_ALUMINUM:
+  name: "&7铝粒"
+NUGGET_CAST_ALU_BRASS:
+  name: "&7铝黄铜粒"
+NUGGET_CAST_ALU_BRONZE:
+  name: "&7铝青铜粒"
+NUGGET_CAST_ANNIVERSARIUM:
+  name: "&7周年铟粒"
+NUGGET_CAST_BILLON:
+  name: "&7贱金属合金粒"
+NUGGET_CAST_BOOMERITE:
+  name: "&7爆裂石粒"
+NUGGET_CAST_BRASS:
+  name: "&7黄铜粒"
+NUGGET_CAST_BRONZE:
+  name: "&7青铜粒"
+NUGGET_CAST_COAL:
+  name: "&7煤粒"
+NUGGET_CAST_COBALT:
+  name: "&7钴粒"
+NUGGET_CAST_COPPER:
+  name: "&7铜粒"
+NUGGET_CAST_COR_BRONZE:
+  name: "&7科林斯青铜粒"
+NUGGET_CAST_CRINGLEIUM:
+  name: "&7圣诞铟粒"
+NUGGET_CAST_DAMASCUS_STEEL:
+  name: "&7大马士革钢粒"
+NUGGET_CAST_DAXI_ABSORPTION:
+  name: "&7伤害吸收达西粒"
+NUGGET_CAST_DAXI_FORTITUDE:
+  name: "&7坚韧达西粒"
+NUGGET_CAST_DAXI_REGENERATION:
+  name: "&7再生达西粒"
+NUGGET_CAST_DAXI_SATURATION:
+  name: "&7饱和达西粒"
+NUGGET_CAST_DAXI_STRENGTH:
+  name: "&7力量达西粒"
+NUGGET_CAST_DEVOTION:
+  name: "&7奉献粒"
+NUGGET_CAST_DURALIUM:
+  name: "&7硬铝粒"
+NUGGET_CAST_FERROSILICON:
+  name: "&7硅铁粒"
+NUGGET_CAST_FONDNESS:
+  name: "&7喜爱粒"
+NUGGET_CAST_HARD_METAL:
+  name: "&7硬化金属粒"
+NUGGET_CAST_INFINITY:
+  name: "&7无尽粒"
+NUGGET_CAST_IRIDIUM:
+  name: "&7铱粒"
+NUGGET_CAST_LEAD:
+  name: "&7铅粒"
+NUGGET_CAST_LOVE:
+  name: "&7爱粒"
+NUGGET_CAST_MAGNESIUM:
+  name: "&7镁粒"
+NUGGET_CAST_MAGNONIUM:
+  name: "&7磁能铟粒"
+NUGGET_CAST_MAGSTEEL:
+  name: "&7磁钢粒"
+NUGGET_CAST_MAG_THOR:
+  name: "&7镁钍粒"
+NUGGET_CAST_MIXED_METAL:
+  name: "&7混合金属粒"
+NUGGET_CAST_MYTHRIL:
+  name: "&7秘银粒"
+NUGGET_CAST_NICE:
+  name: "&7美好粒"
+NUGGET_CAST_NICKEL:
+  name: "&7镍粒"
+NUGGET_CAST_OSMIUM:
+  name: "&7锇粒"
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7锇超合金粒"
+NUGGET_CAST_PASSION:
+  name: "&7热情粒"
+NUGGET_CAST_REDSTONE_ALLOY:
+  name: "&7红石合金粒"
+NUGGET_CAST_REFINED_IRON:
+  name: "&7精炼铁粒"
+NUGGET_CAST_REINFORCED:
+  name: "&7强化合金粒"
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  name: "&7强化龙石粒"
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7强化史莱姆钢粒"
+NUGGET_CAST_SCRAP:
+  name: "&7废料粒"
+NUGGET_CAST_SEFIRITE:
+  name: "&7塞菲石粒"
+NUGGET_CAST_SILVER:
+  name: "&7银粒"
+NUGGET_CAST_SLIMESTEEL:
+  name: "&7史莱姆钢粒"
+NUGGET_CAST_SMITHIUM:
+  name: "&7史密斯铟粒"
+NUGGET_CAST_SOLDER:
+  name: "&7焊料粒"
+NUGGET_CAST_STAINLESSSTEEL:
+  name: "&7不锈钢粒"
+NUGGET_CAST_STEEL:
+  name: "&7钢粒"
+NUGGET_CAST_TIN:
+  name: "&7锡粒"
+NUGGET_CAST_TITANIUM:
+  name: "&7钛粒"
+NUGGET_CAST_UNPATENTABILUM:
+  name: "&7无法专利铟粒"
+NUGGET_CAST_ZINC:
+  name: "&7锌粒"
+PART_AXE_HEAD_DUMMY:
+  name: "&e部件：斧头"
+PART_BINDING_DUMMY:
+  name: "&e部件：绑定"
+PART_BINDING_GENERAL_DISPLAY:
+  name: "&7绑定材料"
+PART_BOOT_PLATE_DUMMY:
+  name: "&e部件：靴子护甲板"
+PART_CHEST_PLATE_DUMMY:
+  name: "&e部件：胸甲护甲板"
+PART_GAMBESON_DUMMY:
+  name: "&e部件：战袍"
+PART_GAMBESON_GENERAL_DISPLAY:
+  name: "&7战袍材料"
+PART_HELM_PLATE_DUMMY:
+  name: "&e部件：头盔护甲板"
+PART_HOE_HEAD_DUMMY:
+  name: "&e部件：锄头"
+PART_LEG_PLATE_DUMMY:
+  name: "&e部件：护腿护甲板"
+PART_MAIL_LINKS_DUMMY:
+  name: "&e部件：锁甲环"
+PART_PICKAXE_HEAD_DUMMY:
+  name: "&e部件：镐头"
+PART_REPAIR_KIT_DUMMY:
+  name: "&e部件：修复套件"
+PART_SHOVEL_HEAD_DUMMY:
+  name: "&e部件：锹头"
+PART_SWORD_BLADE_DUMMY:
+  name: "&e部件：剑刃"
+PART_TOOL_ROD_DUMMY:
+  name: "&e部件：工具杆"
+PROP_BINDING:
+  name: "&b部件：粘合件"
+PROP_GAMBESON:
+  name: "&b部件：战袍"
+PROP_HEAD:
+  name: "&b部件：头"
+PROP_LINKS:
+  name: "&b部件：锁甲环"
+PROP_PLATES:
+  name: "&b部件：护甲板"
+PROP_ROD:
+  name: "&b部件：工具杆"
+SEARED_BRICK:
+  name: "&7灼烧砖"
+SEARED_BRICK_BLOCK:
+  name: "&7灼烧砖块"
+SEARED_TANK:
+  name: "&7灼烧储罐"
+SMELTERY_CONTROLLER:
+  name: "&3冶炼厂控制器"
+SPOUT:
+  name: "&7灼烧出水口"
+TINKERS_ARMOUR_TABLE:
+  name: "&3工匠盔甲台"
+TINKERS_MOD_STATION:
+  name: "&3工匠改造站"
+TINKERS_REPAIR_BENCH:
+  name: "&3工匠修复台"
+TINKERS_SMELTERY_CORE:
+  name: "&3工匠冶炼厂"
+TINKERS_SWAPPING_STATION:
+  name: "&3工匠更换站"
+TINKERS_TABLE:
+  name: "&3工匠工具台"
+TINKERS_WORKBENCH:
+  name: "&3工匠工作台"
+TOOL_AXE_DUMMY:
+  name: "&a工匠斧"
+TOOL_HOE_DUMMY:
+  name: "&a工匠锄"
+TOOL_INFO:
+  name: "&3工匠工具：信息"
+TOOL_PICKAXE_DUMMY:
+  name: "&a工匠镐"
+TOOL_SHOVEL_DUMMY:
+  name: "&a工匠锹"
+TOOL_SWORD_DUMMY:
+  name: "&a工匠剑"
