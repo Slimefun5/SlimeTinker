@@ -127,3 +127,21 @@ part-types:
   GAMBESON: Gambeson
   LINKS: Maliënschakels
   REPAIR: Reparatieset
+lore:
+  head_abbrev: 'K: '
+  binder_abbrev: 'B: '
+  rod_abbrev: 'S: '
+  plate_abbrev: 'P: '
+  gambeson_abbrev: 'W: '
+  links_abbrev: 'S: '
+  level: 'Niveau: '
+  modifier_slots: 'Modificatiesleuven: '
+  mod_level: ' Niveau '
+  mod_max: ' - (MAX)'
+modifiers:
+  REDSTONE: 'Redstone'
+  LAPIS_LAZULI: 'Lapis Lazuli'
+  QUARTZ: 'Kwarts'
+  DIAMOND: 'Diamant'
+  EMERALD: 'Smaragd'
+  MOD_PLATE: 'Modificatieplaat'

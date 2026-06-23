@@ -1,5 +1,7 @@
 package io.github.sefiraat.slimetinker.i18n;
 
+import java.util.List;
+
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
@@ -123,28 +125,42 @@ public class TinkerTranslationListener implements Listener {
 
             String language = languageOf(p);
             String target = tool ? composeTool(meta, language) : armour ? composeArmour(meta, language) : composePart(meta, language);
+            String english = tool ? composeTool(meta, null) : armour ? composeArmour(meta, null) : composePart(meta, null);
 
-            if (target == null) {
+            if (target == null || english == null) {
                 return false;
             }
 
             String current = meta.hasDisplayName() ? meta.getDisplayName() : null;
-
-            if (target.equals(current)) {
-                return false;
-            }
-
-            String english = tool ? composeTool(meta, null) : armour ? composeArmour(meta, null) : composePart(meta, null);
-
-            if (english == null) {
-                return false;
-            }
             boolean managed = "Y".equals(Pdc.getString(meta, Keys.TOOL_I18N_MANAGED.toString()));
 
-            // Only rewrite an item that is still showing the default English composition or one we
-            // previously translated - never a name a player set themselves (e.g. via an anvil).
-            if (managed || english.equals(current)) {
+            // Only touch an item still showing the default English composition or one we previously
+            // translated - never a name a player set themselves (e.g. via an anvil).
+            if (!managed && !english.equals(current)) {
+                return false;
+            }
+
+            boolean changed = false;
+
+            if (!target.equals(current)) {
                 meta.setDisplayName(target);
+                changed = true;
+            }
+
+            // Tools and armour also get their lore rebuilt in the holder's language (labels, traits,
+            // modifier names). Parts keep their static lore for now.
+            if (tool || armour) {
+                List<String> targetLore = tool
+                    ? ItemUtils.buildToolLore(meta, stack, language)
+                    : ItemUtils.buildArmourLore(meta, stack, language);
+
+                if (!targetLore.equals(meta.getLore())) {
+                    meta.setLore(targetLore);
+                    changed = true;
+                }
+            }
+
+            if (changed) {
                 Pdc.setString(meta, Keys.TOOL_I18N_MANAGED.toString(), "Y");
                 stack.setItemMeta(meta);
                 return true;

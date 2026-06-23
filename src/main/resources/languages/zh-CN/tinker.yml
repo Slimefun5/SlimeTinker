@@ -127,3 +127,21 @@ part-types:
   GAMBESON: 软垫衬甲
   LINKS: 锁甲环
   REPAIR: 修复工具包
+lore:
+  head_abbrev: '头: '
+  binder_abbrev: '黏: '
+  rod_abbrev: '杆: '
+  plate_abbrev: '板: '
+  gambeson_abbrev: '衬: '
+  links_abbrev: '锁: '
+  level: '等级: '
+  modifier_slots: '改良槽: '
+  mod_level: ' 等级 '
+  mod_max: ' - (最高)'
+modifiers:
+  REDSTONE: '红石'
+  LAPIS_LAZULI: '青金石'
+  QUARTZ: '石英'
+  DIAMOND: '钻石'
+  EMERALD: '绿宝石'
+  MOD_PLATE: '改良板'

@@ -3,6 +3,8 @@ package io.github.sefiraat.slimetinker.utils;
 import io.github.mooy1.infinitylib.common.StackUtils;
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.events.friend.TraitPartType;
+import io.github.sefiraat.slimetinker.i18n.TinkerLang;
+import io.github.thebusybiscuit.slimefun5.core.services.localization.Language;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterialManager;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.recipes.MoltenResult;
 import io.github.sefiraat.slimetinker.modifiers.Mod;
@@ -135,110 +137,145 @@ public final class ItemUtils {
         return im == null ? null : Pdc.getString(im, Keys.PART_TYPE.toString());
     }
 
+    /** The server's default language id, used when no holding player is in context. */
+    @Nonnull
+    public static String serverDefaultLanguage() {
+        Language language = Slimefun.getLocalization().getDefaultLanguage();
+        return language != null ? language.getId() : "en";
+    }
+
+    /** A translated lore label, falling back to the given English default (so English is unchanged). */
+    @Nonnull
+    private static String loreText(@Nonnull String key, @Nonnull String englishDefault, @Nullable String language) {
+        String t = TinkerLang.lookup("lore", key, language);
+        return t != null ? t : englishDefault;
+    }
+
     public static void rebuildTinkerLore(@Nonnull ItemStack itemStack) {
+        rebuildTinkerLore(itemStack, serverDefaultLanguage());
+    }
+
+    public static void rebuildTinkerLore(@Nonnull ItemStack itemStack, @Nullable String language) {
         if (isTool(itemStack)) {
-            rebuildToolLore(itemStack);
+            rebuildToolLore(itemStack, language);
         } else if (isArmour(itemStack)) {
-            rebuildArmourLore(itemStack);
+            rebuildArmourLore(itemStack, language);
         }
     }
 
-    private static void rebuildToolLore(@Nonnull ItemStack itemStack) {
+    public static void rebuildArmourLore(@Nonnull ItemStack itemStack) {
+        rebuildArmourLore(itemStack, serverDefaultLanguage());
+    }
+
+    private static void rebuildToolLore(@Nonnull ItemStack itemStack, @Nullable String language) {
         ItemMeta im = itemStack.getItemMeta();
         assert im != null;
+        im.setLore(buildToolLore(im, itemStack, language));
+        itemStack.setItemMeta(im);
+    }
+
+    private static void rebuildArmourLore(@Nonnull ItemStack itemStack, @Nullable String language) {
+        ItemMeta im = itemStack.getItemMeta();
+        assert im != null;
+        im.setLore(buildArmourLore(im, itemStack, language));
+        itemStack.setItemMeta(im);
+    }
+
+    /** Builds the full tool lore in the given language (labels, traits and modifier names translated). */
+    @Nonnull
+    public static List<String> buildToolLore(@Nonnull ItemMeta im, @Nonnull ItemStack itemStack, @Nullable String language) {
         List<String> lore = new ArrayList<>();
 
         String matHead = getToolHeadMaterial(im);
         String matBind = getToolBindingMaterial(im);
         String matRod = getToolRodMaterial(im);
 
-        // General Material information
         lore.add(ThemeUtils.getLine());
-        lore.add(ThemeUtils.CLICK_INFO + "H: " + formatMaterialName(matHead));
-        lore.add(ThemeUtils.CLICK_INFO + "B: " + formatMaterialName(matBind));
-        lore.add(ThemeUtils.CLICK_INFO + "R: " + formatMaterialName(matRod));
-        lore.add(ThemeUtils.getLine());
-
-        // Material properties
-        lore.add(formatPropertyName(matHead, TinkerMaterialManager.getTraitName(matHead, TraitPartType.HEAD)));
-        lore.add(formatPropertyName(matBind, TinkerMaterialManager.getTraitName(matBind, TraitPartType.BINDER)));
-        lore.add(formatPropertyName(matRod, TinkerMaterialManager.getTraitName(matRod, TraitPartType.ROD)));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("head_abbrev", "H: ", language) + formatMaterialName(matHead, language));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("binder_abbrev", "B: ", language) + formatMaterialName(matBind, language));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("rod_abbrev", "R: ", language) + formatMaterialName(matRod, language));
         lore.add(ThemeUtils.getLine());
 
-        // Exp / Leveling / Mod Slot information
-        lore.add(getLoreExp(im));
-        lore.add(getLoreModSlots(im));
+        lore.add(formatPropertyName(matHead, TinkerMaterialManager.getTraitName(matHead, TraitPartType.HEAD), language));
+        lore.add(formatPropertyName(matBind, TinkerMaterialManager.getTraitName(matBind, TraitPartType.BINDER), language));
+        lore.add(formatPropertyName(matRod, TinkerMaterialManager.getTraitName(matRod, TraitPartType.ROD), language));
         lore.add(ThemeUtils.getLine());
 
-        // Active Mods
+        lore.add(getLoreExp(im, language));
+        lore.add(getLoreModSlots(im, language));
+        lore.add(ThemeUtils.getLine());
+
         Map<String, Integer> mapAmounts = Modifications.getModificationMapTool(itemStack);
         Map<String, Integer> mapLevels = Modifications.getAllModLevels(itemStack);
 
         for (Map.Entry<String, Integer> entry : mapLevels.entrySet()) {
             int level = entry.getValue();
             Mod mod = Modifications.getModificationDefinitionsTool().get(entry.getKey());
+            String modName = modifierName(entry.getKey(), language);
             if (mod.getRequirementMap().containsKey(level + 1)) {
                 String amountRequired = String.valueOf(mod.getRequirementMap().get(level + 1));
-                lore.add(ThemeUtils.CLICK_INFO + ThemeUtils.toTitleCase(entry.getKey()) + " Level " + entry.getValue() + ThemeUtils.PASSIVE + " - (" + mapAmounts.get(entry.getKey()) + "/" + amountRequired + ")");
+                lore.add(ThemeUtils.CLICK_INFO + modName + loreText("mod_level", " Level ", language) + entry.getValue() + ThemeUtils.PASSIVE + " - (" + mapAmounts.get(entry.getKey()) + "/" + amountRequired + ")");
             } else {
-                lore.add(ThemeUtils.CLICK_INFO + ThemeUtils.toTitleCase(entry.getKey()) + " Level " + entry.getValue() + ThemeUtils.PASSIVE + " - (MAX)");
+                lore.add(ThemeUtils.CLICK_INFO + modName + loreText("mod_level", " Level ", language) + entry.getValue() + ThemeUtils.PASSIVE + loreText("mod_max", " - (MAX)", language));
             }
         }
         if (!mapLevels.isEmpty()) {
             lore.add(ThemeUtils.getLine());
         }
 
-        im.setLore(lore);
-        itemStack.setItemMeta(im);
+        return lore;
     }
 
-    public static void rebuildArmourLore(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        assert im != null;
+    /** Builds the full armour lore in the given language. */
+    @Nonnull
+    public static List<String> buildArmourLore(@Nonnull ItemMeta im, @Nonnull ItemStack itemStack, @Nullable String language) {
         List<String> lore = new ArrayList<>();
 
         String matPlate = getArmourPlateMaterial(im);
         String matGambeson = getArmourGambesonMaterial(im);
         String matLinks = getArmourLinksMaterial(im);
 
-        // General Material information
         lore.add(ThemeUtils.getLine());
-        lore.add(ThemeUtils.CLICK_INFO + "P: " + formatMaterialName(matPlate));
-        lore.add(ThemeUtils.CLICK_INFO + "G: " + formatMaterialName(matGambeson));
-        lore.add(ThemeUtils.CLICK_INFO + "L: " + formatMaterialName(matLinks));
-        lore.add(ThemeUtils.getLine());
-
-        // Material properties
-        lore.add(formatPropertyName(matPlate, TinkerMaterialManager.getTraitName(matPlate, TraitPartType.PLATES)));
-        lore.add(formatPropertyName(matGambeson, TinkerMaterialManager.getTraitName(matGambeson, TraitPartType.GAMBESON)));
-        lore.add(formatPropertyName(matLinks, TinkerMaterialManager.getTraitName(matLinks, TraitPartType.LINKS)));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("plate_abbrev", "P: ", language) + formatMaterialName(matPlate, language));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("gambeson_abbrev", "G: ", language) + formatMaterialName(matGambeson, language));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("links_abbrev", "L: ", language) + formatMaterialName(matLinks, language));
         lore.add(ThemeUtils.getLine());
 
-        // Exp / Leveling / Mod Slot information
-        lore.add(getLoreExp(im));
-        lore.add(getLoreModSlots(im));
+        lore.add(formatPropertyName(matPlate, TinkerMaterialManager.getTraitName(matPlate, TraitPartType.PLATES), language));
+        lore.add(formatPropertyName(matGambeson, TinkerMaterialManager.getTraitName(matGambeson, TraitPartType.GAMBESON), language));
+        lore.add(formatPropertyName(matLinks, TinkerMaterialManager.getTraitName(matLinks, TraitPartType.LINKS), language));
         lore.add(ThemeUtils.getLine());
 
-        // Active Mods
+        lore.add(getLoreExp(im, language));
+        lore.add(getLoreModSlots(im, language));
+        lore.add(ThemeUtils.getLine());
+
         Map<String, Integer> mapAmounts = Modifications.getModificationMapArmour(itemStack);
         Map<String, Integer> mapLevels = Modifications.getAllModLevels(itemStack);
 
         for (Map.Entry<String, Integer> entry : mapLevels.entrySet()) {
             int level = entry.getValue();
             Mod mod = Modifications.getModificationDefinitionsArmour().get(entry.getKey());
+            String modName = modifierName(entry.getKey(), language);
             if (mod.getRequirementMap().containsKey(level + 1)) {
                 String amountRequired = String.valueOf(mod.getRequirementMap().get(level + 1));
-                lore.add(ThemeUtils.CLICK_INFO + ThemeUtils.toTitleCase(entry.getKey()) + " Level " + entry.getValue() + ThemeUtils.PASSIVE + " - (" + mapAmounts.get(entry.getKey()) + "/" + amountRequired + ")");
+                lore.add(ThemeUtils.CLICK_INFO + modName + loreText("mod_level", " Level ", language) + entry.getValue() + ThemeUtils.PASSIVE + " - (" + mapAmounts.get(entry.getKey()) + "/" + amountRequired + ")");
             } else {
-                lore.add(ThemeUtils.CLICK_INFO + ThemeUtils.toTitleCase(entry.getKey()) + " Level " + entry.getValue() + ThemeUtils.PASSIVE + " - (MAX)");
+                lore.add(ThemeUtils.CLICK_INFO + modName + loreText("mod_level", " Level ", language) + entry.getValue() + ThemeUtils.PASSIVE + loreText("mod_max", " - (MAX)", language));
             }
         }
         if (!mapLevels.isEmpty()) {
             lore.add(ThemeUtils.getLine());
         }
 
-        im.setLore(lore);
-        itemStack.setItemMeta(im);
+        return lore;
+    }
+
+    /** A modifier's display name in the given language, falling back to the title-cased id (English). */
+    @Nonnull
+    private static String modifierName(@Nonnull String id, @Nullable String language) {
+        String t = TinkerLang.lookup("modifiers", id, language);
+        return t != null ? t : ThemeUtils.toTitleCase(id);
     }
 
     public static void rebuildTinkerName(@Nonnull ItemStack itemStack) {
@@ -402,12 +439,23 @@ public final class ItemUtils {
 
     @Nonnull
     public static String formatMaterialName(String s) {
-        return TinkerMaterialManager.getById(s).getColor() + ThemeUtils.toTitleCase(s);
+        return formatMaterialName(s, serverDefaultLanguage());
+    }
+
+    public static String formatMaterialName(String s, @Nullable String language) {
+        return TinkerMaterialManager.getById(s).getColor() + TinkerLang.translate("materials", s, language);
     }
 
     @Nonnull
     public static String formatPropertyName(String s, String p) {
-        return TinkerMaterialManager.getColorById(s) + p;
+        return formatPropertyName(s, p, serverDefaultLanguage());
+    }
+
+    /** Colours a trait name, translating it via the "traits" table (English name as key) with fallback to the name. */
+    @Nonnull
+    public static String formatPropertyName(String s, String p, @Nullable String language) {
+        String translated = TinkerLang.lookup("traits", p, language);
+        return TinkerMaterialManager.getColorById(s) + (translated != null ? translated : p);
     }
 
     public static boolean isMeltable(ItemStack itemStack) {
@@ -617,14 +665,24 @@ public final class ItemUtils {
 
     @Nonnull
     public static String getLoreExp(ItemMeta im) {
-        return ThemeUtils.ITEM_TOOL + "Level: " +
+        return getLoreExp(im, serverDefaultLanguage());
+    }
+
+    @Nonnull
+    public static String getLoreExp(ItemMeta im, @Nullable String language) {
+        return ThemeUtils.ITEM_TOOL + loreText("level", "Level: ", language) +
             ChatColor.WHITE + getTinkerLevel(im) +
             ThemeUtils.PASSIVE + " (" + getTinkerExp(im) + " / " + getTinkerRequiredExp(im) + ")";
     }
 
     @Nonnull
     public static String getLoreModSlots(ItemMeta im) {
-        return ThemeUtils.ITEM_TOOL + "Modifier Slots: " +
+        return getLoreModSlots(im, serverDefaultLanguage());
+    }
+
+    @Nonnull
+    public static String getLoreModSlots(ItemMeta im, @Nullable String language) {
+        return ThemeUtils.ITEM_TOOL + loreText("modifier_slots", "Modifier Slots: ", language) +
             ChatColor.WHITE + getTinkerModifierSlots(im);
     }
 

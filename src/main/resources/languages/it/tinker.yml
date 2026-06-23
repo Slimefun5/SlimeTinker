@@ -127,3 +127,21 @@ part-types:
   GAMBESON: Gambeson
   LINKS: Maglie di Cotta
   REPAIR: Kit di Riparazione
+lore:
+  head_abbrev: 'T: '
+  binder_abbrev: 'L: '
+  rod_abbrev: 'A: '
+  plate_abbrev: 'P: '
+  gambeson_abbrev: 'G: '
+  links_abbrev: 'M: '
+  level: 'Livello: '
+  modifier_slots: 'Slot Modificatore: '
+  mod_level: ' Livello '
+  mod_max: ' - (MAX)'
+modifiers:
+  REDSTONE: 'Redstone'
+  LAPIS_LAZULI: 'Lapislazzuli'
+  QUARTZ: 'Quarzo'
+  DIAMOND: 'Diamante'
+  EMERALD: 'Smeraldo'
+  MOD_PLATE: 'Piastra Modificatore'

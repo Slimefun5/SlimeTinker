@@ -127,3 +127,21 @@ part-types:
   GAMBESON: Gambesón
   LINKS: Anillas de Malla
   REPAIR: Kit de Reparación
+lore:
+  head_abbrev: 'C: '
+  binder_abbrev: 'A: '
+  rod_abbrev: 'V: '
+  plate_abbrev: 'P: '
+  gambeson_abbrev: 'G: '
+  links_abbrev: 'E: '
+  level: 'Nivel: '
+  modifier_slots: 'Ranuras de modificador: '
+  mod_level: ' Nivel '
+  mod_max: ' - (MÁX)'
+modifiers:
+  REDSTONE: 'Redstone'
+  LAPIS_LAZULI: 'Lapislázuli'
+  QUARTZ: 'Cuarzo'
+  DIAMOND: 'Diamante'
+  EMERALD: 'Esmeralda'
+  MOD_PLATE: 'Placa de modificador'

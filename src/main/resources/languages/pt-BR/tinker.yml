@@ -127,3 +127,21 @@ part-types:
   GAMBESON: Gambeson
   LINKS: Elos de Malha
   REPAIR: Kit de Reparo
+lore:
+  head_abbrev: 'C: '
+  binder_abbrev: 'A: '
+  rod_abbrev: 'H: '
+  plate_abbrev: 'P: '
+  gambeson_abbrev: 'G: '
+  links_abbrev: 'E: '
+  level: 'Nível: '
+  modifier_slots: 'Espaços de Modificador: '
+  mod_level: ' Nível '
+  mod_max: ' - (MÁX)'
+modifiers:
+  REDSTONE: 'Redstone'
+  LAPIS_LAZULI: 'Lápis-Lazúli'
+  QUARTZ: 'Quartzo'
+  DIAMOND: 'Diamante'
+  EMERALD: 'Esmeralda'
+  MOD_PLATE: 'Placa de Modificação'

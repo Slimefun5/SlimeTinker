@@ -127,3 +127,21 @@ part-types:
   GAMBESON: Gambeson
   LINKS: Ogniwa kolczugi
   REPAIR: Zestaw naprawczy
+lore:
+  head_abbrev: 'G: '
+  binder_abbrev: 'S: '
+  rod_abbrev: 'T: '
+  plate_abbrev: 'P: '
+  gambeson_abbrev: 'G: '
+  links_abbrev: 'O: '
+  level: 'Poziom: '
+  modifier_slots: 'Sloty Modyfikatorów: '
+  mod_level: ' Poziom '
+  mod_max: ' - (MAKS.)'
+modifiers:
+  REDSTONE: 'Czerwony Kamień'
+  LAPIS_LAZULI: 'Lazuryt'
+  QUARTZ: 'Kwarc'
+  DIAMOND: 'Diament'
+  EMERALD: 'Szmaragd'
+  MOD_PLATE: 'Płytka Modyfikatora'

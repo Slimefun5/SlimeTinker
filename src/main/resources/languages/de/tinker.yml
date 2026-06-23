@@ -127,3 +127,21 @@ part-types:
   GAMBESON: Gambeson
   LINKS: Kettenglieder
   REPAIR: Reparaturset
+lore:
+  head_abbrev: 'K: '
+  binder_abbrev: 'B: '
+  rod_abbrev: 'S: '
+  plate_abbrev: 'P: '
+  gambeson_abbrev: 'W: '
+  links_abbrev: 'G: '
+  level: 'Stufe: '
+  modifier_slots: 'Modifikator-Slots: '
+  mod_level: ' Stufe '
+  mod_max: ' - (MAX)'
+modifiers:
+  REDSTONE: 'Redstone'
+  LAPIS_LAZULI: 'Lapislazuli'
+  QUARTZ: 'Quarz'
+  DIAMOND: 'Diamant'
+  EMERALD: 'Smaragd'
+  MOD_PLATE: 'Mod-Platte'

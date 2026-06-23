@@ -127,3 +127,21 @@ part-types:
   GAMBESON: Гамбезон
   LINKS: Кольчужные звенья
   REPAIR: Ремонтный набор
+lore:
+  head_abbrev: 'Г: '
+  binder_abbrev: 'С: '
+  rod_abbrev: 'Ст: '
+  plate_abbrev: 'П: '
+  gambeson_abbrev: 'Гм: '
+  links_abbrev: 'З: '
+  level: 'Уровень: '
+  modifier_slots: 'Слоты модификаторов: '
+  mod_level: ' Уровень '
+  mod_max: ' - (МАКС)'
+modifiers:
+  REDSTONE: 'Редстоун'
+  LAPIS_LAZULI: 'Лазурит'
+  QUARTZ: 'Кварц'
+  DIAMOND: 'Алмаз'
+  EMERALD: 'Изумруд'
+  MOD_PLATE: 'Мод-пластина'

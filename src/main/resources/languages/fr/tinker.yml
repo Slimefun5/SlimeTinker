@@ -127,3 +127,21 @@ part-types:
   GAMBESON: Gambison
   LINKS: Mailles
   REPAIR: Kit de réparation
+lore:
+  head_abbrev: 'T: '
+  binder_abbrev: 'L: '
+  rod_abbrev: 'M: '
+  plate_abbrev: 'P: '
+  gambeson_abbrev: 'G: '
+  links_abbrev: 'M: '
+  level: 'Niveau : '
+  modifier_slots: 'Emplacements de modificateur : '
+  mod_level: ' Niveau '
+  mod_max: ' - (MAX)'
+modifiers:
+  REDSTONE: 'Redstone'
+  LAPIS_LAZULI: 'Lapis-lazuli'
+  QUARTZ: 'Quartz'
+  DIAMOND: 'Diamant'
+  EMERALD: 'Émeraude'
+  MOD_PLATE: 'Plaque de modificateur'
