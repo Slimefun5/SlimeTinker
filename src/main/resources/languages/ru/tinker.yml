@@ -1,0 +1,114 @@
+# SlimeTinker runtime-composed name fragments. Keyed by material/type id.
+materials:
+  IRON: Железо
+  GOLD: Золото
+  COPPER: Медь
+  SILVER: Серебро
+  TIN: Олово
+  MAGNESIUM: Магний
+  ALUMINUM: Алюминий
+  LEAD: Свинец
+  ZINC: Цинк
+  COAL: Уголь
+  STEEL: Сталь
+  DAMASCUS_STEEL: Дамасская сталь
+  DURALIUM: Дюралюминий
+  BRONZE: Бронза
+  ALUMINUM_BRONZE: Алюминиевая бронза
+  HARDENED_METAL: Закалённый металл
+  CORINTHIAN_BRONZE: Коринфская бронза
+  SOLDER: Припой
+  BILLON: Биллон
+  BRASS: Латунь
+  ALUMINUM_BRASS: Алюминиевая латунь
+  NICKEL: Никель
+  COBALT: Кобальт
+  REINFORCED_ALLOY: Усиленный сплав
+  STRING: Нить
+  VINE: Лоза
+  CRIMSON_ROOT: Багровый корень
+  WARPED_ROOT: Искажённый корень
+  WEEPING_VINE: Плакучая лоза
+  TWISTED_VINE: Скрученная лоза
+  SLIME: Слизь
+  LEATHER: Кожа
+  DIAMOND: Алмаз
+  DRACONIC: Драконий
+  REDSTONE: Редстоун
+  REDSTONE_ALLOY: Редстоуновый сплав
+  SILICON: Кремний
+  FERROSILICON: Ферросилиций
+  BOOMERITE: Бумерит
+  SEFIRITE: Сефирит
+  LIQUID_CHRISTMAS: Жидкое Рождество
+  CRINGLEIUM: Кринглиум
+  FLOWING_FONDNESS: Текучая нежность
+  DETAILED_DEVOTION: Утончённая преданность
+  PURIFIED_PASSION: Очищенная страсть
+  LIQUID_LOVE: Жидкая любовь
+  NICEINIUM: Найсиниум
+  SMITHIUM: Смитиум
+  ANNIVERSARIUM: Анниверсариум
+  VOID: Бездна
+  INFINITE: Бесконечный
+  FORTUNE_SINGULARITY: Сингулярность удачи
+  MAGIC_SINGULARITY: Магическая сингулярность
+  EARTH_SINGULARITY: Сингулярность земли
+  METAL_SINGULARITY: Сингулярность металла
+  MAGSTEEL: Магсталь
+  TITANIUM: Титан
+  MYTHRIL: Мифрил
+  ADAMANTITE: Адамантит
+  MAGNONIUM: Магнониум
+  COPPER_SINGULARITY: Сингулярность меди
+  ZINC_SINGULARITY: Сингулярность цинка
+  TIN_SINGULARITY: Сингулярность олова
+  ALUMINUM_SINGULARITY: Сингулярность алюминия
+  SILVER_SINGULARITY: Сингулярность серебра
+  MAGNESIUM_SINGULARITY: Сингулярность магния
+  LEAD_SINGULARITY: Сингулярность свинца
+  GOLD_SINGULARITY: Сингулярность золота
+  IRON_SINGULARITY: Сингулярность железа
+  DIAMOND_SINGULARITY: Сингулярность алмаза
+  INFINITY_SINGULARITY: Сингулярность бесконечности
+  REINFORCED_DRACONIUM: Усиленный дракониум
+  SLIME_STEEL: Слизневая сталь
+  REINFORCED_SLIME_STEEL: Усиленная слизневая сталь
+  OSMIUM_SUPERALLOY: Осмиевый суперсплав
+  OSMIUM: Осмий
+  SEGGANESSON: Сегганессон
+  UNPATENTABLIUM: Незапатентиум
+  STAINLESS_STEEL: Нержавеющая сталь
+  VEX_GEM: Самоцвет вредины
+  STAR_DUST: Звёздная пыль
+  GHOSTLY_ESSENCE: Призрачная эссенция
+  TESSERACTING_MATERIAL: Тессерактовый материал
+  RUBBER: Резина
+  REFINED_IRON: Очищенное железо
+  MIXED_METAL: Смешанный металл
+  ADVANCED_ALLOY: Улучшенный сплав
+  THORIUM: Торий
+  MAG_THOR: Маг-тор
+  CARBON_MESH: Углеродная сетка
+  SCRAP: Лом
+  IRIDIUM: Иридий
+  DAXI_STRENGTH: Дакси силы
+  DAXI_ABSORPTION: Дакси поглощения
+  DAXI_FORTITUDE: Дакси стойкости
+  DAXI_SATURATION: Дакси насыщения
+  DAXI_REGENERATION: Дакси регенерации
+  INTERDIMENSIONAL_PRESENCE: Межпространственное присутствие
+  REMOTININIUM: Ремотиниум
+  ULTIMANINIUM: Ультиманиниум
+tool-types:
+  SHOVEL: Лопата
+  PICK: Кирка
+  PICKAXE: Кирка
+  AXE: Топор
+  HOE: Мотыга
+  SWORD: Меч
+armour-types:
+  HELMET: Шлем
+  CHESTPLATE: Нагрудник
+  LEGGINGS: Поножи
+  BOOTS: Ботинки

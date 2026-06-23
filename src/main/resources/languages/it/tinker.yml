@@ -1,0 +1,114 @@
+# SlimeTinker runtime-composed name fragments. Keyed by material/type id.
+materials:
+  IRON: Ferro
+  GOLD: Oro
+  COPPER: Rame
+  SILVER: Argento
+  TIN: Stagno
+  MAGNESIUM: Magnesio
+  ALUMINUM: Alluminio
+  LEAD: Piombo
+  ZINC: Zinco
+  COAL: Carbone
+  STEEL: Acciaio
+  DAMASCUS_STEEL: Acciaio di Damasco
+  DURALIUM: Duralluminio
+  BRONZE: Bronzo
+  ALUMINUM_BRONZE: Bronzo di Alluminio
+  HARDENED_METAL: Metallo Temprato
+  CORINTHIAN_BRONZE: Bronzo Corinzio
+  SOLDER: Lega Saldante
+  BILLON: Mistura
+  BRASS: Ottone
+  ALUMINUM_BRASS: Ottone di Alluminio
+  NICKEL: Nichel
+  COBALT: Cobalto
+  REINFORCED_ALLOY: Lega Rinforzata
+  STRING: Filo
+  VINE: Liana
+  CRIMSON_ROOT: Radice Cremisi
+  WARPED_ROOT: Radice Distorta
+  WEEPING_VINE: Liana Piangente
+  TWISTED_VINE: Liana Contorta
+  SLIME: Slime
+  LEATHER: Cuoio
+  DIAMOND: Diamante
+  DRACONIC: Draconico
+  REDSTONE: Redstone
+  REDSTONE_ALLOY: Lega di Redstone
+  SILICON: Silicio
+  FERROSILICON: Ferrosilicio
+  BOOMERITE: Boomerite
+  SEFIRITE: Sefirite
+  LIQUID_CHRISTMAS: Natale Liquido
+  CRINGLEIUM: Cringleio
+  FLOWING_FONDNESS: Affetto Fluente
+  DETAILED_DEVOTION: Devozione Dettagliata
+  PURIFIED_PASSION: Passione Purificata
+  LIQUID_LOVE: Amore Liquido
+  NICEINIUM: Niceinio
+  SMITHIUM: Smithium
+  ANNIVERSARIUM: Anniversarium
+  VOID: Vuoto
+  INFINITE: Infinito
+  FORTUNE_SINGULARITY: Singolarità della Fortuna
+  MAGIC_SINGULARITY: Singolarità Magica
+  EARTH_SINGULARITY: Singolarità della Terra
+  METAL_SINGULARITY: Singolarità del Metallo
+  MAGSTEEL: Magacciaio
+  TITANIUM: Titanio
+  MYTHRIL: Mithril
+  ADAMANTITE: Adamantite
+  MAGNONIUM: Magnonio
+  COPPER_SINGULARITY: Singolarità del Rame
+  ZINC_SINGULARITY: Singolarità dello Zinco
+  TIN_SINGULARITY: Singolarità dello Stagno
+  ALUMINUM_SINGULARITY: Singolarità dell'Alluminio
+  SILVER_SINGULARITY: Singolarità dell'Argento
+  MAGNESIUM_SINGULARITY: Singolarità del Magnesio
+  LEAD_SINGULARITY: Singolarità del Piombo
+  GOLD_SINGULARITY: Singolarità dell'Oro
+  IRON_SINGULARITY: Singolarità del Ferro
+  DIAMOND_SINGULARITY: Singolarità del Diamante
+  INFINITY_SINGULARITY: Singolarità dell'Infinito
+  REINFORCED_DRACONIUM: Draconio Rinforzato
+  SLIME_STEEL: Acciaio di Slime
+  REINFORCED_SLIME_STEEL: Acciaio di Slime Rinforzato
+  OSMIUM_SUPERALLOY: Superlega di Osmio
+  OSMIUM: Osmio
+  SEGGANESSON: Segganesson
+  UNPATENTABLIUM: Unpatentablium
+  STAINLESS_STEEL: Acciaio Inossidabile
+  VEX_GEM: Gemma del Vex
+  STAR_DUST: Polvere di Stelle
+  GHOSTLY_ESSENCE: Essenza Spettrale
+  TESSERACTING_MATERIAL: Materiale Tesseratto
+  RUBBER: Gomma
+  REFINED_IRON: Ferro Raffinato
+  MIXED_METAL: Metallo Misto
+  ADVANCED_ALLOY: Lega Avanzata
+  THORIUM: Torio
+  MAG_THOR: Mag Tor
+  CARBON_MESH: Maglia di Carbonio
+  SCRAP: Rottame
+  IRIDIUM: Iridio
+  DAXI_STRENGTH: Forza Daxi
+  DAXI_ABSORPTION: Assorbimento Daxi
+  DAXI_FORTITUDE: Fortezza Daxi
+  DAXI_SATURATION: Saturazione Daxi
+  DAXI_REGENERATION: Rigenerazione Daxi
+  INTERDIMENSIONAL_PRESENCE: Presenza Interdimensionale
+  REMOTININIUM: Remotininium
+  ULTIMANINIUM: Ultimaninium
+tool-types:
+  SHOVEL: Pala
+  PICK: Piccone
+  PICKAXE: Piccone
+  AXE: Ascia
+  HOE: Zappa
+  SWORD: Spada
+armour-types:
+  HELMET: Elmo
+  CHESTPLATE: Corazza
+  LEGGINGS: Gambali
+  BOOTS: Stivali

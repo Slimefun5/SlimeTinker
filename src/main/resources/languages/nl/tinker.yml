@@ -1,0 +1,114 @@
+# SlimeTinker runtime-composed name fragments. Keyed by material/type id.
+materials:
+  IRON: IJzer
+  GOLD: Goud
+  COPPER: Koper
+  SILVER: Zilver
+  TIN: Tin
+  MAGNESIUM: Magnesium
+  ALUMINUM: Aluminium
+  LEAD: Lood
+  ZINC: Zink
+  COAL: Steenkool
+  STEEL: Staal
+  DAMASCUS_STEEL: Damaststaal
+  DURALIUM: Duralium
+  BRONZE: Brons
+  ALUMINUM_BRONZE: Aluminiumbrons
+  HARDENED_METAL: Gehard Metaal
+  CORINTHIAN_BRONZE: Korinthisch Brons
+  SOLDER: Soldeer
+  BILLON: Billon
+  BRASS: Messing
+  ALUMINUM_BRASS: Aluminiummessing
+  NICKEL: Nikkel
+  COBALT: Kobalt
+  REINFORCED_ALLOY: Versterkte Legering
+  STRING: Draad
+  VINE: Liaan
+  CRIMSON_ROOT: Karmozijnen Wortel
+  WARPED_ROOT: Verwrongen Wortel
+  WEEPING_VINE: Wenende Liaan
+  TWISTED_VINE: Gedraaide Liaan
+  SLIME: Slijm
+  LEATHER: Leer
+  DIAMOND: Diamant
+  DRACONIC: Draconisch
+  REDSTONE: Redstone
+  REDSTONE_ALLOY: Redstone-legering
+  SILICON: Silicium
+  FERROSILICON: Ferrosilicium
+  BOOMERITE: Boomeriet
+  SEFIRITE: Sefiriet
+  LIQUID_CHRISTMAS: Vloeibare Kerst
+  CRINGLEIUM: Cringleium
+  FLOWING_FONDNESS: Vloeiende Genegenheid
+  DETAILED_DEVOTION: Gedetailleerde Toewijding
+  PURIFIED_PASSION: Gezuiverde Passie
+  LIQUID_LOVE: Vloeibare Liefde
+  NICEINIUM: Niceinium
+  SMITHIUM: Smithium
+  ANNIVERSARIUM: Anniversarium
+  VOID: Leegte
+  INFINITE: Oneindig
+  FORTUNE_SINGULARITY: Fortuin-singulariteit
+  MAGIC_SINGULARITY: Magie-singulariteit
+  EARTH_SINGULARITY: Aarde-singulariteit
+  METAL_SINGULARITY: Metaal-singulariteit
+  MAGSTEEL: Magstaal
+  TITANIUM: Titanium
+  MYTHRIL: Mythril
+  ADAMANTITE: Adamantiet
+  MAGNONIUM: Magnonium
+  COPPER_SINGULARITY: Koper-singulariteit
+  ZINC_SINGULARITY: Zink-singulariteit
+  TIN_SINGULARITY: Tin-singulariteit
+  ALUMINUM_SINGULARITY: Aluminium-singulariteit
+  SILVER_SINGULARITY: Zilver-singulariteit
+  MAGNESIUM_SINGULARITY: Magnesium-singulariteit
+  LEAD_SINGULARITY: Lood-singulariteit
+  GOLD_SINGULARITY: Goud-singulariteit
+  IRON_SINGULARITY: IJzer-singulariteit
+  DIAMOND_SINGULARITY: Diamant-singulariteit
+  INFINITY_SINGULARITY: Oneindigheid-singulariteit
+  REINFORCED_DRACONIUM: Versterkt Draconium
+  SLIME_STEEL: Slijmstaal
+  REINFORCED_SLIME_STEEL: Versterkt Slijmstaal
+  OSMIUM_SUPERALLOY: Osmium-superlegering
+  OSMIUM: Osmium
+  SEGGANESSON: Segganesson
+  UNPATENTABLIUM: Unpatentablium
+  STAINLESS_STEEL: Roestvrij Staal
+  VEX_GEM: Vex-edelsteen
+  STAR_DUST: Sterrenstof
+  GHOSTLY_ESSENCE: Spookachtige Essentie
+  TESSERACTING_MATERIAL: Tesseractmateriaal
+  RUBBER: Rubber
+  REFINED_IRON: Geraffineerd IJzer
+  MIXED_METAL: Gemengd Metaal
+  ADVANCED_ALLOY: Geavanceerde Legering
+  THORIUM: Thorium
+  MAG_THOR: Mag Thor
+  CARBON_MESH: Koolstofgaas
+  SCRAP: Schroot
+  IRIDIUM: Iridium
+  DAXI_STRENGTH: Daxi-kracht
+  DAXI_ABSORPTION: Daxi-absorptie
+  DAXI_FORTITUDE: Daxi-standvastigheid
+  DAXI_SATURATION: Daxi-verzadiging
+  DAXI_REGENERATION: Daxi-regeneratie
+  INTERDIMENSIONAL_PRESENCE: Interdimensionale Aanwezigheid
+  REMOTININIUM: Remotininium
+  ULTIMANINIUM: Ultimaninium
+tool-types:
+  SHOVEL: Schep
+  PICK: Houweel
+  PICKAXE: Houweel
+  AXE: Bijl
+  HOE: Schoffel
+  SWORD: Zwaard
+armour-types:
+  HELMET: Helm
+  CHESTPLATE: Borstplaat
+  LEGGINGS: Beenkappen
+  BOOTS: Laarzen

@@ -44,6 +44,9 @@ public final class Keys {
     public static final NamespacedKey ST_MOD_LEVEL_EMERALD = create("ST_mod_level_emerald");
     public static final NamespacedKey ST_MOD_LEVEL_OBSIDIAN = create("ST_mod_level_obsidian");
 
+    // Marks a tool/armour whose display name has been translated by the per-holder name re-skin.
+    public static final NamespacedKey TOOL_I18N_MANAGED = create("ST_I18N");
+
     // Tool information
     public static final NamespacedKey TOOL_INFO_IS_TOOL = create("ST_Tool");
     public static final NamespacedKey TOOL_INFO_HEAD_TYPE = create("ST_Type_Head");

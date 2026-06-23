@@ -1,0 +1,114 @@
+# SlimeTinker runtime-composed name fragments. Keyed by material/type id.
+materials:
+  IRON: Żelazo
+  GOLD: Złoto
+  COPPER: Miedź
+  SILVER: Srebro
+  TIN: Cyna
+  MAGNESIUM: Magnez
+  ALUMINUM: Aluminium
+  LEAD: Ołów
+  ZINC: Cynk
+  COAL: Węgiel
+  STEEL: Stal
+  DAMASCUS_STEEL: Stal damasceńska
+  DURALIUM: Duralium
+  BRONZE: Brąz
+  ALUMINUM_BRONZE: Brąz aluminiowy
+  HARDENED_METAL: Utwardzony metal
+  CORINTHIAN_BRONZE: Brąz koryncki
+  SOLDER: Lut
+  BILLON: Bilon
+  BRASS: Mosiądz
+  ALUMINUM_BRASS: Mosiądz aluminiowy
+  NICKEL: Nikiel
+  COBALT: Kobalt
+  REINFORCED_ALLOY: Wzmocniony stop
+  STRING: Nić
+  VINE: Pnącze
+  CRIMSON_ROOT: Karmazynowy korzeń
+  WARPED_ROOT: Spaczony korzeń
+  WEEPING_VINE: Płaczące pnącze
+  TWISTED_VINE: Skręcone pnącze
+  SLIME: Szlam
+  LEATHER: Skóra
+  DIAMOND: Diament
+  DRACONIC: Smoczy
+  REDSTONE: Czerwony kamień
+  REDSTONE_ALLOY: Stop czerwonego kamienia
+  SILICON: Krzem
+  FERROSILICON: Żelazokrzem
+  BOOMERITE: Boomeryt
+  SEFIRITE: Sefiryt
+  LIQUID_CHRISTMAS: Płynne Święta
+  CRINGLEIUM: Cringleium
+  FLOWING_FONDNESS: Płynąca czułość
+  DETAILED_DEVOTION: Dokładne oddanie
+  PURIFIED_PASSION: Oczyszczona namiętność
+  LIQUID_LOVE: Płynna miłość
+  NICEINIUM: Niceinium
+  SMITHIUM: Smithium
+  ANNIVERSARIUM: Anniversarium
+  VOID: Pustka
+  INFINITE: Nieskończony
+  FORTUNE_SINGULARITY: Osobliwość szczęścia
+  MAGIC_SINGULARITY: Osobliwość magii
+  EARTH_SINGULARITY: Osobliwość ziemi
+  METAL_SINGULARITY: Osobliwość metalu
+  MAGSTEEL: Magstal
+  TITANIUM: Tytan
+  MYTHRIL: Mithril
+  ADAMANTITE: Adamantyt
+  MAGNONIUM: Magnonium
+  COPPER_SINGULARITY: Osobliwość miedzi
+  ZINC_SINGULARITY: Osobliwość cynku
+  TIN_SINGULARITY: Osobliwość cyny
+  ALUMINUM_SINGULARITY: Osobliwość aluminium
+  SILVER_SINGULARITY: Osobliwość srebra
+  MAGNESIUM_SINGULARITY: Osobliwość magnezu
+  LEAD_SINGULARITY: Osobliwość ołowiu
+  GOLD_SINGULARITY: Osobliwość złota
+  IRON_SINGULARITY: Osobliwość żelaza
+  DIAMOND_SINGULARITY: Osobliwość diamentu
+  INFINITY_SINGULARITY: Osobliwość nieskończoności
+  REINFORCED_DRACONIUM: Wzmocnione draconium
+  SLIME_STEEL: Szlamowa stal
+  REINFORCED_SLIME_STEEL: Wzmocniona szlamowa stal
+  OSMIUM_SUPERALLOY: Superstop osmu
+  OSMIUM: Osm
+  SEGGANESSON: Segganesson
+  UNPATENTABLIUM: Unpatentablium
+  STAINLESS_STEEL: Stal nierdzewna
+  VEX_GEM: Klejnot drażki
+  STAR_DUST: Pył gwiezdny
+  GHOSTLY_ESSENCE: Upiorna esencja
+  TESSERACTING_MATERIAL: Materiał teseraktujący
+  RUBBER: Guma
+  REFINED_IRON: Rafinowane żelazo
+  MIXED_METAL: Mieszany metal
+  ADVANCED_ALLOY: Zaawansowany stop
+  THORIUM: Tor
+  MAG_THOR: Mag Tor
+  CARBON_MESH: Siatka węglowa
+  SCRAP: Złom
+  IRIDIUM: Iryd
+  DAXI_STRENGTH: Daxi Siła
+  DAXI_ABSORPTION: Daxi Absorpcja
+  DAXI_FORTITUDE: Daxi Hart
+  DAXI_SATURATION: Daxi Nasycenie
+  DAXI_REGENERATION: Daxi Regeneracja
+  INTERDIMENSIONAL_PRESENCE: Międzywymiarowa obecność
+  REMOTININIUM: Remotininium
+  ULTIMANINIUM: Ultimaninium
+tool-types:
+  SHOVEL: Łopata
+  PICK: Kilof
+  PICKAXE: Kilof
+  AXE: Siekiera
+  HOE: Motyka
+  SWORD: Miecz
+armour-types:
+  HELMET: Hełm
+  CHESTPLATE: Napierśnik
+  LEGGINGS: Nagolenniki
+  BOOTS: Buty
