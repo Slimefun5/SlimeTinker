@@ -41,7 +41,19 @@ public final class TinkerLang {
                 continue;
             }
 
-            YamlConfiguration config = YamlConfiguration.loadConfiguration(new InputStreamReader(stream, StandardCharsets.UTF_8));
+            // Trait names are used verbatim as keys and may contain '.' (e.g. "Brains, Not Brawn.").
+            // Bukkit's YamlConfiguration treats '.' as a path separator, which corrupts/blows up such
+            // keys, so parse with a separator that cannot appear in any name.
+            YamlConfiguration config = new YamlConfiguration();
+            config.options().pathSeparator('\u001F');
+
+            try {
+                config.load(new InputStreamReader(stream, StandardCharsets.UTF_8));
+            } catch (java.io.IOException | org.bukkit.configuration.InvalidConfigurationException e) {
+                Slimefun.logger().log(java.util.logging.Level.WARNING, "Failed to load tinker.yml for {0}: {1}", new Object[] { language.getId(), e.getMessage() });
+                continue;
+            }
+
             Map<String, Map<String, String>> categories = BY_LANGUAGE.computeIfAbsent(language.getId(), k -> new HashMap<>());
 
             for (String category : config.getKeys(false)) {
