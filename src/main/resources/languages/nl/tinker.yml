@@ -112,3 +112,18 @@ armour-types:
   CHESTPLATE: Borstplaat
   LEGGINGS: Beenkappen
   BOOTS: Laarzen
+part-types:
+  HEAD_SHOVEL: Schepblad
+  HEAD_PICK: Houweelkop
+  HEAD_AXE: Bijlkop
+  HEAD_HOE: Schoffelblad
+  HEAD_SWORD: Zwaardkling
+  ROD: Gereedschapsstaaf
+  BINDING: Binding
+  PLATE_HELMET: Helmplaten
+  PLATE_CHESTPLATE: Borstplaatdelen
+  PLATE_LEGGINGS: Beenplaten
+  PLATE_BOOTS: Laarsplaten
+  GAMBESON: Gambeson
+  LINKS: Maliënschakels
+  REPAIR: Reparatieset

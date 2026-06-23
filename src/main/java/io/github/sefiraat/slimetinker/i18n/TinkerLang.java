@@ -65,6 +65,26 @@ public final class TinkerLang {
     }
 
     /**
+     * The translated fragment for an id in the given language, or {@code null} when there is none.
+     * Use where the caller has its own English baseline (e.g. part names that are not title-cased ids).
+     */
+    @Nullable
+    public static String lookup(@Nonnull String category, @Nullable String id, @Nullable String language) {
+        if (id == null || language == null) {
+            return null;
+        }
+
+        Map<String, Map<String, String>> categories = BY_LANGUAGE.get(language);
+
+        if (categories == null) {
+            return null;
+        }
+
+        Map<String, String> entries = categories.get(category);
+        return entries != null ? entries.get(id) : null;
+    }
+
+    /**
      * The translated fragment for an id in the given language, or its title-cased English form when
      * there is no translation (or no language).
      */

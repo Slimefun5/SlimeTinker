@@ -112,3 +112,18 @@ armour-types:
   CHESTPLATE: Нагрудник
   LEGGINGS: Поножи
   BOOTS: Ботинки
+part-types:
+  HEAD_SHOVEL: Голова лопаты
+  HEAD_PICK: Голова кирки
+  HEAD_AXE: Голова топора
+  HEAD_HOE: Голова мотыги
+  HEAD_SWORD: Клинок меча
+  ROD: Рукоять инструмента
+  BINDING: Крепление
+  PLATE_HELMET: Пластины шлема
+  PLATE_CHESTPLATE: Пластины нагрудника
+  PLATE_LEGGINGS: Пластины поножей
+  PLATE_BOOTS: Пластины ботинок
+  GAMBESON: Гамбезон
+  LINKS: Кольчужные звенья
+  REPAIR: Ремонтный набор

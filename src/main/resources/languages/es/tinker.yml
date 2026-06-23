@@ -112,3 +112,18 @@ armour-types:
   CHESTPLATE: Peto
   LEGGINGS: Grebas
   BOOTS: Botas
+part-types:
+  HEAD_SHOVEL: Cabeza de Pala
+  HEAD_PICK: Cabeza de Pico
+  HEAD_AXE: Cabeza de Hacha
+  HEAD_HOE: Cabeza de Azada
+  HEAD_SWORD: Hoja de Espada
+  ROD: Mango de Herramienta
+  BINDING: Sujeción
+  PLATE_HELMET: Placas de Casco
+  PLATE_CHESTPLATE: Placas de Peto
+  PLATE_LEGGINGS: Placas de Grebas
+  PLATE_BOOTS: Placas de Botas
+  GAMBESON: Gambesón
+  LINKS: Anillas de Malla
+  REPAIR: Kit de Reparación

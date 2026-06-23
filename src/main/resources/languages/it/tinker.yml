@@ -112,3 +112,18 @@ armour-types:
   CHESTPLATE: Corazza
   LEGGINGS: Gambali
   BOOTS: Stivali
+part-types:
+  HEAD_SHOVEL: Testa di Pala
+  HEAD_PICK: Testa di Piccone
+  HEAD_AXE: Testa di Ascia
+  HEAD_HOE: Testa di Zappa
+  HEAD_SWORD: Lama di Spada
+  ROD: Asta dello Strumento
+  BINDING: Legatura
+  PLATE_HELMET: Piastre per Elmo
+  PLATE_CHESTPLATE: Piastre per Corazza
+  PLATE_LEGGINGS: Piastre per Gambali
+  PLATE_BOOTS: Piastre per Stivali
+  GAMBESON: Gambeson
+  LINKS: Maglie di Cotta
+  REPAIR: Kit di Riparazione

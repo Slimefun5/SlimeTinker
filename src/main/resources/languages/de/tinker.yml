@@ -112,3 +112,18 @@ armour-types:
   CHESTPLATE: Brustpanzer
   LEGGINGS: Beinschienen
   BOOTS: Stiefel
+part-types:
+  HEAD_SHOVEL: Schaufelkopf
+  HEAD_PICK: Spitzhackenkopf
+  HEAD_AXE: Axtkopf
+  HEAD_HOE: Hackenkopf
+  HEAD_SWORD: Schwertklinge
+  ROD: Werkzeugstab
+  BINDING: Bindung
+  PLATE_HELMET: Helmplatten
+  PLATE_CHESTPLATE: Brustpanzerplatten
+  PLATE_LEGGINGS: Beinschienenplatten
+  PLATE_BOOTS: Stiefelplatten
+  GAMBESON: Gambeson
+  LINKS: Kettenglieder
+  REPAIR: Reparaturset

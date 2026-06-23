@@ -112,3 +112,18 @@ armour-types:
   CHESTPLATE: Napierśnik
   LEGGINGS: Nagolenniki
   BOOTS: Buty
+part-types:
+  HEAD_SHOVEL: Głowica łopaty
+  HEAD_PICK: Głowica kilofa
+  HEAD_AXE: Głowica siekiery
+  HEAD_HOE: Głowica motyki
+  HEAD_SWORD: Ostrze miecza
+  ROD: Trzonek narzędzia
+  BINDING: Spoiwo
+  PLATE_HELMET: Płyty hełmu
+  PLATE_CHESTPLATE: Płyty napierśnika
+  PLATE_LEGGINGS: Płyty nagolenników
+  PLATE_BOOTS: Płyty butów
+  GAMBESON: Gambeson
+  LINKS: Ogniwa kolczugi
+  REPAIR: Zestaw naprawczy

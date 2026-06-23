@@ -112,3 +112,18 @@ armour-types:
   CHESTPLATE: Peitoral
   LEGGINGS: Calças
   BOOTS: Botas
+part-types:
+  HEAD_SHOVEL: Cabeça de Pá
+  HEAD_PICK: Cabeça de Picareta
+  HEAD_AXE: Cabeça de Machado
+  HEAD_HOE: Cabeça de Enxada
+  HEAD_SWORD: Lâmina de Espada
+  ROD: Haste de Ferramenta
+  BINDING: Encaixe
+  PLATE_HELMET: Placas de Capacete
+  PLATE_CHESTPLATE: Placas de Peitoral
+  PLATE_LEGGINGS: Placas de Calças
+  PLATE_BOOTS: Placas de Botas
+  GAMBESON: Gambeson
+  LINKS: Elos de Malha
+  REPAIR: Kit de Reparo

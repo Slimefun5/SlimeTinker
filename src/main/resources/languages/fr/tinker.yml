@@ -112,3 +112,18 @@ armour-types:
   CHESTPLATE: Plastron
   LEGGINGS: Jambières
   BOOTS: Bottes
+part-types:
+  HEAD_SHOVEL: Tête de pelle
+  HEAD_PICK: Tête de pioche
+  HEAD_AXE: Tête de hache
+  HEAD_HOE: Tête de houe
+  HEAD_SWORD: Lame d'épée
+  ROD: Manche d'outil
+  BINDING: Liaison
+  PLATE_HELMET: Plaques de casque
+  PLATE_CHESTPLATE: Plaques de plastron
+  PLATE_LEGGINGS: Plaques de jambières
+  PLATE_BOOTS: Plaques de bottes
+  GAMBESON: Gambison
+  LINKS: Mailles
+  REPAIR: Kit de réparation

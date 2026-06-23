@@ -112,3 +112,18 @@ armour-types:
   CHESTPLATE: 胸甲
   LEGGINGS: 护腿
   BOOTS: 靴子
+part-types:
+  HEAD_SHOVEL: 锹头
+  HEAD_PICK: 镐头
+  HEAD_AXE: 斧头
+  HEAD_HOE: 锄头
+  HEAD_SWORD: 剑刃
+  ROD: 工具杆
+  BINDING: 绑定件
+  PLATE_HELMET: 头盔甲板
+  PLATE_CHESTPLATE: 胸甲甲板
+  PLATE_LEGGINGS: 护腿甲板
+  PLATE_BOOTS: 靴子甲板
+  GAMBESON: 软垫衬甲
+  LINKS: 锁甲环
+  REPAIR: 修复工具包
