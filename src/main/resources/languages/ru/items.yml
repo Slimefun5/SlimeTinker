@@ -426,3 +426,1090 @@ TOOL_SHOVEL_DUMMY:
   name: "&aЛопата Жестянщика"
 TOOL_SWORD_DUMMY:
   name: "&aМеч Жестянщика"
+
+IRON_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленное железо"
+STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Стабильность"
+SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Острота 1"
+STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Стойкость"
+RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Ржавость"
+PART_HEAD_SWORDIRON:
+  name: "&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник меча"
+PART_HEAD_HOEIRON:
+  name: "&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник мотыги"
+PART_HEAD_AXEIRON:
+  name: "&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник топора"
+PART_HEAD_PICKIRON:
+  name: "&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник кирки"
+PART_HEAD_SHOVELIRON:
+  name: "&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник лопаты"
+PART_ROD_IRON:
+  name: "&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETIRON:
+  name: "&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATEIRON:
+  name: "&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSIRON:
+  name: "&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSIRON:
+  name: "&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_IRON:
+  name: "&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_IRON:
+  name: "&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 ремонтный набор"
+GOLD_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленное золото"
+GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Золотая завеса"
+ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Всё, что блестит"
+PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Процветание"
+BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Обмен"
+PART_HEAD_SWORDGOLD:
+  name: "&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник меча"
+PART_HEAD_HOEGOLD:
+  name: "&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник мотыги"
+PART_HEAD_AXEGOLD:
+  name: "&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник топора"
+PART_HEAD_PICKGOLD:
+  name: "&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник кирки"
+PART_HEAD_SHOVELGOLD:
+  name: "&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник лопаты"
+PART_ROD_GOLD:
+  name: "&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETGOLD:
+  name: "&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATEGOLD:
+  name: "&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSGOLD:
+  name: "&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSGOLD:
+  name: "&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_GOLD:
+  name: "&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_GOLD:
+  name: "&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 ремонтный набор"
+COPPER_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная медь"
+BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Ум, а не сила"
+CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Проводимость"
+BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Новичок"
+TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Потускнение"
+PART_HEAD_SWORDCOPPER:
+  name: "&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник меча"
+PART_HEAD_HOECOPPER:
+  name: "&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник мотыги"
+PART_HEAD_AXECOPPER:
+  name: "&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник топора"
+PART_HEAD_PICKCOPPER:
+  name: "&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник кирки"
+PART_HEAD_SHOVELCOPPER:
+  name: "&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник лопаты"
+PART_ROD_COPPER:
+  name: "&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETCOPPER:
+  name: "&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATECOPPER:
+  name: "&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSCOPPER:
+  name: "&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSCOPPER:
+  name: "&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_COPPER:
+  name: "&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_COPPER:
+  name: "&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 ремонтный набор"
+LEAD_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный свинец"
+POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Ядовитость"
+LEECH_TRAIT_PROP_ROD_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Пиявка"
+SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Болезненность"
+SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Болезненность"
+PART_HEAD_SWORDLEAD:
+  name: "&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник меча"
+PART_HEAD_HOELEAD:
+  name: "&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник мотыги"
+PART_HEAD_AXELEAD:
+  name: "&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник топора"
+PART_HEAD_PICKLEAD:
+  name: "&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник кирки"
+PART_HEAD_SHOVELLEAD:
+  name: "&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник лопаты"
+PART_ROD_LEAD:
+  name: "&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETLEAD:
+  name: "&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATELEAD:
+  name: "&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSLEAD:
+  name: "&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSLEAD:
+  name: "&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_LEAD:
+  name: "&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_LEAD:
+  name: "&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 ремонтный набор"
+SILVER_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленное серебро"
+ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Зачарование"
+SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Мягкое касание"
+CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Электропроводность"
+ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Зачарование"
+PART_HEAD_SWORDSILVER:
+  name: "&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник меча"
+PART_HEAD_HOESILVER:
+  name: "&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник мотыги"
+PART_HEAD_AXESILVER:
+  name: "&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник топора"
+PART_HEAD_PICKSILVER:
+  name: "&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник кирки"
+PART_HEAD_SHOVELSILVER:
+  name: "&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник лопаты"
+PART_ROD_SILVER:
+  name: "&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETSILVER:
+  name: "&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATESILVER:
+  name: "&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSSILVER:
+  name: "&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSSILVER:
+  name: "&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_SILVER:
+  name: "&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_SILVER:
+  name: "&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 ремонтный набор"
+ALUMINUM_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный алюминий"
+RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Перерабатываемость"
+SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Мягкость"
+FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Фольга"
+EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Лёгкая ковкость"
+PART_HEAD_SWORDALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевый&x&4&2&C&8&F&5 наконечник меча"
+PART_HEAD_HOEALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевая&x&4&2&C&8&F&5 насадка мотыги"
+PART_HEAD_AXEALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевая&x&4&2&C&8&F&5 насадка топора"
+PART_HEAD_PICKALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевая&x&4&2&C&8&F&5 насадка кирки"
+PART_HEAD_SHOVELALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевая&x&4&2&C&8&F&5 насадка лопаты"
+PART_ROD_ALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевый&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATEALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_ALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_ALUMINUM:
+  name: "&x&B&0&B&0&B&0Алюминиевый&x&4&2&C&8&F&5 ремонтный набор"
+TIN_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленное олово"
+MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Ковкость"
+CAN_TRAIT_PROP_ROD_TIN_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Жестянка"
+NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Антикоррозийность"
+BOOST_TRAIT_PROP_LINKS_TIN_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Ускорение"
+PART_HEAD_SWORDTIN:
+  name: "&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка меча"
+PART_HEAD_HOETIN:
+  name: "&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка мотыги"
+PART_HEAD_AXETIN:
+  name: "&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка топора"
+PART_HEAD_PICKTIN:
+  name: "&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка кирки"
+PART_HEAD_SHOVELTIN:
+  name: "&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка лопаты"
+PART_ROD_TIN:
+  name: "&x&A&8&9&B&9&BОловянный&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETTIN:
+  name: "&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATETIN:
+  name: "&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSTIN:
+  name: "&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSTIN:
+  name: "&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_TIN:
+  name: "&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_TIN:
+  name: "&x&A&8&9&B&9&BОловянный&x&4&2&C&8&F&5 ремонтный набор"
+ZINC_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный цинк"
+GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Грациозность"
+SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Сверхлёгкость"
+SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Скрытность"
+ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Акупунктура"
+PART_HEAD_SWORDZINC:
+  name: "&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка меча"
+PART_HEAD_HOEZINC:
+  name: "&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка мотыги"
+PART_HEAD_AXEZINC:
+  name: "&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка топора"
+PART_HEAD_PICKZINC:
+  name: "&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка кирки"
+PART_HEAD_SHOVELZINC:
+  name: "&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка лопаты"
+PART_ROD_ZINC:
+  name: "&x&9&B&A&8&A&6Цинковый&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETZINC:
+  name: "&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATEZINC:
+  name: "&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSZINC:
+  name: "&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSZINC:
+  name: "&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_ZINC:
+  name: "&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_ZINC:
+  name: "&x&9&B&A&8&A&6Цинковый&x&4&2&C&8&F&5 ремонтный набор"
+MAGNESIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный магний"
+FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Воспламеняемость"
+MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Магнетезий"
+LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Лёгкость"
+MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FСвойство : Магнизрение™"
+PART_HEAD_SWORDMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка меча"
+PART_HEAD_HOEMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка мотыги"
+PART_HEAD_AXEMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка топора"
+PART_HEAD_PICKMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка кирки"
+PART_HEAD_SHOVELMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка лопаты"
+PART_ROD_MAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевый&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATEMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_MAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_MAGNESIUM:
+  name: "&x&E&8&C&E&F&5Магниевый&x&4&2&C&8&F&5 ремонтный набор"
+COAL_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный уголь"
+STEEL_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная сталь"
+STEEL_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленная сталь"
+STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Нержавеющесть"
+LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Лёгкость"
+HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Выносливость"
+STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Прочность"
+PART_HEAD_SWORDSTEEL:
+  name: "&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка меча"
+PART_HEAD_HOESTEEL:
+  name: "&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка мотыги"
+PART_HEAD_AXESTEEL:
+  name: "&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка топора"
+PART_HEAD_PICKSTEEL:
+  name: "&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка кирки"
+PART_HEAD_SHOVELSTEEL:
+  name: "&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка лопаты"
+PART_ROD_STEEL:
+  name: "&x&D&1&D&1&D&1Стальной&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETSTEEL:
+  name: "&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATESTEEL:
+  name: "&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSSTEEL:
+  name: "&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSSTEEL:
+  name: "&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_STEEL:
+  name: "&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 кольчужные звенья"
+PART_REPAIR_KIT_STEEL:
+  name: "&x&D&1&D&1&D&1Стальной&x&4&2&C&8&F&5 ремонтный набор"
+DAMASCUS_STEEL_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная дамасская сталь"
+DAMASCUS_STEEL_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленная дамасская сталь"
+VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Вампиризм"
+NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Ночной охотник"
+COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Накопление"
+SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Снроши"
+PART_HEAD_SWORDDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 насадка меча"
+PART_HEAD_HOEDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 насадка мотыги"
+PART_HEAD_AXEDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 насадка топора"
+PART_HEAD_PICKDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 насадка кирки"
+PART_HEAD_SHOVELDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Головка лопаты"
+PART_ROD_DAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Рукоять"
+PART_PLATES_HELMETDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_DAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Кольчужные звенья"
+PART_REPAIR_KIT_DAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Ремонтный набор"
+DURALIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный дюралий"
+DURALIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный дюралий"
+DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Прочность"
+EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Лёгкий ремонт"
+DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Прочность"
+SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Поглощение ударов"
+PART_HEAD_SWORDDURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка меча"
+PART_HEAD_HOEDURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXEDURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка топора"
+PART_HEAD_PICKDURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELDURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка лопаты"
+PART_ROD_DURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Рукоять"
+PART_PLATES_HELMETDURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEDURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSDURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSDURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_DURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Кольчужные звенья"
+PART_REPAIR_KIT_DURALIUM:
+  name: "&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Ремонтный набор"
+BRONZE_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная бронза"
+BRONZE_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленная бронза"
+RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Сопротивление"
+INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Высоты"
+FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Фермер"
+BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Хрупкость"
+PART_HEAD_SWORDBRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка меча"
+PART_HEAD_HOEBRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXEBRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка топора"
+PART_HEAD_PICKBRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELBRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка лопаты"
+PART_ROD_BRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Рукоять"
+PART_PLATES_HELMETBRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEBRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSBRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSBRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_BRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Кольчужные звенья"
+PART_REPAIR_KIT_BRONZE:
+  name: "&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Ремонтный набор"
+ALUMINUM_BRONZE_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная алюминиевая бронза"
+ALUMINUM_BRONZE_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленная алюминиевая бронза"
+SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Острота 2"
+BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Хрупкость"
+BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Красота"
+EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Выброс!"
+PART_HEAD_SWORDALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка меча"
+PART_HEAD_HOEALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXEALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка топора"
+PART_HEAD_PICKALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка лопаты"
+PART_ROD_ALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Рукоять"
+PART_PLATES_HELMETALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_ALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Кольчужные звенья"
+PART_REPAIR_KIT_ALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Ремонтный набор"
+HARDENED_METAL_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный закалённый металл"
+HARDENED_METAL_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный закалённый металл"
+TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Крепкий орешек"
+HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Тяжесть"
+TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Усиленный"
+DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Гномье мастерство"
+PART_HEAD_SWORDHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка меча"
+PART_HEAD_HOEHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXEHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка топора"
+PART_HEAD_PICKHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка лопаты"
+PART_ROD_HARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Рукоять"
+PART_PLATES_HELMETHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_HARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Кольчужные звенья"
+PART_REPAIR_KIT_HARDENED_METAL:
+  name: "&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Ремонтный набор"
+CORINTHIAN_BRONZE_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная коринфская бронза"
+CORINTHIAN_BRONZE_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленная коринфская бронза"
+FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Пылающий жар"
+TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Слишком горячо"
+SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Сверхгорячий"
+WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Теплокровный"
+PART_HEAD_SWORDCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка меча"
+PART_HEAD_HOECORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXECORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка топора"
+PART_HEAD_PICKCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка лопаты"
+PART_ROD_CORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Стержень"
+PART_PLATES_HELMETCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_CORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Звенья кольчуги"
+PART_REPAIR_KIT_CORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Ремонтный набор"
+SOLDER_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный припой"
+SOLDER_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный припой"
+HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Скрытность"
+FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Спаянность"
+SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Мягкое приземление"
+FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Спаянность"
+PART_HEAD_SWORDSOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Лезвие меча"
+PART_HEAD_HOESOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXESOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Лезвие топора"
+PART_HEAD_PICKSOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELSOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Лопасть лопаты"
+PART_ROD_SOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Стержень"
+PART_PLATES_HELMETSOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATESOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSSOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSSOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_SOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Звенья кольчуги"
+PART_REPAIR_KIT_SOLDER:
+  name: "&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Ремонтный набор"
+BILLON_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный биллон"
+BILLON_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный биллон"
+FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Быстрота"
+SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Пружины"
+WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : WHM"
+HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Теплопроводник"
+PART_HEAD_SWORDBILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Лезвие меча"
+PART_HEAD_HOEBILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXEBILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Лезвие топора"
+PART_HEAD_PICKBILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELBILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Лопасть лопаты"
+PART_ROD_BILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Стержень"
+PART_PLATES_HELMETBILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEBILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSBILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSBILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_BILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Звенья кольчуги"
+PART_REPAIR_KIT_BILLON:
+  name: "&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Ремонтный набор"
+BRASS_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная латунь"
+BRASS_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленная латунь"
+STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Жёсткость"
+OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Насыщение кислородом"
+BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Лента"
+SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Драпаем!"
+PART_HEAD_SWORDBRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Лезвие меча"
+PART_HEAD_HOEBRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXEBRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Лезвие топора"
+PART_HEAD_PICKBRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELBRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Лопасть лопаты"
+PART_ROD_BRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Стержень"
+PART_PLATES_HELMETBRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEBRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSBRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSBRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_BRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Звенья кольчуги"
+PART_REPAIR_KIT_BRASS:
+  name: "&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Ремонтный набор"
+ALUMINUM_BRASS_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная алюминиевая латунь"
+ALUMINUM_BRASS_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленная алюминиевая латунь"
+ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Абра"
+STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Прилежание"
+MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Магус"
+ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Побег"
+PART_HEAD_SWORDALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Лезвие меча"
+PART_HEAD_HOEALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXEALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Лезвие топора"
+PART_HEAD_PICKALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Лопасть лопаты"
+PART_ROD_ALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Стержень"
+PART_PLATES_HELMETALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_ALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Звенья кольчуги"
+PART_REPAIR_KIT_ALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Ремонтный набор"
+NICKEL_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный никель"
+NICKEL_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный никель"
+CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Заряженная головка -"
+CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Заряженный стержень -"
+MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Магнетизм -"
+MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FЧерта : Магнетизм -"
+PART_HEAD_SWORDNICKEL:
+  name: "&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Лезвие меча"
+PART_HEAD_HOENICKEL:
+  name: "&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Головка мотыги"
+PART_HEAD_AXENICKEL:
+  name: "&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Лезвие топора"
+PART_HEAD_PICKNICKEL:
+  name: "&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELNICKEL:
+  name: "&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Лопасть лопаты"
+PART_ROD_NICKEL:
+  name: "&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Стержень"
+PART_PLATES_HELMETNICKEL:
+  name: "&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATENICKEL:
+  name: "&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSNICKEL:
+  name: "&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSNICKEL:
+  name: "&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_NICKEL:
+  name: "&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 кольца кольчуги"
+PART_REPAIR_KIT_NICKEL:
+  name: "&x&E&B&E&B&E&BНикелевый&x&4&2&C&8&F&5 ремонтный набор"
+COBALT_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный кобальт"
+COBALT_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный кобальт"
+CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Заряженная голова +"
+CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Заряженный стержень +"
+MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Магнитный +"
+MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Магнитный +"
+PART_HEAD_SWORDCOBALT:
+  name: "&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова меча"
+PART_HEAD_HOECOBALT:
+  name: "&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова мотыги"
+PART_HEAD_AXECOBALT:
+  name: "&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова топора"
+PART_HEAD_PICKCOBALT:
+  name: "&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова кирки"
+PART_HEAD_SHOVELCOBALT:
+  name: "&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова лопаты"
+PART_ROD_COBALT:
+  name: "&x&9&E&9&E&9&EКобальтовый&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETCOBALT:
+  name: "&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATECOBALT:
+  name: "&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSCOBALT:
+  name: "&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSCOBALT:
+  name: "&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_COBALT:
+  name: "&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 кольца кольчуги"
+PART_REPAIR_KIT_COBALT:
+  name: "&x&9&E&9&E&9&EКобальтовый&x&4&2&C&8&F&5 ремонтный набор"
+REINFORCED_ALLOY_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный укреплённый сплав"
+REINFORCED_ALLOY_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный укреплённый сплав"
+BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Массивный"
+REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Укреплённый"
+REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Укрепляемый"
+WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FСвойство : Защита от иссушения"
+PART_HEAD_SWORDREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова меча"
+PART_HEAD_HOEREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова мотыги"
+PART_HEAD_AXEREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова топора"
+PART_HEAD_PICKREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова кирки"
+PART_HEAD_SHOVELREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова лопаты"
+PART_ROD_REINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 стержень"
+PART_PLATES_HELMETREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 пластины шлема"
+PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 пластины нагрудника"
+PART_PLATES_LEGGINGSREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 пластины поножей"
+PART_PLATES_BOOTSREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 пластины ботинок"
+PART_LINKS_REINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 кольца кольчуги"
+PART_REPAIR_KIT_REINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 ремонтный набор"
+WORKS_TRAIT_PROP_BINDING_STRING:
+  name: "&x&B&F&3&0&7&FСвойство : Работает"
+WORKS_TRAIT_PROP_GAMBESON_STRING:
+  name: "&x&B&F&3&0&7&FСвойство : Работает"
+PART_BINDING_STRING:
+  name: "&x&F&5&F&5&F&5Нитяная&x&4&2&C&8&F&5 обмотка"
+PART_GAMBESON_STRING:
+  name: "&x&F&5&F&5&F&5Нитяной&x&4&2&C&8&F&5 поддоспешник"
+GROWTH_TRAIT_PROP_BINDING_VINE:
+  name: "&x&B&F&3&0&7&FСвойство : Рост"
+GROWTH_TRAIT_PROP_GAMBESON_VINE:
+  name: "&x&B&F&3&0&7&FСвойство : Рост"
+PART_BINDING_VINE:
+  name: "&x&4&C&A&8&6&BЛиановая&x&4&2&C&8&F&5 обмотка"
+PART_GAMBESON_VINE:
+  name: "&x&4&C&A&8&6&BЛиановый&x&4&2&C&8&F&5 поддоспешник"
+DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
+  name: "&x&B&F&3&0&7&FСвойство : Тление"
+DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
+  name: "&x&B&F&3&0&7&FСвойство : Тление"
+PART_BINDING_CRIMSON_ROOT:
+  name: "&x&B&5&3&6&5&EИз багровых корней&x&4&2&C&8&F&5 обмотка"
+PART_GAMBESON_CRIMSON_ROOT:
+  name: "&x&B&5&3&6&5&EИз багровых корней&x&4&2&C&8&F&5 поддоспешник"
+REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
+  name: "&x&B&F&3&0&7&FСвойство : Освежающий"
+REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
+  name: "&x&B&F&3&0&7&FСвойство : Освежающий"
+PART_BINDING_WARPED_ROOT:
+  name: "&x&3&6&B&5&4&9Из искажённых корней&x&4&2&C&8&F&5 обмотка"
+PART_GAMBESON_WARPED_ROOT:
+  name: "&x&3&6&B&5&4&9Из искажённых корней&x&4&2&C&8&F&5 поддоспешник"
+DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
+  name: "&x&B&F&3&0&7&FСвойство : Погибель"
+DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
+  name: "&x&B&F&3&0&7&FСвойство : Погибель"
+PART_BINDING_WEEPING_VINE:
+  name: "&x&9&C&0&9&1&DИз плакучих лиан&x&4&2&C&8&F&5 обмотка"
+PART_GAMBESON_WEEPING_VINE:
+  name: "&x&9&C&0&9&1&DИз плакучих лиан&x&4&2&C&8&F&5 поддоспешник"
+ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
+  name: "&x&B&F&3&0&7&FСвойство : Притяжение"
+ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
+  name: "&x&B&F&3&0&7&FСвойство : Притяжение"
+PART_BINDING_TWISTED_VINE:
+  name: "&x&1&B&8&0&4&5Из витых лиан&x&4&2&C&8&F&5 обмотка"
+PART_GAMBESON_TWISTED_VINE:
+  name: "&x&1&B&8&0&4&5Из витых лиан&x&4&2&C&8&F&5 поддоспешник"
+SLIME_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная слизь"
+BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
+  name: "&x&B&F&3&0&7&FСвойство : Упругий"
+BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
+  name: "&x&B&F&3&0&7&FСвойство : Упругий"
+PART_BINDING_SLIME:
+  name: "&x&2&9&E&0&1&FСлизневая&x&4&2&C&8&F&5 обмотка"
+PART_GAMBESON_SLIME:
+  name: "&x&2&9&E&0&1&FСлизневый&x&4&2&C&8&F&5 поддоспешник"
+REDSTONE_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный редстоун"
+SILICON_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный кремний"
+SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
+  name: "&x&B&F&3&0&7&FСвойство : Медленный ученик"
+SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
+  name: "&x&B&F&3&0&7&FСвойство : Медленный ученик"
+PART_BINDING_SILICON:
+  name: "&x&F&2&F&2&F&2Кремниевая&x&4&2&C&8&F&5 обмотка"
+PART_GAMBESON_SILICON:
+  name: "&x&F&2&F&2&F&2Кремниевый&x&4&2&C&8&F&5 поддоспешник"
+THICK_TRAIT_PROP_BINDING_LEATHER:
+  name: "&x&B&F&3&0&7&FСвойство : Толстый"
+THICK_TRAIT_PROP_GAMBESON_LEATHER:
+  name: "&x&B&F&3&0&7&FСвойство : Толстый"
+PART_BINDING_LEATHER:
+  name: "&x&9&1&8&0&5&6Кожаная&x&4&2&C&8&F&5 обмотка"
+PART_GAMBESON_LEATHER:
+  name: "&x&9&1&8&0&5&6Кожаный&x&4&2&C&8&F&5 поддоспешник"
+FERROSILICON_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный ферросилиций"
+FERROSILICON_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный ферросилиций"
+HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
+  name: "&x&B&F&3&0&7&FСвойство : Водород"
+SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
+  name: "&x&B&F&3&0&7&FСвойство : Солнечная энергия"
+BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
+  name: "&x&B&F&3&0&7&FСвойство : Яркое горение"
+PART_HEAD_SWORDFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова меча"
+PART_HEAD_HOEFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова мотыги"
+PART_HEAD_AXEFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова топора"
+PART_HEAD_PICKFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова кирки"
+PART_HEAD_SHOVELFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова лопаты"
+PART_PLATES_HELMETFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_FERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Кольчужные звенья"
+PART_REPAIR_KIT_FERROSILICON:
+  name: "&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Ремонтный набор"
+REDSTONE_ALLOY_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный красный сплав"
+REDSTONE_ALLOY_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный красный сплав"
+LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
+  name: "&x&B&F&3&0&7&FСвойство : Громоотвод"
+POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
+  name: "&x&B&F&3&0&7&FСвойство : Под напряжением"
+WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
+  name: "&x&B&F&3&0&7&FСвойство : Кому нужны нажимные плиты?"
+PART_ROD_REDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Стержень"
+PART_PLATES_HELMETREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_REDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Кольчужные звенья"
+PART_REPAIR_KIT_REDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Ремонтный набор"
+DIAMOND_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный алмаз"
+DRACONIC_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный драконий металл"
+BOOMERITE_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный бумерит"
+BOOMERITE_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный бумерит"
+LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
+  name: "&x&B&F&3&0&7&FСвойство : Симулятор лестницы™"
+GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
+  name: "&x&B&F&3&0&7&FСвойство : Бабах"
+PART_HEAD_SWORDBOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие меча"
+PART_HEAD_HOEBOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие мотыги"
+PART_HEAD_AXEBOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие топора"
+PART_HEAD_PICKBOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELBOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие лопаты"
+PART_PLATES_HELMETBOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEBOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSBOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSBOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины ботинок"
+PART_REPAIR_KIT_BOOMERITE:
+  name: "&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Ремонтный набор"
+SEFIRITE_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный сефирит"
+CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
+  name: "&x&B&F&3&0&7&FСвойство : Праздник"
+PART_PLATES_HELMETSEFIRITE:
+  name: "&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATESEFIRITE:
+  name: "&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSSEFIRITE:
+  name: "&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSSEFIRITE:
+  name: "&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины ботинок"
+PART_REPAIR_KIT_SEFIRITE:
+  name: "&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Ремонтный набор"
+LIQUID_CHRISTMAS_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленное жидкое Рождество"
+CRINGLEIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный кринглиум"
+CRINGLEIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный кринглиум"
+FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
+  name: "&x&B&F&3&0&7&FСвойство : Праздничное настроение"
+PART_LINKS_CRINGLEIUM:
+  name: "&x&0&0&C&C&3&6Кринглиум&x&4&2&C&8&F&5 Кольчужные звенья"
+FLOWING_FONDNESS_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная текущая нежность"
+DETAILED_DEVOTION_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная искренняя преданность"
+PURIFIED_PASSION_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная очищенная страсть"
+LIQUID_LOVE_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленная жидкая любовь"
+LIQUID_LOVE_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленная жидкая любовь"
+IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
+  name: "&x&B&F&3&0&7&FСвойство : Это всё, что нужно"
+PART_LINKS_LIQUID_LOVE:
+  name: "&x&E&B&3&4&D&2Жидкая любовь&x&4&2&C&8&F&5 Кольчужные звенья"
+NICEINIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный найсиниум"
+NICEINIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный найсиниум"
+NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
+  name: "&x&B&F&3&0&7&FСвойство : Мило"
+PART_HEAD_SWORDNICEINIUM:
+  name: "&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие меча"
+PART_HEAD_HOENICEINIUM:
+  name: "&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие мотыги"
+PART_HEAD_AXENICEINIUM:
+  name: "&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие топора"
+PART_HEAD_PICKNICEINIUM:
+  name: "&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELNICEINIUM:
+  name: "&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие лопаты"
+PART_REPAIR_KIT_NICEINIUM:
+  name: "&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Ремонтный набор"
+SMITHIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный смитиум"
+SMITHIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный смитиум"
+HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FСвойство : Выносливость"
+INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FСвойство : Трудолюбие"
+HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FСвойство : Жаростойкость"
+CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FСвойство : Мастерство"
+PART_HEAD_SWORDSMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие меча"
+PART_HEAD_HOESMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие мотыги"
+PART_HEAD_AXESMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие топора"
+PART_HEAD_PICKSMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Головка кирки"
+PART_HEAD_SHOVELSMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие лопаты"
+PART_ROD_SMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Стержень"
+PART_PLATES_HELMETSMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATESMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSSMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSSMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины ботинок"
+PART_LINKS_SMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Кольчужные звенья"
+PART_REPAIR_KIT_SMITHIUM:
+  name: "&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Ремонтный набор"
+ANNIVERSARIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AРасплавленный юбилярий"
+ANNIVERSARIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AРасплавленный юбилярий"
+10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
+  name: "&x&B&F&3&0&7&FСвойство : 10 лет (Slime)fun!"
+PART_PLATES_HELMETANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины шлема"
+PART_PLATES_CHESTPLATEANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины нагрудника"
+PART_PLATES_LEGGINGSANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины поножей"
+PART_PLATES_BOOTSANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины ботинок"
+PART_REPAIR_KIT_ANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Ремонтный набор"
