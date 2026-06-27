@@ -59,7 +59,7 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
     private MemoryManager memoryManager;
 
     public SlimeTinker() {
-        this.username = "Sefiraat";
+        this.username = "Slimefun5";
         this.repo = "SlimeTinker";
         this.branch = "master";
     }
