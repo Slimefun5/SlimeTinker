@@ -40,7 +40,7 @@ SlimeTinker now supports disabling traits. All the traits are enabled by default
 
 SlimeTinker has a LOT of properties and effects and I simply do not have enough ideas to flesh out all of it. So I
 really would welcome any and all suggestions in the Slimefun Addon Community Discord (be sure to stick to the
-slimetinker channel!). If you have ideas, please use this [invite](https://discord.gg/J4KurMDCKU)
+slimetinker channel!). If you have ideas, please use this [invite](https://discord.gg/CbBYZBEWdR)
 
 ## Credits
 
