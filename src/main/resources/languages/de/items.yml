@@ -2651,3 +2651,1105 @@ PART_PLATES_BOOTSANNIVERSARIUM:
   name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Stiefelplatten"
 PART_REPAIR_KIT_ANNIVERSARIUM:
   name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Reparaturset"
+
+# --- auto-generated German translations (batch 2026-06-30) ---
+VOID_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Leere"
+VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Leerenbergmann"
+FEAR_THE_VOID_TRAIT_PROP_ROD_VOID_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Furcht vor der Leere"
+PLANEWALKER_TRAIT_PROP_PLATES_VOID_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Ebenenwanderer"
+THE_END_TRAIT_PROP_LINKS_VOID_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Das Ende"
+PART_HEAD_SWORDVOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEVOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEVOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKVOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELVOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_VOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETVOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEVOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSVOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSVOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_VOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_VOID:
+  name: "&x&5&C&5&7&5&6Leere&x&4&2&C&8&F&5 Reparaturset"
+MAGSTEEL_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzener Magstahl"
+MAGSTEEL_ALLOY:
+  name: "&x&A&6&0&A&0&AGeschmolzener Magstahl"
+REALLY_STAINLESS_TRAIT_PROP_HEAD_MAGSTEEL:
+  name: "&x&B&F&3&0&7&FEigenschaft: Wirklich rostfrei"
+FLAMMABLE_TRAIT_PROP_ROD_MAGSTEEL:
+  name: "&x&B&F&3&0&7&FEigenschaft: Entflammbar"
+TARNISHED_TRAIT_PROP_PLATES_MAGSTEEL:
+  name: "&x&B&F&3&0&7&FEigenschaft: Angelaufen"
+DEFENDER_TRAIT_PROP_LINKS_MAGSTEEL:
+  name: "&x&B&F&3&0&7&FEigenschaft: Verteidiger"
+PART_HEAD_SWORDMAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEMAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEMAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKMAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELMAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_MAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETMAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEMAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSMAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSMAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_MAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_MAGSTEEL:
+  name: "&x&7&3&0&0&0&0Magstahl&x&4&2&C&8&F&5 Reparaturset"
+TITANIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Titan"
+TITANIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Titan"
+REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Verstärkt"
+DURABLE_TRAIT_PROP_ROD_TITANIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Langlebig"
+DWARVEN_SKILLS_TRAIT_PROP_PLATES_TITANIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Zwergenkünste"
+HEAT_RESISTANT_TRAIT_PROP_LINKS_TITANIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Hitzebeständig"
+PART_HEAD_SWORDTITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOETITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXETITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKTITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELTITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_TITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETTITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATETITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSTITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSTITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_TITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_TITANIUM:
+  name: "&x&A&D&A&D&A&DTitan&x&4&2&C&8&F&5 Reparaturset"
+IRON_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Eisen-Singularität"
+STABILITY_II_TRAIT_PROP_HEAD_IRON_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Stabilität II"
+SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Scharf 1 II"
+STEADFAST_II_TRAIT_PROP_PLATES_IRON_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Standhaft II"
+RUSTY_II_TRAIT_PROP_LINKS_IRON_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Rostig II"
+PART_HEAD_SWORDIRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEIRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEIRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKIRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELIRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_IRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETIRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEIRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSIRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSIRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_IRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_IRON_SINGULARITY:
+  name: "&x&8&C&8&C&8&CEisen-Singularität&x&4&2&C&8&F&5 Reparaturset"
+GOLD_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Gold-Singularität"
+GOLDEN_VEIL_II_TRAIT_PROP_HEAD_GOLD_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Goldener Schleier II"
+ALL_THAT_GLITTERS_II_TRAIT_PROP_ROD_GOLD_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Alles, was glänzt II"
+PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Wohlhabend II"
+BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Tauschhandel II"
+PART_HEAD_SWORDGOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEGOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEGOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKGOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELGOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_GOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETGOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEGOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSGOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSGOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_GOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_GOLD_SINGULARITY:
+  name: "&x&F&F&E&1&3&8Gold-Singularität&x&4&2&C&8&F&5 Reparaturset"
+COPPER_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Kupfer-Singularität"
+BRAINS,_NOT_BRAWN_II_TRAIT_PROP_HEAD_COPPER_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Köpfchen statt Muskeln II"
+CONDUCTIVE_II_TRAIT_PROP_ROD_COPPER_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Leitfähig II"
+BEGINNER_II_TRAIT_PROP_PLATES_COPPER_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Anfänger II"
+TARNISHED_II_TRAIT_PROP_LINKS_COPPER_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Angelaufen II"
+PART_HEAD_SWORDCOPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOECOPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXECOPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKCOPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELCOPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_COPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETCOPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATECOPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSCOPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSCOPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_COPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_COPPER_SINGULARITY:
+  name: "&x&C&9&9&7&3&2Kupfer-Singularität&x&4&2&C&8&F&5 Reparaturset"
+LEAD_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Blei-Singularität"
+POISONOUS_II_TRAIT_PROP_HEAD_LEAD_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Giftig II"
+LEECH_II_TRAIT_PROP_ROD_LEAD_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Blutsauger II"
+SICKLY_II_TRAIT_PROP_PLATES_LEAD_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Kränklich II"
+SICKLY_II_TRAIT_PROP_LINKS_LEAD_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Kränklich II"
+PART_HEAD_SWORDLEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOELEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXELEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKLEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELLEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_LEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETLEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATELEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSLEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSLEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_LEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_LEAD_SINGULARITY:
+  name: "&x&9&0&4&3&B&ABlei-Singularität&x&4&2&C&8&F&5 Reparaturset"
+SILVER_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Silber-Singularität"
+ENCHANTING_II_TRAIT_PROP_HEAD_SILVER_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Verzauberung II"
+SOFT_TOUCH_II_TRAIT_PROP_ROD_SILVER_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Sanfte Hand II"
+CONDUCTIVITY_II_TRAIT_PROP_PLATES_SILVER_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Leitfähigkeit II"
+ENCHANTING_II_TRAIT_PROP_LINKS_SILVER_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Verzauberung II"
+PART_HEAD_SWORDSILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOESILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXESILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKSILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELSILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_SILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETSILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATESILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSSILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSSILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_SILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_SILVER_SINGULARITY:
+  name: "&x&D&4&D&4&D&4Silber-Singularität&x&4&2&C&8&F&5 Reparaturset"
+ALUMINUM_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Aluminium-Singularität"
+RECYCLABLE_II_TRAIT_PROP_HEAD_ALUMINUM_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Recycelbar II"
+SOFT_II_TRAIT_PROP_ROD_ALUMINUM_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Weich II"
+FOIL_II_TRAIT_PROP_PLATES_ALUMINUM_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Folie II"
+EASILY_SHAPED_II_TRAIT_PROP_LINKS_ALUMINUM_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Leicht formbar II"
+PART_HEAD_SWORDALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_ALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_ALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
+  name: "&x&B&0&B&0&B&0Aluminium-Singularität&x&4&2&C&8&F&5 Reparaturset"
+TIN_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Zinn-Singularität"
+MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Verformbar II"
+CAN_II_TRAIT_PROP_ROD_TIN_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Dose II"
+NON-CORROSIVE_II_TRAIT_PROP_PLATES_TIN_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Korrosionsbeständig II"
+BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Schub II"
+PART_HEAD_SWORDTIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOETIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXETIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKTIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELTIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_TIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETTIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATETIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSTIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSTIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_TIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_TIN_SINGULARITY:
+  name: "&x&A&8&9&B&9&BZinn-Singularität&x&4&2&C&8&F&5 Reparaturset"
+ZINC_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Zink-Singularität"
+GRACEFUL_II_TRAIT_PROP_HEAD_ZINC_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Anmutig II"
+SUPER_LIGHTWEIGHT_II_TRAIT_PROP_ROD_ZINC_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Superleicht II"
+SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Heimlich II"
+ACUPUNCTURE_II_TRAIT_PROP_LINKS_ZINC_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Akupunktur II"
+PART_HEAD_SWORDZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_ZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_ZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_ZINC_SINGULARITY:
+  name: "&x&9&B&A&8&A&6Zink-Singularität&x&4&2&C&8&F&5 Reparaturset"
+MAGNESIUM_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Magnesium-Singularität"
+FLAMMABLE_II_TRAIT_PROP_HEAD_MAGNESIUM_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Entflammbar II"
+MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Magnetesium II"
+LIGHT_II_TRAIT_PROP_PLATES_MAGNESIUM_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Leicht II"
+MAGNESIGHT™_II_TRAIT_PROP_LINKS_MAGNESIUM_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Magnesicht™ II"
+PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEMAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEMAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKMAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_MAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_MAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Magnesium-Singularität&x&4&2&C&8&F&5 Reparaturset"
+DIAMOND_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Diamant-Singularität"
+MYTHRIL_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Mithril"
+ELVEN_SPEED_TRAIT_PROP_HEAD_MYTHRIL:
+  name: "&x&B&F&3&0&7&FEigenschaft: Elbentempo"
+STING_OF_GONDOLIN_TRAIT_PROP_ROD_MYTHRIL:
+  name: "&x&B&F&3&0&7&FEigenschaft: Stich von Gondolin"
+BRIGHTBURN_TRAIT_PROP_PLATES_MYTHRIL:
+  name: "&x&B&F&3&0&7&FEigenschaft: Hellbrand"
+CALL_OF_THE_WILD_TRAIT_PROP_LINKS_MYTHRIL:
+  name: "&x&B&F&3&0&7&FEigenschaft: Ruf der Wildnis"
+PART_HEAD_SWORDMYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEMYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEMYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKMYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELMYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_MYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETMYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEMYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSMYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSMYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_MYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_MYTHRIL:
+  name: "&x&4&E&B&D&C&7Mithril&x&4&2&C&8&F&5 Reparaturset"
+ADAMANTITE_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Adamantit"
+MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
+  name: "&x&B&F&3&0&7&FEigenschaft: Mystisch"
+ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
+  name: "&x&B&F&3&0&7&FEigenschaft: Unnachgiebig"
+DEFLECTIVE_TRAIT_PROP_PLATES_ADAMANTITE:
+  name: "&x&B&F&3&0&7&FEigenschaft: Ablenkend"
+EXPERIENCED_TRAIT_PROP_LINKS_ADAMANTITE:
+  name: "&x&B&F&3&0&7&FEigenschaft: Erfahren"
+PART_HEAD_SWORDADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_ADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_ADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_ADAMANTITE:
+  name: "&x&C&9&3&E&C&2Adamantit&x&4&2&C&8&F&5 Reparaturset"
+MAGNONIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Magnonium"
+MAGNANIMOUS_TRAIT_PROP_HEAD_MAGNONIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Großmütig"
+FLAMING_HOT_TRAIT_PROP_ROD_MAGNONIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Glühend heiß"
+ESCAPE_TRAIT_PROP_PLATES_MAGNONIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Flucht"
+OXYGENATED_TRAIT_PROP_LINKS_MAGNONIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Mit Sauerstoff angereichert"
+PART_HEAD_SWORDMAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEMAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEMAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKMAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELMAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_MAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETMAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEMAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSMAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSMAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_MAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_MAGNONIUM:
+  name: "&x&4&A&0&4&4&6Magnonium&x&4&2&C&8&F&5 Reparaturset"
+FORTUNE_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Glücks-Singularität"
+FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Glücklich"
+MERCHANT'S_VEIL_TRAIT_PROP_ROD_FORTUNE_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Schleier des Händlers"
+HOW_FORTUNATE_TRAIT_PROP_PLATES_FORTUNE_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Welch ein Glück"
+BEAUTIFUL_TRAIT_PROP_LINKS_FORTUNE_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Wunderschön"
+PART_HEAD_SWORDFORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEFORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEFORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKFORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELFORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_FORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETFORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEFORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSFORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSFORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_FORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_FORTUNE_SINGULARITY:
+  name: "&x&F&0&D&5&4&1Glücks-Singularität&x&4&2&C&8&F&5 Reparaturset"
+MAGIC_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Magie-Singularität"
+TRICKS_TRAIT_PROP_HEAD_MAGIC_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Tricks"
+SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Enthüllte Geheimnisse"
+WIZARD_ROBES_TRAIT_PROP_PLATES_MAGIC_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Zaubererrobe"
+MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Magische Münze"
+PART_HEAD_SWORDMAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEMAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEMAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKMAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELMAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_MAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETMAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEMAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSMAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSMAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_MAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_MAGIC_SINGULARITY:
+  name: "&x&C&9&4&1&E&8Magie-Singularität&x&4&2&C&8&F&5 Reparaturset"
+EARTH_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Erd-Singularität"
+EARTH_SHAKER_TRAIT_PROP_HEAD_EARTH_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Erderschütterer"
+GRINDER_TRAIT_PROP_ROD_EARTH_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Zermalmer"
+LAVA_WALKER_TRAIT_PROP_PLATES_EARTH_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Lavawanderer"
+IT'S_ONLY_NATURAL_TRAIT_PROP_LINKS_EARTH_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Ganz natürlich"
+PART_HEAD_SWORDEARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEEARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEEARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKEARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELEARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_EARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETEARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSEARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSEARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_EARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_EARTH_SINGULARITY:
+  name: "&x&4&4&E&3&4&FErd-Singularität&x&4&2&C&8&F&5 Reparaturset"
+METAL_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Metall-Singularität"
+CLEAN_CUT_TRAIT_PROP_HEAD_METAL_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Sauberer Schnitt"
+CONDUCTOR_TRAIT_PROP_ROD_METAL_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Leiter"
+KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: KOTR"
+GLEAM_TRAIT_PROP_LINKS_METAL_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Schimmer"
+PART_HEAD_SWORDMETAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEMETAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEMETAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKMETAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELMETAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_METAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETMETAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSMETAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSMETAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_METAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_METAL_SINGULARITY:
+  name: "&x&5&B&6&1&5&BMetall-Singularität&x&4&2&C&8&F&5 Reparaturset"
+INFINITE_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Unendlich"
+INFINITE_TRAIT_PROP_HEAD_INFINITE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Unendlich"
+CONCEPTUAL_DEFENCE_TRAIT_PROP_ROD_INFINITE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Konzeptionelle Verteidigung"
+INFINITE_CAPACITY_TRAIT_PROP_PLATES_INFINITE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Unendliche Kapazität"
+OROBORUS_TRAIT_PROP_LINKS_INFINITE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Oroboros"
+PART_HEAD_SWORDINFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEINFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEINFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKINFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELINFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_INFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETINFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEINFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSINFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSINFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_INFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_INFINITE:
+  name: "&x&D&1&E&B&F&0Unendlich&x&4&2&C&8&F&5 Reparaturset"
+INFINITY_SINGULARITY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Unendlichkeits-Singularität"
+BREAKPOINT_TRAIT_PROP_HEAD_INFINITY_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Bruchpunkt"
+INFINITLY_POWERFUL_TRAIT_PROP_PLATES_INFINITY_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Unendlich mächtig"
+INFINITE_DEFENCE_TRAIT_PROP_LINKS_INFINITY_SINGULARITY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Unendliche Verteidigung"
+PART_HEAD_SWORDINFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEINFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEINFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKINFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELINFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Schaufelkopf"
+PART_PLATES_HELMETINFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEINFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSINFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSINFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_INFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_INFINITY_SINGULARITY:
+  name: "&x&E&8&C&E&F&5Unendlichkeits-Singularität&x&4&2&C&8&F&5 Reparaturset"
+REINFORCED_DRACONIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Verstärktes Draconium"
+REINFORCED_DRACONIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Verstärktes Draconium"
+DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Drachenzorn"
+PART_HEAD_SWORDREINFORCED_DRACONIUM:
+  name: "&x&9&5&3&2&A&8Verstärktes Draconium&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEREINFORCED_DRACONIUM:
+  name: "&x&9&5&3&2&A&8Verstärktes Draconium&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEREINFORCED_DRACONIUM:
+  name: "&x&9&5&3&2&A&8Verstärktes Draconium&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKREINFORCED_DRACONIUM:
+  name: "&x&9&5&3&2&A&8Verstärktes Draconium&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELREINFORCED_DRACONIUM:
+  name: "&x&9&5&3&2&A&8Verstärktes Draconium&x&4&2&C&8&F&5 Schaufelkopf"
+PART_REPAIR_KIT_REINFORCED_DRACONIUM:
+  name: "&x&9&5&3&2&A&8Verstärktes Draconium&x&4&2&C&8&F&5 Reparaturset"
+STAINLESS_STEEL_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzener Edelstahl"
+STAINLESS_STEEL_ALLOY:
+  name: "&x&A&6&0&A&0&AGeschmolzener Edelstahl"
+SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Super-Duper-rostfrei"
+CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Besteck"
+THE_STANDARD_TRAIT_PROP_PLATES_DYNATECH_STAINLESS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Der Standard"
+WATER_SAFE_TRAIT_PROP_LINKS_DYNATECH_STAINLESS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Wasserfest"
+PART_HEAD_SWORDSTAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOESTAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXESTAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKSTAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELSTAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_STAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETSTAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATESTAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSSTAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSSTAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_STAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_STAINLESS_STEEL:
+  name: "&x&D&1&D&1&D&1Edelstahl&x&4&2&C&8&F&5 Reparaturset"
+VEX_GEM_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzener Plagegeist-Edelstein"
+NOCLIP_TRAIT_PROP_BINDING_DYNATECH_VEX_GEM:
+  name: "&x&B&F&3&0&7&FEigenschaft: NoClip"
+ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Nervig"
+PART_BINDING_VEX_GEM:
+  name: "&x&3&8&C&0&C&2Plagegeist-Edelstein&x&4&2&C&8&F&5 Bindung"
+PART_GAMBESON_VEX_GEM:
+  name: "&x&3&8&C&0&C&2Plagegeist-Edelstein&x&4&2&C&8&F&5 Gambeson"
+STAR_DUST_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzener Sternenstaub"
+BRIGHT_FURY_TRAIT_PROP_HEAD_DYNATECH_STAR_DUST:
+  name: "&x&B&F&3&0&7&FEigenschaft: Helle Wut"
+YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
+  name: "&x&B&F&3&0&7&FEigenschaft: Yvaine"
+STARSHINE_TRAIT_PROP_PLATES_DYNATECH_STAR_DUST:
+  name: "&x&B&F&3&0&7&FEigenschaft: Sternenschein"
+BRIGHT-BURN_TRAIT_PROP_LINKS_DYNATECH_STAR_DUST:
+  name: "&x&B&F&3&0&7&FEigenschaft: Hellbrand"
+PART_HEAD_SWORDSTAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOESTAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXESTAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKSTAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELSTAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_STAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETSTAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATESTAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSSTAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSSTAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_STAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_STAR_DUST:
+  name: "&x&F&D&F&F&9&6Sternenstaub&x&4&2&C&8&F&5 Reparaturset"
+GHOSTLY_ESSENCE_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Geisterhafte Essenz"
+INCORPOREAL_TRAIT_PROP_BINDING_DYNATECH_GHOSTLY_ESSENCE:
+  name: "&x&B&F&3&0&7&FEigenschaft: Körperlos"
+HYPERCUBE_[B]_TRAIT_PROP_ROD_DYNATECH_GHOSTLY_ESSENCE:
+  name: "&x&B&F&3&0&7&FEigenschaft: Hyperwürfel [B]"
+GHOST_IN_THE_SHELL_TRAIT_PROP_GAMBESON_DYNATECH_GHOSTLY_ESSENCE:
+  name: "&x&B&F&3&0&7&FEigenschaft: Geist in der Hülle"
+GHOSTLY_TRAIT_PROP_LINKS_DYNATECH_GHOSTLY_ESSENCE:
+  name: "&x&B&F&3&0&7&FEigenschaft: Geisterhaft"
+PART_BINDING_GHOSTLY_ESSENCE:
+  name: "&x&D&4&F&F&E&FGeisterhafte Essenz&x&4&2&C&8&F&5 Bindung"
+PART_ROD_GHOSTLY_ESSENCE:
+  name: "&x&D&4&F&F&E&FGeisterhafte Essenz&x&4&2&C&8&F&5 Stange"
+PART_GAMBESON_GHOSTLY_ESSENCE:
+  name: "&x&D&4&F&F&E&FGeisterhafte Essenz&x&4&2&C&8&F&5 Gambeson"
+PART_LINKS_GHOSTLY_ESSENCE:
+  name: "&x&D&4&F&F&E&FGeisterhafte Essenz&x&4&2&C&8&F&5 Kettenglieder"
+TESSERACTING_MATERIAL_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Tesserakt-Material"
+HYPERCUBE_[A]_TRAIT_PROP_HEAD_DYNATECH_TESSERACTING_OBJECT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Hyperwürfel [A]"
+HYBERBOLIC_TESSERATION_TRAIT_PROP_PLATES_DYNATECH_TESSERACTING_OBJECT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Hyperbolische Tesseration"
+HYBERBOLIC_TESSERATION_TRAIT_PROP_LINKS_DYNATECH_TESSERACTING_OBJECT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Hyperbolische Tesseration"
+PART_HEAD_SWORDTESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOETESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXETESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKTESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELTESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Schaufelkopf"
+PART_PLATES_HELMETTESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATETESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSTESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSTESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_TESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_TESSERACTING_MATERIAL:
+  name: "&x&C&7&B&A&9&FTesserakt-Material&x&4&2&C&8&F&5 Reparaturset"
+INSULATED_TRAIT_PROP_BINDING_RUBBER:
+  name: "&x&B&F&3&0&7&FEigenschaft: Isoliert"
+SWEATY_TRAIT_PROP_GAMBESON_RUBBER:
+  name: "&x&B&F&3&0&7&FEigenschaft: Verschwitzt"
+PART_BINDING_RUBBER:
+  name: "&x&3&8&4&1&4&DGummi&x&4&2&C&8&F&5 Bindung"
+PART_GAMBESON_RUBBER:
+  name: "&x&3&8&4&1&4&DGummi&x&4&2&C&8&F&5 Gambeson"
+REFINED_IRON_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Veredeltes Eisen"
+REALLY_STABLE_TRAIT_PROP_HEAD_REFINED_IRON:
+  name: "&x&B&F&3&0&7&FEigenschaft: Wirklich stabil"
+MANNERS_MAKETH_MAN_TRAIT_PROP_ROD_REFINED_IRON:
+  name: "&x&B&F&3&0&7&FEigenschaft: Manieren machen den Mann"
+KINGSMAN_TRAIT_PROP_PLATES_REFINED_IRON:
+  name: "&x&B&F&3&0&7&FEigenschaft: Kingsman"
+NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
+  name: "&x&B&F&3&0&7&FEigenschaft: Verengend"
+PART_HEAD_SWORDREFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEREFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEREFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKREFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELREFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_REFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETREFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEREFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSREFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSREFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_REFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_REFINED_IRON:
+  name: "&x&A&B&A&B&A&BVeredeltes Eisen&x&4&2&C&8&F&5 Reparaturset"
+MIXED_METAL_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Mischmetall"
+MIXED_METAL_ALLOY:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Mischmetall"
+MIXED_METALS_TRAIT_PROP_HEAD_MIXED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Mischmetalle"
+STIFF_TRAIT_PROP_ROD_MIXED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Steif"
+EXPERIENCED_TRAIT_PROP_PLATES_MIXED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Erfahren"
+MIX_IT_UP!_TRAIT_PROP_LINKS_MIXED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschaft: Misch es auf!"
+PART_HEAD_SWORDMIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEMIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEMIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKMIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELMIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_MIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETMIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEMIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSMIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSMIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_MIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_MIXED_METAL:
+  name: "&x&6&E&7&A&6&6Mischmetall&x&4&2&C&8&F&5 Reparaturset"
+ADVANCED_ALLOY_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Fortschrittliche Legierung"
+CLEAVE_TRAIT_PROP_HEAD_ADVANCED_ALLOY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Spalten"
+HEAVY_DUTY_TRAIT_PROP_ROD_ADVANCED_ALLOY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Hochbelastbar"
+EVEN_MORE_ADVANCED_TRAIT_PROP_PLATES_ADVANCED_ALLOY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Noch fortschrittlicher"
+SUPERHOT_TRAIT_PROP_LINKS_ADVANCED_ALLOY:
+  name: "&x&B&F&3&0&7&FEigenschaft: Superheiß"
+PART_HEAD_SWORDADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_ADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_ADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_ADVANCED_ALLOY:
+  name: "&x&7&8&A&B&A&2Fortschrittliche Legierung&x&4&2&C&8&F&5 Reparaturset"
+THORIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Thorium"
+MAG_THOR_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Mag-Thor"
+MAG_THOR_ALLOY:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Mag-Thor"
+HEAT_RESISTANT_TRAIT_PROP_HEAD_MAG_THOR:
+  name: "&x&B&F&3&0&7&FEigenschaft: Hitzebeständig"
+VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
+  name: "&x&B&F&3&0&7&FEigenschaft: Vampirismus"
+RADIOACTIVE_PLATES_TRAIT_PROP_PLATES_MAG_THOR:
+  name: "&x&B&F&3&0&7&FEigenschaft: Radioaktiv"
+BUILDING_RAGE_TRAIT_PROP_LINKS_MAG_THOR:
+  name: "&x&B&F&3&0&7&FEigenschaft: Aufstauende Wut"
+PART_HEAD_SWORDMAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEMAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEMAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKMAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELMAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_MAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETMAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEMAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSMAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSMAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_MAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_MAG_THOR:
+  name: "&x&3&3&D&E&4&DMag-Thor&x&4&2&C&8&F&5 Reparaturset"
+NIMBLE_TRAIT_PROP_BINDING_RAW_CARBON_MESH:
+  name: "&x&B&F&3&0&7&FEigenschaft: Flink"
+CARBON_FIBRE_TRAIT_PROP_GAMBESON_RAW_CARBON_MESH:
+  name: "&x&B&F&3&0&7&FEigenschaft: Kohlefaser"
+PART_BINDING_CARBON_MESH:
+  name: "&x&1&9&2&9&2&7Kohlefasergewebe&x&4&2&C&8&F&5 Bindung"
+PART_GAMBESON_CARBON_MESH:
+  name: "&x&1&9&2&9&2&7Kohlefasergewebe&x&4&2&C&8&F&5 Gambeson"
+SCRAP_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzener Schrott"
+TERRIBLE_TRAIT_PROP_HEAD_SCRAP:
+  name: "&x&B&F&3&0&7&FEigenschaft: Schrecklich"
+BRAINS,_NOT_BRAWN._TRAIT_PROP_ROD_SCRAP:
+  name: "&x&B&F&3&0&7&FEigenschaft: Köpfchen statt Muskeln."
+PATHETIC_TRAIT_PROP_PLATES_SCRAP:
+  name: "&x&B&F&3&0&7&FEigenschaft: Erbärmlich"
+FALLING_APART_TRAIT_PROP_LINKS_SCRAP:
+  name: "&x&B&F&3&0&7&FEigenschaft: Zerfallend"
+PART_HEAD_SWORDSCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOESCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXESCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKSCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELSCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_SCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETSCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATESCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSSCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSSCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_SCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_SCRAP:
+  name: "&x&5&C&4&5&1&DSchrott&x&4&2&C&8&F&5 Reparaturset"
+IRIDIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Iridium"
+PROTECTIVE_TRAIT_PROP_HEAD_IRIDIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Schützend"
+WARP_TRAIT_PROP_ROD_IRIDIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Warp"
+INDOMITABLE_TRAIT_PROP_PLATES_IRIDIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Unbezwingbar"
+UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
+  name: "&x&B&F&3&0&7&FEigenschaft: Unkonventionelle Kraft"
+PART_HEAD_SWORDIRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Schwertkopf"
+PART_HEAD_HOEIRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Hackenkopf"
+PART_HEAD_AXEIRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Axtkopf"
+PART_HEAD_PICKIRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Spitzhackenkopf"
+PART_HEAD_SHOVELIRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Schaufelkopf"
+PART_ROD_IRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Stange"
+PART_PLATES_HELMETIRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Helmplatten"
+PART_PLATES_CHESTPLATEIRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Brustpanzerplatten"
+PART_PLATES_LEGGINGSIRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Beinschienenplatten"
+PART_PLATES_BOOTSIRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Stiefelplatten"
+PART_LINKS_IRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Kettenglieder"
+PART_REPAIR_KIT_IRIDIUM:
+  name: "&x&C&9&9&9&C&9Iridium&x&4&2&C&8&F&5 Reparaturset"
+INTERDIMENSIONAL_PRESENCE_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzene Interdimensionale Präsenz"
+REMOTININIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Remotininium"
+ULTIMANINIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Ultimaninium"
+ULTIMANINIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AGeschmolzenes Ultimaninium"
+FEELING_CONNECTED_TRAIT_PROP_LINKS_NTW_REMOTE_ULTIMATE:
+  name: "&x&B&F&3&0&7&FEigenschaft: Verbunden fühlen"
+PART_LINKS_ULTIMANINIUM:
+  name: "&x&A&C&A&C&A&CUltimaninium&x&4&2&C&8&F&5 Kettenglieder"
