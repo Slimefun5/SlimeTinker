@@ -5,18 +5,19 @@ import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 
 public final class DummyArmourTable {
 
     public static final SlimefunItemStack STACK = ThemeUtils.themedItemStack(
         "DUMMY_TINKERS_ARMOUR_TABLE",
-        Material.CHISELED_NETHER_BRICKS,
+        MaterialCompat.safe(XMaterial.CHISELED_NETHER_BRICKS),
         ThemeItemType.MACHINE,
         "Tinker's Armour Table",
         "This item is made on a Tinker's Armour Table."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_ARMOUR_TABLE, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_ARMOUR_TABLE), STACK);
 
     private DummyArmourTable() {
         throw new IllegalStateException("Utility class");

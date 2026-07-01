@@ -1,0 +1,394 @@
+# SlimeTinker runtime-composed name fragments. Keyed by material/type id.
+materials:
+  IRON: Железо
+  GOLD: Золото
+  COPPER: Медь
+  SILVER: Серебро
+  TIN: Олово
+  MAGNESIUM: Магний
+  ALUMINUM: Алюминий
+  LEAD: Свинец
+  ZINC: Цинк
+  COAL: Уголь
+  STEEL: Сталь
+  DAMASCUS_STEEL: Дамасская сталь
+  DURALIUM: Дюралюминий
+  BRONZE: Бронза
+  ALUMINUM_BRONZE: Алюминиевая бронза
+  HARDENED_METAL: Закалённый металл
+  CORINTHIAN_BRONZE: Коринфская бронза
+  SOLDER: Припой
+  BILLON: Биллон
+  BRASS: Латунь
+  ALUMINUM_BRASS: Алюминиевая латунь
+  NICKEL: Никель
+  COBALT: Кобальт
+  REINFORCED_ALLOY: Усиленный сплав
+  STRING: Нить
+  VINE: Лоза
+  CRIMSON_ROOT: Багровый корень
+  WARPED_ROOT: Искажённый корень
+  WEEPING_VINE: Плакучая лоза
+  TWISTED_VINE: Скрученная лоза
+  SLIME: Слизь
+  LEATHER: Кожа
+  DIAMOND: Алмаз
+  DRACONIC: Драконий
+  REDSTONE: Редстоун
+  REDSTONE_ALLOY: Редстоуновый сплав
+  SILICON: Кремний
+  FERROSILICON: Ферросилиций
+  BOOMERITE: Бумерит
+  SEFIRITE: Сефирит
+  LIQUID_CHRISTMAS: Жидкое Рождество
+  CRINGLEIUM: Кринглиум
+  FLOWING_FONDNESS: Текучая нежность
+  DETAILED_DEVOTION: Утончённая преданность
+  PURIFIED_PASSION: Очищенная страсть
+  LIQUID_LOVE: Жидкая любовь
+  NICEINIUM: Найсиниум
+  SMITHIUM: Смитиум
+  ANNIVERSARIUM: Анниверсариум
+  VOID: Бездна
+  INFINITE: Бесконечный
+  FORTUNE_SINGULARITY: Сингулярность удачи
+  MAGIC_SINGULARITY: Магическая сингулярность
+  EARTH_SINGULARITY: Сингулярность земли
+  METAL_SINGULARITY: Сингулярность металла
+  MAGSTEEL: Магсталь
+  TITANIUM: Титан
+  MYTHRIL: Мифрил
+  ADAMANTITE: Адамантит
+  MAGNONIUM: Магнониум
+  COPPER_SINGULARITY: Сингулярность меди
+  ZINC_SINGULARITY: Сингулярность цинка
+  TIN_SINGULARITY: Сингулярность олова
+  ALUMINUM_SINGULARITY: Сингулярность алюминия
+  SILVER_SINGULARITY: Сингулярность серебра
+  MAGNESIUM_SINGULARITY: Сингулярность магния
+  LEAD_SINGULARITY: Сингулярность свинца
+  GOLD_SINGULARITY: Сингулярность золота
+  IRON_SINGULARITY: Сингулярность железа
+  DIAMOND_SINGULARITY: Сингулярность алмаза
+  INFINITY_SINGULARITY: Сингулярность бесконечности
+  REINFORCED_DRACONIUM: Усиленный дракониум
+  SLIME_STEEL: Слизневая сталь
+  REINFORCED_SLIME_STEEL: Усиленная слизневая сталь
+  OSMIUM_SUPERALLOY: Осмиевый суперсплав
+  OSMIUM: Осмий
+  SEGGANESSON: Сегганессон
+  UNPATENTABLIUM: Незапатентиум
+  STAINLESS_STEEL: Нержавеющая сталь
+  VEX_GEM: Самоцвет вредины
+  STAR_DUST: Звёздная пыль
+  GHOSTLY_ESSENCE: Призрачная эссенция
+  TESSERACTING_MATERIAL: Тессерактовый материал
+  RUBBER: Резина
+  REFINED_IRON: Очищенное железо
+  MIXED_METAL: Смешанный металл
+  ADVANCED_ALLOY: Улучшенный сплав
+  THORIUM: Торий
+  MAG_THOR: Маг-тор
+  CARBON_MESH: Углеродная сетка
+  SCRAP: Лом
+  IRIDIUM: Иридий
+  DAXI_STRENGTH: Дакси силы
+  DAXI_ABSORPTION: Дакси поглощения
+  DAXI_FORTITUDE: Дакси стойкости
+  DAXI_SATURATION: Дакси насыщения
+  DAXI_REGENERATION: Дакси регенерации
+  INTERDIMENSIONAL_PRESENCE: Межпространственное присутствие
+  REMOTININIUM: Ремотиниум
+  ULTIMANINIUM: Ультиманиниум
+tool-types:
+  SHOVEL: Лопата
+  PICK: Кирка
+  PICKAXE: Кирка
+  AXE: Топор
+  HOE: Мотыга
+  SWORD: Меч
+armour-types:
+  HELMET: Шлем
+  CHESTPLATE: Нагрудник
+  LEGGINGS: Поножи
+  BOOTS: Ботинки
+part-types:
+  HEAD_SHOVEL: Голова лопаты
+  HEAD_PICK: Голова кирки
+  HEAD_AXE: Голова топора
+  HEAD_HOE: Голова мотыги
+  HEAD_SWORD: Клинок меча
+  ROD: Рукоять инструмента
+  BINDING: Крепление
+  PLATE_HELMET: Пластины шлема
+  PLATE_CHESTPLATE: Пластины нагрудника
+  PLATE_LEGGINGS: Пластины поножей
+  PLATE_BOOTS: Пластины ботинок
+  GAMBESON: Гамбезон
+  LINKS: Кольчужные звенья
+  REPAIR: Ремонтный набор
+lore:
+  head_abbrev: 'Г: '
+  binder_abbrev: 'С: '
+  rod_abbrev: 'Ст: '
+  plate_abbrev: 'П: '
+  gambeson_abbrev: 'Гм: '
+  links_abbrev: 'З: '
+  level: 'Уровень: '
+  modifier_slots: 'Слоты модификаторов: '
+  mod_level: ' Уровень '
+  mod_max: ' - (МАКС)'
+modifiers:
+  REDSTONE: 'Редстоун'
+  LAPIS_LAZULI: 'Лазурит'
+  QUARTZ: 'Кварц'
+  DIAMOND: 'Алмаз'
+  EMERALD: 'Изумруд'
+  MOD_PLATE: 'Мод-пластина'
+traits:
+  "10 Years of (Slime)fun!": "10 лет (Slime)веселья!"
+  "Abra": "Абра"
+  "Acupuncture": "Иглоукалывание"
+  "Acupuncture II": "Иглоукалывание II"
+  "Adamant": "Непреклонный"
+  "All That Glitters II": "Всё, что блестит II"
+  "All that Glitters": "Всё, что блестит"
+  "Annoying": "Назойливый"
+  "Attraction": "Притяжение"
+  "Band": "Обруч"
+  "Barter": "Бартер"
+  "Barter II": "Бартер II"
+  "Beautiful": "Прекрасный"
+  "Beginner": "Новичок"
+  "Beginner II": "Новичок II"
+  "Blinding Speed": "Ослепительная скорость"
+  "Boost": "Усиление"
+  "Boost II": "Усиление II"
+  "Bouncy": "Прыгучий"
+  "Bouncy II": "Прыгучий II"
+  "Brains, Not Brawn": "Ум, а не сила"
+  "Brains, Not Brawn II": "Ум, а не сила II"
+  "Brains, Not Brawn.": "Ум, а не сила."
+  "Breakpoint": "Точка излома"
+  "Bright Fury": "Яркая ярость"
+  "Bright-burn": "Свето-жог"
+  "Brightburn": "Светожог"
+  "Brittle": "Хрупкий"
+  "Brute": "Громила"
+  "Building Rage": "Нарастающая ярость"
+  "Bulky": "Громоздкий"
+  "Call of the Wild": "Зов природы"
+  "Can": "Банка"
+  "Can II": "Банка II"
+  "Carbon Fibre": "Углеволокно"
+  "Celebrate": "Праздновать"
+  "Charged Head +": "Заряженная головка +"
+  "Charged Head -": "Заряженная головка -"
+  "Charged Rod +": "Заряженный стержень +"
+  "Charged Rod -": "Заряженный стержень -"
+  "Clean Cut": "Чистый срез"
+  "Cleave": "Рассечение"
+  "Compounding": "Накопление"
+  "Conceptual Defence": "Концептуальная защита"
+  "Conductive": "Проводящий"
+  "Conductive II": "Проводящий II"
+  "Conductivity": "Электропроводность"
+  "Conductivity II": "Электропроводность II"
+  "Conductor": "Проводник"
+  "Craftsmanship": "Мастерство"
+  "Cutlery": "Столовые приборы"
+  "Decay": "Увядание"
+  "Defender": "Защитник"
+  "Deflection": "Отражение"
+  "Deflective": "Отражающий"
+  "Doom": "Рок"
+  "Draconic Tantrum": "Драконья ярость"
+  "Draw": "Замах"
+  "Durable": "Прочный"
+  "Dwarven Skills": "Гномьи навыки"
+  "Earth Shaker": "Сотрясатель земли"
+  "Easily Shaped": "Легко куётся"
+  "Easily Shaped II": "Легко куётся II"
+  "Easy Fix": "Лёгкий ремонт"
+  "Eject!": "Катапульта!"
+  "Elven Speed": "Эльфийская скорость"
+  "Enchanting": "Зачаровывающий"
+  "Enchanting II": "Зачаровывающий II"
+  "Escape": "Побег"
+  "Even More Advanced": "Ещё более продвинутый"
+  "Experienced": "Опытный"
+  "Falling Apart": "Разваливается на части"
+  "Farmer": "Фермер"
+  "Fast": "Быстрый"
+  "Fear the Void": "Бойся Пустоты"
+  "Feeling Connected": "Чувство связи"
+  "Feeling Festive": "Праздничное настроение"
+  "Flaming Hot": "Раскалённый"
+  "Flammable": "Воспламеняемый"
+  "Flammable II": "Воспламеняемый II"
+  "Flexibility": "Гибкость"
+  "Foil": "Фольга"
+  "Foil II": "Фольга II"
+  "Fortunate": "Удачливый"
+  "Fused": "Сплавленный"
+  "Ghost in the shell": "Призрак в доспехах"
+  "Ghostly": "Призрачный"
+  "Gleam": "Сияние"
+  "Go Boomer": "Бабах!"
+  "Golden Veil": "Золотая завеса"
+  "Golden Veil II": "Золотая завеса II"
+  "Graceful": "Грациозный"
+  "Graceful II": "Грациозный II"
+  "Gravity": "Гравитация"
+  "Grinder": "Дробилка"
+  "Growth": "Рост"
+  "Hardy": "Выносливый"
+  "Heat Conductor": "Теплопроводник"
+  "Heat Resistance": "Жаростойкость"
+  "Heat Resistant": "Жаростойкий"
+  "Heavy": "Тяжёлый"
+  "Heavy Duty": "Усиленный режим"
+  "Heavy Pommel": "Тяжёлое навершие"
+  "Hidden": "Скрытый"
+  "How Fortunate": "Какая удача"
+  "Hyberbolic Tesseration": "Гиперболическая тессерация"
+  "Hydrogen": "Водород"
+  "HyperCube [A]": "Гиперкуб [A]"
+  "HyperCube [B]": "Гиперкуб [B]"
+  "Incorporeal": "Бестелесный"
+  "Incorporeal Right": "Бестелесное право"
+  "Increased Mass": "Увеличенная масса"
+  "Indomitable": "Несокрушимый"
+  "Industrious": "Трудолюбивый"
+  "Infinite": "Бесконечный"
+  "Infinite Capacity": "Бесконечная вместимость"
+  "Infinite Defence": "Бесконечная защита"
+  "Infinitly Powerful": "Бесконечно могущественный"
+  "Ingheights": "Истовшы"
+  "Innovation": "Инновация"
+  "Insulated": "Изолированный"
+  "Intense Gaze": "Пронзительный взгляд"
+  "It's all you need": "Это всё, что нужно"
+  "It's only natural": "Это вполне естественно"
+  "KOTR": "Рыцарь Круглого стола"
+  "Kingsman": "Кингсмен"
+  "Ladder Simulator™": "Симулятор лестницы™"
+  "Lava Walker": "Ходок по лаве"
+  "Leech": "Пиявка"
+  "Leech II": "Пиявка II"
+  "Light": "Лёгкий"
+  "Light II": "Лёгкий II"
+  "Lightning Rod": "Громоотвод"
+  "Lightweight": "Облегчённый"
+  "Magical Mint": "Волшебная мята"
+  "Magnanimous": "Великодушный"
+  "MagneSight™": "МагнеЗрение™"
+  "MagneSight™ II": "МагнеЗрение™ II"
+  "Magnetesium": "Магнетезий"
+  "Magnetesium II": "Магнетезий II"
+  "Magnetic +": "Магнитный +"
+  "Magnetic -": "Магнитный -"
+  "Magus": "Маг"
+  "Malleable": "Податливый"
+  "Malleable II": "Податливый II"
+  "Manners Maketh Man": "Манеры делают человека"
+  "Merchant's Veil": "Завеса торговца"
+  "Mix it up!": "Перемешай!"
+  "Mixed Metals": "Смешанные металлы"
+  "Moon Bounce": "Лунный прыжок"
+  "Mystic": "Мистический"
+  "Narrowing": "Сужение"
+  "Nice": "Найс"
+  "Nightstalker": "Ночной охотник"
+  "Nimble": "Проворный"
+  "NoClip": "Сквозь стены"
+  "Non-Corrosive": "Некоррозийный"
+  "Non-Corrosive II": "Некоррозийный II"
+  "Oroborus": "Уроборос"
+  "Overcharge": "Перезаряд"
+  "Oxygenated": "Насыщенный кислородом"
+  "Partial Decay": "Частичное увядание"
+  "Pathetic": "Жалкий"
+  "Planewalker": "Странник миров"
+  "Poisonous": "Ядовитый"
+  "Poisonous II": "Ядовитый II"
+  "Powered On": "Включён"
+  "Prosperous": "Процветающий"
+  "Prosperous II": "Процветающий II"
+  "Protective": "Защитный"
+  "Radioactive Plates": "Радиоактивные пластины"
+  "Really Stable": "Воистину стабильный"
+  "Really Stainless": "Воистину нержавеющий"
+  "Recyclable": "Перерабатываемый"
+  "Recyclable II": "Перерабатываемый II"
+  "Refreshing": "Освежающий"
+  "Reinforcable": "Поддаётся усилению"
+  "Reinforced": "Усиленный"
+  "Resistance": "Сопротивление"
+  "Rigid Flexibility": "Жёсткая гибкость"
+  "Rusty": "Ржавый"
+  "Rusty II": "Ржавый II"
+  "Scarpaaarr!": "Свалиааам!"
+  "Secrets Revealed": "Раскрытые тайны"
+  "Sharp 1": "Острота 1"
+  "Sharp 1 II": "Острота 1 II"
+  "Sharp 2": "Острота 2"
+  "Shock Absorbant": "Амортизирующий"
+  "Sickly": "Болезненный"
+  "Sickly II": "Болезненный II"
+  "Slow Learner": "Медленно учится"
+  "Sneaky": "Скрытный"
+  "Sneaky II": "Скрытный II"
+  "Snroht": "Ынипш"
+  "Soft": "Мягкий"
+  "Soft II": "Мягкий II"
+  "Soft Landing": "Мягкая посадка"
+  "Soft Touch": "Мягкое касание"
+  "Soft Touch II": "Мягкое касание II"
+  "Solar Powered": "На солнечной энергии"
+  "Soul Siphon": "Похититель душ"
+  "Springs": "Пружины"
+  "Stability": "Стабильность"
+  "Stability II": "Стабильность II"
+  "Stainless": "Нержавеющий"
+  "Starshine": "Звёздный свет"
+  "Steadfast": "Стойкость"
+  "Steadfast II": "Стойкость II"
+  "Stiff": "Жёсткий"
+  "Sting of Gondolin": "Жало Гондолина"
+  "Strong": "Крепкий"
+  "Strong and Sticky": "Крепкий и липкий"
+  "Studious": "Прилежный"
+  "Super Dooper Stainless": "Супер-пупер нержавеющий"
+  "Super Lightweight": "Сверхлёгкий"
+  "Super Lightweight II": "Сверхлёгкий II"
+  "Superhot": "Сверхгорячий"
+  "Sweaty": "Потный"
+  "Tarnished": "Потускневший"
+  "Tarnished II": "Потускневший II"
+  "Tempest": "Буря"
+  "Terrible": "Ужасный"
+  "The End": "Край"
+  "The Power of Daxi": "Сила Дакси"
+  "The Standard": "Эталон"
+  "Thick": "Толстый"
+  "Too Hot to Handle": "Слишком горячо, не удержать"
+  "Toughened": "Закалённый"
+  "Tricks": "Уловки"
+  "Tuff Stuff": "Крепкий орешек"
+  "Unconventional Power": "Нестандартная мощь"
+  "Unite - Absorption": "Единение — Поглощение"
+  "Unite - Fortitude": "Единение — Стойкость"
+  "Unite - Regeneration": "Единение — Регенерация"
+  "Unite - Saturation": "Единение — Насыщение"
+  "Vampirism": "Вампиризм"
+  "Void Miner": "Шахтёр Пустоты"
+  "WHM": "Белый маг"
+  "Warm Blodded": "Теплокровный"
+  "Warp": "Искажение"
+  "Water Safe": "Водостойкий"
+  "Who needs pressure plates?": "Кому нужны нажимные плиты?"
+  "Witherproof": "Защита от иссушения"
+  "Wizard Robes": "Мантия волшебника"
+  "Works": "Работает"
+  "Yvaine": "Ивейн"

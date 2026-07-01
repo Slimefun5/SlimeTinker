@@ -6,27 +6,27 @@ import io.github.sefiraat.slimetinker.events.friend.ActiveFriendElement;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.managers.MemoryManager;
 import io.github.sefiraat.slimetinker.runnables.event.KingsmanSpam;
+import io.github.sefiraat.slimetinker.utils.BlockDataCompat;
 import io.github.sefiraat.slimetinker.utils.BlockUtils;
 import io.github.sefiraat.slimetinker.utils.EntityUtils;
 import io.github.sefiraat.slimetinker.utils.GeneralUtils;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import io.github.thebusybiscuit.slimefun5.api.MinecraftVersion;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.core.attributes.Rechargeable;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.protection.Interaction;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.Effect;
 import org.bukkit.Location;
-import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.Particle;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
-import org.bukkit.block.data.Directional;
 import org.bukkit.entity.Animals;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.LivingEntity;
@@ -74,7 +74,7 @@ public final class InteractionEvents {
 
             if (p.isSneaking()) {
                 // Setting location
-                PersistentDataAPI.setString(im, keyLoc, GeneralUtils.serializeLocation(p.getLocation()));
+                Pdc.setString(im, keyLoc.toString(), GeneralUtils.serializeLocation(p.getLocation()));
                 p.sendMessage(ThemeUtils.SUCCESS + "Location set!");
                 i.setItemMeta(im);
             } else {
@@ -82,11 +82,11 @@ public final class InteractionEvents {
                 if (ItemUtils.onCooldown(i, cooldownName)) {
                     p.sendMessage(ThemeUtils.WARNING + "Recall is on cooldown!");
                     return;
-                } else if (!PersistentDataAPI.hasString(im, keyLoc)) {
+                } else if (!Pdc.hasString(im, keyLoc.toString())) {
                     p.sendMessage(ThemeUtils.WARNING + "You have not yet set a location to recall to!");
                     return;
                 }
-                String sl = PersistentDataAPI.getString(im, keyLoc);
+                String sl = Pdc.getString(im, keyLoc.toString());
                 Location l = GeneralUtils.deserializeLocation(sl);
                 p.teleport(l);
                 p.sendMessage(ThemeUtils.SUCCESS + "Whoosh!");
@@ -110,11 +110,11 @@ public final class InteractionEvents {
             int rndY = ThreadLocalRandom.current().nextInt(0, 5);
             int rndZ = ThreadLocalRandom.current().nextInt(-25, 26);
             Location location = p.getLocation().clone().add(rndX, rndY, rndZ);
-            if (p.getWorld().getBlockAt(location).getType() == Material.AIR
+            if (p.getWorld().getBlockAt(location).getType() == MaterialCompat.safe(XMaterial.AIR)
                 && Slimefun.getProtectionManager().hasPermission(p, location, Interaction.PLACE_BLOCK)
             ) {
                 p.teleport(location);
-                p.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.TRIAL_SPAWNER_DETECT_PLAYER, 10);
+                p.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.SMOKE, 10);
                 ItemUtils.setCooldown(i, "NOCLIP", 300000);
             } else {
                 p.sendMessage(ThemeUtils.WARNING + "Couldn't teleport! Try again.");
@@ -126,7 +126,7 @@ public final class InteractionEvents {
         ItemStack i = friend.getActiveStack();
         ItemMeta im = i.getItemMeta();
         NamespacedKey k = Keys.ARMOUR_INFINITE_CAPACITY_STORED;
-        double d = PersistentDataAPI.getDouble(im, k, 0);
+        double d = Pdc.getDouble(im, k.toString(), 0);
         if (d > 1) {
             List<Entity> entityList = friend.getPlayer().getNearbyEntities(3, 3, 3);
             for (Entity e : entityList) {
@@ -140,7 +140,7 @@ public final class InteractionEvents {
                 }
             }
         }
-        PersistentDataAPI.setDouble(im, k, 0);
+        Pdc.setDouble(im, k.toString(), 0);
         i.setItemMeta(im);
     }
 
@@ -188,7 +188,7 @@ public final class InteractionEvents {
     public static void linksIridium(EventFriend friend) {
         final ItemStack i = friend.getActiveStack();
         final ItemMeta im = i.getItemMeta();
-        int amount = PersistentDataAPI.getInt(im, Keys.ARMOUR_UNCONVENTIONAL_STORED, 0);
+        int amount = Pdc.getInt(im, Keys.ARMOUR_UNCONVENTIONAL_STORED.toString(), 0);
 
 
         for (ItemStack i2 : friend.getPlayer().getInventory()) {
@@ -216,7 +216,7 @@ public final class InteractionEvents {
             }
         }
 
-        PersistentDataAPI.setInt(im, Keys.ARMOUR_UNCONVENTIONAL_STORED, amount);
+        Pdc.setInt(im, Keys.ARMOUR_UNCONVENTIONAL_STORED.toString(), amount);
         i.setItemMeta(im);
     }
 
@@ -225,14 +225,12 @@ public final class InteractionEvents {
         BlockFace blockFace = BlockUtils.getTargetedBlockFace(player);
         if (blockFace != null && blockFace != BlockFace.UP && blockFace != BlockFace.DOWN) {
             Block target = player.getTargetBlock(null, 5);
-            if (target.getType() != Material.AIR) {
+            if (target.getType() != MaterialCompat.safe(XMaterial.AIR)) {
                 Block place = target.getRelative(blockFace);
-                if (place.getType() == Material.AIR && Slimefun.getProtectionManager()
+                if (place.getType() == MaterialCompat.safe(XMaterial.AIR) && Slimefun.getProtectionManager()
                                                                .hasPermission(player, place, Interaction.PLACE_BLOCK)) {
-                    place.setType(Material.LADDER);
-                    Directional directional = (Directional) place.getBlockData();
-                    directional.setFacing(blockFace);
-                    place.setBlockData(directional);
+                    place.setType(MaterialCompat.safe(XMaterial.LADDER));
+                    BlockDataCompat.setDirectionalFacing(place, blockFace);
                 }
             }
         }
@@ -244,15 +242,12 @@ public final class InteractionEvents {
         final Player player = friend.getPlayer();
         if (!ItemUtils.onCooldown(tool, "celebrate")) {
             Block potential = player.getTargetBlock(null, 5).getRelative(BlockFace.UP);
-            if (potential.getType() == Material.AIR && Slimefun.getProtectionManager()
+            if (potential.getType() == MaterialCompat.safe(XMaterial.AIR) && Slimefun.getProtectionManager()
                                                                .hasPermission(player,
                                                                               potential,
                                                                               Interaction.PLACE_BLOCK
                                                                )) {
-                MinecraftVersion minecraftVersion = Slimefun.getMinecraftVersion();
-                potential.setType(minecraftVersion.isAtLeast(MinecraftVersion.MINECRAFT_1_17) ?
-                                  Material.BLACK_CANDLE_CAKE :
-                                  Material.CAKE);
+                potential.setType(MaterialCompat.safe(XMaterial.CAKE));
                 ItemUtils.setCooldown(tool, "celebrate", 3600000);
             }
         } else {
@@ -267,7 +262,7 @@ public final class InteractionEvents {
 
         final Player player = friend.getPlayer();
 
-        if (player.getInventory().getItemInMainHand().getType() != Material.AIR) {
+        if (player.getInventory().getItemInHand().getType() != MaterialCompat.safe(XMaterial.AIR)) {
             return;
         }
 

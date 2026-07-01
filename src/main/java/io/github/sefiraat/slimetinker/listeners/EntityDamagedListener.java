@@ -4,8 +4,9 @@ import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.events.friend.TraitEventType;
 import io.github.sefiraat.slimetinker.modifiers.Modifications;
 import io.github.sefiraat.slimetinker.utils.EntityUtils;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Color;
-import org.bukkit.Material;
 import org.bukkit.Particle;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.LivingEntity;
@@ -35,7 +36,7 @@ public class EntityDamagedListener implements Listener {
         }
 
         Player player = (Player) event.getDamager();
-        ItemStack heldItem = player.getInventory().getItemInMainHand();
+        ItemStack heldItem = player.getInventory().getItemInHand();
 
         EventFriend friend = new EventFriend(player, TraitEventType.ENTITY_DAMAGED);
 
@@ -63,7 +64,7 @@ public class EntityDamagedListener implements Listener {
                 friend.setSegganesson(0);
                 friend.setSegganessonDamage(0);
                 Particle.DustOptions dustOptions = new Particle.DustOptions(Color.fromRGB(50, 120, 200), 5);
-                e.getWorld().spawnParticle(Particle.DUST, e.getLocation(), 50, 1, 1, 1, 0.5, dustOptions, true);
+                e.getWorld().spawnParticle(Particle.REDSTONE, e.getLocation(), 50, 1, 1, 1, 0.5, dustOptions, true);
             }
 
             if (friend.getCharged() >= 2) { // Special case for Charged - event is dependant on two materials, consumers up a value to trigger this
@@ -71,8 +72,8 @@ public class EntityDamagedListener implements Listener {
                 if (rnd == 1) {
                     friend.setDamageMod(friend.getDamageMod() * 3);
                     Particle.DustOptions dustOptions = new Particle.DustOptions(Color.YELLOW, 5);
-                    e.getWorld().spawnParticle(Particle.DUST, e.getLocation(), 50, 1, 1, 1, 0.5, dustOptions, true);
-                    PotionEffect potionEffect = new PotionEffect(PotionEffectType.SLOWNESS, 40, 99);
+                    e.getWorld().spawnParticle(Particle.REDSTONE, e.getLocation(), 50, 1, 1, 1, 0.5, dustOptions, true);
+                    PotionEffect potionEffect = new PotionEffect(PotionEffectType.SLOW, 40, 99);
                     e.addPotionEffect(potionEffect);
                 }
             }
@@ -83,8 +84,8 @@ public class EntityDamagedListener implements Listener {
     private void modChecks(ItemStack heldItem, EventFriend friend) {
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
 
-        if (modLevels.containsKey(Material.QUARTZ.toString())) { // QUARTZ
-            modCheckQuartz(modLevels.get(Material.QUARTZ.toString()), friend);
+        if (modLevels.containsKey(MaterialCompat.safe(XMaterial.QUARTZ).toString())) { // QUARTZ
+            modCheckQuartz(modLevels.get(MaterialCompat.safe(XMaterial.QUARTZ).toString()), friend);
         }
     }
 

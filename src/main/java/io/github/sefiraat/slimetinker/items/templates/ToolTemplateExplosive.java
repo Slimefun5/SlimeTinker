@@ -10,12 +10,13 @@ import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.implementation.items.tools.ExplosiveTool;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.sefiraat.slimetinker.compat.Pdc;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.persistence.PersistentDataContainer;
-import org.bukkit.persistence.PersistentDataType;
 
 import java.text.MessageFormat;
 
@@ -28,10 +29,7 @@ public class ToolTemplateExplosive extends ExplosiveTool {
 
     public static boolean isTool(ItemStack itemStack) {
         return itemStack.hasItemMeta() &&
-            itemStack.getItemMeta().getPersistentDataContainer().has(
-                Keys.TOOL_INFO_IS_TOOL,
-                PersistentDataType.STRING
-            );
+            Pdc.hasString(itemStack.getItemMeta(), Keys.TOOL_INFO_IS_TOOL.toString());
     }
 
     public String getName(ToolDefinition toolDefinition) {
@@ -51,15 +49,15 @@ public class ToolTemplateExplosive extends ExplosiveTool {
     public Material getMaterial(ToolDefinition toolDefinition) {
         switch (toolDefinition.getPartType()) {
             case Ids.SHOVEL:
-                return Material.STONE_SHOVEL;
+                return MaterialCompat.safe(XMaterial.STONE_SHOVEL);
             case Ids.PICKAXE:
-                return Material.STONE_PICKAXE;
+                return MaterialCompat.safe(XMaterial.STONE_PICKAXE);
             case Ids.AXE:
-                return Material.STONE_AXE;
+                return MaterialCompat.safe(XMaterial.STONE_AXE);
             case Ids.HOE:
-                return Material.STONE_HOE;
+                return MaterialCompat.safe(XMaterial.STONE_HOE);
             case Ids.SWORD:
-                return Material.STONE_SWORD;
+                return MaterialCompat.safe(XMaterial.STONE_SWORD);
             default:
                 throw new IllegalStateException("Unexpected value: " + toolDefinition.getClassType());
         }
@@ -72,14 +70,13 @@ public class ToolTemplateExplosive extends ExplosiveTool {
         itemStack.setType(getMaterial(toolDefinition));
         ItemMeta im = itemStack.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
         Experience.setupExpNew(im);
-        c.set(Keys.TOOL_INFO_IS_TOOL, PersistentDataType.STRING, "Y");
-        c.set(Keys.TOOL_INFO_HEAD_TYPE, PersistentDataType.STRING, toolDefinition.getClassType());
-        c.set(Keys.TOOL_INFO_TOOL_TYPE, PersistentDataType.STRING, toolDefinition.getPartType());
-        c.set(Keys.TOOL_INFO_HEAD_MATERIAL, PersistentDataType.STRING, toolDefinition.getHeadMaterial());
-        c.set(Keys.TOOL_INFO_BINDER_MATERIAL, PersistentDataType.STRING, toolDefinition.getBinderMaterial());
-        c.set(Keys.TOOL_INFO_ROD_MATERIAL, PersistentDataType.STRING, toolDefinition.getRodMaterial());
+        Pdc.setString(im, Keys.TOOL_INFO_IS_TOOL.toString(), "Y");
+        Pdc.setString(im, Keys.TOOL_INFO_HEAD_TYPE.toString(), toolDefinition.getClassType());
+        Pdc.setString(im, Keys.TOOL_INFO_TOOL_TYPE.toString(), toolDefinition.getPartType());
+        Pdc.setString(im, Keys.TOOL_INFO_HEAD_MATERIAL.toString(), toolDefinition.getHeadMaterial());
+        Pdc.setString(im, Keys.TOOL_INFO_BINDER_MATERIAL.toString(), toolDefinition.getBinderMaterial());
+        Pdc.setString(im, Keys.TOOL_INFO_ROD_MATERIAL.toString(), toolDefinition.getRodMaterial());
         im.setDisplayName(getName(toolDefinition));
         itemStack.setItemMeta(im);
         ItemUtils.rebuildTinkerLore(itemStack);

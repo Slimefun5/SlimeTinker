@@ -1,7 +1,7 @@
 plugins {
     java
     id("com.gradleup.shadow")
-    id("io.github.intisy.github-gradle")
+    id("io.github.intisy.github-gradle") version "1.8.3"
 }
 
 group = "dev.sefiraat"
@@ -17,7 +17,7 @@ github {
 
 java {
     toolchain {
-        languageVersion.set(JavaLanguageVersion.of(25))
+        languageVersion.set(JavaLanguageVersion.of(8))
     }
 }
 
@@ -32,6 +32,7 @@ repositories {
 
 dependencies {
     implementation("com.github.Slimefun5:SlimefunMetrics:master-SNAPSHOT")
+<<<<<<< HEAD
     "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.1")
     compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
@@ -39,6 +40,13 @@ dependencies {
     implementation("com.github.Slimefun5:InfinityLib:v1.3.10") {
         isTransitive = false
     }
+=======
+    githubCompileOnly("Slimefun5:Slimefun5:gh-v5.2.3.2")
+    compileOnly("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
+    compileOnly("com.google.code.findbugs:jsr305:3.0.2")
+
+    githubImplementation("Slimefun5:InfinityLib:v1.3.13")
+>>>>>>> origin/experimental
         implementation("co.aikar:acf-paper:0.5.1-SNAPSHOT")
 
     testImplementation(platform("org.junit:junit-bom:5.11.4"))
@@ -68,7 +76,8 @@ tasks {
         enabled = false
     }
     shadowJar {
-        archiveFileName.set("SlimeTinker v${project.version}-MC26.1.2.jar")
+        relocate("org.bstats", "slimetinker.libs.bstats")
+        archiveFileName.set("SlimeTinker-1.0.0-UNOFFICIAL.jar")
         relocate("io.github.mooy1.infinitylib", "io.github.sefiraat.slimetinker.infinitylib")
                 relocate("co.aikar.commands", "io.github.sefiraat.slimetinker.acf")
         relocate("co.aikar.locales", "io.github.sefiraat.slimetinker.locales")
@@ -77,8 +86,11 @@ tasks {
     build {
         dependsOn(shadowJar)
     }
+    compileTestJava {
+        enabled = false
+    }
     test {
-        useJUnitPlatform()
+        enabled = false
     }
 }
 

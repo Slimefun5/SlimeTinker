@@ -26,21 +26,12 @@ public final class BlockMap {
                 case BASALT:
                 case MOSSY_COBBLESTONE:
                 case COAL_ORE:
-                case DEEPSLATE_COAL_ORE:
                 case IRON_ORE:
-                case DEEPSLATE_IRON_ORE:
-                case COPPER_ORE:
-                case DEEPSLATE_COPPER_ORE:
                 case GOLD_ORE:
-                case DEEPSLATE_GOLD_ORE:
                 case REDSTONE_ORE:
-                case DEEPSLATE_REDSTONE_ORE:
                 case EMERALD_ORE:
-                case DEEPSLATE_EMERALD_ORE:
                 case LAPIS_ORE:
-                case DEEPSLATE_LAPIS_ORE:
                 case DIAMOND_ORE:
-                case DEEPSLATE_DIAMOND_ORE:
                 case NETHER_GOLD_ORE:
                 case NETHER_QUARTZ_ORE:
                 case GRANITE:
@@ -49,16 +40,9 @@ public final class BlockMap {
                 case POLISHED_DIORITE:
                 case ANDESITE:
                 case POLISHED_ANDESITE:
-                case DEEPSLATE:
-                case COBBLED_DEEPSLATE:
-                case POLISHED_DEEPSLATE:
-                case CALCITE:
-                case TUFF:
-                case DRIPSTONE_BLOCK:
                 case OBSIDIAN:
                 case ANCIENT_DEBRIS:
                 case COBBLESTONE:
-                case AMETHYST_CLUSTER:
                 case GLOWSTONE:
                 case NETHERRACK:
                     MATERIAL_MAP.put(m, Ids.PICKAXE);
@@ -67,7 +51,6 @@ public final class BlockMap {
                 case DIRT:
                 case COARSE_DIRT:
                 case PODZOL:
-                case ROOTED_DIRT:
                 case CRIMSON_NYLIUM:
                 case WARPED_NYLIUM:
                 case SAND:
@@ -77,7 +60,6 @@ public final class BlockMap {
                 case SOUL_SAND:
                 case SOUL_SOIL:
                 case MYCELIUM:
-                case MOSS_BLOCK:
                     MATERIAL_MAP.put(m, Ids.SHOVEL);
                     break;
                 case OAK_LOG:
@@ -122,7 +104,6 @@ public final class BlockMap {
                     break;
                 case SEA_PICKLE:
                 case VINE:
-                case GLOW_LICHEN:
                 case LILY_PAD:
                     MATERIAL_MAP.put(m, Ids.HOE);
                     break;

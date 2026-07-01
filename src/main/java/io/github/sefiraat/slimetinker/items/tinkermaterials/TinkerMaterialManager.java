@@ -20,6 +20,8 @@ import io.github.sefiraat.slimetinker.managers.SupportedPluginsManager;
 import io.github.sefiraat.slimetinker.managers.TraitManager;
 import io.github.sefiraat.slimetinker.utils.Ids;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
@@ -340,20 +342,20 @@ public class TinkerMaterialManager {
 
     private void fillCastingDies() {
         castingRecipes.put(
-            Material.IRON_NUGGET.toString(),
-            new CastResult(Material.IRON_NUGGET.toString(), AMOUNT_CAST, MAP_DIE_NUGGET, true)
+            MaterialCompat.safe(XMaterial.IRON_NUGGET).toString(),
+            new CastResult(MaterialCompat.safe(XMaterial.IRON_NUGGET).toString(), AMOUNT_CAST, MAP_DIE_NUGGET, true)
         );
         castingRecipes.put(
-            Material.BRICK.toString(),
-            new CastResult(Material.BRICK.toString(), AMOUNT_CAST, MAP_DIE_INGOT, true)
+            MaterialCompat.safe(XMaterial.BRICK).toString(),
+            new CastResult(MaterialCompat.safe(XMaterial.BRICK).toString(), AMOUNT_CAST, MAP_DIE_INGOT, true)
         );
         castingRecipes.put(
-            Material.STONE.toString(),
-            new CastResult(Material.STONE.toString(), AMOUNT_CAST, MAP_DIE_BLOCK, true)
+            MaterialCompat.safe(XMaterial.STONE).toString(),
+            new CastResult(MaterialCompat.safe(XMaterial.STONE).toString(), AMOUNT_CAST, MAP_DIE_BLOCK, true)
         );
         castingRecipes.put(
-            Material.DIAMOND.toString(),
-            new CastResult(Material.DIAMOND.toString(), AMOUNT_CAST, MAP_DIE_GEM, true)
+            MaterialCompat.safe(XMaterial.DIAMOND).toString(),
+            new CastResult(MaterialCompat.safe(XMaterial.DIAMOND).toString(), AMOUNT_CAST, MAP_DIE_GEM, true)
         );
         castingRecipes.put(
             Dies.DIE_REPAIR_KIT.getItemId(),

@@ -8,8 +8,8 @@ import io.github.thebusybiscuit.slimefun5.api.items.groups.NestedItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.groups.SubItemGroup;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun5.utils.compatibility.VersionedPlayerHead;
-import io.github.thebusybiscuit.slimefun5.utils.compatibility.VersionedPlayerHead;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 
 public final class ItemGroups {
 
@@ -31,20 +31,33 @@ public final class ItemGroups {
     ).item());
     public static final DummyItemGroup PARTS = new DummyItemGroup(Keys.ITEM_GROUP_PARTS, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.CAT_PARTS), ThemeUtils.MAIN + "Part Building Guide"
     ).item());
-    public static final DummyItemGroup TOOLS = new DummyItemGroup(Keys.ITEM_GROUP_TOOLS, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", Material.DIAMOND_SWORD, ThemeUtils.MAIN + "Tool Building Guide"
+    public static final DummyItemGroup TOOLS = new DummyItemGroup(Keys.ITEM_GROUP_TOOLS, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.DIAMOND_SWORD), ThemeUtils.MAIN + "Tool Building Guide"
     ).item());
-    public static final DummyItemGroup ARMOUR = new DummyItemGroup(Keys.ITEM_GROUP_ARMOUR, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", Material.DIAMOND_CHESTPLATE, ThemeUtils.MAIN + "Armour Building Guide"
+    public static final DummyItemGroup ARMOUR = new DummyItemGroup(Keys.ITEM_GROUP_ARMOUR, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.DIAMOND_CHESTPLATE), ThemeUtils.MAIN + "Armour Building Guide"
     ).item());
     public static final DummyItemGroup TRAITS = new DummyItemGroup(Keys.ITEM_GROUP_PROPERTIES, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.CAT_TRAITS), ThemeUtils.MAIN + "Metal Traits"
     ).item());
-    public static final DummyItemGroup MODIFICATIONS = new DummyItemGroup(Keys.ITEM_GROUP_MODIFICATIONS, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", Material.REDSTONE, ThemeUtils.MAIN + "Mods"
+    public static final DummyItemGroup MODIFICATIONS = new DummyItemGroup(Keys.ITEM_GROUP_MODIFICATIONS, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.REDSTONE), ThemeUtils.MAIN + "Mods"
     ).item());
     public static final DummyItemGroup PART_DICT = new DummyItemGroup(Keys.ITEM_GROUP_PART_DICT, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.PART_PICKAXE_HEAD), ThemeUtils.MAIN + "Part Dictionary"
     ).item());
-    public static final DummyItemGroup DUMMY = new DummyItemGroup(Keys.ITEM_GROUP_DUMMY, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", Material.BARRIER, ThemeUtils.MAIN + "SlimeTinker Dummy"
+    public static final DummyItemGroup DUMMY = new DummyItemGroup(Keys.ITEM_GROUP_DUMMY, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.BARRIER), ThemeUtils.MAIN + "SlimeTinker Dummy"
     ).item());
 
     public static void set(SlimeTinker p) {
+        MAIN.setTheme("tools");
+        WORKSTATIONS.setTheme("machines");
+        MATERIALS.setTheme("resources");
+        MOLTEN_METALS.setTheme("resources");
+        ALLOYS.setTheme("resources");
+        CASTS.setTheme("resources");
+        PARTS.setTheme("resources");
+        TOOLS.setTheme("tools");
+        ARMOUR.setTheme("armor");
+        TRAITS.setTheme("tools");
+        MODIFICATIONS.setTheme("tools");
+        PART_DICT.setTheme("resources");
+
         MAIN.register(p);
         WORKSTATIONS.register(p);
         MATERIALS.register(p);

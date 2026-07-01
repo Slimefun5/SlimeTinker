@@ -7,10 +7,6 @@ import org.bukkit.Location;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.block.TileState;
-import org.bukkit.block.data.AnaloguePowerable;
-import org.bukkit.block.data.BlockData;
-import org.bukkit.block.data.Lightable;
-import org.bukkit.block.data.Powerable;
 import org.bukkit.entity.Player;
 
 import java.util.HashMap;
@@ -52,27 +48,11 @@ public final class BlockUtils {
     }
 
     public static void fakePower(Block block) {
-        BlockData blockData = block.getBlockData();
-        if (blockData instanceof Powerable) {
-            ((Powerable) blockData).setPowered(true);
-        } else if (blockData instanceof AnaloguePowerable) {
-            ((AnaloguePowerable) blockData).setPower(15);
-        } else if (blockData instanceof Lightable) {
-            ((Lightable) blockData).setLit(true);
-        }
-        block.setBlockData(blockData);
+        BlockDataCompat.fakePower(block);
     }
 
     public static void fakeUnPower(Block block) {
-        BlockData blockData = block.getBlockData();
-        if (blockData instanceof Powerable) {
-            ((Powerable) blockData).setPowered(false);
-        } else if (blockData instanceof AnaloguePowerable) {
-            ((AnaloguePowerable) blockData).setPower(0);
-        } else if (blockData instanceof Lightable) {
-            ((Lightable) blockData).setLit(false);
-        }
-        block.setBlockData(blockData);
+        BlockDataCompat.fakeUnPower(block);
     }
 
     public static Map<Location, Boolean> getStateMap() {

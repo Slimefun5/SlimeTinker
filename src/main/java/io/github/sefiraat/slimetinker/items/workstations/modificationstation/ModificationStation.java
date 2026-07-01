@@ -19,7 +19,6 @@ import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.persistence.PersistentDataContainer;
 
 import javax.annotation.Nonnull;
 import java.util.Map;
@@ -70,12 +69,11 @@ public class ModificationStation extends MenuBlock {
 
         ItemMeta im = item.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
 
-        Map<String, Integer> modMap = Modifications.getModificationMapTool(c);
+        Map<String, Integer> modMap = Modifications.getModificationMapTool(im);
 
         Mod mod = Modifications.getModificationDefinitionsTool().get(StackUtils.getIdOrType(modItem)); // The definition of the mod being created/updated
-        int modSlots = ItemUtils.getTinkerModifierSlots(c); // Number of free modification slots on the tool
+        int modSlots = ItemUtils.getTinkerModifierSlots(im); // Number of free modification slots on the tool
         int currentAmount = modMap.get(StackUtils.getIdOrType(modItem)); // The current value of that material loaded into the tool (not the level)
         int currentLevel = Modifications.getModLevel(mod, item); // The current level of this mod (or 0)
 
@@ -92,20 +90,20 @@ public class ModificationStation extends MenuBlock {
                 player.sendMessage(ThemeUtils.WARNING + "You do not have enough free Modification slots for this");
                 return;
             } else { // Remove mod slot
-                ItemUtils.setTinkerModifierSlots(c, modSlots - 1);
+                ItemUtils.setTinkerModifierSlots(im, modSlots - 1);
             }
         }  // Or continuing on with a previous mod so we can continue without a free slot
 
         if (requiredAmount <= modItem.getAmount()) { // We don't need the full amount (or the full amount will level up the tool)
             leftoverAmount = modItem.getAmount() - requiredAmount; // Remove what we need
-            Modifications.setModLevel(mod, c, currentLevel + 1);
+            Modifications.setModLevel(mod, im, currentLevel + 1);
             currentAmount = 0;
         } else {
             currentAmount = currentAmount + modItem.getAmount();
         }
 
         modMap.put(StackUtils.getIdOrType(modItem), currentAmount);
-        Modifications.setModificationMapTool(c, modMap);
+        Modifications.setModificationMapTool(im, modMap);
 
         item.setItemMeta(im);
         ItemStack newTool = item.clone();
@@ -130,12 +128,11 @@ public class ModificationStation extends MenuBlock {
 
         ItemMeta im = item.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
 
-        Map<String, Integer> modMap = Modifications.getModificationMapArmour(c);
+        Map<String, Integer> modMap = Modifications.getModificationMapArmour(im);
 
         Mod mod = Modifications.getModificationDefinitionsArmour().get(StackUtils.getIdOrType(modItem)); // The definition of the mod being created/updated
-        int modSlots = ItemUtils.getTinkerModifierSlots(c); // Number of free modification slots on the tool
+        int modSlots = ItemUtils.getTinkerModifierSlots(im); // Number of free modification slots on the tool
         int currentAmount = modMap.get(StackUtils.getIdOrType(modItem)); // The current value of that material loaded into the tool (not the level)
         int currentLevel = Modifications.getModLevel(mod, item); // The current level of this mod (or 0)
 
@@ -152,20 +149,20 @@ public class ModificationStation extends MenuBlock {
                 player.sendMessage(ThemeUtils.WARNING + "You do not have enough free Modification slots for this");
                 return;
             } else { // Remove mod slot
-                ItemUtils.setTinkerModifierSlots(c, modSlots - 1);
+                ItemUtils.setTinkerModifierSlots(im, modSlots - 1);
             }
         }  // Or continuing on with a previous mod so we can continue without a free slot
 
         if (requiredAmount <= modItem.getAmount()) { // We don't need the full amount (or the full amount will level up the tool)
             leftoverAmount = modItem.getAmount() - requiredAmount; // Remove what we need
-            Modifications.setModLevel(mod, c, currentLevel + 1);
+            Modifications.setModLevel(mod, im, currentLevel + 1);
             currentAmount = 0;
         } else {
             currentAmount = currentAmount + modItem.getAmount();
         }
 
         modMap.put(StackUtils.getIdOrType(modItem), currentAmount);
-        Modifications.setModificationMapArmour(c, modMap);
+        Modifications.setModificationMapArmour(im, modMap);
 
         item.setItemMeta(im);
         ItemStack newArmour = item.clone();

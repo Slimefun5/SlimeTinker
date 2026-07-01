@@ -24,32 +24,32 @@ public final class ThemeUtils {
     public static final ChatColor PASSIVE = ChatColor.GRAY;
     public static final ChatColor SUCCESS = ChatColor.GREEN;
 
-    public static final ChatColor MAIN = ChatColor.of("#21588f");
-    public static final ChatColor GUI_HEAD = ChatColor.of("#03fcdf");
-    public static final ChatColor CLICK_INFO = ChatColor.of("#e4ed32");
-    public static final ChatColor ITEM_TYPEDESC = ChatColor.of("#f0ea4f");
-    public static final ChatColor ITEM_CRAFTING = ChatColor.of("#dbcea9");
-    public static final ChatColor ITEM_MACHINE = ChatColor.of("#3295a8");
-    public static final ChatColor ITEM_RARE_DROP = ChatColor.of("#bf307f");
-    public static final ChatColor ITEM_BASE = ChatColor.of("#9e9e9e");
-    public static final ChatColor ITEM_CHEST = ChatColor.of("#b89b1c");
-    public static final ChatColor ITEM_MOLTEN_METAL = ChatColor.of("#a60a0a");
-    public static final ChatColor ITEM_LIQUID = ChatColor.of("#65dbb4");
-    public static final ChatColor ITEM_CAST = ChatColor.of("#ffe138");
-    public static final ChatColor ITEM_PART = ChatColor.of("#42c8f5");
-    public static final ChatColor ITEM_TOOL = ChatColor.of("#c2fc03");
-    public static final ChatColor ITEM_ARMOUR = ChatColor.of("#c2fc03");
-    public static final ChatColor ITEM_INFO = ChatColor.of("#21588f");
-    public static final ChatColor ITEM_MOD = ChatColor.of("#bf307f");
-    public static final ChatColor ITEM_PROP = ChatColor.of("#bf307f");
-    public static final ChatColor ITEM_MULTIBLOCK = ChatColor.of("#3295a8");
-    public static final ChatColor ADD_INFINITY = ChatColor.of("#7ecee0");
-    public static final ChatColor ADD_SLIMEFUN_WARFARE = ChatColor.of("#c1db4d");
-    public static final ChatColor ADD_DYNATECH = ChatColor.of("#60d1cd");
-    public static final ChatColor ADD_LITEXPANSION = ChatColor.of("#8a8a8a");
-    public static final ChatColor ADD_TRANSCENDENCE = ChatColor.of("#c242f5");
-    public static final ChatColor ADD_NETWORKS = ChatColor.of("#05ad08");
-    public static final ChatColor GUIDE = ChatColor.of("#444444");
+    public static final ChatColor MAIN = ColorCompat.of("#21588f");
+    public static final ChatColor GUI_HEAD = ColorCompat.of("#03fcdf");
+    public static final ChatColor CLICK_INFO = ColorCompat.of("#e4ed32");
+    public static final ChatColor ITEM_TYPEDESC = ColorCompat.of("#f0ea4f");
+    public static final ChatColor ITEM_CRAFTING = ColorCompat.of("#dbcea9");
+    public static final ChatColor ITEM_MACHINE = ColorCompat.of("#3295a8");
+    public static final ChatColor ITEM_RARE_DROP = ColorCompat.of("#bf307f");
+    public static final ChatColor ITEM_BASE = ColorCompat.of("#9e9e9e");
+    public static final ChatColor ITEM_CHEST = ColorCompat.of("#b89b1c");
+    public static final ChatColor ITEM_MOLTEN_METAL = ColorCompat.of("#a60a0a");
+    public static final ChatColor ITEM_LIQUID = ColorCompat.of("#65dbb4");
+    public static final ChatColor ITEM_CAST = ColorCompat.of("#ffe138");
+    public static final ChatColor ITEM_PART = ColorCompat.of("#42c8f5");
+    public static final ChatColor ITEM_TOOL = ColorCompat.of("#c2fc03");
+    public static final ChatColor ITEM_ARMOUR = ColorCompat.of("#c2fc03");
+    public static final ChatColor ITEM_INFO = ColorCompat.of("#21588f");
+    public static final ChatColor ITEM_MOD = ColorCompat.of("#bf307f");
+    public static final ChatColor ITEM_PROP = ColorCompat.of("#bf307f");
+    public static final ChatColor ITEM_MULTIBLOCK = ColorCompat.of("#3295a8");
+    public static final ChatColor ADD_INFINITY = ColorCompat.of("#7ecee0");
+    public static final ChatColor ADD_SLIMEFUN_WARFARE = ColorCompat.of("#c1db4d");
+    public static final ChatColor ADD_DYNATECH = ColorCompat.of("#60d1cd");
+    public static final ChatColor ADD_LITEXPANSION = ColorCompat.of("#8a8a8a");
+    public static final ChatColor ADD_TRANSCENDENCE = ColorCompat.of("#c242f5");
+    public static final ChatColor ADD_NETWORKS = ColorCompat.of("#05ad08");
+    public static final ChatColor GUIDE = ColorCompat.of("#444444");
 
     public static final String LORE_TYPE_CRAFT = ITEM_TYPEDESC + "Crafting Material";
     public static final String LORE_TYPE_MACHINE = ITEM_TYPEDESC + "Machine";
@@ -277,7 +277,7 @@ public final class ThemeUtils {
 
     @Nonnull
     public static String getLine() {
-        return PASSIVE + "-".repeat(25);
+        return PASSIVE + new String(new char[25]).replace('\0', '-');
     }
 }
 

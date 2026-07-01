@@ -6,26 +6,28 @@ import io.github.sefiraat.slimetinker.managers.SupportedPluginsManager;
 import io.github.sefiraat.slimetinker.runnables.TrailTick;
 import io.github.sefiraat.slimetinker.runnables.event.RemoveMagmaBlock;
 import io.github.sefiraat.slimetinker.runnables.event.RemovePoweredState;
+import io.github.sefiraat.slimetinker.utils.AttributeCompat;
+import io.github.sefiraat.slimetinker.utils.BlockDataCompat;
 import io.github.sefiraat.slimetinker.utils.BlockUtils;
 import io.github.sefiraat.slimetinker.utils.EntityUtils;
 import io.github.sefiraat.slimetinker.utils.GeneralUtils;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.sefiraat.slimetinker.utils.WorldUtils;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.protection.Interaction;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Color;
 import org.bukkit.Effect;
 import org.bukkit.Location;
 import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.Particle;
 import org.bukkit.World;
-import org.bukkit.attribute.Attribute;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
-import org.bukkit.block.data.Levelled;
 import org.bukkit.entity.ArmorStand;
 import org.bukkit.entity.Boss;
 import org.bukkit.entity.Entity;
@@ -80,13 +82,13 @@ public final class TickEvents {
             double x = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
             double y = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
             double z = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
-            location.getWorld().spawnParticle(Particle.DUST, location.clone().add(x, y, z), 1, green);
+            location.getWorld().spawnParticle(Particle.REDSTONE, location.clone().add(x, y, z), 1, green);
         }
         for (int i = 0; i <= 5; i++) {
             double x = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
             double y = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
             double z = ThreadLocalRandom.current().nextDouble(-2.5, 2.6);
-            location.getWorld().spawnParticle(Particle.DUST, location.clone().add(x, y, z), 1, red);
+            location.getWorld().spawnParticle(Particle.REDSTONE, location.clone().add(x, y, z), 1, red);
         }
         increaseEffect(PotionEffectType.SATURATION, friend.getPotionEffects(), 2);
     }
@@ -123,7 +125,7 @@ public final class TickEvents {
     }
 
     public static void headBillon(EventFriend friend) {
-        increaseEffect(PotionEffectType.HASTE, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.FAST_DIGGING, friend.getPotionEffects());
     }
 
     public static void headGold(EventFriend friend) {
@@ -179,7 +181,7 @@ public final class TickEvents {
     public static void bindWarpedRoot(EventFriend friend) {
         int rnd = ThreadLocalRandom.current().nextInt(1, 5);
         if (rnd == 1) {
-            friend.getPlayer().setHealth(Math.min(friend.getPlayer().getHealth() + 1, friend.getPlayer().getAttribute(Attribute.MAX_HEALTH).getValue()));
+            friend.getPlayer().setHealth(Math.min(friend.getPlayer().getHealth() + 1, AttributeCompat.getMaxHealth(friend.getPlayer())));
         }
     }
 
@@ -188,11 +190,11 @@ public final class TickEvents {
     }
 
     public static void rodIron(EventFriend friend) {
-        increaseEffect(PotionEffectType.STRENGTH, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.INCREASE_DAMAGE, friend.getPotionEffects());
     }
 
     public static void headAlubronze(EventFriend friend) {
-        increaseEffect(PotionEffectType.STRENGTH, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.INCREASE_DAMAGE, friend.getPotionEffects());
     }
 
     public static void rodSilver(EventFriend friend) {
@@ -200,7 +202,7 @@ public final class TickEvents {
     }
 
     public static void rodBillon(EventFriend friend) {
-        increaseEffect(PotionEffectType.JUMP_BOOST, friend.getPotionEffects(), 4);
+        increaseEffect(PotionEffectType.JUMP, friend.getPotionEffects(), 4);
     }
 
     public static void headBrass(EventFriend friend) {
@@ -214,12 +216,12 @@ public final class TickEvents {
     }
 
     public static void rodCorbronze(EventFriend friend) {
-        increaseEffect(PotionEffectType.NAUSEA, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.CONFUSION, friend.getPotionEffects());
     }
 
     public static void headDuralium(EventFriend friend) {
         if (ItemUtils.isTinkersBroken(friend.getTool())) {
-            increaseEffect(PotionEffectType.MINING_FATIGUE, friend.getPotionEffects());
+            increaseEffect(PotionEffectType.SLOW_DIGGING, friend.getPotionEffects());
         }
     }
 
@@ -232,11 +234,11 @@ public final class TickEvents {
     }
 
     public static void headMetal(EventFriend friend) {
-        increaseEffect(PotionEffectType.HASTE, friend.getPotionEffects(), 2);
+        increaseEffect(PotionEffectType.FAST_DIGGING, friend.getPotionEffects(), 2);
     }
 
     public static void headMythril(EventFriend friend) {
-        increaseEffect(PotionEffectType.HASTE, friend.getPotionEffects(), 2);
+        increaseEffect(PotionEffectType.FAST_DIGGING, friend.getPotionEffects(), 2);
         increaseEffect(PotionEffectType.SPEED, friend.getPotionEffects());
     }
 
@@ -281,7 +283,7 @@ public final class TickEvents {
     }
 
     public static void rodSingIron(EventFriend friend) {
-        increaseEffect(PotionEffectType.STRENGTH, friend.getPotionEffects(), 2);
+        increaseEffect(PotionEffectType.INCREASE_DAMAGE, friend.getPotionEffects(), 2);
     }
 
     public static void rodMythril(EventFriend friend) {
@@ -316,9 +318,9 @@ public final class TickEvents {
                         int rndY = ThreadLocalRandom.current().nextInt(0, 5);
                         int rndZ = ThreadLocalRandom.current().nextInt(-25, 26);
                         Location location = l.getLocation().clone().add(rndX, rndY, rndZ);
-                        if (entity.getWorld().getBlockAt(location).getType() == Material.AIR) {
+                        if (entity.getWorld().getBlockAt(location).getType() == MaterialCompat.safe(XMaterial.AIR)) {
                             entity.teleport(location);
-                            entity.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.TRIAL_SPAWNER_DETECT_PLAYER, 10);
+                            entity.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.SMOKE, 10);
                         }
                         break;
                     case 4:
@@ -340,11 +342,11 @@ public final class TickEvents {
     }
 
     public static void bindSlimesteel(EventFriend friend) {
-        increaseEffect(PotionEffectType.JUMP_BOOST, friend.getPotionEffects(), 2);
+        increaseEffect(PotionEffectType.JUMP, friend.getPotionEffects(), 2);
     }
 
     public static void headOsmiumSuperalloy(EventFriend friend) {
-        increaseEffect(PotionEffectType.MINING_FATIGUE, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.SLOW_DIGGING, friend.getPotionEffects());
     }
 
     public static void rodStarDust(EventFriend friend) {
@@ -390,7 +392,7 @@ public final class TickEvents {
     public static void linksGold(EventFriend friend) {
         List<Piglin> piglins = EntityUtils.getNearbyEntitiesByType(Piglin.class, friend.getPlayer(), 5, 5, 5);
         for (Piglin p : piglins) {
-            PersistentDataAPI.setString(p, Keys.ARMOUR_HAPPY_PIGLIN, friend.getPlayer().getUniqueId().toString());
+            Pdc.setString(p, Keys.ARMOUR_HAPPY_PIGLIN.toString(), friend.getPlayer().getUniqueId().toString());
             p.setTarget(null);
         }
     }
@@ -407,29 +409,29 @@ public final class TickEvents {
                     }
                 }
             }
-            Optional<Block> oBlock = blocks.stream().filter(b -> b.getType() == Material.GRASS_BLOCK).findFirst();
+            Optional<Block> oBlock = blocks.stream().filter(b -> b.getType() == MaterialCompat.safe(XMaterial.GRASS_BLOCK)).findFirst();
             if (oBlock.isPresent()) {
                 Block grass = oBlock.get();
                 Block above = grass.getRelative(BlockFace.UP);
-                if (above.getType() == Material.AIR && Slimefun.getProtectionManager().hasPermission(player, above, Interaction.PLACE_BLOCK)) {
+                if (above.getType() == MaterialCompat.safe(XMaterial.AIR) && Slimefun.getProtectionManager().hasPermission(player, above, Interaction.PLACE_BLOCK)) {
                     if (ThreadLocalRandom.current().nextInt(0, 101) == 0) {
-                        above.setType(Material.WITHER_ROSE);
+                        above.setType(MaterialCompat.safe(XMaterial.WITHER_ROSE));
                         return;
                     }
                     List<Material> flowers = Arrays.asList(
-                        Material.DANDELION,
-                        Material.POPPY,
-                        Material.BLUE_ORCHID,
-                        Material.ALLIUM,
-                        Material.AZURE_BLUET,
-                        Material.WHITE_TULIP,
-                        Material.ORANGE_TULIP,
-                        Material.PINK_TULIP,
-                        Material.RED_TULIP,
-                        Material.OXEYE_DAISY,
-                        Material.CORNFLOWER,
-                        Material.LILY_OF_THE_VALLEY,
-                        Material.SUNFLOWER
+                        MaterialCompat.safe(XMaterial.DANDELION),
+                        MaterialCompat.safe(XMaterial.POPPY),
+                        MaterialCompat.safe(XMaterial.BLUE_ORCHID),
+                        MaterialCompat.safe(XMaterial.ALLIUM),
+                        MaterialCompat.safe(XMaterial.AZURE_BLUET),
+                        MaterialCompat.safe(XMaterial.WHITE_TULIP),
+                        MaterialCompat.safe(XMaterial.ORANGE_TULIP),
+                        MaterialCompat.safe(XMaterial.PINK_TULIP),
+                        MaterialCompat.safe(XMaterial.RED_TULIP),
+                        MaterialCompat.safe(XMaterial.OXEYE_DAISY),
+                        MaterialCompat.safe(XMaterial.CORNFLOWER),
+                        MaterialCompat.safe(XMaterial.LILY_OF_THE_VALLEY),
+                        MaterialCompat.safe(XMaterial.SUNFLOWER)
                     );
                     above.setType(flowers.get(ThreadLocalRandom.current().nextInt(0, flowers.size())));
                 }
@@ -536,7 +538,7 @@ public final class TickEvents {
     public static void gambesonWarpedRoots(EventFriend friend) {
         if (GeneralUtils.testChance(1, 4)) {
             Player p = friend.getPlayer();
-            double maxHealth = p.getAttribute(Attribute.MAX_HEALTH).getValue();
+            double maxHealth = AttributeCompat.getMaxHealth(p);
             friend.getPlayer().setHealth(Math.min(p.getHealth() + 1, maxHealth));
         }
     }
@@ -574,7 +576,7 @@ public final class TickEvents {
         if (environment == World.Environment.NETHER) {
             increaseEffect(PotionEffectType.SPEED, friend.getPotionEffects(), 2);
         } else if (environment == World.Environment.THE_END) {
-            increaseEffect(PotionEffectType.SLOWNESS, friend.getPotionEffects());
+            increaseEffect(PotionEffectType.SLOW, friend.getPotionEffects());
         }
     }
 
@@ -600,7 +602,7 @@ public final class TickEvents {
     public static void linksSingGold(EventFriend friend) {
         List<Piglin> piglins = EntityUtils.getNearbyEntitiesByType(Piglin.class, friend.getPlayer(), 5, 5, 5);
         for (Piglin p : piglins) {
-            PersistentDataAPI.setString(p, Keys.ARMOUR_HAPPY_PIGLIN, friend.getPlayer().getUniqueId().toString());
+            Pdc.setString(p, Keys.ARMOUR_HAPPY_PIGLIN.toString(), friend.getPlayer().getUniqueId().toString());
             p.setTarget(null);
         }
     }
@@ -615,10 +617,9 @@ public final class TickEvents {
         for (int x = -2; x <= 2; x++) {
             for (int z = -2; z <= 2; z++) {
                 Block b = stoodBlock.getRelative(x, 0, z);
-                if (Slimefun.getProtectionManager().hasPermission(p, b, Interaction.PLACE_BLOCK) && b.getType() == Material.LAVA) {
-                    Levelled l = (Levelled) b.getBlockData();
-                    if (l.getLevel() == 0) {
-                        b.setType(Material.MAGMA_BLOCK);
+                if (Slimefun.getProtectionManager().hasPermission(p, b, Interaction.PLACE_BLOCK) && b.getType() == MaterialCompat.safe(XMaterial.LAVA)) {
+                    if (BlockDataCompat.isLavaSource(b)) {
+                        b.setType(MaterialCompat.safe(XMaterial.MAGMA_BLOCK));
                         RemoveMagmaBlock task = new RemoveMagmaBlock(b);
                         task.runTaskLater(SlimeTinker.getInstance(), 100);
                     }
@@ -691,8 +692,8 @@ public final class TickEvents {
             ItemStack i = friend.getActiveStack();
             ItemMeta im = i.getItemMeta();
             NamespacedKey k = Keys.ARMOUR_HYPERBOLIC_STORED;
-            int amount = PersistentDataAPI.getInt(im, k, 0);
-            PersistentDataAPI.setInt(im, k, Math.min(amount + 1, 50));
+            int amount = Pdc.getInt(im, k.toString(), 0);
+            Pdc.setInt(im, k.toString(), Math.min(amount + 1, 50));
             i.setItemMeta(im);
         }
     }
@@ -700,7 +701,7 @@ public final class TickEvents {
     public static void plateStardust(EventFriend friend) {
         Player p = friend.getPlayer();
         if (!GeneralUtils.day(p.getWorld()) && GeneralUtils.testChance(5, 100)) {
-            p.setHealth(Math.min(p.getAttribute(Attribute.MAX_HEALTH).getValue(), p.getHealth() + 1));
+            p.setHealth(Math.min(AttributeCompat.getMaxHealth(p), p.getHealth() + 1));
         }
     }
 
@@ -724,7 +725,7 @@ public final class TickEvents {
     }
 
     public static void plateOsmium(EventFriend friend) {
-        increaseEffect(PotionEffectType.SLOWNESS, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.SLOW, friend.getPotionEffects());
     }
 
     public static void plateUnpatentabilum(EventFriend friend) {
@@ -752,7 +753,7 @@ public final class TickEvents {
     }
 
     public static void plateReinforcedSlimesteel(EventFriend friend) {
-        increaseEffect(PotionEffectType.JUMP_BOOST, friend.getPotionEffects());
+        increaseEffect(PotionEffectType.JUMP, friend.getPotionEffects());
         increaseEffect(PotionEffectType.SPEED, friend.getPotionEffects());
     }
 
@@ -760,15 +761,15 @@ public final class TickEvents {
         if (GeneralUtils.testChance(1, 25)) {
             NamespacedKey key = Keys.STOP_EVENTS;
             Player player = friend.getPlayer();
-            if (!PersistentDataAPI.hasInt(player, key)) {
-                PersistentDataAPI.setInt(player, key, 1);
+            if (!Pdc.hasInt(player, key.toString())) {
+                Pdc.setInt(player, key.toString(), 1);
                 int rnd = ThreadLocalRandom.current().nextInt(7, 15);
                 for (int i = 0; i <= rnd; i++) {
                     int rndX = ThreadLocalRandom.current().nextInt(-5, 6);
                     int rndZ = ThreadLocalRandom.current().nextInt(-5, 6);
                     player.getWorld().strikeLightningEffect(player.getLocation().clone().add(rndX, 0, rndZ));
                 }
-                PersistentDataAPI.remove(player, key);
+                Pdc.remove(player, key.toString());
             }
         }
     }
@@ -783,7 +784,7 @@ public final class TickEvents {
 
     public static void plateBoomerite(EventFriend friend) {
         Player p = friend.getPlayer();
-        TNTPrimed tnt = (TNTPrimed) p.getWorld().spawnEntity(p.getLocation(), EntityType.TNT);
+        TNTPrimed tnt = (TNTPrimed) p.getWorld().spawnEntity(p.getLocation(), EntityType.PRIMED_TNT);
         tnt.setSource(friend.getPlayer());
         tnt.setVelocity(new Vector(p.getLocation().getDirection().getX(), 1, p.getLocation().getDirection().getZ()));
     }
@@ -839,7 +840,7 @@ public final class TickEvents {
 
     public static void setPlayerDaxiProof(Player player) {
         NamespacedKey key = new NamespacedKey(SupportedPluginsManager.TRANSCENDENCE_PLUGIN, "tinker");
-        PersistentDataAPI.setLong(player, key, System.currentTimeMillis() + 5000);
+        Pdc.setLong(player, key.toString(), System.currentTimeMillis() + 5000);
     }
 
     public static void plateAnniversary(EventFriend friend) {

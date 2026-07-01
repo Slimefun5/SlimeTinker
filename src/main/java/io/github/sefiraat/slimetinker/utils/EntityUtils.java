@@ -1,9 +1,9 @@
 package io.github.sefiraat.slimetinker.utils;
 
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import org.bukkit.Location;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.Particle;
 import org.bukkit.World;
 import org.bukkit.block.Block;
@@ -76,7 +76,7 @@ public final class EntityUtils {
      * @return True if damage SHOULD be ignored
      */
     public static boolean shouldIgnoreDamage(Entity e) {
-        return PersistentDataAPI.getBoolean(e, IGNORE_DAMAGE_KEY);
+        return Pdc.getBoolean(e, IGNORE_DAMAGE_KEY.toString());
     }
 
     public static double getFacing(@Nonnull Player p, @Nonnull Entity e) {

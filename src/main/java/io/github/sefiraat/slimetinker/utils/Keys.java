@@ -1,7 +1,7 @@
 package io.github.sefiraat.slimetinker.utils;
 
 import io.github.sefiraat.slimetinker.SlimeTinker;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 
 import javax.annotation.Nonnull;
 
@@ -43,6 +43,9 @@ public final class Keys {
     public static final NamespacedKey ST_MOD_LEVEL_DIAMOND = create("ST_mod_level_diamond");
     public static final NamespacedKey ST_MOD_LEVEL_EMERALD = create("ST_mod_level_emerald");
     public static final NamespacedKey ST_MOD_LEVEL_OBSIDIAN = create("ST_mod_level_obsidian");
+
+    // Marks a tool/armour whose display name has been translated by the per-holder name re-skin.
+    public static final NamespacedKey TOOL_I18N_MANAGED = create("ST_I18N");
 
     // Tool information
     public static final NamespacedKey TOOL_INFO_IS_TOOL = create("ST_Tool");
@@ -88,6 +91,16 @@ public final class Keys {
     @Nonnull
     public static NamespacedKey create(@Nonnull String key) {
         return new NamespacedKey(SlimeTinker.getInstance(), key);
+    }
+
+    @Nonnull
+    public static io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey sfKey(@Nonnull NamespacedKey key) {
+        return new io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey(key.getNamespace(), key.getKey());
+    }
+
+    @Nonnull
+    public static io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey sfCreate(@Nonnull String key) {
+        return new io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey("slimetinker", key);
     }
 
 }

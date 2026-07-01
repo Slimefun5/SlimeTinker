@@ -1,0 +1,1515 @@
+# Nederlandse itemvertalingen voor SlimeTinker
+# Items not listed fall back to English.
+ARMOUR_BOOTS_DUMMY:
+  name: "&aLaarzen van de Knutselaar"
+ARMOUR_CHESTPLATE_DUMMY:
+  name: "&aBorstplaat van de Knutselaar"
+ARMOUR_HELMET_DUMMY:
+  name: "&aHelm van de Knutselaar"
+ARMOUR_INFO:
+  name: "&3Pantser van de Knutselaar: Info"
+ARMOUR_LEGGINGS_DUMMY:
+  name: "&aBeenkappen van de Knutselaar"
+BLOCK_CAST_ADAMANTITE:
+  name: "&7Adamanitite Blok"
+BLOCK_CAST_ADVANCED_ALLOY:
+  name: "&7Geavanceerde Legering Blok"
+BLOCK_CAST_ALUMINUM:
+  name: "&7Aluminium Blok"
+BLOCK_CAST_ALU_BRASS:
+  name: "&7Aluminiummessing Blok"
+BLOCK_CAST_ALU_BRONZE:
+  name: "&7Aluminiumbrons Blok"
+BLOCK_CAST_ANNIVERSARIUM:
+  name: "&7Anniversarium Blok"
+BLOCK_CAST_BILLON:
+  name: "&7Billoen Blok"
+BLOCK_CAST_BOOMERITE:
+  name: "&7Boomeriet Blok"
+BLOCK_CAST_BRASS:
+  name: "&7Messing Blok"
+BLOCK_CAST_BRONZE:
+  name: "&7Brons Blok"
+BLOCK_CAST_COBALT:
+  name: "&7Kobalt Blok"
+BLOCK_CAST_COPPER:
+  name: "&7Koper Blok"
+BLOCK_CAST_COR_BRONZE:
+  name: "&7Korinthisch Brons Blok"
+BLOCK_CAST_CRINGLEIUM:
+  name: "&7Cringleium Blok"
+BLOCK_CAST_DAMASCUS_STEEL:
+  name: "&7Damaststaal Blok"
+BLOCK_CAST_DURALIUM:
+  name: "&7Duralium Blok"
+BLOCK_CAST_FERROSILICON:
+  name: "&7Ferrosilicium Blok"
+BLOCK_CAST_HARD_METAL:
+  name: "&7Gehard Metaal Blok"
+BLOCK_CAST_INFINITY:
+  name: "&7Oneindigheid Blok"
+BLOCK_CAST_IRIDIUM:
+  name: "&7Iridium Blok"
+BLOCK_CAST_LEAD:
+  name: "&7Lood Blok"
+BLOCK_CAST_LOVE:
+  name: "&7Liefde Blok"
+BLOCK_CAST_MAGNESIUM:
+  name: "&7Magnesium Blok"
+BLOCK_CAST_MAGNONIUM:
+  name: "&7Magnonium Blok"
+BLOCK_CAST_MAGSTEEL:
+  name: "&7MagStaal Blok"
+BLOCK_CAST_MAG_THOR:
+  name: "&7Mag-Thor Blok"
+BLOCK_CAST_MIXED_METAL:
+  name: "&7Gemengd Metaal Blok"
+BLOCK_CAST_MYTHRIL:
+  name: "&7Mithril Blok"
+BLOCK_CAST_NICE:
+  name: "&7Nice Blok"
+BLOCK_CAST_NICKEL:
+  name: "&7Nikkel Blok"
+BLOCK_CAST_OSMIUM:
+  name: "&7Osmium Blok"
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Osmium-superlegering Blok"
+BLOCK_CAST_REDSTONE_ALLOY:
+  name: "&7Redstone-legering Blok"
+BLOCK_CAST_REFINED_IRON:
+  name: "&7Geraffineerd IJzer Blok"
+BLOCK_CAST_REINFORCED:
+  name: "&7Versterkte Legering Blok"
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  name: "&7Versterkt Draconium Blok"
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Versterkt Slijmstaal Blok"
+BLOCK_CAST_SCRAP:
+  name: "&7Schroot Blok"
+BLOCK_CAST_SEFIRITE:
+  name: "&7Sefiriet Blok"
+BLOCK_CAST_SILVER:
+  name: "&7Zilver Blok"
+BLOCK_CAST_SLIMESTEEL:
+  name: "&7Slijmstaal Blok"
+BLOCK_CAST_SMITHIUM:
+  name: "&7Smithium Blok"
+BLOCK_CAST_SOLDER:
+  name: "&7Soldeer Blok"
+BLOCK_CAST_STAINLESSSTEEL:
+  name: "&7Roestvrij Staal Blok"
+BLOCK_CAST_STEEL:
+  name: "&7Staal Blok"
+BLOCK_CAST_TIN:
+  name: "&7Tin Blok"
+BLOCK_CAST_TITANIUM:
+  name: "&7Titanium Blok"
+BLOCK_CAST_UNPATENTABILUM:
+  name: "&7Unpatentabilum Blok"
+BLOCK_CAST_VOID:
+  name: "&7Leegte Blok"
+BLOCK_CAST_ZINC:
+  name: "&7Zink Blok"
+CAST_AXE_HEAD:
+  name: "&eVorm: Bijlkop"
+CAST_BLOCK:
+  name: "&eVorm: Metaal Blok"
+CAST_BOOT_PLATE:
+  name: "&eVorm: Laarsplaten"
+CAST_CHEST_PLATE:
+  name: "&eVorm: Borstplaten"
+CAST_GEM:
+  name: "&eVorm: Edelsteen"
+CAST_HELM_PLATE:
+  name: "&eVorm: Helmplaten"
+CAST_HOEHEAD:
+  name: "&eVorm: Schoffelkop"
+CAST_INGOT:
+  name: "&eVorm: Metaal Staaf"
+CAST_LEG_PLATE:
+  name: "&eVorm: Beenplaten"
+CAST_MAIL_LINK:
+  name: "&eVorm: Maliënschakels"
+CAST_NUGGET:
+  name: "&eVorm: Metaal Klompje"
+CAST_PICKAXEHEAD:
+  name: "&eVorm: Houweelkop"
+CAST_REPAIRKIT:
+  name: "&eVorm: Reparatieset"
+CAST_SHOVELHEAD:
+  name: "&eVorm: Schepkop"
+CAST_SWORDBLADE:
+  name: "&eVorm: Zwaardkling"
+CAST_TOOLROD:
+  name: "&eVorm: Gereedschapsstaaf"
+DIE_AXE_HEAD:
+  name: "&eMatrijs: Stenen Bijlkop"
+DIE_BOOT_PLATE:
+  name: "&eMatrijs: Stenen Laarsplaten"
+DIE_CHEST_PLATE:
+  name: "&eMatrijs: Stenen Borstplaten"
+DIE_HELM_PLATE:
+  name: "&eMatrijs: Stenen Helmplaten"
+DIE_HOE_HEAD:
+  name: "&eMatrijs: Stenen Schoffelkop"
+DIE_LEG_PLATE:
+  name: "&eMatrijs: Stenen Beenplaten"
+DIE_MAIL_LINK:
+  name: "&eMatrijs: Maliënschakels"
+DIE_PICKAXE_HEAD:
+  name: "&eMatrijs: Stenen Houweelkop"
+DIE_REPAIR_KIT:
+  name: "&eMatrijs: Reparatieset"
+DIE_SHOVEL_HEAD:
+  name: "&eMatrijs: Stenen Schepkop"
+DIE_SWORD_BLADE:
+  name: "&eMatrijs: Stenen Zwaardkling"
+DIE_TOOL_ROD:
+  name: "&eMatrijs: Gereedschapsstaaf"
+DUMMY_MODIFICATION_STATION:
+  name: "&3Modificatiestation van de Knutselaar"
+DUMMY_TINKERS_ARMOUR_TABLE:
+  name: "&3Pantsertafel van de Knutselaar"
+DUMMY_TINKERS_SMELTERY:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_SMELTERY_MULTI:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_SMELTERY_PROP:
+  name: "&3Smelterij van de Knutselaar"
+DUMMY_TINKERS_TABLE:
+  name: "&3Gereedschapstafel van de Knutselaar"
+GROUT:
+  name: "&7Voegmortel"
+INGOT_CAST_ANNIVERSARIUM:
+  name: "&7Anniversarium Staaf"
+INGOT_CAST_BOOMERITE:
+  name: "&7Boomeriet Staaf"
+INGOT_CAST_CRINGLEIUM:
+  name: "&7Cringleium Staaf"
+INGOT_CAST_DAXI_ABSORPTION:
+  name: "&7Absorptie Daxi Staaf"
+INGOT_CAST_DAXI_FORTITUDE:
+  name: "&7Standvastigheid Daxi Staaf"
+INGOT_CAST_DAXI_REGENERATION:
+  name: "&7Regeneratie Daxi Staaf"
+INGOT_CAST_DAXI_SATURATION:
+  name: "&7Verzadiging Daxi Staaf"
+INGOT_CAST_DAXI_STRENGTH:
+  name: "&7Kracht Daxi Staaf"
+INGOT_CAST_DEVOTION:
+  name: "&7Toewijding Staaf"
+INGOT_CAST_FONDNESS:
+  name: "&7Genegenheid Staaf"
+INGOT_CAST_LOVE:
+  name: "&7Liefde Staaf"
+INGOT_CAST_NICE:
+  name: "&7Nice Staaf"
+INGOT_CAST_PASSION:
+  name: "&7Passie Staaf"
+INGOT_CAST_REINFORCED_DRACONIUM:
+  name: "&7Versterkt Draconium Staaf"
+INGOT_CAST_SEFIRITE:
+  name: "&7Sefiriet Staaf"
+INGOT_CAST_SMITHIUM:
+  name: "&7Smithium Staaf"
+MOD_DIAMOND_DUMMY:
+  name: "&dModificatie: Diamant"
+MOD_EMERALD_DUMMY:
+  name: "&dModificatie: Smaragd"
+MOD_LAPIS_DUMMY:
+  name: "&dModificatie: Lapis"
+MOD_PLATE:
+  name: "&dVersterkte Plaat"
+MOD_PLATE_DUMMY:
+  name: "&dModificatie: Versterkte Plaat"
+MOD_QUARTZ_DUMMY:
+  name: "&dModificatie: Kwarts"
+MOD_REDSTONE_DUMMY:
+  name: "&dModificatie: Redstone"
+NUGGET_CAST_ADAMANTITE:
+  name: "&7Adamantiet Klompje"
+NUGGET_CAST_ADVANCED_ALLOY:
+  name: "&7Geavanceerde Legering Klompje"
+NUGGET_CAST_ALUMINUM:
+  name: "&7Aluminium Klompje"
+NUGGET_CAST_ALU_BRASS:
+  name: "&7Aluminiummessing Klompje"
+NUGGET_CAST_ALU_BRONZE:
+  name: "&7Aluminiumbrons Klompje"
+NUGGET_CAST_ANNIVERSARIUM:
+  name: "&7Anniversarium Klompje"
+NUGGET_CAST_BILLON:
+  name: "&7Billoen Klompje"
+NUGGET_CAST_BOOMERITE:
+  name: "&7Boomeriet Klompje"
+NUGGET_CAST_BRASS:
+  name: "&7Messing Klompje"
+NUGGET_CAST_BRONZE:
+  name: "&7Brons Klompje"
+NUGGET_CAST_COAL:
+  name: "&7Kool Klompje"
+NUGGET_CAST_COBALT:
+  name: "&7Kobalt Klompje"
+NUGGET_CAST_COPPER:
+  name: "&7Koper Klompje"
+NUGGET_CAST_COR_BRONZE:
+  name: "&7Korinthisch Brons Klompje"
+NUGGET_CAST_CRINGLEIUM:
+  name: "&7Cringleium Klompje"
+NUGGET_CAST_DAMASCUS_STEEL:
+  name: "&7Damaststaal Klompje"
+NUGGET_CAST_DAXI_ABSORPTION:
+  name: "&7Absorptie Daxi Klompje"
+NUGGET_CAST_DAXI_FORTITUDE:
+  name: "&7Standvastigheid Daxi Klompje"
+NUGGET_CAST_DAXI_REGENERATION:
+  name: "&7Regeneratie Daxi Klompje"
+NUGGET_CAST_DAXI_SATURATION:
+  name: "&7Verzadiging Daxi Klompje"
+NUGGET_CAST_DAXI_STRENGTH:
+  name: "&7Kracht Daxi Klompje"
+NUGGET_CAST_DEVOTION:
+  name: "&7Toewijding Klompje"
+NUGGET_CAST_DURALIUM:
+  name: "&7Duralium Klompje"
+NUGGET_CAST_FERROSILICON:
+  name: "&7Ferrosilicium Klompje"
+NUGGET_CAST_FONDNESS:
+  name: "&7Genegenheid Klompje"
+NUGGET_CAST_HARD_METAL:
+  name: "&7Gehard Metaal Klompje"
+NUGGET_CAST_INFINITY:
+  name: "&7Oneindigheid Klompje"
+NUGGET_CAST_IRIDIUM:
+  name: "&7Iridium Klompje"
+NUGGET_CAST_LEAD:
+  name: "&7Lood Klompje"
+NUGGET_CAST_LOVE:
+  name: "&7Liefde Klompje"
+NUGGET_CAST_MAGNESIUM:
+  name: "&7Magnesium Klompje"
+NUGGET_CAST_MAGNONIUM:
+  name: "&7Magnonium Klompje"
+NUGGET_CAST_MAGSTEEL:
+  name: "&7MagStaal Klompje"
+NUGGET_CAST_MAG_THOR:
+  name: "&7Mag-Thor Klompje"
+NUGGET_CAST_MIXED_METAL:
+  name: "&7Gemengd Metaal Klompje"
+NUGGET_CAST_MYTHRIL:
+  name: "&7Mithril Klompje"
+NUGGET_CAST_NICE:
+  name: "&7Nice Klompje"
+NUGGET_CAST_NICKEL:
+  name: "&7Nikkel Klompje"
+NUGGET_CAST_OSMIUM:
+  name: "&7Osmium Klompje"
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Osmium-superlegering Klompje"
+NUGGET_CAST_PASSION:
+  name: "&7Passie Klompje"
+NUGGET_CAST_REDSTONE_ALLOY:
+  name: "&7Redstone-legering Klompje"
+NUGGET_CAST_REFINED_IRON:
+  name: "&7Geraffineerd IJzer Klompje"
+NUGGET_CAST_REINFORCED:
+  name: "&7Versterkte Legering Klompje"
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  name: "&7Versterkt Draconium Klompje"
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Versterkt Slijmstaal Klompje"
+NUGGET_CAST_SCRAP:
+  name: "&7Schroot Klompje"
+NUGGET_CAST_SEFIRITE:
+  name: "&7Sefiriet Klompje"
+NUGGET_CAST_SILVER:
+  name: "&7Zilver Klompje"
+NUGGET_CAST_SLIMESTEEL:
+  name: "&7Slijmstaal Klompje"
+NUGGET_CAST_SMITHIUM:
+  name: "&7Smithium Klompje"
+NUGGET_CAST_SOLDER:
+  name: "&7Soldeer Klompje"
+NUGGET_CAST_STAINLESSSTEEL:
+  name: "&7Roestvrij Staal Klompje"
+NUGGET_CAST_STEEL:
+  name: "&7Staal Klompje"
+NUGGET_CAST_TIN:
+  name: "&7Tin Klompje"
+NUGGET_CAST_TITANIUM:
+  name: "&7Titanium Klompje"
+NUGGET_CAST_UNPATENTABILUM:
+  name: "&7Unpatentabilum Klompje"
+NUGGET_CAST_ZINC:
+  name: "&7Zink Klompje"
+PART_AXE_HEAD_DUMMY:
+  name: "&eOnderdeel: Bijlkop"
+PART_BINDING_DUMMY:
+  name: "&eOnderdeel: Binding"
+PART_BINDING_GENERAL_DISPLAY:
+  name: "&7Binding Materiaal"
+PART_BOOT_PLATE_DUMMY:
+  name: "&eOnderdeel: Laarsplaten"
+PART_CHEST_PLATE_DUMMY:
+  name: "&eOnderdeel: Borstplaten"
+PART_GAMBESON_DUMMY:
+  name: "&eOnderdeel: Wambuis"
+PART_GAMBESON_GENERAL_DISPLAY:
+  name: "&7Wambuis Materiaal"
+PART_HELM_PLATE_DUMMY:
+  name: "&eOnderdeel: Helmplaten"
+PART_HOE_HEAD_DUMMY:
+  name: "&eOnderdeel: Schoffelkop"
+PART_LEG_PLATE_DUMMY:
+  name: "&eOnderdeel: Beenplaten"
+PART_MAIL_LINKS_DUMMY:
+  name: "&eOnderdeel: Maliënschakels"
+PART_PICKAXE_HEAD_DUMMY:
+  name: "&eOnderdeel: Houweelkop"
+PART_REPAIR_KIT_DUMMY:
+  name: "&eOnderdeel: Reparatieset"
+PART_SHOVEL_HEAD_DUMMY:
+  name: "&eOnderdeel: Schepkop"
+PART_SWORD_BLADE_DUMMY:
+  name: "&eOnderdeel: Zwaardkling"
+PART_TOOL_ROD_DUMMY:
+  name: "&eOnderdeel: Gereedschapsstaaf"
+PROP_BINDING:
+  name: "&bOnderdeel: Bindmiddel"
+PROP_GAMBESON:
+  name: "&bOnderdeel: Wambuis"
+PROP_HEAD:
+  name: "&bOnderdeel: Kop"
+PROP_LINKS:
+  name: "&bOnderdeel: Maliënschakels"
+PROP_PLATES:
+  name: "&bOnderdeel: Platen"
+PROP_ROD:
+  name: "&bOnderdeel: Gereedschapsstaaf"
+SEARED_BRICK:
+  name: "&7Gebakken Baksteen"
+SEARED_BRICK_BLOCK:
+  name: "&7Gebakken Baksteenblok"
+SEARED_TANK:
+  name: "&7Gebakken Tank"
+SMELTERY_CONTROLLER:
+  name: "&3Smelterij-controller"
+SPOUT:
+  name: "&7Gebakken Tuit"
+TINKERS_ARMOUR_TABLE:
+  name: "&3Pantsertafel van de Knutselaar"
+TINKERS_MOD_STATION:
+  name: "&3Modificatiestation van de Knutselaar"
+TINKERS_REPAIR_BENCH:
+  name: "&3Reparatiebank van de Knutselaar"
+TINKERS_SMELTERY_CORE:
+  name: "&3Smelterij van de Knutselaar"
+TINKERS_SWAPPING_STATION:
+  name: "&3Verwisselstation van de Knutselaar"
+TINKERS_TABLE:
+  name: "&3Gereedschapstafel van de Knutselaar"
+TINKERS_WORKBENCH:
+  name: "&3Werkbank van de Knutselaar"
+TOOL_AXE_DUMMY:
+  name: "&aBijl van de Knutselaar"
+TOOL_HOE_DUMMY:
+  name: "&aSchoffel van de Knutselaar"
+TOOL_INFO:
+  name: "&3Gereedschap van de Knutselaar: Info"
+TOOL_PICKAXE_DUMMY:
+  name: "&aHouweel van de Knutselaar"
+TOOL_SHOVEL_DUMMY:
+  name: "&aSchep van de Knutselaar"
+TOOL_SWORD_DUMMY:
+  name: "&aZwaard van de Knutselaar"
+
+IRON_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten IJzer"
+STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Stabiliteit"
+SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Scherp 1"
+STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Standvastig"
+RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Roestig"
+PART_HEAD_SWORDIRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEIRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEIRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKIRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELIRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_IRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETIRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEIRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSIRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSIRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_IRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_IRON:
+  name: "&x&8&C&8&C&8&CIJzeren&x&4&2&C&8&F&5 Reparatieset"
+GOLD_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Goud"
+GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Gouden Sluier"
+ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Al Wat Blinkt"
+PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Welvarend"
+BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Ruilhandel"
+PART_HEAD_SWORDGOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEGOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEGOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKGOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELGOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_GOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETGOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEGOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSGOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSGOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_GOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_GOLD:
+  name: "&x&F&F&E&1&3&8Gouden&x&4&2&C&8&F&5 Reparatieset"
+COPPER_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Koper"
+BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Hersens, Geen Spierballen"
+CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Geleidend"
+BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Beginner"
+TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Aangeslagen"
+PART_HEAD_SWORDCOPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOECOPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXECOPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKCOPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELCOPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_COPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETCOPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATECOPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSCOPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSCOPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_COPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_COPPER:
+  name: "&x&C&9&9&7&3&2Koperen&x&4&2&C&8&F&5 Reparatieset"
+LEAD_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Lood"
+POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Giftig"
+LEECH_TRAIT_PROP_ROD_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Bloedzuiger"
+SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Ziekelijk"
+SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Ziekelijk"
+PART_HEAD_SWORDLEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOELEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXELEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKLEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELLEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_LEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETLEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATELEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSLEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSLEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_LEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_LEAD:
+  name: "&x&9&0&4&3&B&ALoden&x&4&2&C&8&F&5 Reparatieset"
+SILVER_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Zilver"
+ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Betoverend"
+SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Zachte Aanraking"
+CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Geleidbaarheid"
+ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Betoverend"
+PART_HEAD_SWORDSILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOESILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXESILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKSILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELSILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_SILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETSILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATESILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSSILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSSILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_SILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_SILVER:
+  name: "&x&D&4&D&4&D&4Zilveren&x&4&2&C&8&F&5 Reparatieset"
+ALUMINUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Aluminium"
+RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Recyclebaar"
+SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Zacht"
+FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Folie"
+EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Makkelijk Vormbaar"
+PART_HEAD_SWORDALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_ALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Beenstukplaten"
+PART_PLATES_BOOTSALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_ALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_ALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Reparatieset"
+TIN_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Tin"
+MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Smeedbaar"
+CAN_TRAIT_PROP_ROD_TIN_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Blik"
+NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Roestvrij"
+BOOST_TRAIT_PROP_LINKS_TIN_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Versterking"
+PART_HEAD_SWORDTIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOETIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXETIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKTIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELTIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_TIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETTIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATETIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSTIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Beenstukplaten"
+PART_PLATES_BOOTSTIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_TIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_TIN:
+  name: "&x&A&8&9&B&9&BTin&x&4&2&C&8&F&5 Reparatieset"
+ZINC_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Zink"
+GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Gracieus"
+SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Superlicht"
+SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Sluipend"
+ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Acupunctuur"
+PART_HEAD_SWORDZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_ZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Beenstukplaten"
+PART_PLATES_BOOTSZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_ZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_ZINC:
+  name: "&x&9&B&A&8&A&6Zink&x&4&2&C&8&F&5 Reparatieset"
+MAGNESIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Magnesium"
+FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Brandbaar"
+MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Magnetesium"
+LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : Licht"
+MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FEigenschap : MagneSight™"
+PART_HEAD_SWORDMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_MAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Beenstukplaten"
+PART_PLATES_BOOTSMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_MAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_MAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnesium&x&4&2&C&8&F&5 Reparatieset"
+COAL_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Kool"
+STEEL_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Staal"
+STEEL_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Staal"
+STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Roestvast"
+LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Lichtgewicht"
+HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Robuust"
+STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Sterk"
+PART_HEAD_SWORDSTEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOESTEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXESTEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKSTEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELSTEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_STEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETSTEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATESTEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSSTEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Beenstukplaten"
+PART_PLATES_BOOTSSTEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_STEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_STEEL:
+  name: "&x&D&1&D&1&D&1Staal&x&4&2&C&8&F&5 Reparatieset"
+DAMASCUS_STEEL_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Damaststaal"
+DAMASCUS_STEEL_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Damaststaal"
+VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Vampirisme"
+NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Nachtsluiper"
+COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Samengesteld"
+SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Snroht"
+PART_HEAD_SWORDDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_DAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_DAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_DAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CDamaststaal&x&4&2&C&8&F&5 Reparatieset"
+DURALIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Duralium"
+DURALIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Duralium"
+DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Duurzaam"
+EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Eenvoudig Te Repareren"
+DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Duurzaam"
+SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Schokabsorberend"
+PART_HEAD_SWORDDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_DURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_DURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_DURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Reparatieset"
+BRONZE_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Brons"
+BRONZE_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Brons"
+RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Weerstand"
+INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Ingheights"
+FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Boer"
+BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Broos"
+PART_HEAD_SWORDBRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEBRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEBRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKBRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELBRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_BRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETBRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEBRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSBRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSBRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_BRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_BRONZE:
+  name: "&x&8&7&7&4&3&5Brons&x&4&2&C&8&F&5 Reparatieset"
+ALUMINUM_BRONZE_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Aluminiumbrons"
+ALUMINUM_BRONZE_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Aluminiumbrons"
+SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Scherp 2"
+BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Broos"
+BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Prachtig"
+EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Uitwerpen!"
+PART_HEAD_SWORDALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_ALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_ALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_ALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DAluminiumbrons&x&4&2&C&8&F&5 Reparatieset"
+HARDENED_METAL_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Gehard Metaal"
+HARDENED_METAL_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Gehard Metaal"
+TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Stevig Spul"
+HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Zwaar"
+TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Verstevigd"
+DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Dwergenvaardigheden"
+PART_HEAD_SWORDHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_HARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_HARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_HARDENED_METAL:
+  name: "&x&2&9&2&5&1&AGehard Metaal&x&4&2&C&8&F&5 Reparatieset"
+CORINTHIAN_BRONZE_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Corinthisch Brons"
+CORINTHIAN_BRONZE_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Corinthisch Brons"
+FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Vlammend Heet"
+TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Te Heet Om Aan Te Raken"
+SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Superheet"
+WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Warmbloedig"
+PART_HEAD_SWORDCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Corinthisch Brons&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOECORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Corinthisch Brons&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXECORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Corinthisch Brons&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Corinthisch Brons&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Corinthisch Brons&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_CORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Korinthisch Brons&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Korinthisch Brons&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Korinthisch Brons&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Korinthisch Brons&x&4&2&C&8&F&5 Beenbeschermerplaten"
+PART_PLATES_BOOTSCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Korinthisch Brons&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_CORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Korinthisch Brons&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_CORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Korinthisch Brons&x&4&2&C&8&F&5 Reparatieset"
+SOLDER_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Soldeer"
+SOLDER_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Soldeer"
+HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Verborgen"
+FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Versmolten"
+SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Zachte Landing"
+FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Versmolten"
+PART_HEAD_SWORDSOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOESOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXESOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKSOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELSOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_SOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETSOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATESOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSSOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Beenbeschermerplaten"
+PART_PLATES_BOOTSSOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_SOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_SOLDER:
+  name: "&x&B&7&A&F&B&DSoldeer&x&4&2&C&8&F&5 Reparatieset"
+BILLON_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Biljoen"
+BILLON_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Biljoen"
+FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Snel"
+SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Veren"
+WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : WHM"
+HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Warmtegeleider"
+PART_HEAD_SWORDBILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEBILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEBILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKBILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELBILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_BILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETBILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEBILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSBILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Beenbeschermerplaten"
+PART_PLATES_BOOTSBILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_BILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_BILLON:
+  name: "&x&B&0&C&2&B&EBiljoen&x&4&2&C&8&F&5 Reparatieset"
+BRASS_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Messing"
+BRASS_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Messing"
+STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Stijf"
+OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Belucht"
+BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Band"
+SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Scarpaaarr!"
+PART_HEAD_SWORDBRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEBRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEBRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKBRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELBRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_BRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETBRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEBRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSBRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Beenbeschermerplaten"
+PART_PLATES_BOOTSBRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_BRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_BRASS:
+  name: "&x&D&B&C&D&4&BMessing&x&4&2&C&8&F&5 Reparatieset"
+ALUMINUM_BRASS_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Aluminiummessing"
+ALUMINUM_BRASS_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Aluminiummessing"
+ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Abra"
+STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Leergierig"
+MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Magus"
+ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Ontsnapping"
+PART_HEAD_SWORDALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_ALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Borstplaatplaten"
+PART_PLATES_LEGGINGSALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Beenbeschermerplaten"
+PART_PLATES_BOOTSALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_ALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_ALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Aluminiummessing&x&4&2&C&8&F&5 Reparatieset"
+NICKEL_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Nikkel"
+NICKEL_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Nikkel"
+CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Geladen Kop -"
+CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Geladen Staaf -"
+MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Magnetisch -"
+MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Magnetisch -"
+PART_HEAD_SWORDNICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOENICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXENICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKNICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELNICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_NICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETNICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATENICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSNICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSNICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_NICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_NICKEL:
+  name: "&x&E&B&E&B&E&BNikkel&x&4&2&C&8&F&5 Reparatieset"
+COBALT_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Kobalt"
+COBALT_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Kobalt"
+CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Geladen Kop +"
+CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Geladen Steel +"
+MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Magnetisch +"
+MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Magnetisch +"
+PART_HEAD_SWORDCOBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOECOBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXECOBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKCOBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELCOBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_COBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETCOBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATECOBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSCOBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSCOBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_COBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_COBALT:
+  name: "&x&9&E&9&E&9&EKobalt&x&4&2&C&8&F&5 Reparatieset"
+REINFORCED_ALLOY_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Versterkte Legering"
+REINFORCED_ALLOY_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Versterkte Legering"
+BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Lomp"
+REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Versterkt"
+REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Versterkbaar"
+WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FEigenschap : Witherbestendig"
+PART_HEAD_SWORDREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_REINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Steel"
+PART_PLATES_HELMETREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_REINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_REINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Versterkte Legering&x&4&2&C&8&F&5 Reparatieset"
+WORKS_TRAIT_PROP_BINDING_STRING:
+  name: "&x&B&F&3&0&7&FEigenschap : Werkt"
+WORKS_TRAIT_PROP_GAMBESON_STRING:
+  name: "&x&B&F&3&0&7&FEigenschap : Werkt"
+PART_BINDING_STRING:
+  name: "&x&F&5&F&5&F&5Draad&x&4&2&C&8&F&5 Binding"
+PART_GAMBESON_STRING:
+  name: "&x&F&5&F&5&F&5Draad&x&4&2&C&8&F&5 Wambuis"
+GROWTH_TRAIT_PROP_BINDING_VINE:
+  name: "&x&B&F&3&0&7&FEigenschap : Groei"
+GROWTH_TRAIT_PROP_GAMBESON_VINE:
+  name: "&x&B&F&3&0&7&FEigenschap : Groei"
+PART_BINDING_VINE:
+  name: "&x&4&C&A&8&6&BRank&x&4&2&C&8&F&5 Binding"
+PART_GAMBESON_VINE:
+  name: "&x&4&C&A&8&6&BRank&x&4&2&C&8&F&5 Wambuis"
+DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
+  name: "&x&B&F&3&0&7&FEigenschap : Verval"
+DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
+  name: "&x&B&F&3&0&7&FEigenschap : Verval"
+PART_BINDING_CRIMSON_ROOT:
+  name: "&x&B&5&3&6&5&EKarmozijnen Wortel&x&4&2&C&8&F&5 Binding"
+PART_GAMBESON_CRIMSON_ROOT:
+  name: "&x&B&5&3&6&5&EKarmozijnen Wortel&x&4&2&C&8&F&5 Wambuis"
+REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
+  name: "&x&B&F&3&0&7&FEigenschap : Verfrissend"
+REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
+  name: "&x&B&F&3&0&7&FEigenschap : Verfrissend"
+PART_BINDING_WARPED_ROOT:
+  name: "&x&3&6&B&5&4&9Verwrongen Wortel&x&4&2&C&8&F&5 Binding"
+PART_GAMBESON_WARPED_ROOT:
+  name: "&x&3&6&B&5&4&9Verwrongen Wortel&x&4&2&C&8&F&5 Wambuis"
+DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
+  name: "&x&B&F&3&0&7&FEigenschap : Doem"
+DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
+  name: "&x&B&F&3&0&7&FEigenschap : Doem"
+PART_BINDING_WEEPING_VINE:
+  name: "&x&9&C&0&9&1&DWenende Rank&x&4&2&C&8&F&5 Binding"
+PART_GAMBESON_WEEPING_VINE:
+  name: "&x&9&C&0&9&1&DWenende Rank&x&4&2&C&8&F&5 Wambuis"
+ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
+  name: "&x&B&F&3&0&7&FEigenschap : Aantrekking"
+ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
+  name: "&x&B&F&3&0&7&FEigenschap : Aantrekking"
+PART_BINDING_TWISTED_VINE:
+  name: "&x&1&B&8&0&4&5Gedraaide Rank&x&4&2&C&8&F&5 Binding"
+PART_GAMBESON_TWISTED_VINE:
+  name: "&x&1&B&8&0&4&5Gedraaide Rank&x&4&2&C&8&F&5 Wambuis"
+SLIME_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Slijm"
+BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
+  name: "&x&B&F&3&0&7&FEigenschap : Veerkrachtig"
+BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
+  name: "&x&B&F&3&0&7&FEigenschap : Veerkrachtig"
+PART_BINDING_SLIME:
+  name: "&x&2&9&E&0&1&FSlijm&x&4&2&C&8&F&5 Binding"
+PART_GAMBESON_SLIME:
+  name: "&x&2&9&E&0&1&FSlijm&x&4&2&C&8&F&5 Wambuis"
+REDSTONE_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Redstone"
+SILICON_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Silicium"
+SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
+  name: "&x&B&F&3&0&7&FEigenschap : Trage Leerling"
+SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
+  name: "&x&B&F&3&0&7&FEigenschap : Trage Leerling"
+PART_BINDING_SILICON:
+  name: "&x&F&2&F&2&F&2Silicium&x&4&2&C&8&F&5 Binding"
+PART_GAMBESON_SILICON:
+  name: "&x&F&2&F&2&F&2Silicium&x&4&2&C&8&F&5 Wambuis"
+THICK_TRAIT_PROP_BINDING_LEATHER:
+  name: "&x&B&F&3&0&7&FEigenschap : Dik"
+THICK_TRAIT_PROP_GAMBESON_LEATHER:
+  name: "&x&B&F&3&0&7&FEigenschap : Dik"
+PART_BINDING_LEATHER:
+  name: "&x&9&1&8&0&5&6Leer&x&4&2&C&8&F&5 Binding"
+PART_GAMBESON_LEATHER:
+  name: "&x&9&1&8&0&5&6Leer&x&4&2&C&8&F&5 Wambuis"
+FERROSILICON_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Ferrosilicium"
+FERROSILICON_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Ferrosilicium"
+HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
+  name: "&x&B&F&3&0&7&FEigenschap : Waterstof"
+SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
+  name: "&x&B&F&3&0&7&FEigenschap : Zonne-aangedreven"
+BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
+  name: "&x&B&F&3&0&7&FEigenschap : Felbrand"
+PART_HEAD_SWORDFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Schepkop"
+PART_PLATES_HELMETFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_FERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_FERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Reparatieset"
+REDSTONE_ALLOY_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Redstone-legering"
+REDSTONE_ALLOY_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Redstone-legering"
+LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
+  name: "&x&B&F&3&0&7&FEigenschap : Bliksemafleider"
+POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
+  name: "&x&B&F&3&0&7&FEigenschap : Ingeschakeld"
+WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
+  name: "&x&B&F&3&0&7&FEigenschap : Wie heeft er drukplaten nodig?"
+PART_ROD_REDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Redstone-legering&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Redstone-legering&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Redstone-legering&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Redstone-legering&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Redstone-legering&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_REDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Redstone-legering&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_REDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Redstone-legering&x&4&2&C&8&F&5 Reparatieset"
+DIAMOND_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Diamant"
+DRACONIC_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Draconisch"
+BOOMERITE_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Boomeriet"
+BOOMERITE_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Boomeriet"
+LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
+  name: "&x&B&F&3&0&7&FEigenschap : Laddersimulator™"
+GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
+  name: "&x&B&F&3&0&7&FEigenschap : Go Boomer"
+PART_HEAD_SWORDBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOEBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXEBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Schepkop"
+PART_PLATES_HELMETBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Laarsplaten"
+PART_REPAIR_KIT_BOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomeriet&x&4&2&C&8&F&5 Reparatieset"
+SEFIRITE_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Sefiriet"
+CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
+  name: "&x&B&F&3&0&7&FEigenschap : Vieren"
+PART_PLATES_HELMETSEFIRITE:
+  name: "&x&9&B&E&B&3&4Sefiriet&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATESEFIRITE:
+  name: "&x&9&B&E&B&3&4Sefiriet&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSSEFIRITE:
+  name: "&x&9&B&E&B&3&4Sefiriet&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSSEFIRITE:
+  name: "&x&9&B&E&B&3&4Sefiriet&x&4&2&C&8&F&5 Laarsplaten"
+PART_REPAIR_KIT_SEFIRITE:
+  name: "&x&9&B&E&B&3&4Sefiriet&x&4&2&C&8&F&5 Reparatieset"
+LIQUID_CHRISTMAS_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Vloeibare Kerst"
+CRINGLEIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Cringleium"
+CRINGLEIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Cringleium"
+FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
+  name: "&x&B&F&3&0&7&FEigenschap : Feeststemming"
+PART_LINKS_CRINGLEIUM:
+  name: "&x&0&0&C&C&3&6Cringleium&x&4&2&C&8&F&5 Maliënschakels"
+FLOWING_FONDNESS_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Stromende Genegenheid"
+DETAILED_DEVOTION_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Gedetailleerde Toewijding"
+PURIFIED_PASSION_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Gezuiverde Passie"
+LIQUID_LOVE_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Vloeibare Liefde"
+LIQUID_LOVE_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Vloeibare Liefde"
+IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
+  name: "&x&B&F&3&0&7&FEigenschap : Het is alles wat je nodig hebt"
+PART_LINKS_LIQUID_LOVE:
+  name: "&x&E&B&3&4&D&2Vloeibare Liefde&x&4&2&C&8&F&5 Maliënschakels"
+NICEINIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Niceinium"
+NICEINIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Niceinium"
+NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
+  name: "&x&B&F&3&0&7&FEigenschap : Aardig"
+PART_HEAD_SWORDNICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOENICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXENICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKNICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELNICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Schepkop"
+PART_REPAIR_KIT_NICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Reparatieset"
+SMITHIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Smithium"
+SMITHIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Smithium"
+HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FEigenschap : Robuust"
+INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FEigenschap : Vlijtig"
+HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FEigenschap : Hittebestendigheid"
+CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FEigenschap : Vakmanschap"
+PART_HEAD_SWORDSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Zwaardkop"
+PART_HEAD_HOESMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Schoffelkop"
+PART_HEAD_AXESMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Bijlkop"
+PART_HEAD_PICKSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Houweelkop"
+PART_HEAD_SHOVELSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Schepkop"
+PART_ROD_SMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Staaf"
+PART_PLATES_HELMETSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATESMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Laarsplaten"
+PART_LINKS_SMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Maliënschakels"
+PART_REPAIR_KIT_SMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Reparatieset"
+ANNIVERSARIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AGesmolten Anniversarium"
+ANNIVERSARIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AGesmolten Anniversarium"
+10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
+  name: "&x&B&F&3&0&7&FEigenschap : 10 jaar (Slime)fun!"
+PART_PLATES_HELMETANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Helmplaten"
+PART_PLATES_CHESTPLATEANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Borstplaten"
+PART_PLATES_LEGGINGSANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Beenplaten"
+PART_PLATES_BOOTSANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Laarsplaten"
+PART_REPAIR_KIT_ANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Reparatieset"

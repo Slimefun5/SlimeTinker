@@ -3,8 +3,9 @@ package io.github.sefiraat.slimetinker.listeners;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.events.friend.TraitEventType;
 import io.github.sefiraat.slimetinker.modifiers.Modifications;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Color;
-import org.bukkit.Material;
 import org.bukkit.Particle;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.LivingEntity;
@@ -44,7 +45,7 @@ public class PlayerDamagedListener implements Listener {
         checkArmour(friend);
 
         // Mods
-        modChecks(event, player.getInventory().getItemInMainHand());
+        modChecks(event, player.getInventory().getItemInHand());
 
         // Settle
         settlePotionEffects(friend);
@@ -75,7 +76,7 @@ public class PlayerDamagedListener implements Listener {
 
         if (friend.isActionTaken()) {
             // Mods
-            modChecks(event, player.getInventory().getItemInMainHand());
+            modChecks(event, player.getInventory().getItemInHand());
 
             // Settle
             settlePotionEffects(friend);
@@ -89,8 +90,8 @@ public class PlayerDamagedListener implements Listener {
     private void modChecks(EntityDamageEvent event, ItemStack heldItem) { // Entity Damaging player
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
 
-        if (event instanceof EntityDamageByEntityEvent && modLevels.containsKey(Material.DIAMOND.toString())) { // DIAMOND
-            modCheckDiamond((EntityDamageByEntityEvent) event, modLevels.get(Material.DIAMOND.toString()));
+        if (event instanceof EntityDamageByEntityEvent && modLevels.containsKey(MaterialCompat.safe(XMaterial.DIAMOND).toString())) { // DIAMOND
+            modCheckDiamond((EntityDamageByEntityEvent) event, modLevels.get(MaterialCompat.safe(XMaterial.DIAMOND).toString()));
         }
 
     }
@@ -102,7 +103,7 @@ public class PlayerDamagedListener implements Listener {
             if (rnd <= (level)) {
                 Entity e = event.getDamager();
                 Particle.DustOptions dustOptions = new Particle.DustOptions(Color.TEAL, 1);
-                e.getWorld().spawnParticle(Particle.DUST, e.getLocation(), 50, 1.5, 1.5, 1.5, 1, dustOptions);
+                e.getWorld().spawnParticle(Particle.REDSTONE, e.getLocation(), 50, 1.5, 1.5, 1.5, 1, dustOptions);
                 l.damage(event.getDamage());
                 event.setCancelled(true);
             }

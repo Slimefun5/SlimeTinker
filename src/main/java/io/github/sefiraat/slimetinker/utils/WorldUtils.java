@@ -1,7 +1,7 @@
 package io.github.sefiraat.slimetinker.utils;
 
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Location;
-import org.bukkit.Material;
 import org.bukkit.World;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Entity;
@@ -91,7 +91,7 @@ public final class WorldUtils {
             int rndY = ThreadLocalRandom.current().nextInt(-boundY, boundY + 1);
             int rndZ = ThreadLocalRandom.current().nextInt(-boundZ, boundZ + 1);
             Block b = l.getBlock().getRelative(rndX, rndY, rndZ);
-            if (allowAir || b.getType() != Material.AIR) {
+            if (allowAir || b.getType() != MaterialCompat.safe(XMaterial.AIR)) {
                 return b;
             }
             return getRandomBlockInRange(l, boundX, boundY, boundZ, false, ittr + 1);

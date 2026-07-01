@@ -4,11 +4,11 @@ import io.github.mooy1.infinitylib.common.StackUtils;
 import io.github.sefiraat.slimetinker.items.Materials;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.sefiraat.slimetinker.compat.Pdc;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.persistence.PersistentDataContainer;
-import org.bukkit.persistence.PersistentDataType;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -75,18 +75,18 @@ public class Modifications {
 
         // TOOLS
 
-        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(Material.REDSTONE)));
-        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(Material.LAPIS_LAZULI)));
-        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(Material.QUARTZ)));
-        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(Material.DIAMOND)));
-        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(Material.EMERALD)));
+        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE))));
+        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.LAPIS_LAZULI))));
+        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.QUARTZ))));
+        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND))));
+        MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.EMERALD))));
         MODIFICATION_LIST_TOOL.add(StackUtils.getIdOrType(Materials.MOD_PLATE.item()));
 
-        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.REDSTONE)), new Mod(MOD_MAP_REDSTONE_TOOL, Keys.ST_MOD_LEVEL_REDSTONE));
-        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.LAPIS_LAZULI)), new Mod(MOD_MAP_LAPIS_TOOL, Keys.ST_MOD_LEVEL_LAPIS));
-        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.QUARTZ)), new Mod(MOD_MAP_QUARTZ_TOOL, Keys.ST_MOD_LEVEL_QUARTZ));
-        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.DIAMOND)), new Mod(MOD_MAP_DIAMOND_TOOL, Keys.ST_MOD_LEVEL_DIAMOND));
-        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(Material.EMERALD)), new Mod(MOD_MAP_EMERALD_TOOL, Keys.ST_MOD_LEVEL_EMERALD));
+        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE))), new Mod(MOD_MAP_REDSTONE_TOOL, Keys.ST_MOD_LEVEL_REDSTONE));
+        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.LAPIS_LAZULI))), new Mod(MOD_MAP_LAPIS_TOOL, Keys.ST_MOD_LEVEL_LAPIS));
+        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.QUARTZ))), new Mod(MOD_MAP_QUARTZ_TOOL, Keys.ST_MOD_LEVEL_QUARTZ));
+        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND))), new Mod(MOD_MAP_DIAMOND_TOOL, Keys.ST_MOD_LEVEL_DIAMOND));
+        MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(new ItemStack(MaterialCompat.safe(XMaterial.EMERALD))), new Mod(MOD_MAP_EMERALD_TOOL, Keys.ST_MOD_LEVEL_EMERALD));
         MODIFICATION_DEFINITIONS_TOOL.put(StackUtils.getIdOrType(Materials.MOD_PLATE.item()), new Mod(MOD_MAP_PLATE, Keys.ST_MOD_LEVEL_OBSIDIAN));
 
         // ARMOUR
@@ -101,76 +101,66 @@ public class Modifications {
         throw new IllegalStateException("Utility class");
     }
 
-    public static void setModificationMapTool(PersistentDataContainer c, Map<String, Integer> map) {
+    // PersistentDataAPI has no version-safe int[] overload, so the mod-level array is stored as a String.
+    private static String intArrayToString(int[] arr) {
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < arr.length; i++) {
+            if (i > 0) {
+                sb.append(',');
+            }
+            sb.append(arr[i]);
+        }
+        return sb.toString();
+    }
+
+    private static int[] stringToIntArray(String value) {
+        if (value == null || value.isEmpty()) {
+            return new int[0];
+        }
+        String[] parts = value.split(",");
+        int[] arr = new int[parts.length];
+        for (int i = 0; i < parts.length; i++) {
+            arr[i] = Integer.parseInt(parts[i]);
+        }
+        return arr;
+    }
+
+    public static void setModificationMapTool(ItemMeta im, Map<String, Integer> map) {
         int[] mapArray = new int[MODIFICATION_LIST_TOOL.size()];
         for (int i = 0; i < MODIFICATION_LIST_TOOL.size(); i++) {
             mapArray[i] = map.get(MODIFICATION_LIST_TOOL.get(i));
         }
-        c.set(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY, mapArray);
+        Pdc.setString(im, Keys.ST_MODS.toString(), intArrayToString(mapArray));
     }
 
-    public static void setModificationMapArmour(PersistentDataContainer c, Map<String, Integer> map) {
+    public static void setModificationMapArmour(ItemMeta im, Map<String, Integer> map) {
         int[] mapArray = new int[MODIFICATION_LIST_ARMOUR.size()];
         for (int i = 0; i < MODIFICATION_LIST_ARMOUR.size(); i++) {
             mapArray[i] = map.get(MODIFICATION_LIST_ARMOUR.get(i));
         }
-        c.set(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY, mapArray);
+        Pdc.setString(im, Keys.ST_MODS.toString(), intArrayToString(mapArray));
     }
 
     public static Map<String, Integer> getModificationMapTool(ItemStack itemStack) {
-        Map<String, Integer> map = new LinkedHashMap<>();
         ItemMeta im = itemStack.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
-        if (c.has(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY)) {
-            int[] mapArray = c.get(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY);
-            assert mapArray != null;
-            for (String m : MODIFICATION_LIST_TOOL) {
-                if ((MODIFICATION_LIST_TOOL.indexOf(m) + 1) > mapArray.length) {
-                    map.put(m, 0);
-                } else {
-                    map.put(m, mapArray[MODIFICATION_LIST_TOOL.indexOf(m)]);
-                }
-            }
-        } else {
-            for (String m : MODIFICATION_LIST_TOOL) {
-                map.put(m, 0);
-            }
-            setModificationMapTool(c, map);
-            itemStack.setItemMeta(im);
-        }
+        Map<String, Integer> map = getModificationMapTool(im);
+        itemStack.setItemMeta(im);
         return map;
     }
 
     public static Map<String, Integer> getModificationMapArmour(ItemStack itemStack) {
-        Map<String, Integer> map = new LinkedHashMap<>();
         ItemMeta im = itemStack.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
-        if (c.has(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY)) {
-            int[] mapArray = c.get(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY);
-            assert mapArray != null;
-            for (String m : MODIFICATION_LIST_ARMOUR) {
-                if ((MODIFICATION_LIST_ARMOUR.indexOf(m) + 1) > mapArray.length) {
-                    map.put(m, 0);
-                } else {
-                    map.put(m, mapArray[MODIFICATION_LIST_ARMOUR.indexOf(m)]);
-                }
-            }
-        } else {
-            for (String m : MODIFICATION_LIST_ARMOUR) {
-                map.put(m, 0);
-            }
-            setModificationMapArmour(c, map);
-            itemStack.setItemMeta(im);
-        }
+        Map<String, Integer> map = getModificationMapArmour(im);
+        itemStack.setItemMeta(im);
         return map;
     }
 
-    public static Map<String, Integer> getModificationMapTool(PersistentDataContainer c) {
+    public static Map<String, Integer> getModificationMapTool(ItemMeta im) {
         Map<String, Integer> map = new LinkedHashMap<>();
-        if (c.has(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY)) {
-            int[] mapArray = c.get(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY);
+        if (Pdc.hasString(im, Keys.ST_MODS.toString())) {
+            int[] mapArray = stringToIntArray(Pdc.getString(im, Keys.ST_MODS.toString(), ""));
             assert mapArray != null;
             for (String m : MODIFICATION_LIST_TOOL) {
                 if ((MODIFICATION_LIST_TOOL.indexOf(m) + 1) > mapArray.length) {
@@ -183,15 +173,15 @@ public class Modifications {
             for (String m : MODIFICATION_LIST_TOOL) {
                 map.put(m, 0);
             }
-            setModificationMapTool(c, map);
+            setModificationMapTool(im, map);
         }
         return map;
     }
 
-    public static Map<String, Integer> getModificationMapArmour(PersistentDataContainer c) {
+    public static Map<String, Integer> getModificationMapArmour(ItemMeta im) {
         Map<String, Integer> map = new LinkedHashMap<>();
-        if (c.has(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY)) {
-            int[] mapArray = c.get(Keys.ST_MODS, PersistentDataType.INTEGER_ARRAY);
+        if (Pdc.hasString(im, Keys.ST_MODS.toString())) {
+            int[] mapArray = stringToIntArray(Pdc.getString(im, Keys.ST_MODS.toString(), ""));
             assert mapArray != null;
             for (String m : MODIFICATION_LIST_ARMOUR) {
                 if ((MODIFICATION_LIST_ARMOUR.indexOf(m) + 1) > mapArray.length) {
@@ -204,21 +194,17 @@ public class Modifications {
             for (String m : MODIFICATION_LIST_ARMOUR) {
                 map.put(m, 0);
             }
-            setModificationMapArmour(c, map);
+            setModificationMapArmour(im, map);
         }
         return map;
     }
 
     public static int getModLevel(Mod mod, ItemStack itemStack) {
-        if (itemStack.getItemMeta().getPersistentDataContainer().has(mod.getLevelKey(), PersistentDataType.INTEGER)) {
-            return itemStack.getItemMeta().getPersistentDataContainer().get(mod.getLevelKey(), PersistentDataType.INTEGER);
-        } else {
-            return 0;
-        }
+        return Pdc.getInt(itemStack.getItemMeta(), mod.getLevelKey().toString(), 0);
     }
 
-    public static void setModLevel(Mod mod, PersistentDataContainer c, int level) {
-        c.set(mod.getLevelKey(), PersistentDataType.INTEGER, level);
+    public static void setModLevel(Mod mod, ItemMeta im, int level) {
+        Pdc.setInt(im, mod.getLevelKey().toString(), level);
     }
 
     public static Map<String, Integer> getAllModLevels(ItemStack itemStack) {

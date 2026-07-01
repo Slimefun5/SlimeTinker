@@ -7,9 +7,10 @@ import io.github.sefiraat.slimetinker.modifiers.Modifications;
 import io.github.sefiraat.slimetinker.utils.EntityUtils;
 import io.github.sefiraat.slimetinker.utils.Experience;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.Color;
 import org.bukkit.Location;
-import org.bukkit.Material;
 import org.bukkit.Particle;
 import org.bukkit.entity.ChestedHorse;
 import org.bukkit.entity.LivingEntity;
@@ -78,7 +79,7 @@ public class EntityKilledListener implements Listener {
         }
 
         Player player = dyingEntity.getKiller();
-        ItemStack heldItem = player.getInventory().getItemInMainHand();
+        ItemStack heldItem = player.getInventory().getItemInHand();
 
         EventFriend friend = new EventFriend(player, TraitEventType.ENTITY_DAMAGED);
 
@@ -113,7 +114,7 @@ public class EntityKilledListener implements Listener {
     private void modCheckLapis(EntityDeathEvent event, ItemStack heldItem) {
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
 
-        if (!modLevels.containsKey(Material.LAPIS_LAZULI.toString())) { // The tools must have the lapis mod
+        if (!modLevels.containsKey(MaterialCompat.safe(XMaterial.LAPIS_LAZULI).toString())) { // The tools must have the lapis mod
             return;
         }
 
@@ -126,7 +127,7 @@ public class EntityKilledListener implements Listener {
             return;
         }
 
-        int lapisLevel = modLevels.get(Material.LAPIS_LAZULI.toString());
+        int lapisLevel = modLevels.get(MaterialCompat.safe(XMaterial.LAPIS_LAZULI).toString());
 
         LivingEntity entity = event.getEntity();
 
@@ -138,7 +139,7 @@ public class EntityKilledListener implements Listener {
                 Location location = entity.getLocation().clone().add(0.5, 0.5, 0.5);
                 entity.getWorld().dropItemNaturally(location, additionalDrop);
                 Particle.DustOptions dustOptions = new Particle.DustOptions(Color.BLUE, 2);
-                entity.getWorld().spawnParticle(Particle.DUST, location, 10, 0.2, 0.2, 0.2, 0.5, dustOptions);
+                entity.getWorld().spawnParticle(Particle.REDSTONE, location, 10, 0.2, 0.2, 0.2, 0.5, dustOptions);
             }
         }
     }

@@ -6,7 +6,8 @@ import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.events.friend.TraitEventType;
 import io.github.sefiraat.slimetinker.modifiers.Modifications;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.potion.PotionEffect;
@@ -26,7 +27,7 @@ public class EffectTick extends BukkitRunnable {
     @Override
     public void run() {
         for (Player player : SlimeTinker.getInstance().getServer().getOnlinePlayers()) {
-            ItemStack heldItem = player.getInventory().getItemInMainHand();
+            ItemStack heldItem = player.getInventory().getItemInHand();
 
             Map<PotionEffectType, Integer> potionEffects = new HashMap<>();
             EventFriend friend = new EventFriend(player, TraitEventType.TICK);
@@ -57,7 +58,7 @@ public class EffectTick extends BukkitRunnable {
 
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
         for (Map.Entry<String, Integer> entry : modLevels.entrySet()) {
-            if (Material.REDSTONE.toString().equals(entry.getKey())) {
+            if (MaterialCompat.safe(XMaterial.REDSTONE).toString().equals(entry.getKey())) {
                 modRedstone(entry.getValue(), potionEffects);
             }
         }
@@ -65,10 +66,10 @@ public class EffectTick extends BukkitRunnable {
     }
 
     private void modRedstone(int level, @Nonnull Map<PotionEffectType, Integer> potionEffects) {
-        if (potionEffects.containsKey(PotionEffectType.HASTE)) {
-            potionEffects.put(PotionEffectType.HASTE, potionEffects.get(PotionEffectType.HASTE) + level);
+        if (potionEffects.containsKey(PotionEffectType.FAST_DIGGING)) {
+            potionEffects.put(PotionEffectType.FAST_DIGGING, potionEffects.get(PotionEffectType.FAST_DIGGING) + level);
         } else {
-            potionEffects.put(PotionEffectType.HASTE, level);
+            potionEffects.put(PotionEffectType.FAST_DIGGING, level);
         }
     }
 }

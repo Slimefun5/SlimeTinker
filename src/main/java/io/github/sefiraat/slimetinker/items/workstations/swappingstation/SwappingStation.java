@@ -11,12 +11,12 @@ import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 import org.bukkit.Location;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockBreakEvent;
@@ -98,13 +98,13 @@ public class SwappingStation extends MenuBlock {
 
         switch (partClass) {
             case Ids.HEAD:
-                PersistentDataAPI.setString(newToolMeta, Keys.TOOL_INFO_HEAD_MATERIAL, partMaterial);
+                Pdc.setString(newToolMeta, Keys.TOOL_INFO_HEAD_MATERIAL.toString(), partMaterial);
                 break;
             case Ids.BINDING:
-                PersistentDataAPI.setString(newToolMeta, Keys.TOOL_INFO_BINDER_MATERIAL, partMaterial);
+                Pdc.setString(newToolMeta, Keys.TOOL_INFO_BINDER_MATERIAL.toString(), partMaterial);
                 break;
             case Ids.ROD:
-                PersistentDataAPI.setString(newToolMeta, Keys.TOOL_INFO_ROD_MATERIAL, partMaterial);
+                Pdc.setString(newToolMeta, Keys.TOOL_INFO_ROD_MATERIAL.toString(), partMaterial);
                 break;
             default:
                 throw new IllegalStateException("Unexpected value: " + partClass);
@@ -138,13 +138,13 @@ public class SwappingStation extends MenuBlock {
 
         switch (partClass) {
             case Ids.PLATE:
-                PersistentDataAPI.setString(newArmourMeta, Keys.ARMOUR_INFO_PLATE_MATERIAL, partMaterial);
+                Pdc.setString(newArmourMeta, Keys.ARMOUR_INFO_PLATE_MATERIAL.toString(), partMaterial);
                 break;
             case Ids.GAMBESON:
-                PersistentDataAPI.setString(newArmourMeta, Keys.ARMOUR_INFO_GAMBESON_MATERIAL, partMaterial);
+                Pdc.setString(newArmourMeta, Keys.ARMOUR_INFO_GAMBESON_MATERIAL.toString(), partMaterial);
                 break;
             case Ids.LINKS:
-                PersistentDataAPI.setString(newArmourMeta, Keys.ARMOUR_INFO_LINKS_MATERIAL, partMaterial);
+                Pdc.setString(newArmourMeta, Keys.ARMOUR_INFO_LINKS_MATERIAL.toString(), partMaterial);
                 break;
             default:
                 throw new IllegalStateException("Unexpected value: " + partClass);
@@ -162,17 +162,17 @@ public class SwappingStation extends MenuBlock {
 
     private void checkAndChangeExplosiveness(ItemStack newTool, ItemMeta im, String partMaterial, String partClass) {
         Preconditions.checkNotNull(Slimefun.instance(), "Slimefun is null, that's... not great?");
-        NamespacedKey sfIDKey = new NamespacedKey(Slimefun.instance(), "slimefun_item");
-        String sID = PersistentDataAPI.getString(im, sfIDKey);
+        String sfIDKey = new NamespacedKey(Slimefun.instance(), "slimefun_item").toString();
+        String sID = Pdc.getString(im, sfIDKey);
 
         if (isExplosivePart(partMaterial, partClass) && !ItemUtils.isToolExplosive(newTool)) {
             // Part IS explosive but the tool is NOT - we need to make it explosive!
             sID = sID + "_EXP";
-            PersistentDataAPI.setString(im, sfIDKey, sID);
+            Pdc.setString(im, sfIDKey, sID);
         } else if (!isExplosivePart(partMaterial, partClass) && ItemUtils.isToolExplosive(newTool)) {
             // Part is NOT explosive but the tool IS - we need to make it explosive!
             sID = sID.replace("_EXP", "");
-            PersistentDataAPI.setString(im, sfIDKey, sID);
+            Pdc.setString(im, sfIDKey, sID);
         }
     }
 

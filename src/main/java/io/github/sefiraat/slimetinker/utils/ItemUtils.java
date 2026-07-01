@@ -3,6 +3,8 @@ package io.github.sefiraat.slimetinker.utils;
 import io.github.mooy1.infinitylib.common.StackUtils;
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.events.friend.TraitPartType;
+import io.github.sefiraat.slimetinker.i18n.TinkerLang;
+import io.github.thebusybiscuit.slimefun5.core.services.localization.Language;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterialManager;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.recipes.MoltenResult;
 import io.github.sefiraat.slimetinker.modifiers.Mod;
@@ -10,17 +12,15 @@ import io.github.sefiraat.slimetinker.modifiers.Modifications;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import net.md_5.bungee.api.ChatColor;
-import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.Damageable;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.persistence.PersistentDataContainer;
-import org.bukkit.persistence.PersistentDataType;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
@@ -71,11 +71,10 @@ public final class ItemUtils {
         if (im == null) {
             return null;
         }
-        PersistentDataContainer c = im.getPersistentDataContainer();
-        if (!c.has(Keys.TOOL_INFO_HEAD_MATERIAL, PersistentDataType.STRING)) {
+        if (!Pdc.hasString(im, Keys.TOOL_INFO_HEAD_MATERIAL.toString())) {
             return null;
         }
-        return c.get(Keys.TOOL_INFO_HEAD_MATERIAL, PersistentDataType.STRING);
+        return Pdc.getString(im, Keys.TOOL_INFO_HEAD_MATERIAL.toString());
     }
 
     @Nullable
@@ -84,11 +83,10 @@ public final class ItemUtils {
         if (im == null) {
             return null;
         }
-        PersistentDataContainer c = im.getPersistentDataContainer();
-        if (!c.has(Keys.ARMOUR_INFO_PLATE_MATERIAL, PersistentDataType.STRING)) {
+        if (!Pdc.hasString(im, Keys.ARMOUR_INFO_PLATE_MATERIAL.toString())) {
             return null;
         }
-        return c.get(Keys.ARMOUR_INFO_PLATE_MATERIAL, PersistentDataType.STRING);
+        return Pdc.getString(im, Keys.ARMOUR_INFO_PLATE_MATERIAL.toString());
     }
 
     @Nullable
@@ -97,11 +95,10 @@ public final class ItemUtils {
         if (im == null) {
             return null;
         }
-        PersistentDataContainer c = im.getPersistentDataContainer();
-        if (!c.has(Keys.PART_MATERIAL, PersistentDataType.STRING)) {
+        if (!Pdc.hasString(im, Keys.PART_MATERIAL.toString())) {
             return null;
         }
-        return c.get(Keys.PART_MATERIAL, PersistentDataType.STRING);
+        return Pdc.getString(im, Keys.PART_MATERIAL.toString());
     }
 
     /**
@@ -113,7 +110,7 @@ public final class ItemUtils {
     @Nullable
     public static String getPartClass(@Nonnull ItemStack itemStack) {
         ItemMeta im = itemStack.getItemMeta();
-        return im == null ? null : PersistentDataAPI.getString(im, Keys.PART_CLASS);
+        return im == null ? null : Pdc.getString(im, Keys.PART_CLASS.toString());
     }
 
     public static boolean partIsTool(@Nonnull String partClass) {
@@ -137,115 +134,148 @@ public final class ItemUtils {
     @Nullable
     public static String getPartType(@Nonnull ItemStack itemStack) {
         ItemMeta im = itemStack.getItemMeta();
-        return im == null ? null : PersistentDataAPI.getString(im, Keys.PART_TYPE);
+        return im == null ? null : Pdc.getString(im, Keys.PART_TYPE.toString());
+    }
+
+    /** The server's default language id, used when no holding player is in context. */
+    @Nonnull
+    public static String serverDefaultLanguage() {
+        Language language = Slimefun.getLocalization().getDefaultLanguage();
+        return language != null ? language.getId() : "en";
+    }
+
+    /** A translated lore label, falling back to the given English default (so English is unchanged). */
+    @Nonnull
+    private static String loreText(@Nonnull String key, @Nonnull String englishDefault, @Nullable String language) {
+        String t = TinkerLang.lookup("lore", key, language);
+        return t != null ? t : englishDefault;
     }
 
     public static void rebuildTinkerLore(@Nonnull ItemStack itemStack) {
+        rebuildTinkerLore(itemStack, serverDefaultLanguage());
+    }
+
+    public static void rebuildTinkerLore(@Nonnull ItemStack itemStack, @Nullable String language) {
         if (isTool(itemStack)) {
-            rebuildToolLore(itemStack);
+            rebuildToolLore(itemStack, language);
         } else if (isArmour(itemStack)) {
-            rebuildArmourLore(itemStack);
+            rebuildArmourLore(itemStack, language);
         }
     }
 
-    private static void rebuildToolLore(@Nonnull ItemStack itemStack) {
+    public static void rebuildArmourLore(@Nonnull ItemStack itemStack) {
+        rebuildArmourLore(itemStack, serverDefaultLanguage());
+    }
+
+    private static void rebuildToolLore(@Nonnull ItemStack itemStack, @Nullable String language) {
         ItemMeta im = itemStack.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
+        im.setLore(buildToolLore(im, itemStack, language));
+        itemStack.setItemMeta(im);
+    }
+
+    private static void rebuildArmourLore(@Nonnull ItemStack itemStack, @Nullable String language) {
+        ItemMeta im = itemStack.getItemMeta();
+        assert im != null;
+        im.setLore(buildArmourLore(im, itemStack, language));
+        itemStack.setItemMeta(im);
+    }
+
+    /** Builds the full tool lore in the given language (labels, traits and modifier names translated). */
+    @Nonnull
+    public static List<String> buildToolLore(@Nonnull ItemMeta im, @Nonnull ItemStack itemStack, @Nullable String language) {
         List<String> lore = new ArrayList<>();
 
-        String matHead = getToolHeadMaterial(c);
-        String matBind = getToolBindingMaterial(c);
-        String matRod = getToolRodMaterial(c);
+        String matHead = getToolHeadMaterial(im);
+        String matBind = getToolBindingMaterial(im);
+        String matRod = getToolRodMaterial(im);
 
-        // General Material information
         lore.add(ThemeUtils.getLine());
-        lore.add(ThemeUtils.CLICK_INFO + "H: " + formatMaterialName(matHead));
-        lore.add(ThemeUtils.CLICK_INFO + "B: " + formatMaterialName(matBind));
-        lore.add(ThemeUtils.CLICK_INFO + "R: " + formatMaterialName(matRod));
-        lore.add(ThemeUtils.getLine());
-
-        // Material properties
-        lore.add(formatPropertyName(matHead, TinkerMaterialManager.getTraitName(matHead, TraitPartType.HEAD)));
-        lore.add(formatPropertyName(matBind, TinkerMaterialManager.getTraitName(matBind, TraitPartType.BINDER)));
-        lore.add(formatPropertyName(matRod, TinkerMaterialManager.getTraitName(matRod, TraitPartType.ROD)));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("head_abbrev", "H: ", language) + formatMaterialName(matHead, language));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("binder_abbrev", "B: ", language) + formatMaterialName(matBind, language));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("rod_abbrev", "R: ", language) + formatMaterialName(matRod, language));
         lore.add(ThemeUtils.getLine());
 
-        // Exp / Leveling / Mod Slot information
-        lore.add(getLoreExp(c));
-        lore.add(getLoreModSlots(c));
+        lore.add(formatPropertyName(matHead, TinkerMaterialManager.getTraitName(matHead, TraitPartType.HEAD), language));
+        lore.add(formatPropertyName(matBind, TinkerMaterialManager.getTraitName(matBind, TraitPartType.BINDER), language));
+        lore.add(formatPropertyName(matRod, TinkerMaterialManager.getTraitName(matRod, TraitPartType.ROD), language));
         lore.add(ThemeUtils.getLine());
 
-        // Active Mods
+        lore.add(getLoreExp(im, language));
+        lore.add(getLoreModSlots(im, language));
+        lore.add(ThemeUtils.getLine());
+
         Map<String, Integer> mapAmounts = Modifications.getModificationMapTool(itemStack);
         Map<String, Integer> mapLevels = Modifications.getAllModLevels(itemStack);
 
         for (Map.Entry<String, Integer> entry : mapLevels.entrySet()) {
             int level = entry.getValue();
             Mod mod = Modifications.getModificationDefinitionsTool().get(entry.getKey());
+            String modName = modifierName(entry.getKey(), language);
             if (mod.getRequirementMap().containsKey(level + 1)) {
                 String amountRequired = String.valueOf(mod.getRequirementMap().get(level + 1));
-                lore.add(ThemeUtils.CLICK_INFO + ThemeUtils.toTitleCase(entry.getKey()) + " Level " + entry.getValue() + ThemeUtils.PASSIVE + " - (" + mapAmounts.get(entry.getKey()) + "/" + amountRequired + ")");
+                lore.add(ThemeUtils.CLICK_INFO + modName + loreText("mod_level", " Level ", language) + entry.getValue() + ThemeUtils.PASSIVE + " - (" + mapAmounts.get(entry.getKey()) + "/" + amountRequired + ")");
             } else {
-                lore.add(ThemeUtils.CLICK_INFO + ThemeUtils.toTitleCase(entry.getKey()) + " Level " + entry.getValue() + ThemeUtils.PASSIVE + " - (MAX)");
+                lore.add(ThemeUtils.CLICK_INFO + modName + loreText("mod_level", " Level ", language) + entry.getValue() + ThemeUtils.PASSIVE + loreText("mod_max", " - (MAX)", language));
             }
         }
         if (!mapLevels.isEmpty()) {
             lore.add(ThemeUtils.getLine());
         }
 
-        im.setLore(lore);
-        itemStack.setItemMeta(im);
+        return lore;
     }
 
-    public static void rebuildArmourLore(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
+    /** Builds the full armour lore in the given language. */
+    @Nonnull
+    public static List<String> buildArmourLore(@Nonnull ItemMeta im, @Nonnull ItemStack itemStack, @Nullable String language) {
         List<String> lore = new ArrayList<>();
 
-        String matPlate = getArmourPlateMaterial(c);
-        String matGambeson = getArmourGambesonMaterial(c);
-        String matLinks = getArmourLinksMaterial(c);
+        String matPlate = getArmourPlateMaterial(im);
+        String matGambeson = getArmourGambesonMaterial(im);
+        String matLinks = getArmourLinksMaterial(im);
 
-        // General Material information
         lore.add(ThemeUtils.getLine());
-        lore.add(ThemeUtils.CLICK_INFO + "P: " + formatMaterialName(matPlate));
-        lore.add(ThemeUtils.CLICK_INFO + "G: " + formatMaterialName(matGambeson));
-        lore.add(ThemeUtils.CLICK_INFO + "L: " + formatMaterialName(matLinks));
-        lore.add(ThemeUtils.getLine());
-
-        // Material properties
-        lore.add(formatPropertyName(matPlate, TinkerMaterialManager.getTraitName(matPlate, TraitPartType.PLATES)));
-        lore.add(formatPropertyName(matGambeson, TinkerMaterialManager.getTraitName(matGambeson, TraitPartType.GAMBESON)));
-        lore.add(formatPropertyName(matLinks, TinkerMaterialManager.getTraitName(matLinks, TraitPartType.LINKS)));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("plate_abbrev", "P: ", language) + formatMaterialName(matPlate, language));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("gambeson_abbrev", "G: ", language) + formatMaterialName(matGambeson, language));
+        lore.add(ThemeUtils.CLICK_INFO + loreText("links_abbrev", "L: ", language) + formatMaterialName(matLinks, language));
         lore.add(ThemeUtils.getLine());
 
-        // Exp / Leveling / Mod Slot information
-        lore.add(getLoreExp(c));
-        lore.add(getLoreModSlots(c));
+        lore.add(formatPropertyName(matPlate, TinkerMaterialManager.getTraitName(matPlate, TraitPartType.PLATES), language));
+        lore.add(formatPropertyName(matGambeson, TinkerMaterialManager.getTraitName(matGambeson, TraitPartType.GAMBESON), language));
+        lore.add(formatPropertyName(matLinks, TinkerMaterialManager.getTraitName(matLinks, TraitPartType.LINKS), language));
         lore.add(ThemeUtils.getLine());
 
-        // Active Mods
+        lore.add(getLoreExp(im, language));
+        lore.add(getLoreModSlots(im, language));
+        lore.add(ThemeUtils.getLine());
+
         Map<String, Integer> mapAmounts = Modifications.getModificationMapArmour(itemStack);
         Map<String, Integer> mapLevels = Modifications.getAllModLevels(itemStack);
 
         for (Map.Entry<String, Integer> entry : mapLevels.entrySet()) {
             int level = entry.getValue();
             Mod mod = Modifications.getModificationDefinitionsArmour().get(entry.getKey());
+            String modName = modifierName(entry.getKey(), language);
             if (mod.getRequirementMap().containsKey(level + 1)) {
                 String amountRequired = String.valueOf(mod.getRequirementMap().get(level + 1));
-                lore.add(ThemeUtils.CLICK_INFO + ThemeUtils.toTitleCase(entry.getKey()) + " Level " + entry.getValue() + ThemeUtils.PASSIVE + " - (" + mapAmounts.get(entry.getKey()) + "/" + amountRequired + ")");
+                lore.add(ThemeUtils.CLICK_INFO + modName + loreText("mod_level", " Level ", language) + entry.getValue() + ThemeUtils.PASSIVE + " - (" + mapAmounts.get(entry.getKey()) + "/" + amountRequired + ")");
             } else {
-                lore.add(ThemeUtils.CLICK_INFO + ThemeUtils.toTitleCase(entry.getKey()) + " Level " + entry.getValue() + ThemeUtils.PASSIVE + " - (MAX)");
+                lore.add(ThemeUtils.CLICK_INFO + modName + loreText("mod_level", " Level ", language) + entry.getValue() + ThemeUtils.PASSIVE + loreText("mod_max", " - (MAX)", language));
             }
         }
         if (!mapLevels.isEmpty()) {
             lore.add(ThemeUtils.getLine());
         }
 
-        im.setLore(lore);
-        itemStack.setItemMeta(im);
+        return lore;
+    }
+
+    /** A modifier's display name in the given language, falling back to the title-cased id (English). */
+    @Nonnull
+    private static String modifierName(@Nonnull String id, @Nullable String language) {
+        String t = TinkerLang.lookup("modifiers", id, language);
+        return t != null ? t : ThemeUtils.toTitleCase(id);
     }
 
     public static void rebuildTinkerName(@Nonnull ItemStack itemStack) {
@@ -259,12 +289,10 @@ public final class ItemUtils {
     private static void rebuildToolName(@Nonnull ItemStack itemStack) {
         ItemMeta im = itemStack.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
-
-        String matHead = getToolHeadMaterial(c);
-        String matBind = getToolBindingMaterial(c);
-        String matRod = getToolRodMaterial(c);
-        String toolType = getToolTypeName(c);
+        String matHead = getToolHeadMaterial(im);
+        String matBind = getToolBindingMaterial(im);
+        String matRod = getToolRodMaterial(im);
+        String toolType = getToolTypeName(im);
 
         setName(itemStack, matHead, matBind, matRod, toolType);
     }
@@ -272,12 +300,10 @@ public final class ItemUtils {
     private static void rebuildArmourName(@Nonnull ItemStack itemStack) {
         ItemMeta im = itemStack.getItemMeta();
         assert im != null;
-        PersistentDataContainer c = im.getPersistentDataContainer();
-
-        String matPlate = getArmourPlateMaterial(c);
-        String matGambeson = getArmourGambesonMaterial(c);
-        String matLinks = getArmourLinksMaterial(c);
-        String armourType = getArmourTypeName(c);
+        String matPlate = getArmourPlateMaterial(im);
+        String matGambeson = getArmourGambesonMaterial(im);
+        String matLinks = getArmourLinksMaterial(im);
+        String armourType = getArmourTypeName(im);
 
         setName(itemStack, matPlate, matGambeson, matLinks, armourType);
     }
@@ -333,100 +359,103 @@ public final class ItemUtils {
 
     @Nullable
     public static String getToolHeadMaterial(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        return getToolHeadMaterial(im.getPersistentDataContainer());
+        return getToolHeadMaterial(itemStack.getItemMeta());
     }
 
     @Nullable
-    public static String getToolHeadMaterial(@Nonnull PersistentDataContainer c) {
-        return c.get(Keys.TOOL_INFO_HEAD_MATERIAL, PersistentDataType.STRING);
+    public static String getToolHeadMaterial(@Nonnull ItemMeta im) {
+        return Pdc.getString(im, Keys.TOOL_INFO_HEAD_MATERIAL.toString());
     }
 
     @Nullable
     public static String getToolBindingMaterial(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        return getToolBindingMaterial(im.getPersistentDataContainer());
+        return getToolBindingMaterial(itemStack.getItemMeta());
     }
 
     @Nullable
-    public static String getToolBindingMaterial(@Nonnull PersistentDataContainer c) {
-        return c.get(Keys.TOOL_INFO_BINDER_MATERIAL, PersistentDataType.STRING);
+    public static String getToolBindingMaterial(@Nonnull ItemMeta im) {
+        return Pdc.getString(im, Keys.TOOL_INFO_BINDER_MATERIAL.toString());
     }
 
     @Nullable
     public static String getToolRodMaterial(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        return getToolRodMaterial(im.getPersistentDataContainer());
+        return getToolRodMaterial(itemStack.getItemMeta());
     }
 
     @Nullable
-    public static String getToolRodMaterial(@Nonnull PersistentDataContainer c) {
-        return c.get(Keys.TOOL_INFO_ROD_MATERIAL, PersistentDataType.STRING);
+    public static String getToolRodMaterial(@Nonnull ItemMeta im) {
+        return Pdc.getString(im, Keys.TOOL_INFO_ROD_MATERIAL.toString());
     }
 
     @Nullable
     public static String getToolTypeName(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        return getToolTypeName(im.getPersistentDataContainer());
+        return getToolTypeName(itemStack.getItemMeta());
     }
 
     @Nullable
-    public static String getToolTypeName(@Nonnull PersistentDataContainer c) {
-        return c.get(Keys.TOOL_INFO_TOOL_TYPE, PersistentDataType.STRING);
+    public static String getToolTypeName(@Nonnull ItemMeta im) {
+        return Pdc.getString(im, Keys.TOOL_INFO_TOOL_TYPE.toString());
     }
 
     @Nullable
     public static String getArmourPlateMaterial(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        return getArmourPlateMaterial(im.getPersistentDataContainer());
+        return getArmourPlateMaterial(itemStack.getItemMeta());
     }
 
     @Nullable
-    public static String getArmourPlateMaterial(@Nonnull PersistentDataContainer c) {
-        return c.get(Keys.ARMOUR_INFO_PLATE_MATERIAL, PersistentDataType.STRING);
+    public static String getArmourPlateMaterial(@Nonnull ItemMeta im) {
+        return Pdc.getString(im, Keys.ARMOUR_INFO_PLATE_MATERIAL.toString());
     }
 
     @Nullable
     public static String getArmourGambesonMaterial(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        return getArmourGambesonMaterial(im.getPersistentDataContainer());
+        return getArmourGambesonMaterial(itemStack.getItemMeta());
     }
 
     @Nullable
-    public static String getArmourGambesonMaterial(@Nonnull PersistentDataContainer c) {
-        return c.get(Keys.ARMOUR_INFO_GAMBESON_MATERIAL, PersistentDataType.STRING);
+    public static String getArmourGambesonMaterial(@Nonnull ItemMeta im) {
+        return Pdc.getString(im, Keys.ARMOUR_INFO_GAMBESON_MATERIAL.toString());
     }
 
     @Nullable
     public static String getArmourLinksMaterial(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        return getArmourLinksMaterial(im.getPersistentDataContainer());
+        return getArmourLinksMaterial(itemStack.getItemMeta());
     }
 
     @Nullable
-    public static String getArmourLinksMaterial(@Nonnull PersistentDataContainer c) {
-        return c.get(Keys.ARMOUR_INFO_LINKS_MATERIAL, PersistentDataType.STRING);
+    public static String getArmourLinksMaterial(@Nonnull ItemMeta im) {
+        return Pdc.getString(im, Keys.ARMOUR_INFO_LINKS_MATERIAL.toString());
     }
 
     @Nullable
     public static String getArmourTypeName(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        return getArmourTypeName(im.getPersistentDataContainer());
+        return getArmourTypeName(itemStack.getItemMeta());
     }
 
     @Nullable
-    public static String getArmourTypeName(@Nonnull PersistentDataContainer c) {
-        return c.get(Keys.ARMOUR_INFO_ARMOUR_TYPE, PersistentDataType.STRING);
+    public static String getArmourTypeName(@Nonnull ItemMeta im) {
+        return Pdc.getString(im, Keys.ARMOUR_INFO_ARMOUR_TYPE.toString());
     }
 
     @Nonnull
     public static String formatMaterialName(String s) {
-        return TinkerMaterialManager.getById(s).getColor() + ThemeUtils.toTitleCase(s);
+        return formatMaterialName(s, serverDefaultLanguage());
+    }
+
+    public static String formatMaterialName(String s, @Nullable String language) {
+        return TinkerMaterialManager.getById(s).getColor() + TinkerLang.translate("materials", s, language);
     }
 
     @Nonnull
     public static String formatPropertyName(String s, String p) {
-        return TinkerMaterialManager.getColorById(s) + p;
+        return formatPropertyName(s, p, serverDefaultLanguage());
+    }
+
+    /** Colours a trait name, translating it via the "traits" table (English name as key) with fallback to the name. */
+    @Nonnull
+    public static String formatPropertyName(String s, String p, @Nullable String language) {
+        String translated = TinkerLang.lookup("traits", p, language);
+        return TinkerMaterialManager.getColorById(s) + (translated != null ? translated : p);
     }
 
     public static boolean isMeltable(ItemStack itemStack) {
@@ -449,12 +478,9 @@ public final class ItemUtils {
      */
     public static boolean isTool(@Nullable ItemStack itemStack) {
         return itemStack != null &&
-            itemStack.getType() != Material.AIR &&
+            itemStack.getType() != MaterialCompat.safe(XMaterial.AIR) &&
             itemStack.hasItemMeta() &&
-            itemStack.getItemMeta().getPersistentDataContainer().has(
-                Keys.TOOL_INFO_TOOL_TYPE,
-                PersistentDataType.STRING
-            );
+            Pdc.hasString(itemStack.getItemMeta(), Keys.TOOL_INFO_TOOL_TYPE.toString());
     }
 
     /**
@@ -465,12 +491,9 @@ public final class ItemUtils {
      */
     public static boolean isArmour(@Nullable ItemStack itemStack) {
         return itemStack != null &&
-            itemStack.getType() != Material.AIR &&
+            itemStack.getType() != MaterialCompat.safe(XMaterial.AIR) &&
             itemStack.hasItemMeta() &&
-            itemStack.getItemMeta().getPersistentDataContainer().has(
-                Keys.ARMOUR_INFO_ARMOUR_TYPE,
-                PersistentDataType.STRING
-            );
+            Pdc.hasString(itemStack.getItemMeta(), Keys.ARMOUR_INFO_ARMOUR_TYPE.toString());
     }
 
     public static boolean isTinkers(@Nullable ItemStack itemStack) {
@@ -600,68 +623,67 @@ public final class ItemUtils {
         return getArmourPlateMaterial(itemStack).equals(Ids.REINFORCED_ALLOY);
     }
 
-    public static int getTinkerExp(@Nonnull PersistentDataContainer c) {
-        Integer i = c.get(Keys.ST_EXP_CURRENT, PersistentDataType.INTEGER);
-        return i != null ? i : 0;
+    public static int getTinkerExp(@Nonnull ItemMeta im) {
+        return Pdc.getInt(im, Keys.ST_EXP_CURRENT.toString(), 0);
     }
 
     public static int getTinkerExp(ItemStack itemStack) {
         if (itemStack == null) return 0;
-        ItemMeta im = itemStack.getItemMeta();
-        PersistentDataContainer c = im.getPersistentDataContainer();
-        return getTinkerExp(c);
+        return getTinkerExp(itemStack.getItemMeta());
     }
 
-    public static int getTinkerRequiredExp(@Nonnull PersistentDataContainer c) {
-        return c.get(Keys.ST_EXP_REQUIRED, PersistentDataType.DOUBLE).intValue();
+    public static int getTinkerRequiredExp(@Nonnull ItemMeta im) {
+        return (int) Pdc.getDouble(im, Keys.ST_EXP_REQUIRED.toString(), 0);
     }
 
     public static int getTinkerRequiredExp(ItemStack itemStack) {
         if (itemStack == null) return 0;
-        ItemMeta im = itemStack.getItemMeta();
-        PersistentDataContainer c = im.getPersistentDataContainer();
-        return getTinkerRequiredExp(c);
+        return getTinkerRequiredExp(itemStack.getItemMeta());
     }
 
-    public static int getTinkerLevel(@Nonnull PersistentDataContainer c) {
-        Integer i = c.get(Keys.ST_LEVEL, PersistentDataType.INTEGER);
-        return i != null ? i : 0;
+    public static int getTinkerLevel(@Nonnull ItemMeta im) {
+        return Pdc.getInt(im, Keys.ST_LEVEL.toString(), 0);
     }
 
     public static int getTinkerLevel(ItemStack itemStack) {
         if (itemStack == null) return 0;
-        ItemMeta im = itemStack.getItemMeta();
-        PersistentDataContainer c = im.getPersistentDataContainer();
-        return getTinkerLevel(c);
+        return getTinkerLevel(itemStack.getItemMeta());
     }
 
-    public static int getTinkerModifierSlots(@Nonnull PersistentDataContainer c) {
-        Integer i = c.get(Keys.ST_MOD_SLOTS, PersistentDataType.INTEGER);
-        return i != null ? i : 0;
+    public static int getTinkerModifierSlots(@Nonnull ItemMeta im) {
+        return Pdc.getInt(im, Keys.ST_MOD_SLOTS.toString(), 0);
     }
 
     public static int getTinkerModifierSlots(ItemStack itemStack) {
         if (itemStack == null) return 0;
-        ItemMeta im = itemStack.getItemMeta();
-        PersistentDataContainer c = im.getPersistentDataContainer();
-        return getTinkerModifierSlots(c);
+        return getTinkerModifierSlots(itemStack.getItemMeta());
     }
 
-    public static void setTinkerModifierSlots(@Nonnull PersistentDataContainer c, int amount) {
-        c.set(Keys.ST_MOD_SLOTS, PersistentDataType.INTEGER, amount);
-    }
-
-    @Nonnull
-    public static String getLoreExp(PersistentDataContainer c) {
-        return ThemeUtils.ITEM_TOOL + "Level: " +
-            ChatColor.WHITE + getTinkerLevel(c) +
-            ThemeUtils.PASSIVE + " (" + getTinkerExp(c) + " / " + getTinkerRequiredExp(c) + ")";
+    public static void setTinkerModifierSlots(@Nonnull ItemMeta im, int amount) {
+        Pdc.setInt(im, Keys.ST_MOD_SLOTS.toString(), amount);
     }
 
     @Nonnull
-    public static String getLoreModSlots(PersistentDataContainer c) {
-        return ThemeUtils.ITEM_TOOL + "Modifier Slots: " +
-            ChatColor.WHITE + getTinkerModifierSlots(c);
+    public static String getLoreExp(ItemMeta im) {
+        return getLoreExp(im, serverDefaultLanguage());
+    }
+
+    @Nonnull
+    public static String getLoreExp(ItemMeta im, @Nullable String language) {
+        return ThemeUtils.ITEM_TOOL + loreText("level", "Level: ", language) +
+            ChatColor.WHITE + getTinkerLevel(im) +
+            ThemeUtils.PASSIVE + " (" + getTinkerExp(im) + " / " + getTinkerRequiredExp(im) + ")";
+    }
+
+    @Nonnull
+    public static String getLoreModSlots(ItemMeta im) {
+        return getLoreModSlots(im, serverDefaultLanguage());
+    }
+
+    @Nonnull
+    public static String getLoreModSlots(ItemMeta im, @Nullable String language) {
+        return ThemeUtils.ITEM_TOOL + loreText("modifier_slots", "Modifier Slots: ", language) +
+            ChatColor.WHITE + getTinkerModifierSlots(im);
     }
 
     public static boolean rejectCraftingRecipe(@Nonnull SlimefunItemStack i) {
@@ -693,7 +715,7 @@ public final class ItemUtils {
         ItemMeta im = i.getItemMeta();
         NamespacedKey key = new NamespacedKey(SlimeTinker.getInstance(), "cooldown_" + name);
         long time = System.currentTimeMillis();
-        long cd = PersistentDataAPI.getLong(im, key, 0);
+        long cd = Pdc.getLong(im, key.toString(), 0);
         return cd > time;
     }
 
@@ -702,18 +724,17 @@ public final class ItemUtils {
         NamespacedKey key = new NamespacedKey(SlimeTinker.getInstance(), "cooldown_" + name);
         long time = System.currentTimeMillis();
         long cd = time + duration;
-        PersistentDataAPI.setLong(im, key, cd);
+        Pdc.setLong(im, key.toString(), cd);
         i.setItemMeta(im);
     }
 
     public static boolean isToolExplosive(@Nonnull ItemStack itemStack) {
-        ItemMeta im = itemStack.getItemMeta();
-        return isToolExplosive(im.getPersistentDataContainer());
+        return isToolExplosive(itemStack.getItemMeta());
     }
 
-    public static boolean isToolExplosive(@Nonnull PersistentDataContainer c) {
-        NamespacedKey sfIDKey = new NamespacedKey(Slimefun.instance(), "slimefun_item");
-        String sID = c.get(sfIDKey, PersistentDataType.STRING);
+    public static boolean isToolExplosive(@Nonnull ItemMeta im) {
+        String sfIDKey = new NamespacedKey(Slimefun.instance(), "slimefun_item").toString();
+        String sID = Pdc.getString(im, sfIDKey);
         return sID.contains("_EXP");
     }
 

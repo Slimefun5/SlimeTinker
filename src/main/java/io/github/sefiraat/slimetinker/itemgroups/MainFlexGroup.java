@@ -10,11 +10,7 @@ import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
 import me.mrCookieSlime.CSCoreLibPlugin.general.Inventory.ChestMenu;
-import net.md_5.bungee.api.ChatColor;
-import net.md_5.bungee.api.chat.ClickEvent;
-import net.md_5.bungee.api.chat.TextComponent;
-import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
@@ -22,16 +18,7 @@ import javax.annotation.ParametersAreNonnullByDefault;
 
 public class MainFlexGroup extends FlexItemGroup {
 
-    private static final ItemStack DOCS_ITEM_STACK = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", Material.BOOK, ThemeUtils.GUIDE + "Documentation Wiki",
-        ThemeUtils.PASSIVE + "Click to get the link to the",
-        ThemeUtils.PASSIVE + "documentation Wiki for SlimeTinker",
-        ThemeUtils.PASSIVE + "and other Sefiraat addons.",
-        "",
-        ThemeUtils.CLICK_INFO + "Guide"
-    ).item();
-
     private static final int GUIDE_BACK = 1;
-    private static final int DOCS = 9;
     private static final int WORKSTATIONS = 10;
     private static final int MATERIALS = 11;
     private static final int MOLTEN_METALS = 12;
@@ -52,7 +39,7 @@ public class MainFlexGroup extends FlexItemGroup {
     };
 
     public MainFlexGroup(NamespacedKey key, ItemStack item) {
-        super(key, item);
+        super(new io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey(key.getNamespace(), key.getKey()), item);
     }
 
     @Override
@@ -96,16 +83,6 @@ public class MainFlexGroup extends FlexItemGroup {
         );
         menu.addMenuClickHandler(GUIDE_BACK, (player1, slot, itemStack, clickAction) -> {
             SlimefunGuide.openMainMenu(profile, mode, 1);
-            return false;
-        });
-
-        // Docs
-        menu.replaceExistingItem(DOCS, DOCS_ITEM_STACK);
-        menu.addMenuClickHandler(DOCS, (player1, i1, itemStack1, clickAction) -> {
-            final TextComponent link = new TextComponent("To access the documentation Wiki, please click here");
-            link.setColor(ChatColor.YELLOW);
-            link.setClickEvent(new ClickEvent(ClickEvent.Action.OPEN_URL, "https://sefiraat.dev/"));
-            player.spigot().sendMessage(link);
             return false;
         });
 

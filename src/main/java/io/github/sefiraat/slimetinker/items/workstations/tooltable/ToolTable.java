@@ -11,6 +11,7 @@ import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
@@ -21,7 +22,6 @@ import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.persistence.PersistentDataType;
 
 import javax.annotation.Nonnull;
 
@@ -82,11 +82,11 @@ public class ToolTable extends TickingMenuBlock {
         ItemStack tool;
 
         ToolDefinition toolDefinition = new ToolDefinition(
-            hm.getPersistentDataContainer().get(Keys.PART_CLASS, PersistentDataType.STRING),
-            hm.getPersistentDataContainer().get(Keys.PART_TYPE, PersistentDataType.STRING),
-            hm.getPersistentDataContainer().get(Keys.PART_MATERIAL, PersistentDataType.STRING),
-            bm.getPersistentDataContainer().get(Keys.PART_MATERIAL, PersistentDataType.STRING),
-            rm.getPersistentDataContainer().get(Keys.PART_MATERIAL, PersistentDataType.STRING)
+            Pdc.getString(hm, Keys.PART_CLASS.toString()),
+            Pdc.getString(hm, Keys.PART_TYPE.toString()),
+            Pdc.getString(hm, Keys.PART_MATERIAL.toString()),
+            Pdc.getString(bm, Keys.PART_MATERIAL.toString()),
+            Pdc.getString(rm, Keys.PART_MATERIAL.toString())
         );
 
         if (
@@ -145,10 +145,10 @@ public class ToolTable extends TickingMenuBlock {
         if (itemStack == null || !itemStack.hasItemMeta()) { // No item
             return false;
         }
-        if (!itemStack.getItemMeta().getPersistentDataContainer().has(Keys.PART_CLASS, PersistentDataType.STRING)) { // Not a part
+        if (!Pdc.hasString(itemStack.getItemMeta(), Keys.PART_CLASS.toString())) { // Not a part
             return false;
         }
-        String type = itemStack.getItemMeta().getPersistentDataContainer().get(Keys.PART_CLASS, PersistentDataType.STRING);
+        String type = Pdc.getString(itemStack.getItemMeta(), Keys.PART_CLASS.toString());
         assert type != null;
         return type.equals(classType);
     }

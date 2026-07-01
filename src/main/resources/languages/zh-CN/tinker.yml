@@ -1,0 +1,394 @@
+# SlimeTinker runtime-composed name fragments. Keyed by material/type id.
+materials:
+  IRON: 铁
+  GOLD: 金
+  COPPER: 铜
+  SILVER: 银
+  TIN: 锡
+  MAGNESIUM: 镁
+  ALUMINUM: 铝
+  LEAD: 铅
+  ZINC: 锌
+  COAL: 煤炭
+  STEEL: 钢
+  DAMASCUS_STEEL: 大马士革钢
+  DURALIUM: 硬铝
+  BRONZE: 青铜
+  ALUMINUM_BRONZE: 铝青铜
+  HARDENED_METAL: 强化金属
+  CORINTHIAN_BRONZE: 科林斯青铜
+  SOLDER: 焊锡
+  BILLON: 贱银合金
+  BRASS: 黄铜
+  ALUMINUM_BRASS: 铝黄铜
+  NICKEL: 镍
+  COBALT: 钴
+  REINFORCED_ALLOY: 强化合金
+  STRING: 线
+  VINE: 藤蔓
+  CRIMSON_ROOT: 绯红菌根
+  WARPED_ROOT: 诡异菌根
+  WEEPING_VINE: 垂泪藤
+  TWISTED_VINE: 缠怨藤
+  SLIME: 黏液
+  LEATHER: 皮革
+  DIAMOND: 钻石
+  DRACONIC: 龙息
+  REDSTONE: 红石
+  REDSTONE_ALLOY: 红石合金
+  SILICON: 硅
+  FERROSILICON: 硅铁
+  BOOMERITE: 爆裂矿
+  SEFIRITE: 塞菲里特
+  LIQUID_CHRISTMAS: 液态圣诞
+  CRINGLEIUM: 圣诞翁矿
+  FLOWING_FONDNESS: 流动眷恋
+  DETAILED_DEVOTION: 精致挚爱
+  PURIFIED_PASSION: 纯净激情
+  LIQUID_LOVE: 液态爱意
+  NICEINIUM: 美好矿
+  SMITHIUM: 锻造矿
+  ANNIVERSARIUM: 周年矿
+  VOID: 虚空
+  INFINITE: 无限
+  FORTUNE_SINGULARITY: 幸运奇点
+  MAGIC_SINGULARITY: 魔法奇点
+  EARTH_SINGULARITY: 大地奇点
+  METAL_SINGULARITY: 金属奇点
+  MAGSTEEL: 镁钢
+  TITANIUM: 钛
+  MYTHRIL: 秘银
+  ADAMANTITE: 精金
+  MAGNONIUM: 磁能矿
+  COPPER_SINGULARITY: 铜奇点
+  ZINC_SINGULARITY: 锌奇点
+  TIN_SINGULARITY: 锡奇点
+  ALUMINUM_SINGULARITY: 铝奇点
+  SILVER_SINGULARITY: 银奇点
+  MAGNESIUM_SINGULARITY: 镁奇点
+  LEAD_SINGULARITY: 铅奇点
+  GOLD_SINGULARITY: 金奇点
+  IRON_SINGULARITY: 铁奇点
+  DIAMOND_SINGULARITY: 钻石奇点
+  INFINITY_SINGULARITY: 无限奇点
+  REINFORCED_DRACONIUM: 强化龙晶
+  SLIME_STEEL: 黏液钢
+  REINFORCED_SLIME_STEEL: 强化黏液钢
+  OSMIUM_SUPERALLOY: 锇超合金
+  OSMIUM: 锇
+  SEGGANESSON: 塞加内森
+  UNPATENTABLIUM: 无专利矿
+  STAINLESS_STEEL: 不锈钢
+  VEX_GEM: 恼鬼宝石
+  STAR_DUST: 星尘
+  GHOSTLY_ESSENCE: 幽灵精华
+  TESSERACTING_MATERIAL: 超立方材料
+  RUBBER: 橡胶
+  REFINED_IRON: 精炼铁
+  MIXED_METAL: 混合金属
+  ADVANCED_ALLOY: 高级合金
+  THORIUM: 钍
+  MAG_THOR: 镁钍合金
+  CARBON_MESH: 碳纤维网
+  SCRAP: 废料
+  IRIDIUM: 铱
+  DAXI_STRENGTH: 达熙力量
+  DAXI_ABSORPTION: 达熙吸收
+  DAXI_FORTITUDE: 达熙坚韧
+  DAXI_SATURATION: 达熙饱腹
+  DAXI_REGENERATION: 达熙再生
+  INTERDIMENSIONAL_PRESENCE: 次元临在
+  REMOTININIUM: 雷莫提尼姆矿
+  ULTIMANINIUM: 终极矿
+tool-types:
+  SHOVEL: 锹
+  PICK: 镐
+  PICKAXE: 镐
+  AXE: 斧
+  HOE: 锄
+  SWORD: 剑
+armour-types:
+  HELMET: 头盔
+  CHESTPLATE: 胸甲
+  LEGGINGS: 护腿
+  BOOTS: 靴子
+part-types:
+  HEAD_SHOVEL: 锹头
+  HEAD_PICK: 镐头
+  HEAD_AXE: 斧头
+  HEAD_HOE: 锄头
+  HEAD_SWORD: 剑刃
+  ROD: 工具杆
+  BINDING: 绑定件
+  PLATE_HELMET: 头盔甲板
+  PLATE_CHESTPLATE: 胸甲甲板
+  PLATE_LEGGINGS: 护腿甲板
+  PLATE_BOOTS: 靴子甲板
+  GAMBESON: 软垫衬甲
+  LINKS: 锁甲环
+  REPAIR: 修复工具包
+lore:
+  head_abbrev: '头: '
+  binder_abbrev: '黏: '
+  rod_abbrev: '杆: '
+  plate_abbrev: '板: '
+  gambeson_abbrev: '衬: '
+  links_abbrev: '锁: '
+  level: '等级: '
+  modifier_slots: '改良槽: '
+  mod_level: ' 等级 '
+  mod_max: ' - (最高)'
+modifiers:
+  REDSTONE: '红石'
+  LAPIS_LAZULI: '青金石'
+  QUARTZ: '石英'
+  DIAMOND: '钻石'
+  EMERALD: '绿宝石'
+  MOD_PLATE: '改良板'
+traits:
+  "10 Years of (Slime)fun!": "（黏液）科技十周年！"
+  "Abra": "阿勃拉"
+  "Acupuncture": "针灸"
+  "Acupuncture II": "针灸 II"
+  "Adamant": "坚毅"
+  "All That Glitters II": "闪光者 II"
+  "All that Glitters": "闪光者"
+  "Annoying": "恼人"
+  "Attraction": "吸引"
+  "Band": "束带"
+  "Barter": "易物"
+  "Barter II": "易物 II"
+  "Beautiful": "绚丽"
+  "Beginner": "新手"
+  "Beginner II": "新手 II"
+  "Blinding Speed": "炫目疾速"
+  "Boost": "增益"
+  "Boost II": "增益 II"
+  "Bouncy": "弹力"
+  "Bouncy II": "弹力 II"
+  "Brains, Not Brawn": "智取不蛮干"
+  "Brains, Not Brawn II": "智取不蛮干 II"
+  "Brains, Not Brawn.": "智取不蛮干。"
+  "Breakpoint": "断点"
+  "Bright Fury": "炽怒"
+  "Bright-burn": "炽燃"
+  "Brightburn": "炽燃者"
+  "Brittle": "脆弱"
+  "Brute": "蛮力"
+  "Building Rage": "蓄怒"
+  "Bulky": "笨重"
+  "Call of the Wild": "野性的呼唤"
+  "Can": "罐头"
+  "Can II": "罐头 II"
+  "Carbon Fibre": "碳纤维"
+  "Celebrate": "庆典"
+  "Charged Head +": "充能头 +"
+  "Charged Head -": "充能头 -"
+  "Charged Rod +": "充能杆 +"
+  "Charged Rod -": "充能杆 -"
+  "Clean Cut": "利落一击"
+  "Cleave": "顺劈"
+  "Compounding": "复利"
+  "Conceptual Defence": "概念防御"
+  "Conductive": "导电"
+  "Conductive II": "导电 II"
+  "Conductivity": "导电性"
+  "Conductivity II": "导电性 II"
+  "Conductor": "导体"
+  "Craftsmanship": "匠艺"
+  "Cutlery": "刀叉"
+  "Decay": "衰朽"
+  "Defender": "守卫"
+  "Deflection": "偏转"
+  "Deflective": "偏转性"
+  "Doom": "厄运"
+  "Draconic Tantrum": "龙之暴怒"
+  "Draw": "拔刀"
+  "Durable": "耐用"
+  "Dwarven Skills": "矮人技艺"
+  "Earth Shaker": "撼地者"
+  "Easily Shaped": "易塑形"
+  "Easily Shaped II": "易塑形 II"
+  "Easy Fix": "轻松修复"
+  "Eject!": "弹射！"
+  "Elven Speed": "精灵疾行"
+  "Enchanting": "附魔"
+  "Enchanting II": "附魔 II"
+  "Escape": "遁逃"
+  "Even More Advanced": "更上层楼"
+  "Experienced": "经验老到"
+  "Falling Apart": "分崩离析"
+  "Farmer": "农夫"
+  "Fast": "迅捷"
+  "Fear the Void": "畏惧虚空"
+  "Feeling Connected": "心有灵犀"
+  "Feeling Festive": "节日气氛"
+  "Flaming Hot": "灼热"
+  "Flammable": "易燃"
+  "Flammable II": "易燃 II"
+  "Flexibility": "柔韧"
+  "Foil": "箔片"
+  "Foil II": "箔片 II"
+  "Fortunate": "幸运"
+  "Fused": "熔接"
+  "Ghost in the shell": "壳中幽灵"
+  "Ghostly": "幽灵"
+  "Gleam": "微光"
+  "Go Boomer": "爆裂吧"
+  "Golden Veil": "黄金面纱"
+  "Golden Veil II": "黄金面纱 II"
+  "Graceful": "优雅"
+  "Graceful II": "优雅 II"
+  "Gravity": "重力"
+  "Grinder": "研磨"
+  "Growth": "生长"
+  "Hardy": "强健"
+  "Heat Conductor": "导热体"
+  "Heat Resistance": "抗热"
+  "Heat Resistant": "耐热"
+  "Heavy": "沉重"
+  "Heavy Duty": "重负荷"
+  "Heavy Pommel": "重柄头"
+  "Hidden": "隐匿"
+  "How Fortunate": "何其幸运"
+  "Hyberbolic Tesseration": "双曲超立方"
+  "Hydrogen": "氢"
+  "HyperCube [A]": "超立方体 [A]"
+  "HyperCube [B]": "超立方体 [B]"
+  "Incorporeal": "无形"
+  "Incorporeal Right": "无形之右"
+  "Increased Mass": "质量增加"
+  "Indomitable": "不屈"
+  "Industrious": "勤勉"
+  "Infinite": "无限"
+  "Infinite Capacity": "无限容量"
+  "Infinite Defence": "无限防御"
+  "Infinitly Powerful": "无限强大"
+  "Ingheights": "诡异异常"
+  "Innovation": "革新"
+  "Insulated": "绝缘"
+  "Intense Gaze": "凝视"
+  "It's all you need": "你只需这些"
+  "It's only natural": "自然而然"
+  "KOTR": "圆桌骑士"
+  "Kingsman": "王牌特工"
+  "Ladder Simulator™": "爬梯模拟器™"
+  "Lava Walker": "熔岩行者"
+  "Leech": "吸血蛭"
+  "Leech II": "吸血蛭 II"
+  "Light": "轻盈"
+  "Light II": "轻盈 II"
+  "Lightning Rod": "避雷针"
+  "Lightweight": "轻量"
+  "Magical Mint": "魔法薄荷"
+  "Magnanimous": "宽宏大量"
+  "MagneSight™": "磁视™"
+  "MagneSight™ II": "磁视™ II"
+  "Magnetesium": "磁镁"
+  "Magnetesium II": "磁镁 II"
+  "Magnetic +": "磁性 +"
+  "Magnetic -": "磁性 -"
+  "Magus": "法师"
+  "Malleable": "可锻"
+  "Malleable II": "可锻 II"
+  "Manners Maketh Man": "礼仪成就人"
+  "Merchant's Veil": "商人面纱"
+  "Mix it up!": "混搭一下！"
+  "Mixed Metals": "混合金属"
+  "Moon Bounce": "月面弹跳"
+  "Mystic": "神秘"
+  "Narrowing": "收束"
+  "Nice": "妙"
+  "Nightstalker": "夜行者"
+  "Nimble": "灵巧"
+  "NoClip": "穿墙"
+  "Non-Corrosive": "防腐蚀"
+  "Non-Corrosive II": "防腐蚀 II"
+  "Oroborus": "衔尾蛇"
+  "Overcharge": "过载"
+  "Oxygenated": "充氧"
+  "Partial Decay": "部分衰朽"
+  "Pathetic": "可悲"
+  "Planewalker": "位面行者"
+  "Poisonous": "剧毒"
+  "Poisonous II": "剧毒 II"
+  "Powered On": "已通电"
+  "Prosperous": "兴旺"
+  "Prosperous II": "兴旺 II"
+  "Protective": "护佑"
+  "Radioactive Plates": "放射性镀层"
+  "Really Stable": "极其稳定"
+  "Really Stainless": "极致不锈"
+  "Recyclable": "可回收"
+  "Recyclable II": "可回收 II"
+  "Refreshing": "焕活"
+  "Reinforcable": "可强化"
+  "Reinforced": "强化"
+  "Resistance": "抗性"
+  "Rigid Flexibility": "刚柔并济"
+  "Rusty": "生锈"
+  "Rusty II": "生锈 II"
+  "Scarpaaarr!": "快跑啊啊啊！"
+  "Secrets Revealed": "揭秘"
+  "Sharp 1": "锋利 1"
+  "Sharp 1 II": "锋利 1 II"
+  "Sharp 2": "锋利 2"
+  "Shock Absorbant": "减震"
+  "Sickly": "病态"
+  "Sickly II": "病态 II"
+  "Slow Learner": "慢学者"
+  "Sneaky": "潜行"
+  "Sneaky II": "潜行 II"
+  "Snroht": "刺荆"
+  "Soft": "柔软"
+  "Soft II": "柔软 II"
+  "Soft Landing": "软着陆"
+  "Soft Touch": "轻触"
+  "Soft Touch II": "轻触 II"
+  "Solar Powered": "太阳能驱动"
+  "Soul Siphon": "灵魂虹吸"
+  "Springs": "弹簧"
+  "Stability": "稳定"
+  "Stability II": "稳定 II"
+  "Stainless": "不锈"
+  "Starshine": "星辉"
+  "Steadfast": "坚定"
+  "Steadfast II": "坚定 II"
+  "Stiff": "僵硬"
+  "Sting of Gondolin": "刚多林之刺"
+  "Strong": "强壮"
+  "Strong and Sticky": "强韧黏腻"
+  "Studious": "勤学"
+  "Super Dooper Stainless": "超级无敌不锈"
+  "Super Lightweight": "超轻量"
+  "Super Lightweight II": "超轻量 II"
+  "Superhot": "超热"
+  "Sweaty": "汗流浃背"
+  "Tarnished": "失光"
+  "Tarnished II": "失光 II"
+  "Tempest": "暴风"
+  "Terrible": "糟糕"
+  "The End": "末地"
+  "The Power of Daxi": "Daxi 之力"
+  "The Standard": "标准"
+  "Thick": "厚重"
+  "Too Hot to Handle": "烫手难持"
+  "Toughened": "强韧化"
+  "Tricks": "戏法"
+  "Tuff Stuff": "硬核家伙"
+  "Unconventional Power": "非常规之力"
+  "Unite - Absorption": "联结 - 伤害吸收"
+  "Unite - Fortitude": "联结 - 坚韧"
+  "Unite - Regeneration": "联结 - 生命恢复"
+  "Unite - Saturation": "联结 - 饱和"
+  "Vampirism": "吸血"
+  "Void Miner": "虚空矿工"
+  "WHM": "白法师"
+  "Warm Blodded": "温血"
+  "Warp": "传送"
+  "Water Safe": "水下无虞"
+  "Who needs pressure plates?": "谁还需要压力板？"
+  "Witherproof": "抗凋零"
+  "Wizard Robes": "巫师长袍"
+  "Works": "可用"
+  "Yvaine": "伊万妮"

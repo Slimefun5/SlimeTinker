@@ -1,7 +1,7 @@
 package io.github.sefiraat.slimetinker.listeners;
 
 import io.github.sefiraat.slimetinker.utils.Keys;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
@@ -13,14 +13,14 @@ public class GeneralEntityEventListener implements Listener {
     @SuppressWarnings("unused")
     @EventHandler
     public void onEntityTeleport(EntityTeleportEvent event) {
-        if (PersistentDataAPI.hasString(event.getEntity(), Keys.TOOL_FLAG_TELEPORT)) {
+        if (Pdc.hasString(event.getEntity(), Keys.TOOL_FLAG_TELEPORT.toString())) {
             event.setCancelled(true);
         }
     }
 
     @EventHandler
     public void onChangeTarget(EntityTargetLivingEntityEvent event) {
-        String id = PersistentDataAPI.getString(event.getEntity(), Keys.ARMOUR_HAPPY_PIGLIN);
+        String id = Pdc.getString(event.getEntity(), Keys.ARMOUR_HAPPY_PIGLIN.toString());
         if (event.getTarget() instanceof Player) {
             Player p = (Player) event.getTarget();
             if (id != null && id.equals(p.getUniqueId().toString())) {

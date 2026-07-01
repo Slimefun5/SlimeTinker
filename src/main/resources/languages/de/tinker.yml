@@ -1,0 +1,394 @@
+# SlimeTinker runtime-composed name fragments. Keyed by material/type id.
+materials:
+  IRON: Eisen
+  GOLD: Gold
+  COPPER: Kupfer
+  SILVER: Silber
+  TIN: Zinn
+  MAGNESIUM: Magnesium
+  ALUMINUM: Aluminium
+  LEAD: Blei
+  ZINC: Zink
+  COAL: Kohle
+  STEEL: Stahl
+  DAMASCUS_STEEL: Damaststahl
+  DURALIUM: Duralium
+  BRONZE: Bronze
+  ALUMINUM_BRONZE: Aluminiumbronze
+  HARDENED_METAL: Gehärtetes Metall
+  CORINTHIAN_BRONZE: Korinthische Bronze
+  SOLDER: Lötzinn
+  BILLON: Billon
+  BRASS: Messing
+  ALUMINUM_BRASS: Aluminiummessing
+  NICKEL: Nickel
+  COBALT: Kobalt
+  REINFORCED_ALLOY: Verstärkte Legierung
+  STRING: Faden
+  VINE: Ranke
+  CRIMSON_ROOT: Karmesinwurzel
+  WARPED_ROOT: Wirrwurzel
+  WEEPING_VINE: Tränenranke
+  TWISTED_VINE: Zwirbelranke
+  SLIME: Schleim
+  LEATHER: Leder
+  DIAMOND: Diamant
+  DRACONIC: Drakonisch
+  REDSTONE: Redstone
+  REDSTONE_ALLOY: Redstone-Legierung
+  SILICON: Silizium
+  FERROSILICON: Ferrosilizium
+  BOOMERITE: Boomerit
+  SEFIRITE: Sefirit
+  LIQUID_CHRISTMAS: Flüssige Weihnacht
+  CRINGLEIUM: Cringleium
+  FLOWING_FONDNESS: Fließende Zuneigung
+  DETAILED_DEVOTION: Detaillierte Hingabe
+  PURIFIED_PASSION: Gereinigte Leidenschaft
+  LIQUID_LOVE: Flüssige Liebe
+  NICEINIUM: Niceinium
+  SMITHIUM: Smithium
+  ANNIVERSARIUM: Anniversarium
+  VOID: Leere
+  INFINITE: Unendlich
+  FORTUNE_SINGULARITY: Glücks-Singularität
+  MAGIC_SINGULARITY: Magie-Singularität
+  EARTH_SINGULARITY: Erd-Singularität
+  METAL_SINGULARITY: Metall-Singularität
+  MAGSTEEL: Magstahl
+  TITANIUM: Titan
+  MYTHRIL: Mithril
+  ADAMANTITE: Adamantit
+  MAGNONIUM: Magnonium
+  COPPER_SINGULARITY: Kupfer-Singularität
+  ZINC_SINGULARITY: Zink-Singularität
+  TIN_SINGULARITY: Zinn-Singularität
+  ALUMINUM_SINGULARITY: Aluminium-Singularität
+  SILVER_SINGULARITY: Silber-Singularität
+  MAGNESIUM_SINGULARITY: Magnesium-Singularität
+  LEAD_SINGULARITY: Blei-Singularität
+  GOLD_SINGULARITY: Gold-Singularität
+  IRON_SINGULARITY: Eisen-Singularität
+  DIAMOND_SINGULARITY: Diamant-Singularität
+  INFINITY_SINGULARITY: Unendlichkeits-Singularität
+  REINFORCED_DRACONIUM: Verstärktes Draconium
+  SLIME_STEEL: Schleimstahl
+  REINFORCED_SLIME_STEEL: Verstärkter Schleimstahl
+  OSMIUM_SUPERALLOY: Osmium-Superlegierung
+  OSMIUM: Osmium
+  SEGGANESSON: Segganesson
+  UNPATENTABLIUM: Unpatentablium
+  STAINLESS_STEEL: Edelstahl
+  VEX_GEM: Plagegeist-Edelstein
+  STAR_DUST: Sternenstaub
+  GHOSTLY_ESSENCE: Geisterhafte Essenz
+  TESSERACTING_MATERIAL: Tesserakt-Material
+  RUBBER: Gummi
+  REFINED_IRON: Veredeltes Eisen
+  MIXED_METAL: Mischmetall
+  ADVANCED_ALLOY: Fortschrittliche Legierung
+  THORIUM: Thorium
+  MAG_THOR: Mag-Thor
+  CARBON_MESH: Kohlefasergewebe
+  SCRAP: Schrott
+  IRIDIUM: Iridium
+  DAXI_STRENGTH: Daxi-Stärke
+  DAXI_ABSORPTION: Daxi-Absorption
+  DAXI_FORTITUDE: Daxi-Widerstandskraft
+  DAXI_SATURATION: Daxi-Sättigung
+  DAXI_REGENERATION: Daxi-Regeneration
+  INTERDIMENSIONAL_PRESENCE: Interdimensionale Präsenz
+  REMOTININIUM: Remotininium
+  ULTIMANINIUM: Ultimaninium
+tool-types:
+  SHOVEL: Schaufel
+  PICK: Spitzhacke
+  PICKAXE: Spitzhacke
+  AXE: Axt
+  HOE: Hacke
+  SWORD: Schwert
+armour-types:
+  HELMET: Helm
+  CHESTPLATE: Brustpanzer
+  LEGGINGS: Beinschienen
+  BOOTS: Stiefel
+part-types:
+  HEAD_SHOVEL: Schaufelkopf
+  HEAD_PICK: Spitzhackenkopf
+  HEAD_AXE: Axtkopf
+  HEAD_HOE: Hackenkopf
+  HEAD_SWORD: Schwertklinge
+  ROD: Werkzeugstab
+  BINDING: Bindung
+  PLATE_HELMET: Helmplatten
+  PLATE_CHESTPLATE: Brustpanzerplatten
+  PLATE_LEGGINGS: Beinschienenplatten
+  PLATE_BOOTS: Stiefelplatten
+  GAMBESON: Gambeson
+  LINKS: Kettenglieder
+  REPAIR: Reparaturset
+lore:
+  head_abbrev: 'K: '
+  binder_abbrev: 'B: '
+  rod_abbrev: 'S: '
+  plate_abbrev: 'P: '
+  gambeson_abbrev: 'W: '
+  links_abbrev: 'G: '
+  level: 'Stufe: '
+  modifier_slots: 'Modifikator-Slots: '
+  mod_level: ' Stufe '
+  mod_max: ' - (MAX)'
+modifiers:
+  REDSTONE: 'Redstone'
+  LAPIS_LAZULI: 'Lapislazuli'
+  QUARTZ: 'Quarz'
+  DIAMOND: 'Diamant'
+  EMERALD: 'Smaragd'
+  MOD_PLATE: 'Mod-Platte'
+traits:
+  "10 Years of (Slime)fun!": "10 Jahre (Slime)fun!"
+  "Abra": "Abra"
+  "Acupuncture": "Akupunktur"
+  "Acupuncture II": "Akupunktur II"
+  "Adamant": "Unbeugsam"
+  "All That Glitters II": "Alles, was glänzt II"
+  "All that Glitters": "Alles, was glänzt"
+  "Annoying": "Nervig"
+  "Attraction": "Anziehung"
+  "Band": "Bandage"
+  "Barter": "Tauschhandel"
+  "Barter II": "Tauschhandel II"
+  "Beautiful": "Wunderschön"
+  "Beginner": "Anfänger"
+  "Beginner II": "Anfänger II"
+  "Blinding Speed": "Blendende Schnelligkeit"
+  "Boost": "Schub"
+  "Boost II": "Schub II"
+  "Bouncy": "Federnd"
+  "Bouncy II": "Federnd II"
+  "Brains, Not Brawn": "Köpfchen statt Muskeln"
+  "Brains, Not Brawn II": "Köpfchen statt Muskeln II"
+  "Brains, Not Brawn.": "Köpfchen statt Muskeln."
+  "Breakpoint": "Bruchpunkt"
+  "Bright Fury": "Glühender Zorn"
+  "Bright-burn": "Hellbrand"
+  "Brightburn": "Hellbrand"
+  "Brittle": "Spröde"
+  "Brute": "Brutalo"
+  "Building Rage": "Aufkeimende Wut"
+  "Bulky": "Wuchtig"
+  "Call of the Wild": "Ruf der Wildnis"
+  "Can": "Dose"
+  "Can II": "Dose II"
+  "Carbon Fibre": "Kohlefaser"
+  "Celebrate": "Feiern"
+  "Charged Head +": "Geladener Kopf +"
+  "Charged Head -": "Geladener Kopf -"
+  "Charged Rod +": "Geladene Rute +"
+  "Charged Rod -": "Geladene Rute -"
+  "Clean Cut": "Sauberer Schnitt"
+  "Cleave": "Spalten"
+  "Compounding": "Verstärkung"
+  "Conceptual Defence": "Konzeptionelle Verteidigung"
+  "Conductive": "Leitfähig"
+  "Conductive II": "Leitfähig II"
+  "Conductivity": "Leitfähigkeit"
+  "Conductivity II": "Leitfähigkeit II"
+  "Conductor": "Leiter"
+  "Craftsmanship": "Handwerkskunst"
+  "Cutlery": "Besteck"
+  "Decay": "Verfall"
+  "Defender": "Verteidiger"
+  "Deflection": "Ablenkung"
+  "Deflective": "Abweisend"
+  "Doom": "Verhängnis"
+  "Draconic Tantrum": "Drachischer Wutanfall"
+  "Draw": "Spannkraft"
+  "Durable": "Langlebig"
+  "Dwarven Skills": "Zwergenkunst"
+  "Earth Shaker": "Erderschütterer"
+  "Easily Shaped": "Leicht Formbar"
+  "Easily Shaped II": "Leicht Formbar II"
+  "Easy Fix": "Schnelle Reparatur"
+  "Eject!": "Auswurf!"
+  "Elven Speed": "Elbenschnelligkeit"
+  "Enchanting": "Verzaubernd"
+  "Enchanting II": "Verzaubernd II"
+  "Escape": "Flucht"
+  "Even More Advanced": "Noch Fortgeschrittener"
+  "Experienced": "Erfahren"
+  "Falling Apart": "Auseinanderfallend"
+  "Farmer": "Bauer"
+  "Fast": "Schnell"
+  "Fear the Void": "Fürchte die Leere"
+  "Feeling Connected": "Verbunden Fühlen"
+  "Feeling Festive": "Festliche Stimmung"
+  "Flaming Hot": "Lodernd Heiß"
+  "Flammable": "Brennbar"
+  "Flammable II": "Brennbar II"
+  "Flexibility": "Flexibilität"
+  "Foil": "Florett"
+  "Foil II": "Florett II"
+  "Fortunate": "Glücklich"
+  "Fused": "Verschmolzen"
+  "Ghost in the shell": "Geist in der Hülle"
+  "Ghostly": "Geisterhaft"
+  "Gleam": "Schimmer"
+  "Go Boomer": "Bumm-Macher"
+  "Golden Veil": "Goldener Schleier"
+  "Golden Veil II": "Goldener Schleier II"
+  "Graceful": "Anmutig"
+  "Graceful II": "Anmutig II"
+  "Gravity": "Schwerkraft"
+  "Grinder": "Schleifer"
+  "Growth": "Wachstum"
+  "Hardy": "Robust"
+  "Heat Conductor": "Wärmeleiter"
+  "Heat Resistance": "Hitzebeständigkeit"
+  "Heat Resistant": "Hitzebeständig"
+  "Heavy": "Schwer"
+  "Heavy Duty": "Hochleistung"
+  "Heavy Pommel": "Schwerer Knauf"
+  "Hidden": "Verborgen"
+  "How Fortunate": "Welch ein Glück"
+  "Hyberbolic Tesseration": "Hyperbolische Tesseration"
+  "Hydrogen": "Wasserstoff"
+  "HyperCube [A]": "HyperWürfel [A]"
+  "HyperCube [B]": "HyperWürfel [B]"
+  "Incorporeal": "Körperlos"
+  "Incorporeal Right": "Körperlos Rechts"
+  "Increased Mass": "Erhöhte Masse"
+  "Indomitable": "Unbezwingbar"
+  "Industrious": "Fleißig"
+  "Infinite": "Unendlich"
+  "Infinite Capacity": "Unendliche Kapazität"
+  "Infinite Defence": "Unendliche Verteidigung"
+  "Infinitly Powerful": "Unendlich Mächtig"
+  "Ingheights": "Inghöhen"
+  "Innovation": "Innovation"
+  "Insulated": "Isoliert"
+  "Intense Gaze": "Intensiver Blick"
+  "It's all you need": "Mehr brauchst du nicht"
+  "It's only natural": "Ganz natürlich"
+  "KOTR": "RDT"
+  "Kingsman": "Königsdiener"
+  "Ladder Simulator™": "Leiter-Simulator™"
+  "Lava Walker": "Lavaläufer"
+  "Leech": "Blutegel"
+  "Leech II": "Blutegel II"
+  "Light": "Leicht"
+  "Light II": "Leicht II"
+  "Lightning Rod": "Blitzableiter"
+  "Lightweight": "Leichtgewicht"
+  "Magical Mint": "Magische Minze"
+  "Magnanimous": "Großmütig"
+  "MagneSight™": "MagnetBlick™"
+  "MagneSight™ II": "MagnetBlick™ II"
+  "Magnetesium": "Magnetesium"
+  "Magnetesium II": "Magnetesium II"
+  "Magnetic +": "Magnetisch +"
+  "Magnetic -": "Magnetisch -"
+  "Magus": "Magus"
+  "Malleable": "Verformbar"
+  "Malleable II": "Verformbar II"
+  "Manners Maketh Man": "Manieren machen den Menschen"
+  "Merchant's Veil": "Schleier des Händlers"
+  "Mix it up!": "Misch es auf!"
+  "Mixed Metals": "Gemischte Metalle"
+  "Moon Bounce": "Mondsprung"
+  "Mystic": "Mystisch"
+  "Narrowing": "Verengung"
+  "Nice": "Nett"
+  "Nightstalker": "Nachtschleicher"
+  "Nimble": "Flink"
+  "NoClip": "NoClip"
+  "Non-Corrosive": "Nicht Korrosiv"
+  "Non-Corrosive II": "Nicht Korrosiv II"
+  "Oroborus": "Ouroboros"
+  "Overcharge": "Überladung"
+  "Oxygenated": "Sauerstoffreich"
+  "Partial Decay": "Teilweiser Verfall"
+  "Pathetic": "Erbärmlich"
+  "Planewalker": "Ebenenwanderer"
+  "Poisonous": "Giftig"
+  "Poisonous II": "Giftig II"
+  "Powered On": "Eingeschaltet"
+  "Prosperous": "Wohlhabend"
+  "Prosperous II": "Wohlhabend II"
+  "Protective": "Schützend"
+  "Radioactive Plates": "Radioaktive Platten"
+  "Really Stable": "Wirklich Stabil"
+  "Really Stainless": "Wirklich Rostfrei"
+  "Recyclable": "Wiederverwertbar"
+  "Recyclable II": "Wiederverwertbar II"
+  "Refreshing": "Erfrischend"
+  "Reinforcable": "Verstärkbar"
+  "Reinforced": "Verstärkt"
+  "Resistance": "Widerstand"
+  "Rigid Flexibility": "Starre Flexibilität"
+  "Rusty": "Rostig"
+  "Rusty II": "Rostig II"
+  "Scarpaaarr!": "Scarpaaarr!"
+  "Secrets Revealed": "Enthüllte Geheimnisse"
+  "Sharp 1": "Scharf 1"
+  "Sharp 1 II": "Scharf 1 II"
+  "Sharp 2": "Scharf 2"
+  "Shock Absorbant": "Stoßdämpfend"
+  "Sickly": "Kränklich"
+  "Sickly II": "Kränklich II"
+  "Slow Learner": "Langsamer Lerner"
+  "Sneaky": "Heimtückisch"
+  "Sneaky II": "Heimtückisch II"
+  "Snroht": "Nreod"
+  "Soft": "Weich"
+  "Soft II": "Weich II"
+  "Soft Landing": "Sanfte Landung"
+  "Soft Touch": "Sanfte Berührung"
+  "Soft Touch II": "Sanfte Berührung II"
+  "Solar Powered": "Solarbetrieben"
+  "Soul Siphon": "Seelensauger"
+  "Springs": "Federn"
+  "Stability": "Stabilität"
+  "Stability II": "Stabilität II"
+  "Stainless": "Rostfrei"
+  "Starshine": "Sternenglanz"
+  "Steadfast": "Standhaft"
+  "Steadfast II": "Standhaft II"
+  "Stiff": "Steif"
+  "Sting of Gondolin": "Stich von Gondolin"
+  "Strong": "Stark"
+  "Strong and Sticky": "Stark und Klebrig"
+  "Studious": "Lernbegierig"
+  "Super Dooper Stainless": "Super Dooper Rostfrei"
+  "Super Lightweight": "Super Leichtgewicht"
+  "Super Lightweight II": "Super Leichtgewicht II"
+  "Superhot": "Superheiß"
+  "Sweaty": "Schweißtreibend"
+  "Tarnished": "Angelaufen"
+  "Tarnished II": "Angelaufen II"
+  "Tempest": "Sturm"
+  "Terrible": "Schrecklich"
+  "The End": "Das Ende"
+  "The Power of Daxi": "Die Macht von Daxi"
+  "The Standard": "Der Standard"
+  "Thick": "Dick"
+  "Too Hot to Handle": "Zu Heiß zum Anfassen"
+  "Toughened": "Gehärtet"
+  "Tricks": "Tricks"
+  "Tuff Stuff": "Hartes Zeug"
+  "Unconventional Power": "Unkonventionelle Kraft"
+  "Unite - Absorption": "Vereinen - Absorption"
+  "Unite - Fortitude": "Vereinen - Standhaftigkeit"
+  "Unite - Regeneration": "Vereinen - Regeneration"
+  "Unite - Saturation": "Vereinen - Sättigung"
+  "Vampirism": "Vampirismus"
+  "Void Miner": "Leerenschürfer"
+  "WHM": "WHM"
+  "Warm Blodded": "Warmblütig"
+  "Warp": "Sprung"
+  "Water Safe": "Wasserfest"
+  "Who needs pressure plates?": "Wer braucht schon Druckplatten?"
+  "Witherproof": "Withersicher"
+  "Wizard Robes": "Zaubererrobe"
+  "Works": "Funktioniert"
+  "Yvaine": "Yvaine"

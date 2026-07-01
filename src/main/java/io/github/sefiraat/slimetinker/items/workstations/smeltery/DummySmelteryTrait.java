@@ -5,20 +5,21 @@ import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
-import org.bukkit.Material;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 
 public final class DummySmelteryTrait {
 
     public static final SlimefunItemStack STACK = ThemeUtils.themedItemStack(
         "DUMMY_TINKERS_SMELTERY_PROP",
-        Material.CHISELED_POLISHED_BLACKSTONE,
+        MaterialCompat.safe(XMaterial.CHISELED_POLISHED_BLACKSTONE),
         ThemeItemType.MACHINE,
         "Tinker's Smeltery",
         "When a matching part is made using this",
         "metal, it will give the finished tool",
         "this property."
     );
-    public static final RecipeType TYPE = new RecipeType(Keys.WS_DUMMY_SMELTERY_A, STACK);
+    public static final RecipeType TYPE = new RecipeType(Keys.sfKey(Keys.WS_DUMMY_SMELTERY_A), STACK);
 
     private DummySmelteryTrait() {
         throw new IllegalStateException("Utility class");

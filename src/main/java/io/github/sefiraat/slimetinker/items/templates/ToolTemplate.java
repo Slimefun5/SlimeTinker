@@ -11,7 +11,9 @@ import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.core.attributes.NotPlaceable;
-import io.github.thebusybiscuit.slimefun5.libraries.dough.data.persistent.PersistentDataAPI;
+import io.github.sefiraat.slimetinker.compat.Pdc;
+import io.github.sefiraat.slimetinker.utils.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
@@ -42,15 +44,15 @@ public class ToolTemplate extends SlimefunItem implements NotPlaceable {
     public Material getMaterial(ToolDefinition toolDefinition) {
         switch (toolDefinition.getPartType()) {
             case Ids.SHOVEL:
-                return Material.STONE_SHOVEL;
+                return MaterialCompat.safe(XMaterial.STONE_SHOVEL);
             case Ids.PICKAXE:
-                return Material.STONE_PICKAXE;
+                return MaterialCompat.safe(XMaterial.STONE_PICKAXE);
             case Ids.AXE:
-                return Material.STONE_AXE;
+                return MaterialCompat.safe(XMaterial.STONE_AXE);
             case Ids.HOE:
-                return Material.STONE_HOE;
+                return MaterialCompat.safe(XMaterial.STONE_HOE);
             case Ids.SWORD:
-                return Material.STONE_SWORD;
+                return MaterialCompat.safe(XMaterial.STONE_SWORD);
             default:
                 throw new IllegalStateException("Unexpected value: " + toolDefinition.getClassType());
         }
@@ -63,12 +65,12 @@ public class ToolTemplate extends SlimefunItem implements NotPlaceable {
         itemStack.setType(getMaterial(toolDefinition));
         ItemMeta im = itemStack.getItemMeta();
         Experience.setupExpNew(im);
-        PersistentDataAPI.setString(im, Keys.TOOL_INFO_IS_TOOL, "Y");
-        PersistentDataAPI.setString(im, Keys.TOOL_INFO_HEAD_TYPE, toolDefinition.getClassType());
-        PersistentDataAPI.setString(im, Keys.TOOL_INFO_TOOL_TYPE, toolDefinition.getPartType());
-        PersistentDataAPI.setString(im, Keys.TOOL_INFO_HEAD_MATERIAL, toolDefinition.getHeadMaterial());
-        PersistentDataAPI.setString(im, Keys.TOOL_INFO_BINDER_MATERIAL, toolDefinition.getBinderMaterial());
-        PersistentDataAPI.setString(im, Keys.TOOL_INFO_ROD_MATERIAL, toolDefinition.getRodMaterial());
+        Pdc.setString(im, Keys.TOOL_INFO_IS_TOOL.toString(), "Y");
+        Pdc.setString(im, Keys.TOOL_INFO_HEAD_TYPE.toString(), toolDefinition.getClassType());
+        Pdc.setString(im, Keys.TOOL_INFO_TOOL_TYPE.toString(), toolDefinition.getPartType());
+        Pdc.setString(im, Keys.TOOL_INFO_HEAD_MATERIAL.toString(), toolDefinition.getHeadMaterial());
+        Pdc.setString(im, Keys.TOOL_INFO_BINDER_MATERIAL.toString(), toolDefinition.getBinderMaterial());
+        Pdc.setString(im, Keys.TOOL_INFO_ROD_MATERIAL.toString(), toolDefinition.getRodMaterial());
         im.setDisplayName(getName(toolDefinition));
         itemStack.setItemMeta(im);
         ItemUtils.rebuildTinkerLore(itemStack);

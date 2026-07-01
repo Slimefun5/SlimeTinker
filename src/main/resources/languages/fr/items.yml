@@ -1,0 +1,1515 @@
+# Traductions françaises des objets pour SlimeTinker
+# Items not listed fall back to English.
+ARMOUR_BOOTS_DUMMY:
+  name: "&aBottes du Bricoleur"
+ARMOUR_CHESTPLATE_DUMMY:
+  name: "&aPlastron du Bricoleur"
+ARMOUR_HELMET_DUMMY:
+  name: "&aCasque du Bricoleur"
+ARMOUR_INFO:
+  name: "&3Armure du Bricoleur: Info"
+ARMOUR_LEGGINGS_DUMMY:
+  name: "&aJambières du Bricoleur"
+BLOCK_CAST_ADAMANTITE:
+  name: "&7Bloc d'Adamanitite"
+BLOCK_CAST_ADVANCED_ALLOY:
+  name: "&7Bloc d'Alliage Avancé"
+BLOCK_CAST_ALUMINUM:
+  name: "&7Bloc d'Aluminium"
+BLOCK_CAST_ALU_BRASS:
+  name: "&7Bloc de Laiton d'Aluminium"
+BLOCK_CAST_ALU_BRONZE:
+  name: "&7Bloc de Bronze d'Aluminium"
+BLOCK_CAST_ANNIVERSARIUM:
+  name: "&7Bloc d'Anniversarium"
+BLOCK_CAST_BILLON:
+  name: "&7Bloc de Billon"
+BLOCK_CAST_BOOMERITE:
+  name: "&7Bloc de Boomérite"
+BLOCK_CAST_BRASS:
+  name: "&7Bloc de Laiton"
+BLOCK_CAST_BRONZE:
+  name: "&7Bloc de Bronze"
+BLOCK_CAST_COBALT:
+  name: "&7Bloc de Cobalt"
+BLOCK_CAST_COPPER:
+  name: "&7Bloc de Cuivre"
+BLOCK_CAST_COR_BRONZE:
+  name: "&7Bloc de Bronze Corinthien"
+BLOCK_CAST_CRINGLEIUM:
+  name: "&7Bloc de Cringleium"
+BLOCK_CAST_DAMASCUS_STEEL:
+  name: "&7Bloc d'Acier de Damas"
+BLOCK_CAST_DURALIUM:
+  name: "&7Bloc de Duralium"
+BLOCK_CAST_FERROSILICON:
+  name: "&7Bloc de Ferrosilicium"
+BLOCK_CAST_HARD_METAL:
+  name: "&7Bloc de Métal Durci"
+BLOCK_CAST_INFINITY:
+  name: "&7Bloc d'Infini"
+BLOCK_CAST_IRIDIUM:
+  name: "&7Bloc d'Iridium"
+BLOCK_CAST_LEAD:
+  name: "&7Bloc de Plomb"
+BLOCK_CAST_LOVE:
+  name: "&7Bloc d'Amour"
+BLOCK_CAST_MAGNESIUM:
+  name: "&7Bloc de Magnésium"
+BLOCK_CAST_MAGNONIUM:
+  name: "&7Bloc de Magnonium"
+BLOCK_CAST_MAGSTEEL:
+  name: "&7Bloc de MagAcier"
+BLOCK_CAST_MAG_THOR:
+  name: "&7Bloc de Mag-Thor"
+BLOCK_CAST_MIXED_METAL:
+  name: "&7Bloc de Métal Mixte"
+BLOCK_CAST_MYTHRIL:
+  name: "&7Bloc de Mithril"
+BLOCK_CAST_NICE:
+  name: "&7Bloc de Nice"
+BLOCK_CAST_NICKEL:
+  name: "&7Bloc de Nickel"
+BLOCK_CAST_OSMIUM:
+  name: "&7Bloc d'Osmium"
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Bloc de Superalliage d'Osmium"
+BLOCK_CAST_REDSTONE_ALLOY:
+  name: "&7Bloc d'Alliage de Redstone"
+BLOCK_CAST_REFINED_IRON:
+  name: "&7Bloc de Fer Raffiné"
+BLOCK_CAST_REINFORCED:
+  name: "&7Bloc d'Alliage Renforcé"
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  name: "&7Bloc de Draconium Renforcé"
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Bloc d'Acier de Slime Renforcé"
+BLOCK_CAST_SCRAP:
+  name: "&7Bloc de Ferraille"
+BLOCK_CAST_SEFIRITE:
+  name: "&7Bloc de Séfirite"
+BLOCK_CAST_SILVER:
+  name: "&7Bloc d'Argent"
+BLOCK_CAST_SLIMESTEEL:
+  name: "&7Bloc d'Acier de Slime"
+BLOCK_CAST_SMITHIUM:
+  name: "&7Bloc de Smithium"
+BLOCK_CAST_SOLDER:
+  name: "&7Bloc de Soudure"
+BLOCK_CAST_STAINLESSSTEEL:
+  name: "&7Bloc d'Acier Inoxydable"
+BLOCK_CAST_STEEL:
+  name: "&7Bloc d'Acier"
+BLOCK_CAST_TIN:
+  name: "&7Bloc d'Étain"
+BLOCK_CAST_TITANIUM:
+  name: "&7Bloc de Titane"
+BLOCK_CAST_UNPATENTABILUM:
+  name: "&7Bloc d'Unpatentabilum"
+BLOCK_CAST_VOID:
+  name: "&7Bloc de Vide"
+BLOCK_CAST_ZINC:
+  name: "&7Bloc de Zinc"
+CAST_AXE_HEAD:
+  name: "&eMoule: Tête de Hache"
+CAST_BLOCK:
+  name: "&eMoule: Bloc de Métal"
+CAST_BOOT_PLATE:
+  name: "&eMoule: Plaques de Bottes"
+CAST_CHEST_PLATE:
+  name: "&eMoule: Plaques de Plastron"
+CAST_GEM:
+  name: "&eMoule: Gemme"
+CAST_HELM_PLATE:
+  name: "&eMoule: Plaques de Casque"
+CAST_HOEHEAD:
+  name: "&eMoule: Tête de Houe"
+CAST_INGOT:
+  name: "&eMoule: Lingot de Métal"
+CAST_LEG_PLATE:
+  name: "&eMoule: Plaques de Jambières"
+CAST_MAIL_LINK:
+  name: "&eMoule: Maillons"
+CAST_NUGGET:
+  name: "&eMoule: Pépite de Métal"
+CAST_PICKAXEHEAD:
+  name: "&eMoule: Tête de Pioche"
+CAST_REPAIRKIT:
+  name: "&eMoule: Kit de Réparation"
+CAST_SHOVELHEAD:
+  name: "&eMoule: Tête de Pelle"
+CAST_SWORDBLADE:
+  name: "&eMoule: Lame d'Épée"
+CAST_TOOLROD:
+  name: "&eMoule: Tige d'Outil"
+DIE_AXE_HEAD:
+  name: "&eMatrice: Tête de Hache de Pierre"
+DIE_BOOT_PLATE:
+  name: "&eMatrice: Plaques de Bottes de Pierre"
+DIE_CHEST_PLATE:
+  name: "&eMatrice: Plaques de Plastron de Pierre"
+DIE_HELM_PLATE:
+  name: "&eMatrice: Plaques de Casque de Pierre"
+DIE_HOE_HEAD:
+  name: "&eMatrice: Tête de Houe de Pierre"
+DIE_LEG_PLATE:
+  name: "&eMatrice: Plaques de Jambières de Pierre"
+DIE_MAIL_LINK:
+  name: "&eMatrice: Maillons"
+DIE_PICKAXE_HEAD:
+  name: "&eMatrice: Tête de Pioche de Pierre"
+DIE_REPAIR_KIT:
+  name: "&eMatrice: Kit de Réparation"
+DIE_SHOVEL_HEAD:
+  name: "&eMatrice: Tête de Pelle de Pierre"
+DIE_SWORD_BLADE:
+  name: "&eMatrice: Lame d'Épée de Pierre"
+DIE_TOOL_ROD:
+  name: "&eMatrice: Tige d'Outil"
+DUMMY_MODIFICATION_STATION:
+  name: "&3Station de Modification du Bricoleur"
+DUMMY_TINKERS_ARMOUR_TABLE:
+  name: "&3Table d'Armure du Bricoleur"
+DUMMY_TINKERS_SMELTERY:
+  name: "&3Fonderie du Bricoleur"
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  name: "&3Fonderie du Bricoleur"
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  name: "&3Fonderie du Bricoleur"
+DUMMY_TINKERS_SMELTERY_MULTI:
+  name: "&3Fonderie du Bricoleur"
+DUMMY_TINKERS_SMELTERY_PROP:
+  name: "&3Fonderie du Bricoleur"
+DUMMY_TINKERS_TABLE:
+  name: "&3Table à Outils du Bricoleur"
+GROUT:
+  name: "&7Mortier"
+INGOT_CAST_ANNIVERSARIUM:
+  name: "&7Lingot d'Anniversarium"
+INGOT_CAST_BOOMERITE:
+  name: "&7Lingot de Boomérite"
+INGOT_CAST_CRINGLEIUM:
+  name: "&7Lingot de Cringleium"
+INGOT_CAST_DAXI_ABSORPTION:
+  name: "&7Lingot d'Absorption Daxi"
+INGOT_CAST_DAXI_FORTITUDE:
+  name: "&7Lingot de Résistance Daxi"
+INGOT_CAST_DAXI_REGENERATION:
+  name: "&7Lingot de Régénération Daxi"
+INGOT_CAST_DAXI_SATURATION:
+  name: "&7Lingot de Saturation Daxi"
+INGOT_CAST_DAXI_STRENGTH:
+  name: "&7Lingot de Force Daxi"
+INGOT_CAST_DEVOTION:
+  name: "&7Lingot de Dévotion"
+INGOT_CAST_FONDNESS:
+  name: "&7Lingot d'Affection"
+INGOT_CAST_LOVE:
+  name: "&7Lingot d'Amour"
+INGOT_CAST_NICE:
+  name: "&7Lingot de Nice"
+INGOT_CAST_PASSION:
+  name: "&7Lingot de Passion"
+INGOT_CAST_REINFORCED_DRACONIUM:
+  name: "&7Lingot de Draconium Renforcé"
+INGOT_CAST_SEFIRITE:
+  name: "&7Lingot de Séfirite"
+INGOT_CAST_SMITHIUM:
+  name: "&7Lingot de Smithium"
+MOD_DIAMOND_DUMMY:
+  name: "&dModification: Diamant"
+MOD_EMERALD_DUMMY:
+  name: "&dModification: Émeraude"
+MOD_LAPIS_DUMMY:
+  name: "&dModification: Lapis"
+MOD_PLATE:
+  name: "&dPlaque Renforcée"
+MOD_PLATE_DUMMY:
+  name: "&dModification: Plaque Renforcée"
+MOD_QUARTZ_DUMMY:
+  name: "&dModification: Quartz"
+MOD_REDSTONE_DUMMY:
+  name: "&dModification: Redstone"
+NUGGET_CAST_ADAMANTITE:
+  name: "&7Pépite d'Adamantite"
+NUGGET_CAST_ADVANCED_ALLOY:
+  name: "&7Pépite d'Alliage Avancé"
+NUGGET_CAST_ALUMINUM:
+  name: "&7Pépite d'Aluminium"
+NUGGET_CAST_ALU_BRASS:
+  name: "&7Pépite de Laiton d'Aluminium"
+NUGGET_CAST_ALU_BRONZE:
+  name: "&7Pépite de Bronze d'Aluminium"
+NUGGET_CAST_ANNIVERSARIUM:
+  name: "&7Pépite d'Anniversarium"
+NUGGET_CAST_BILLON:
+  name: "&7Pépite de Billon"
+NUGGET_CAST_BOOMERITE:
+  name: "&7Pépite de Boomérite"
+NUGGET_CAST_BRASS:
+  name: "&7Pépite de Laiton"
+NUGGET_CAST_BRONZE:
+  name: "&7Pépite de Bronze"
+NUGGET_CAST_COAL:
+  name: "&7Pépite de Charbon"
+NUGGET_CAST_COBALT:
+  name: "&7Pépite de Cobalt"
+NUGGET_CAST_COPPER:
+  name: "&7Pépite de Cuivre"
+NUGGET_CAST_COR_BRONZE:
+  name: "&7Pépite de Bronze Corinthien"
+NUGGET_CAST_CRINGLEIUM:
+  name: "&7Pépite de Cringleium"
+NUGGET_CAST_DAMASCUS_STEEL:
+  name: "&7Pépite d'Acier de Damas"
+NUGGET_CAST_DAXI_ABSORPTION:
+  name: "&7Pépite d'Absorption Daxi"
+NUGGET_CAST_DAXI_FORTITUDE:
+  name: "&7Pépite de Résistance Daxi"
+NUGGET_CAST_DAXI_REGENERATION:
+  name: "&7Pépite de Régénération Daxi"
+NUGGET_CAST_DAXI_SATURATION:
+  name: "&7Pépite de Saturation Daxi"
+NUGGET_CAST_DAXI_STRENGTH:
+  name: "&7Pépite de Force Daxi"
+NUGGET_CAST_DEVOTION:
+  name: "&7Pépite de Dévotion"
+NUGGET_CAST_DURALIUM:
+  name: "&7Pépite de Duralium"
+NUGGET_CAST_FERROSILICON:
+  name: "&7Pépite de Ferrosilicium"
+NUGGET_CAST_FONDNESS:
+  name: "&7Pépite d'Affection"
+NUGGET_CAST_HARD_METAL:
+  name: "&7Pépite de Métal Durci"
+NUGGET_CAST_INFINITY:
+  name: "&7Pépite d'Infini"
+NUGGET_CAST_IRIDIUM:
+  name: "&7Pépite d'Iridium"
+NUGGET_CAST_LEAD:
+  name: "&7Pépite de Plomb"
+NUGGET_CAST_LOVE:
+  name: "&7Pépite d'Amour"
+NUGGET_CAST_MAGNESIUM:
+  name: "&7Pépite de Magnésium"
+NUGGET_CAST_MAGNONIUM:
+  name: "&7Pépite de Magnonium"
+NUGGET_CAST_MAGSTEEL:
+  name: "&7Pépite de MagAcier"
+NUGGET_CAST_MAG_THOR:
+  name: "&7Pépite de Mag-Thor"
+NUGGET_CAST_MIXED_METAL:
+  name: "&7Pépite de Métal Mixte"
+NUGGET_CAST_MYTHRIL:
+  name: "&7Pépite de Mithril"
+NUGGET_CAST_NICE:
+  name: "&7Pépite de Nice"
+NUGGET_CAST_NICKEL:
+  name: "&7Pépite de Nickel"
+NUGGET_CAST_OSMIUM:
+  name: "&7Pépite d'Osmium"
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  name: "&7Pépite de Superalliage d'Osmium"
+NUGGET_CAST_PASSION:
+  name: "&7Pépite de Passion"
+NUGGET_CAST_REDSTONE_ALLOY:
+  name: "&7Pépite d'Alliage de Redstone"
+NUGGET_CAST_REFINED_IRON:
+  name: "&7Pépite de Fer Raffiné"
+NUGGET_CAST_REINFORCED:
+  name: "&7Pépite d'Alliage Renforcé"
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  name: "&7Pépite de Draconium Renforcé"
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  name: "&7Pépite d'Acier de Slime Renforcé"
+NUGGET_CAST_SCRAP:
+  name: "&7Pépite de Ferraille"
+NUGGET_CAST_SEFIRITE:
+  name: "&7Pépite de Séfirite"
+NUGGET_CAST_SILVER:
+  name: "&7Pépite d'Argent"
+NUGGET_CAST_SLIMESTEEL:
+  name: "&7Pépite d'Acier de Slime"
+NUGGET_CAST_SMITHIUM:
+  name: "&7Pépite de Smithium"
+NUGGET_CAST_SOLDER:
+  name: "&7Pépite de Soudure"
+NUGGET_CAST_STAINLESSSTEEL:
+  name: "&7Pépite d'Acier Inoxydable"
+NUGGET_CAST_STEEL:
+  name: "&7Pépite d'Acier"
+NUGGET_CAST_TIN:
+  name: "&7Pépite d'Étain"
+NUGGET_CAST_TITANIUM:
+  name: "&7Pépite de Titane"
+NUGGET_CAST_UNPATENTABILUM:
+  name: "&7Pépite d'Unpatentabilum"
+NUGGET_CAST_ZINC:
+  name: "&7Pépite de Zinc"
+PART_AXE_HEAD_DUMMY:
+  name: "&ePièce: Tête de Hache"
+PART_BINDING_DUMMY:
+  name: "&ePièce: Liaison"
+PART_BINDING_GENERAL_DISPLAY:
+  name: "&7Matériau de Liaison"
+PART_BOOT_PLATE_DUMMY:
+  name: "&ePièce: Plaques de Bottes"
+PART_CHEST_PLATE_DUMMY:
+  name: "&ePièce: Plaques de Plastron"
+PART_GAMBESON_DUMMY:
+  name: "&ePièce: Gambison"
+PART_GAMBESON_GENERAL_DISPLAY:
+  name: "&7Matériau de Gambison"
+PART_HELM_PLATE_DUMMY:
+  name: "&ePièce: Plaques de Casque"
+PART_HOE_HEAD_DUMMY:
+  name: "&ePièce: Tête de Houe"
+PART_LEG_PLATE_DUMMY:
+  name: "&ePièce: Plaques de Jambières"
+PART_MAIL_LINKS_DUMMY:
+  name: "&ePièce: Maillons"
+PART_PICKAXE_HEAD_DUMMY:
+  name: "&ePièce: Tête de Pioche"
+PART_REPAIR_KIT_DUMMY:
+  name: "&ePièce: Kit de Réparation"
+PART_SHOVEL_HEAD_DUMMY:
+  name: "&ePièce: Tête de Pelle"
+PART_SWORD_BLADE_DUMMY:
+  name: "&ePièce: Lame d'Épée"
+PART_TOOL_ROD_DUMMY:
+  name: "&ePièce: Tige d'Outil"
+PROP_BINDING:
+  name: "&bPièce: Liant"
+PROP_GAMBESON:
+  name: "&bPièce: Gambison"
+PROP_HEAD:
+  name: "&bPièce: Tête"
+PROP_LINKS:
+  name: "&bPièce: Maillons"
+PROP_PLATES:
+  name: "&bPièce: Plaques"
+PROP_ROD:
+  name: "&bPièce: Tige d'Outil"
+SEARED_BRICK:
+  name: "&7Brique Cuite"
+SEARED_BRICK_BLOCK:
+  name: "&7Bloc de Brique Cuite"
+SEARED_TANK:
+  name: "&7Réservoir Cuit"
+SMELTERY_CONTROLLER:
+  name: "&3Contrôleur de Fonderie"
+SPOUT:
+  name: "&7Bec Cuit"
+TINKERS_ARMOUR_TABLE:
+  name: "&3Table d'Armure du Bricoleur"
+TINKERS_MOD_STATION:
+  name: "&3Station de Modification du Bricoleur"
+TINKERS_REPAIR_BENCH:
+  name: "&3Établi de Réparation du Bricoleur"
+TINKERS_SMELTERY_CORE:
+  name: "&3Fonderie du Bricoleur"
+TINKERS_SWAPPING_STATION:
+  name: "&3Station d'Échange du Bricoleur"
+TINKERS_TABLE:
+  name: "&3Table à Outils du Bricoleur"
+TINKERS_WORKBENCH:
+  name: "&3Établi du Bricoleur"
+TOOL_AXE_DUMMY:
+  name: "&aHache du Bricoleur"
+TOOL_HOE_DUMMY:
+  name: "&aHoue du Bricoleur"
+TOOL_INFO:
+  name: "&3Outils du Bricoleur: Info"
+TOOL_PICKAXE_DUMMY:
+  name: "&aPioche du Bricoleur"
+TOOL_SHOVEL_DUMMY:
+  name: "&aPelle du Bricoleur"
+TOOL_SWORD_DUMMY:
+  name: "&aÉpée du Bricoleur"
+
+IRON_LIQUID:
+  name: "&x&A&6&0&A&0&AFer en fusion"
+STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Stabilité"
+SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Tranchant 1"
+STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Inébranlable"
+RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Rouillé"
+PART_HEAD_SWORDIRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOEIRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXEIRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKIRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELIRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_IRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETIRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATEIRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSIRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSIRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_IRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_IRON:
+  name: "&x&8&C&8&C&8&CFer&x&4&2&C&8&F&5 Kit de réparation"
+GOLD_LIQUID:
+  name: "&x&A&6&0&A&0&AOr en fusion"
+GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Voile doré"
+ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Tout ce qui brille"
+PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Prospère"
+BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Troc"
+PART_HEAD_SWORDGOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOEGOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXEGOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKGOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELGOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_GOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETGOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATEGOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSGOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSGOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_GOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_GOLD:
+  name: "&x&F&F&E&1&3&8Or&x&4&2&C&8&F&5 Kit de réparation"
+COPPER_LIQUID:
+  name: "&x&A&6&0&A&0&ACuivre en fusion"
+BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FTrait : La tête, pas les muscles"
+CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Conducteur"
+BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Débutant"
+TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Terni"
+PART_HEAD_SWORDCOPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOECOPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXECOPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKCOPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELCOPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_COPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETCOPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATECOPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSCOPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSCOPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_COPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_COPPER:
+  name: "&x&C&9&9&7&3&2Cuivre&x&4&2&C&8&F&5 Kit de réparation"
+LEAD_LIQUID:
+  name: "&x&A&6&0&A&0&APlomb en fusion"
+POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Toxique"
+LEECH_TRAIT_PROP_ROD_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Sangsue"
+SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Maladif"
+SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Maladif"
+PART_HEAD_SWORDLEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOELEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXELEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKLEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELLEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_LEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETLEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATELEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSLEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSLEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_LEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_LEAD:
+  name: "&x&9&0&4&3&B&APlomb&x&4&2&C&8&F&5 Kit de réparation"
+SILVER_LIQUID:
+  name: "&x&A&6&0&A&0&AArgent en fusion"
+ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Enchantement"
+SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Toucher délicat"
+CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Conductivité"
+ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Enchantement"
+PART_HEAD_SWORDSILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOESILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXESILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKSILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELSILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_SILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETSILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATESILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSSILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSSILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_SILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_SILVER:
+  name: "&x&D&4&D&4&D&4Argent&x&4&2&C&8&F&5 Kit de réparation"
+ALUMINUM_LIQUID:
+  name: "&x&A&6&0&A&0&AAluminium en fusion"
+RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Recyclable"
+SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Tendre"
+FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Feuille"
+EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Facile à façonner"
+PART_HEAD_SWORDALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOEALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_ALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATEALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_ALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Maillons de Cotte"
+PART_REPAIR_KIT_ALUMINUM:
+  name: "&x&B&0&B&0&B&0Aluminium&x&4&2&C&8&F&5 Kit de Réparation"
+TIN_LIQUID:
+  name: "&x&A&6&0&A&0&AÉtain en Fusion"
+MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Malléable"
+CAN_TRAIT_PROP_ROD_TIN_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Conserve"
+NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Anticorrosion"
+BOOST_TRAIT_PROP_LINKS_TIN_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Boost"
+PART_HEAD_SWORDTIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOETIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXETIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKTIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELTIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_TIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETTIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATETIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSTIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSTIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_TIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Maillons de Cotte"
+PART_REPAIR_KIT_TIN:
+  name: "&x&A&8&9&B&9&BÉtain&x&4&2&C&8&F&5 Kit de Réparation"
+ZINC_LIQUID:
+  name: "&x&A&6&0&A&0&AZinc en Fusion"
+GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Gracieux"
+SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Ultra-Léger"
+SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Furtif"
+ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Acupuncture"
+PART_HEAD_SWORDZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOEZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_ZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATEZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_ZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Maillons de Cotte"
+PART_REPAIR_KIT_ZINC:
+  name: "&x&9&B&A&8&A&6Zinc&x&4&2&C&8&F&5 Kit de Réparation"
+MAGNESIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AMagnésium en Fusion"
+FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Inflammable"
+MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Magnétésium"
+LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FTrait : Léger"
+MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
+  name: "&x&B&F&3&0&7&FTrait : MagnéVue™"
+PART_HEAD_SWORDMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOEMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_MAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATEMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSMAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_MAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Maillons de Cotte"
+PART_REPAIR_KIT_MAGNESIUM:
+  name: "&x&E&8&C&E&F&5Magnésium&x&4&2&C&8&F&5 Kit de Réparation"
+COAL_LIQUID:
+  name: "&x&A&6&0&A&0&ACharbon en Fusion"
+STEEL_LIQUID:
+  name: "&x&A&6&0&A&0&AAcier en Fusion"
+STEEL_ALLOY:
+  name: "&x&A&6&0&A&0&AAcier en Fusion"
+STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Inoxydable"
+LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Léger"
+HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Robuste"
+STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Solide"
+PART_HEAD_SWORDSTEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOESTEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXESTEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKSTEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELSTEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_STEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETSTEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATESTEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSSTEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSSTEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_STEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Maillons de Cotte"
+PART_REPAIR_KIT_STEEL:
+  name: "&x&D&1&D&1&D&1Acier&x&4&2&C&8&F&5 Kit de Réparation"
+DAMASCUS_STEEL_LIQUID:
+  name: "&x&A&6&0&A&0&AAcier de Damas en Fusion"
+DAMASCUS_STEEL_ALLOY:
+  name: "&x&A&6&0&A&0&AAcier de Damas en Fusion"
+VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Vampirisme"
+NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Rôdeur Nocturne"
+COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Cumulatif"
+SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Senipé"
+PART_HEAD_SWORDDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOEDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_DAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSDAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_DAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_DAMASCUS_STEEL:
+  name: "&x&A&3&8&C&8&CAcier de Damas&x&4&2&C&8&F&5 Kit de Réparation"
+DURALIUM_LIQUID:
+  name: "&x&A&6&0&A&0&ADuralium en Fusion"
+DURALIUM_ALLOY:
+  name: "&x&A&6&0&A&0&ADuralium en Fusion"
+DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Durable"
+EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Réparation Facile"
+DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Durable"
+SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Absorbeur de Chocs"
+PART_HEAD_SWORDDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOEDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_DURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATEDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSDURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_DURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_DURALIUM:
+  name: "&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Kit de Réparation"
+BRONZE_LIQUID:
+  name: "&x&A&6&0&A&0&ABronze en Fusion"
+BRONZE_ALLOY:
+  name: "&x&A&6&0&A&0&ABronze en Fusion"
+RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Résistance"
+INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Ingheights"
+FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Fermier"
+BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Cassant"
+PART_HEAD_SWORDBRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOEBRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEBRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKBRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELBRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_BRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETBRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATEBRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSBRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSBRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_BRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_BRONZE:
+  name: "&x&8&7&7&4&3&5Bronze&x&4&2&C&8&F&5 Kit de Réparation"
+ALUMINUM_BRONZE_LIQUID:
+  name: "&x&A&6&0&A&0&ABronze d'Aluminium en Fusion"
+ALUMINUM_BRONZE_ALLOY:
+  name: "&x&A&6&0&A&0&ABronze d'Aluminium en Fusion"
+SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Tranchant 2"
+BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Cassant"
+BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Magnifique"
+EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Éjection !"
+PART_HEAD_SWORDALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOEALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_ALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_ALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_ALUMINUM_BRONZE:
+  name: "&x&B&D&A&A&6&DBronze d'Aluminium&x&4&2&C&8&F&5 Kit de Réparation"
+HARDENED_METAL_LIQUID:
+  name: "&x&A&6&0&A&0&AMétal Durci en Fusion"
+HARDENED_METAL_ALLOY:
+  name: "&x&A&6&0&A&0&AMétal Durci en Fusion"
+TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Costaud"
+HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Lourd"
+TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Renforcé"
+DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Talents de Nain"
+PART_HEAD_SWORDHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOEHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_HARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATEHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSHARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_HARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_HARDENED_METAL:
+  name: "&x&2&9&2&5&1&AMétal Durci&x&4&2&C&8&F&5 Kit de Réparation"
+CORINTHIAN_BRONZE_LIQUID:
+  name: "&x&A&6&0&A&0&ABronze de Corinthe en Fusion"
+CORINTHIAN_BRONZE_ALLOY:
+  name: "&x&A&6&0&A&0&ABronze de Corinthe en Fusion"
+FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Brûlant"
+TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Trop Chaud à Manier"
+SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Surchauffé"
+WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Sang Chaud"
+PART_HEAD_SWORDCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze de Corinthe&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOECORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze de Corinthe&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXECORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze de Corinthe&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze de Corinthe&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze de Corinthe&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_CORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze corinthien&x&4&2&C&8&F&5 Tige"
+PART_PLATES_HELMETCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze corinthien&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze corinthien&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze corinthien&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSCORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze corinthien&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_CORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze corinthien&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_CORINTHIAN_BRONZE:
+  name: "&x&8&A&6&5&0&0Bronze corinthien&x&4&2&C&8&F&5 Kit de réparation"
+SOLDER_LIQUID:
+  name: "&x&A&6&0&A&0&ASoudure en fusion"
+SOLDER_ALLOY:
+  name: "&x&A&6&0&A&0&ASoudure en fusion"
+HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Caché"
+FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Fusionné"
+SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Atterrissage en douceur"
+FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Fusionné"
+PART_HEAD_SWORDSOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOESOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXESOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKSOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELSOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_SOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Tige"
+PART_PLATES_HELMETSOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATESOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSSOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSSOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_SOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_SOLDER:
+  name: "&x&B&7&A&F&B&DSoudure&x&4&2&C&8&F&5 Kit de réparation"
+BILLON_LIQUID:
+  name: "&x&A&6&0&A&0&ABillon en fusion"
+BILLON_ALLOY:
+  name: "&x&A&6&0&A&0&ABillon en fusion"
+FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Rapide"
+SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Ressorts"
+WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : WHM"
+HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Conducteur de chaleur"
+PART_HEAD_SWORDBILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOEBILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXEBILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKBILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELBILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_BILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Tige"
+PART_PLATES_HELMETBILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATEBILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSBILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSBILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_BILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_BILLON:
+  name: "&x&B&0&C&2&B&EBillon&x&4&2&C&8&F&5 Kit de réparation"
+BRASS_LIQUID:
+  name: "&x&A&6&0&A&0&ALaiton en fusion"
+BRASS_ALLOY:
+  name: "&x&A&6&0&A&0&ALaiton en fusion"
+STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Rigide"
+OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Oxygéné"
+BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Bandeau"
+SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Scarpaaarr!"
+PART_HEAD_SWORDBRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOEBRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXEBRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKBRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELBRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_BRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Tige"
+PART_PLATES_HELMETBRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATEBRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSBRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSBRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_BRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_BRASS:
+  name: "&x&D&B&C&D&4&BLaiton&x&4&2&C&8&F&5 Kit de réparation"
+ALUMINUM_BRASS_LIQUID:
+  name: "&x&A&6&0&A&0&ALaiton d'aluminium en fusion"
+ALUMINUM_BRASS_ALLOY:
+  name: "&x&A&6&0&A&0&ALaiton d'aluminium en fusion"
+ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Abra"
+STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Studieux"
+MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Mage"
+ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Évasion"
+PART_HEAD_SWORDALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOEALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXEALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_ALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Tige"
+PART_PLATES_HELMETALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATEALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_ALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_ALUMINUM_BRASS:
+  name: "&x&D&B&D&2&7&9Laiton d'aluminium&x&4&2&C&8&F&5 Kit de réparation"
+NICKEL_LIQUID:
+  name: "&x&A&6&0&A&0&ANickel en fusion"
+NICKEL_ALLOY:
+  name: "&x&A&6&0&A&0&ANickel en fusion"
+CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Tête chargée -"
+CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Tige chargée -"
+MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Magnétique -"
+MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Magnétique -"
+PART_HEAD_SWORDNICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOENICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXENICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKNICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELNICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_NICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Tige"
+PART_PLATES_HELMETNICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATENICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSNICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSNICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_NICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_NICKEL:
+  name: "&x&E&B&E&B&E&BNickel&x&4&2&C&8&F&5 Kit de Réparation"
+COBALT_LIQUID:
+  name: "&x&A&6&0&A&0&ACobalt en Fusion"
+COBALT_ALLOY:
+  name: "&x&A&6&0&A&0&ACobalt en Fusion"
+CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Tête Chargée +"
+CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Manche Chargé +"
+MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Magnétique +"
+MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Magnétique +"
+PART_HEAD_SWORDCOBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOECOBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXECOBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKCOBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELCOBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_COBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETCOBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATECOBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSCOBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSCOBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_COBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_COBALT:
+  name: "&x&9&E&9&E&9&ECobalt&x&4&2&C&8&F&5 Kit de Réparation"
+REINFORCED_ALLOY_LIQUID:
+  name: "&x&A&6&0&A&0&AAlliage Renforcé en Fusion"
+REINFORCED_ALLOY_ALLOY:
+  name: "&x&A&6&0&A&0&AAlliage Renforcé en Fusion"
+BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Encombrant"
+REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Renforcé"
+REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Renforçable"
+WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
+  name: "&x&B&F&3&0&7&FTrait : Anti-Wither"
+PART_HEAD_SWORDREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOEREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Tête de Pelle"
+PART_ROD_REINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Plaques de Casque"
+PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Plaques de Plastron"
+PART_PLATES_LEGGINGSREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Plaques de Jambières"
+PART_PLATES_BOOTSREINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Plaques de Bottes"
+PART_LINKS_REINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Mailles"
+PART_REPAIR_KIT_REINFORCED_ALLOY:
+  name: "&x&4&6&5&8&9&9Alliage Renforcé&x&4&2&C&8&F&5 Kit de Réparation"
+WORKS_TRAIT_PROP_BINDING_STRING:
+  name: "&x&B&F&3&0&7&FTrait : Fonctionne"
+WORKS_TRAIT_PROP_GAMBESON_STRING:
+  name: "&x&B&F&3&0&7&FTrait : Fonctionne"
+PART_BINDING_STRING:
+  name: "&x&F&5&F&5&F&5Ficelle&x&4&2&C&8&F&5 Liaison"
+PART_GAMBESON_STRING:
+  name: "&x&F&5&F&5&F&5Ficelle&x&4&2&C&8&F&5 Gambison"
+GROWTH_TRAIT_PROP_BINDING_VINE:
+  name: "&x&B&F&3&0&7&FTrait : Croissance"
+GROWTH_TRAIT_PROP_GAMBESON_VINE:
+  name: "&x&B&F&3&0&7&FTrait : Croissance"
+PART_BINDING_VINE:
+  name: "&x&4&C&A&8&6&BLiane&x&4&2&C&8&F&5 Liaison"
+PART_GAMBESON_VINE:
+  name: "&x&4&C&A&8&6&BLiane&x&4&2&C&8&F&5 Gambison"
+DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
+  name: "&x&B&F&3&0&7&FTrait : Décomposition"
+DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
+  name: "&x&B&F&3&0&7&FTrait : Décomposition"
+PART_BINDING_CRIMSON_ROOT:
+  name: "&x&B&5&3&6&5&ERacines Écarlates&x&4&2&C&8&F&5 Liaison"
+PART_GAMBESON_CRIMSON_ROOT:
+  name: "&x&B&5&3&6&5&ERacines Écarlates&x&4&2&C&8&F&5 Gambison"
+REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
+  name: "&x&B&F&3&0&7&FTrait : Rafraîchissant"
+REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
+  name: "&x&B&F&3&0&7&FTrait : Rafraîchissant"
+PART_BINDING_WARPED_ROOT:
+  name: "&x&3&6&B&5&4&9Racines Tordues&x&4&2&C&8&F&5 Liaison"
+PART_GAMBESON_WARPED_ROOT:
+  name: "&x&3&6&B&5&4&9Racines Tordues&x&4&2&C&8&F&5 Gambison"
+DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
+  name: "&x&B&F&3&0&7&FTrait : Funeste"
+DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
+  name: "&x&B&F&3&0&7&FTrait : Funeste"
+PART_BINDING_WEEPING_VINE:
+  name: "&x&9&C&0&9&1&DLiane Pleureuse&x&4&2&C&8&F&5 Liaison"
+PART_GAMBESON_WEEPING_VINE:
+  name: "&x&9&C&0&9&1&DLiane Pleureuse&x&4&2&C&8&F&5 Gambison"
+ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
+  name: "&x&B&F&3&0&7&FTrait : Attraction"
+ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
+  name: "&x&B&F&3&0&7&FTrait : Attraction"
+PART_BINDING_TWISTED_VINE:
+  name: "&x&1&B&8&0&4&5Liane Entrelacée&x&4&2&C&8&F&5 Liaison"
+PART_GAMBESON_TWISTED_VINE:
+  name: "&x&1&B&8&0&4&5Liane Entrelacée&x&4&2&C&8&F&5 Gambison"
+SLIME_LIQUID:
+  name: "&x&A&6&0&A&0&ASlime en Fusion"
+BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
+  name: "&x&B&F&3&0&7&FTrait : Rebondissant"
+BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
+  name: "&x&B&F&3&0&7&FTrait : Rebondissant"
+PART_BINDING_SLIME:
+  name: "&x&2&9&E&0&1&FSlime&x&4&2&C&8&F&5 Liaison"
+PART_GAMBESON_SLIME:
+  name: "&x&2&9&E&0&1&FSlime&x&4&2&C&8&F&5 Gambison"
+REDSTONE_LIQUID:
+  name: "&x&A&6&0&A&0&ARedstone en Fusion"
+SILICON_LIQUID:
+  name: "&x&A&6&0&A&0&ASilicium en Fusion"
+SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
+  name: "&x&B&F&3&0&7&FTrait : Apprentissage Lent"
+SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
+  name: "&x&B&F&3&0&7&FTrait : Apprentissage Lent"
+PART_BINDING_SILICON:
+  name: "&x&F&2&F&2&F&2Silicium&x&4&2&C&8&F&5 Liaison"
+PART_GAMBESON_SILICON:
+  name: "&x&F&2&F&2&F&2Silicium&x&4&2&C&8&F&5 Gambison"
+THICK_TRAIT_PROP_BINDING_LEATHER:
+  name: "&x&B&F&3&0&7&FTrait : Épais"
+THICK_TRAIT_PROP_GAMBESON_LEATHER:
+  name: "&x&B&F&3&0&7&FTrait : Épais"
+PART_BINDING_LEATHER:
+  name: "&x&9&1&8&0&5&6Cuir&x&4&2&C&8&F&5 Liaison"
+PART_GAMBESON_LEATHER:
+  name: "&x&9&1&8&0&5&6Cuir&x&4&2&C&8&F&5 Gambison"
+FERROSILICON_LIQUID:
+  name: "&x&A&6&0&A&0&AFerrosilicium en Fusion"
+FERROSILICON_ALLOY:
+  name: "&x&A&6&0&A&0&AFerrosilicium en Fusion"
+HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
+  name: "&x&B&F&3&0&7&FTrait : Hydrogène"
+SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
+  name: "&x&B&F&3&0&7&FTrait : Énergie Solaire"
+BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
+  name: "&x&B&F&3&0&7&FTrait : Embrasement"
+PART_HEAD_SWORDFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Tête d'Épée"
+PART_HEAD_HOEFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Tête de Houe"
+PART_HEAD_AXEFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Tête de Hache"
+PART_HEAD_PICKFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Tête de Pioche"
+PART_HEAD_SHOVELFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Tête de Pelle"
+PART_PLATES_HELMETFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATEFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSFERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_FERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Maillons de cotte"
+PART_REPAIR_KIT_FERROSILICON:
+  name: "&x&F&2&F&2&F&2Ferrosilicium&x&4&2&C&8&F&5 Kit de réparation"
+REDSTONE_ALLOY_LIQUID:
+  name: "&x&A&6&0&A&0&AAlliage de redstone en fusion"
+REDSTONE_ALLOY_ALLOY:
+  name: "&x&A&6&0&A&0&AAlliage de redstone en fusion"
+LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
+  name: "&x&B&F&3&0&7&FTrait : Paratonnerre"
+POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
+  name: "&x&B&F&3&0&7&FTrait : Sous tension"
+WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
+  name: "&x&B&F&3&0&7&FTrait : Qui a besoin de plaques de pression ?"
+PART_ROD_REDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Alliage de redstone&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Alliage de redstone&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Alliage de redstone&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Alliage de redstone&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSREDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Alliage de redstone&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_REDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Alliage de redstone&x&4&2&C&8&F&5 Maillons de cotte"
+PART_REPAIR_KIT_REDSTONE_ALLOY:
+  name: "&x&7&0&0&D&2&1Alliage de redstone&x&4&2&C&8&F&5 Kit de réparation"
+DIAMOND_LIQUID:
+  name: "&x&A&6&0&A&0&ADiamant en fusion"
+DRACONIC_LIQUID:
+  name: "&x&A&6&0&A&0&ADraconique en fusion"
+BOOMERITE_LIQUID:
+  name: "&x&A&6&0&A&0&ABoomerite en fusion"
+BOOMERITE_ALLOY:
+  name: "&x&A&6&0&A&0&ABoomerite en fusion"
+LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
+  name: "&x&B&F&3&0&7&FTrait : Simulateur d'échelle™"
+GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
+  name: "&x&B&F&3&0&7&FTrait : Go Boomer"
+PART_HEAD_SWORDBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOEBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXEBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Tête de pelle"
+PART_PLATES_HELMETBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATEBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSBOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Plaques de bottes"
+PART_REPAIR_KIT_BOOMERITE:
+  name: "&x&D&9&4&C&0&0Boomerite&x&4&2&C&8&F&5 Kit de réparation"
+SEFIRITE_LIQUID:
+  name: "&x&A&6&0&A&0&ASéfirite en fusion"
+CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
+  name: "&x&B&F&3&0&7&FTrait : Célébration"
+PART_PLATES_HELMETSEFIRITE:
+  name: "&x&9&B&E&B&3&4Séfirite&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATESEFIRITE:
+  name: "&x&9&B&E&B&3&4Séfirite&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSSEFIRITE:
+  name: "&x&9&B&E&B&3&4Séfirite&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSSEFIRITE:
+  name: "&x&9&B&E&B&3&4Séfirite&x&4&2&C&8&F&5 Plaques de bottes"
+PART_REPAIR_KIT_SEFIRITE:
+  name: "&x&9&B&E&B&3&4Séfirite&x&4&2&C&8&F&5 Kit de réparation"
+LIQUID_CHRISTMAS_LIQUID:
+  name: "&x&A&6&0&A&0&ANoël liquide en fusion"
+CRINGLEIUM_LIQUID:
+  name: "&x&A&6&0&A&0&ACringleium en fusion"
+CRINGLEIUM_ALLOY:
+  name: "&x&A&6&0&A&0&ACringleium en fusion"
+FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
+  name: "&x&B&F&3&0&7&FTrait : Ambiance festive"
+PART_LINKS_CRINGLEIUM:
+  name: "&x&0&0&C&C&3&6Cringleium&x&4&2&C&8&F&5 Maillons de cotte"
+FLOWING_FONDNESS_LIQUID:
+  name: "&x&A&6&0&A&0&ATendresse fluide en fusion"
+DETAILED_DEVOTION_LIQUID:
+  name: "&x&A&6&0&A&0&ADévotion détaillée en fusion"
+PURIFIED_PASSION_LIQUID:
+  name: "&x&A&6&0&A&0&APassion purifiée en fusion"
+LIQUID_LOVE_LIQUID:
+  name: "&x&A&6&0&A&0&AAmour liquide en fusion"
+LIQUID_LOVE_ALLOY:
+  name: "&x&A&6&0&A&0&AAmour liquide en fusion"
+IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
+  name: "&x&B&F&3&0&7&FTrait : Tout ce dont on a besoin"
+PART_LINKS_LIQUID_LOVE:
+  name: "&x&E&B&3&4&D&2Amour liquide&x&4&2&C&8&F&5 Maillons de cotte"
+NICEINIUM_LIQUID:
+  name: "&x&A&6&0&A&0&ANiceinium en fusion"
+NICEINIUM_ALLOY:
+  name: "&x&A&6&0&A&0&ANiceinium en fusion"
+NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
+  name: "&x&B&F&3&0&7&FTrait : Gentil"
+PART_HEAD_SWORDNICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOENICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXENICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKNICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELNICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Tête de pelle"
+PART_REPAIR_KIT_NICEINIUM:
+  name: "&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Kit de réparation"
+SMITHIUM_LIQUID:
+  name: "&x&A&6&0&A&0&ASmithium en fusion"
+SMITHIUM_ALLOY:
+  name: "&x&A&6&0&A&0&ASmithium en fusion"
+HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FTrait : Robuste"
+INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FTrait : Industrieux"
+HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FTrait : Résistance à la chaleur"
+CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
+  name: "&x&B&F&3&0&7&FTrait : Savoir-faire"
+PART_HEAD_SWORDSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Tête d'épée"
+PART_HEAD_HOESMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Tête de houe"
+PART_HEAD_AXESMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Tête de hache"
+PART_HEAD_PICKSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Tête de pioche"
+PART_HEAD_SHOVELSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Tête de pelle"
+PART_ROD_SMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Manche"
+PART_PLATES_HELMETSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATESMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSSMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Plaques de bottes"
+PART_LINKS_SMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Maillons de cotte"
+PART_REPAIR_KIT_SMITHIUM:
+  name: "&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Kit de réparation"
+ANNIVERSARIUM_LIQUID:
+  name: "&x&A&6&0&A&0&AAnniversarium en fusion"
+ANNIVERSARIUM_ALLOY:
+  name: "&x&A&6&0&A&0&AAnniversarium en fusion"
+10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
+  name: "&x&B&F&3&0&7&FTrait : 10 ans de (Slime)fun !"
+PART_PLATES_HELMETANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Plaques de casque"
+PART_PLATES_CHESTPLATEANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Plaques de plastron"
+PART_PLATES_LEGGINGSANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Plaques de jambières"
+PART_PLATES_BOOTSANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Plaques de bottes"
+PART_REPAIR_KIT_ANNIVERSARIUM:
+  name: "&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Kit de réparation"
