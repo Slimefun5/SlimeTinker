@@ -8,7 +8,6 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Slimefun5/SlimeTinker/total)
 [![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
 [![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/SlimeTinker?style=social)](https://github.com/Slimefun5/SlimeTinker)
-[![bStats](https://bStats.org/signatures/bukkit/SlimeTinker.svg)](https://bStats.org/plugin/bukkit/SlimeTinker/31392)
 
 A Tinkers' Construct-inspired addon for Slimefun that lets you craft, customize, and level modular tools and armor with unique material traits.
 
@@ -59,7 +58,11 @@ SlimeTinker now supports disabling traits. All the traits are enabled by default
 
 SlimeTinker has a LOT of properties and effects and I simply do not have enough ideas to flesh out all of it. So I
 really would welcome any and all suggestions in the Slimefun Addon Community Discord (be sure to stick to the
+<<<<<<< HEAD
 slimetinker channel!). If you have ideas, please use this [invite](https://discord.gg/J4KurMDCKU)
+=======
+slimetinker channel!). If you have ideas, please use this [invite](https://discord.gg/CbBYZBEWdR)
+>>>>>>> origin/experimental
 
 ## Credits
 
@@ -86,7 +89,7 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.1.3.1")
+    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.1.3.2")
 }
 ```
 
