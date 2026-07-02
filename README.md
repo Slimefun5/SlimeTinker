@@ -89,7 +89,7 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.1.3.2.3")
+    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.1.3.2.4")
 }
 ```
 
