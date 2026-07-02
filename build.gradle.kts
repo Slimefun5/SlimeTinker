@@ -44,6 +44,7 @@ repositories {
 
 dependencies {
 <<<<<<< HEAD
+<<<<<<< HEAD
     implementation("com.github.Slimefun5:SlimefunMetrics:master-SNAPSHOT")
 <<<<<<< HEAD
     "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.1")
@@ -56,6 +57,9 @@ dependencies {
 =======
 =======
     implementation("com.github.Slimefun5:SlimefunMetrics:c3a795e")
+>>>>>>> origin/experimental
+=======
+    githubImplementation("Slimefun5:SlimefunMetrics:v1.0.0")
 >>>>>>> origin/experimental
     githubCompileOnly("Slimefun5:Slimefun5:gh-v5.2.3.2")
     compileOnly("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
