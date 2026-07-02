@@ -84,6 +84,9 @@ tasks {
                 relocate("co.aikar.commands", "io.github.sefiraat.slimetinker.acf")
         relocate("co.aikar.locales", "io.github.sefiraat.slimetinker.locales")
         exclude("META-INF/**")
+        // Core is provided at runtime (depend: Slimefun); never bundle it. github-gradle pulls it in
+        // transitively via InfinityLib's metadata, so exclude it explicitly.
+        exclude("io/github/thebusybiscuit/slimefun5/**")
     }
     build {
         dependsOn(shadowJar)
