@@ -1,5 +1,7 @@
 package io.github.sefiraat.slimetinker.items.tinkermaterials.elements;
 
+import io.github.sefiraat.slimetinker.items.BaseItem;
+
 import io.github.mooy1.infinitylib.common.StackUtils;
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
@@ -166,53 +168,17 @@ public class MaterialTrait {
         return "error";
     }
 
-    public static final SlimefunItemStack PROP_HEAD = ThemeUtils.themedItemStack(
-        "PROP_HEAD",
-        SkullTextures.PART_SWORD_BLADE,
-        ThemeItemType.PART,
-        "Part: Head",
-        ThemeUtils.PASSIVE + "Any 'Head' item (Sword Blade, Axe Head etc.)"
-    );
+    public static final SlimefunItemStack PROP_HEAD = new BaseItem("PROP_HEAD", SkullTextures.PART_SWORD_BLADE);
 
-    public static final SlimefunItemStack PROP_BINDING = ThemeUtils.themedItemStack(
-        "PROP_BINDING",
-        SkullTextures.PART_BINDING,
-        ThemeItemType.PART,
-        "Part: Binder",
-        ThemeUtils.PASSIVE + "Any 'Binder' item."
-    );
+    public static final SlimefunItemStack PROP_BINDING = new BaseItem("PROP_BINDING", SkullTextures.PART_BINDING);
 
-    public static final SlimefunItemStack PROP_ROD = ThemeUtils.themedItemStack(
-        "PROP_ROD",
-        SkullTextures.PART_TOOL_ROD,
-        ThemeItemType.PART,
-        "Part: Tool Rod",
-        ThemeUtils.PASSIVE + "Any 'Tool Rod' item."
-    );
+    public static final SlimefunItemStack PROP_ROD = new BaseItem("PROP_ROD", SkullTextures.PART_TOOL_ROD);
 
-    public static final SlimefunItemStack PROP_PLATES = ThemeUtils.themedItemStack(
-        "PROP_PLATES",
-        SkullTextures.PART_CHEST_PLATES,
-        ThemeItemType.PART,
-        "Part: Plates",
-        ThemeUtils.PASSIVE + "Any 'Plate' item (Helm Plates, Boot Plates etc.)"
-    );
+    public static final SlimefunItemStack PROP_PLATES = new BaseItem("PROP_PLATES", SkullTextures.PART_CHEST_PLATES);
 
-    public static final SlimefunItemStack PROP_GAMBESON = ThemeUtils.themedItemStack(
-        "PROP_GAMBESON",
-        SkullTextures.PART_GAMBESON,
-        ThemeItemType.PART,
-        "Part: Gambeson",
-        ThemeUtils.PASSIVE + "Any 'Gambeson' item."
-    );
+    public static final SlimefunItemStack PROP_GAMBESON = new BaseItem("PROP_GAMBESON", SkullTextures.PART_GAMBESON);
 
-    public static final SlimefunItemStack PROP_LINKS = ThemeUtils.themedItemStack(
-        "PROP_LINKS",
-        SkullTextures.PART_LINKS,
-        ThemeItemType.PART,
-        "Part: Mail Links",
-        ThemeUtils.PASSIVE + "Any 'Mail Link' item."
-    );
+    public static final SlimefunItemStack PROP_LINKS = new BaseItem("PROP_LINKS", SkullTextures.PART_LINKS);
 
     @Nonnull
     protected static ItemStack[] propRecipe(SlimefunItemStack part, ItemStack stack) {

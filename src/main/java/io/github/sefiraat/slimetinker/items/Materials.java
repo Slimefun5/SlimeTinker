@@ -8,8 +8,6 @@ import io.github.sefiraat.slimetinker.items.workstations.workbench.Workbench;
 import io.github.sefiraat.slimetinker.managers.SupportedPluginsManager;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.MaterialCompat;
-import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
@@ -26,675 +24,155 @@ public final class Materials {
     // region Vanilla + Core SF
 
     // region Nuggets
-    public static final SlimefunItemStack NUGGET_CAST_COPPER = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_COPPER",
-        MaterialCompat.safe(XMaterial.ACACIA_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Copper Nugget",
-        "A nugget made from solid copper"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_COPPER = new BaseItem("NUGGET_CAST_COPPER", MaterialCompat.safe(XMaterial.ACACIA_BUTTON));
 
-    public static final SlimefunItemStack NUGGET_CAST_TIN = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_TIN",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Tin Nugget",
-        "A nugget made from solid tin"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_TIN = new BaseItem("NUGGET_CAST_TIN", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_ZINC = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_ZINC",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Zinc Nugget",
-        "A nugget made from solid zinc"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_ZINC = new BaseItem("NUGGET_CAST_ZINC", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_ALUMINUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_ALUMINUM",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Aluminum Nugget",
-        "A nugget made from solid aluminum"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_ALUMINUM = new BaseItem("NUGGET_CAST_ALUMINUM", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_MAGNESIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_MAGNESIUM",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Magnesium Nugget",
-        "A nugget made from solid magnesium"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_MAGNESIUM = new BaseItem("NUGGET_CAST_MAGNESIUM", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_LEAD = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_LEAD",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Lead Nugget",
-        "A nugget made from solid lead"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_LEAD = new BaseItem("NUGGET_CAST_LEAD", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_SILVER = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_SILVER",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Silver Nugget",
-        "A nugget made from solid silver"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_SILVER = new BaseItem("NUGGET_CAST_SILVER", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_COAL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_COAL",
-        MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Coal Nugget",
-        "A nugget made from liquifacted coal"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_COAL = new BaseItem("NUGGET_CAST_COAL", MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE_BUTTON));
 
-    public static final SlimefunItemStack NUGGET_CAST_STEEL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_STEEL",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Steel Nugget",
-        "A nugget made from solid steel"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_STEEL = new BaseItem("NUGGET_CAST_STEEL", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_DAMASCUS_STEEL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_DAMASCUS_STEEL",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Damascus Steel Nugget",
-        "A nugget made from damascus steel"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_DAMASCUS_STEEL = new BaseItem("NUGGET_CAST_DAMASCUS_STEEL", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_DURALIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_DURALIUM",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Duralium Nugget",
-        "A nugget made from duralium"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_DURALIUM = new BaseItem("NUGGET_CAST_DURALIUM", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_BRONZE = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_BRONZE",
-        MaterialCompat.safe(XMaterial.ACACIA_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Bronze Nugget",
-        "A nugget made from bronze"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_BRONZE = new BaseItem("NUGGET_CAST_BRONZE", MaterialCompat.safe(XMaterial.ACACIA_BUTTON));
 
-    public static final SlimefunItemStack NUGGET_CAST_ALU_BRONZE = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_ALU_BRONZE",
-        MaterialCompat.safe(XMaterial.GOLD_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Aluminum Bronze Nugget",
-        "A nugget made from aluminum bronze"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_ALU_BRONZE = new BaseItem("NUGGET_CAST_ALU_BRONZE", MaterialCompat.safe(XMaterial.GOLD_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_HARD_METAL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_HARD_METAL",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Hardened Metal Nugget",
-        "A nugget made from hardened metal"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_HARD_METAL = new BaseItem("NUGGET_CAST_HARD_METAL", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_COR_BRONZE = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_COR_BRONZE",
-        MaterialCompat.safe(XMaterial.GOLD_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Corinthian Bronze Nugget",
-        "A nugget made from corinthian bronze"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_COR_BRONZE = new BaseItem("NUGGET_CAST_COR_BRONZE", MaterialCompat.safe(XMaterial.GOLD_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_SOLDER = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_SOLDER",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Solder Nugget",
-        "A nugget made from solder"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_SOLDER = new BaseItem("NUGGET_CAST_SOLDER", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_BILLON = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_BILLON",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Billon Nugget",
-        "A nugget made from billon"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_BILLON = new BaseItem("NUGGET_CAST_BILLON", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_BRASS = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_BRASS",
-        MaterialCompat.safe(XMaterial.GOLD_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Brass Nugget",
-        "A nugget made from brass"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_BRASS = new BaseItem("NUGGET_CAST_BRASS", MaterialCompat.safe(XMaterial.GOLD_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_ALU_BRASS = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_ALU_BRASS",
-        MaterialCompat.safe(XMaterial.GOLD_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Aluminum Brass Nugget",
-        "A nugget made from aluminum brass"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_ALU_BRASS = new BaseItem("NUGGET_CAST_ALU_BRASS", MaterialCompat.safe(XMaterial.GOLD_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_NICKEL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_NICKEL",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Nickel Nugget",
-        "A nugget made from nickel"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_NICKEL = new BaseItem("NUGGET_CAST_NICKEL", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_COBALT = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_COBALT",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Cobalt Nugget",
-        "A nugget made from cobalt"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_COBALT = new BaseItem("NUGGET_CAST_COBALT", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_REINFORCED = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_REINFORCED",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Reinforced Alloy Nugget",
-        "A nugget made from reinforced alloy"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_REINFORCED = new BaseItem("NUGGET_CAST_REINFORCED", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_FERROSILICON = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_FERROSILICON",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Ferrosilicon Nugget",
-        "A nugget made from ferrosilicon"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_FERROSILICON = new BaseItem("NUGGET_CAST_FERROSILICON", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_REDSTONE_ALLOY = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_REDSTONE_ALLOY",
-        MaterialCompat.safe(XMaterial.ACACIA_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Redstone Alloy Nugget",
-        "A nugget made from redstone alloy"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_REDSTONE_ALLOY = new BaseItem("NUGGET_CAST_REDSTONE_ALLOY", MaterialCompat.safe(XMaterial.ACACIA_BUTTON));
 
-    public static final SlimefunItemStack NUGGET_CAST_BOOMERITE = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_BOOMERITE",
-        MaterialCompat.safe(XMaterial.ACACIA_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Boomerite Nugget",
-        "A nugget made from boomerite"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_BOOMERITE = new BaseItem("NUGGET_CAST_BOOMERITE", MaterialCompat.safe(XMaterial.ACACIA_BUTTON));
 
-    public static final SlimefunItemStack NUGGET_CAST_SEFIRITE = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_SEFIRITE",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Sefirite Nugget",
-        "A nugget made from sefirite"
-    );
-    public static final SlimefunItemStack NUGGET_CAST_CRINGLEIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_CRINGLEIUM",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Cringleium Nugget",
-        "A nugget made from Cringleium."
-    );
-    public static final SlimefunItemStack NUGGET_CAST_FONDNESS = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_FONDNESS",
-        MaterialCompat.safe(XMaterial.PINK_DYE),
-        ThemeItemType.CRAFTING,
-        "Fondness Nugget",
-        "A nugget made from the concept",
-        "of fondness."
-    );
-    public static final SlimefunItemStack NUGGET_CAST_DEVOTION = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_DEVOTION",
-        MaterialCompat.safe(XMaterial.PINK_DYE),
-        ThemeItemType.CRAFTING,
-        "Devotion Nugget",
-        "A nugget made from the concept",
-        "of devotion."
-    );
-    public static final SlimefunItemStack NUGGET_CAST_PASSION = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_PASSION",
-        MaterialCompat.safe(XMaterial.PINK_DYE),
-        ThemeItemType.CRAFTING,
-        "Passion Nugget",
-        "A nugget made from the concept",
-        "of passion."
-    );
-    public static final SlimefunItemStack NUGGET_CAST_LOVE = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_LOVE",
-        MaterialCompat.safe(XMaterial.PINK_DYE),
-        ThemeItemType.CRAFTING,
-        "Love Nugget",
-        "A nugget that exudes nothing but",
-        "pure and unadulterated love."
-    );
-    public static final SlimefunItemStack NUGGET_CAST_NICE = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_NICE",
-        MaterialCompat.safe(XMaterial.GOLD_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Nice Nugget",
-        "Nice"
-    );
-    public static final SlimefunItemStack NUGGET_CAST_SMITHIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_SMITHIUM",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Smithium Nugget",
-        "A straight-forward metal with various uses",
-        "in core industry tasks."
-    );
-    public static final SlimefunItemStack NUGGET_CAST_ANNIVERSARIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_ANNIVERSARIUM",
-        MaterialCompat.safe(XMaterial.GOLD_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Anniversarium Nugget",
-        "10 Years of (Slime)fun!"
-    );
-    public static final SlimefunItemStack NUGGET_CAST_REINFORCED_DRACONIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_REINFORCED_DRACONIUM",
-        MaterialCompat.safe(XMaterial.CRIMSON_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Reinforced Draconium Nugget",
-        "An ingot that just teems with an",
-        "unrivalled fury."
-    );
+    public static final SlimefunItemStack NUGGET_CAST_SEFIRITE = new BaseItem("NUGGET_CAST_SEFIRITE", MaterialCompat.safe(XMaterial.IRON_NUGGET));
+    public static final SlimefunItemStack NUGGET_CAST_CRINGLEIUM = new BaseItem("NUGGET_CAST_CRINGLEIUM", MaterialCompat.safe(XMaterial.IRON_NUGGET));
+    public static final SlimefunItemStack NUGGET_CAST_FONDNESS = new BaseItem("NUGGET_CAST_FONDNESS", MaterialCompat.safe(XMaterial.PINK_DYE));
+    public static final SlimefunItemStack NUGGET_CAST_DEVOTION = new BaseItem("NUGGET_CAST_DEVOTION", MaterialCompat.safe(XMaterial.PINK_DYE));
+    public static final SlimefunItemStack NUGGET_CAST_PASSION = new BaseItem("NUGGET_CAST_PASSION", MaterialCompat.safe(XMaterial.PINK_DYE));
+    public static final SlimefunItemStack NUGGET_CAST_LOVE = new BaseItem("NUGGET_CAST_LOVE", MaterialCompat.safe(XMaterial.PINK_DYE));
+    public static final SlimefunItemStack NUGGET_CAST_NICE = new BaseItem("NUGGET_CAST_NICE", MaterialCompat.safe(XMaterial.GOLD_NUGGET));
+    public static final SlimefunItemStack NUGGET_CAST_SMITHIUM = new BaseItem("NUGGET_CAST_SMITHIUM", MaterialCompat.safe(XMaterial.IRON_NUGGET));
+    public static final SlimefunItemStack NUGGET_CAST_ANNIVERSARIUM = new BaseItem("NUGGET_CAST_ANNIVERSARIUM", MaterialCompat.safe(XMaterial.GOLD_NUGGET));
+    public static final SlimefunItemStack NUGGET_CAST_REINFORCED_DRACONIUM = new BaseItem("NUGGET_CAST_REINFORCED_DRACONIUM", MaterialCompat.safe(XMaterial.CRIMSON_BUTTON));
     // endregion
 
     // region Ingots
-    public static final SlimefunItemStack INGOT_CAST_BOOMERITE = ThemeUtils.themedItemStack(
-        "INGOT_CAST_BOOMERITE",
-        MaterialCompat.safe(XMaterial.BRICK),
-        ThemeItemType.CRAFTING,
-        "Boomerite Ingot",
-        "A very rare ingot. Origins unknown."
-    );
-    public static final SlimefunItemStack INGOT_CAST_SEFIRITE = ThemeUtils.themedItemStack(
-        "INGOT_CAST_SEFIRITE",
-        MaterialCompat.safe(XMaterial.IRON_INGOT),
-        ThemeItemType.CRAFTING,
-        "Sefirite Ingot",
-        "An ingot that's only available for a short time."
-    );
-    public static final SlimefunItemStack INGOT_CAST_CRINGLEIUM = ThemeUtils.themedItemStack(
-        "INGOT_CAST_CRINGLEIUM",
-        MaterialCompat.safe(XMaterial.IRON_INGOT),
-        ThemeItemType.CRAFTING,
-        "Cringleium Ingot",
-        "A festive ingot that's only available for a short time."
-    );
-    public static final SlimefunItemStack INGOT_CAST_FONDNESS = ThemeUtils.themedItemStack(
-        "INGOT_CAST_FONDNESS",
-        MaterialCompat.safe(XMaterial.BRICK),
-        ThemeItemType.CRAFTING,
-        "Fondness Ingot",
-        "An ingot made from the concept",
-        "of fondness."
-    );
-    public static final SlimefunItemStack INGOT_CAST_DEVOTION = ThemeUtils.themedItemStack(
-        "INGOT_CAST_DEVOTION",
-        MaterialCompat.safe(XMaterial.BRICK),
-        ThemeItemType.CRAFTING,
-        "Devotion Ingot",
-        "An ingot made from the concept",
-        "of devotion."
-    );
-    public static final SlimefunItemStack INGOT_CAST_PASSION = ThemeUtils.themedItemStack(
-        "INGOT_CAST_PASSION",
-        MaterialCompat.safe(XMaterial.BRICK),
-        ThemeItemType.CRAFTING,
-        "Passion Ingot",
-        "An ingot made from the concept",
-        "of passion."
-    );
-    public static final SlimefunItemStack INGOT_CAST_LOVE = ThemeUtils.themedItemStack(
-        "INGOT_CAST_LOVE",
-        MaterialCompat.safe(XMaterial.BRICK),
-        ThemeItemType.CRAFTING,
-        "Love Ingot",
-        "An ingot that exudes nothing but",
-        "pure and unadulterated love."
-    );
-    public static final SlimefunItemStack INGOT_CAST_NICE = ThemeUtils.themedItemStack(
-        "INGOT_CAST_NICE",
-        MaterialCompat.safe(XMaterial.GOLD_INGOT),
-        ThemeItemType.CRAFTING,
-        "Nice Ingot",
-        "Nice"
-    );
-    public static final SlimefunItemStack INGOT_CAST_SMITHIUM = ThemeUtils.themedItemStack(
-        "INGOT_CAST_SMITHIUM",
-        MaterialCompat.safe(XMaterial.IRON_INGOT),
-        ThemeItemType.CRAFTING,
-        "Smithium Ingot",
-        "A straight-forward metal with various uses",
-        "in core industry tasks."
-    );
-    public static final SlimefunItemStack INGOT_CAST_ANNIVERSARIUM = ThemeUtils.themedItemStack(
-        "INGOT_CAST_ANNIVERSARIUM",
-        MaterialCompat.safe(XMaterial.GOLD_INGOT),
-        ThemeItemType.CRAFTING,
-        "Anniversarium Ingot",
-        "10 Years of (Slime)fun!"
-    );
-    public static final SlimefunItemStack INGOT_CAST_REINFORCED_DRACONIUM = ThemeUtils.themedItemStack(
-        "INGOT_CAST_REINFORCED_DRACONIUM",
-        MaterialCompat.safe(XMaterial.BRICK),
-        ThemeItemType.CRAFTING,
-        "Reinforced Draconium Ingot",
-        "An ingot that just teems with an",
-        "unrivalled fury."
-    );
+    public static final SlimefunItemStack INGOT_CAST_BOOMERITE = new BaseItem("INGOT_CAST_BOOMERITE", MaterialCompat.safe(XMaterial.BRICK));
+    public static final SlimefunItemStack INGOT_CAST_SEFIRITE = new BaseItem("INGOT_CAST_SEFIRITE", MaterialCompat.safe(XMaterial.IRON_INGOT));
+    public static final SlimefunItemStack INGOT_CAST_CRINGLEIUM = new BaseItem("INGOT_CAST_CRINGLEIUM", MaterialCompat.safe(XMaterial.IRON_INGOT));
+    public static final SlimefunItemStack INGOT_CAST_FONDNESS = new BaseItem("INGOT_CAST_FONDNESS", MaterialCompat.safe(XMaterial.BRICK));
+    public static final SlimefunItemStack INGOT_CAST_DEVOTION = new BaseItem("INGOT_CAST_DEVOTION", MaterialCompat.safe(XMaterial.BRICK));
+    public static final SlimefunItemStack INGOT_CAST_PASSION = new BaseItem("INGOT_CAST_PASSION", MaterialCompat.safe(XMaterial.BRICK));
+    public static final SlimefunItemStack INGOT_CAST_LOVE = new BaseItem("INGOT_CAST_LOVE", MaterialCompat.safe(XMaterial.BRICK));
+    public static final SlimefunItemStack INGOT_CAST_NICE = new BaseItem("INGOT_CAST_NICE", MaterialCompat.safe(XMaterial.GOLD_INGOT));
+    public static final SlimefunItemStack INGOT_CAST_SMITHIUM = new BaseItem("INGOT_CAST_SMITHIUM", MaterialCompat.safe(XMaterial.IRON_INGOT));
+    public static final SlimefunItemStack INGOT_CAST_ANNIVERSARIUM = new BaseItem("INGOT_CAST_ANNIVERSARIUM", MaterialCompat.safe(XMaterial.GOLD_INGOT));
+    public static final SlimefunItemStack INGOT_CAST_REINFORCED_DRACONIUM = new BaseItem("INGOT_CAST_REINFORCED_DRACONIUM", MaterialCompat.safe(XMaterial.BRICK));
     // endregion
 
     // region Blocks
-    public static final SlimefunItemStack BLOCK_CAST_COPPER = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_COPPER",
-        MaterialCompat.safe(XMaterial.TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Copper Block",
-        "A block made from solid copper"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_COPPER = new BaseItem("BLOCK_CAST_COPPER", MaterialCompat.safe(XMaterial.TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_TIN = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_TIN",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Tin Block",
-        "A block made from solid tin"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_TIN = new BaseItem("BLOCK_CAST_TIN", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_ZINC = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_ZINC",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Zinc Block",
-        "A block made from solid zinc"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_ZINC = new BaseItem("BLOCK_CAST_ZINC", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_ALUMINUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_ALUMINUM",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Aluminum Block",
-        "A block made from solid aluminum"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_ALUMINUM = new BaseItem("BLOCK_CAST_ALUMINUM", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_MAGNESIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_MAGNESIUM",
-        MaterialCompat.safe(XMaterial.PINK_TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Magnesium Block",
-        "A block made from solid magnesium"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_MAGNESIUM = new BaseItem("BLOCK_CAST_MAGNESIUM", MaterialCompat.safe(XMaterial.PINK_TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_LEAD = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_LEAD",
-        MaterialCompat.safe(XMaterial.PURPLE_TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Lead Block",
-        "A block made from solid lead"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_LEAD = new BaseItem("BLOCK_CAST_LEAD", MaterialCompat.safe(XMaterial.PURPLE_TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_SILVER = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_SILVER",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Silver Block",
-        "A block made from solid silver"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_SILVER = new BaseItem("BLOCK_CAST_SILVER", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_STEEL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_STEEL",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Steel Block",
-        "A block made from solid steel"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_STEEL = new BaseItem("BLOCK_CAST_STEEL", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_DAMASCUS_STEEL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_DAMASCUS_STEEL",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Damascus Steel Block",
-        "A block made from damascus steel"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_DAMASCUS_STEEL = new BaseItem("BLOCK_CAST_DAMASCUS_STEEL", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_DURALIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_DURALIUM",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Duralium Block",
-        "A block made from duralium"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_DURALIUM = new BaseItem("BLOCK_CAST_DURALIUM", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_BRONZE = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_BRONZE",
-        MaterialCompat.safe(XMaterial.TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Bronze Block",
-        "A block made from bronze"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_BRONZE = new BaseItem("BLOCK_CAST_BRONZE", MaterialCompat.safe(XMaterial.TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_ALU_BRONZE = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_ALU_BRONZE",
-        MaterialCompat.safe(XMaterial.TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Aluminum Bronze Block",
-        "A block made from aluminum bronze"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_ALU_BRONZE = new BaseItem("BLOCK_CAST_ALU_BRONZE", MaterialCompat.safe(XMaterial.TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_HARD_METAL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_HARD_METAL",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Hardened Metal Block",
-        "A block made from hardened metal"
-    );
-    public static final SlimefunItemStack BLOCK_CAST_COR_BRONZE = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_COR_BRONZE",
-        MaterialCompat.safe(XMaterial.TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Corinthian Bronze Block",
-        "A block made from corinthian bronze"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_HARD_METAL = new BaseItem("BLOCK_CAST_HARD_METAL", MaterialCompat.safe(XMaterial.IRON_BLOCK));
+    public static final SlimefunItemStack BLOCK_CAST_COR_BRONZE = new BaseItem("BLOCK_CAST_COR_BRONZE", MaterialCompat.safe(XMaterial.TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_SOLDER = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_SOLDER",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Solder Block",
-        "A block made from solder"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_SOLDER = new BaseItem("BLOCK_CAST_SOLDER", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_BILLON = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_BILLON",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Billon Block",
-        "A block made from billon"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_BILLON = new BaseItem("BLOCK_CAST_BILLON", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_BRASS = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_BRASS",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Brass Block",
-        "A block made from brass"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_BRASS = new BaseItem("BLOCK_CAST_BRASS", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_ALU_BRASS = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_ALU_BRASS",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Aluminum Brass Block",
-        "A block made from aluminum brass"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_ALU_BRASS = new BaseItem("BLOCK_CAST_ALU_BRASS", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_NICKEL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_NICKEL",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Nickel Block",
-        "A block made from nickel"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_NICKEL = new BaseItem("BLOCK_CAST_NICKEL", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_COBALT = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_COBALT",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Cobalt Block",
-        "A block made from cobalt"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_COBALT = new BaseItem("BLOCK_CAST_COBALT", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_REINFORCED = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_REINFORCED",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Reinforced Alloy Block",
-        "A block made from reinforced alloy"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_REINFORCED = new BaseItem("BLOCK_CAST_REINFORCED", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_FERROSILICON = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_FERROSILICON",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Ferrosilicon Block",
-        "A block made from ferrosilicon"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_FERROSILICON = new BaseItem("BLOCK_CAST_FERROSILICON", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_REDSTONE_ALLOY = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_REDSTONE_ALLOY",
-        MaterialCompat.safe(XMaterial.TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Redstone Alloy Block",
-        "A block made from redstone alloy"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_REDSTONE_ALLOY = new BaseItem("BLOCK_CAST_REDSTONE_ALLOY", MaterialCompat.safe(XMaterial.TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_BOOMERITE = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_BOOMERITE",
-        MaterialCompat.safe(XMaterial.TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Boomerite Block",
-        "A block made from boomerite"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_BOOMERITE = new BaseItem("BLOCK_CAST_BOOMERITE", MaterialCompat.safe(XMaterial.TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_SEFIRITE = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_SEFIRITE",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Sefirite Block",
-        "A block made from sefirite"
-    );
-    public static final SlimefunItemStack BLOCK_CAST_CRINGLEIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_CRINGLEIUM",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Cringleium Block",
-        "A block made from Cringleium"
-    );
-    public static final SlimefunItemStack BLOCK_CAST_LOVE = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_LOVE",
-        MaterialCompat.safe(XMaterial.PINK_DYE),
-        ThemeItemType.CRAFTING,
-        "Love Block",
-        "A block that exudes nothing but",
-        "pure and unadulterated love."
-    );
-    public static final SlimefunItemStack BLOCK_CAST_NICE = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_NICE",
-        MaterialCompat.safe(XMaterial.GOLD_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Nice Block",
-        "Nice"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_SEFIRITE = new BaseItem("BLOCK_CAST_SEFIRITE", MaterialCompat.safe(XMaterial.IRON_BLOCK));
+    public static final SlimefunItemStack BLOCK_CAST_CRINGLEIUM = new BaseItem("BLOCK_CAST_CRINGLEIUM", MaterialCompat.safe(XMaterial.IRON_BLOCK));
+    public static final SlimefunItemStack BLOCK_CAST_LOVE = new BaseItem("BLOCK_CAST_LOVE", MaterialCompat.safe(XMaterial.PINK_DYE));
+    public static final SlimefunItemStack BLOCK_CAST_NICE = new BaseItem("BLOCK_CAST_NICE", MaterialCompat.safe(XMaterial.GOLD_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_SMITHIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_SMITHIUM",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Smithium Block",
-        "A straight-forward metal with various uses",
-        "in core industry tasks."
-    );
-    public static final SlimefunItemStack BLOCK_CAST_ANNIVERSARIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_ANNIVERSARIUM",
-        MaterialCompat.safe(XMaterial.GOLD_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Anniversarium Block",
-        "10 Years of (Slime)fun!"
-    );
-    public static final SlimefunItemStack BLOCK_CAST_REINFORCED_DRACONIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_REINFORCED_DRACONIUM",
-        MaterialCompat.safe(XMaterial.RED_CONCRETE),
-        ThemeItemType.CRAFTING,
-        "Reinforced Draconium Block",
-        "A block that just teems with an",
-        "unrivalled fury."
-    );
+    public static final SlimefunItemStack BLOCK_CAST_SMITHIUM = new BaseItem("BLOCK_CAST_SMITHIUM", MaterialCompat.safe(XMaterial.IRON_BLOCK));
+    public static final SlimefunItemStack BLOCK_CAST_ANNIVERSARIUM = new BaseItem("BLOCK_CAST_ANNIVERSARIUM", MaterialCompat.safe(XMaterial.GOLD_BLOCK));
+    public static final SlimefunItemStack BLOCK_CAST_REINFORCED_DRACONIUM = new BaseItem("BLOCK_CAST_REINFORCED_DRACONIUM", MaterialCompat.safe(XMaterial.RED_CONCRETE));
     // endregion
 
     // region Crafts
-    public static final SlimefunItemStack MOD_PLATE = ThemeUtils.themedItemStack(
-        "MOD_PLATE",
-        MaterialCompat.safe(XMaterial.OBSIDIAN),
-        ThemeItemType.MOD,
-        "Reinforced Plate",
-        ThemeUtils.PASSIVE + "A modification for tools that gives.",
-        ThemeUtils.PASSIVE + "a chance to ignore tool damage."
-    );
+    public static final SlimefunItemStack MOD_PLATE = new BaseItem("MOD_PLATE", MaterialCompat.safe(XMaterial.OBSIDIAN));
 
-    public static final SlimefunItemStack GROUT = ThemeUtils.themedItemStack(
-        "GROUT",
-        MaterialCompat.safe(XMaterial.GRAVEL),
-        ThemeItemType.CRAFTING,
-        "Grout",
-        ThemeUtils.PASSIVE + "Used to make seared bricks."
-    );
+    public static final SlimefunItemStack GROUT = new BaseItem("GROUT", MaterialCompat.safe(XMaterial.GRAVEL));
 
 
-    public static final SlimefunItemStack SEARED_BRICK = ThemeUtils.themedItemStack(
-        "SEARED_BRICK",
-        MaterialCompat.safe(XMaterial.BRICK),
-        ThemeItemType.CRAFTING,
-        "Seared Brick",
-        ThemeUtils.PASSIVE + "Used in crafting smeltery blocks."
-    );
+    public static final SlimefunItemStack SEARED_BRICK = new BaseItem("SEARED_BRICK", MaterialCompat.safe(XMaterial.BRICK));
 
-    public static final SlimefunItemStack SMELTERY_CONTROLLER = ThemeUtils.themedItemStack(
-        "SMELTERY_CONTROLLER",
-        MaterialCompat.safe(XMaterial.CHISELED_POLISHED_BLACKSTONE),
-        ThemeItemType.MACHINE,
-        "Smeltery Controller",
-        ThemeUtils.PASSIVE + "Used in crafting smeltery blocks."
-    );
+    public static final SlimefunItemStack SMELTERY_CONTROLLER = new BaseItem("SMELTERY_CONTROLLER", MaterialCompat.safe(XMaterial.CHISELED_POLISHED_BLACKSTONE));
 
-    public static final SlimefunItemStack SEARED_TANK = ThemeUtils.themedItemStack(
-        "SEARED_TANK",
-        MaterialCompat.safe(XMaterial.RED_NETHER_BRICK_WALL),
-        ThemeItemType.CRAFTING,
-        "Seared Tank",
-        ThemeUtils.PASSIVE + "Used in building the smeltery."
-    );
+    public static final SlimefunItemStack SEARED_TANK = new BaseItem("SEARED_TANK", MaterialCompat.safe(XMaterial.RED_NETHER_BRICK_WALL));
 
-    public static final SlimefunItemStack SPOUT = ThemeUtils.themedItemStack(
-        "SPOUT",
-        MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE_BRICK_WALL),
-        ThemeItemType.CRAFTING,
-        "Seared Spout",
-        ThemeUtils.PASSIVE + "Used in building the smeltery."
-    );
+    public static final SlimefunItemStack SPOUT = new BaseItem("SPOUT", MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE_BRICK_WALL));
 
-    public static final SlimefunItemStack SEARED_BRICK_BLOCK = ThemeUtils.themedItemStack(
-        "SEARED_BRICK_BLOCK",
-        MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE_BRICKS),
-        ThemeItemType.CRAFTING,
-        "Seared Brick Block",
-        ThemeUtils.PASSIVE + "Used in building the smeltery."
-    );
+    public static final SlimefunItemStack SEARED_BRICK_BLOCK = new BaseItem("SEARED_BRICK_BLOCK", MaterialCompat.safe(XMaterial.POLISHED_BLACKSTONE_BRICKS));
     // endregion
 
     // endregion
@@ -702,112 +180,34 @@ public final class Materials {
     // region Infinity Expansion
 
     // region Nuggets
-    public static final SlimefunItemStack NUGGET_CAST_INFINITY = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_INFINITY",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Infinity Nugget",
-        "A nugget made from solid infinity... yup!"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_INFINITY = new BaseItem("NUGGET_CAST_INFINITY", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_MAGSTEEL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_MAGSTEEL",
-        MaterialCompat.safe(XMaterial.ACACIA_BUTTON),
-        ThemeItemType.CRAFTING,
-        "MagSteel Nugget",
-        "A nugget made from solid MagSteel"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_MAGSTEEL = new BaseItem("NUGGET_CAST_MAGSTEEL", MaterialCompat.safe(XMaterial.ACACIA_BUTTON));
 
-    public static final SlimefunItemStack NUGGET_CAST_TITANIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_TITANIUM",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Titanium Nugget",
-        "A nugget made from solid Titanium"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_TITANIUM = new BaseItem("NUGGET_CAST_TITANIUM", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_MYTHRIL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_MYTHRIL",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Mythril Nugget",
-        "A nugget made from solid Mythril"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_MYTHRIL = new BaseItem("NUGGET_CAST_MYTHRIL", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_ADAMANTITE = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_ADAMANTITE",
-        MaterialCompat.safe(XMaterial.ACACIA_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Adamantite Nugget",
-        "A nugget made from solid Adamantite"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_ADAMANTITE = new BaseItem("NUGGET_CAST_ADAMANTITE", MaterialCompat.safe(XMaterial.ACACIA_BUTTON));
 
-    public static final SlimefunItemStack NUGGET_CAST_MAGNONIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_MAGNONIUM",
-        MaterialCompat.safe(XMaterial.CRIMSON_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Magnonium Nugget",
-        "A nugget made from solid Magnonium"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_MAGNONIUM = new BaseItem("NUGGET_CAST_MAGNONIUM", MaterialCompat.safe(XMaterial.CRIMSON_BUTTON));
 
     // endregion
 
     // region Blocks
-    public static final SlimefunItemStack BLOCK_CAST_VOID = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_VOID",
-        MaterialCompat.safe(XMaterial.NETHERITE_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Void Block",
-        "A block made from ... void?"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_VOID = new BaseItem("BLOCK_CAST_VOID", MaterialCompat.safe(XMaterial.NETHERITE_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_INFINITY = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_INFINITY",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Infinity Block",
-        "A block made from *sigh* infinity."
-    );
+    public static final SlimefunItemStack BLOCK_CAST_INFINITY = new BaseItem("BLOCK_CAST_INFINITY", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_MAGSTEEL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_MAGSTEEL",
-        MaterialCompat.safe(XMaterial.TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "MagSteel Block",
-        "A block made from MagSteel."
-    );
+    public static final SlimefunItemStack BLOCK_CAST_MAGSTEEL = new BaseItem("BLOCK_CAST_MAGSTEEL", MaterialCompat.safe(XMaterial.TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_TITANIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_TITANIUM",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Titanium Block",
-        "A block made from Titanium."
-    );
+    public static final SlimefunItemStack BLOCK_CAST_TITANIUM = new BaseItem("BLOCK_CAST_TITANIUM", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_MYTHRIL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_MYTHRIL",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Mythril Block",
-        "A block made from Mythril."
-    );
+    public static final SlimefunItemStack BLOCK_CAST_MYTHRIL = new BaseItem("BLOCK_CAST_MYTHRIL", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_ADAMANTITE = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_ADAMANTITE",
-        MaterialCompat.safe(XMaterial.TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Adamanitite Block",
-        "A block made from Adamanitite."
-    );
+    public static final SlimefunItemStack BLOCK_CAST_ADAMANTITE = new BaseItem("BLOCK_CAST_ADAMANTITE", MaterialCompat.safe(XMaterial.TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_MAGNONIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_MAGNONIUM",
-        MaterialCompat.safe(XMaterial.PURPLE_TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Magnonium Block",
-        "A block made from Magnonium."
-    );
+    public static final SlimefunItemStack BLOCK_CAST_MAGNONIUM = new BaseItem("BLOCK_CAST_MAGNONIUM", MaterialCompat.safe(XMaterial.PURPLE_TERRACOTTA));
 
     // endregion
 
@@ -816,88 +216,28 @@ public final class Materials {
     // region SFWarfare
 
     // region Nuggets
-    public static final SlimefunItemStack NUGGET_CAST_SLIMESTEEL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_SLIMESTEEL",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Slimesteel Nugget",
-        "A nugget of slimesteel"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_SLIMESTEEL = new BaseItem("NUGGET_CAST_SLIMESTEEL", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_REINFORCED_SLIMESTEEL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_REINFORCED_SLIMESTEEL",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Reinforced Slimesteel Nugget",
-        "A nugget of reinforced slimesteel"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_REINFORCED_SLIMESTEEL = new BaseItem("NUGGET_CAST_REINFORCED_SLIMESTEEL", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_OSMIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_OSMIUM",
-        MaterialCompat.safe(XMaterial.WARPED_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Osmium Nugget",
-        "A nugget of osmium"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_OSMIUM = new BaseItem("NUGGET_CAST_OSMIUM", MaterialCompat.safe(XMaterial.WARPED_BUTTON));
 
-    public static final SlimefunItemStack NUGGET_CAST_OSMIUM_SUPER_ALLOY = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_OSMIUM_SUPER_ALLOY",
-        MaterialCompat.safe(XMaterial.WARPED_BUTTON),
-        ThemeItemType.CRAFTING,
-        "Osmium Superalloy Nugget",
-        "A nugget of osmium superalloy"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_OSMIUM_SUPER_ALLOY = new BaseItem("NUGGET_CAST_OSMIUM_SUPER_ALLOY", MaterialCompat.safe(XMaterial.WARPED_BUTTON));
 
-    public static final SlimefunItemStack NUGGET_CAST_UNPATENTABILUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_UNPATENTABILUM",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Unpatentabilum Nugget",
-        "A nugget of unpatentabilum"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_UNPATENTABILUM = new BaseItem("NUGGET_CAST_UNPATENTABILUM", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
     // endregion
 
     // region Blocks
-    public static final SlimefunItemStack BLOCK_CAST_SLIMESTEEL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_SLIMESTEEL",
-        MaterialCompat.safe(XMaterial.SLIME_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Slimesteel Block",
-        "A block of slimesteel"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_SLIMESTEEL = new BaseItem("BLOCK_CAST_SLIMESTEEL", MaterialCompat.safe(XMaterial.SLIME_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_REINFORCED_SLIMESTEEL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_REINFORCED_SLIMESTEEL",
-        MaterialCompat.safe(XMaterial.SLIME_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Reinforced Slimesteel Block",
-        "A block of reinforced slimesteel"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_REINFORCED_SLIMESTEEL = new BaseItem("BLOCK_CAST_REINFORCED_SLIMESTEEL", MaterialCompat.safe(XMaterial.SLIME_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_OSMIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_OSMIUM",
-        MaterialCompat.safe(XMaterial.LIGHT_BLUE_TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Osmium Block",
-        "A block of osmium"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_OSMIUM = new BaseItem("BLOCK_CAST_OSMIUM", MaterialCompat.safe(XMaterial.LIGHT_BLUE_TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_OSMIUM_SUPER_ALLOY = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_OSMIUM_SUPER_ALLOY",
-        MaterialCompat.safe(XMaterial.BLUE_TERRACOTTA),
-        ThemeItemType.CRAFTING,
-        "Osmium Superalloy Block",
-        "A block of osmium superalloy"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_OSMIUM_SUPER_ALLOY = new BaseItem("BLOCK_CAST_OSMIUM_SUPER_ALLOY", MaterialCompat.safe(XMaterial.BLUE_TERRACOTTA));
 
-    public static final SlimefunItemStack BLOCK_CAST_UNPATENTABILUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_UNPATENTABILUM",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Unpatentabilum Block",
-        "A block of unpatentabilum"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_UNPATENTABILUM = new BaseItem("BLOCK_CAST_UNPATENTABILUM", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
     // endregion
 
@@ -906,24 +246,12 @@ public final class Materials {
     // region DynaTech
 
     // region Nuggets
-    public static final SlimefunItemStack NUGGET_CAST_STAINLESSSTEEL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_STAINLESSSTEEL",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Stainless Steel Nugget",
-        "A nugget of stainless steel"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_STAINLESSSTEEL = new BaseItem("NUGGET_CAST_STAINLESSSTEEL", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
     // endregion
 
     // region Blocks
-    public static final SlimefunItemStack BLOCK_CAST_STAINLESSSTEEL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_STAINLESSSTEEL",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Stainless Steel Block",
-        "A block of stainless"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_STAINLESSSTEEL = new BaseItem("BLOCK_CAST_STAINLESSSTEEL", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
     // endregion
 
@@ -932,104 +260,32 @@ public final class Materials {
     // region LiteXpansion
 
     // region Nuggets
-    public static final SlimefunItemStack NUGGET_CAST_REFINED_IRON = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_REFINED_IRON",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Refined Iron Nugget",
-        "A nugget of refined iron"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_REFINED_IRON = new BaseItem("NUGGET_CAST_REFINED_IRON", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_MIXED_METAL = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_MIXED_METAL",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Mixed Metal Nugget",
-        "A nugget of mixed metal"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_MIXED_METAL = new BaseItem("NUGGET_CAST_MIXED_METAL", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_ADVANCED_ALLOY = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_ADVANCED_ALLOY",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Advanced Alloy Nugget",
-        "A nugget of advanced alloy"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_ADVANCED_ALLOY = new BaseItem("NUGGET_CAST_ADVANCED_ALLOY", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_MAG_THOR = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_MAG_THOR",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Mag-Thor Nugget",
-        "A nugget of mag-thor"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_MAG_THOR = new BaseItem("NUGGET_CAST_MAG_THOR", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_SCRAP = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_SCRAP",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Scrap Nugget",
-        "A nugget of scrap"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_SCRAP = new BaseItem("NUGGET_CAST_SCRAP", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_IRIDIUM = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_IRIDIUM",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Iridium Nugget",
-        "A nugget of Iridium"
-    );
+    public static final SlimefunItemStack NUGGET_CAST_IRIDIUM = new BaseItem("NUGGET_CAST_IRIDIUM", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
     // endregion
 
     // region Blocks
-    public static final SlimefunItemStack BLOCK_CAST_REFINED_IRON = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_REFINED_IRON",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Refined Iron Block",
-        "A block of refined iron"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_REFINED_IRON = new BaseItem("BLOCK_CAST_REFINED_IRON", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_MIXED_METAL = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_MIXED_METAL",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Mixed Metal Block",
-        "A block of mixed metal"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_MIXED_METAL = new BaseItem("BLOCK_CAST_MIXED_METAL", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_ADVANCED_ALLOY = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_ADVANCED_ALLOY",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Advanced Alloy Block",
-        "A block of advacned alloy"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_ADVANCED_ALLOY = new BaseItem("BLOCK_CAST_ADVANCED_ALLOY", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_MAG_THOR = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_MAG_THOR",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Mag-Thor Block",
-        "A block of mag-thor"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_MAG_THOR = new BaseItem("BLOCK_CAST_MAG_THOR", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_SCRAP = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_SCRAP",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Scrap Block",
-        "A block of scrap"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_SCRAP = new BaseItem("BLOCK_CAST_SCRAP", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
-    public static final SlimefunItemStack BLOCK_CAST_IRIDIUM = ThemeUtils.themedItemStack(
-        "BLOCK_CAST_IRIDIUM",
-        MaterialCompat.safe(XMaterial.IRON_BLOCK),
-        ThemeItemType.CRAFTING,
-        "Iridium Block",
-        "A block of iridium"
-    );
+    public static final SlimefunItemStack BLOCK_CAST_IRIDIUM = new BaseItem("BLOCK_CAST_IRIDIUM", MaterialCompat.safe(XMaterial.IRON_BLOCK));
 
     // endregion
 
@@ -1038,89 +294,29 @@ public final class Materials {
     // region TranscEndance
 
     // region Nuggets
-    public static final SlimefunItemStack NUGGET_CAST_DAXI_STRENGTH = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_DAXI_STRENGTH",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Nugget of Strength Daxi",
-        "A nugget of Daxi emanating strength."
-    );
+    public static final SlimefunItemStack NUGGET_CAST_DAXI_STRENGTH = new BaseItem("NUGGET_CAST_DAXI_STRENGTH", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_DAXI_ABSORPTION = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_DAXI_ABSORPTION",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Nugget of Absorption Daxi",
-        "A nugget of Daxi emanating resolution."
-    );
+    public static final SlimefunItemStack NUGGET_CAST_DAXI_ABSORPTION = new BaseItem("NUGGET_CAST_DAXI_ABSORPTION", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_DAXI_FORTITUDE = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_DAXI_FORTITUDE",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Nugget of Fortitude Daxi",
-        "A nugget of Daxi emanating defiance."
-    );
+    public static final SlimefunItemStack NUGGET_CAST_DAXI_FORTITUDE = new BaseItem("NUGGET_CAST_DAXI_FORTITUDE", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_DAXI_SATURATION = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_DAXI_SATURATION",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Nugget of Saturation Daxi",
-        "A nugget of Daxi emanating warmth."
-    );
+    public static final SlimefunItemStack NUGGET_CAST_DAXI_SATURATION = new BaseItem("NUGGET_CAST_DAXI_SATURATION", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
-    public static final SlimefunItemStack NUGGET_CAST_DAXI_REGENERATION = ThemeUtils.themedItemStack(
-        "NUGGET_CAST_DAXI_REGENERATION",
-        MaterialCompat.safe(XMaterial.IRON_NUGGET),
-        ThemeItemType.CRAFTING,
-        "Nugget of Regeneration Daxi",
-        "A nugget of Daxi emanating kindness."
-    );
+    public static final SlimefunItemStack NUGGET_CAST_DAXI_REGENERATION = new BaseItem("NUGGET_CAST_DAXI_REGENERATION", MaterialCompat.safe(XMaterial.IRON_NUGGET));
 
     // endregion
 
     // region Ingots
 
-    public static final SlimefunItemStack INGOT_CAST_DAXI_STRENGTH = ThemeUtils.themedItemStack(
-        "INGOT_CAST_DAXI_STRENGTH",
-        MaterialCompat.safe(XMaterial.IRON_INGOT),
-        ThemeItemType.CRAFTING,
-        "Ingot of Strength Daxi",
-        "An ingot of Daxi emanating strength."
-    );
+    public static final SlimefunItemStack INGOT_CAST_DAXI_STRENGTH = new BaseItem("INGOT_CAST_DAXI_STRENGTH", MaterialCompat.safe(XMaterial.IRON_INGOT));
 
-    public static final SlimefunItemStack INGOT_CAST_DAXI_ABSORPTION = ThemeUtils.themedItemStack(
-        "INGOT_CAST_DAXI_ABSORPTION",
-        MaterialCompat.safe(XMaterial.IRON_INGOT),
-        ThemeItemType.CRAFTING,
-        "Ingot of Absorption Daxi",
-        "An ingot of Daxi emanating resolution."
-    );
+    public static final SlimefunItemStack INGOT_CAST_DAXI_ABSORPTION = new BaseItem("INGOT_CAST_DAXI_ABSORPTION", MaterialCompat.safe(XMaterial.IRON_INGOT));
 
-    public static final SlimefunItemStack INGOT_CAST_DAXI_FORTITUDE = ThemeUtils.themedItemStack(
-        "INGOT_CAST_DAXI_FORTITUDE",
-        MaterialCompat.safe(XMaterial.IRON_INGOT),
-        ThemeItemType.CRAFTING,
-        "Ingot of Fortitude Daxi",
-        "An ingot of Daxi emanating defiance."
-    );
+    public static final SlimefunItemStack INGOT_CAST_DAXI_FORTITUDE = new BaseItem("INGOT_CAST_DAXI_FORTITUDE", MaterialCompat.safe(XMaterial.IRON_INGOT));
 
-    public static final SlimefunItemStack INGOT_CAST_DAXI_SATURATION = ThemeUtils.themedItemStack(
-        "INGOT_CAST_DAXI_SATURATION",
-        MaterialCompat.safe(XMaterial.IRON_INGOT),
-        ThemeItemType.CRAFTING,
-        "Ingot of Saturation Daxi",
-        "An ingot of Daxi emanating warmth."
-    );
+    public static final SlimefunItemStack INGOT_CAST_DAXI_SATURATION = new BaseItem("INGOT_CAST_DAXI_SATURATION", MaterialCompat.safe(XMaterial.IRON_INGOT));
 
-    public static final SlimefunItemStack INGOT_CAST_DAXI_REGENERATION = ThemeUtils.themedItemStack(
-        "INGOT_CAST_DAXI_REGENERATION",
-        MaterialCompat.safe(XMaterial.IRON_INGOT),
-        ThemeItemType.CRAFTING,
-        "Ingot of Regeneration Daxi",
-        "An ingot of Daxi emanating kindness."
-    );
+    public static final SlimefunItemStack INGOT_CAST_DAXI_REGENERATION = new BaseItem("INGOT_CAST_DAXI_REGENERATION", MaterialCompat.safe(XMaterial.IRON_INGOT));
 
     // endregion
 

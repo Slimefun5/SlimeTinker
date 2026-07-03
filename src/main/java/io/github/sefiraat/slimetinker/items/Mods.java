@@ -4,8 +4,6 @@ import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.itemgroups.ItemGroups;
 import io.github.sefiraat.slimetinker.items.workstations.modificationstation.DummyModificationStation;
 import io.github.sefiraat.slimetinker.utils.MaterialCompat;
-import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
@@ -17,69 +15,18 @@ public final class Mods {
         throw new UnsupportedOperationException("Utility Class");
     }
 
-    public static final SlimefunItemStack MOD_REDSTONE_DUMMY = ThemeUtils.themedItemStack(
-        "MOD_REDSTONE_DUMMY",
-        MaterialCompat.safe(XMaterial.REDSTONE),
-        ThemeItemType.MOD,
-        "Modification: Redstone",
-        ThemeUtils.PASSIVE + "When applied to a tool, the holder",
-        ThemeUtils.PASSIVE + "will be given Haste matching the level",
-        ThemeUtils.PASSIVE + "of the modification."
-    );
+    public static final SlimefunItemStack MOD_REDSTONE_DUMMY = new BaseItem("MOD_REDSTONE_DUMMY", MaterialCompat.safe(XMaterial.REDSTONE));
 
-    public static final SlimefunItemStack MOD_LAPIS_DUMMY = ThemeUtils.themedItemStack(
-        "MOD_LAPIS_DUMMY",
-        MaterialCompat.safe(XMaterial.LAPIS_LAZULI),
-        ThemeItemType.MOD,
-        "Modification: Lapis",
-        ThemeUtils.PASSIVE + "When applied to a tool, the holder",
-        ThemeUtils.PASSIVE + "will drop bonus items from blocks or",
-        ThemeUtils.PASSIVE + "kills. Calculated after fortune/looting.",
-        ThemeUtils.PASSIVE + "10% per level."
-    );
+    public static final SlimefunItemStack MOD_LAPIS_DUMMY = new BaseItem("MOD_LAPIS_DUMMY", MaterialCompat.safe(XMaterial.LAPIS_LAZULI));
 
-    public static final SlimefunItemStack MOD_QUARTZ_DUMMY = ThemeUtils.themedItemStack(
-        "MOD_QUARTZ_DUMMY",
-        MaterialCompat.safe(XMaterial.QUARTZ),
-        ThemeItemType.MOD,
-        "Modification: Quartz",
-        ThemeUtils.PASSIVE + "When applied to a tool, the holder",
-        ThemeUtils.PASSIVE + "will deal bonus damage. Calculated after",
-        ThemeUtils.PASSIVE + "sharpness or other damage enchants.",
-        ThemeUtils.PASSIVE + "20% per level"
-    );
+    public static final SlimefunItemStack MOD_QUARTZ_DUMMY = new BaseItem("MOD_QUARTZ_DUMMY", MaterialCompat.safe(XMaterial.QUARTZ));
 
-    public static final SlimefunItemStack MOD_DIAMOND_DUMMY = ThemeUtils.themedItemStack(
-        "MOD_DIAMOND_DUMMY",
-        MaterialCompat.safe(XMaterial.DIAMOND),
-        ThemeItemType.MOD,
-        "Modification: Diamond",
-        ThemeUtils.PASSIVE + "When applied to a tool, the holder",
-        ThemeUtils.PASSIVE + "has a chance to reflect damage taken",
-        ThemeUtils.PASSIVE + "back on to the attacker. 10% per level"
-    );
+    public static final SlimefunItemStack MOD_DIAMOND_DUMMY = new BaseItem("MOD_DIAMOND_DUMMY", MaterialCompat.safe(XMaterial.DIAMOND));
 
-    public static final SlimefunItemStack MOD_EMERALD_DUMMY = ThemeUtils.themedItemStack(
-        "MOD_EMERALD_DUMMY",
-        MaterialCompat.safe(XMaterial.EMERALD),
-        ThemeItemType.MOD,
-        "Modification: Emerald",
-        ThemeUtils.PASSIVE + "When applied to a tool, the holder",
-        ThemeUtils.PASSIVE + "will gain bonus tool EXP per action",
-        ThemeUtils.PASSIVE + "undertaken. +1 exp for tools and 10%",
-        ThemeUtils.PASSIVE + "for weapons."
-    );
+    public static final SlimefunItemStack MOD_EMERALD_DUMMY = new BaseItem("MOD_EMERALD_DUMMY", MaterialCompat.safe(XMaterial.EMERALD));
 
 
-    public static final SlimefunItemStack MOD_PLATE_DUMMY = ThemeUtils.themedItemStack(
-        "MOD_PLATE_DUMMY",
-        MaterialCompat.safe(XMaterial.OBSIDIAN),
-        ThemeItemType.MOD,
-        "Modification: Reinforced Plate",
-        ThemeUtils.PASSIVE + "A tool with this modification has a",
-        ThemeUtils.PASSIVE + "chance to not take durability damage. 10%",
-        ThemeUtils.PASSIVE + "per level - at Level 10 tools are unbreakable"
-    );
+    public static final SlimefunItemStack MOD_PLATE_DUMMY = new BaseItem("MOD_PLATE_DUMMY", MaterialCompat.safe(XMaterial.OBSIDIAN));
 
 
     public static void set(SlimeTinker p) {

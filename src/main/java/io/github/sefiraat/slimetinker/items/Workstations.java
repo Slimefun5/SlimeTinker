@@ -9,8 +9,6 @@ import io.github.sefiraat.slimetinker.items.workstations.smeltery.DummySmelteryM
 import io.github.sefiraat.slimetinker.items.workstations.swappingstation.SwappingStation;
 import io.github.sefiraat.slimetinker.items.workstations.tooltable.ToolTable;
 import io.github.sefiraat.slimetinker.items.workstations.workbench.Workbench;
-import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
@@ -28,73 +26,25 @@ public final class Workstations {
     }
 
     // Tinkers Smeltery
-    public static final SlimefunItemStack TINKERS_SMELTERY_CORE = ThemeUtils.themedItemStack(
-        "TINKERS_SMELTERY_CORE",
-        MaterialCompat.safe(XMaterial.CHISELED_POLISHED_BLACKSTONE),
-        ThemeItemType.MACHINE,
-        "Tinker's Smeltery",
-        "Melts down metals into liquids.",
-        "Metals can then be alloyed and",
-        "cast out into various forms.",
-        "Requires lava as fuel"
-    );
+    public static final SlimefunItemStack TINKERS_SMELTERY_CORE = new BaseItem("TINKERS_SMELTERY_CORE", MaterialCompat.safe(XMaterial.CHISELED_POLISHED_BLACKSTONE));
 
     // Workbench
-    public static final SlimefunItemStack TINKERS_WORKBENCH = ThemeUtils.themedItemStack(
-        "TINKERS_WORKBENCH",
-        MaterialCompat.safe(XMaterial.FLETCHING_TABLE),
-        ThemeItemType.MACHINE,
-        "Tinker's Workbench",
-        "Used for crafting various items",
-        "and parts for Tinker's tools and",
-        "constructions. Also acts as an",
-        "Enhanced Crafting Table."
-    );
+    public static final SlimefunItemStack TINKERS_WORKBENCH = new BaseItem("TINKERS_WORKBENCH", MaterialCompat.safe(XMaterial.FLETCHING_TABLE));
 
     // Tool Table
-    public static final SlimefunItemStack TINKERS_TABLE = ThemeUtils.themedItemStack(
-        "TINKERS_TABLE",
-        MaterialCompat.safe(XMaterial.SMITHING_TABLE),
-        ThemeItemType.MACHINE,
-        "Tinker's Tool Table",
-        "Combines parts into tools."
-    );
+    public static final SlimefunItemStack TINKERS_TABLE = new BaseItem("TINKERS_TABLE", MaterialCompat.safe(XMaterial.SMITHING_TABLE));
 
     // Armour Table
-    public static final SlimefunItemStack TINKERS_ARMOUR_TABLE = ThemeUtils.themedItemStack(
-        "TINKERS_ARMOUR_TABLE",
-        MaterialCompat.safe(XMaterial.SMITHING_TABLE),
-        ThemeItemType.MACHINE,
-        "Tinker's Armour Table",
-        "Combines parts into armour pieces."
-    );
+    public static final SlimefunItemStack TINKERS_ARMOUR_TABLE = new BaseItem("TINKERS_ARMOUR_TABLE", MaterialCompat.safe(XMaterial.SMITHING_TABLE));
 
     // Repair
-    public static final SlimefunItemStack TINKERS_REPAIR_BENCH = ThemeUtils.themedItemStack(
-        "TINKERS_REPAIR_BENCH",
-        MaterialCompat.safe(XMaterial.CARTOGRAPHY_TABLE),
-        ThemeItemType.MACHINE,
-        "Tinker's Repair Bench",
-        "Repairs tools and weapons."
-    );
+    public static final SlimefunItemStack TINKERS_REPAIR_BENCH = new BaseItem("TINKERS_REPAIR_BENCH", MaterialCompat.safe(XMaterial.CARTOGRAPHY_TABLE));
 
     // Swapping
-    public static final SlimefunItemStack TINKERS_SWAPPING_STATION = ThemeUtils.themedItemStack(
-        "TINKERS_SWAPPING_STATION",
-        MaterialCompat.safe(XMaterial.LOOM),
-        ThemeItemType.MACHINE,
-        "Tinker's Swapping Station",
-        "Swaps parts of tools with new parts."
-    );
+    public static final SlimefunItemStack TINKERS_SWAPPING_STATION = new BaseItem("TINKERS_SWAPPING_STATION", MaterialCompat.safe(XMaterial.LOOM));
 
     // Modification
-    public static final SlimefunItemStack TINKERS_MOD_STATION = ThemeUtils.themedItemStack(
-        "TINKERS_MOD_STATION",
-        MaterialCompat.safe(XMaterial.GRINDSTONE),
-        ThemeItemType.MACHINE,
-        "Tinker's Modification Station",
-        "Applies modifications to tools and weapons."
-    );
+    public static final SlimefunItemStack TINKERS_MOD_STATION = new BaseItem("TINKERS_MOD_STATION", MaterialCompat.safe(XMaterial.GRINDSTONE));
 
     private static final ItemStack[] RECIPE_TINKERS_SMELTERY_MULTI = new ItemStack[]{
         Materials.SEARED_BRICK_BLOCK.item(), Materials.SEARED_BRICK_BLOCK.item(), Materials.SEARED_BRICK_BLOCK.item(),

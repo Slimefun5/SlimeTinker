@@ -10,8 +10,6 @@ import io.github.sefiraat.slimetinker.items.workstations.tooltable.DummyToolTabl
 import io.github.sefiraat.slimetinker.utils.Ids;
 import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
-import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
@@ -40,239 +38,55 @@ public final class Guide {
     public static final int LEVEL_ARMOUR_IRON = 6;
     public static final int LEVEL_ARMOUR_CHAIN = 3;
 
-    public static final SlimefunItemStack TOOL_SHOVEL_DUMMY = ThemeUtils.themedItemStack(
-        "TOOL_SHOVEL_DUMMY",
-        MaterialCompat.safe(XMaterial.STONE_SHOVEL),
-        ThemeItemType.TOOL,
-        "Tinker's Shovel",
-        ThemeUtils.PASSIVE + "A shovel formed of three parts.",
-        ThemeUtils.PASSIVE + "Tinker's tools can level up and be",
-        ThemeUtils.PASSIVE + "given extra properties and modifiers."
-    );
+    public static final SlimefunItemStack TOOL_SHOVEL_DUMMY = new BaseItem("TOOL_SHOVEL_DUMMY", MaterialCompat.safe(XMaterial.STONE_SHOVEL));
 
-    public static final SlimefunItemStack TOOL_PICKAXE_DUMMY = ThemeUtils.themedItemStack(
-        "TOOL_PICKAXE_DUMMY",
-        MaterialCompat.safe(XMaterial.STONE_PICKAXE),
-        ThemeItemType.TOOL,
-        "Tinker's Pickaxe",
-        ThemeUtils.PASSIVE + "A pickaxe formed of three parts.",
-        ThemeUtils.PASSIVE + "Tinker's tools can level up and be",
-        ThemeUtils.PASSIVE + "given extra properties and modifiers."
-    );
+    public static final SlimefunItemStack TOOL_PICKAXE_DUMMY = new BaseItem("TOOL_PICKAXE_DUMMY", MaterialCompat.safe(XMaterial.STONE_PICKAXE));
 
-    public static final SlimefunItemStack TOOL_AXE_DUMMY = ThemeUtils.themedItemStack(
-        "TOOL_AXE_DUMMY",
-        MaterialCompat.safe(XMaterial.STONE_AXE),
-        ThemeItemType.TOOL,
-        "Tinker's Axe",
-        ThemeUtils.PASSIVE + "An axe formed of three parts.",
-        ThemeUtils.PASSIVE + "Tinker's tools can level up and be",
-        ThemeUtils.PASSIVE + "given extra properties and modifiers."
-    );
+    public static final SlimefunItemStack TOOL_AXE_DUMMY = new BaseItem("TOOL_AXE_DUMMY", MaterialCompat.safe(XMaterial.STONE_AXE));
 
-    public static final SlimefunItemStack TOOL_HOE_DUMMY = ThemeUtils.themedItemStack(
-        "TOOL_HOE_DUMMY",
-        MaterialCompat.safe(XMaterial.STONE_HOE),
-        ThemeItemType.TOOL,
-        "Tinker's Hoe",
-        ThemeUtils.PASSIVE + "A hoe formed of three parts.",
-        ThemeUtils.PASSIVE + "Tinker's tools can level up and be",
-        ThemeUtils.PASSIVE + "given extra properties and modifiers."
-    );
+    public static final SlimefunItemStack TOOL_HOE_DUMMY = new BaseItem("TOOL_HOE_DUMMY", MaterialCompat.safe(XMaterial.STONE_HOE));
 
-    public static final SlimefunItemStack TOOL_SWORD_DUMMY = ThemeUtils.themedItemStack(
-        "TOOL_SWORD_DUMMY",
-        MaterialCompat.safe(XMaterial.STONE_SWORD),
-        ThemeItemType.TOOL,
-        "Tinker's Sword",
-        ThemeUtils.PASSIVE + "A sword formed of three parts.",
-        ThemeUtils.PASSIVE + "Tinker's tools can level up and be",
-        ThemeUtils.PASSIVE + "given extra properties and modifiers."
-    );
+    public static final SlimefunItemStack TOOL_SWORD_DUMMY = new BaseItem("TOOL_SWORD_DUMMY", MaterialCompat.safe(XMaterial.STONE_SWORD));
 
-    public static final SlimefunItemStack ARMOUR_HELMET_DUMMY = ThemeUtils.themedItemStack(
-        "ARMOUR_HELMET_DUMMY",
-        MaterialCompat.safe(XMaterial.LEATHER_HELMET),
-        ThemeItemType.ARMOUR,
-        "Tinker's Helmet",
-        ThemeUtils.PASSIVE + "A helmet formed of three parts.",
-        ThemeUtils.PASSIVE + "Tinker's armour can level up and be",
-        ThemeUtils.PASSIVE + "given extra properties and modifiers.",
-        ThemeUtils.PASSIVE + "When broken it's unequipped.",
-        ThemeUtils.WARNING + "If there's no room in your inventory",
-        ThemeUtils.WARNING + "then the item drops on the floor"
-    );
+    public static final SlimefunItemStack ARMOUR_HELMET_DUMMY = new BaseItem("ARMOUR_HELMET_DUMMY", MaterialCompat.safe(XMaterial.LEATHER_HELMET));
 
-    public static final SlimefunItemStack ARMOUR_CHESTPLATE_DUMMY = ThemeUtils.themedItemStack(
-        "ARMOUR_CHESTPLATE_DUMMY",
-        MaterialCompat.safe(XMaterial.LEATHER_CHESTPLATE),
-        ThemeItemType.ARMOUR,
-        "Tinker's Chestplate",
-        ThemeUtils.PASSIVE + "A chestplate formed of three parts.",
-        ThemeUtils.PASSIVE + "Tinker's armour can level up and be",
-        ThemeUtils.PASSIVE + "given extra properties and modifiers.",
-        ThemeUtils.PASSIVE + "When broken it's unequipped.",
-        ThemeUtils.WARNING + "If there's no room in your inventory",
-        ThemeUtils.WARNING + "then the item drops on the floor"
-    );
+    public static final SlimefunItemStack ARMOUR_CHESTPLATE_DUMMY = new BaseItem("ARMOUR_CHESTPLATE_DUMMY", MaterialCompat.safe(XMaterial.LEATHER_CHESTPLATE));
 
-    public static final SlimefunItemStack ARMOUR_LEGGINGS_DUMMY = ThemeUtils.themedItemStack(
-        "ARMOUR_LEGGINGS_DUMMY",
-        MaterialCompat.safe(XMaterial.LEATHER_LEGGINGS),
-        ThemeItemType.ARMOUR,
-        "Tinker's Leggings",
-        ThemeUtils.PASSIVE + "A pair of leggings formed of three parts.",
-        ThemeUtils.PASSIVE + "Tinker's armour can level up and be",
-        ThemeUtils.PASSIVE + "given extra properties and modifiers.",
-        ThemeUtils.PASSIVE + "When broken it's unequipped.",
-        ThemeUtils.WARNING + "If there's no room in your inventory",
-        ThemeUtils.WARNING + "then the item drops on the floor"
-    );
+    public static final SlimefunItemStack ARMOUR_LEGGINGS_DUMMY = new BaseItem("ARMOUR_LEGGINGS_DUMMY", MaterialCompat.safe(XMaterial.LEATHER_LEGGINGS));
 
-    public static final SlimefunItemStack ARMOUR_BOOTS_DUMMY = ThemeUtils.themedItemStack(
-        "ARMOUR_BOOTS_DUMMY",
-        MaterialCompat.safe(XMaterial.LEATHER_BOOTS),
-        ThemeItemType.ARMOUR,
-        "Tinker's Boots",
-        ThemeUtils.PASSIVE + "A pair of boots formed of three parts.",
-        ThemeUtils.PASSIVE + "Tinker's armour can level up and be",
-        ThemeUtils.PASSIVE + "given extra properties and modifiers.",
-        ThemeUtils.PASSIVE + "When broken it's unequipped.",
-        ThemeUtils.WARNING + "If there's no room in your inventory",
-        ThemeUtils.WARNING + "then the item drops on the floor"
-    );
+    public static final SlimefunItemStack ARMOUR_BOOTS_DUMMY = new BaseItem("ARMOUR_BOOTS_DUMMY", MaterialCompat.safe(XMaterial.LEATHER_BOOTS));
 
-    public static final SlimefunItemStack TOOL_AXE = ThemeUtils.themedItemStack(
-        "TOOL_AXE",
-        SkullTextures.PART_AXE_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_AXE = new BaseItem("TOOL_AXE", SkullTextures.PART_AXE_HEAD);
 
-    public static final SlimefunItemStack TOOL_HOE = ThemeUtils.themedItemStack(
-        "TOOL_HOE",
-        SkullTextures.PART_HOE_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_HOE = new BaseItem("TOOL_HOE", SkullTextures.PART_HOE_HEAD);
 
-    public static final SlimefunItemStack TOOL_PICKAXE = ThemeUtils.themedItemStack(
-        "TOOL_PICKAXE",
-        SkullTextures.PART_PICKAXE_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_PICKAXE = new BaseItem("TOOL_PICKAXE", SkullTextures.PART_PICKAXE_HEAD);
 
-    public static final SlimefunItemStack TOOL_SHOVEL = ThemeUtils.themedItemStack(
-        "TOOL_SHOVEL",
-        SkullTextures.PART_SHOVEL_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_SHOVEL = new BaseItem("TOOL_SHOVEL", SkullTextures.PART_SHOVEL_HEAD);
 
-    public static final SlimefunItemStack TOOL_SWORD = ThemeUtils.themedItemStack(
-        "TOOL_SWORD",
-        SkullTextures.PART_SWORD_BLADE,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_SWORD = new BaseItem("TOOL_SWORD", SkullTextures.PART_SWORD_BLADE);
 
-    public static final SlimefunItemStack TOOL_AXE_EXP = ThemeUtils.themedItemStack(
-        "TOOL_AXE_EXP",
-        SkullTextures.PART_AXE_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_AXE_EXP = new BaseItem("TOOL_AXE_EXP", SkullTextures.PART_AXE_HEAD);
 
-    public static final SlimefunItemStack TOOL_HOE_EXP = ThemeUtils.themedItemStack(
-        "TOOL_HOE_EXP",
-        SkullTextures.PART_HOE_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_HOE_EXP = new BaseItem("TOOL_HOE_EXP", SkullTextures.PART_HOE_HEAD);
 
-    public static final SlimefunItemStack TOOL_PICKAXE_EXP = ThemeUtils.themedItemStack(
-        "TOOL_PICKAXE_EXP",
-        SkullTextures.PART_PICKAXE_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_PICKAXE_EXP = new BaseItem("TOOL_PICKAXE_EXP", SkullTextures.PART_PICKAXE_HEAD);
 
-    public static final SlimefunItemStack TOOL_SHOVEL_EXP = ThemeUtils.themedItemStack(
-        "TOOL_SHOVEL_EXP",
-        SkullTextures.PART_SHOVEL_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_SHOVEL_EXP = new BaseItem("TOOL_SHOVEL_EXP", SkullTextures.PART_SHOVEL_HEAD);
 
-    public static final SlimefunItemStack TOOL_SWORD_EXP = ThemeUtils.themedItemStack(
-        "TOOL_SWORD_EXP",
-        SkullTextures.PART_SWORD_BLADE,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack TOOL_SWORD_EXP = new BaseItem("TOOL_SWORD_EXP", SkullTextures.PART_SWORD_BLADE);
 
-    public static final SlimefunItemStack ARMOUR_HELM = ThemeUtils.themedItemStack(
-        "ARMOUR_HELM",
-        SkullTextures.PART_HELM_PLATES,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack ARMOUR_HELM = new BaseItem("ARMOUR_HELM", SkullTextures.PART_HELM_PLATES);
 
-    public static final SlimefunItemStack ARMOUR_CHESTPLATE = ThemeUtils.themedItemStack(
-        "ARMOUR_CHESTPLATE",
-        SkullTextures.PART_CHEST_PLATES,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack ARMOUR_CHESTPLATE = new BaseItem("ARMOUR_CHESTPLATE", SkullTextures.PART_CHEST_PLATES);
 
-    public static final SlimefunItemStack ARMOUR_LEGGINGS = ThemeUtils.themedItemStack(
-        "ARMOUR_LEGGINGS",
-        SkullTextures.PART_LEG_PLATES,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack ARMOUR_LEGGINGS = new BaseItem("ARMOUR_LEGGINGS", SkullTextures.PART_LEG_PLATES);
 
-    public static final SlimefunItemStack ARMOUR_BOOTS = ThemeUtils.themedItemStack(
-        "ARMOUR_BOOTS",
-        SkullTextures.PART_BOOTS_PLATES,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack ARMOUR_BOOTS = new BaseItem("ARMOUR_BOOTS", SkullTextures.PART_BOOTS_PLATES);
 
-    public static final SlimefunItemStack TOOL_INFO = ThemeUtils.themedItemStack(
-        "TOOL_INFO",
-        SkullTextures.INFO,
-        ThemeItemType.INFO,
-        "Tinker's Tools Info",
-        ThemeUtils.PASSIVE + "Tinker's tools start at Stone. As you",
-        ThemeUtils.PASSIVE + "level the tools up, they will promote",
-        ThemeUtils.PASSIVE + "through Gold > Iron > Diamond > Netherite."
-    );
+    public static final SlimefunItemStack TOOL_INFO = new BaseItem("TOOL_INFO", SkullTextures.INFO);
 
-    public static final SlimefunItemStack ARMOUR_INFO = ThemeUtils.themedItemStack(
-        "ARMOUR_INFO",
-        SkullTextures.INFO,
-        ThemeItemType.INFO,
-        "Tinker's Armour Info",
-        ThemeUtils.PASSIVE + "Tinker's armour starts at Leather. As you",
-        ThemeUtils.PASSIVE + "level the pieces up, they will promote",
-        ThemeUtils.PASSIVE + "through Chain > Iron > Diamond > Netherite."
-    );
+    public static final SlimefunItemStack ARMOUR_INFO = new BaseItem("ARMOUR_INFO", SkullTextures.INFO);
 
     public static final ToolTemplate SHOVEL = new ToolTemplate(ItemGroups.DUMMY, TOOL_SHOVEL, DummyToolTable.TYPE, new ItemStack[9]);
     public static final ToolTemplate PICKAXE = new ToolTemplate(ItemGroups.DUMMY, TOOL_PICKAXE, DummyToolTable.TYPE, new ItemStack[9]);
