@@ -187,40 +187,60 @@ public class TinkerMaterialManager {
             if (cm.getFormGem() != null) {
                 ItemStack i = ItemUtils.getItemByID(cm.getFormGem());
                 if (i == null) {
-                    i = new ItemStack(Material.valueOf(cm.getFormGem()));
+                    Material material = Material.getMaterial(cm.getFormGem());
+                    if (material != null) {
+                        i = new ItemStack(material);
+                    }
                 }
-                MAP_CAST_GEM.put(cm, i);
-                meltingRecipes.put(cm.getFormGem(), new MoltenResult(cm, AMOUNT_GEM));
+                if (i != null) {
+                    MAP_CAST_GEM.put(cm, i);
+                    meltingRecipes.put(cm.getFormGem(), new MoltenResult(cm, AMOUNT_GEM));
+                }
             }
 
             // Blocks
             if (cm.getFormBlock() != null) {
                 ItemStack i = ItemUtils.getItemByID(cm.getFormBlock());
                 if (i == null) {
-                    i = new ItemStack(Material.valueOf(cm.getFormBlock()));
+                    Material material = Material.getMaterial(cm.getFormBlock());
+                    if (material != null) {
+                        i = new ItemStack(material);
+                    }
                 }
-                MAP_CAST_BLOCK.put(cm, i);
-                meltingRecipes.put(cm.getFormBlock(), new MoltenResult(cm, AMOUNT_BLOCK));
+                if (i != null) {
+                    MAP_CAST_BLOCK.put(cm, i);
+                    meltingRecipes.put(cm.getFormBlock(), new MoltenResult(cm, AMOUNT_BLOCK));
+                }
             }
 
             // Ingots
             if (cm.getFormIngot() != null) {
                 ItemStack i = ItemUtils.getItemByID(cm.getFormIngot());
                 if (i == null) {
-                    i = new ItemStack(Material.valueOf(cm.getFormIngot()));
+                    Material material = Material.getMaterial(cm.getFormIngot());
+                    if (material != null) {
+                        i = new ItemStack(material);
+                    }
                 }
-                MAP_CAST_INGOT.put(cm, i);
-                meltingRecipes.put(cm.getFormIngot(), new MoltenResult(cm, AMOUNT_INGOT));
+                if (i != null) {
+                    MAP_CAST_INGOT.put(cm, i);
+                    meltingRecipes.put(cm.getFormIngot(), new MoltenResult(cm, AMOUNT_INGOT));
+                }
             }
 
             // Nuggets
             if (cm.getFormNugget() != null) {
                 ItemStack i = ItemUtils.getItemByID(cm.getFormNugget());
                 if (i == null) {
-                    i = new ItemStack(Material.valueOf(cm.getFormNugget()));
+                    Material material = Material.getMaterial(cm.getFormNugget());
+                    if (material != null) {
+                        i = new ItemStack(material);
+                    }
                 }
-                MAP_CAST_NUGGET.put(cm, i);
-                meltingRecipes.put(cm.getFormNugget(), new MoltenResult(cm, AMOUNT_NUGGET));
+                if (i != null) {
+                    MAP_CAST_NUGGET.put(cm, i);
+                    meltingRecipes.put(cm.getFormNugget(), new MoltenResult(cm, AMOUNT_NUGGET));
+                }
             }
 
             // Ores
