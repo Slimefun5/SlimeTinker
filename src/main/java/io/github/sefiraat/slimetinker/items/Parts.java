@@ -24,215 +24,57 @@ public final class Parts {
 
     public static final String DESC_ERROR = "Error";
 
-    public static final SlimefunItemStack PART_SHOVEL_HEAD_DUMMY = ThemeUtils.themedItemStack(
-        "PART_SHOVEL_HEAD_DUMMY",
-        SkullTextures.PART_SHOVEL_HEAD,
-        ThemeItemType.CAST,
-        "Part: Shovel Head",
-        ThemeUtils.PASSIVE + "A cast shovel head."
-    );
+    public static final SlimefunItemStack PART_SHOVEL_HEAD_DUMMY = new BaseItem("PART_SHOVEL_HEAD_DUMMY", SkullTextures.PART_SHOVEL_HEAD);
 
-    public static final SlimefunItemStack PART_PICKAXE_HEAD_DUMMY = ThemeUtils.themedItemStack(
-        "PART_PICKAXE_HEAD_DUMMY",
-        SkullTextures.PART_PICKAXE_HEAD,
-        ThemeItemType.CAST,
-        "Part: Pickaxe Head",
-        ThemeUtils.PASSIVE + "A cast pickaxe head."
-    );
+    public static final SlimefunItemStack PART_PICKAXE_HEAD_DUMMY = new BaseItem("PART_PICKAXE_HEAD_DUMMY", SkullTextures.PART_PICKAXE_HEAD);
 
-    public static final SlimefunItemStack PART_AXE_HEAD_DUMMY = ThemeUtils.themedItemStack(
-        "PART_AXE_HEAD_DUMMY",
-        SkullTextures.PART_AXE_HEAD,
-        ThemeItemType.CAST,
-        "Part: Axe Head",
-        ThemeUtils.PASSIVE + "A cast axe head."
-    );
+    public static final SlimefunItemStack PART_AXE_HEAD_DUMMY = new BaseItem("PART_AXE_HEAD_DUMMY", SkullTextures.PART_AXE_HEAD);
 
-    public static final SlimefunItemStack PART_HOE_HEAD_DUMMY = ThemeUtils.themedItemStack(
-        "PART_HOE_HEAD_DUMMY",
-        SkullTextures.PART_HOE_HEAD,
-        ThemeItemType.CAST,
-        "Part: Hoe Head",
-        ThemeUtils.PASSIVE + "A cast hoe head."
-    );
+    public static final SlimefunItemStack PART_HOE_HEAD_DUMMY = new BaseItem("PART_HOE_HEAD_DUMMY", SkullTextures.PART_HOE_HEAD);
 
-    public static final SlimefunItemStack PART_SWORD_BLADE_DUMMY = ThemeUtils.themedItemStack(
-        "PART_SWORD_BLADE_DUMMY",
-        SkullTextures.PART_SWORD_BLADE,
-        ThemeItemType.CAST,
-        "Part: Sword Blade",
-        ThemeUtils.PASSIVE + "A cast sword blade."
-    );
+    public static final SlimefunItemStack PART_SWORD_BLADE_DUMMY = new BaseItem("PART_SWORD_BLADE_DUMMY", SkullTextures.PART_SWORD_BLADE);
 
-    public static final SlimefunItemStack PART_TOOL_ROD_DUMMY = ThemeUtils.themedItemStack(
-        "PART_TOOL_ROD_DUMMY",
-        SkullTextures.PART_TOOL_ROD,
-        ThemeItemType.CAST,
-        "Part: Tool Rod",
-        ThemeUtils.PASSIVE + "A cast tool rod."
-    );
+    public static final SlimefunItemStack PART_TOOL_ROD_DUMMY = new BaseItem("PART_TOOL_ROD_DUMMY", SkullTextures.PART_TOOL_ROD);
 
-    public static final SlimefunItemStack PART_BINDING_DUMMY = ThemeUtils.themedItemStack(
-        "PART_BINDING_DUMMY",
-        SkullTextures.PART_BINDING,
-        ThemeItemType.CAST,
-        "Part: Binding",
-        ThemeUtils.PASSIVE + "A binging to hold parts together."
-    );
+    public static final SlimefunItemStack PART_BINDING_DUMMY = new BaseItem("PART_BINDING_DUMMY", SkullTextures.PART_BINDING);
 
-    public static final SlimefunItemStack PART_HELM_PLATE_DUMMY = ThemeUtils.themedItemStack(
-        "PART_HELM_PLATE_DUMMY",
-        SkullTextures.PART_HELM_PLATES,
-        ThemeItemType.CAST,
-        "Part: Helmet Plates",
-        ThemeUtils.PASSIVE + "A cast helmet plate set."
-    );
+    public static final SlimefunItemStack PART_HELM_PLATE_DUMMY = new BaseItem("PART_HELM_PLATE_DUMMY", SkullTextures.PART_HELM_PLATES);
 
-    public static final SlimefunItemStack PART_CHEST_PLATE_DUMMY = ThemeUtils.themedItemStack(
-        "PART_CHEST_PLATE_DUMMY",
-        SkullTextures.PART_CHEST_PLATES,
-        ThemeItemType.CAST,
-        "Part: Chest Plates",
-        ThemeUtils.PASSIVE + "A cast chest plate set."
-    );
+    public static final SlimefunItemStack PART_CHEST_PLATE_DUMMY = new BaseItem("PART_CHEST_PLATE_DUMMY", SkullTextures.PART_CHEST_PLATES);
 
-    public static final SlimefunItemStack PART_LEG_PLATE_DUMMY = ThemeUtils.themedItemStack(
-        "PART_LEG_PLATE_DUMMY",
-        SkullTextures.PART_LEG_PLATES,
-        ThemeItemType.CAST,
-        "Part: Leg Plates",
-        ThemeUtils.PASSIVE + "A cast legging plate set."
-    );
+    public static final SlimefunItemStack PART_LEG_PLATE_DUMMY = new BaseItem("PART_LEG_PLATE_DUMMY", SkullTextures.PART_LEG_PLATES);
 
-    public static final SlimefunItemStack PART_BOOT_PLATE_DUMMY = ThemeUtils.themedItemStack(
-        "PART_BOOT_PLATE_DUMMY",
-        SkullTextures.PART_BOOTS_PLATES,
-        ThemeItemType.CAST,
-        "Part: Boot Plates",
-        ThemeUtils.PASSIVE + "A cast legging plate set."
-    );
+    public static final SlimefunItemStack PART_BOOT_PLATE_DUMMY = new BaseItem("PART_BOOT_PLATE_DUMMY", SkullTextures.PART_BOOTS_PLATES);
 
-    public static final SlimefunItemStack PART_MAIL_LINKS_DUMMY = ThemeUtils.themedItemStack(
-        "PART_MAIL_LINKS_DUMMY",
-        SkullTextures.PART_LINKS,
-        ThemeItemType.CAST,
-        "Part: Mail Links",
-        ThemeUtils.PASSIVE + "A flexible mesh of cast metal links"
-    );
+    public static final SlimefunItemStack PART_MAIL_LINKS_DUMMY = new BaseItem("PART_MAIL_LINKS_DUMMY", SkullTextures.PART_LINKS);
 
-    public static final SlimefunItemStack PART_GAMBESON_DUMMY = ThemeUtils.themedItemStack(
-        "PART_GAMBESON_DUMMY",
-        SkullTextures.PART_GAMBESON,
-        ThemeItemType.CAST,
-        "Part: Gambeson",
-        ThemeUtils.PASSIVE + "A fabric under-armour garment"
-    );
+    public static final SlimefunItemStack PART_GAMBESON_DUMMY = new BaseItem("PART_GAMBESON_DUMMY", SkullTextures.PART_GAMBESON);
 
-    public static final SlimefunItemStack PART_REPAIR_KIT_DUMMY = ThemeUtils.themedItemStack(
-        "PART_REPAIR_KIT_DUMMY",
-        MaterialCompat.safe(XMaterial.CHEST_MINECART),
-        ThemeItemType.CAST,
-        "Part: Repair Kit",
-        ThemeUtils.PASSIVE + "Repairs broken items in the Repair Bench."
-    );
+    public static final SlimefunItemStack PART_REPAIR_KIT_DUMMY = new BaseItem("PART_REPAIR_KIT_DUMMY", MaterialCompat.safe(XMaterial.CHEST_MINECART));
 
-    public static final SlimefunItemStack PART_AXE_HEAD = ThemeUtils.themedItemStack(
-        "PART_AXE_HEAD",
-        SkullTextures.PART_AXE_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_AXE_HEAD = new BaseItem("PART_AXE_HEAD", SkullTextures.PART_AXE_HEAD);
 
-    public static final SlimefunItemStack PART_HOE_HEAD = ThemeUtils.themedItemStack(
-        "PART_HOE_HEAD",
-        SkullTextures.PART_HOE_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_HOE_HEAD = new BaseItem("PART_HOE_HEAD", SkullTextures.PART_HOE_HEAD);
 
-    public static final SlimefunItemStack PART_PICKAXE_HEAD = ThemeUtils.themedItemStack(
-        "PART_PICKAXE_HEAD",
-        SkullTextures.PART_PICKAXE_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_PICKAXE_HEAD = new BaseItem("PART_PICKAXE_HEAD", SkullTextures.PART_PICKAXE_HEAD);
 
-    public static final SlimefunItemStack PART_SHOVEL_HEAD = ThemeUtils.themedItemStack(
-        "PART_SHOVEL_HEAD",
-        SkullTextures.PART_SHOVEL_HEAD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_SHOVEL_HEAD = new BaseItem("PART_SHOVEL_HEAD", SkullTextures.PART_SHOVEL_HEAD);
 
-    public static final SlimefunItemStack PART_SWORD_BLADE = ThemeUtils.themedItemStack(
-        "PART_SWORD_BLADE",
-        SkullTextures.PART_SWORD_BLADE,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_SWORD_BLADE = new BaseItem("PART_SWORD_BLADE", SkullTextures.PART_SWORD_BLADE);
 
-    public static final SlimefunItemStack PART_TOOL_ROD = ThemeUtils.themedItemStack(
-        "PART_TOOL_ROD",
-        SkullTextures.PART_TOOL_ROD,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_TOOL_ROD = new BaseItem("PART_TOOL_ROD", SkullTextures.PART_TOOL_ROD);
 
-    public static final SlimefunItemStack PART_REPAIR_KIT = ThemeUtils.themedItemStack(
-        "PART_REPAIR_KIT",
-        MaterialCompat.safe(XMaterial.CHEST_MINECART),
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_REPAIR_KIT = new BaseItem("PART_REPAIR_KIT", MaterialCompat.safe(XMaterial.CHEST_MINECART));
 
-    public static final SlimefunItemStack PART_BINDING_GENERAL_DISPLAY = ThemeUtils.themedItemStack(
-        "PART_BINDING_GENERAL_DISPLAY",
-        MaterialCompat.safe(XMaterial.STRING),
-        ThemeItemType.CRAFTING,
-        "Binding Material",
-        ThemeUtils.PASSIVE + "A material suitable to make binding from.",
-        ThemeUtils.PASSIVE + "This is not JUST string, experiment with",
-        ThemeUtils.PASSIVE + "similar materials."
-    );
+    public static final SlimefunItemStack PART_BINDING_GENERAL_DISPLAY = new BaseItem("PART_BINDING_GENERAL_DISPLAY", MaterialCompat.safe(XMaterial.STRING));
 
-    public static final SlimefunItemStack PART_HELM_PLATES = ThemeUtils.themedItemStack(
-        "PART_HELM_PLATES",
-        SkullTextures.PART_HELM_PLATES,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_HELM_PLATES = new BaseItem("PART_HELM_PLATES", SkullTextures.PART_HELM_PLATES);
 
-    public static final SlimefunItemStack PART_CHEST_PLATES = ThemeUtils.themedItemStack(
-        "PART_CHEST_PLATES",
-        SkullTextures.PART_CHEST_PLATES,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_CHEST_PLATES = new BaseItem("PART_CHEST_PLATES", SkullTextures.PART_CHEST_PLATES);
 
-    public static final SlimefunItemStack PART_LEG_PLATES = ThemeUtils.themedItemStack(
-        "PART_LEG_PLATES",
-        SkullTextures.PART_LEG_PLATES,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_LEG_PLATES = new BaseItem("PART_LEG_PLATES", SkullTextures.PART_LEG_PLATES);
 
-    public static final SlimefunItemStack PART_BOOTS_PLATES = ThemeUtils.themedItemStack(
-        "PART_BOOTS_PLATES",
-        SkullTextures.PART_BOOTS_PLATES,
-        ThemeItemType.PART,
-        DESC_ERROR,
-        ThemeUtils.PASSIVE + DESC_ERROR
-    );
+    public static final SlimefunItemStack PART_BOOTS_PLATES = new BaseItem("PART_BOOTS_PLATES", SkullTextures.PART_BOOTS_PLATES);
 
     public static final SlimefunItemStack PART_MAIL_LINKS = ThemeUtils.themedItemStack(
         "PART_MAIL_LINKS",
@@ -242,15 +84,7 @@ public final class Parts {
         ThemeUtils.PASSIVE + DESC_ERROR
     );
 
-    public static final SlimefunItemStack PART_GAMBESON_GENERAL_DISPLAY = ThemeUtils.themedItemStack(
-        "PART_GAMBESON_GENERAL_DISPLAY",
-        MaterialCompat.safe(XMaterial.STRING),
-        ThemeItemType.CRAFTING,
-        "Gambeson Material",
-        ThemeUtils.PASSIVE + "A material suitable to make a Gambeson.",
-        ThemeUtils.PASSIVE + "This is not JUST string, experiment with",
-        ThemeUtils.PASSIVE + "similar materials."
-    );
+    public static final SlimefunItemStack PART_GAMBESON_GENERAL_DISPLAY = new BaseItem("PART_GAMBESON_GENERAL_DISPLAY", MaterialCompat.safe(XMaterial.STRING));
 
     // Statics for Recipes
     public static final PartTemplate SHOVEL_HEAD = new PartTemplate(ItemGroups.DUMMY, PART_SHOVEL_HEAD, DummySmeltery.TYPE, new ItemStack[9], "Shovel Head");

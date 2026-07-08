@@ -20,6 +20,18 @@ public class BaseItem extends SlimefunItemStack implements NotPlaceable {
         this.id = id;
     }
 
+    /** Resource-driven: name/lore come from languages/en/items.yml. */
+    public BaseItem(String id, Material type) {
+        super(id, type);
+        this.id = id;
+    }
+
+    /** Resource-driven: name/lore come from languages/en/items.yml. */
+    public BaseItem(String id, String texture) {
+        super(id, texture);
+        this.id = id;
+    }
+
     @Nonnull
     @Override
     public String getId() {

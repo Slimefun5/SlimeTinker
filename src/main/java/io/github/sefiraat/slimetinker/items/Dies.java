@@ -4,8 +4,6 @@ import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.itemgroups.ItemGroups;
 import io.github.sefiraat.slimetinker.items.workstations.workbench.Workbench;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
-import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.sefiraat.slimetinker.utils.MaterialCompat;
 import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
@@ -20,101 +18,29 @@ public final class Dies {
 
     public static final String DIE_DESC = "A die to create a cast from";
     public static final SlimefunItemStack DIE_SHOVEL_HEAD =
-        ThemeUtils.themedItemStack(
-            "DIE_SHOVEL_HEAD",
-            SkullTextures.PART_SHOVEL_HEAD,
-            ThemeItemType.CAST,
-            "Die: Stone Shovel Head",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_SHOVEL_HEAD", SkullTextures.PART_SHOVEL_HEAD);
     public static final SlimefunItemStack DIE_PICKAXE_HEAD =
-        ThemeUtils.themedItemStack(
-            "DIE_PICKAXE_HEAD",
-            SkullTextures.PART_PICKAXE_HEAD,
-            ThemeItemType.CAST,
-            "Die: Stone Pickaxe Head",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_PICKAXE_HEAD", SkullTextures.PART_PICKAXE_HEAD);
     public static final SlimefunItemStack DIE_AXE_HEAD =
-        ThemeUtils.themedItemStack(
-            "DIE_AXE_HEAD",
-            SkullTextures.PART_AXE_HEAD,
-            ThemeItemType.CAST,
-            "Die: Stone Axe Head",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_AXE_HEAD", SkullTextures.PART_AXE_HEAD);
     public static final SlimefunItemStack DIE_HOE_HEAD =
-        ThemeUtils.themedItemStack(
-            "DIE_HOE_HEAD",
-            SkullTextures.PART_HOE_HEAD,
-            ThemeItemType.CAST,
-            "Die: Stone Hoe Head",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_HOE_HEAD", SkullTextures.PART_HOE_HEAD);
     public static final SlimefunItemStack DIE_SWORD_BLADE =
-        ThemeUtils.themedItemStack(
-            "DIE_SWORD_BLADE",
-            SkullTextures.PART_SWORD_BLADE,
-            ThemeItemType.CAST,
-            "Die: Stone Sword Head",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_SWORD_BLADE", SkullTextures.PART_SWORD_BLADE);
     public static final SlimefunItemStack DIE_TOOL_ROD =
-        ThemeUtils.themedItemStack(
-            "DIE_TOOL_ROD",
-            SkullTextures.PART_TOOL_ROD,
-            ThemeItemType.CAST,
-            "Die: Tool Rod",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_TOOL_ROD", SkullTextures.PART_TOOL_ROD);
     public static final SlimefunItemStack DIE_HELM_PLATE =
-        ThemeUtils.themedItemStack(
-            "DIE_HELM_PLATE",
-            SkullTextures.PART_HELM_PLATES,
-            ThemeItemType.CAST,
-            "Die: Stone Helmet Plates",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_HELM_PLATE", SkullTextures.PART_HELM_PLATES);
     public static final SlimefunItemStack DIE_CHEST_PLATE =
-        ThemeUtils.themedItemStack(
-            "DIE_CHEST_PLATE",
-            SkullTextures.PART_CHEST_PLATES,
-            ThemeItemType.CAST,
-            "Die: Stone Chest Plates",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_CHEST_PLATE", SkullTextures.PART_CHEST_PLATES);
     public static final SlimefunItemStack DIE_LEG_PLATE =
-        ThemeUtils.themedItemStack(
-            "DIE_LEG_PLATE",
-            SkullTextures.PART_LEG_PLATES,
-            ThemeItemType.CAST,
-            "Die: Stone Leg Plates",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_LEG_PLATE", SkullTextures.PART_LEG_PLATES);
     public static final SlimefunItemStack DIE_BOOT_PLATE =
-        ThemeUtils.themedItemStack(
-            "DIE_BOOT_PLATE",
-            SkullTextures.PART_BOOTS_PLATES,
-            ThemeItemType.CAST,
-            "Die: Stone Boot Plates",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_BOOT_PLATE", SkullTextures.PART_BOOTS_PLATES);
     public static final SlimefunItemStack DIE_MAIL_LINK =
-        ThemeUtils.themedItemStack(
-            "DIE_MAIL_LINK",
-            SkullTextures.PART_LINKS,
-            ThemeItemType.CAST,
-            "Die: Mail Links",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_MAIL_LINK", SkullTextures.PART_LINKS);
     public static final SlimefunItemStack DIE_REPAIR_KIT =
-        ThemeUtils.themedItemStack(
-            "DIE_REPAIR_KIT",
-            MaterialCompat.safe(XMaterial.MINECART),
-            ThemeItemType.CAST,
-            "Die: Repair Kit",
-            ThemeUtils.PASSIVE + DIE_DESC
-        );
+        new BaseItem("DIE_REPAIR_KIT", MaterialCompat.safe(XMaterial.MINECART));
     protected static final ItemStack[] RECIPE_DIE_SHOVEL_HEAD = new ItemStack[]{
         null, new ItemStack(MaterialCompat.safe(XMaterial.COBBLESTONE)), null,
         null, null, null,

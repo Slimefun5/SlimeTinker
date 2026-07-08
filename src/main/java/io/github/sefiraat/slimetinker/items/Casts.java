@@ -4,8 +4,6 @@ import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.itemgroups.ItemGroups;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterialManager;
 import io.github.sefiraat.slimetinker.items.workstations.smeltery.DummySmeltery;
-import io.github.sefiraat.slimetinker.utils.ThemeUtils;
-import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.sefiraat.slimetinker.utils.MaterialCompat;
@@ -25,181 +23,37 @@ public final class Casts {
     public static final String OUTPUT_DESC = "Output : ";
     public static final String UNIT_DESC = " Units";
     public static final SlimefunItemStack CAST_NUGGET =
-        ThemeUtils.themedItemStack(
-            "CAST_NUGGET",
-            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Metal Nugget",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_NUGGET + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Nugget"
-        );
+        new BaseItem("CAST_NUGGET", MaterialCompat.safe(XMaterial.YELLOW_CARPET));
     public static final SlimefunItemStack CAST_BLOCK =
-        ThemeUtils.themedItemStack(
-            "CAST_BLOCK",
-            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Metal Block",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_BLOCK + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Block"
-        );
+        new BaseItem("CAST_BLOCK", MaterialCompat.safe(XMaterial.YELLOW_CARPET));
     public static final SlimefunItemStack CAST_INGOT =
-        ThemeUtils.themedItemStack(
-            "CAST_INGOT",
-            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Metal Ingot",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_INGOT + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Ingot"
-        );
+        new BaseItem("CAST_INGOT", MaterialCompat.safe(XMaterial.YELLOW_CARPET));
     public static final SlimefunItemStack CAST_GEM =
-        ThemeUtils.themedItemStack(
-            "CAST_GEM",
-            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Gem",
-            ThemeUtils.PASSIVE + "A cast for non-metallic liquids.",
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_GEM + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Gem"
-        );
+        new BaseItem("CAST_GEM", MaterialCompat.safe(XMaterial.YELLOW_CARPET));
     public static final SlimefunItemStack CAST_SHOVELHEAD =
-        ThemeUtils.themedItemStack(
-            "CAST_SHOVELHEAD",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Shovel Head",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_SHOVELHEAD + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Shovel Head"
-        );
+        new BaseItem("CAST_SHOVELHEAD", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_PICKAXEHEAD =
-        ThemeUtils.themedItemStack(
-            "CAST_PICKAXEHEAD",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Pickaxe Head",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_PICKAXEHEAD + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Pickaxe Head"
-        );
+        new BaseItem("CAST_PICKAXEHEAD", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_AXEHEAD =
-        ThemeUtils.themedItemStack(
-            "CAST_AXE_HEAD",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Axe Head",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_AXEHEAD + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Axe Head"
-        );
+        new BaseItem("CAST_AXE_HEAD", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_HOEHEAD =
-        ThemeUtils.themedItemStack(
-            "CAST_HOEHEAD",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Hoe Head",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_HOEHEAD + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Hoe Head"
-        );
+        new BaseItem("CAST_HOEHEAD", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_SWORDBLADE =
-        ThemeUtils.themedItemStack(
-            "CAST_SWORDBLADE",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Sword Blade",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_SWORDBLADE + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Sword Blade"
-        );
+        new BaseItem("CAST_SWORDBLADE", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_TOOLROD =
-        ThemeUtils.themedItemStack(
-            "CAST_TOOLROD",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Tool Rod",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_TOOLROD + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Tool Rod"
-        );
+        new BaseItem("CAST_TOOLROD", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_HELM_PLATE =
-        ThemeUtils.themedItemStack(
-            "CAST_HELM_PLATE",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Helmet Plates",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_ARM_HELM + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Set of Helmet Plates"
-        );
+        new BaseItem("CAST_HELM_PLATE", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_CHEST_PLATE =
-        ThemeUtils.themedItemStack(
-            "CAST_CHEST_PLATE",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Chestplate Plates",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_ARM_CHEST + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Set of Chestplate plates"
-        );
+        new BaseItem("CAST_CHEST_PLATE", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_LEG_PLATE =
-        ThemeUtils.themedItemStack(
-            "CAST_LEG_PLATE",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Legging Plates",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_ARM_LEG + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Set of Legging Plates"
-        );
+        new BaseItem("CAST_LEG_PLATE", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_BOOT_PLATE =
-        ThemeUtils.themedItemStack(
-            "CAST_BOOT_PLATE",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Boot Plates",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_ARM_BOOT + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Set of Boot Plates"
-        );
+        new BaseItem("CAST_BOOT_PLATE", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_MAIL_LINK =
-        ThemeUtils.themedItemStack(
-            "CAST_MAIL_LINK",
-            MaterialCompat.safe(XMaterial.ORANGE_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Mail Links",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_ARM_LINKS + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 set of Mail Links"
-        );
+        new BaseItem("CAST_MAIL_LINK", MaterialCompat.safe(XMaterial.ORANGE_CARPET));
     public static final SlimefunItemStack CAST_REPAIRKIT =
-        ThemeUtils.themedItemStack(
-            "CAST_REPAIRKIT",
-            MaterialCompat.safe(XMaterial.YELLOW_CARPET),
-            ThemeItemType.CAST,
-            "Cast: Repair Kit",
-            ThemeUtils.PASSIVE + CAST_DESC,
-            "",
-            ThemeUtils.CLICK_INFO + INPUT_DESC + ChatColor.WHITE + TinkerMaterialManager.AMOUNT_KIT + UNIT_DESC,
-            ThemeUtils.CLICK_INFO + OUTPUT_DESC + ChatColor.WHITE + "1 Repair Kit"
-        );
+        new BaseItem("CAST_REPAIRKIT", MaterialCompat.safe(XMaterial.YELLOW_CARPET));
     protected static final ItemStack[] RECIPE_CAST_NUGGET = new ItemStack[]{
         new ItemStack(MaterialCompat.safe(XMaterial.GOLD_INGOT), 2), new ItemStack(MaterialCompat.safe(XMaterial.IRON_NUGGET)), null,
         null, null, null,
