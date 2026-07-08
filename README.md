@@ -89,7 +89,7 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.1.3.2.4")
+    "githubCompileOnly"("Slimefun5:SlimeTinker:v1.0.0")
 }
 ```
 
@@ -102,7 +102,7 @@ dependencies {
 You can find Slimefun's community on Discord! Click the badge below to join the server for suggestions/questions or other discussions about this plugin.
 
 <p align="center">
-  <a href="https://discord.gg/fsD4Bkh">
+  <a href="https://discord.gg/CbBYZBEWdR">
     <img src="https://discordapp.com/api/guilds/738626600539160576/widget.png?style=banner2" alt="Discord"/>
   </a>
 </p>
