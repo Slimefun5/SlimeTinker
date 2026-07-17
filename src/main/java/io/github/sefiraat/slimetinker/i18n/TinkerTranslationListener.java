@@ -7,9 +7,7 @@ import javax.annotation.Nullable;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
-import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
-import org.bukkit.event.entity.EntityPickupItemEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
@@ -64,6 +62,15 @@ public class TinkerTranslationListener implements Listener {
     public TinkerTranslationListener(@Nonnull SlimeTinker plugin) {
         plugin.getServer().getPluginManager().registerEvents(this, plugin);
 
+        // EntityPickupItemEvent (MC 1.12+) lives in its own guarded listener so this listener still
+        // registers its PlayerLanguageChangeEvent handler on 1.8-1.11.
+        try {
+            Class.forName("org.bukkit.event.entity.EntityPickupItemEvent");
+            plugin.getServer().getPluginManager().registerEvents(new TinkerPickupListener(this), plugin);
+        } catch (ClassNotFoundException ignored) {
+            // 1.8-1.11: no EntityPickupItemEvent, the periodic sweep still re-skins held items.
+        }
+
         // Periodic sweep so items added by any means end up in the holder's language. Only rewrites a
         // stack when its name is not already correct, so stable inventories incur no changes.
         plugin.getServer().getScheduler().runTaskTimer(plugin, () -> {
@@ -71,18 +78,6 @@ public class TinkerTranslationListener implements Listener {
                 sweep(p);
             }
         }, 120L, 80L);
-    }
-
-    @EventHandler(ignoreCancelled = true, priority = EventPriority.MONITOR)
-    public void onPickup(@Nonnull EntityPickupItemEvent e) {
-        if (e.getEntity() instanceof Player) {
-            Player p = (Player) e.getEntity();
-            ItemStack stack = e.getItem().getItemStack();
-
-            if (apply(p, stack)) {
-                e.getItem().setItemStack(stack);
-            }
-        }
     }
 
     @EventHandler
