@@ -27,6 +27,15 @@ public class ListenerManager {
         manager.registerEvents(dropItemListener, plugin);
         manager.registerEvents(generalEntityEventListener, plugin);
         manager.registerEvents(playerInteractListener, plugin);
+
+        // BlockDropItemEvent (MC 1.13+) is handled in its own class so BlockBreakListener - which
+        // carries the core drop-tracking BlockBreakEvent handler - still registers on 1.8-1.12.
+        try {
+            Class.forName("org.bukkit.event.block.BlockDropItemEvent");
+            manager.registerEvents(new BlockDropListener(), plugin);
+        } catch (ClassNotFoundException ignored) {
+            // 1.8-1.12: no BlockDropItemEvent, drops fall through vanilla instead of being re-issued.
+        }
     }
 
     public DurabilityListener getDurabilityListener() {
