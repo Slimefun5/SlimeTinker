@@ -25,7 +25,6 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockBreakEvent;
-import org.bukkit.event.block.BlockDropItemEvent;
 import io.github.sefiraat.slimetinker.compat.Pdc;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
@@ -93,43 +92,6 @@ public class BlockBreakListener implements Listener {
 
             EVENT_FRIEND_MAP.put(block.getLocation(), friend);
 
-        }
-    }
-
-    @SuppressWarnings("unused")
-    @EventHandler(priority = EventPriority.NORMAL, ignoreCancelled = true)
-    public void onDrops(BlockDropItemEvent event) {
-        Block block = event.getBlock();
-        Location location = block.getLocation();
-        EventFriend friend = EVENT_FRIEND_MAP.remove(location);
-
-        if (friend != null) {
-            event.getItems().clear();
-            Player player = friend.getPlayer();
-            for (ItemStack i : friend.getDrops()) { // Drop items in original collection not flagged for removal
-                if (friend.getRemoveDrops().contains(i) || i.getType() == MaterialCompat.safe(XMaterial.AIR)) {
-                    continue;
-                }
-                if (friend.isBlocksIntoInv()) {
-                    Map<Integer, ItemStack> remainingItems = player.getInventory().addItem(i);
-                    for (ItemStack i2 : remainingItems.values()) {
-                        block.getWorld().dropItem(block.getLocation().clone().add(0.5, 0.5, 0.5), i2);
-                    }
-                    continue;
-                }
-                block.getWorld().dropItem(block.getLocation().clone().add(0.5, 0.5, 0.5), i);
-            }
-
-            for (ItemStack i : friend.getAddDrops()) { // Then the additional items collection - no removals
-                if (friend.isBlocksIntoInv()) {
-                    Map<Integer, ItemStack> remainingItems = player.getInventory().addItem(i);
-                    for (ItemStack i2 : remainingItems.values()) {
-                        block.getWorld().dropItem(block.getLocation().clone().add(0.5, 0.5, 0.5), i2);
-                    }
-                    continue;
-                }
-                block.getWorld().dropItem(block.getLocation().clone().add(0.5, 0.5, 0.5), i);
-            }
         }
     }
 
