@@ -72,6 +72,9 @@ tasks {
                 relocate("co.aikar.commands", "io.github.sefiraat.slimetinker.acf")
         relocate("co.aikar.locales", "io.github.sefiraat.slimetinker.locales")
         exclude("META-INF/**")
+        // Core is provided at runtime (depend: Slimefun); never bundle it.
+        exclude("io/github/thebusybiscuit/slimefun5/**")
+        exclude("me/mrCookieSlime/**")
     }
     build {
         dependsOn(shadowJar)
