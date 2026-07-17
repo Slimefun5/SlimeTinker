@@ -26,5 +26,6 @@ tasks {
         relocate("co.aikar.commands", "io.github.sefiraat.slimetinker.acf")
         relocate("co.aikar.locales", "io.github.sefiraat.slimetinker.locales")
         exclude("io/github/thebusybiscuit/slimefun5/**")
+        exclude("me/mrCookieSlime/**")
     }
 }
