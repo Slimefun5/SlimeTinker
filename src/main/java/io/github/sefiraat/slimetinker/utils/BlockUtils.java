@@ -6,7 +6,7 @@ import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
-import org.bukkit.block.TileState;
+import org.bukkit.block.BlockState;
 import org.bukkit.entity.Player;
 
 import java.util.HashMap;
@@ -21,10 +21,28 @@ public final class BlockUtils {
 
     private static final Map<Location, Boolean> STATE_MAP = new HashMap<>();
 
+    // org.bukkit.block.TileState is 1.14+; referencing it directly in a method body
+    // (even behind an instanceof) forces the JVM verifier to load the class eagerly
+    // on class-load, throwing NoClassDefFoundError on 1.8. Resolve it reflectively
+    // so the check simply never matches on versions where the class doesn't exist.
+    private static final Class<?> TILE_STATE_CLASS = resolveTileStateClass();
+
+    private static Class<?> resolveTileStateClass() {
+        try {
+            return Class.forName("org.bukkit.block.TileState");
+        } catch (ClassNotFoundException e) {
+            return null;
+        }
+    }
+
+    private static boolean isTileState(BlockState blockState) {
+        return TILE_STATE_CLASS != null && TILE_STATE_CLASS.isInstance(blockState);
+    }
+
     public static boolean isValidBreakEvent(Block block, Player player) {
         return !isPlaced(block)
             && !BlockStorage.hasBlockInfo(block)
-            && !(block.getState() instanceof TileState)
+            && !isTileState(block.getState())
             && Slimefun.getProtectionManager().hasPermission(player, block, Interaction.BREAK_BLOCK);
     }
 
