@@ -83,6 +83,9 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
         Mods.set(this);
         Workstations.set(this);
 
+        // Classify all registered items into shared guide categories.
+        ItemGroups.categorise();
+
         traitManager = new TraitManager();
         tinkerMaterialManager = new TinkerMaterialManager();
         runnableManager = new RunnableManager();
