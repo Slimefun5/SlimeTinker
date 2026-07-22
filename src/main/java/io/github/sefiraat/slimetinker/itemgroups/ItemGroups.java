@@ -4,6 +4,8 @@ import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.groups.NestedItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.groups.SubItemGroup;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
@@ -17,8 +19,6 @@ public final class ItemGroups {
         throw new UnsupportedOperationException("Utility Class");
     }
 
-    public static final MainFlexGroup MAIN = new MainFlexGroup(Keys.ITEM_GROUP_MAIN, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.CAT_MAIN), ThemeUtils.MAIN + "SlimeTinker"
-    ).item());
     public static final DummyItemGroup WORKSTATIONS = new DummyItemGroup(Keys.ITEM_GROUP_WORKSTATIONS, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.CAT_MAIN), ThemeUtils.MAIN + "Workstations"
     ).item());
     public static final DummyItemGroup MATERIALS = new DummyItemGroup(Keys.ITEM_GROUP_MATERIALS, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.CAT_MATERIALS), ThemeUtils.MAIN + "Materials"
@@ -42,10 +42,9 @@ public final class ItemGroups {
     public static final DummyItemGroup PART_DICT = new DummyItemGroup(Keys.ITEM_GROUP_PART_DICT, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.PART_PICKAXE_HEAD), ThemeUtils.MAIN + "Part Dictionary"
     ).item());
     public static final DummyItemGroup DUMMY = new DummyItemGroup(Keys.ITEM_GROUP_DUMMY, new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.BARRIER), ThemeUtils.MAIN + "SlimeTinker Dummy"
-    ).item());
+    ).item(), true);
 
     public static void set(SlimeTinker p) {
-        MAIN.setTheme("tools");
         WORKSTATIONS.setTheme("machines");
         MATERIALS.setTheme("resources");
         MOLTEN_METALS.setTheme("resources");
@@ -58,7 +57,6 @@ public final class ItemGroups {
         MODIFICATIONS.setTheme("tools");
         PART_DICT.setTheme("resources");
 
-        MAIN.register(p);
         WORKSTATIONS.register(p);
         MATERIALS.register(p);
         MOLTEN_METALS.register(p);
@@ -70,6 +68,28 @@ public final class ItemGroups {
         TRAITS.register(p);
         MODIFICATIONS.register(p);
         PART_DICT.register(p);
+    }
+
+    // Assign each group's registered items to a shared guide category. Head-textured and
+    // dynamically-built items are missed by the core heuristic, so we classify by group.
+    public static void categorise() {
+        setGuideType(WORKSTATIONS, "machines");
+        setGuideType(MATERIALS, "resources");
+        setGuideType(MOLTEN_METALS, "resources");
+        setGuideType(ALLOYS, "resources");
+        setGuideType(CASTS, "resources");
+        setGuideType(PARTS, "resources");
+        setGuideType(TOOLS, "tools");
+        setGuideType(ARMOUR, "armor");
+        setGuideType(TRAITS, "magic");
+        setGuideType(MODIFICATIONS, "magic");
+        setGuideType(PART_DICT, "resources");
+    }
+
+    private static void setGuideType(ItemGroup group, String categoryId) {
+        for (SlimefunItem item : group.getItems()) {
+            item.setGuideType(categoryId);
+        }
     }
 
 }
