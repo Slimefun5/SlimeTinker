@@ -83,11 +83,14 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
         Mods.set(this);
         Workstations.set(this);
 
-        // Classify all registered items into shared guide categories.
-        ItemGroups.categorise();
-
         traitManager = new TraitManager();
         tinkerMaterialManager = new TinkerMaterialManager();
+
+        // Classify all registered items into shared guide categories. Runs after TinkerMaterialManager so
+        // the material-derived groups (molten metals, alloys, traits, part dictionary) are populated first -
+        // categorise() iterates each group's items, so an empty group at this point types nothing.
+        ItemGroups.categorise();
+
         runnableManager = new RunnableManager();
         dispatchManager = new DispatchManager();
         memoryManager = new MemoryManager();
