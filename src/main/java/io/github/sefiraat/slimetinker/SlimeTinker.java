@@ -16,8 +16,8 @@ import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiText;
 import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiTopic;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 
+import io.github.sefiraat.slimetinker.i18n.TinkerItemResolver;
 import io.github.sefiraat.slimetinker.i18n.TinkerLang;
-import io.github.sefiraat.slimetinker.i18n.TinkerTranslationListener;
 import io.github.sefiraat.slimetinker.itemgroups.ItemGroups;
 import io.github.sefiraat.slimetinker.items.Casts;
 import io.github.sefiraat.slimetinker.items.Dies;
@@ -100,7 +100,9 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
 
         Slimefun.getItemTranslationService().registerTranslations(this);
         TinkerLang.load(this);
-        new TinkerTranslationListener(this);
+        // Assembled tools/armour/parts are named+lored at runtime from their PDC, so they route through
+        // core's per-viewer packet layer via an item-aware resolver (replaces the old re-skin listener).
+        Slimefun.getItemTranslationService().registerResolver(new TinkerItemResolver());
         registerWiki();
     }
 
