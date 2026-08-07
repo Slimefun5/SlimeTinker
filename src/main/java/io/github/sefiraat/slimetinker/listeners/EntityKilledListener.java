@@ -85,15 +85,12 @@ public class EntityKilledListener implements Listener {
 
         friend.setDamagedEntity(dyingEntity);
 
-        // Properties
         checkTool(friend);
         checkArmour(friend);
 
         if (friend.isActionTaken()) {
-            // Mods
             modChecks(event, heldItem);
 
-            // Settle
             settlePotionEffects(friend);
             int rawExp = event.getDroppedExp();
             event.setDroppedExp((int) Math.ceil(event.getDroppedExp() * friend.getPlayerExpMod()));
@@ -114,7 +111,7 @@ public class EntityKilledListener implements Listener {
     private void modCheckLapis(EntityDeathEvent event, ItemStack heldItem) {
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
 
-        if (!modLevels.containsKey(MaterialCompat.safe(XMaterial.LAPIS_LAZULI).toString())) { // The tools must have the lapis mod
+        if (!modLevels.containsKey(MaterialCompat.safe(XMaterial.LAPIS_LAZULI).toString())) {
             return;
         }
 

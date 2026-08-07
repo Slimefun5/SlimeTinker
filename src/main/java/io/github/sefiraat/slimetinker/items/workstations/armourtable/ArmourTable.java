@@ -67,17 +67,16 @@ public class ArmourTable extends MenuBlock {
             ItemStack gambeson = menu.getItemInSlot(INPUT_GAMBESON);
             ItemStack links = menu.getItemInSlot(INPUT_MAIL_LINK);
 
-            if (plates == null || gambeson == null || links == null) { // Missing one or more items
+            if (plates == null || gambeson == null || links == null) {
                 clearPreview();
                 return;
             }
 
-            if (!validate(plates, gambeson, links)) { // One or more items are not the correct part
+            if (!validate(plates, gambeson, links)) {
                 clearPreview();
                 return;
             }
 
-            // All items are valid, lets preview the item!
             menu.replaceExistingItem(PREVIEW_SLOT, getTool(plates, gambeson, links));
             return;
 
@@ -127,10 +126,10 @@ public class ArmourTable extends MenuBlock {
 
     @SuppressWarnings("BooleanMethodIsAlwaysInverted")
     protected boolean validateClass(ItemStack itemStack, String classType) {
-        if (itemStack == null || !itemStack.hasItemMeta()) { // No item
+        if (itemStack == null || !itemStack.hasItemMeta()) {
             return false;
         }
-        if (!Pdc.hasString(itemStack.getItemMeta(), Keys.PART_CLASS.toString())) { // Not a part
+        if (!Pdc.hasString(itemStack.getItemMeta(), Keys.PART_CLASS.toString())) {
             return false;
         }
         String type = Pdc.getString(itemStack.getItemMeta(), Keys.PART_CLASS.toString());
@@ -140,7 +139,7 @@ public class ArmourTable extends MenuBlock {
 
     @SuppressWarnings("BooleanMethodIsAlwaysInverted")
     protected boolean validateGambeson(ItemStack itemStack) {
-        if (itemStack == null || !itemStack.hasItemMeta()) { // No item
+        if (itemStack == null || !itemStack.hasItemMeta()) {
             return false;
         }
         return StackUtils.getIdOrType(itemStack).startsWith("PART_GAMBESON_");
@@ -151,11 +150,11 @@ public class ArmourTable extends MenuBlock {
         ItemStack gambeson = blockMenu.getItemInSlot(INPUT_GAMBESON);
         ItemStack links = blockMenu.getItemInSlot(INPUT_MAIL_LINK);
 
-        if (plates == null || gambeson == null || links == null) { // Missing one or more items
+        if (plates == null || gambeson == null || links == null) {
             player.sendMessage(ThemeUtils.ERROR + "Not all items present");
             return;
         }
-        if (!validate(plates, gambeson, links)) { // One or more items are not the correct part
+        if (!validate(plates, gambeson, links)) {
             player.sendMessage(ThemeUtils.WARNING + "One or more items are either not Tinker's parts or in the wrong slot?");
             return;
         }

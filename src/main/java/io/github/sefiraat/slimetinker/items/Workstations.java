@@ -25,25 +25,18 @@ public final class Workstations {
         throw new UnsupportedOperationException("Utility Class");
     }
 
-    // Tinkers Smeltery
     public static final SlimefunItemStack TINKERS_SMELTERY_CORE = new BaseItem("TINKERS_SMELTERY_CORE", MaterialCompat.safe(XMaterial.CHISELED_POLISHED_BLACKSTONE));
 
-    // Workbench
     public static final SlimefunItemStack TINKERS_WORKBENCH = new BaseItem("TINKERS_WORKBENCH", MaterialCompat.safe(XMaterial.FLETCHING_TABLE));
 
-    // Tool Table
     public static final SlimefunItemStack TINKERS_TABLE = new BaseItem("TINKERS_TABLE", MaterialCompat.safe(XMaterial.SMITHING_TABLE));
 
-    // Armour Table
     public static final SlimefunItemStack TINKERS_ARMOUR_TABLE = new BaseItem("TINKERS_ARMOUR_TABLE", MaterialCompat.safe(XMaterial.SMITHING_TABLE));
 
-    // Repair
     public static final SlimefunItemStack TINKERS_REPAIR_BENCH = new BaseItem("TINKERS_REPAIR_BENCH", MaterialCompat.safe(XMaterial.CARTOGRAPHY_TABLE));
 
-    // Swapping
     public static final SlimefunItemStack TINKERS_SWAPPING_STATION = new BaseItem("TINKERS_SWAPPING_STATION", MaterialCompat.safe(XMaterial.LOOM));
 
-    // Modification
     public static final SlimefunItemStack TINKERS_MOD_STATION = new BaseItem("TINKERS_MOD_STATION", MaterialCompat.safe(XMaterial.GRINDSTONE));
 
     private static final ItemStack[] RECIPE_TINKERS_SMELTERY_MULTI = new ItemStack[]{

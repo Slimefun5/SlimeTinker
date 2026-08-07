@@ -39,25 +39,21 @@ public class RepairBench extends MenuBlock {
         ItemStack item = blockMenu.getItemInSlot(INPUT_TOOL);
         ItemStack kit = blockMenu.getItemInSlot(INPUT_KIT);
 
-        // No item dummy!
         if (item == null) {
             player.sendMessage(ThemeUtils.WARNING + "Input a item into the first slot.");
             return;
         }
 
-        // Still no item, nice try
         if (!ItemUtils.isTool(item) && !ItemUtils.isArmour(item)) {
             player.sendMessage(ThemeUtils.WARNING + "The item in the first slot isn't a Tinker's item.");
             return;
         }
 
-        // No kit!
         if (kit == null || !RepairkitTemplate.isRepairKit(kit)) {
             player.sendMessage(ThemeUtils.WARNING + "Input a repair kit into the second slot.");
             return;
         }
 
-        // All items present, are they correct?
         String toolMaterial = ItemUtils.getToolMaterial(item);
         String armourMaterial = ItemUtils.getArmourMaterial(item);
         String partMaterial = ItemUtils.getPartMaterial(kit);

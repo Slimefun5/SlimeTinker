@@ -43,15 +43,12 @@ public class EntityDamagedListener implements Listener {
         friend.setDamagedEntity(event.getEntity());
         friend.setInitialDamage(event.getDamage());
 
-        // Properties
         checkTool(friend);
         checkArmour(friend);
 
         if (friend.isActionTaken()) {
-            // Mods
             modChecks(heldItem, friend);
 
-            // Settle
             if (friend.isCancelEvent()) {
                 event.setCancelled(true);
                 return;
@@ -84,7 +81,7 @@ public class EntityDamagedListener implements Listener {
     private void modChecks(ItemStack heldItem, EventFriend friend) {
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
 
-        if (modLevels.containsKey(MaterialCompat.safe(XMaterial.QUARTZ).toString())) { // QUARTZ
+        if (modLevels.containsKey(MaterialCompat.safe(XMaterial.QUARTZ).toString())) {
             modCheckQuartz(modLevels.get(MaterialCompat.safe(XMaterial.QUARTZ).toString()), friend);
         }
     }

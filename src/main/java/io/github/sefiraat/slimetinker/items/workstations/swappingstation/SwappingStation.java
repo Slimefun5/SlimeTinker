@@ -41,7 +41,6 @@ public class SwappingStation extends MenuBlock {
         ItemStack item = blockMenu.getItemInSlot(INPUT_ITEM);
         ItemStack part = blockMenu.getItemInSlot(INPUT_PART);
 
-        // No tool dummy!
         if (item == null) {
             player.sendMessage(ThemeUtils.WARNING + "Input a tool into the first slot.");
             return;
@@ -170,7 +169,7 @@ public class SwappingStation extends MenuBlock {
             sID = sID + "_EXP";
             Pdc.setString(im, sfIDKey, sID);
         } else if (!isExplosivePart(partMaterial, partClass) && ItemUtils.isToolExplosive(newTool)) {
-            // Part is NOT explosive but the tool IS - we need to make it explosive!
+            // Part is NOT explosive but the tool IS - strip the explosive variant.
             sID = sID.replace("_EXP", "");
             Pdc.setString(im, sfIDKey, sID);
         }

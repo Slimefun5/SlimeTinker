@@ -33,11 +33,9 @@ public class PlayerInteractListener implements Listener {
         EventFriend friend = new EventFriend(player, TraitEventType.INTERACT);
         friend.setBlock(event.getClickedBlock());
         friend.setAction(event.getAction());
-        // Properties
         checkTool(friend);
         checkArmour(friend);
 
-        // Settle
         if (friend.isActionTaken()) {
             settlePotionEffects(friend);
         }

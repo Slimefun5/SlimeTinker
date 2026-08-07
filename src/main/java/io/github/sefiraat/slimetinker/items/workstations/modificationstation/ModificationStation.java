@@ -39,7 +39,6 @@ public class ModificationStation extends MenuBlock {
         ItemStack item = blockMenu.getItemInSlot(INPUT_TOOL);
         ItemStack modItem = blockMenu.getItemInSlot(INPUT_MOD);
 
-        // No item dummy!
         if (item == null) {
             player.sendMessage(ThemeUtils.WARNING + "Input a tool/piece of armour into the first slot.");
             return;
@@ -50,7 +49,6 @@ public class ModificationStation extends MenuBlock {
             return;
         }
 
-        // Still no tool, nice try
         if (ItemUtils.isTool(item)) {
             modTool(blockMenu, player, item, modItem);
         } else if (ItemUtils.isArmour(item)) {
@@ -61,7 +59,6 @@ public class ModificationStation extends MenuBlock {
     }
 
     private void modTool(BlockMenu blockMenu, Player player, ItemStack item, ItemStack modItem) {
-        // No modifier!
         if (modItem == null || !Modifications.getModificationListTool().contains(StackUtils.getIdOrType(modItem))) {
             player.sendMessage(ThemeUtils.WARNING + "Input a valid modifier into the second slot.");
             return;
@@ -120,7 +117,6 @@ public class ModificationStation extends MenuBlock {
     }
 
     private void modArmour(BlockMenu blockMenu, Player player, ItemStack item, ItemStack modItem) {
-        // No modifier!
         if (modItem == null || !Modifications.getModificationListArmour().contains(StackUtils.getIdOrType(modItem))) {
             player.sendMessage(ThemeUtils.WARNING + "Input a valid modifier into the second slot.");
             return;

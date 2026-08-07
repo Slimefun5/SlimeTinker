@@ -55,16 +55,15 @@ public class ToolTable extends TickingMenuBlock {
             ItemStack head = blockMenu.getItemInSlot(INPUT_HEAD);
             ItemStack binding = blockMenu.getItemInSlot(INPUT_BINDING);
             ItemStack rod = blockMenu.getItemInSlot(INPUT_ROD);
-            if (head == null || binding == null || rod == null) { // Missing one or more items
+            if (head == null || binding == null || rod == null) {
                 clearPreview(blockMenu);
                 return;
             }
-            if (!validateClass(head, Ids.HEAD) || !validateBinder(binding) || !validateClass(rod, Ids.ROD)) { // One or more items are not the correct part
+            if (!validateClass(head, Ids.HEAD) || !validateBinder(binding) || !validateClass(rod, Ids.ROD)) {
                 clearPreview(blockMenu);
                 return;
             }
 
-            // All items are valid, lets preview the item!
             blockMenu.replaceExistingItem(PREVIEW_SLOT, getTool(head, binding, rod));
         }
     }
@@ -142,10 +141,10 @@ public class ToolTable extends TickingMenuBlock {
 
     @SuppressWarnings("BooleanMethodIsAlwaysInverted")
     protected boolean validateClass(ItemStack itemStack, String classType) {
-        if (itemStack == null || !itemStack.hasItemMeta()) { // No item
+        if (itemStack == null || !itemStack.hasItemMeta()) {
             return false;
         }
-        if (!Pdc.hasString(itemStack.getItemMeta(), Keys.PART_CLASS.toString())) { // Not a part
+        if (!Pdc.hasString(itemStack.getItemMeta(), Keys.PART_CLASS.toString())) {
             return false;
         }
         String type = Pdc.getString(itemStack.getItemMeta(), Keys.PART_CLASS.toString());
@@ -155,7 +154,7 @@ public class ToolTable extends TickingMenuBlock {
 
     @SuppressWarnings("BooleanMethodIsAlwaysInverted")
     protected boolean validateBinder(ItemStack itemStack) {
-        if (itemStack == null || !itemStack.hasItemMeta()) { // No item
+        if (itemStack == null || !itemStack.hasItemMeta()) {
             return false;
         }
         String name = ItemUtils.getItemName(itemStack);
@@ -168,11 +167,11 @@ public class ToolTable extends TickingMenuBlock {
         ItemStack binding = blockMenu.getItemInSlot(INPUT_BINDING);
         ItemStack rod = blockMenu.getItemInSlot(INPUT_ROD);
 
-        if (head == null || binding == null || rod == null) { // Missing one or more items
+        if (head == null || binding == null || rod == null) {
             player.sendMessage(ThemeUtils.ERROR + "Not all items present");
             return;
         }
-        if (!validateClass(head, Ids.HEAD) || !validateBinder(binding) || !validateClass(rod, Ids.ROD)) { // One or more items are not the correct part
+        if (!validateClass(head, Ids.HEAD) || !validateBinder(binding) || !validateClass(rod, Ids.ROD)) {
             player.sendMessage(ThemeUtils.WARNING + "One or more items are either not Tinker's parts or in the wrong slot?");
             return;
         }

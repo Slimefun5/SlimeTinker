@@ -63,11 +63,10 @@ public final class TinkersSmelteryCache extends AbstractCache {
 
     public void input() {
         ItemStack input = blockMenu.getItemInSlot(TinkersSmeltery.INPUT_SLOT);
-        if (input == null) { // Null, no item - moving on!
+        if (input == null) {
             return;
         }
 
-        // Inputting Lava into the tank
         if (input.getType() == MaterialCompat.safe(XMaterial.LAVA_BUCKET)) {
             if (levelLava <= (LAVA_MAX - LAVA_PER_BUCKET) && blockMenu.fits(new ItemStack(MaterialCompat.safe(XMaterial.BUCKET)), TinkersSmeltery.OUTPUT_SLOT)) {
                 input.setAmount(input.getAmount() - 1);
@@ -235,7 +234,6 @@ public final class TinkersSmelteryCache extends AbstractCache {
 
         ItemStack inputItem = blockMenu.getItemInSlot(TinkersSmeltery.CAST_SLOT);
 
-        // Cast item is null or not a cast
         if (inputItem == null || !SlimeTinker.getInstance().getCmManager().castingRecipes.containsKey(StackUtils.getIdOrType(inputItem))) {
             player.sendMessage(ThemeUtils.WARNING + "Please input a valid cast before trying to pour metals.");
             return;
@@ -243,7 +241,6 @@ public final class TinkersSmelteryCache extends AbstractCache {
 
         Optional<String> first = tankContent.keySet().stream().findFirst();
 
-        // No metals in the tank - cant pour
         if (!first.isPresent()) {
             player.sendMessage(ThemeUtils.WARNING + "There isn't any metal to pour.");
             return;
@@ -253,7 +250,6 @@ public final class TinkersSmelteryCache extends AbstractCache {
         TinkerMaterial tinkerMaterial = TinkerMaterialManager.getById(metalID);
         CastResult result = SlimeTinker.getInstance().getCmManager().castingRecipes.get(StackUtils.getIdOrType(inputItem));
 
-        // Cast valid, but this cast and metal combination doesn't work
         if (!result.getOutputs().containsKey(tinkerMaterial)) {
             player.sendMessage(ThemeUtils.WARNING + "The selected metal cannot be shaped into the selected cast.");
             return;
@@ -262,19 +258,16 @@ public final class TinkersSmelteryCache extends AbstractCache {
         ItemStack outputItem = result.getOutputs().get(tinkerMaterial).clone();
         int metalAmount = result.getAmount();
 
-        // Does not have enough metal to cats this specific item
         if (tankContent.get(metalID) < metalAmount) {
             player.sendMessage(ThemeUtils.WARNING + "You do not have enough metal to fill this cast");
             return;
         }
 
-        // Lastly, can we fit the output?
         if (!blockMenu.fits(outputItem, TinkersSmeltery.OUTPUT_SLOT)) {
             player.sendMessage(ThemeUtils.WARNING + "Please clear your casting table first");
             return;
         }
 
-        // Finally, let's actually pour
         removeMetal(metalID, result.getAmount());
         blockMenu.pushItem(outputItem, TinkersSmeltery.OUTPUT_SLOT);
         if (result.isInputBurns()) {
