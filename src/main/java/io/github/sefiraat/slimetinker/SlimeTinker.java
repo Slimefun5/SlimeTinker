@@ -18,6 +18,7 @@ import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 
 import io.github.sefiraat.slimetinker.i18n.TinkerItemResolver;
 import io.github.sefiraat.slimetinker.i18n.TinkerLang;
+import io.github.sefiraat.slimetinker.itemgroups.GuideCategoryListener;
 import io.github.sefiraat.slimetinker.itemgroups.ItemGroups;
 import io.github.sefiraat.slimetinker.items.Casts;
 import io.github.sefiraat.slimetinker.items.Dies;
@@ -86,8 +87,7 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
         traitManager = new TraitManager();
         tinkerMaterialManager = new TinkerMaterialManager();
 
-        // Must follow TinkerMaterialManager: categorise() types each group's items, so empty groups classify nothing.
-        ItemGroups.categorise();
+        getServer().getPluginManager().registerEvents(new GuideCategoryListener(), this);
 
         runnableManager = new RunnableManager();
         dispatchManager = new DispatchManager();
