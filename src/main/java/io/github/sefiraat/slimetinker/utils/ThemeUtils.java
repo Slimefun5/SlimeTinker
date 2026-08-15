@@ -9,6 +9,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 
 import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
+import java.util.ArrayList;
 import java.util.List;
 
 @SuppressWarnings("SpellCheckingInspection")
@@ -67,6 +68,17 @@ public final class ThemeUtils {
     public static final String LORE_PROP = ITEM_TYPEDESC + "Material Trait";
     public static final String LORE_MULTIBLOCK = ITEM_TYPEDESC + "Mutliblock";
 
+    /**
+     * @implNote Slimefun core no longer bakes a placeholder lore line onto fresh item templates (name/lore
+     *           are resolved per-viewer at render time), so a brand-new {@link ItemMeta} has no lore
+     *           component at all and {@link ItemMeta#getLore()} returns null instead of an empty list.
+     */
+    @Nonnull
+    private static List<String> mutableLore(@Nonnull ItemMeta meta) {
+        List<String> lore = meta.getLore();
+        return lore != null ? lore : new ArrayList<>();
+    }
+
     @Nonnull
     @ParametersAreNonnullByDefault
     public static SlimefunItemStack themedItemStack(String id,
@@ -82,7 +94,7 @@ public final class ThemeUtils {
             ""
         );
         ItemMeta im = itemStack.getItemMeta();
-        List<String> lore = im.getLore();
+        List<String> lore = mutableLore(im);
         for (String s : loreLines) {
             lore.add(ThemeUtils.PASSIVE + s);
         }
@@ -108,7 +120,7 @@ public final class ThemeUtils {
             ""
         );
         ItemMeta im = itemStack.getItemMeta();
-        List<String> lore = im.getLore();
+        List<String> lore = mutableLore(im);
         for (String s : loreLines) {
             lore.add(ThemeUtils.PASSIVE + s);
         }
@@ -134,7 +146,7 @@ public final class ThemeUtils {
             ""
         );
         ItemMeta im = itemStack.getItemMeta();
-        List<String> lore = im.getLore();
+        List<String> lore = mutableLore(im);
         for (String s : loreLines) {
             lore.add(ThemeUtils.PASSIVE + s);
         }
@@ -160,7 +172,7 @@ public final class ThemeUtils {
             ""
         );
         ItemMeta im = itemStack.getItemMeta();
-        List<String> lore = im.getLore();
+        List<String> lore = mutableLore(im);
         for (String s : loreLines) {
             lore.add(ThemeUtils.PASSIVE + s);
         }
