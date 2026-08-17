@@ -40,14 +40,11 @@ public class PlayerDamagedListener implements Listener {
         friend.setCause(event.getCause());
         friend.setInitialDamage(event.getDamage());
 
-        // Properties
         checkTool(friend);
         checkArmour(friend);
 
-        // Mods
         modChecks(event, player.getInventory().getItemInHand());
 
-        // Settle
         settlePotionEffects(friend);
         event.setDamage(friend.getDamageOverride() == null ? event.getDamage() * friend.getDamageMod() : friend.getDamageOverride());
         if (friend.getDamageMod() == 0 || friend.isCancelEvent()) {
@@ -70,15 +67,12 @@ public class PlayerDamagedListener implements Listener {
         friend.setCause(event.getCause());
         friend.setInitialDamage(event.getDamage());
 
-        // Properties
         checkTool(friend);
         checkArmour(friend);
 
         if (friend.isActionTaken()) {
-            // Mods
             modChecks(event, player.getInventory().getItemInHand());
 
-            // Settle
             settlePotionEffects(friend);
             event.setDamage(friend.getDamageOverride() == null ? event.getDamage() * friend.getDamageMod() : friend.getDamageOverride());
             if (friend.getDamageMod() == 0 || friend.isCancelEvent()) {
@@ -87,10 +81,10 @@ public class PlayerDamagedListener implements Listener {
         }
     }
 
-    private void modChecks(EntityDamageEvent event, ItemStack heldItem) { // Entity Damaging player
+    private void modChecks(EntityDamageEvent event, ItemStack heldItem) {
         Map<String, Integer> modLevels = Modifications.getAllModLevels(heldItem);
 
-        if (event instanceof EntityDamageByEntityEvent && modLevels.containsKey(MaterialCompat.safe(XMaterial.DIAMOND).toString())) { // DIAMOND
+        if (event instanceof EntityDamageByEntityEvent && modLevels.containsKey(MaterialCompat.safe(XMaterial.DIAMOND).toString())) {
             modCheckDiamond((EntityDamageByEntityEvent) event, modLevels.get(MaterialCompat.safe(XMaterial.DIAMOND).toString()));
         }
 

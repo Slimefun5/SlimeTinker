@@ -73,12 +73,10 @@ public final class InteractionEvents {
             NamespacedKey keyLoc = Keys.TRAITS_HYPERCUBE_LOCATION;
 
             if (p.isSneaking()) {
-                // Setting location
                 Pdc.setString(im, keyLoc.toString(), GeneralUtils.serializeLocation(p.getLocation()));
                 p.sendMessage(ThemeUtils.SUCCESS + "Location set!");
                 i.setItemMeta(im);
             } else {
-                // Actioning location
                 if (ItemUtils.onCooldown(i, cooldownName)) {
                     p.sendMessage(ThemeUtils.WARNING + "Recall is on cooldown!");
                     return;

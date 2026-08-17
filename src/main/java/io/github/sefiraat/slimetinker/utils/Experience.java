@@ -36,22 +36,19 @@ public final class Experience {
             return;
         }
 
-        // Add the EXP given
         int currentExp = Pdc.getInt(im, Keys.ST_EXP_CURRENT.toString(), 0);
         double expRequired = Pdc.getDouble(im, Keys.ST_EXP_REQUIRED.toString(), 0);
         int level = Pdc.getInt(im, Keys.ST_LEVEL.toString(), 0);
         int modSlots = Pdc.getInt(im, Keys.ST_MOD_SLOTS.toString(), 0);
         int newExp = 0;
 
-        // Emerald mod
         Map<String, Integer> modLevels = Modifications.getAllModLevels(itemStack);
 
-        if (modLevels.containsKey(MaterialCompat.safe(XMaterial.EMERALD).toString())) { // EMERALD
+        if (modLevels.containsKey(MaterialCompat.safe(XMaterial.EMERALD).toString())) {
             int eLevel = modLevels.get(MaterialCompat.safe(XMaterial.EMERALD).toString());
             if (eLevel > 0) amount = tool ? amount + eLevel : (int) Math.ceil(amount * (1 + eLevel * 0.1));
         }
 
-        // Check if it's due to level up
         if ((currentExp + amount) >= expRequired) {
 
             level++;

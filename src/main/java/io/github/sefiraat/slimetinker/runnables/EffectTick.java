@@ -32,14 +32,11 @@ public class EffectTick extends BukkitRunnable {
             Map<PotionEffectType, Integer> potionEffects = new HashMap<>();
             EventFriend friend = new EventFriend(player, TraitEventType.TICK);
 
-            // Properties
             checkTool(friend);
             checkArmour(friend);
 
-            // Mods
             checkModifications(heldItem, potionEffects);
 
-            // Settle if not cancelled
             if (!friend.isCancelEvent()) {
                 settlePotionEffects(friend);
             }

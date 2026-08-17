@@ -31,7 +31,6 @@ public class Modifications {
 
     static {
 
-        // MOD MAPS
         MOD_MAP_REDSTONE_TOOL.put(1, 128);
         MOD_MAP_REDSTONE_TOOL.put(2, 256);
         MOD_MAP_REDSTONE_TOOL.put(3, 384);
@@ -213,7 +212,7 @@ public class Modifications {
             for (String m : MODIFICATION_LIST_TOOL) {
                 int level = getModLevel(MODIFICATION_DEFINITIONS_TOOL.get(m), itemStack);
                 Integer progress = getModificationMapTool(itemStack).get(m);
-                if (level > 0 || (progress != null && progress > 0)) { // Has level or progress towards level
+                if (level > 0 || (progress != null && progress > 0)) {
                     map.put(m, level);
                 }
             }
@@ -221,7 +220,7 @@ public class Modifications {
             for (String m : MODIFICATION_LIST_ARMOUR) {
                 int level = getModLevel(MODIFICATION_DEFINITIONS_ARMOUR.get(m), itemStack);
                 Integer progress = getModificationMapArmour(itemStack).get(m);
-                if (level > 0 || (progress != null && progress > 0)) { // Has level or progress towards level
+                if (level > 0 || (progress != null && progress > 0)) {
                     map.put(m, level);
                 }
             }

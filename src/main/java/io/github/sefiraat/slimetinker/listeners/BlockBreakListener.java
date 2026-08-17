@@ -63,7 +63,6 @@ public class BlockBreakListener implements Listener {
         friend.setAddDrops(new ArrayList<>()); // Additional drops or substitutions for items from the main collection
         friend.setRemoveDrops(new ArrayList<>()); // Items to remove from the main collection if moved/reformed into the additional
 
-        // Properties
         EventChannels.checkTool(friend);
         EventChannels.checkArmour(friend);
 
@@ -74,14 +73,12 @@ public class BlockBreakListener implements Listener {
                 return;
             }
 
-            // Mods
             modChecks(heldItem, block, friend.getAddDrops());
 
-            // Settle
             EventChannels.settlePotionEffects(friend);
 
             if (ItemUtils.isTool(heldItem)) {
-                if (shouldGrantExp(heldItem, event.getBlock())) { // Should grant exp (checks tool / material validity and the crop state)
+                if (shouldGrantExp(heldItem, event.getBlock())) {
                     Experience.addExp(heldItem, (int) Math.ceil(1 * friend.getToolExpMod()), event.getPlayer(), true);
                 }
                 if (event.getExpToDrop() > 0 && friend.isMetalCheck()) {
@@ -103,7 +100,6 @@ public class BlockBreakListener implements Listener {
         String toolType = Pdc.getString(im, Keys.TOOL_INFO_TOOL_TYPE.toString());
         assert toolType != null;
 
-        // Hoe Stuff (Ageable and fully grown only)
         if (BlockDataCompat.isAgeable(block)) {
             if (BlockDataCompat.isFullyGrownAgeable(block)) {
                 return toolType.equals(Ids.HOE);
@@ -111,12 +107,10 @@ public class BlockBreakListener implements Listener {
             return false;
         }
 
-        // Block isn't in the block map, so no Exp
         if (!BlockMap.getMaterialMap().containsKey(block.getType())) {
             return false;
         }
 
-        // Return toolType matches the stored one from the map
         return BlockMap.getMaterialMap().get(block.getType()).equals(toolType);
 
     }

@@ -41,11 +41,7 @@ public final class TinkerLang {
                 continue;
             }
 
-            // Trait names are used verbatim as keys and may contain '.' (e.g. "Brains, Not Brawn.").
-            // Bukkit's YamlConfiguration treats '.' as a path separator, which corrupts/blows up such
-            // keys, so parse with a separator that cannot appear in any name.
-            YamlConfiguration config = new YamlConfiguration();
-            config.options().pathSeparator('\u001F');
+            YamlConfiguration config = newTraitKeySafeYaml();
 
             try {
                 config.load(new InputStreamReader(stream, StandardCharsets.UTF_8));
@@ -74,6 +70,19 @@ public final class TinkerLang {
                 }
             }
         }
+    }
+
+    /**
+     * A {@link YamlConfiguration} whose path separator cannot appear in any trait key.
+     *
+     * @implNote Trait names are used verbatim as keys and may contain '.' (e.g. "Brains, Not Brawn.").
+     *           Bukkit's default '.' path separator would corrupt or blow up such keys, so we swap it
+     *           for a control character that cannot occur in a name.
+     */
+    private static YamlConfiguration newTraitKeySafeYaml() {
+        YamlConfiguration config = new YamlConfiguration();
+        config.options().pathSeparator('\u001F');
+        return config;
     }
 
     /**

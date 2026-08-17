@@ -60,10 +60,8 @@ public class DurabilityListener implements Listener {
             return;
         }
 
-        // Mods
         modChecks(damagedItem, event);
 
-        // Settle
         settlePotionEffects(friend);
         if (friend.isCancelEvent()) {
             event.setCancelled(true);
@@ -71,7 +69,7 @@ public class DurabilityListener implements Listener {
 
         ItemMeta im = event.getItem().getItemMeta();
         Damageable damageable = (Damageable) im;
-        event.setDamage((int) Math.ceil(event.getDamage() * friend.getDurabilityMod())); // Modify the damage taken
+        event.setDamage((int) Math.ceil(event.getDamage() * friend.getDurabilityMod()));
 
         if ((damageable.getDamage() + event.getDamage()) >= event.getItem().getType().getMaxDurability()) { // This will break the tool, lets stop that!
             damageable.setDamage(event.getItem().getType().getMaxDurability() - 1);
@@ -87,7 +85,7 @@ public class DurabilityListener implements Listener {
     @EventHandler
     public void onItemBreak(PlayerItemBreakEvent event) { // Covering my bases here for anything else that can break a tool, may not be required?
         ItemStack damagedItem = event.getBrokenItem();
-        if (!ItemUtils.isTool(damagedItem)) { // Not a tool, moving on!
+        if (!ItemUtils.isTool(damagedItem)) {
             return;
         }
 
@@ -103,7 +101,7 @@ public class DurabilityListener implements Listener {
     private void modChecks(ItemStack damagedItem, PlayerItemDamageEvent event) {
         Map<String, Integer> modLevels = Modifications.getAllModLevels(damagedItem);
 
-        if (modLevels.containsKey(StackUtils.getIdOrType(Materials.MOD_PLATE.item()))) { // PLATE
+        if (modLevels.containsKey(StackUtils.getIdOrType(Materials.MOD_PLATE.item()))) {
             modCheckPlate(damagedItem, modLevels.get(StackUtils.getIdOrType(Materials.MOD_PLATE.item())), event);
         }
     }

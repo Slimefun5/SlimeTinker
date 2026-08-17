@@ -6,6 +6,7 @@ import io.github.sefiraat.slimetinker.items.workstations.armourtable.ArmourTable
 import io.github.sefiraat.slimetinker.items.workstations.modificationstation.ModificationStation;
 import io.github.sefiraat.slimetinker.items.workstations.repairbench.RepairBench;
 import io.github.sefiraat.slimetinker.items.workstations.smeltery.DummySmelteryMulti;
+import io.github.sefiraat.slimetinker.items.workstations.smeltery.TinkersSmelteryMulti;
 import io.github.sefiraat.slimetinker.items.workstations.swappingstation.SwappingStation;
 import io.github.sefiraat.slimetinker.items.workstations.tooltable.ToolTable;
 import io.github.sefiraat.slimetinker.items.workstations.workbench.Workbench;
@@ -13,7 +14,6 @@ import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.sefiraat.slimetinker.utils.MaterialCompat;
-import io.github.thebusybiscuit.slimefun5.implementation.items.blocks.UnplaceableBlock;
 import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 
@@ -25,25 +25,18 @@ public final class Workstations {
         throw new UnsupportedOperationException("Utility Class");
     }
 
-    // Tinkers Smeltery
     public static final SlimefunItemStack TINKERS_SMELTERY_CORE = new BaseItem("TINKERS_SMELTERY_CORE", MaterialCompat.safe(XMaterial.CHISELED_POLISHED_BLACKSTONE));
 
-    // Workbench
     public static final SlimefunItemStack TINKERS_WORKBENCH = new BaseItem("TINKERS_WORKBENCH", MaterialCompat.safe(XMaterial.FLETCHING_TABLE));
 
-    // Tool Table
     public static final SlimefunItemStack TINKERS_TABLE = new BaseItem("TINKERS_TABLE", MaterialCompat.safe(XMaterial.SMITHING_TABLE));
 
-    // Armour Table
     public static final SlimefunItemStack TINKERS_ARMOUR_TABLE = new BaseItem("TINKERS_ARMOUR_TABLE", MaterialCompat.safe(XMaterial.SMITHING_TABLE));
 
-    // Repair
     public static final SlimefunItemStack TINKERS_REPAIR_BENCH = new BaseItem("TINKERS_REPAIR_BENCH", MaterialCompat.safe(XMaterial.CARTOGRAPHY_TABLE));
 
-    // Swapping
     public static final SlimefunItemStack TINKERS_SWAPPING_STATION = new BaseItem("TINKERS_SWAPPING_STATION", MaterialCompat.safe(XMaterial.LOOM));
 
-    // Modification
     public static final SlimefunItemStack TINKERS_MOD_STATION = new BaseItem("TINKERS_MOD_STATION", MaterialCompat.safe(XMaterial.GRINDSTONE));
 
     private static final ItemStack[] RECIPE_TINKERS_SMELTERY_MULTI = new ItemStack[]{
@@ -94,7 +87,7 @@ public final class Workstations {
         p.setWorkbench(new Workbench(ItemGroups.WORKSTATIONS, TINKERS_WORKBENCH, RecipeType.ENHANCED_CRAFTING_TABLE, RECIPE_TINKERS_WORKBENCH));
         p.getWorkbench().register(p);
 
-        new UnplaceableBlock(ItemGroups.WORKSTATIONS, TINKERS_SMELTERY_CORE, DummySmelteryMulti.TYPE, RECIPE_TINKERS_SMELTERY_MULTI).register(p);
+        new TinkersSmelteryMulti(ItemGroups.WORKSTATIONS, TINKERS_SMELTERY_CORE, DummySmelteryMulti.TYPE, RECIPE_TINKERS_SMELTERY_MULTI).register(p);
         new ToolTable(ItemGroups.WORKSTATIONS, TINKERS_TABLE, Workbench.TYPE, RECIPE_TINKERS_TABLE).register(p);
         new ArmourTable(ItemGroups.WORKSTATIONS, TINKERS_ARMOUR_TABLE, Workbench.TYPE, RECIPE_TINKERS_ARMOUR_TABLE).register(p);
         new RepairBench(ItemGroups.WORKSTATIONS, TINKERS_REPAIR_BENCH, Workbench.TYPE, RECIPE_TINKERS_REPAIR_BENCH).register(p);

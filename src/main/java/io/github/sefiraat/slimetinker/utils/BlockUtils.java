@@ -21,10 +21,14 @@ public final class BlockUtils {
 
     private static final Map<Location, Boolean> STATE_MAP = new HashMap<>();
 
-    // org.bukkit.block.TileState is 1.14+; referencing it directly in a method body
-    // (even behind an instanceof) forces the JVM verifier to load the class eagerly
-    // on class-load, throwing NoClassDefFoundError on 1.8. Resolve it reflectively
-    // so the check simply never matches on versions where the class doesn't exist.
+    /**
+     * {@code org.bukkit.block.TileState}, or {@code null} on versions predating it (pre-1.14).
+     *
+     * @implNote Resolved reflectively rather than referenced directly: naming the class in a method
+     *           body (even behind an {@code instanceof}) makes the verifier load it eagerly at
+     *           class-load, throwing {@link NoClassDefFoundError} on 1.8. Reflection lets the check
+     *           simply never match where the class is absent.
+     */
     private static final Class<?> TILE_STATE_CLASS = resolveTileStateClass();
 
     private static Class<?> resolveTileStateClass() {
