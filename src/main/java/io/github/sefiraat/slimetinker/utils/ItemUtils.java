@@ -181,6 +181,27 @@ public final class ItemUtils {
         itemStack.setItemMeta(im);
     }
 
+    /**
+     * Builds a part's lore in the given language from its persistent data.
+     *
+     * @implNote Parts used to carry this baked in from {@code PartTemplate#getStack}, so it could never be
+     *           per-viewer and a part taken from the guide (which has no baked lore) showed none at all.
+     */
+    @Nonnull
+    public static List<String> buildPartLore(@Nonnull ItemMeta im, @Nullable String language) {
+        List<String> lore = new ArrayList<>();
+
+        lore.add("");
+        lore.add(ThemeUtils.PASSIVE + loreText("part_desc_1", "A tool part. Useless on it's own but can", language));
+        lore.add(ThemeUtils.PASSIVE + loreText("part_desc_2", "be made into something greater at the", language));
+        lore.add(ThemeUtils.PASSIVE + loreText("part_desc_3", "Tinker's table.", language));
+        lore.add("");
+        lore.add(ThemeUtils.CLICK_INFO + loreText("part_material", "Material : ", language)
+            + formatMaterialName(Pdc.getString(im, Keys.PART_MATERIAL.toString()), language));
+
+        return lore;
+    }
+
     /** Builds the full tool lore in the given language (labels, traits and modifier names translated). */
     @Nonnull
     public static List<String> buildToolLore(@Nonnull ItemMeta im, @Nonnull ItemStack itemStack, @Nullable String language) {

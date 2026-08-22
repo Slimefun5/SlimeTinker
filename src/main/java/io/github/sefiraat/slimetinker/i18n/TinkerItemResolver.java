@@ -1,6 +1,5 @@
 package io.github.sefiraat.slimetinker.i18n;
 
-import java.util.Collections;
 import java.util.List;
 
 import javax.annotation.Nonnull;
@@ -93,8 +92,7 @@ public final class TinkerItemResolver implements ItemTextResolver {
             } else if (armour) {
                 lore = ItemUtils.buildArmourLore(meta, item, languageId);
             } else {
-                // Parts keep their static lore (mirrors the old listener); reuse whatever the stack carries.
-                lore = meta.getLore() != null ? meta.getLore() : Collections.<String>emptyList();
+                lore = ItemUtils.buildPartLore(meta, languageId);
             }
 
             return RenderedDisplay.of(name, lore);

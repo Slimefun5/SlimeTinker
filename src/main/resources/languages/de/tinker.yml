@@ -128,6 +128,10 @@ part-types:
   LINKS: Kettenglieder
   REPAIR: Reparaturset
 lore:
+  part_desc_1: 'Ein Werkzeugteil. Allein nutzlos, kann an'
+  part_desc_2: 'der Werkbank des Tüftlers aber zu etwas'
+  part_desc_3: 'Größerem verarbeitet werden.'
+  part_material: 'Material: '
   head_abbrev: 'K: '
   binder_abbrev: 'B: '
   rod_abbrev: 'S: '

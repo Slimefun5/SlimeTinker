@@ -40,11 +40,15 @@ public class PartTemplate extends UnplaceableBlock {
         return list;
     }
 
+    /**
+     * @implNote Writes only the part's identity. The display name and lore used to be baked in here, which
+     *           both broke the fork's id-only rule and gave a part two competing names - the baked one and
+     *           the per-viewer one {@code TinkerItemResolver} composes from this same persistent data.
+     *           Rendering is now the resolver's job alone.
+     */
     public ItemStack getStack(String material, String partClass, @Nullable String partType, ChatColor color) {
         ItemStack itemStack = this.getItem().clone();
         ItemMeta im = itemStack.getItemMeta();
-        im.setLore(getLore(material, color));
-        im.setDisplayName(color + getName(material));
         Pdc.setString(im, Keys.PART_MATERIAL.toString(), material);
         Pdc.setString(im, Keys.PART_CLASS.toString(), partClass);
         if (partType != null) {
