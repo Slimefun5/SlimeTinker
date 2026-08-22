@@ -14,6 +14,7 @@ import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
+import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.inventory.ItemStack;
 
@@ -117,13 +118,15 @@ public class TinkersSmeltery extends TickingMenuBlock {
         }
 
         caches.put(b.getLocation(), cache);
-        menu.addMenuOpeningHandler(player -> validateMultiblock(menu));
     }
 
-    private void validateMultiblock(BlockMenu blockMenu) {
-        if (!isComplete(blockMenu.getLocation().getBlock())) {
-            blockMenu.close();
-        }
+    /**
+     * Refuses to open until the smeltery is built, so an incomplete structure is rejected before the menu
+     * exists rather than flashing one open and closing it a tick later.
+     */
+    @Override
+    protected boolean canOpen(Block b, Player p) {
+        return isComplete(b);
     }
 
     /**
