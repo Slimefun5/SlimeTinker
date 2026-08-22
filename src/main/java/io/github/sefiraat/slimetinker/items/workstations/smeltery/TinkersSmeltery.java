@@ -14,7 +14,6 @@ import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
-import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.inventory.ItemStack;
 
@@ -118,12 +117,27 @@ public class TinkersSmeltery extends TickingMenuBlock {
         }
 
         caches.put(b.getLocation(), cache);
-        menu.addMenuOpeningHandler((player -> validateMultiblock(menu, player)));
+        menu.addMenuOpeningHandler(player -> validateMultiblock(menu));
     }
 
-    private void validateMultiblock(BlockMenu blockMenu, Player player) {
+    private void validateMultiblock(BlockMenu blockMenu) {
+        if (!isComplete(blockMenu.getLocation().getBlock())) {
+            blockMenu.close();
+        }
+    }
 
-        // This is garbage - need something better in future - needs to be modular like the real smeltery
+    /**
+     * Whether the smeltery around {@code controller} is built correctly.
+     *
+     * @implNote Count-based rather than a fixed layout: the structure is valid in either vertical plane, so
+     *           the blocks in each are tallied and compared against the required set.
+     *
+     * @param controller
+     *            The smeltery controller block
+     *
+     * @return Whether the surrounding structure is complete
+     */
+    public static boolean isComplete(@Nonnull Block controller) {
         Map<String, Integer> blockMapMaster = new HashMap<>();
 
         blockMapMaster.put(Materials.SEARED_BRICK_BLOCK.getItemId(), 6);
@@ -131,19 +145,10 @@ public class TinkersSmeltery extends TickingMenuBlock {
         blockMapMaster.put(Materials.SPOUT.getItemId(), 1);
         blockMapMaster.put(Materials.SMELTERY_CONTROLLER.getItemId(), 1);
 
-        Location controllerLoc = blockMenu.getLocation();
-        Block b = controllerLoc.getBlock();
-        Map<String, Integer> blockMapXY = getBlockMapXY(b);
-        Map<String, Integer> blockMapZY = getBlockMapZY(b);
-
-        if (!blockMapXY.equals(blockMapMaster) && !blockMapZY.equals(blockMapMaster)) {
-            player.sendMessage(ThemeUtils.WARNING + "This multiblock has not been setup correctly.");
-            blockMenu.close();
-        }
-
+        return blockMapMaster.equals(getBlockMapXY(controller)) || blockMapMaster.equals(getBlockMapZY(controller));
     }
 
-    private Map<String, Integer> getBlockMapXY(Block b) {
+    private static Map<String, Integer> getBlockMapXY(Block b) {
         Map<String, Integer> blockMapXY = new HashMap<>();
         for (int x = -1; x <= 1; x++) {
             for (int y = -1; y <= 1; y++) {
@@ -160,7 +165,7 @@ public class TinkersSmeltery extends TickingMenuBlock {
         return blockMapXY;
     }
 
-    private Map<String, Integer> getBlockMapZY(Block b) {
+    private static Map<String, Integer> getBlockMapZY(Block b) {
         Map<String, Integer> blockMapZY = new HashMap<>();
         for (int z = -1; z <= 1; z++) {
             for (int y = -1; y <= 1; y++) {

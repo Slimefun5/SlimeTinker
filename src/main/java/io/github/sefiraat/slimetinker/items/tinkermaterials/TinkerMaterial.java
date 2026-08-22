@@ -182,13 +182,12 @@ public class TinkerMaterial {
         // Binders
         if (this.traitToolBinder != null && traitManager.isEnabled(this.id, Ids.BINDING)) {
             PartTemplate binder = new PartTemplate(
-                ItemGroups.DUMMY,
+                ItemGroups.PART_DICT,
                 bindingStack(this.id),
                 Workbench.TYPE,
                 bindingRecipe(this.representativeStack),
                 this.id
             );
-            binder.setHidden(true);
             binder.register(plugin);
         }
 
@@ -241,13 +240,12 @@ public class TinkerMaterial {
         // Gambeson
         if (this.traitArmorGambeson != null && traitManager.isEnabled(this.id, Ids.GAMBESON)) {
             PartTemplate gambeson = new PartTemplate(
-                ItemGroups.DUMMY,
+                ItemGroups.PART_DICT,
                 gambesonStack(this.id),
                 Workbench.TYPE,
                 gambesonRecipe(this.representativeStack),
                 this.id
             );
-            gambeson.setHidden(true);
             gambeson.register(plugin);
         }
 
