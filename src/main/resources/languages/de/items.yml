@@ -111,61 +111,61 @@ BLOCK_CAST_VOID:
 BLOCK_CAST_ZINC:
   name: "&7Zink Block"
 CAST_AXE_HEAD:
-  name: "&eForm: Axtkopf"
+  name: "&eAxtkopf-Form"
 CAST_BLOCK:
-  name: "&eForm: Metall Block"
+  name: "&eMetall-Block-Form"
 CAST_BOOT_PLATE:
-  name: "&eForm: Stiefelplatten"
+  name: "&eStiefelplatten-Form"
 CAST_CHEST_PLATE:
-  name: "&eForm: Brustpanzerplatten"
+  name: "&eBrustpanzerplatten-Form"
 CAST_GEM:
-  name: "&eForm: Edelstein"
+  name: "&eEdelstein-Form"
 CAST_HELM_PLATE:
-  name: "&eForm: Helmplatten"
+  name: "&eHelmplatten-Form"
 CAST_HOEHEAD:
-  name: "&eForm: Hackenkopf"
+  name: "&eHackenkopf-Form"
 CAST_INGOT:
-  name: "&eForm: Metall Barren"
+  name: "&eMetall-Barren-Form"
 CAST_LEG_PLATE:
-  name: "&eForm: Beinschienenplatten"
+  name: "&eBeinschienenplatten-Form"
 CAST_MAIL_LINK:
-  name: "&eForm: Kettenglieder"
+  name: "&eKettenglieder-Form"
 CAST_NUGGET:
-  name: "&eForm: Metall Nugget"
+  name: "&eMetall-Nugget-Form"
 CAST_PICKAXEHEAD:
-  name: "&eForm: Spitzhackenkopf"
+  name: "&eSpitzhackenkopf-Form"
 CAST_REPAIRKIT:
-  name: "&eForm: Reparaturset"
+  name: "&eReparaturset-Form"
 CAST_SHOVELHEAD:
-  name: "&eForm: Schaufelkopf"
+  name: "&eSchaufelkopf-Form"
 CAST_SWORDBLADE:
-  name: "&eForm: Schwertklinge"
+  name: "&eSchwertklinge-Form"
 CAST_TOOLROD:
-  name: "&eForm: Werkzeugstab"
+  name: "&eWerkzeugstab-Form"
 DIE_AXE_HEAD:
-  name: "&eGussform: Stein Axtkopf"
+  name: "&eStein-Axtkopf-Gussform"
 DIE_BOOT_PLATE:
-  name: "&eGussform: Stein Stiefelplatten"
+  name: "&eStein-Stiefelplatten-Gussform"
 DIE_CHEST_PLATE:
-  name: "&eGussform: Stein Brustplatten"
+  name: "&eStein-Brustplatten-Gussform"
 DIE_HELM_PLATE:
-  name: "&eGussform: Stein Helmplatten"
+  name: "&eStein-Helmplatten-Gussform"
 DIE_HOE_HEAD:
-  name: "&eGussform: Stein Hackenkopf"
+  name: "&eStein-Hackenkopf-Gussform"
 DIE_LEG_PLATE:
-  name: "&eGussform: Stein Beinplatten"
+  name: "&eStein-Beinplatten-Gussform"
 DIE_MAIL_LINK:
-  name: "&eGussform: Kettenglieder"
+  name: "&eKettenglieder-Gussform"
 DIE_PICKAXE_HEAD:
-  name: "&eGussform: Stein Spitzhackenkopf"
+  name: "&eStein-Spitzhackenkopf-Gussform"
 DIE_REPAIR_KIT:
-  name: "&eGussform: Reparaturset"
+  name: "&eReparaturset-Gussform"
 DIE_SHOVEL_HEAD:
-  name: "&eGussform: Stein Schaufelkopf"
+  name: "&eStein-Schaufelkopf-Gussform"
 DIE_SWORD_BLADE:
-  name: "&eGussform: Stein Schwertklinge"
+  name: "&eStein-Schwertklinge-Gussform"
 DIE_TOOL_ROD:
-  name: "&eGussform: Werkzeugstab"
+  name: "&eWerkzeugstab-Gussform"
 DUMMY_MODIFICATION_STATION:
   name: "&3Modifikationsstation des Tüftlers"
 DUMMY_TINKERS_ARMOUR_TABLE:

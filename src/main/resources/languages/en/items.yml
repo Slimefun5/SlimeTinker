@@ -356,7 +356,7 @@ BLOCK_CAST_ZINC:
   description:
   - "&7A block made from solid zinc"
 CAST_AXE_HEAD:
-  name: "&fCast: Axe Head"
+  name: "&fAxe Head Cast"
   type:
   - "&7&oComponent"
   description:
@@ -365,7 +365,7 @@ CAST_AXE_HEAD:
   - "&8Input: &e27 Units"
   - "&8Output: &e1 Axe Head"
 CAST_BLOCK:
-  name: "&fCast: Metal Block"
+  name: "&fMetal Block Cast"
   type:
   - "&7&oComponent"
   description:
@@ -374,7 +374,7 @@ CAST_BLOCK:
   - "&8Input: &e81 Units"
   - "&8Output: &e1 Block"
 CAST_BOOT_PLATE:
-  name: "&fCast: Boot Plates"
+  name: "&fBoot Plates Cast"
   type:
   - "&7&oComponent"
   description:
@@ -383,7 +383,7 @@ CAST_BOOT_PLATE:
   - "&8Input: &e36 Units"
   - "&8Output: &e1 Set of Boot Plates"
 CAST_CHEST_PLATE:
-  name: "&fCast: Chestplate Plates"
+  name: "&fChestplate Plates Cast"
   type:
   - "&7&oComponent"
   description:
@@ -392,7 +392,7 @@ CAST_CHEST_PLATE:
   - "&8Input: &e72 Units"
   - "&8Output: &e1 Set of Chestplate Plates"
 CAST_GEM:
-  name: "&fCast: Gem"
+  name: "&fGem Cast"
   type:
   - "&7&oComponent"
   description:
@@ -401,7 +401,7 @@ CAST_GEM:
   - "&8Input: &e9 Units"
   - "&8Output: &e1 Gem"
 CAST_HELM_PLATE:
-  name: "&fCast: Helmet Plates"
+  name: "&fHelmet Plates Cast"
   type:
   - "&7&oComponent"
   description:
@@ -410,7 +410,7 @@ CAST_HELM_PLATE:
   - "&8Input: &e45 Units"
   - "&8Output: &e1 Set of Helmet Plates"
 CAST_HOEHEAD:
-  name: "&fCast: Hoe Head"
+  name: "&fHoe Head Cast"
   type:
   - "&7&oComponent"
   description:
@@ -419,7 +419,7 @@ CAST_HOEHEAD:
   - "&8Input: &e18 Units"
   - "&8Output: &e1 Hoe Head"
 CAST_INGOT:
-  name: "&fCast: Metal Ingot"
+  name: "&fMetal Ingot Cast"
   type:
   - "&7&oComponent"
   description:
@@ -428,7 +428,7 @@ CAST_INGOT:
   - "&8Input: &e9 Units"
   - "&8Output: &e1 Ingot"
 CAST_LEG_PLATE:
-  name: "&fCast: Legging Plates"
+  name: "&fLegging Plates Cast"
   type:
   - "&7&oComponent"
   description:
@@ -437,7 +437,7 @@ CAST_LEG_PLATE:
   - "&8Input: &e63 Units"
   - "&8Output: &e1 Set of Legging Plates"
 CAST_MAIL_LINK:
-  name: "&fCast: Mail Links"
+  name: "&fMail Links Cast"
   type:
   - "&7&oComponent"
   description:
@@ -446,7 +446,7 @@ CAST_MAIL_LINK:
   - "&8Input: &e18 Units"
   - "&8Output: &e1 Set of Mail Links"
 CAST_NUGGET:
-  name: "&fCast: Metal Nugget"
+  name: "&fMetal Nugget Cast"
   type:
   - "&7&oComponent"
   description:
@@ -455,7 +455,7 @@ CAST_NUGGET:
   - "&8Input: &e1 Units"
   - "&8Output: &e1 Nugget"
 CAST_PICKAXEHEAD:
-  name: "&fCast: Pickaxe Head"
+  name: "&fPickaxe Head Cast"
   type:
   - "&7&oComponent"
   description:
@@ -464,7 +464,7 @@ CAST_PICKAXEHEAD:
   - "&8Input: &e27 Units"
   - "&8Output: &e1 Pickaxe Head"
 CAST_REPAIRKIT:
-  name: "&fCast: Repair Kit"
+  name: "&fRepair Kit Cast"
   type:
   - "&7&oComponent"
   description:
@@ -473,7 +473,7 @@ CAST_REPAIRKIT:
   - "&8Input: &e27 Units"
   - "&8Output: &e1 Repair Kit"
 CAST_SHOVELHEAD:
-  name: "&fCast: Shovel Head"
+  name: "&fShovel Head Cast"
   type:
   - "&7&oComponent"
   description:
@@ -482,7 +482,7 @@ CAST_SHOVELHEAD:
   - "&8Input: &e9 Units"
   - "&8Output: &e1 Shovel Head"
 CAST_SWORDBLADE:
-  name: "&fCast: Sword Blade"
+  name: "&fSword Blade Cast"
   type:
   - "&7&oComponent"
   description:
@@ -491,7 +491,7 @@ CAST_SWORDBLADE:
   - "&8Input: &e18 Units"
   - "&8Output: &e1 Sword Blade"
 CAST_TOOLROD:
-  name: "&fCast: Tool Rod"
+  name: "&fTool Rod Cast"
   type:
   - "&7&oComponent"
   description:
@@ -500,73 +500,73 @@ CAST_TOOLROD:
   - "&8Input: &e9 Units"
   - "&8Output: &e1 Tool Rod"
 DIE_AXE_HEAD:
-  name: "&fDie: Stone Axe Head"
+  name: "&fStone Axe Head Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_BOOT_PLATE:
-  name: "&fDie: Stone Boot Plates"
+  name: "&fStone Boot Plates Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_CHEST_PLATE:
-  name: "&fDie: Stone Chest Plates"
+  name: "&fStone Chest Plates Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_HELM_PLATE:
-  name: "&fDie: Stone Helmet Plates"
+  name: "&fStone Helmet Plates Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_HOE_HEAD:
-  name: "&fDie: Stone Hoe Head"
+  name: "&fStone Hoe Head Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_LEG_PLATE:
-  name: "&fDie: Stone Leg Plates"
+  name: "&fStone Leg Plates Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_MAIL_LINK:
-  name: "&fDie: Mail Links"
+  name: "&fMail Links Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_PICKAXE_HEAD:
-  name: "&fDie: Stone Pickaxe Head"
+  name: "&fStone Pickaxe Head Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_REPAIR_KIT:
-  name: "&fDie: Repair Kit"
+  name: "&fRepair Kit Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_SHOVEL_HEAD:
-  name: "&fDie: Stone Shovel Head"
+  name: "&fStone Shovel Head Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_SWORD_BLADE:
-  name: "&fDie: Stone Sword Head"
+  name: "&fStone Sword Head Die"
   type:
   - "&7&oComponent"
   description:
   - "&7A die to create a cast from."
 DIE_TOOL_ROD:
-  name: "&fDie: Tool Rod"
+  name: "&fTool Rod Die"
   type:
   - "&7&oComponent"
   description:
