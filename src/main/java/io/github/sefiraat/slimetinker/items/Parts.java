@@ -109,30 +109,9 @@ public final class Parts {
 
     public static void set(SlimeTinker p) {
 
-        // Dummies for the recipe book
-        registerPartEntry(p, PART_SHOVEL_HEAD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_SHOVELHEAD.item()), Ids.HEAD, Ids.SHOVEL);
-        registerPartEntry(p, PART_PICKAXE_HEAD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_PICKAXEHEAD.item()), Ids.HEAD, Ids.PICKAXE);
-        registerPartEntry(p, PART_AXE_HEAD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_AXEHEAD.item()), Ids.HEAD, Ids.AXE);
-        registerPartEntry(p, PART_HOE_HEAD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_HOEHEAD.item()), Ids.HEAD, Ids.HOE);
-        registerPartEntry(p, PART_SWORD_BLADE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_SWORDBLADE.item()), Ids.HEAD, Ids.SWORD);
-        registerPartEntry(p, PART_TOOL_ROD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_TOOLROD.item()), Ids.ROD, null);
-        registerPartEntry(p, PART_BINDING_DUMMY, DummyWorkbench.TYPE, new ItemStack[]{
-        PART_BINDING_GENERAL_DISPLAY.item(), null, PART_BINDING_GENERAL_DISPLAY.item(),
-            null, PART_BINDING_GENERAL_DISPLAY.item(), null,
-        PART_BINDING_GENERAL_DISPLAY.item(), null, PART_BINDING_GENERAL_DISPLAY.item()
-        }, Ids.BINDING, null);
-        registerPartEntry(p, PART_HELM_PLATE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_HELM_PLATE.item()), Ids.PLATE, Ids.HELMET);
-        registerPartEntry(p, PART_CHEST_PLATE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_CHEST_PLATE.item()), Ids.PLATE, Ids.CHESTPLATE);
-        registerPartEntry(p, PART_LEG_PLATE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_LEG_PLATE.item()), Ids.PLATE, Ids.LEGGINGS);
-        registerPartEntry(p, PART_BOOT_PLATE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_BOOT_PLATE.item()), Ids.PLATE, Ids.BOOTS);
-        registerPartEntry(p, PART_MAIL_LINKS_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_MAIL_LINK.item()), Ids.LINKS, null);
-        registerPartEntry(p, PART_GAMBESON_DUMMY, DummyWorkbench.TYPE, new ItemStack[]{
-            null, PART_GAMBESON_GENERAL_DISPLAY.item(), PART_BINDING_GENERAL_DISPLAY.item(),
-        PART_GAMBESON_GENERAL_DISPLAY.item(), null, PART_GAMBESON_GENERAL_DISPLAY.item(),
-        PART_BINDING_GENERAL_DISPLAY.item(), PART_GAMBESON_GENERAL_DISPLAY.item(), null
-        }, Ids.GAMBESON, null);
-        registerPartEntry(p, PART_REPAIR_KIT_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_REPAIRKIT.item()), Ids.REPAIR, null);
-
+        // The former PART_*_DUMMY guide entries are gone: PartVariants registers a real item per
+        // part-and-material combination instead, collapsed back into one guide slot per shape by core's
+        // VariantGroup.
         // Real ones, not in recipe book due to the variations
         SHOVEL_HEAD.register(p);
         PICKAXE_HEAD.register(p);
