@@ -105,32 +105,6 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
         // core's per-viewer packet layer via an item-aware resolver (replaces the old re-skin listener).
         Slimefun.getItemTranslationService().registerResolver(new TinkerItemResolver());
 
-        // TEMPORARY diagnostic: does the PDC layer round-trip at all on this server version?
-        try {
-            org.bukkit.inventory.ItemStack probe = new org.bukkit.inventory.ItemStack(org.bukkit.Material.PAPER);
-            org.bukkit.inventory.meta.ItemMeta pm = probe.getItemMeta();
-            io.github.sefiraat.slimetinker.compat.Pdc.setString(pm, io.github.sefiraat.slimetinker.utils.Keys.PART_CLASS.toString(), "HEAD");
-            probe.setItemMeta(pm);
-            org.bukkit.inventory.ItemStack lower = new org.bukkit.inventory.ItemStack(org.bukkit.Material.PAPER);
-            org.bukkit.inventory.meta.ItemMeta lm = lower.getItemMeta();
-            io.github.sefiraat.slimetinker.compat.Pdc.setString(lm, "slimetinker:st_class_lower", "HEAD");
-            lower.setItemMeta(lm);
-            getLogger().warning("[diag] LOWERCASE key roundtrip = "
-                + io.github.sefiraat.slimetinker.compat.Pdc.getString(lower.getItemMeta(), "slimetinker:st_class_lower")
-                + " | key in use = " + io.github.sefiraat.slimetinker.utils.Keys.PART_CLASS.toString());
-
-            getLogger().warning("[diag] plain-stack roundtrip = "
-                + io.github.sefiraat.slimetinker.compat.Pdc.getString(probe.getItemMeta(), io.github.sefiraat.slimetinker.utils.Keys.PART_CLASS.toString()));
-
-            org.bukkit.inventory.ItemStack real = io.github.sefiraat.slimetinker.items.Parts.TOOL_ROD.getStack(
-                io.github.sefiraat.slimetinker.utils.Ids.IRON, io.github.sefiraat.slimetinker.utils.Ids.ROD, null,
-                net.md_5.bungee.api.ChatColor.WHITE);
-            getLogger().warning("[diag] getStack partClass="
-                + io.github.sefiraat.slimetinker.utils.ItemUtils.getPartClass(real)
-                + " material=" + io.github.sefiraat.slimetinker.utils.ItemUtils.getPartMaterial(real));
-        } catch (Throwable t) {
-            getLogger().warning("[diag] threw: " + t);
-        }
         registerWiki();
     }
 
