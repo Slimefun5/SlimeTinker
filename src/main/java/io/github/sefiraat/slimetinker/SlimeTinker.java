@@ -25,6 +25,7 @@ import io.github.sefiraat.slimetinker.items.Dies;
 import io.github.sefiraat.slimetinker.items.Guide;
 import io.github.sefiraat.slimetinker.items.Materials;
 import io.github.sefiraat.slimetinker.items.Mods;
+import io.github.sefiraat.slimetinker.items.PartVariantGroups;
 import io.github.sefiraat.slimetinker.items.Parts;
 import io.github.sefiraat.slimetinker.items.Workstations;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterialManager;
@@ -86,6 +87,10 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
 
         traitManager = new TraitManager();
         tinkerMaterialManager = new TinkerMaterialManager();
+
+        // After the materials: a material only registers the parts its traits allow, so the groups can
+        // only be built once every per-material part item exists.
+        PartVariantGroups.set(this);
 
         getServer().getPluginManager().registerEvents(new GuideCategoryListener(), this);
 
