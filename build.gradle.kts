@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
     githubImplementation("Slimefun5:SlimefunMetrics:v1.0.0")
-    githubImplementation("Slimefun5:InfinityLib:v1.3.14.8")
+    githubImplementation("Slimefun5:InfinityLib:v1.3.14.9")
     implementation("co.aikar:acf-paper:0.5.1-SNAPSHOT")
 }
 
