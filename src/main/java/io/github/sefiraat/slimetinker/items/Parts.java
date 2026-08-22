@@ -129,42 +129,6 @@ public final class Parts {
 
     }
 
-    /**
-     * The material a part obtained straight from the guide is made of. Any registered
-     * {@link io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterial} works; iron is the
-     * lowest-tier one that always exists.
-     */
-    private static final String GUIDE_PART_MATERIAL = Ids.IRON;
-
-    /**
-     * Registers a part's guide entry and stamps it with the part identity every workstation reads.
-     *
-     * @implNote The tables identify a part purely from its persistent data ({@code ST_Class}/{@code ST_Type}
-     *           /{@code ST_Material}), which only {@link PartTemplate#getStack} used to write - so a part
-     *           taken from the guide carried none and every table silently refused to combine it. Stamping
-     *           the registered template makes a guide part a real, usable {@code GUIDE_PART_MATERIAL} part.
-     */
-    private static void registerPartEntry(SlimeTinker plugin, SlimefunItemStack item, RecipeType recipeType,
-            ItemStack[] recipe, String partClass, @Nullable String partType) {
-        UnplaceableBlock entry = new UnplaceableBlock(ItemGroups.PARTS, item, recipeType, recipe);
-        entry.register(plugin);
-
-        ItemStack template = entry.getItem();
-        ItemMeta meta = template.getItemMeta();
-
-        if (meta == null) {
-            return;
-        }
-
-        Pdc.setString(meta, Keys.PART_MATERIAL.toString(), GUIDE_PART_MATERIAL);
-        Pdc.setString(meta, Keys.PART_CLASS.toString(), partClass);
-
-        if (partType != null) {
-            Pdc.setString(meta, Keys.PART_TYPE.toString(), partType);
-        }
-
-        template.setItemMeta(meta);
-    }
 }
 
 

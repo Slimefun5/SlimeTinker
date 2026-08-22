@@ -8,8 +8,10 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
 import org.bukkit.inventory.ItemStack;
+import org.bukkit.inventory.meta.ItemMeta;
 
 import io.github.sefiraat.slimetinker.SlimeTinker;
+import io.github.sefiraat.slimetinker.compat.Pdc;
 import io.github.sefiraat.slimetinker.itemgroups.ItemGroups;
 import io.github.sefiraat.slimetinker.items.templates.PartTemplate;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterial;
@@ -17,6 +19,7 @@ import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterialManage
 import io.github.sefiraat.slimetinker.items.workstations.smeltery.DummySmeltery;
 import io.github.sefiraat.slimetinker.managers.TraitManager;
 import io.github.sefiraat.slimetinker.utils.Ids;
+import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
@@ -38,8 +41,6 @@ import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
  *           their traits and on the trait config, which only exists once that manager has been built.
  */
 public final class PartVariants {
-
-    private static final java.util.concurrent.atomic.AtomicBoolean DIAG = new java.util.concurrent.atomic.AtomicBoolean(false);
 
     private PartVariants() {
         throw new UnsupportedOperationException("Utility Class");
@@ -130,25 +131,45 @@ public final class PartVariants {
     @Nonnull
     private static SlimefunItem registerVariant(@Nonnull SlimeTinker plugin, @Nonnull Shape shape,
             @Nonnull String materialId, @Nonnull TinkerMaterial material) {
-        // The stack already carries the part identity the workstations read; wrapping it in a
-        // SlimefunItemStack only adds the item id, so a variant IS a usable part straight from the guide.
-        ItemStack stack = shape.template.getStack(materialId, shape.partClass, shape.partType, material.getColor());
-        SlimefunItemStack item = new SlimefunItemStack("PART_" + shape.idPart + "_" + materialId, stack);
+        // Built from the template's stack so the part's skull texture carries over; the identity is
+        // stamped separately below because it cannot travel through this constructor.
+        SlimefunItemStack item = new SlimefunItemStack("PART_" + shape.idPart + "_" + materialId,
+            shape.template.getItem());
 
         UnplaceableBlock variant = new UnplaceableBlock(ItemGroups.PARTS, item, DummySmeltery.TYPE,
             ItemUtils.getMiddleOnlyRecipe(material.getRepresentativeStack()));
         variant.register(plugin);
 
-        // TEMPORARY diagnostic
-        if (DIAG.compareAndSet(false, true)) {
-            org.bukkit.inventory.ItemStack t = variant.getItem();
-            plugin.getLogger().warning("[diag] " + item.getItemId()
-                + " partClass=" + io.github.sefiraat.slimetinker.utils.ItemUtils.getPartClass(t)
-                + " material=" + io.github.sefiraat.slimetinker.utils.ItemUtils.getPartMaterial(t)
-                + " isTool=" + io.github.sefiraat.slimetinker.utils.ItemUtils.isTool(t)
-                + " resolved=" + new io.github.sefiraat.slimetinker.i18n.TinkerItemResolver().resolve(t, item.getItemId(), "en"));
-        }
+        stampIdentity(variant, shape, materialId);
 
         return variant;
+    }
+
+    /**
+     * Writes the part identity every workstation reads onto the registered template.
+     *
+     * @implNote Must happen AFTER registration, on {@link SlimefunItem#getItem()}. Handing an
+     *           already-stamped {@link org.bukkit.inventory.ItemStack} to
+     *           {@code new SlimefunItemStack(id, stack)} does NOT carry the persistent data through -
+     *           {@code SlimefunItemStack} wraps an internal delegate, so the identity never reached
+     *           {@code getItem()} and every variant read back as {@code partClass=null}: unusable at the
+     *           tables and rendered as a humanized raw id because the resolver could not claim it.
+     */
+    private static void stampIdentity(@Nonnull SlimefunItem variant, @Nonnull Shape shape, @Nonnull String materialId) {
+        ItemStack template = variant.getItem();
+        ItemMeta meta = template.getItemMeta();
+
+        if (meta == null) {
+            return;
+        }
+
+        Pdc.setString(meta, Keys.PART_MATERIAL.toString(), materialId);
+        Pdc.setString(meta, Keys.PART_CLASS.toString(), shape.partClass);
+
+        if (shape.partType != null) {
+            Pdc.setString(meta, Keys.PART_TYPE.toString(), shape.partType);
+        }
+
+        template.setItemMeta(meta);
     }
 }
