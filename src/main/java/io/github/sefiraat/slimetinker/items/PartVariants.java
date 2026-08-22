@@ -7,8 +7,6 @@ import java.util.Map;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
-import org.bukkit.inventory.ItemStack;
-import org.bukkit.inventory.meta.ItemMeta;
 
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.compat.Pdc;
@@ -131,45 +129,31 @@ public final class PartVariants {
     @Nonnull
     private static SlimefunItem registerVariant(@Nonnull SlimeTinker plugin, @Nonnull Shape shape,
             @Nonnull String materialId, @Nonnull TinkerMaterial material) {
-        // Built from the template's stack so the part's skull texture carries over; the identity is
-        // stamped separately below because it cannot travel through this constructor.
-        SlimefunItemStack item = new SlimefunItemStack("PART_" + shape.idPart + "_" + materialId,
-            shape.template.getItem());
+        // Built from the template's stack so the part's skull texture carries over, with the identity
+        // written through the meta consumer.
+        //
+        // @implNote The consumer is the ONLY way to get custom persistent data onto a registered item's
+        //           template. Setting it on the stack beforehand is lost, and setting it afterwards is
+        //           worse than useless: SlimefunItem#getItem() hands back a clone, so the write lands on a
+        //           throwaway copy and silently does nothing. Both were tried; every variant read back
+        //           partClass=null, which left it unusable at the workstations and unnameable by the
+        //           resolver.
+        SlimefunItemStack item = new SlimefunItemStack(
+            "PART_" + shape.idPart + "_" + materialId,
+            shape.template.getItem(),
+            meta -> {
+                Pdc.setString(meta, Keys.PART_MATERIAL.toString(), materialId);
+                Pdc.setString(meta, Keys.PART_CLASS.toString(), shape.partClass);
+
+                if (shape.partType != null) {
+                    Pdc.setString(meta, Keys.PART_TYPE.toString(), shape.partType);
+                }
+            });
 
         UnplaceableBlock variant = new UnplaceableBlock(ItemGroups.PARTS, item, DummySmeltery.TYPE,
             ItemUtils.getMiddleOnlyRecipe(material.getRepresentativeStack()));
         variant.register(plugin);
 
-        stampIdentity(variant, shape, materialId);
-
         return variant;
-    }
-
-    /**
-     * Writes the part identity every workstation reads onto the registered template.
-     *
-     * @implNote Must happen AFTER registration, on {@link SlimefunItem#getItem()}. Handing an
-     *           already-stamped {@link org.bukkit.inventory.ItemStack} to
-     *           {@code new SlimefunItemStack(id, stack)} does NOT carry the persistent data through -
-     *           {@code SlimefunItemStack} wraps an internal delegate, so the identity never reached
-     *           {@code getItem()} and every variant read back as {@code partClass=null}: unusable at the
-     *           tables and rendered as a humanized raw id because the resolver could not claim it.
-     */
-    private static void stampIdentity(@Nonnull SlimefunItem variant, @Nonnull Shape shape, @Nonnull String materialId) {
-        ItemStack template = variant.getItem();
-        ItemMeta meta = template.getItemMeta();
-
-        if (meta == null) {
-            return;
-        }
-
-        Pdc.setString(meta, Keys.PART_MATERIAL.toString(), materialId);
-        Pdc.setString(meta, Keys.PART_CLASS.toString(), shape.partClass);
-
-        if (shape.partType != null) {
-            Pdc.setString(meta, Keys.PART_TYPE.toString(), shape.partType);
-        }
-
-        template.setItemMeta(meta);
     }
 }
