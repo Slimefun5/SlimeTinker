@@ -39,6 +39,8 @@ import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
  */
 public final class PartVariants {
 
+    private static final java.util.concurrent.atomic.AtomicBoolean DIAG = new java.util.concurrent.atomic.AtomicBoolean(false);
+
     private PartVariants() {
         throw new UnsupportedOperationException("Utility Class");
     }
@@ -136,6 +138,16 @@ public final class PartVariants {
         UnplaceableBlock variant = new UnplaceableBlock(ItemGroups.PARTS, item, DummySmeltery.TYPE,
             ItemUtils.getMiddleOnlyRecipe(material.getRepresentativeStack()));
         variant.register(plugin);
+
+        // TEMPORARY diagnostic
+        if (DIAG.compareAndSet(false, true)) {
+            org.bukkit.inventory.ItemStack t = variant.getItem();
+            plugin.getLogger().warning("[diag] " + item.getItemId()
+                + " partClass=" + io.github.sefiraat.slimetinker.utils.ItemUtils.getPartClass(t)
+                + " material=" + io.github.sefiraat.slimetinker.utils.ItemUtils.getPartMaterial(t)
+                + " isTool=" + io.github.sefiraat.slimetinker.utils.ItemUtils.isTool(t)
+                + " resolved=" + new io.github.sefiraat.slimetinker.i18n.TinkerItemResolver().resolve(t, item.getItemId(), "en"));
+        }
 
         return variant;
     }
