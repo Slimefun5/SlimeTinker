@@ -8,13 +8,17 @@ import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.core.multiblocks.MultiBlock;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.utils.ChestMenuUtils;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
 import org.bukkit.Location;
+import org.bukkit.Material;
 import org.bukkit.block.Block;
+import org.bukkit.block.BlockFace;
 import org.bukkit.entity.Player;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.inventory.ItemStack;
@@ -133,6 +137,29 @@ public class TinkersSmeltery extends TickingMenuBlock {
     @Override
     protected String getAccessDenialMessage(Block b, Player p) {
         return ThemeUtils.WARNING + TinkerLang.message(p, "smeltery-incomplete");
+    }
+
+    /**
+     * Registers this smeltery's structure with core, so {@code /sf owner} and core's assembled announcement
+     * recognise it the way they recognise a {@link MultiBlock} machine - without giving up the menu and tank
+     * that a {@code MultiBlockMachine} could not have.
+     *
+     * @implNote The canonical layout puts the tank directly above the controller and the spout directly
+     *           below it. Core matches a fixed layout whereas {@link #isComplete(Block)} only counts blocks,
+     *           so a smeltery built with the tank or spout in another cell still opens but is not announced.
+     *           Core's interact listener is registered before its multiblock listener, which is what lets the
+     *           menu still open even though a structure match cancels the interact event.
+     */
+    public void registerStructure() {
+        Material bricks = Materials.SEARED_BRICK_BLOCK.getType();
+
+        Material[] structure = {
+            bricks, Materials.SEARED_TANK.getType(), bricks,
+            bricks, Materials.SMELTERY_CONTROLLER.getType(), bricks,
+            bricks, Materials.SPOUT.getType(), bricks
+        };
+
+        Slimefun.getRegistry().getMultiBlocks().add(new MultiBlock(this, structure, BlockFace.SELF));
     }
 
     /**
