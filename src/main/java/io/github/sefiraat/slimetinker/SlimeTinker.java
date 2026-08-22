@@ -111,6 +111,14 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
             org.bukkit.inventory.meta.ItemMeta pm = probe.getItemMeta();
             io.github.sefiraat.slimetinker.compat.Pdc.setString(pm, io.github.sefiraat.slimetinker.utils.Keys.PART_CLASS.toString(), "HEAD");
             probe.setItemMeta(pm);
+            org.bukkit.inventory.ItemStack lower = new org.bukkit.inventory.ItemStack(org.bukkit.Material.PAPER);
+            org.bukkit.inventory.meta.ItemMeta lm = lower.getItemMeta();
+            io.github.sefiraat.slimetinker.compat.Pdc.setString(lm, "slimetinker:st_class_lower", "HEAD");
+            lower.setItemMeta(lm);
+            getLogger().warning("[diag] LOWERCASE key roundtrip = "
+                + io.github.sefiraat.slimetinker.compat.Pdc.getString(lower.getItemMeta(), "slimetinker:st_class_lower")
+                + " | key in use = " + io.github.sefiraat.slimetinker.utils.Keys.PART_CLASS.toString());
+
             getLogger().warning("[diag] plain-stack roundtrip = "
                 + io.github.sefiraat.slimetinker.compat.Pdc.getString(probe.getItemMeta(), io.github.sefiraat.slimetinker.utils.Keys.PART_CLASS.toString()));
 
