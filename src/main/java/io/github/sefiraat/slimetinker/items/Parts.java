@@ -164,11 +164,17 @@ public final class Parts {
      *           /{@code ST_Material}), which only {@link PartTemplate#getStack} used to write - so a part
      *           taken from the guide carried none and every table silently refused to combine it. Stamping
      *           the registered template makes a guide part a real, usable {@code GUIDE_PART_MATERIAL} part.
+     *           <p>
+     *           Hidden from the guide: {@code TinkerMaterial} registers a real part per material with the
+     *           same casting recipe, and {@link PartVariantGroups} collapses those into one tile per shape,
+     *           so this entry only added a duplicate placeholder tile beside them. It stays registered so
+     *           parts already in player inventories keep resolving.
      */
     private static void registerPartEntry(SlimeTinker plugin, SlimefunItemStack item, RecipeType recipeType,
             ItemStack[] recipe, String partClass, @Nullable String partType) {
         UnplaceableBlock entry = new UnplaceableBlock(ItemGroups.PARTS, item, recipeType, recipe);
         entry.register(plugin);
+        entry.setHidden(true);
 
         ItemStack template = entry.getItem();
         ItemMeta meta = template.getItemMeta();

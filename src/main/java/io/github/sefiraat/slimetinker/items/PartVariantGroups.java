@@ -14,7 +14,8 @@ import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 
 /**
- * Collapses this addon's per-material part items into one guide slot per part shape.
+ * Collapses this addon's per-material items - part shapes, molten metals and alloys - into one guide
+ * slot each.
  *
  * @implNote Groups the items {@code TinkerMaterial} ALREADY registers - {@code PART_HEAD_PICKIRON},
  *           {@code PART_ROD_IRON}, {@code PART_PLATES_CHESTPLATEIRON} and so on, 700-odd of them in
@@ -32,20 +33,28 @@ public final class PartVariantGroups {
     private static final Map<String, String> SHAPES = new LinkedHashMap<>();
 
     static {
-        SHAPES.put("sword_blade", "PART_HEAD_SWORD");
-        SHAPES.put("hoe_head", "PART_HEAD_HOE");
-        SHAPES.put("axe_head", "PART_HEAD_AXE");
-        SHAPES.put("pickaxe_head", "PART_HEAD_PICK");
-        SHAPES.put("shovel_head", "PART_HEAD_SHOVEL");
-        SHAPES.put("tool_rod", "PART_ROD_");
-        SHAPES.put("binding", "PART_BINDING_");
-        SHAPES.put("helmet_plates", "PART_PLATES_HELMET");
-        SHAPES.put("chestplate_plates", "PART_PLATES_CHESTPLATE");
-        SHAPES.put("legging_plates", "PART_PLATES_LEGGINGS");
-        SHAPES.put("boot_plates", "PART_PLATES_BOOTS");
-        SHAPES.put("gambeson", "PART_GAMBESON_");
-        SHAPES.put("mail_links", "PART_LINKS_");
-        SHAPES.put("repair_kit", "PART_REPAIR_KIT_");
+        SHAPES.put("part_sword_blade", "PART_HEAD_SWORD");
+        SHAPES.put("part_hoe_head", "PART_HEAD_HOE");
+        SHAPES.put("part_axe_head", "PART_HEAD_AXE");
+        SHAPES.put("part_pickaxe_head", "PART_HEAD_PICK");
+        SHAPES.put("part_shovel_head", "PART_HEAD_SHOVEL");
+        SHAPES.put("part_tool_rod", "PART_ROD_");
+        SHAPES.put("part_binding", "PART_BINDING_");
+        SHAPES.put("part_helmet_plates", "PART_PLATES_HELMET");
+        SHAPES.put("part_chestplate_plates", "PART_PLATES_CHESTPLATE");
+        SHAPES.put("part_legging_plates", "PART_PLATES_LEGGINGS");
+        SHAPES.put("part_boot_plates", "PART_PLATES_BOOTS");
+        SHAPES.put("part_gambeson", "PART_GAMBESON_");
+        SHAPES.put("part_mail_links", "PART_LINKS_");
+        SHAPES.put("part_repair_kit", "PART_REPAIR_KIT_");
+    }
+
+    /** Item family -> the id suffix its per-material items share, for families named material-first. */
+    private static final Map<String, String> SUFFIXES = new LinkedHashMap<>();
+
+    static {
+        SUFFIXES.put("molten_metal", "_LIQUID");
+        SUFFIXES.put("molten_alloy", "_ALLOY");
     }
 
     private PartVariantGroups() {
@@ -72,21 +81,29 @@ public final class PartVariantGroups {
         for (Map.Entry<String, List<SlimefunItem>> entry : byShape.entrySet()) {
             // A single-member shape is left alone: a group of one saves no slot and only adds a counter.
             if (entry.getValue().size() > 1) {
-                new VariantGroup(new NamespacedKey(plugin, "part_" + entry.getKey()), entry.getValue()).register();
+                new VariantGroup(new NamespacedKey(plugin, entry.getKey()), entry.getValue()).register();
             }
         }
     }
 
     /**
-     * The shape {@code itemId} belongs to, or null if it is not a per-material part.
+     * The family {@code itemId} belongs to, or null if it is not a per-material item.
      *
-     * @implNote The guide-only {@code *_DUMMY} entries and the shape templates must NOT be grouped: the
-     *           dummies are the recipe-book placeholders and a template is not obtainable, so folding
-     *           either into a group would hide a tile the player is meant to see.
+     * @implNote {@code *_DUMMY} ids are skipped because they are not per-material: they are the single
+     *           placeholder entry for a shape, now hidden from the guide entirely (see
+     *           {@code Parts#registerPartEntry}).
      */
     private static String shapeOf(@Nonnull String itemId) {
         if (itemId.endsWith("_DUMMY")) {
             return null;
+        }
+
+        for (Map.Entry<String, String> family : SUFFIXES.entrySet()) {
+            String suffix = family.getValue();
+
+            if (itemId.endsWith(suffix) && itemId.length() > suffix.length()) {
+                return family.getKey();
+            }
         }
 
         for (Map.Entry<String, String> shape : SHAPES.entrySet()) {
