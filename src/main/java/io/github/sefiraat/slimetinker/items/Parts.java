@@ -109,30 +109,9 @@ public final class Parts {
 
     public static void set(SlimeTinker p) {
 
-        // Dummies for the recipe book
-        registerPartEntry(p, PART_SHOVEL_HEAD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_SHOVELHEAD.item()), Ids.HEAD, Ids.SHOVEL);
-        registerPartEntry(p, PART_PICKAXE_HEAD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_PICKAXEHEAD.item()), Ids.HEAD, Ids.PICKAXE);
-        registerPartEntry(p, PART_AXE_HEAD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_AXEHEAD.item()), Ids.HEAD, Ids.AXE);
-        registerPartEntry(p, PART_HOE_HEAD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_HOEHEAD.item()), Ids.HEAD, Ids.HOE);
-        registerPartEntry(p, PART_SWORD_BLADE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_SWORDBLADE.item()), Ids.HEAD, Ids.SWORD);
-        registerPartEntry(p, PART_TOOL_ROD_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_TOOLROD.item()), Ids.ROD, null);
-        registerPartEntry(p, PART_BINDING_DUMMY, DummyWorkbench.TYPE, new ItemStack[]{
-        PART_BINDING_GENERAL_DISPLAY.item(), null, PART_BINDING_GENERAL_DISPLAY.item(),
-            null, PART_BINDING_GENERAL_DISPLAY.item(), null,
-        PART_BINDING_GENERAL_DISPLAY.item(), null, PART_BINDING_GENERAL_DISPLAY.item()
-        }, Ids.BINDING, null);
-        registerPartEntry(p, PART_HELM_PLATE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_HELM_PLATE.item()), Ids.PLATE, Ids.HELMET);
-        registerPartEntry(p, PART_CHEST_PLATE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_CHEST_PLATE.item()), Ids.PLATE, Ids.CHESTPLATE);
-        registerPartEntry(p, PART_LEG_PLATE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_LEG_PLATE.item()), Ids.PLATE, Ids.LEGGINGS);
-        registerPartEntry(p, PART_BOOT_PLATE_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_BOOT_PLATE.item()), Ids.PLATE, Ids.BOOTS);
-        registerPartEntry(p, PART_MAIL_LINKS_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_MAIL_LINK.item()), Ids.LINKS, null);
-        registerPartEntry(p, PART_GAMBESON_DUMMY, DummyWorkbench.TYPE, new ItemStack[]{
-            null, PART_GAMBESON_GENERAL_DISPLAY.item(), PART_BINDING_GENERAL_DISPLAY.item(),
-        PART_GAMBESON_GENERAL_DISPLAY.item(), null, PART_GAMBESON_GENERAL_DISPLAY.item(),
-        PART_BINDING_GENERAL_DISPLAY.item(), PART_GAMBESON_GENERAL_DISPLAY.item(), null
-        }, Ids.GAMBESON, null);
-        registerPartEntry(p, PART_REPAIR_KIT_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_REPAIRKIT.item()), Ids.REPAIR, null);
-
+        // The former PART_*_DUMMY guide entries are gone: PartVariants registers a real item per
+        // part-and-material combination instead, collapsed back into one guide slot per shape by core's
+        // VariantGroup.
         // Real ones, not in recipe book due to the variations
         SHOVEL_HEAD.register(p);
         PICKAXE_HEAD.register(p);
@@ -150,42 +129,6 @@ public final class Parts {
 
     }
 
-    /**
-     * The material a part obtained straight from the guide is made of. Any registered
-     * {@link io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterial} works; iron is the
-     * lowest-tier one that always exists.
-     */
-    private static final String GUIDE_PART_MATERIAL = Ids.IRON;
-
-    /**
-     * Registers a part's guide entry and stamps it with the part identity every workstation reads.
-     *
-     * @implNote The tables identify a part purely from its persistent data ({@code ST_Class}/{@code ST_Type}
-     *           /{@code ST_Material}), which only {@link PartTemplate#getStack} used to write - so a part
-     *           taken from the guide carried none and every table silently refused to combine it. Stamping
-     *           the registered template makes a guide part a real, usable {@code GUIDE_PART_MATERIAL} part.
-     */
-    private static void registerPartEntry(SlimeTinker plugin, SlimefunItemStack item, RecipeType recipeType,
-            ItemStack[] recipe, String partClass, @Nullable String partType) {
-        UnplaceableBlock entry = new UnplaceableBlock(ItemGroups.PARTS, item, recipeType, recipe);
-        entry.register(plugin);
-
-        ItemStack template = entry.getItem();
-        ItemMeta meta = template.getItemMeta();
-
-        if (meta == null) {
-            return;
-        }
-
-        Pdc.setString(meta, Keys.PART_MATERIAL.toString(), GUIDE_PART_MATERIAL);
-        Pdc.setString(meta, Keys.PART_CLASS.toString(), partClass);
-
-        if (partType != null) {
-            Pdc.setString(meta, Keys.PART_TYPE.toString(), partType);
-        }
-
-        template.setItemMeta(meta);
-    }
 }
 
 
