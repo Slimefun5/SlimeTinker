@@ -188,7 +188,7 @@ public class TinkerMaterial {
                 bindingRecipe(this.representativeStack),
                 this.id
             );
-            binder.register(plugin);
+            registerVisible(binder, plugin);
         }
 
         // Tool Rods
@@ -246,7 +246,7 @@ public class TinkerMaterial {
                 gambesonRecipe(this.representativeStack),
                 this.id
             );
-            gambeson.register(plugin);
+            registerVisible(gambeson, plugin);
         }
 
         // Mail Links
@@ -648,7 +648,19 @@ public class TinkerMaterial {
                 throw new IllegalStateException("Unexpected value: " + part);
         }
     }
+
+    /**
+     * Registers {@code part} and re-asserts that it belongs in the guide.
+     *
+     * @implNote Bindings and gambesons used to be registered hidden in {@code ItemGroups.DUMMY}, so every
+     *           server that booted before they moved to {@code PART_DICT} has {@code hide-in-guide: true}
+     *           persisted for them in {@code Items.yml}. {@code SlimefunItem#register} lets a persisted
+     *           value overwrite the declared default, so simply declaring them visible is not enough - the
+     *           flag has to be set again afterwards, the way {@code Parts#registerPartEntry} force-hides
+     *           the placeholder entries.
+     */
+    private static void registerVisible(PartTemplate part, SlimeTinker plugin) {
+        part.register(plugin);
+        part.setHidden(false);
+    }
 }
-
-
-
