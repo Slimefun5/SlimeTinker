@@ -370,22 +370,22 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
             "&7&eChain > Iron > Diamond > Netherite &7as it levels."));
 
         // Modifications
-        wiki.set("MOD_REDSTONE_DUMMY", Arrays.asList(
+        wiki.set("MOD_REDSTONE_ENTRY", Arrays.asList(
             "&7Grants the holder &eHaste &7matching the",
             "&7modification's level."));
-        wiki.set("MOD_LAPIS_DUMMY", Arrays.asList(
+        wiki.set("MOD_LAPIS_ENTRY", Arrays.asList(
             "&7Drops bonus items from blocks and kills,",
             "&7calculated after Fortune/Looting. +10% per level."));
-        wiki.set("MOD_QUARTZ_DUMMY", Arrays.asList(
+        wiki.set("MOD_QUARTZ_ENTRY", Arrays.asList(
             "&7Deals bonus damage on top of Sharpness and",
             "&7similar enchants. +20% per level."));
-        wiki.set("MOD_DIAMOND_DUMMY", Arrays.asList(
+        wiki.set("MOD_DIAMOND_ENTRY", Arrays.asList(
             "&7Reflects a share of damage taken back at the",
             "&7attacker. 10% per level."));
-        wiki.set("MOD_EMERALD_DUMMY", Arrays.asList(
+        wiki.set("MOD_EMERALD_ENTRY", Arrays.asList(
             "&7Grants bonus tool EXP per action: +1 for tools,",
             "&7+10% for weapons."));
-        wiki.set("MOD_PLATE_DUMMY", Arrays.asList(
+        wiki.set("MOD_PLATE_ENTRY", Arrays.asList(
             "&7Chance to skip durability damage. 10% per level;",
             "&7at Level 10 the tool becomes unbreakable."));
     }

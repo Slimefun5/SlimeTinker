@@ -15,28 +15,28 @@ public final class Mods {
         throw new UnsupportedOperationException("Utility Class");
     }
 
-    public static final SlimefunItemStack MOD_REDSTONE_DUMMY = new BaseItem("MOD_REDSTONE_DUMMY", MaterialCompat.safe(XMaterial.REDSTONE));
+    public static final SlimefunItemStack MOD_REDSTONE_ENTRY = new BaseItem("MOD_REDSTONE_ENTRY", MaterialCompat.safe(XMaterial.REDSTONE));
 
-    public static final SlimefunItemStack MOD_LAPIS_DUMMY = new BaseItem("MOD_LAPIS_DUMMY", MaterialCompat.safe(XMaterial.LAPIS_LAZULI));
+    public static final SlimefunItemStack MOD_LAPIS_ENTRY = new BaseItem("MOD_LAPIS_ENTRY", MaterialCompat.safe(XMaterial.LAPIS_LAZULI));
 
-    public static final SlimefunItemStack MOD_QUARTZ_DUMMY = new BaseItem("MOD_QUARTZ_DUMMY", MaterialCompat.safe(XMaterial.QUARTZ));
+    public static final SlimefunItemStack MOD_QUARTZ_ENTRY = new BaseItem("MOD_QUARTZ_ENTRY", MaterialCompat.safe(XMaterial.QUARTZ));
 
-    public static final SlimefunItemStack MOD_DIAMOND_DUMMY = new BaseItem("MOD_DIAMOND_DUMMY", MaterialCompat.safe(XMaterial.DIAMOND));
+    public static final SlimefunItemStack MOD_DIAMOND_ENTRY = new BaseItem("MOD_DIAMOND_ENTRY", MaterialCompat.safe(XMaterial.DIAMOND));
 
-    public static final SlimefunItemStack MOD_EMERALD_DUMMY = new BaseItem("MOD_EMERALD_DUMMY", MaterialCompat.safe(XMaterial.EMERALD));
+    public static final SlimefunItemStack MOD_EMERALD_ENTRY = new BaseItem("MOD_EMERALD_ENTRY", MaterialCompat.safe(XMaterial.EMERALD));
 
 
-    public static final SlimefunItemStack MOD_PLATE_DUMMY = new BaseItem("MOD_PLATE_DUMMY", MaterialCompat.safe(XMaterial.OBSIDIAN));
+    public static final SlimefunItemStack MOD_PLATE_ENTRY = new BaseItem("MOD_PLATE_ENTRY", MaterialCompat.safe(XMaterial.OBSIDIAN));
 
 
     public static void set(SlimeTinker p) {
         // Dummies for the recipe book
-        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_REDSTONE_DUMMY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
-        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_LAPIS_DUMMY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
-        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_QUARTZ_DUMMY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
-        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_DIAMOND_DUMMY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
-        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_EMERALD_DUMMY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
-        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_PLATE_DUMMY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
+        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_REDSTONE_ENTRY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
+        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_LAPIS_ENTRY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
+        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_QUARTZ_ENTRY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
+        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_DIAMOND_ENTRY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
+        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_EMERALD_ENTRY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
+        new UnplaceableBlock(ItemGroups.MODIFICATIONS, MOD_PLATE_ENTRY, DummyModificationStation.TYPE, new ItemStack[9]).register(p);
     }
 }
 

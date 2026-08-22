@@ -1,14 +1,14 @@
 # Русские переводы предметов для SlimeTinker
 # Items not listed fall back to English.
-ARMOUR_BOOTS_DUMMY:
+ARMOUR_BOOTS_ENTRY:
   name: "&aБотинки Жестянщика"
-ARMOUR_CHESTPLATE_DUMMY:
+ARMOUR_CHESTPLATE_ENTRY:
   name: "&aНагрудник Жестянщика"
-ARMOUR_HELMET_DUMMY:
+ARMOUR_HELMET_ENTRY:
   name: "&aШлем Жестянщика"
 ARMOUR_INFO:
   name: "&3Броня Жестянщика: Информация"
-ARMOUR_LEGGINGS_DUMMY:
+ARMOUR_LEGGINGS_ENTRY:
   name: "&aПоножи Жестянщика"
 BLOCK_CAST_ADAMANTITE:
   name: "&7Adamanitite Блок"
@@ -216,19 +216,19 @@ INGOT_CAST_SEFIRITE:
   name: "&7Сефирит Слиток"
 INGOT_CAST_SMITHIUM:
   name: "&7Смитий Слиток"
-MOD_DIAMOND_DUMMY:
+MOD_DIAMOND_ENTRY:
   name: "&dМодификация: Алмаз"
-MOD_EMERALD_DUMMY:
+MOD_EMERALD_ENTRY:
   name: "&dМодификация: Изумруд"
-MOD_LAPIS_DUMMY:
+MOD_LAPIS_ENTRY:
   name: "&dМодификация: Лазурит"
 MOD_PLATE:
   name: "&dУсиленная пластина"
-MOD_PLATE_DUMMY:
+MOD_PLATE_ENTRY:
   name: "&dМодификация: Усиленная пластина"
-MOD_QUARTZ_DUMMY:
+MOD_QUARTZ_ENTRY:
   name: "&dМодификация: Кварц"
-MOD_REDSTONE_DUMMY:
+MOD_REDSTONE_ENTRY:
   name: "&dМодификация: Редстоун"
 NUGGET_CAST_ADAMANTITE:
   name: "&7Адамантит Самородок"
@@ -414,17 +414,17 @@ TINKERS_TABLE:
   name: "&3Стол инструментов Жестянщика"
 TINKERS_WORKBENCH:
   name: "&3Верстак Жестянщика"
-TOOL_AXE_DUMMY:
+TOOL_AXE_ENTRY:
   name: "&aТопор Жестянщика"
-TOOL_HOE_DUMMY:
+TOOL_HOE_ENTRY:
   name: "&aМотыга Жестянщика"
 TOOL_INFO:
   name: "&3Инструменты Жестянщика: Информация"
-TOOL_PICKAXE_DUMMY:
+TOOL_PICKAXE_ENTRY:
   name: "&aКирка Жестянщика"
-TOOL_SHOVEL_DUMMY:
+TOOL_SHOVEL_ENTRY:
   name: "&aЛопата Жестянщика"
-TOOL_SWORD_DUMMY:
+TOOL_SWORD_ENTRY:
   name: "&aМеч Жестянщика"
 
 IRON_LIQUID:

@@ -38,23 +38,23 @@ public final class Guide {
     public static final int LEVEL_ARMOUR_IRON = 6;
     public static final int LEVEL_ARMOUR_CHAIN = 3;
 
-    public static final SlimefunItemStack TOOL_SHOVEL_DUMMY = new BaseItem("TOOL_SHOVEL_DUMMY", MaterialCompat.safe(XMaterial.STONE_SHOVEL));
+    public static final SlimefunItemStack TOOL_SHOVEL_ENTRY = new BaseItem("TOOL_SHOVEL_ENTRY", MaterialCompat.safe(XMaterial.STONE_SHOVEL));
 
-    public static final SlimefunItemStack TOOL_PICKAXE_DUMMY = new BaseItem("TOOL_PICKAXE_DUMMY", MaterialCompat.safe(XMaterial.STONE_PICKAXE));
+    public static final SlimefunItemStack TOOL_PICKAXE_ENTRY = new BaseItem("TOOL_PICKAXE_ENTRY", MaterialCompat.safe(XMaterial.STONE_PICKAXE));
 
-    public static final SlimefunItemStack TOOL_AXE_DUMMY = new BaseItem("TOOL_AXE_DUMMY", MaterialCompat.safe(XMaterial.STONE_AXE));
+    public static final SlimefunItemStack TOOL_AXE_ENTRY = new BaseItem("TOOL_AXE_ENTRY", MaterialCompat.safe(XMaterial.STONE_AXE));
 
-    public static final SlimefunItemStack TOOL_HOE_DUMMY = new BaseItem("TOOL_HOE_DUMMY", MaterialCompat.safe(XMaterial.STONE_HOE));
+    public static final SlimefunItemStack TOOL_HOE_ENTRY = new BaseItem("TOOL_HOE_ENTRY", MaterialCompat.safe(XMaterial.STONE_HOE));
 
-    public static final SlimefunItemStack TOOL_SWORD_DUMMY = new BaseItem("TOOL_SWORD_DUMMY", MaterialCompat.safe(XMaterial.STONE_SWORD));
+    public static final SlimefunItemStack TOOL_SWORD_ENTRY = new BaseItem("TOOL_SWORD_ENTRY", MaterialCompat.safe(XMaterial.STONE_SWORD));
 
-    public static final SlimefunItemStack ARMOUR_HELMET_DUMMY = new BaseItem("ARMOUR_HELMET_DUMMY", MaterialCompat.safe(XMaterial.LEATHER_HELMET));
+    public static final SlimefunItemStack ARMOUR_HELMET_ENTRY = new BaseItem("ARMOUR_HELMET_ENTRY", MaterialCompat.safe(XMaterial.LEATHER_HELMET));
 
-    public static final SlimefunItemStack ARMOUR_CHESTPLATE_DUMMY = new BaseItem("ARMOUR_CHESTPLATE_DUMMY", MaterialCompat.safe(XMaterial.LEATHER_CHESTPLATE));
+    public static final SlimefunItemStack ARMOUR_CHESTPLATE_ENTRY = new BaseItem("ARMOUR_CHESTPLATE_ENTRY", MaterialCompat.safe(XMaterial.LEATHER_CHESTPLATE));
 
-    public static final SlimefunItemStack ARMOUR_LEGGINGS_DUMMY = new BaseItem("ARMOUR_LEGGINGS_DUMMY", MaterialCompat.safe(XMaterial.LEATHER_LEGGINGS));
+    public static final SlimefunItemStack ARMOUR_LEGGINGS_ENTRY = new BaseItem("ARMOUR_LEGGINGS_ENTRY", MaterialCompat.safe(XMaterial.LEATHER_LEGGINGS));
 
-    public static final SlimefunItemStack ARMOUR_BOOTS_DUMMY = new BaseItem("ARMOUR_BOOTS_DUMMY", MaterialCompat.safe(XMaterial.LEATHER_BOOTS));
+    public static final SlimefunItemStack ARMOUR_BOOTS_ENTRY = new BaseItem("ARMOUR_BOOTS_ENTRY", MaterialCompat.safe(XMaterial.LEATHER_BOOTS));
 
     public static final SlimefunItemStack TOOL_AXE = new BaseItem("TOOL_AXE", SkullTextures.PART_AXE_HEAD);
 
@@ -219,17 +219,17 @@ public final class Guide {
 
     public static void set(SlimeTinker p) {
         new UnplaceableBlock(ItemGroups.TOOLS, TOOL_INFO, DummyToolTable.TYPE, new ItemStack[9]).register(p);
-        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_SHOVEL_DUMMY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_SHOVEL_HEAD_DUMMY.item())).register(p);
-        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_PICKAXE_DUMMY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_PICKAXE_HEAD_DUMMY.item())).register(p);
-        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_AXE_DUMMY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_AXE_HEAD_DUMMY.item())).register(p);
-        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_HOE_DUMMY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_HOE_HEAD_DUMMY.item())).register(p);
-        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_SWORD_DUMMY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_SWORD_BLADE_DUMMY.item())).register(p);
+        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_SHOVEL_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_SHOVEL_HEAD_DUMMY.item())).register(p);
+        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_PICKAXE_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_PICKAXE_HEAD_DUMMY.item())).register(p);
+        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_AXE_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_AXE_HEAD_DUMMY.item())).register(p);
+        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_HOE_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_HOE_HEAD_DUMMY.item())).register(p);
+        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_SWORD_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_SWORD_BLADE_DUMMY.item())).register(p);
 
         new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_INFO, DummyArmourTable.TYPE, new ItemStack[9]).register(p);
-        new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_HELMET_DUMMY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_HELM_PLATE_DUMMY.item())).register(p);
-        new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_CHESTPLATE_DUMMY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_CHEST_PLATE_DUMMY.item())).register(p);
-        new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_LEGGINGS_DUMMY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_LEG_PLATE_DUMMY.item())).register(p);
-        new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_BOOTS_DUMMY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_BOOT_PLATE_DUMMY.item())).register(p);
+        new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_HELMET_ENTRY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_HELM_PLATE_DUMMY.item())).register(p);
+        new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_CHESTPLATE_ENTRY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_CHEST_PLATE_DUMMY.item())).register(p);
+        new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_LEGGINGS_ENTRY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_LEG_PLATE_DUMMY.item())).register(p);
+        new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_BOOTS_ENTRY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_BOOT_PLATE_DUMMY.item())).register(p);
 
         SHOVEL.register(p);
         PICKAXE.register(p);

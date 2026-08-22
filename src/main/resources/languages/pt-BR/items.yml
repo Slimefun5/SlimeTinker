@@ -1,14 +1,14 @@
 # Traduções de itens em português (Brasil) para SlimeTinker
 # Items not listed fall back to English.
-ARMOUR_BOOTS_DUMMY:
+ARMOUR_BOOTS_ENTRY:
   name: "&aBotas do Funileiro"
-ARMOUR_CHESTPLATE_DUMMY:
+ARMOUR_CHESTPLATE_ENTRY:
   name: "&aPeitoral do Funileiro"
-ARMOUR_HELMET_DUMMY:
+ARMOUR_HELMET_ENTRY:
   name: "&aCapacete do Funileiro"
 ARMOUR_INFO:
   name: "&3Armadura do Funileiro: Info"
-ARMOUR_LEGGINGS_DUMMY:
+ARMOUR_LEGGINGS_ENTRY:
   name: "&aCalças do Funileiro"
 BLOCK_CAST_ADAMANTITE:
   name: "&7Bloco de Adamanitite"
@@ -216,19 +216,19 @@ INGOT_CAST_SEFIRITE:
   name: "&7Lingote de Sefirita"
 INGOT_CAST_SMITHIUM:
   name: "&7Lingote de Smithium"
-MOD_DIAMOND_DUMMY:
+MOD_DIAMOND_ENTRY:
   name: "&dModificação: Diamante"
-MOD_EMERALD_DUMMY:
+MOD_EMERALD_ENTRY:
   name: "&dModificação: Esmeralda"
-MOD_LAPIS_DUMMY:
+MOD_LAPIS_ENTRY:
   name: "&dModificação: Lápis"
 MOD_PLATE:
   name: "&dPlaca Reforçada"
-MOD_PLATE_DUMMY:
+MOD_PLATE_ENTRY:
   name: "&dModificação: Placa Reforçada"
-MOD_QUARTZ_DUMMY:
+MOD_QUARTZ_ENTRY:
   name: "&dModificação: Quartzo"
-MOD_REDSTONE_DUMMY:
+MOD_REDSTONE_ENTRY:
   name: "&dModificação: Redstone"
 NUGGET_CAST_ADAMANTITE:
   name: "&7Pepita de Adamantita"
@@ -414,17 +414,17 @@ TINKERS_TABLE:
   name: "&3Mesa de Ferramentas do Funileiro"
 TINKERS_WORKBENCH:
   name: "&3Bancada do Funileiro"
-TOOL_AXE_DUMMY:
+TOOL_AXE_ENTRY:
   name: "&aMachado do Funileiro"
-TOOL_HOE_DUMMY:
+TOOL_HOE_ENTRY:
   name: "&aEnxada do Funileiro"
 TOOL_INFO:
   name: "&3Ferramentas do Funileiro: Info"
-TOOL_PICKAXE_DUMMY:
+TOOL_PICKAXE_ENTRY:
   name: "&aPicareta do Funileiro"
-TOOL_SHOVEL_DUMMY:
+TOOL_SHOVEL_ENTRY:
   name: "&aPá do Funileiro"
-TOOL_SWORD_DUMMY:
+TOOL_SWORD_ENTRY:
   name: "&aEspada do Funileiro"
 
 IRON_LIQUID:

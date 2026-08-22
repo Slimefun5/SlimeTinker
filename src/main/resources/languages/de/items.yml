@@ -1,14 +1,14 @@
 # Deutsche Item-Übersetzungen für SlimeTinker
 # Items not listed fall back to English.
-ARMOUR_BOOTS_DUMMY:
+ARMOUR_BOOTS_ENTRY:
   name: "&aStiefel des Tüftlers"
-ARMOUR_CHESTPLATE_DUMMY:
+ARMOUR_CHESTPLATE_ENTRY:
   name: "&aBrustpanzer des Tüftlers"
-ARMOUR_HELMET_DUMMY:
+ARMOUR_HELMET_ENTRY:
   name: "&aHelm des Tüftlers"
 ARMOUR_INFO:
   name: "&3Rüstung des Tüftlers: Info"
-ARMOUR_LEGGINGS_DUMMY:
+ARMOUR_LEGGINGS_ENTRY:
   name: "&aBeinschienen des Tüftlers"
 BLOCK_CAST_ADAMANTITE:
   name: "&7Adamanitite Block"
@@ -216,19 +216,19 @@ INGOT_CAST_SEFIRITE:
   name: "&7Sefirit Barren"
 INGOT_CAST_SMITHIUM:
   name: "&7Smithium Barren"
-MOD_DIAMOND_DUMMY:
+MOD_DIAMOND_ENTRY:
   name: "&dModifikation: Diamant"
-MOD_EMERALD_DUMMY:
+MOD_EMERALD_ENTRY:
   name: "&dModifikation: Smaragd"
-MOD_LAPIS_DUMMY:
+MOD_LAPIS_ENTRY:
   name: "&dModifikation: Lapis"
 MOD_PLATE:
   name: "&dVerstärkte Platte"
-MOD_PLATE_DUMMY:
+MOD_PLATE_ENTRY:
   name: "&dModifikation: Verstärkte Platte"
-MOD_QUARTZ_DUMMY:
+MOD_QUARTZ_ENTRY:
   name: "&dModifikation: Quarz"
-MOD_REDSTONE_DUMMY:
+MOD_REDSTONE_ENTRY:
   name: "&dModifikation: Redstone"
 NUGGET_CAST_ADAMANTITE:
   name: "&7Adamantit Nugget"
@@ -414,17 +414,17 @@ TINKERS_TABLE:
   name: "&3Werkzeugtisch des Tüftlers"
 TINKERS_WORKBENCH:
   name: "&3Werkbank des Tüftlers"
-TOOL_AXE_DUMMY:
+TOOL_AXE_ENTRY:
   name: "&aAxt des Tüftlers"
-TOOL_HOE_DUMMY:
+TOOL_HOE_ENTRY:
   name: "&aHacke des Tüftlers"
 TOOL_INFO:
   name: "&3Werkzeuge des Tüftlers: Info"
-TOOL_PICKAXE_DUMMY:
+TOOL_PICKAXE_ENTRY:
   name: "&aSpitzhacke des Tüftlers"
-TOOL_SHOVEL_DUMMY:
+TOOL_SHOVEL_ENTRY:
   name: "&aSchaufel des Tüftlers"
-TOOL_SWORD_DUMMY:
+TOOL_SWORD_ENTRY:
   name: "&aSchwert des Tüftlers"
 
 IRON_LIQUID:

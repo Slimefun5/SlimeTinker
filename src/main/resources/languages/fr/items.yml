@@ -1,14 +1,14 @@
 # Traductions françaises des objets pour SlimeTinker
 # Items not listed fall back to English.
-ARMOUR_BOOTS_DUMMY:
+ARMOUR_BOOTS_ENTRY:
   name: "&aBottes du Bricoleur"
-ARMOUR_CHESTPLATE_DUMMY:
+ARMOUR_CHESTPLATE_ENTRY:
   name: "&aPlastron du Bricoleur"
-ARMOUR_HELMET_DUMMY:
+ARMOUR_HELMET_ENTRY:
   name: "&aCasque du Bricoleur"
 ARMOUR_INFO:
   name: "&3Armure du Bricoleur: Info"
-ARMOUR_LEGGINGS_DUMMY:
+ARMOUR_LEGGINGS_ENTRY:
   name: "&aJambières du Bricoleur"
 BLOCK_CAST_ADAMANTITE:
   name: "&7Bloc d'Adamanitite"
@@ -216,19 +216,19 @@ INGOT_CAST_SEFIRITE:
   name: "&7Lingot de Séfirite"
 INGOT_CAST_SMITHIUM:
   name: "&7Lingot de Smithium"
-MOD_DIAMOND_DUMMY:
+MOD_DIAMOND_ENTRY:
   name: "&dModification: Diamant"
-MOD_EMERALD_DUMMY:
+MOD_EMERALD_ENTRY:
   name: "&dModification: Émeraude"
-MOD_LAPIS_DUMMY:
+MOD_LAPIS_ENTRY:
   name: "&dModification: Lapis"
 MOD_PLATE:
   name: "&dPlaque Renforcée"
-MOD_PLATE_DUMMY:
+MOD_PLATE_ENTRY:
   name: "&dModification: Plaque Renforcée"
-MOD_QUARTZ_DUMMY:
+MOD_QUARTZ_ENTRY:
   name: "&dModification: Quartz"
-MOD_REDSTONE_DUMMY:
+MOD_REDSTONE_ENTRY:
   name: "&dModification: Redstone"
 NUGGET_CAST_ADAMANTITE:
   name: "&7Pépite d'Adamantite"
@@ -414,17 +414,17 @@ TINKERS_TABLE:
   name: "&3Table à Outils du Bricoleur"
 TINKERS_WORKBENCH:
   name: "&3Établi du Bricoleur"
-TOOL_AXE_DUMMY:
+TOOL_AXE_ENTRY:
   name: "&aHache du Bricoleur"
-TOOL_HOE_DUMMY:
+TOOL_HOE_ENTRY:
   name: "&aHoue du Bricoleur"
 TOOL_INFO:
   name: "&3Outils du Bricoleur: Info"
-TOOL_PICKAXE_DUMMY:
+TOOL_PICKAXE_ENTRY:
   name: "&aPioche du Bricoleur"
-TOOL_SHOVEL_DUMMY:
+TOOL_SHOVEL_ENTRY:
   name: "&aPelle du Bricoleur"
-TOOL_SWORD_DUMMY:
+TOOL_SWORD_ENTRY:
   name: "&aÉpée du Bricoleur"
 
 IRON_LIQUID:

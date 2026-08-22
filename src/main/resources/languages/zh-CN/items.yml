@@ -1,14 +1,14 @@
 # SlimeTinker 物品中文翻译
 # Items not listed fall back to English.
-ARMOUR_BOOTS_DUMMY:
+ARMOUR_BOOTS_ENTRY:
   name: "&a工匠靴子"
-ARMOUR_CHESTPLATE_DUMMY:
+ARMOUR_CHESTPLATE_ENTRY:
   name: "&a工匠胸甲"
-ARMOUR_HELMET_DUMMY:
+ARMOUR_HELMET_ENTRY:
   name: "&a工匠头盔"
 ARMOUR_INFO:
   name: "&3工匠盔甲：信息"
-ARMOUR_LEGGINGS_DUMMY:
+ARMOUR_LEGGINGS_ENTRY:
   name: "&a工匠护腿"
 BLOCK_CAST_ADAMANTITE:
   name: "&7Adamanitite块"
@@ -216,19 +216,19 @@ INGOT_CAST_SEFIRITE:
   name: "&7塞菲石锭"
 INGOT_CAST_SMITHIUM:
   name: "&7史密斯铟锭"
-MOD_DIAMOND_DUMMY:
+MOD_DIAMOND_ENTRY:
   name: "&d改造：钻石"
-MOD_EMERALD_DUMMY:
+MOD_EMERALD_ENTRY:
   name: "&d改造：绿宝石"
-MOD_LAPIS_DUMMY:
+MOD_LAPIS_ENTRY:
   name: "&d改造：青金石"
 MOD_PLATE:
   name: "&d强化板"
-MOD_PLATE_DUMMY:
+MOD_PLATE_ENTRY:
   name: "&d改造：强化板"
-MOD_QUARTZ_DUMMY:
+MOD_QUARTZ_ENTRY:
   name: "&d改造：石英"
-MOD_REDSTONE_DUMMY:
+MOD_REDSTONE_ENTRY:
   name: "&d改造：红石"
 NUGGET_CAST_ADAMANTITE:
   name: "&7精金粒"
@@ -414,17 +414,17 @@ TINKERS_TABLE:
   name: "&3工匠工具台"
 TINKERS_WORKBENCH:
   name: "&3工匠工作台"
-TOOL_AXE_DUMMY:
+TOOL_AXE_ENTRY:
   name: "&a工匠斧"
-TOOL_HOE_DUMMY:
+TOOL_HOE_ENTRY:
   name: "&a工匠锄"
 TOOL_INFO:
   name: "&3工匠工具：信息"
-TOOL_PICKAXE_DUMMY:
+TOOL_PICKAXE_ENTRY:
   name: "&a工匠镐"
-TOOL_SHOVEL_DUMMY:
+TOOL_SHOVEL_ENTRY:
   name: "&a工匠锹"
-TOOL_SWORD_DUMMY:
+TOOL_SWORD_ENTRY:
   name: "&a工匠剑"
 
 IRON_LIQUID:

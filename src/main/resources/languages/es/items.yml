@@ -1,14 +1,14 @@
 # Traducciones de objetos al español para SlimeTinker
 # Items not listed fall back to English.
-ARMOUR_BOOTS_DUMMY:
+ARMOUR_BOOTS_ENTRY:
   name: "&aBotas del Manitas"
-ARMOUR_CHESTPLATE_DUMMY:
+ARMOUR_CHESTPLATE_ENTRY:
   name: "&aPeto del Manitas"
-ARMOUR_HELMET_DUMMY:
+ARMOUR_HELMET_ENTRY:
   name: "&aCasco del Manitas"
 ARMOUR_INFO:
   name: "&3Armadura del Manitas: Info"
-ARMOUR_LEGGINGS_DUMMY:
+ARMOUR_LEGGINGS_ENTRY:
   name: "&aGrebas del Manitas"
 BLOCK_CAST_ADAMANTITE:
   name: "&7Bloque de Adamanitite"
@@ -216,19 +216,19 @@ INGOT_CAST_SEFIRITE:
   name: "&7Lingote de Sefirita"
 INGOT_CAST_SMITHIUM:
   name: "&7Lingote de Smithio"
-MOD_DIAMOND_DUMMY:
+MOD_DIAMOND_ENTRY:
   name: "&dModificación: Diamante"
-MOD_EMERALD_DUMMY:
+MOD_EMERALD_ENTRY:
   name: "&dModificación: Esmeralda"
-MOD_LAPIS_DUMMY:
+MOD_LAPIS_ENTRY:
   name: "&dModificación: Lapislázuli"
 MOD_PLATE:
   name: "&dPlaca Reforzada"
-MOD_PLATE_DUMMY:
+MOD_PLATE_ENTRY:
   name: "&dModificación: Placa Reforzada"
-MOD_QUARTZ_DUMMY:
+MOD_QUARTZ_ENTRY:
   name: "&dModificación: Cuarzo"
-MOD_REDSTONE_DUMMY:
+MOD_REDSTONE_ENTRY:
   name: "&dModificación: Redstone"
 NUGGET_CAST_ADAMANTITE:
   name: "&7Pepita de Adamantita"
@@ -414,17 +414,17 @@ TINKERS_TABLE:
   name: "&3Mesa de Herramientas del Manitas"
 TINKERS_WORKBENCH:
   name: "&3Banco de trabajo del Manitas"
-TOOL_AXE_DUMMY:
+TOOL_AXE_ENTRY:
   name: "&aHacha del Manitas"
-TOOL_HOE_DUMMY:
+TOOL_HOE_ENTRY:
   name: "&aAzada del Manitas"
 TOOL_INFO:
   name: "&3Herramientas del Manitas: Info"
-TOOL_PICKAXE_DUMMY:
+TOOL_PICKAXE_ENTRY:
   name: "&aPico del Manitas"
-TOOL_SHOVEL_DUMMY:
+TOOL_SHOVEL_ENTRY:
   name: "&aPala del Manitas"
-TOOL_SWORD_DUMMY:
+TOOL_SWORD_ENTRY:
   name: "&aEspada del Manitas"
 
 IRON_LIQUID:

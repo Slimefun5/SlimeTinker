@@ -1,6 +1,6 @@
 # English item translations for SlimeTinker
 # Auto-generated block-lore migration (see .superpowers/sdd/lore-migration-recipe.md)
-ARMOUR_BOOTS_DUMMY:
+ARMOUR_BOOTS_ENTRY:
   name: "&fTinker's Boots"
   type:
   - "&7&oArmor"
@@ -11,7 +11,7 @@ ARMOUR_BOOTS_DUMMY:
   - "&7When broken it's unequipped."
   - "&7If there's no room in your inventory"
   - "&7then the item drops on the floor"
-ARMOUR_CHESTPLATE_DUMMY:
+ARMOUR_CHESTPLATE_ENTRY:
   name: "&fTinker's Chestplate"
   type:
   - "&7&oArmor"
@@ -22,7 +22,7 @@ ARMOUR_CHESTPLATE_DUMMY:
   - "&7When broken it's unequipped."
   - "&7If there's no room in your inventory"
   - "&7then the item drops on the floor"
-ARMOUR_HELMET_DUMMY:
+ARMOUR_HELMET_ENTRY:
   name: "&fTinker's Helmet"
   type:
   - "&7&oArmor"
@@ -41,7 +41,7 @@ ARMOUR_INFO:
   - "&7Tinker's armour starts at Leather. As you"
   - "&7level the pieces up, they will promote"
   - "&7through Chain > Iron > Diamond > Netherite."
-ARMOUR_LEGGINGS_DUMMY:
+ARMOUR_LEGGINGS_ENTRY:
   name: "&fTinker's Leggings"
   type:
   - "&7&oArmor"
@@ -740,7 +740,7 @@ INGOT_CAST_SMITHIUM:
   description:
   - "&7A straight-forward metal with various uses"
   - "&7in core industry tasks."
-MOD_DIAMOND_DUMMY:
+MOD_DIAMOND_ENTRY:
   name: "&fModification: Diamond"
   type:
   - "&7&oComponent"
@@ -748,7 +748,7 @@ MOD_DIAMOND_DUMMY:
   - "&7When applied to a tool, the holder"
   - "&7has a chance to reflect damage taken"
   - "&7back on to the attacker. 10% per level"
-MOD_EMERALD_DUMMY:
+MOD_EMERALD_ENTRY:
   name: "&fModification: Emerald"
   type:
   - "&7&oComponent"
@@ -757,7 +757,7 @@ MOD_EMERALD_DUMMY:
   - "&7will gain bonus tool EXP per action"
   - "&7undertaken. +1 exp for tools and 10%"
   - "&7for weapons."
-MOD_LAPIS_DUMMY:
+MOD_LAPIS_ENTRY:
   name: "&fModification: Lapis"
   type:
   - "&7&oComponent"
@@ -773,7 +773,7 @@ MOD_PLATE:
   description:
   - "&7A modification for tools that gives."
   - "&7a chance to ignore tool damage."
-MOD_PLATE_DUMMY:
+MOD_PLATE_ENTRY:
   name: "&fModification: Reinforced Plate"
   type:
   - "&7&oComponent"
@@ -781,7 +781,7 @@ MOD_PLATE_DUMMY:
   - "&7A tool with this modification has a"
   - "&7chance to not take durability damage. 10%"
   - "&7per level - at Level 10 tools are unbreakable"
-MOD_QUARTZ_DUMMY:
+MOD_QUARTZ_ENTRY:
   name: "&fModification: Quartz"
   type:
   - "&7&oComponent"
@@ -790,7 +790,7 @@ MOD_QUARTZ_DUMMY:
   - "&7will deal bonus damage. Calculated after"
   - "&7sharpness or other damage enchants."
   - "&720% per level"
-MOD_REDSTONE_DUMMY:
+MOD_REDSTONE_ENTRY:
   name: "&fModification: Redstone"
   type:
   - "&7&oComponent"
@@ -1380,7 +1380,7 @@ TINKERS_WORKBENCH:
   - "&7Enhanced Crafting Table."
   usage:
   - "&eRight Click&7 to open the interface."
-TOOL_AXE_DUMMY:
+TOOL_AXE_ENTRY:
   name: "&fTinker's Axe"
   type:
   - "&7&oTool"
@@ -1388,7 +1388,7 @@ TOOL_AXE_DUMMY:
   - "&7An axe formed of three parts."
   - "&7Tinker's tools can level up and be"
   - "&7given extra properties and modifiers."
-TOOL_HOE_DUMMY:
+TOOL_HOE_ENTRY:
   name: "&fTinker's Hoe"
   type:
   - "&7&oTool"
@@ -1404,7 +1404,7 @@ TOOL_INFO:
   - "&7Tinker's tools start at Stone. As you"
   - "&7level the tools up, they will promote"
   - "&7through Gold > Iron > Diamond > Netherite."
-TOOL_PICKAXE_DUMMY:
+TOOL_PICKAXE_ENTRY:
   name: "&fTinker's Pickaxe"
   type:
   - "&7&oTool"
@@ -1412,7 +1412,7 @@ TOOL_PICKAXE_DUMMY:
   - "&7A pickaxe formed of three parts."
   - "&7Tinker's tools can level up and be"
   - "&7given extra properties and modifiers."
-TOOL_SHOVEL_DUMMY:
+TOOL_SHOVEL_ENTRY:
   name: "&fTinker's Shovel"
   type:
   - "&7&oTool"
@@ -1420,7 +1420,7 @@ TOOL_SHOVEL_DUMMY:
   - "&7A shovel formed of three parts."
   - "&7Tinker's tools can level up and be"
   - "&7given extra properties and modifiers."
-TOOL_SWORD_DUMMY:
+TOOL_SWORD_ENTRY:
   name: "&fTinker's Sword"
   type:
   - "&7&oTool"

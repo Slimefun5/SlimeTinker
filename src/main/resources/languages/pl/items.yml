@@ -1,14 +1,14 @@
 # Polskie tłumaczenia przedmiotów dla SlimeTinker
 # Items not listed fall back to English.
-ARMOUR_BOOTS_DUMMY:
+ARMOUR_BOOTS_ENTRY:
   name: "&aButy Majsterkowicza"
-ARMOUR_CHESTPLATE_DUMMY:
+ARMOUR_CHESTPLATE_ENTRY:
   name: "&aNapierśnik Majsterkowicza"
-ARMOUR_HELMET_DUMMY:
+ARMOUR_HELMET_ENTRY:
   name: "&aHełm Majsterkowicza"
 ARMOUR_INFO:
   name: "&3Zbroja Majsterkowicza: Informacje"
-ARMOUR_LEGGINGS_DUMMY:
+ARMOUR_LEGGINGS_ENTRY:
   name: "&aNogawice Majsterkowicza"
 BLOCK_CAST_ADAMANTITE:
   name: "&7Adamanitite Blok"
@@ -216,19 +216,19 @@ INGOT_CAST_SEFIRITE:
   name: "&7Sefiryt Sztabka"
 INGOT_CAST_SMITHIUM:
   name: "&7Smithium Sztabka"
-MOD_DIAMOND_DUMMY:
+MOD_DIAMOND_ENTRY:
   name: "&dModyfikacja: Diament"
-MOD_EMERALD_DUMMY:
+MOD_EMERALD_ENTRY:
   name: "&dModyfikacja: Szmaragd"
-MOD_LAPIS_DUMMY:
+MOD_LAPIS_ENTRY:
   name: "&dModyfikacja: Lazuryt"
 MOD_PLATE:
   name: "&dWzmocniona płyta"
-MOD_PLATE_DUMMY:
+MOD_PLATE_ENTRY:
   name: "&dModyfikacja: Wzmocniona płyta"
-MOD_QUARTZ_DUMMY:
+MOD_QUARTZ_ENTRY:
   name: "&dModyfikacja: Kwarc"
-MOD_REDSTONE_DUMMY:
+MOD_REDSTONE_ENTRY:
   name: "&dModyfikacja: Czerwienit"
 NUGGET_CAST_ADAMANTITE:
   name: "&7Adamantyt Bryłka"
@@ -414,17 +414,17 @@ TINKERS_TABLE:
   name: "&3Stół narzędziowy Majsterkowicza"
 TINKERS_WORKBENCH:
   name: "&3Stół roboczy Majsterkowicza"
-TOOL_AXE_DUMMY:
+TOOL_AXE_ENTRY:
   name: "&aTopór Majsterkowicza"
-TOOL_HOE_DUMMY:
+TOOL_HOE_ENTRY:
   name: "&aMotyka Majsterkowicza"
 TOOL_INFO:
   name: "&3Narzędzia Majsterkowicza: Informacje"
-TOOL_PICKAXE_DUMMY:
+TOOL_PICKAXE_ENTRY:
   name: "&aKilof Majsterkowicza"
-TOOL_SHOVEL_DUMMY:
+TOOL_SHOVEL_ENTRY:
   name: "&aŁopata Majsterkowicza"
-TOOL_SWORD_DUMMY:
+TOOL_SWORD_ENTRY:
   name: "&aMiecz Majsterkowicza"
 
 IRON_LIQUID:
