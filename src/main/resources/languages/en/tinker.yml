@@ -150,3 +150,5 @@ modifiers:
   DIAMOND: 'Diamond'
   EMERALD: 'Emerald'
   MOD_PLATE: 'Mod Plate'
+messages:
+  smeltery-incomplete: 'This smeltery is not finished - complete the vertical 3x3 with 6 Seared Brick Blocks, a Seared Tank and a Spout.'

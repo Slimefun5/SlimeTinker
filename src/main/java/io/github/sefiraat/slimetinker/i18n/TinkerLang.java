@@ -11,6 +11,7 @@ import javax.annotation.Nullable;
 
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.configuration.file.YamlConfiguration;
+import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
@@ -132,5 +133,31 @@ public final class TinkerLang {
         }
 
         return ThemeUtils.toTitleCase(id);
+    }
+
+    /**
+     * A player-facing message from the {@code messages} category, in {@code p}'s own language.
+     *
+     * @implNote Falls back to the bundled English baseline, then to the key itself, so a message that is
+     *           only translated for some languages still reads as a sentence rather than going missing.
+     *
+     * @param p
+     *            The player the message is for
+     * @param key
+     *            The key under {@code messages}
+     *
+     * @return The message in the player's language
+     */
+    @Nonnull
+    public static String message(@Nonnull Player p, @Nonnull String key) {
+        Language language = Slimefun.getLocalization().getLanguage(p);
+        String translated = lookup("messages", key, language == null ? null : language.getId());
+
+        if (translated != null) {
+            return translated;
+        }
+
+        String english = lookup("messages", key, "en");
+        return english != null ? english : key;
     }
 }

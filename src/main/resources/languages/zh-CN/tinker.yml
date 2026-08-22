@@ -392,3 +392,5 @@ traits:
   "Wizard Robes": "巫师长袍"
   "Works": "可用"
   "Yvaine": "伊万妮"
+messages:
+  smeltery-incomplete: '这个冶炼厂尚未建成 - 请用 6 个灼烧砖块、1 个灼烧储罐和 1 个灼烧出水口补全垂直的 3x3 结构。'

@@ -392,3 +392,5 @@ traits:
   "Wizard Robes": "Vesti da Mago"
   "Works": "Funziona"
   "Yvaine": "Yvaine"
+messages:
+  smeltery-incomplete: 'Questa fonderia non è completa - completa il 3x3 verticale con 6 Blocchi di Mattoni Cotti, un Serbatoio Cotto e un Beccuccio Cotto.'

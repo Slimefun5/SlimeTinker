@@ -392,3 +392,5 @@ traits:
   "Wizard Robes": "Tovenaarsgewaad"
   "Works": "Werkt"
   "Yvaine": "Yvaine"
+messages:
+  smeltery-incomplete: 'Deze smelterij is niet af - maak het verticale 3x3 compleet met 6 Gebakken Baksteenblokken, een Gebakken Tank en een Gebakken Tuit.'

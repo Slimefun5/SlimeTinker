@@ -392,3 +392,5 @@ traits:
   "Wizard Robes": "Robes de sorcier"
   "Works": "Fonctionne"
   "Yvaine": "Yvaine"
+messages:
+  smeltery-incomplete: 'Cette fonderie n''est pas terminée - complétez le 3x3 vertical avec 6 Blocs de Brique Cuite, un Réservoir Cuit et un Bec Cuit.'

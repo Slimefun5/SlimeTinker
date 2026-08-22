@@ -396,3 +396,5 @@ traits:
   "Wizard Robes": "Zaubererrobe"
   "Works": "Funktioniert"
   "Yvaine": "Yvaine"
+messages:
+  smeltery-incomplete: 'Diese Schmelzerei ist nicht fertig - vervollständige das senkrechte 3x3 mit 6 Gebrannten Ziegelblöcken, einem Gebrannten Tank und einem Gebrannten Auslauf.'

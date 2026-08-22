@@ -392,3 +392,5 @@ traits:
   "Wizard Robes": "Túnicas de Mago"
   "Works": "Funciona"
   "Yvaine": "Yvaine"
+messages:
+  smeltery-incomplete: 'Esta fundição não está concluída - complete o 3x3 vertical com 6 Blocos de Tijolo Queimado, um Tanque Queimado e um Bico Queimado.'

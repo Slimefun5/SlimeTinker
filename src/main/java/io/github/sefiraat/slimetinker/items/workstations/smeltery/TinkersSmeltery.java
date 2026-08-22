@@ -1,6 +1,7 @@
 package io.github.sefiraat.slimetinker.items.workstations.smeltery;
 
 import io.github.mooy1.infinitylib.machines.TickingMenuBlock;
+import io.github.sefiraat.slimetinker.i18n.TinkerLang;
 import io.github.sefiraat.slimetinker.items.Materials;
 import io.github.sefiraat.slimetinker.utils.GUIItems;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
@@ -127,6 +128,11 @@ public class TinkersSmeltery extends TickingMenuBlock {
     @Override
     protected boolean canOpen(Block b, Player p) {
         return isComplete(b);
+    }
+
+    @Override
+    protected String getAccessDenialMessage(Block b, Player p) {
+        return ThemeUtils.WARNING + TinkerLang.message(p, "smeltery-incomplete");
     }
 
     /**

@@ -392,3 +392,5 @@ traits:
   "Wizard Robes": "Túnicas de mago"
   "Works": "Funciona"
   "Yvaine": "Yvaine"
+messages:
+  smeltery-incomplete: 'Esta fundición no está terminada - completa el 3x3 vertical con 6 Bloques de Ladrillo Cocido, un Tanque Cocido y un Vertedor Cocido.'

@@ -392,3 +392,5 @@ traits:
   "Wizard Robes": "Szaty Czarodzieja"
   "Works": "Działa"
   "Yvaine": "Yvaine"
+messages:
+  smeltery-incomplete: 'Ta odlewnia nie jest ukończona - uzupełnij pionowe 3x3 o 6 Bloków wypalonej cegły, Wypalony zbiornik i Wypalany wylew.'
