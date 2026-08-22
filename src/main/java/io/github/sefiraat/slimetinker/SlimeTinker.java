@@ -25,7 +25,6 @@ import io.github.sefiraat.slimetinker.items.Dies;
 import io.github.sefiraat.slimetinker.items.Guide;
 import io.github.sefiraat.slimetinker.items.Materials;
 import io.github.sefiraat.slimetinker.items.Mods;
-import io.github.sefiraat.slimetinker.items.PartVariants;
 import io.github.sefiraat.slimetinker.items.Parts;
 import io.github.sefiraat.slimetinker.items.Workstations;
 import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterialManager;
@@ -87,9 +86,6 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
 
         traitManager = new TraitManager();
         tinkerMaterialManager = new TinkerMaterialManager();
-
-        // After the material manager: which materials can become which part depends on their traits.
-        PartVariants.set(this);
 
         getServer().getPluginManager().registerEvents(new GuideCategoryListener(), this);
 
