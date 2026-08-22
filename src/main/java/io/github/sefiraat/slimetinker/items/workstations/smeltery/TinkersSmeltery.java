@@ -144,22 +144,62 @@ public class TinkersSmeltery extends TickingMenuBlock {
      * recognise it the way they recognise a {@link MultiBlock} machine - without giving up the menu and tank
      * that a {@code MultiBlockMachine} could not have.
      *
-     * @implNote The canonical layout puts the tank directly above the controller and the spout directly
-     *           below it. Core matches a fixed layout whereas {@link #isComplete(Block)} only counts blocks,
-     *           so a smeltery built with the tank or spout in another cell still opens but is not announced.
-     *           Core's interact listener is registered before its multiblock listener, which is what lets the
+     * @implNote Core's interact listener is registered before its multiblock listener, which is what lets the
      *           menu still open even though a structure match cancels the interact event.
      */
     public void registerStructure() {
-        Material bricks = Materials.SEARED_BRICK_BLOCK.getType();
+        Slimefun.getRegistry().getMultiBlocks().add(new SmelteryStructure(this));
+    }
 
-        Material[] structure = {
-            bricks, Materials.SEARED_TANK.getType(), bricks,
-            bricks, Materials.SMELTERY_CONTROLLER.getType(), bricks,
-            bricks, Materials.SPOUT.getType(), bricks
-        };
+    /**
+     * The smeltery's structure as core sees it, validated by {@link TinkersSmeltery#isComplete(Block)} rather
+     * than by a fixed arrangement of cells.
+     *
+     * @implNote Core matches a literal cell layout whereas the smeltery only counts blocks, so its tank and
+     *           spout may sit in any ring cell. Deferring both matching methods to {@code isComplete} keeps
+     *           ONE registration where enumerating layouts would need 29, and leaves core and the machine
+     *           with a single shared definition of "built". The layout handed to {@code super} is never
+     *           matched against, but it must still name every component {@link Material} because
+     *           {@code MultiBlockListener} pre-filters candidate structures on it.
+     */
+    private static final class SmelteryStructure extends MultiBlock {
 
-        Slimefun.getRegistry().getMultiBlocks().add(new MultiBlock(this, structure, BlockFace.SELF));
+        private SmelteryStructure(TinkersSmeltery smeltery) {
+            super(smeltery, componentMaterials(), BlockFace.SELF);
+        }
+
+        private static Material[] componentMaterials() {
+            Material bricks = Materials.SEARED_BRICK_BLOCK.getType();
+
+            return new Material[]{
+                bricks, Materials.SEARED_TANK.getType(), bricks,
+                bricks, Materials.SMELTERY_CONTROLLER.getType(), bricks,
+                bricks, Materials.SPOUT.getType(), bricks
+            };
+        }
+
+        @Override
+        public boolean matches(@Nonnull Block center) {
+            return isComplete(center);
+        }
+
+        @Override
+        public boolean containsBlock(@Nonnull Block center, @Nonnull Block placed) {
+            if (!placed.getWorld().equals(center.getWorld())) {
+                return false;
+            }
+
+            int offsetX = placed.getX() - center.getX();
+            int offsetY = placed.getY() - center.getY();
+            int offsetZ = placed.getZ() - center.getZ();
+
+            if (Math.abs(offsetX) > 1 || Math.abs(offsetY) > 1 || Math.abs(offsetZ) > 1) {
+                return false;
+            }
+
+            // The structure occupies a single vertical plane, so one horizontal offset is always zero.
+            return offsetX == 0 || offsetZ == 0;
+        }
     }
 
     /**
