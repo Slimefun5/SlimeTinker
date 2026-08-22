@@ -104,6 +104,25 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
         // Assembled tools/armour/parts are named+lored at runtime from their PDC, so they route through
         // core's per-viewer packet layer via an item-aware resolver (replaces the old re-skin listener).
         Slimefun.getItemTranslationService().registerResolver(new TinkerItemResolver());
+
+        // TEMPORARY diagnostic: does the PDC layer round-trip at all on this server version?
+        try {
+            org.bukkit.inventory.ItemStack probe = new org.bukkit.inventory.ItemStack(org.bukkit.Material.PAPER);
+            org.bukkit.inventory.meta.ItemMeta pm = probe.getItemMeta();
+            io.github.sefiraat.slimetinker.compat.Pdc.setString(pm, io.github.sefiraat.slimetinker.utils.Keys.PART_CLASS.toString(), "HEAD");
+            probe.setItemMeta(pm);
+            getLogger().warning("[diag] plain-stack roundtrip = "
+                + io.github.sefiraat.slimetinker.compat.Pdc.getString(probe.getItemMeta(), io.github.sefiraat.slimetinker.utils.Keys.PART_CLASS.toString()));
+
+            org.bukkit.inventory.ItemStack real = io.github.sefiraat.slimetinker.items.Parts.TOOL_ROD.getStack(
+                io.github.sefiraat.slimetinker.utils.Ids.IRON, io.github.sefiraat.slimetinker.utils.Ids.ROD, null,
+                net.md_5.bungee.api.ChatColor.WHITE);
+            getLogger().warning("[diag] getStack partClass="
+                + io.github.sefiraat.slimetinker.utils.ItemUtils.getPartClass(real)
+                + " material=" + io.github.sefiraat.slimetinker.utils.ItemUtils.getPartMaterial(real));
+        } catch (Throwable t) {
+            getLogger().warning("[diag] threw: " + t);
+        }
         registerWiki();
     }
 
