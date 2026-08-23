@@ -134,20 +134,34 @@ public final class Parts {
         registerPartEntry(p, PART_REPAIR_KIT_DUMMY, DummySmeltery.TYPE, ItemUtils.getMiddleOnlyRecipe(Casts.CAST_REPAIRKIT.item()), Ids.REPAIR, null);
 
         // Real ones, not in recipe book due to the variations
-        SHOVEL_HEAD.register(p);
-        PICKAXE_HEAD.register(p);
-        AXE_HEAD.register(p);
-        HOE_HEAD.register(p);
-        SWORD_BLADE.register(p);
-        TOOL_ROD.register(p);
+        registerTemplateOnly(p, SHOVEL_HEAD);
+        registerTemplateOnly(p, PICKAXE_HEAD);
+        registerTemplateOnly(p, AXE_HEAD);
+        registerTemplateOnly(p, HOE_HEAD);
+        registerTemplateOnly(p, SWORD_BLADE);
+        registerTemplateOnly(p, TOOL_ROD);
 
-        REPAIR_KIT.register(p);
+        registerTemplateOnly(p, REPAIR_KIT);
 
-        HELM_PLATE.register(p);
-        CHEST_PLATE.register(p);
-        LEG_PLATE.register(p);
-        BOOT_PLATE.register(p);
+        registerTemplateOnly(p, HELM_PLATE);
+        registerTemplateOnly(p, CHEST_PLATE);
+        registerTemplateOnly(p, LEG_PLATE);
+        registerTemplateOnly(p, BOOT_PLATE);
 
+    }
+
+    /**
+     * Registers a material-less shape template and keeps it out of the guide.
+     *
+     * @implNote These carry no material in their PDC, so no workstation will accept one - they exist only so
+     *           that parts already in player inventories keep resolving. Guide search filters on the item's
+     *           own hidden flag rather than the dummy item group they sit in, so without this they are both
+     *           reachable and useless. Hidden after registering because a server that booted earlier has
+     *           {@code hide-in-guide: false} persisted, which {@code SlimefunItem#register} would let win.
+     */
+    private static void registerTemplateOnly(SlimeTinker plugin, UnplaceableBlock template) {
+        template.register(plugin);
+        template.setHidden(true);
     }
 
     /**
