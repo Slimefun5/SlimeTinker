@@ -129,7 +129,7 @@ part-types:
   LINKS: 'Mail Links'
   REPAIR: 'Repair Kit'
 lore:
-  part_desc_1: 'A tool part. Useless on it''s own but can'
+  part_desc_1: 'A tool part. Useless on its own but can'
   part_desc_2: 'be made into something greater at the'
   part_desc_3: 'Tinker''s table.'
   part_material: 'Material : '

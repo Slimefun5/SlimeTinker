@@ -192,7 +192,7 @@ public final class ItemUtils {
         List<String> lore = new ArrayList<>();
 
         lore.add("");
-        lore.add(ThemeUtils.PASSIVE + loreText("part_desc_1", "A tool part. Useless on it's own but can", language));
+        lore.add(ThemeUtils.PASSIVE + loreText("part_desc_1", "A tool part. Useless on its own but can", language));
         lore.add(ThemeUtils.PASSIVE + loreText("part_desc_2", "be made into something greater at the", language));
         lore.add(ThemeUtils.PASSIVE + loreText("part_desc_3", "Tinker's table.", language));
         lore.add("");
