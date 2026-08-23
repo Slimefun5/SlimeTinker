@@ -128,6 +128,8 @@ part-types:
   LINKS: Ogniwa kolczugi
   REPAIR: Zestaw naprawczy
 lore:
+  added_by: 'Dodane przez'
+  sponsored_by: 'Sponsorowane przez'
   head_abbrev: 'G: '
   binder_abbrev: 'S: '
   rod_abbrev: 'T: '

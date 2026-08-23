@@ -128,6 +128,8 @@ part-types:
   LINKS: Mailles
   REPAIR: Kit de réparation
 lore:
+  added_by: 'Ajoute par'
+  sponsored_by: 'Sponsorise par'
   head_abbrev: 'T: '
   binder_abbrev: 'L: '
   rod_abbrev: 'M: '

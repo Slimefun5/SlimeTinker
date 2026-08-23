@@ -129,6 +129,8 @@ part-types:
   LINKS: 'Mail Links'
   REPAIR: 'Repair Kit'
 lore:
+  added_by: 'Added by'
+  sponsored_by: 'Sponsored by'
   part_desc_1: 'A tool part. Useless on its own but can'
   part_desc_2: 'be made into something greater at the'
   part_desc_3: 'Tinker''s table.'

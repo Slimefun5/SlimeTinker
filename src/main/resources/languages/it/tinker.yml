@@ -128,6 +128,8 @@ part-types:
   LINKS: Maglie di Cotta
   REPAIR: Kit di Riparazione
 lore:
+  added_by: 'Aggiunto da'
+  sponsored_by: 'Sponsorizzato da'
   head_abbrev: 'T: '
   binder_abbrev: 'L: '
   rod_abbrev: 'A: '

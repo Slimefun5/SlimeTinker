@@ -128,6 +128,8 @@ part-types:
   LINKS: 锁甲环
   REPAIR: 修复工具包
 lore:
+  added_by: '添加者'
+  sponsored_by: '赞助商'
   head_abbrev: '头: '
   binder_abbrev: '黏: '
   rod_abbrev: '杆: '

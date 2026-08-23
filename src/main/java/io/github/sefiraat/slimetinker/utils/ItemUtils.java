@@ -146,7 +146,7 @@ public final class ItemUtils {
 
     /** A translated lore label, falling back to the given English default (so English is unchanged). */
     @Nonnull
-    private static String loreText(@Nonnull String key, @Nonnull String englishDefault, @Nullable String language) {
+    public static String loreText(@Nonnull String key, @Nonnull String englishDefault, @Nullable String language) {
         String t = TinkerLang.lookup("lore", key, language);
         return t != null ? t : englishDefault;
     }

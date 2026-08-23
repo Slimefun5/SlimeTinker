@@ -128,6 +128,8 @@ part-types:
   LINKS: Elos de Malha
   REPAIR: Kit de Reparo
 lore:
+  added_by: 'Adicionado por'
+  sponsored_by: 'Patrocinado por'
   head_abbrev: 'C: '
   binder_abbrev: 'A: '
   rod_abbrev: 'H: '

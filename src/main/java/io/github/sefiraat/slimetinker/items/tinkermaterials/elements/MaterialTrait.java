@@ -11,6 +11,7 @@ import io.github.sefiraat.slimetinker.items.tinkermaterials.TinkerMaterial;
 import io.github.sefiraat.slimetinker.items.workstations.smeltery.DummySmelteryTrait;
 import io.github.sefiraat.slimetinker.managers.SupportedPluginsManager;
 import io.github.sefiraat.slimetinker.utils.SkullTextures;
+import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.sefiraat.slimetinker.utils.enums.ThemeItemType;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
@@ -118,9 +119,18 @@ public class MaterialTrait {
     }
 
     public void setupTrait(@Nonnull TinkerMaterial parentCM) {
-        // Attribution ("Added by"/"Sponsored by") is developer trivia and was hardcoded English, which
-        // no viewer's language could ever translate. It still selects the trait's head texture below.
+        // Which plugin contributed a trait is real information - a trait is only available when that
+        // plugin is installed - so the label is translated rather than hardcoded English. Resolved in the
+        // server's language to match the rest of this stack's lore, which is baked the same way.
+        String language = ItemUtils.serverDefaultLanguage();
         List<String> newLore = new ArrayList<>(Arrays.asList(lore));
+        newLore.add("");
+        newLore.add(ThemeUtils.ITEM_TYPEDESC + ItemUtils.loreText("added_by", "Added by", language) + ": " + addedBy);
+
+        if (this.sponsor != null) {
+            newLore.add("");
+            newLore.add(ThemeUtils.ITEM_TYPEDESC + ItemUtils.loreText("sponsored_by", "Sponsored by", language) + ": " + sponsor);
+        }
         this.itemStack =
             ThemeUtils.themedItemStack(
                 MessageFormat.format(
