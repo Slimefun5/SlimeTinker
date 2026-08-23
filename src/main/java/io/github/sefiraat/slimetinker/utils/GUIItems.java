@@ -19,105 +19,85 @@ public final class GUIItems {
         throw new IllegalStateException("Utility class");
     }
 
-    public static final ItemStack MENU_BACKGROUND_INPUT = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.LIGHT_BLUE_STAINED_GLASS_PANE), ChatColor.BLUE + "Input",
-        " "
-    ).item();
+    public static final ItemStack MENU_BACKGROUND_INPUT = CustomItemStack.create(MaterialCompat.safe(XMaterial.LIGHT_BLUE_STAINED_GLASS_PANE), ChatColor.BLUE + "Input",
+        " ");
 
-    public static final ItemStack MENU_BACKGROUND_OUTPUT = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.ORANGE_STAINED_GLASS_PANE), ChatColor.RED + "Output",
-        " "
-    ).item();
+    public static final ItemStack MENU_BACKGROUND_OUTPUT = CustomItemStack.create(MaterialCompat.safe(XMaterial.ORANGE_STAINED_GLASS_PANE), ChatColor.RED + "Output",
+        " ");
 
-    public static final ItemStack MENU_BACKGROUND_CAST = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.LIME_STAINED_GLASS_PANE), ChatColor.GREEN + "Cast/Die",
-        " "
-    ).item();
+    public static final ItemStack MENU_BACKGROUND_CAST = CustomItemStack.create(MaterialCompat.safe(XMaterial.LIME_STAINED_GLASS_PANE), ChatColor.GREEN + "Cast/Die",
+        " ");
 
-    public static final ItemStack MENU_PREVIEW = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.LIME_STAINED_GLASS_PANE), ChatColor.GREEN + "Preview",
-        " "
-    ).item();
+    public static final ItemStack MENU_PREVIEW = CustomItemStack.create(MaterialCompat.safe(XMaterial.LIME_STAINED_GLASS_PANE), ChatColor.GREEN + "Preview",
+        " ");
 
-    public static final ItemStack MENU_BACKGROUND_PREVIEW = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.LIME_STAINED_GLASS_PANE), ChatColor.GREEN + "Preview",
-        " "
-    ).item();
+    public static final ItemStack MENU_BACKGROUND_PREVIEW = CustomItemStack.create(MaterialCompat.safe(XMaterial.LIME_STAINED_GLASS_PANE), ChatColor.GREEN + "Preview",
+        " ");
 
-    public static final ItemStack MENU_MARKER_ROD = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Rod Input",
-        " "
-    ).item();
+    public static final ItemStack MENU_MARKER_ROD = CustomItemStack.create(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Rod Input",
+        " ");
 
 
-    public static final ItemStack MENU_MARKER_BINDER = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Binder Input",
-        " "
-    ).item();
+    public static final ItemStack MENU_MARKER_BINDER = CustomItemStack.create(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Binder Input",
+        " ");
 
-    public static final ItemStack MENU_MARKER_HEAD = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Head/Blade Input",
-        " "
-    ).item();
+    public static final ItemStack MENU_MARKER_HEAD = CustomItemStack.create(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Head/Blade Input",
+        " ");
 
-    public static final ItemStack MENU_MARKER_LINKS = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Links Input",
-        " "
-    ).item();
+    public static final ItemStack MENU_MARKER_LINKS = CustomItemStack.create(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Links Input",
+        " ");
 
-    public static final ItemStack MENU_MARKER_GAMBESON = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Gambeson Input",
-        " "
-    ).item();
+    public static final ItemStack MENU_MARKER_GAMBESON = CustomItemStack.create(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Gambeson Input",
+        " ");
 
 
-    public static final ItemStack MENU_MARKER_PLATES = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Plates Input",
-        " "
-    ).item();
+    public static final ItemStack MENU_MARKER_PLATES = CustomItemStack.create(MaterialCompat.safe(XMaterial.RED_STAINED_GLASS_PANE), ChatColor.RED + "Plates Input",
+        " ");
 
-    public static final ItemStack MENU_PURGE = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.BUTTON_PURGE), ThemeUtils.GUI_HEAD + "Purge Metals",
+    public static final ItemStack MENU_PURGE = CustomItemStack.create(VersionedPlayerHead.getItemStack(SkullTextures.BUTTON_PURGE), ThemeUtils.GUI_HEAD + "Purge Metals",
         "",
         ThemeUtils.PASSIVE + "Purge unwanted metals from the tank.",
         "",
         ThemeUtils.CLICK_INFO + "Left Click: " + ChatColor.WHITE + "Remove the TOP MOST metal",
-        ThemeUtils.CLICK_INFO + "Right Click: " + ChatColor.WHITE + "Remove ALL metals"
-    ).item();
+        ThemeUtils.CLICK_INFO + "Right Click: " + ChatColor.WHITE + "Remove ALL metals");
 
-    public static final ItemStack MENU_ALLOY = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.BUTTON_ALLOY), ThemeUtils.GUI_HEAD + "Alloy Metals",
+    public static final ItemStack MENU_ALLOY = CustomItemStack.create(VersionedPlayerHead.getItemStack(SkullTextures.BUTTON_ALLOY), ThemeUtils.GUI_HEAD + "Alloy Metals",
         "",
         ThemeUtils.PASSIVE + "Mixes up the metals in the tank to",
-        ThemeUtils.PASSIVE + "try to create an alloy."
-    ).item();
+        ThemeUtils.PASSIVE + "try to create an alloy.");
 
-    public static final ItemStack MENU_POUR = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", VersionedPlayerHead.getItemStack(SkullTextures.BUCKET_ORANGE), ThemeUtils.GUI_HEAD + "Pour content",
+    public static final ItemStack MENU_POUR = CustomItemStack.create(VersionedPlayerHead.getItemStack(SkullTextures.BUCKET_ORANGE), ThemeUtils.GUI_HEAD + "Pour content",
         "",
         ThemeUtils.PASSIVE + "Pours the first metal into the",
         ThemeUtils.PASSIVE + "cast. After cooling, outputs the",
-        ThemeUtils.PASSIVE + "final product."
-    ).item();
+        ThemeUtils.PASSIVE + "final product.");
 
-    public static final ItemStack MENU_CRAFT_WORKBENCH = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.FLETCHING_TABLE), ThemeUtils.GUI_HEAD + "Craft",
+    public static final ItemStack MENU_CRAFT_WORKBENCH = CustomItemStack.create(MaterialCompat.safe(XMaterial.FLETCHING_TABLE), ThemeUtils.GUI_HEAD + "Craft",
         "",
-        ThemeUtils.PASSIVE + "Let's get crafting!"
-    ).item();
+        ThemeUtils.PASSIVE + "Let's get crafting!");
 
-    public static final ItemStack MENU_CRAFT_TOOL_TABLE = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.SMITHING_TABLE), ThemeUtils.GUI_HEAD + "Form Tool",
+    public static final ItemStack MENU_CRAFT_TOOL_TABLE = CustomItemStack.create(MaterialCompat.safe(XMaterial.SMITHING_TABLE), ThemeUtils.GUI_HEAD + "Form Tool",
         "",
         ThemeUtils.PASSIVE + "Forms a tool from the three given",
-        ThemeUtils.PASSIVE + "parts (Rod, Binding and Head/Blade)"
-    ).item();
+        ThemeUtils.PASSIVE + "parts (Rod, Binding and Head/Blade)");
 
-    public static final ItemStack MENU_CRAFT_ARMOUR_TABLE = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.SMITHING_TABLE), ThemeUtils.GUI_HEAD + "Form Armour",
+    public static final ItemStack MENU_CRAFT_ARMOUR_TABLE = CustomItemStack.create(MaterialCompat.safe(XMaterial.SMITHING_TABLE), ThemeUtils.GUI_HEAD + "Form Armour",
         "",
         ThemeUtils.PASSIVE + "Forms a piece of armour from the three given",
-        ThemeUtils.PASSIVE + "parts (Plate, Gambeson and Links)"
-    ).item();
+        ThemeUtils.PASSIVE + "parts (Plate, Gambeson and Links)");
 
-    public static final ItemStack MENU_CRAFT_REPAIR = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.CARTOGRAPHY_TABLE), ThemeUtils.GUI_HEAD + "Repair",
+    public static final ItemStack MENU_CRAFT_REPAIR = CustomItemStack.create(MaterialCompat.safe(XMaterial.CARTOGRAPHY_TABLE), ThemeUtils.GUI_HEAD + "Repair",
         "",
         ThemeUtils.PASSIVE + "Repairs the tool in the first slot",
-        ThemeUtils.PASSIVE + "using the repair kit in the second."
-    ).item();
+        ThemeUtils.PASSIVE + "using the repair kit in the second.");
 
-    public static final ItemStack MENU_CRAFT_MOD = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.GRINDSTONE), ThemeUtils.GUI_HEAD + "Apply Modification",
+    public static final ItemStack MENU_CRAFT_MOD = CustomItemStack.create(MaterialCompat.safe(XMaterial.GRINDSTONE), ThemeUtils.GUI_HEAD + "Apply Modification",
         "",
-        ThemeUtils.PASSIVE + "Apply the modification to the tool."
-    ).item();
+        ThemeUtils.PASSIVE + "Apply the modification to the tool.");
 
-    public static final ItemStack MENU_CRAFT_SWAP = new io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack("DUMMY_ID", MaterialCompat.safe(XMaterial.LOOM), ThemeUtils.GUI_HEAD + "Swap out part",
+    public static final ItemStack MENU_CRAFT_SWAP = CustomItemStack.create(MaterialCompat.safe(XMaterial.LOOM), ThemeUtils.GUI_HEAD + "Swap out part",
         "",
-        ThemeUtils.PASSIVE + "Swap tool parts."
-    ).item();
+        ThemeUtils.PASSIVE + "Swap tool parts.");
 
     @Nonnull
     public static ItemStack menuLavaInfo(int fillPercent, int fillAmt, int fillMax) {
