@@ -1,0 +1,20 @@
+# SlimeTinker's in-game wiki topics, keyed by topic id. Body text lives in mechanics.yml under the
+# same id. Core loads this automatically for every installed addon (see WikiText#registerWiki), and
+# the topics appear under "Browse by Addon -> SlimeTinker -> Read the wiki".
+
+slimetinker_tools:
+  title: Tinker's Tools
+  icon: DIAMOND_PICKAXE
+  summary: '&7How tools level up and promote'
+slimetinker_armour:
+  title: Tinker's Armour
+  icon: DIAMOND_CHESTPLATE
+  summary: '&7How armour levels and promotes'
+slimetinker_parts:
+  title: Parts & Building
+  icon: ANVIL
+  summary: '&7Casting parts and assembling gear'
+slimetinker_modifiers:
+  title: Modifiers & Traits
+  icon: REDSTONE
+  summary: '&7Adding properties to your gear'

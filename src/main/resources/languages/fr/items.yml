@@ -6,8 +6,6 @@ ARMOUR_CHESTPLATE_ENTRY:
   name: "&aPlastron du Bricoleur"
 ARMOUR_HELMET_ENTRY:
   name: "&aCasque du Bricoleur"
-ARMOUR_INFO:
-  name: "&3Armure du Bricoleur: Info"
 ARMOUR_LEGGINGS_ENTRY:
   name: "&aJambières du Bricoleur"
 BLOCK_CAST_ADAMANTITE:
@@ -418,8 +416,6 @@ TOOL_AXE_ENTRY:
   name: "&aHache du Bricoleur"
 TOOL_HOE_ENTRY:
   name: "&aHoue du Bricoleur"
-TOOL_INFO:
-  name: "&3Outils du Bricoleur: Info"
 TOOL_PICKAXE_ENTRY:
   name: "&aPioche du Bricoleur"
 TOOL_SHOVEL_ENTRY:

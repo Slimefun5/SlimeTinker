@@ -360,15 +360,6 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
             "&7Used at the Repair Bench to restore the",
             "&7durability of a matching tool or armour piece."));
 
-        // Tools & armour info
-        wiki.set("TOOL_INFO", Arrays.asList(
-            "&7Tinker's tools start as Stone. As they gain",
-            "&7EXP they promote &eGold > Iron > Diamond >",
-            "&7Netherite&7, unlocking modifier slots as they go."));
-        wiki.set("ARMOUR_INFO", Arrays.asList(
-            "&7Tinker's armour starts as Leather and promotes",
-            "&7&eChain > Iron > Diamond > Netherite &7as it levels."));
-
         // Modifications
         wiki.set("MOD_REDSTONE_ENTRY", Arrays.asList(
             "&7Grants the holder &eHaste &7matching the",

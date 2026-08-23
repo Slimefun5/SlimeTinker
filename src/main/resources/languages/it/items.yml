@@ -6,8 +6,6 @@ ARMOUR_CHESTPLATE_ENTRY:
   name: "&aCorazza del Riparatore"
 ARMOUR_HELMET_ENTRY:
   name: "&aElmo del Riparatore"
-ARMOUR_INFO:
-  name: "&3Armatura del Riparatore: Info"
 ARMOUR_LEGGINGS_ENTRY:
   name: "&aGambali del Riparatore"
 BLOCK_CAST_ADAMANTITE:
@@ -418,8 +416,6 @@ TOOL_AXE_ENTRY:
   name: "&aAscia del Riparatore"
 TOOL_HOE_ENTRY:
   name: "&aZappa del Riparatore"
-TOOL_INFO:
-  name: "&3Strumenti del Riparatore: Info"
 TOOL_PICKAXE_ENTRY:
   name: "&aPiccone del Riparatore"
 TOOL_SHOVEL_ENTRY:

@@ -6,8 +6,6 @@ ARMOUR_CHESTPLATE_ENTRY:
   name: "&aNapierśnik Majsterkowicza"
 ARMOUR_HELMET_ENTRY:
   name: "&aHełm Majsterkowicza"
-ARMOUR_INFO:
-  name: "&3Zbroja Majsterkowicza: Informacje"
 ARMOUR_LEGGINGS_ENTRY:
   name: "&aNogawice Majsterkowicza"
 BLOCK_CAST_ADAMANTITE:
@@ -418,8 +416,6 @@ TOOL_AXE_ENTRY:
   name: "&aTopór Majsterkowicza"
 TOOL_HOE_ENTRY:
   name: "&aMotyka Majsterkowicza"
-TOOL_INFO:
-  name: "&3Narzędzia Majsterkowicza: Informacje"
 TOOL_PICKAXE_ENTRY:
   name: "&aKilof Majsterkowicza"
 TOOL_SHOVEL_ENTRY:

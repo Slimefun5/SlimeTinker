@@ -6,8 +6,6 @@ ARMOUR_CHESTPLATE_ENTRY:
   name: "&aPeitoral do Funileiro"
 ARMOUR_HELMET_ENTRY:
   name: "&aCapacete do Funileiro"
-ARMOUR_INFO:
-  name: "&3Armadura do Funileiro: Info"
 ARMOUR_LEGGINGS_ENTRY:
   name: "&aCalças do Funileiro"
 BLOCK_CAST_ADAMANTITE:
@@ -418,8 +416,6 @@ TOOL_AXE_ENTRY:
   name: "&aMachado do Funileiro"
 TOOL_HOE_ENTRY:
   name: "&aEnxada do Funileiro"
-TOOL_INFO:
-  name: "&3Ferramentas do Funileiro: Info"
 TOOL_PICKAXE_ENTRY:
   name: "&aPicareta do Funileiro"
 TOOL_SHOVEL_ENTRY:

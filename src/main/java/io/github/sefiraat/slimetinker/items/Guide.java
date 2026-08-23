@@ -84,10 +84,6 @@ public final class Guide {
 
     public static final SlimefunItemStack ARMOUR_BOOTS = new BaseItem("ARMOUR_BOOTS", SkullTextures.PART_BOOTS_PLATES);
 
-    public static final SlimefunItemStack TOOL_INFO = new BaseItem("TOOL_INFO", SkullTextures.INFO);
-
-    public static final SlimefunItemStack ARMOUR_INFO = new BaseItem("ARMOUR_INFO", SkullTextures.INFO);
-
     public static final ToolTemplate SHOVEL = new ToolTemplate(ItemGroups.DUMMY, TOOL_SHOVEL, DummyToolTable.TYPE, new ItemStack[9]);
     public static final ToolTemplate PICKAXE = new ToolTemplate(ItemGroups.DUMMY, TOOL_PICKAXE, DummyToolTable.TYPE, new ItemStack[9]);
     public static final ToolTemplate AXE = new ToolTemplate(ItemGroups.DUMMY, TOOL_AXE, DummyToolTable.TYPE, new ItemStack[9]);
@@ -218,14 +214,12 @@ public final class Guide {
     }
 
     public static void set(SlimeTinker p) {
-        new UnplaceableBlock(ItemGroups.TOOLS, TOOL_INFO, DummyToolTable.TYPE, new ItemStack[9]).register(p);
         new UnplaceableBlock(ItemGroups.TOOLS, TOOL_SHOVEL_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_SHOVEL_HEAD_DUMMY.item())).register(p);
         new UnplaceableBlock(ItemGroups.TOOLS, TOOL_PICKAXE_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_PICKAXE_HEAD_DUMMY.item())).register(p);
         new UnplaceableBlock(ItemGroups.TOOLS, TOOL_AXE_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_AXE_HEAD_DUMMY.item())).register(p);
         new UnplaceableBlock(ItemGroups.TOOLS, TOOL_HOE_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_HOE_HEAD_DUMMY.item())).register(p);
         new UnplaceableBlock(ItemGroups.TOOLS, TOOL_SWORD_ENTRY, DummyToolTable.TYPE, getDummyToolRecipe(Parts.PART_SWORD_BLADE_DUMMY.item())).register(p);
 
-        new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_INFO, DummyArmourTable.TYPE, new ItemStack[9]).register(p);
         new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_HELMET_ENTRY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_HELM_PLATE_DUMMY.item())).register(p);
         new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_CHESTPLATE_ENTRY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_CHEST_PLATE_DUMMY.item())).register(p);
         new UnplaceableBlock(ItemGroups.ARMOUR, ARMOUR_LEGGINGS_ENTRY, DummyArmourTable.TYPE, getDummyArmourRecipe(Parts.PART_LEG_PLATE_DUMMY.item())).register(p);

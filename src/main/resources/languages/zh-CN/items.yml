@@ -6,8 +6,6 @@ ARMOUR_CHESTPLATE_ENTRY:
   name: "&a工匠胸甲"
 ARMOUR_HELMET_ENTRY:
   name: "&a工匠头盔"
-ARMOUR_INFO:
-  name: "&3工匠盔甲：信息"
 ARMOUR_LEGGINGS_ENTRY:
   name: "&a工匠护腿"
 BLOCK_CAST_ADAMANTITE:
@@ -418,8 +416,6 @@ TOOL_AXE_ENTRY:
   name: "&a工匠斧"
 TOOL_HOE_ENTRY:
   name: "&a工匠锄"
-TOOL_INFO:
-  name: "&3工匠工具：信息"
 TOOL_PICKAXE_ENTRY:
   name: "&a工匠镐"
 TOOL_SHOVEL_ENTRY:

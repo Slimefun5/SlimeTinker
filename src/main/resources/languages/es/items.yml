@@ -6,8 +6,6 @@ ARMOUR_CHESTPLATE_ENTRY:
   name: "&aPeto del Manitas"
 ARMOUR_HELMET_ENTRY:
   name: "&aCasco del Manitas"
-ARMOUR_INFO:
-  name: "&3Armadura del Manitas: Info"
 ARMOUR_LEGGINGS_ENTRY:
   name: "&aGrebas del Manitas"
 BLOCK_CAST_ADAMANTITE:
@@ -418,8 +416,6 @@ TOOL_AXE_ENTRY:
   name: "&aHacha del Manitas"
 TOOL_HOE_ENTRY:
   name: "&aAzada del Manitas"
-TOOL_INFO:
-  name: "&3Herramientas del Manitas: Info"
 TOOL_PICKAXE_ENTRY:
   name: "&aPico del Manitas"
 TOOL_SHOVEL_ENTRY:

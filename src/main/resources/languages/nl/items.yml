@@ -6,8 +6,6 @@ ARMOUR_CHESTPLATE_ENTRY:
   name: "&aBorstplaat van de Knutselaar"
 ARMOUR_HELMET_ENTRY:
   name: "&aHelm van de Knutselaar"
-ARMOUR_INFO:
-  name: "&3Pantser van de Knutselaar: Info"
 ARMOUR_LEGGINGS_ENTRY:
   name: "&aBeenkappen van de Knutselaar"
 BLOCK_CAST_ADAMANTITE:
@@ -418,8 +416,6 @@ TOOL_AXE_ENTRY:
   name: "&aBijl van de Knutselaar"
 TOOL_HOE_ENTRY:
   name: "&aSchoffel van de Knutselaar"
-TOOL_INFO:
-  name: "&3Gereedschap van de Knutselaar: Info"
 TOOL_PICKAXE_ENTRY:
   name: "&aHouweel van de Knutselaar"
 TOOL_SHOVEL_ENTRY:

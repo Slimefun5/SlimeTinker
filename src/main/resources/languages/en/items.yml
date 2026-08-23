@@ -33,14 +33,6 @@ ARMOUR_HELMET_ENTRY:
   - "&7When broken it's unequipped."
   - "&7If there's no room in your inventory"
   - "&7then the item drops on the floor"
-ARMOUR_INFO:
-  name: "&fTinker's Armour Info"
-  type:
-  - "&7&oMisc"
-  description:
-  - "&7Tinker's armour starts at Leather. As you"
-  - "&7level the pieces up, they will promote"
-  - "&7through Chain > Iron > Diamond > Netherite."
 ARMOUR_LEGGINGS_ENTRY:
   name: "&fTinker's Leggings"
   type:
@@ -1396,14 +1388,6 @@ TOOL_HOE_ENTRY:
   - "&7A hoe formed of three parts."
   - "&7Tinker's tools can level up and be"
   - "&7given extra properties and modifiers."
-TOOL_INFO:
-  name: "&fTinker's Tools Info"
-  type:
-  - "&7&oMisc"
-  description:
-  - "&7Tinker's tools start at Stone. As you"
-  - "&7level the tools up, they will promote"
-  - "&7through Gold > Iron > Diamond > Netherite."
 TOOL_PICKAXE_ENTRY:
   name: "&fTinker's Pickaxe"
   type:
