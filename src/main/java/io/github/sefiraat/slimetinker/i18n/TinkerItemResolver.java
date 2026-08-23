@@ -1,6 +1,5 @@
 package io.github.sefiraat.slimetinker.i18n;
 
-import java.util.List;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
@@ -15,7 +14,7 @@ import io.github.sefiraat.slimetinker.utils.ItemUtils;
 import io.github.sefiraat.slimetinker.utils.Keys;
 import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import io.github.thebusybiscuit.slimefun5.core.services.localization.ItemTextResolver;
-import io.github.thebusybiscuit.slimefun5.core.services.localization.ItemTranslationService.RenderedDisplay;
+import io.github.thebusybiscuit.slimefun5.core.services.localization.ItemTextBlocks;
 
 import net.md_5.bungee.api.ChatColor;
 
@@ -57,7 +56,7 @@ public final class TinkerItemResolver implements ItemTextResolver {
 
     @Override
     @Nullable
-    public RenderedDisplay resolve(@Nullable ItemStack item, String itemId, @Nullable String languageId) {
+    public ItemTextBlocks resolve(@Nullable ItemStack item, String itemId, @Nullable String languageId) {
         if (item == null) {
             return null; // per-instance: needs the actual stack's PDC
         }
@@ -77,25 +76,18 @@ public final class TinkerItemResolver implements ItemTextResolver {
                 return null;
             }
 
-            String name = tool ? composeTool(meta, languageId)
-                : armour ? composeArmour(meta, languageId)
-                : composePart(meta, languageId);
-
-            if (name == null) {
-                return null;
-            }
-
-            List<String> lore;
-
             if (tool) {
-                lore = ItemUtils.buildToolLore(meta, item, languageId);
-            } else if (armour) {
-                lore = ItemUtils.buildArmourLore(meta, item, languageId);
-            } else {
-                lore = ItemUtils.buildPartLore(meta, languageId);
+                return ItemTextBlocks.of(composeTool(meta, languageId), null, null,
+                    ItemUtils.buildToolStats(meta, item, languageId), null);
             }
 
-            return RenderedDisplay.of(name, lore);
+            if (armour) {
+                return ItemTextBlocks.of(composeArmour(meta, languageId), null, null,
+                    ItemUtils.buildArmourStats(meta, item, languageId), null);
+            }
+
+            return ItemTextBlocks.of(partName(meta, itemId, languageId), null, null,
+                ItemUtils.buildPartStats(meta, languageId), null);
         } catch (Exception | LinkageError ignored) {
             // A broken composition must not break packet rendering for the item.
             return null;
@@ -126,6 +118,25 @@ public final class TinkerItemResolver implements ItemTextResolver {
             + "-" + color(gambeson) + TinkerLang.translate("materials", gambeson, language)
             + "-" + color(links) + TinkerLang.translate("materials", links, language)
             + " " + ChatColor.WHITE + TinkerLang.translate("armour-types", type, language);
+    }
+
+    /**
+     * The composed part name, or {@code null} to keep the one authored in {@code items.yml}.
+     *
+     * @implNote A part exists under two ids: a per-material one ({@code PART_ROD_IRON}) whose authored name
+     *           already states the material, and the shape template the smeltery actually stamps
+     *           ({@code PART_TOOL_ROD}) whose authored name cannot. Overriding the former would replace a
+     *           translated name with a composed one for no gain, so only the latter gets a composed name.
+     */
+    @Nullable
+    private String partName(@Nonnull ItemMeta meta, @Nonnull String itemId, @Nullable String language) {
+        String material = Pdc.getString(meta, Keys.PART_MATERIAL.toString());
+
+        if (material != null && itemId.endsWith(material)) {
+            return null;
+        }
+
+        return composePart(meta, language);
     }
 
     @Nullable
