@@ -122,15 +122,26 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
      * what also surfaces it in the categorized layout, which has no addon menu to hang it off.
      */
     private void registerGuideWidgets() {
+        registerGuideWidget("tools", "&bTinker's Tools Guide", XMaterial.DIAMOND_PICKAXE, 0);
+        registerGuideWidget("armor", "&bTinker's Armour Guide", XMaterial.DIAMOND_CHESTPLATE, 1);
+        registerGuideWidget("resources", "&bParts & Building Guide", XMaterial.ANVIL, 2);
+        registerGuideWidget("magic", "&bModifiers & Traits Guide", XMaterial.REDSTONE, 3);
+    }
+
+    /**
+     * One guide button per category this addon has items in, so a section only offers the pages that
+     * belong to it: the tools section should not open the armour and casting guides alongside them.
+     */
+    private void registerGuideWidget(String category, String name, XMaterial icon, int order) {
         Slimefun.getGuideWidgets().register(new GuideWidget(
-            "slimetinker_guide",
-            "&bTinker's Guide",
-            XMaterial.ANVIL,
-            0,
+            "slimetinker_guide_" + category,
+            name,
+            icon,
+            order,
             GuideWidget.Position.BOTTOM,
-            (player, profile) -> WikiIndex.openAddonWiki(player, getName()),
+            (player, profile) -> WikiIndex.openAddonWiki(player, profile, getName(), category),
             getName(),
-            "tools"));
+            category));
     }
 
     private void registerWiki() {
