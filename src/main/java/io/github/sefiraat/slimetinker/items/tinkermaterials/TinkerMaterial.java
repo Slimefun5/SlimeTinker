@@ -479,104 +479,114 @@ public class TinkerMaterial {
         return alloy;
     }
 
+    /**
+     * Stamps a part's identity onto its registered stack.
+     *
+     * @implNote Every workstation and {@code TinkerItemResolver} read a part's material, class and type from
+     *           persistent data alone - never from its name - so a stack without them is refused by every
+     *           table and falls back to its static guide text instead of the composed part display. Only
+     *           bindings and gambesons used to carry this, which is why a head or rod taken from the guide
+     *           could not be combined and did not match the others' style.
+     */
+    @Nonnull
+    private static SlimefunItemStack identified(SlimefunItemStack stack, String material, String partClass,
+            @Nullable String partType) {
+        ItemMeta im = stack.getItemMeta();
+
+        Pdc.setString(im, Keys.PART_MATERIAL.toString(), material);
+        Pdc.setString(im, Keys.PART_CLASS.toString(), partClass);
+
+        if (partType != null) {
+            Pdc.setString(im, Keys.PART_TYPE.toString(), partType);
+        }
+
+        stack.setItemMeta(im);
+        return stack;
+    }
+
     @Nonnull
     private SlimefunItemStack headStack(String name, String type, String skullTexture) {
         String titName = ThemeUtils.toTitleCase(name);
-        return ThemeUtils.themedItemStack(
+        return identified(ThemeUtils.themedItemStack(
             "PART_HEAD_" + type + name,
             skullTexture,
             ThemeItemType.PART,
             getColor() + titName + ThemeUtils.ITEM_PART + " " + ThemeUtils.toTitleCase(type) + " Head",
             ThemeUtils.PASSIVE + "A tool head made of " + titName + "."
-        );
+        ), name, Ids.HEAD, type);
     }
 
     @Nonnull
     private SlimefunItemStack bindingStack(String name) {
         String titName = ThemeUtils.toTitleCase(name);
-        SlimefunItemStack i = ThemeUtils.themedItemStack(
+        return identified(ThemeUtils.themedItemStack(
             "PART_BINDING_" + name,
             SkullTextures.PART_BINDING,
             ThemeItemType.PART,
             getColor() + titName + ThemeUtils.ITEM_PART + " Binding",
             ThemeUtils.PASSIVE + "A binding made of " + titName + "."
-        );
-
-        ItemMeta im = i.getItemMeta();
-
-        Pdc.setString(im, Keys.PART_MATERIAL.toString(), name);
-        Pdc.setString(im, Keys.PART_CLASS.toString(), Ids.BINDING);
-
-        i.setItemMeta(im);
-        return i;
+        ), name, Ids.BINDING, null);
     }
 
     @Nonnull
     private SlimefunItemStack rodStack(String name) {
         String titName = ThemeUtils.toTitleCase(name);
-        return ThemeUtils.themedItemStack(
+        return identified(ThemeUtils.themedItemStack(
             "PART_ROD_" + name,
             SkullTextures.PART_TOOL_ROD,
             ThemeItemType.PART,
             getColor() + titName + ThemeUtils.ITEM_PART + " Rod",
             ThemeUtils.PASSIVE + "A tool rod made of " + titName + "."
-        );
+        ), name, Ids.ROD, null);
     }
 
     @Nonnull
     private SlimefunItemStack platesStack(String name, String type, String skullTexture) {
         String titName = ThemeUtils.toTitleCase(name);
-        return ThemeUtils.themedItemStack(
+        return identified(ThemeUtils.themedItemStack(
             "PART_PLATES_" + type + name,
             skullTexture,
             ThemeItemType.PART,
             getColor() + titName + ThemeUtils.ITEM_PART + " " + ThemeUtils.toTitleCase(type) + " Plates",
             ThemeUtils.PASSIVE + "A set of armour plates made of " + titName + "."
-        );
+        ), name, Ids.PLATE, type);
     }
 
     @Nonnull
     private SlimefunItemStack gambesonStack(String name) {
         String titName = ThemeUtils.toTitleCase(name);
-        SlimefunItemStack i = ThemeUtils.themedItemStack(
+        return identified(ThemeUtils.themedItemStack(
             "PART_GAMBESON_" + name,
             SkullTextures.PART_GAMBESON,
             ThemeItemType.PART,
             getColor() + titName + ThemeUtils.ITEM_PART + " Gambeson",
             ThemeUtils.PASSIVE + "A gambeson made of " + titName + "."
-        );
-
-        ItemMeta im = i.getItemMeta();
-
-        Pdc.setString(im, Keys.PART_MATERIAL.toString(), name);
-        Pdc.setString(im, Keys.PART_CLASS.toString(), Ids.GAMBESON);
-        i.setItemMeta(im);
-        return i;
+        ), name, Ids.GAMBESON, null);
     }
 
     @Nonnull
     private SlimefunItemStack linksStack(String name) {
         String titName = ThemeUtils.toTitleCase(name);
-        return ThemeUtils.themedItemStack(
+        return identified(ThemeUtils.themedItemStack(
             "PART_LINKS_" + name,
             SkullTextures.PART_LINKS,
             ThemeItemType.PART,
             getColor() + titName + ThemeUtils.ITEM_PART + " Mail Links",
             ThemeUtils.PASSIVE + "A set of mail links made of " + titName + "."
-        );
+        ), name, Ids.LINKS, null);
     }
 
     @Nonnull
     private SlimefunItemStack repairStack(String name) {
         String titName = ThemeUtils.toTitleCase(name);
-        return ThemeUtils.themedItemStack(
+        return identified(ThemeUtils.themedItemStack(
             "PART_REPAIR_KIT_" + name,
             MaterialCompat.safe(XMaterial.CHEST_MINECART),
             ThemeItemType.PART,
             getColor() + titName + ThemeUtils.ITEM_PART + " Repair Kit",
             ThemeUtils.PASSIVE + "A kit that is able to repair items",
             "made out of " + titName + "."
-        );
+        ), name, Ids.REPAIR, null);
     }
 
     private ItemStack[] basicRecipe(ItemStack i, ItemStack i2) {
