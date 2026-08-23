@@ -37,6 +37,8 @@ import io.github.sefiraat.slimetinker.managers.TraitManager;
 import io.github.sefiraat.slimetinker.runnables.RunnableManager;
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun5.core.guide.widgets.GuideWidget;
+import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiIndex;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.updater.BlobBuildUpdater;
 
 import org.bukkit.plugin.java.JavaPlugin;
@@ -111,6 +113,24 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
         Slimefun.getItemTranslationService().registerResolver(new TinkerItemResolver());
 
         registerWiki();
+        registerGuideWidgets();
+    }
+
+    /**
+     * Puts this addon's reference material on the bottom row of its guide menu, replacing the info items
+     * that used to sit among the tools and armour as if they were craftable. The declared category is
+     * what also surfaces it in the categorized layout, which has no addon menu to hang it off.
+     */
+    private void registerGuideWidgets() {
+        Slimefun.getGuideWidgets().register(new GuideWidget(
+            "slimetinker_guide",
+            "&bTinker's Guide",
+            XMaterial.ANVIL,
+            0,
+            GuideWidget.Position.BOTTOM,
+            (player, profile) -> WikiIndex.openAddonWiki(player, getName()),
+            getName(),
+            "tools"));
     }
 
     private void registerWiki() {
