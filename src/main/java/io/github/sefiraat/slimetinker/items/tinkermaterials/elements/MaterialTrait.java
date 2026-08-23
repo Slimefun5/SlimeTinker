@@ -118,13 +118,9 @@ public class MaterialTrait {
     }
 
     public void setupTrait(@Nonnull TinkerMaterial parentCM) {
+        // Attribution ("Added by"/"Sponsored by") is developer trivia and was hardcoded English, which
+        // no viewer's language could ever translate. It still selects the trait's head texture below.
         List<String> newLore = new ArrayList<>(Arrays.asList(lore));
-        newLore.add("");
-        newLore.add(ThemeUtils.ITEM_TYPEDESC + "Added by: " + addedBy);
-        if (this.sponsor != null) {
-            newLore.add("");
-            newLore.add(ThemeUtils.ITEM_TYPEDESC + "Sponsored by: " + sponsor);
-        }
         this.itemStack =
             ThemeUtils.themedItemStack(
                 MessageFormat.format(
