@@ -800,7 +800,7 @@ CARBON_FIBRE_TRAIT_PROP_GAMBESON_RAW_CARBON_MESH:
 CAST_AXE_HEAD:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από κεφαλή τσεκουριού'
+  name: '&fΚαλούπι Κεφαλής Τσεκουριού'
   stats:
   - '&8Input: &e27 Units'
   - '&8Output: &e1 Axe Head'
@@ -818,7 +818,7 @@ CAST_BLOCK:
 CAST_BOOT_PLATE:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από πλάκες μποτών'
+  name: '&fΚαλούπι Πλακών Μποτών'
   stats:
   - '&8Input: &e36 Units'
   - '&8Output: &e1 Set of Boot Plates'
@@ -827,7 +827,7 @@ CAST_BOOT_PLATE:
 CAST_CHEST_PLATE:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από πλάκες θώρακα'
+  name: '&fΚαλούπι Πλακών Θώρακα'
   stats:
   - '&8Input: &e72 Units'
   - '&8Output: &e1 Set of Chestplate Plates'
@@ -836,7 +836,7 @@ CAST_CHEST_PLATE:
 CAST_GEM:
   description:
   - '&7Ένα καλούπι για μη μεταλλικά υγρά.'
-  name: '&fΚαλούπι από πετράδι'
+  name: '&fΚαλούπι Πετραδιού'
   stats:
   - '&8Input: &e9 Units'
   - '&8Output: &e1 Gem'
@@ -845,7 +845,7 @@ CAST_GEM:
 CAST_HELM_PLATE:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από πλάκες κράνους'
+  name: '&fΚαλούπι Πλακών Κράνους'
   stats:
   - '&8Input: &e45 Units'
   - '&8Output: &e1 Set of Helmet Plates'
@@ -854,7 +854,7 @@ CAST_HELM_PLATE:
 CAST_HOEHEAD:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από κεφαλή τσάπας'
+  name: '&fΚαλούπι Κεφαλής Τσάπας'
   stats:
   - '&8Input: &e18 Units'
   - '&8Output: &e1 Hoe Head'
@@ -863,7 +863,7 @@ CAST_HOEHEAD:
 CAST_INGOT:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από πλίνθωμα μετάλλου'
+  name: '&fΚαλούπι Πλινθώματος Μετάλλου'
   stats:
   - '&8Input: &e9 Units'
   - '&8Output: &e1 Ingot'
@@ -872,7 +872,7 @@ CAST_INGOT:
 CAST_LEG_PLATE:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από πλάκες περικνημίδων'
+  name: '&fΚαλούπι Πλακών Περικνημίδων'
   stats:
   - '&8Input: &e63 Units'
   - '&8Output: &e1 Set of Legging Plates'
@@ -881,7 +881,7 @@ CAST_LEG_PLATE:
 CAST_MAIL_LINK:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από κρίκους αλυσίδας'
+  name: '&fΚαλούπι Κρίκων Αλυσίδας'
   stats:
   - '&8Input: &e18 Units'
   - '&8Output: &e1 Set of Mail Links'
@@ -890,7 +890,7 @@ CAST_MAIL_LINK:
 CAST_NUGGET:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από ψήγμα μετάλλου'
+  name: '&fΚαλούπι Ψήγματος Μετάλλου'
   stats:
   - '&8Input: &e1 Units'
   - '&8Output: &e1 Nugget'
@@ -899,7 +899,7 @@ CAST_NUGGET:
 CAST_PICKAXEHEAD:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από κεφαλή αξίνας'
+  name: '&fΚαλούπι Κεφαλής Αξίνας'
   stats:
   - '&8Input: &e27 Units'
   - '&8Output: &e1 Pickaxe Head'
@@ -908,7 +908,7 @@ CAST_PICKAXEHEAD:
 CAST_REPAIRKIT:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από σετ επισκευής'
+  name: '&fΚαλούπι Σετ Επισκευής'
   stats:
   - '&8Input: &e27 Units'
   - '&8Output: &e1 Repair Kit'
@@ -917,7 +917,7 @@ CAST_REPAIRKIT:
 CAST_SHOVELHEAD:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από κεφαλή φτυαριού'
+  name: '&fΚαλούπι Κεφαλής Φτυαριού'
   stats:
   - '&8Input: &e9 Units'
   - '&8Output: &e1 Shovel Head'
@@ -926,7 +926,7 @@ CAST_SHOVELHEAD:
 CAST_SWORDBLADE:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από λεπίδα σπαθιού'
+  name: '&fΚαλούπι Λεπίδας Σπαθιού'
   stats:
   - '&8Input: &e18 Units'
   - '&8Output: &e1 Sword Blade'
@@ -935,7 +935,7 @@ CAST_SWORDBLADE:
 CAST_TOOLROD:
   description:
   - '&7Ένα καλούπι για μέταλλα.'
-  name: '&fΚαλούπι από ράβδο εργαλείου'
+  name: '&fΚαλούπι Ράβδου Εργαλείου'
   stats:
   - '&8Input: &e9 Units'
   - '&8Output: &e1 Tool Rod'
@@ -1195,73 +1195,73 @@ DIAMOND_SINGULARITY_LIQUID:
 DIE_AXE_HEAD:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από πέτρινη κεφαλή τσεκουριού'
+  name: '&fΜήτρα Πέτρινης Κεφαλής Τσεκουριού'
   type:
   - '&7&oΕξάρτημα'
 DIE_BOOT_PLATE:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από πέτρινες πλάκες μποτών'
+  name: '&fΜήτρα Πέτρινων Πλακών Μποτών'
   type:
   - '&7&oΕξάρτημα'
 DIE_CHEST_PLATE:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από πέτρινες πλάκες θώρακα'
+  name: '&fΜήτρα Πέτρινων Πλακών Θώρακα'
   type:
   - '&7&oΕξάρτημα'
 DIE_HELM_PLATE:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από πέτρινες πλάκες κράνους'
+  name: '&fΜήτρα Πέτρινων Πλακών Κράνους'
   type:
   - '&7&oΕξάρτημα'
 DIE_HOE_HEAD:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από πέτρινη κεφαλή τσάπας'
+  name: '&fΜήτρα Πέτρινης Κεφαλής Τσάπας'
   type:
   - '&7&oΕξάρτημα'
 DIE_LEG_PLATE:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από πέτρινες πλάκες περικνημίδων'
+  name: '&fΜήτρα Πέτρινων Πλακών Περικνημίδων'
   type:
   - '&7&oΕξάρτημα'
 DIE_MAIL_LINK:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από κρίκους αλυσίδας'
+  name: '&fΜήτρα Κρίκων Αλυσίδας'
   type:
   - '&7&oΕξάρτημα'
 DIE_PICKAXE_HEAD:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από πέτρινη κεφαλή αξίνας'
+  name: '&fΜήτρα Πέτρινης Κεφαλής Αξίνας'
   type:
   - '&7&oΕξάρτημα'
 DIE_REPAIR_KIT:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από σετ επισκευής'
+  name: '&fΜήτρα Σετ Επισκευής'
   type:
   - '&7&oΕξάρτημα'
 DIE_SHOVEL_HEAD:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από πέτρινη κεφαλή φτυαριού'
+  name: '&fΜήτρα Πέτρινης Κεφαλής Φτυαριού'
   type:
   - '&7&oΕξάρτημα'
 DIE_SWORD_BLADE:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από πέτρινη κεφαλή σπαθιού'
+  name: '&fΜήτρα Πέτρινης Κεφαλής Σπαθιού'
   type:
   - '&7&oΕξάρτημα'
 DIE_TOOL_ROD:
   description:
   - '&7Μια μήτρα για να φτιάξεις καλούπι.'
-  name: '&fΜήτρα από ράβδο εργαλείου'
+  name: '&fΜήτρα Ράβδου Εργαλείου'
   type:
   - '&7&oΕξάρτημα'
 DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
