@@ -1,16 +1,13 @@
 10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
-  name: '&x&B&F&3&0&7&FСвойство : 10 лет (Slime)fun!'
   type:
   - '&7&oКомпонент'
 ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Абра'
   type:
   - '&7&oКомпонент'
 ACUPUNCTURE_II_TRAIT_PROP_LINKS_ZINC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Акупунктура'
   type:
   - '&7&oКомпонент'
 ADAMANTITE_LIQUID:
@@ -26,38 +23,30 @@ ALL_THAT_GLITTERS_II_TRAIT_PROP_ROD_GOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Всё, что блестит'
   type:
   - '&7&oКомпонент'
 ALUMINUM_BRASS_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленная алюминиевая латунь'
   type:
   - '&7&oРесурс'
 ALUMINUM_BRASS_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная алюминиевая латунь'
   type:
   - '&7&oРесурс'
 ALUMINUM_BRONZE_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленная алюминиевая бронза'
   type:
   - '&7&oРесурс'
 ALUMINUM_BRONZE_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная алюминиевая бронза'
   type:
   - '&7&oРесурс'
 ALUMINUM_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный алюминий'
   type:
   - '&7&oРесурс'
 ALUMINUM_SINGULARITY_LIQUID:
   type:
   - '&7&oРесурс'
 ANNIVERSARIUM_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный юбилярий'
   type:
   - '&7&oРесурс'
 ANNIVERSARIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный юбилярий'
   type:
   - '&7&oРесурс'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
@@ -67,292 +56,225 @@ ARMOUR_BOOTS:
   type:
   - '&7&oБроня'
 ARMOUR_BOOTS_ENTRY:
-  name: '&aБотинки Жестянщика'
   type:
   - '&7&oБроня'
 ARMOUR_CHESTPLATE:
   type:
   - '&7&oБроня'
 ARMOUR_CHESTPLATE_ENTRY:
-  name: '&aНагрудник Жестянщика'
   type:
   - '&7&oБроня'
 ARMOUR_HELM:
   type:
   - '&7&oБроня'
 ARMOUR_HELMET_ENTRY:
-  name: '&aШлем Жестянщика'
   type:
   - '&7&oБроня'
 ARMOUR_LEGGINGS:
   type:
   - '&7&oБроня'
 ARMOUR_LEGGINGS_ENTRY:
-  name: '&aПоножи Жестянщика'
   type:
   - '&7&oБроня'
 ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
-  name: '&x&B&F&3&0&7&FСвойство : Притяжение'
   type:
   - '&7&oКомпонент'
 ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
-  name: '&x&B&F&3&0&7&FСвойство : Притяжение'
   type:
   - '&7&oКомпонент'
 BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Лента'
   type:
   - '&7&oКомпонент'
 BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Обмен'
   type:
   - '&7&oКомпонент'
 BEAUTIFUL_TRAIT_PROP_LINKS_FORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Красота'
   type:
   - '&7&oКомпонент'
 BEGINNER_II_TRAIT_PROP_PLATES_COPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Новичок'
   type:
   - '&7&oКомпонент'
 BILLON_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный биллон'
   type:
   - '&7&oРесурс'
 BILLON_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный биллон'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_ADAMANTITE:
-  name: '&7Adamanitite Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_ADVANCED_ALLOY:
-  name: '&7Улучшенный сплав Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_ALUMINUM:
-  name: '&7Алюминий Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_ALU_BRASS:
-  name: '&7Алюминиевая латунь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_ALU_BRONZE:
-  name: '&7Алюминиевая бронза Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_ANNIVERSARIUM:
-  name: '&7Аннивэрсарий Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_BILLON:
-  name: '&7Биллон Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_BOOMERITE:
-  name: '&7Бумерит Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_BRASS:
-  name: '&7Латунь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_BRONZE:
-  name: '&7Бронза Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_COBALT:
-  name: '&7Кобальт Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_COPPER:
-  name: '&7Медь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_COR_BRONZE:
-  name: '&7Коринфская бронза Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_CRINGLEIUM:
-  name: '&7Крингелий Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_DAMASCUS_STEEL:
-  name: '&7Дамасская сталь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_DURALIUM:
-  name: '&7Дюралий Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_FERROSILICON:
-  name: '&7Ферросилиций Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_HARD_METAL:
-  name: '&7Закалённый металл Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_INFINITY:
-  name: '&7Бесконечность Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_IRIDIUM:
-  name: '&7Иридий Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_LEAD:
-  name: '&7Свинец Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_LOVE:
-  name: '&7Любовь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_MAGNESIUM:
-  name: '&7Магний Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_MAGNONIUM:
-  name: '&7Магноний Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_MAGSTEEL:
-  name: '&7МагСталь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_MAG_THOR:
-  name: '&7Маг-Тор Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_MIXED_METAL:
-  name: '&7Смешанный металл Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_MYTHRIL:
-  name: '&7Мифрил Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_NICE:
-  name: '&7Найс Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_NICKEL:
-  name: '&7Никель Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_OSMIUM:
-  name: '&7Осмий Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_OSMIUM_SUPER_ALLOY:
-  name: '&7Осмиевый суперсплав Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_REDSTONE_ALLOY:
-  name: '&7Сплав редстоуна Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_REFINED_IRON:
-  name: '&7Очищенное железо Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_REINFORCED:
-  name: '&7Усиленный сплав Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_REINFORCED_DRACONIUM:
-  name: '&7Усиленный дракониум Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_REINFORCED_SLIMESTEEL:
-  name: '&7Усиленная слизистая сталь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_SCRAP:
-  name: '&7Лом Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_SEFIRITE:
-  name: '&7Сефирит Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_SILVER:
-  name: '&7Серебро Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_SLIMESTEEL:
-  name: '&7Слизистая сталь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_SMITHIUM:
-  name: '&7Смитий Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_SOLDER:
-  name: '&7Припой Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_STAINLESSSTEEL:
-  name: '&7Нержавеющая сталь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_STEEL:
-  name: '&7Сталь Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_TIN:
-  name: '&7Олово Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_TITANIUM:
-  name: '&7Титан Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_UNPATENTABILUM:
-  name: '&7Незапатентий Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_VOID:
-  name: '&7Пустота Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_ZINC:
-  name: '&7Цинк Блок'
   type:
   - '&7&oРесурс'
 BOOMERITE_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный бумерит'
   type:
   - '&7&oРесурс'
 BOOMERITE_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный бумерит'
   type:
   - '&7&oРесурс'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
   type:
   - '&7&oКомпонент'
 BOOST_TRAIT_PROP_LINKS_TIN_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Ускорение'
   type:
   - '&7&oКомпонент'
 BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
-  name: '&x&B&F&3&0&7&FСвойство : Упругий'
   type:
   - '&7&oКомпонент'
 BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
-  name: '&x&B&F&3&0&7&FСвойство : Упругий'
   type:
   - '&7&oКомпонент'
 BRAINS,_NOT_BRAWN._TRAIT_PROP_ROD_SCRAP:
@@ -362,15 +284,12 @@ BRAINS,_NOT_BRAWN_II_TRAIT_PROP_HEAD_COPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Ум, а не сила'
   type:
   - '&7&oКомпонент'
 BRASS_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленная латунь'
   type:
   - '&7&oРесурс'
 BRASS_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная латунь'
   type:
   - '&7&oРесурс'
 BREAKPOINT_TRAIT_PROP_HEAD_INFINITY_SINGULARITY:
@@ -380,7 +299,6 @@ BRIGHT-BURN_TRAIT_PROP_LINKS_DYNATECH_STAR_DUST:
   type:
   - '&7&oКомпонент'
 BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
-  name: '&x&B&F&3&0&7&FСвойство : Яркое горение'
   type:
   - '&7&oКомпонент'
 BRIGHTBURN_TRAIT_PROP_PLATES_MYTHRIL:
@@ -390,26 +308,21 @@ BRIGHT_FURY_TRAIT_PROP_HEAD_DYNATECH_STAR_DUST:
   type:
   - '&7&oКомпонент'
 BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Хрупкость'
   type:
   - '&7&oКомпонент'
 BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Хрупкость'
   type:
   - '&7&oКомпонент'
 BRONZE_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленная бронза'
   type:
   - '&7&oРесурс'
 BRONZE_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная бронза'
   type:
   - '&7&oРесурс'
 BUILDING_RAGE_TRAIT_PROP_LINKS_MAG_THOR:
   type:
   - '&7&oКомпонент'
 BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Массивный'
   type:
   - '&7&oКомпонент'
 CALL_OF_THE_WILD_TRAIT_PROP_LINKS_MYTHRIL:
@@ -419,94 +332,72 @@ CAN_II_TRAIT_PROP_ROD_TIN_SINGULARITY:
   type:
   - '&7&oКомпонент'
 CAN_TRAIT_PROP_ROD_TIN_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Жестянка'
   type:
   - '&7&oКомпонент'
 CARBON_FIBRE_TRAIT_PROP_GAMBESON_RAW_CARBON_MESH:
   type:
   - '&7&oКомпонент'
 CAST_AXE_HEAD:
-  name: '&eФорма: Головка топора'
   type:
   - '&7&oКомпонент'
 CAST_BLOCK:
-  name: '&eФорма: Металл Блок'
   type:
   - '&7&oКомпонент'
 CAST_BOOT_PLATE:
-  name: '&eФорма: Пластины ботинок'
   type:
   - '&7&oКомпонент'
 CAST_CHEST_PLATE:
-  name: '&eФорма: Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 CAST_GEM:
-  name: '&eФорма: Самоцвет'
   type:
   - '&7&oКомпонент'
 CAST_HELM_PLATE:
-  name: '&eФорма: Пластины шлема'
   type:
   - '&7&oКомпонент'
 CAST_HOEHEAD:
-  name: '&eФорма: Головка мотыги'
   type:
   - '&7&oКомпонент'
 CAST_INGOT:
-  name: '&eФорма: Металл Слиток'
   type:
   - '&7&oКомпонент'
 CAST_LEG_PLATE:
-  name: '&eФорма: Пластины поножей'
   type:
   - '&7&oКомпонент'
 CAST_MAIL_LINK:
-  name: '&eФорма: Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 CAST_NUGGET:
-  name: '&eФорма: Металл Самородок'
   type:
   - '&7&oКомпонент'
 CAST_PICKAXEHEAD:
-  name: '&eФорма: Головка кирки'
   type:
   - '&7&oКомпонент'
 CAST_REPAIRKIT:
-  name: '&eФорма: Ремонтный набор'
   type:
   - '&7&oКомпонент'
 CAST_SHOVELHEAD:
-  name: '&eФорма: Головка лопаты'
   type:
   - '&7&oКомпонент'
 CAST_SWORDBLADE:
-  name: '&eФорма: Лезвие меча'
   type:
   - '&7&oКомпонент'
 CAST_TOOLROD:
-  name: '&eФорма: Стержень инструмента'
   type:
   - '&7&oКомпонент'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
-  name: '&x&B&F&3&0&7&FСвойство : Праздник'
   type:
   - '&7&oКомпонент'
 CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Заряженная голова +'
   type:
   - '&7&oКомпонент'
 CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Заряженная головка -'
   type:
   - '&7&oКомпонент'
 CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Заряженный стержень +'
   type:
   - '&7&oКомпонент'
 CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Заряженный стержень -'
   type:
   - '&7&oКомпонент'
 CLEAN_CUT_TRAIT_PROP_HEAD_METAL_SINGULARITY:
@@ -516,19 +407,15 @@ CLEAVE_TRAIT_PROP_HEAD_ADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 COAL_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный уголь'
   type:
   - '&7&oРесурс'
 COBALT_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный кобальт'
   type:
   - '&7&oРесурс'
 COBALT_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный кобальт'
   type:
   - '&7&oРесурс'
 COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Накопление'
   type:
   - '&7&oКомпонент'
 CONCEPTUAL_DEFENCE_TRAIT_PROP_ROD_INFINITE_INGOT:
@@ -538,63 +425,51 @@ CONDUCTIVE_II_TRAIT_PROP_ROD_COPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Проводимость'
   type:
   - '&7&oКомпонент'
 CONDUCTIVITY_II_TRAIT_PROP_PLATES_SILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Электропроводность'
   type:
   - '&7&oКомпонент'
 CONDUCTOR_TRAIT_PROP_ROD_METAL_SINGULARITY:
   type:
   - '&7&oКомпонент'
 COPPER_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная медь'
   type:
   - '&7&oРесурс'
 COPPER_SINGULARITY_LIQUID:
   type:
   - '&7&oРесурс'
 CORINTHIAN_BRONZE_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленная коринфская бронза'
   type:
   - '&7&oРесурс'
 CORINTHIAN_BRONZE_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная коринфская бронза'
   type:
   - '&7&oРесурс'
 CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
-  name: '&x&B&F&3&0&7&FСвойство : Мастерство'
   type:
   - '&7&oКомпонент'
 CRINGLEIUM_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный кринглиум'
   type:
   - '&7&oРесурс'
 CRINGLEIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный кринглиум'
   type:
   - '&7&oРесурс'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
   type:
   - '&7&oКомпонент'
 DAMASCUS_STEEL_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленная дамасская сталь'
   type:
   - '&7&oРесурс'
 DAMASCUS_STEEL_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная дамасская сталь'
   type:
   - '&7&oРесурс'
 DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
-  name: '&x&B&F&3&0&7&FСвойство : Тление'
   type:
   - '&7&oКомпонент'
 DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
-  name: '&x&B&F&3&0&7&FСвойство : Тление'
   type:
   - '&7&oКомпонент'
 DEFENDER_TRAIT_PROP_LINKS_MAGSTEEL:
@@ -604,132 +479,102 @@ DEFLECTIVE_TRAIT_PROP_PLATES_ADAMANTITE:
   type:
   - '&7&oКомпонент'
 DETAILED_DEVOTION_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная искренняя преданность'
   type:
   - '&7&oРесурс'
 DIAMOND_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный алмаз'
   type:
   - '&7&oРесурс'
 DIAMOND_SINGULARITY_LIQUID:
   type:
   - '&7&oРесурс'
 DIE_AXE_HEAD:
-  name: '&eШтамп: Каменная Головка топора'
   type:
   - '&7&oКомпонент'
 DIE_BOOT_PLATE:
-  name: '&eШтамп: Каменная Пластины ботинок'
   type:
   - '&7&oКомпонент'
 DIE_CHEST_PLATE:
-  name: '&eШтамп: Каменная Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 DIE_HELM_PLATE:
-  name: '&eШтамп: Каменная Пластины шлема'
   type:
   - '&7&oКомпонент'
 DIE_HOE_HEAD:
-  name: '&eШтамп: Каменная Головка мотыги'
   type:
   - '&7&oКомпонент'
 DIE_LEG_PLATE:
-  name: '&eШтамп: Каменная Пластины поножей'
   type:
   - '&7&oКомпонент'
 DIE_MAIL_LINK:
-  name: '&eШтамп: Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 DIE_PICKAXE_HEAD:
-  name: '&eШтамп: Каменная Головка кирки'
   type:
   - '&7&oКомпонент'
 DIE_REPAIR_KIT:
-  name: '&eШтамп: Ремонтный набор'
   type:
   - '&7&oКомпонент'
 DIE_SHOVEL_HEAD:
-  name: '&eШтамп: Каменная Головка лопаты'
   type:
   - '&7&oКомпонент'
 DIE_SWORD_BLADE:
-  name: '&eШтамп: Каменная Лезвие меча'
   type:
   - '&7&oКомпонент'
 DIE_TOOL_ROD:
-  name: '&eШтамп: Стержень инструмента'
   type:
   - '&7&oКомпонент'
 DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
-  name: '&x&B&F&3&0&7&FСвойство : Погибель'
   type:
   - '&7&oКомпонент'
 DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
-  name: '&x&B&F&3&0&7&FСвойство : Погибель'
   type:
   - '&7&oКомпонент'
 DRACONIC_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный драконий металл'
   type:
   - '&7&oРесурс'
 DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
   type:
   - '&7&oКомпонент'
 DUMMY_MODIFICATION_STATION:
-  name: '&3Станция модификации Жестянщика'
   type:
-  - '&7&oРазное'
+  - '&7&oРізне'
 DUMMY_TINKERS_ARMOUR_TABLE:
-  name: '&3Стол брони Жестянщика'
   type:
-  - '&7&oРазное'
+  - '&7&oРізне'
 DUMMY_TINKERS_SMELTERY:
-  name: '&3Плавильня Жестянщика'
   type:
-  - '&7&oРазное'
+  - '&7&oРізне'
 DUMMY_TINKERS_SMELTERY_ALLOY:
-  name: '&3Плавильня Жестянщика'
   type:
-  - '&7&oРазное'
+  - '&7&oРізне'
 DUMMY_TINKERS_SMELTERY_MOLTEN:
-  name: '&3Плавильня Жестянщика'
   type:
-  - '&7&oРазное'
+  - '&7&oРізне'
 DUMMY_TINKERS_SMELTERY_MULTI:
-  name: '&3Плавильня Жестянщика'
   type:
-  - '&7&oРазное'
+  - '&7&oРізне'
 DUMMY_TINKERS_SMELTERY_PROP:
-  name: '&3Плавильня Жестянщика'
   type:
-  - '&7&oРазное'
+  - '&7&oРізне'
 DUMMY_TINKERS_TABLE:
-  name: '&3Стол инструментов Жестянщика'
   type:
-  - '&7&oРазное'
+  - '&7&oРізне'
 DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Прочность'
   type:
   - '&7&oКомпонент'
 DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Прочность'
   type:
   - '&7&oКомпонент'
 DURABLE_TRAIT_PROP_ROD_TITANIUM:
   type:
   - '&7&oКомпонент'
 DURALIUM_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный дюралий'
   type:
   - '&7&oРесурс'
 DURALIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный дюралий'
   type:
   - '&7&oРесурс'
 DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Гномье мастерство'
   type:
   - '&7&oКомпонент'
 DWARVEN_SKILLS_TRAIT_PROP_PLATES_TITANIUM:
@@ -745,15 +590,12 @@ EASILY_SHAPED_II_TRAIT_PROP_LINKS_ALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Лёгкая ковкость'
   type:
   - '&7&oКомпонент'
 EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Лёгкий ремонт'
   type:
   - '&7&oКомпонент'
 EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Выброс!'
   type:
   - '&7&oКомпонент'
 ELVEN_SPEED_TRAIT_PROP_HEAD_MYTHRIL:
@@ -766,15 +608,12 @@ ENCHANTING_II_TRAIT_PROP_LINKS_SILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Зачарование'
   type:
   - '&7&oКомпонент'
 ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Зачарование'
   type:
   - '&7&oКомпонент'
 ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Побег'
   type:
   - '&7&oКомпонент'
 ESCAPE_TRAIT_PROP_PLATES_MAGNONIUM:
@@ -793,11 +632,9 @@ FALLING_APART_TRAIT_PROP_LINKS_SCRAP:
   type:
   - '&7&oКомпонент'
 FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Фермер'
   type:
   - '&7&oКомпонент'
 FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Быстрота'
   type:
   - '&7&oКомпонент'
 FEAR_THE_VOID_TRAIT_PROP_ROD_VOID_INGOT:
@@ -807,19 +644,15 @@ FEELING_CONNECTED_TRAIT_PROP_LINKS_NTW_REMOTE_ULTIMATE:
   type:
   - '&7&oКомпонент'
 FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
-  name: '&x&B&F&3&0&7&FСвойство : Праздничное настроение'
   type:
   - '&7&oКомпонент'
 FERROSILICON_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный ферросилиций'
   type:
   - '&7&oРесурс'
 FERROSILICON_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный ферросилиций'
   type:
   - '&7&oРесурс'
 FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Пылающий жар'
   type:
   - '&7&oКомпонент'
 FLAMING_HOT_TRAIT_PROP_ROD_MAGNONIUM:
@@ -829,21 +662,18 @@ FLAMMABLE_II_TRAIT_PROP_HEAD_MAGNESIUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Воспламеняемость'
   type:
   - '&7&oКомпонент'
 FLAMMABLE_TRAIT_PROP_ROD_MAGSTEEL:
   type:
   - '&7&oКомпонент'
 FLOWING_FONDNESS_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная текущая нежность'
   type:
   - '&7&oРесурс'
 FOIL_II_TRAIT_PROP_PLATES_ALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Фольга'
   type:
   - '&7&oКомпонент'
 FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
@@ -853,11 +683,9 @@ FORTUNE_SINGULARITY_LIQUID:
   type:
   - '&7&oРесурс'
 FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Спаянность'
   type:
   - '&7&oКомпонент'
 FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Спаянность'
   type:
   - '&7&oКомпонент'
 GHOSTLY_ESSENCE_LIQUID:
@@ -876,64 +704,51 @@ GOLDEN_VEIL_II_TRAIT_PROP_HEAD_GOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Золотая завеса'
   type:
   - '&7&oКомпонент'
 GOLD_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленное золото'
   type:
   - '&7&oРесурс'
 GOLD_SINGULARITY_LIQUID:
   type:
   - '&7&oРесурс'
 GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
-  name: '&x&B&F&3&0&7&FСвойство : Бабах'
   type:
   - '&7&oКомпонент'
 GRACEFUL_II_TRAIT_PROP_HEAD_ZINC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Грациозность'
   type:
   - '&7&oКомпонент'
 GRINDER_TRAIT_PROP_ROD_EARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 GROUT:
-  name: '&7Раствор'
   type:
   - '&7&oКомпонент'
 GROWTH_TRAIT_PROP_BINDING_VINE:
-  name: '&x&B&F&3&0&7&FСвойство : Рост'
   type:
   - '&7&oКомпонент'
 GROWTH_TRAIT_PROP_GAMBESON_VINE:
-  name: '&x&B&F&3&0&7&FСвойство : Рост'
   type:
   - '&7&oКомпонент'
 HARDENED_METAL_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный закалённый металл'
   type:
   - '&7&oРесурс'
 HARDENED_METAL_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный закалённый металл'
   type:
   - '&7&oРесурс'
 HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
-  name: '&x&B&F&3&0&7&FСвойство : Выносливость'
   type:
   - '&7&oКомпонент'
 HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Выносливость'
   type:
   - '&7&oКомпонент'
 HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Теплопроводник'
   type:
   - '&7&oКомпонент'
 HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
-  name: '&x&B&F&3&0&7&FСвойство : Жаростойкость'
   type:
   - '&7&oКомпонент'
 HEAT_RESISTANT_TRAIT_PROP_HEAD_MAG_THOR:
@@ -946,11 +761,9 @@ HEAVY_DUTY_TRAIT_PROP_ROD_ADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Тяжесть'
   type:
   - '&7&oКомпонент'
 HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Скрытность'
   type:
   - '&7&oКомпонент'
 HOW_FORTUNATE_TRAIT_PROP_PLATES_FORTUNE_SINGULARITY:
@@ -963,7 +776,6 @@ HYBERBOLIC_TESSERATION_TRAIT_PROP_PLATES_DYNATECH_TESSERACTING_OBJECT:
   type:
   - '&7&oКомпонент'
 HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
-  name: '&x&B&F&3&0&7&FСвойство : Водород'
   type:
   - '&7&oКомпонент'
 HYPERCUBE_[A]_TRAIT_PROP_HEAD_DYNATECH_TESSERACTING_OBJECT:
@@ -979,7 +791,6 @@ INDOMITABLE_TRAIT_PROP_PLATES_IRIDIUM:
   type:
   - '&7&oКомпонент'
 INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
-  name: '&x&B&F&3&0&7&FСвойство : Трудолюбие'
   type:
   - '&7&oКомпонент'
 INFINITE_CAPACITY_TRAIT_PROP_PLATES_INFINITE_INGOT:
@@ -1001,71 +812,54 @@ INFINITY_SINGULARITY_LIQUID:
   type:
   - '&7&oРесурс'
 INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Высоты'
   type:
   - '&7&oКомпонент'
 INGOT_CAST_ANNIVERSARIUM:
-  name: '&7Аннивэрсарий Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_BOOMERITE:
-  name: '&7Бумерит Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_CRINGLEIUM:
-  name: '&7Крингелий Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_ABSORPTION:
-  name: '&7Поглощения Дакси Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_FORTITUDE:
-  name: '&7Стойкости Дакси Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_REGENERATION:
-  name: '&7Регенерации Дакси Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_SATURATION:
-  name: '&7Насыщения Дакси Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_STRENGTH:
-  name: '&7Силы Дакси Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DEVOTION:
-  name: '&7Преданность Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_FONDNESS:
-  name: '&7Симпатия Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_LOVE:
-  name: '&7Любовь Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_NICE:
-  name: '&7Найс Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_PASSION:
-  name: '&7Страсть Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_REINFORCED_DRACONIUM:
-  name: '&7Усиленный дракониум Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_SEFIRITE:
-  name: '&7Сефирит Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_SMITHIUM:
-  name: '&7Смитий Слиток'
   type:
   - '&7&oРесурс'
 INSULATED_TRAIT_PROP_BINDING_RUBBER:
@@ -1078,14 +872,12 @@ IRIDIUM_LIQUID:
   type:
   - '&7&oРесурс'
 IRON_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленное железо'
   type:
   - '&7&oРесурс'
 IRON_SINGULARITY_LIQUID:
   type:
   - '&7&oРесурс'
 IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
-  name: '&x&B&F&3&0&7&FСвойство : Это всё, что нужно'
   type:
   - '&7&oКомпонент'
 IT'S_ONLY_NATURAL_TRAIT_PROP_LINKS_EARTH_SINGULARITY:
@@ -1098,14 +890,12 @@ KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
   type:
   - '&7&oКомпонент'
 LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
-  name: '&x&B&F&3&0&7&FСвойство : Симулятор лестницы™'
   type:
   - '&7&oКомпонент'
 LAVA_WALKER_TRAIT_PROP_PLATES_EARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 LEAD_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный свинец'
   type:
   - '&7&oРесурс'
 LEAD_SINGULARITY_LIQUID:
@@ -1115,34 +905,27 @@ LEECH_II_TRAIT_PROP_ROD_LEAD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 LEECH_TRAIT_PROP_ROD_LEAD_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Пиявка'
   type:
   - '&7&oКомпонент'
 LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
-  name: '&x&B&F&3&0&7&FСвойство : Громоотвод'
   type:
   - '&7&oКомпонент'
 LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Лёгкость'
   type:
   - '&7&oКомпонент'
 LIGHT_II_TRAIT_PROP_PLATES_MAGNESIUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Лёгкость'
   type:
   - '&7&oКомпонент'
 LIQUID_CHRISTMAS_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленное жидкое Рождество'
   type:
   - '&7&oРесурс'
 LIQUID_LOVE_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленная жидкая любовь'
   type:
   - '&7&oРесурс'
 LIQUID_LOVE_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная жидкая любовь'
   type:
   - '&7&oРесурс'
 MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
@@ -1158,11 +941,9 @@ MAGNESIGHT™_II_TRAIT_PROP_LINKS_MAGNESIUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Магнизрение™'
   type:
   - '&7&oКомпонент'
 MAGNESIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный магний'
   type:
   - '&7&oРесурс'
 MAGNESIUM_SINGULARITY_LIQUID:
@@ -1172,23 +953,18 @@ MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Магнетезий'
   type:
   - '&7&oКомпонент'
 MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Магнитный +'
   type:
   - '&7&oКомпонент'
 MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Магнитный +'
   type:
   - '&7&oКомпонент'
 MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Магнетизм -'
   type:
   - '&7&oКомпонент'
 MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Магнетизм -'
   type:
   - '&7&oКомпонент'
 MAGNONIUM_LIQUID:
@@ -1201,7 +977,6 @@ MAGSTEEL_LIQUID:
   type:
   - '&7&oРесурс'
 MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Магус'
   type:
   - '&7&oКомпонент'
 MAG_THOR_ALLOY:
@@ -1214,7 +989,6 @@ MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
   type:
   - '&7&oКомпонент'
 MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Ковкость'
   type:
   - '&7&oКомпонент'
 MANNERS_MAKETH_MAN_TRAIT_PROP_ROD_REFINED_IRON:
@@ -1239,31 +1013,24 @@ MIX_IT_UP!_TRAIT_PROP_LINKS_MIXED_METAL_INGOT:
   type:
   - '&7&oКомпонент'
 MOD_DIAMOND_ENTRY:
-  name: '&dМодификация: Алмаз'
   type:
   - '&7&oКомпонент'
 MOD_EMERALD_ENTRY:
-  name: '&dМодификация: Изумруд'
   type:
   - '&7&oКомпонент'
 MOD_LAPIS_ENTRY:
-  name: '&dМодификация: Лазурит'
   type:
   - '&7&oКомпонент'
 MOD_PLATE:
-  name: '&dУсиленная пластина'
   type:
   - '&7&oКомпонент'
 MOD_PLATE_ENTRY:
-  name: '&dМодификация: Усиленная пластина'
   type:
   - '&7&oКомпонент'
 MOD_QUARTZ_ENTRY:
-  name: '&dМодификация: Кварц'
   type:
   - '&7&oКомпонент'
 MOD_REDSTONE_ENTRY:
-  name: '&dМодификация: Редстоун'
   type:
   - '&7&oКомпонент'
 MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
@@ -1276,27 +1043,21 @@ NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
   type:
   - '&7&oКомпонент'
 NICEINIUM_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный найсиниум'
   type:
   - '&7&oРесурс'
 NICEINIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный найсиниум'
   type:
   - '&7&oРесурс'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
-  name: '&x&B&F&3&0&7&FСвойство : Мило'
   type:
   - '&7&oКомпонент'
 NICKEL_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный никель'
   type:
   - '&7&oРесурс'
 NICKEL_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный никель'
   type:
   - '&7&oРесурс'
 NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Ночной охотник'
   type:
   - '&7&oКомпонент'
 NIMBLE_TRAIT_PROP_BINDING_RAW_CARBON_MESH:
@@ -1309,239 +1070,180 @@ NON-CORROSIVE_II_TRAIT_PROP_PLATES_TIN_SINGULARITY:
   type:
   - '&7&oКомпонент'
 NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Антикоррозийность'
   type:
   - '&7&oКомпонент'
 NUGGET_CAST_ADAMANTITE:
-  name: '&7Адамантит Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_ADVANCED_ALLOY:
-  name: '&7Улучшенный сплав Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_ALUMINUM:
-  name: '&7Алюминий Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_ALU_BRASS:
-  name: '&7Алюминиевая латунь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_ALU_BRONZE:
-  name: '&7Алюминиевая бронза Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_ANNIVERSARIUM:
-  name: '&7Аннивэрсарий Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_BILLON:
-  name: '&7Биллон Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_BOOMERITE:
-  name: '&7Бумерит Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_BRASS:
-  name: '&7Латунь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_BRONZE:
-  name: '&7Бронза Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_COAL:
-  name: '&7Уголь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_COBALT:
-  name: '&7Кобальт Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_COPPER:
-  name: '&7Медь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_COR_BRONZE:
-  name: '&7Коринфская бронза Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_CRINGLEIUM:
-  name: '&7Крингелий Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAMASCUS_STEEL:
-  name: '&7Дамасская сталь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_ABSORPTION:
-  name: '&7Поглощения Дакси Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_FORTITUDE:
-  name: '&7Стойкости Дакси Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_REGENERATION:
-  name: '&7Регенерации Дакси Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_SATURATION:
-  name: '&7Насыщения Дакси Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_STRENGTH:
-  name: '&7Силы Дакси Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DEVOTION:
-  name: '&7Преданность Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DURALIUM:
-  name: '&7Дюралий Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_FERROSILICON:
-  name: '&7Ферросилиций Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_FONDNESS:
-  name: '&7Симпатия Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_HARD_METAL:
-  name: '&7Закалённый металл Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_INFINITY:
-  name: '&7Бесконечность Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_IRIDIUM:
-  name: '&7Иридий Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_LEAD:
-  name: '&7Свинец Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_LOVE:
-  name: '&7Любовь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_MAGNESIUM:
-  name: '&7Магний Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_MAGNONIUM:
-  name: '&7Магноний Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_MAGSTEEL:
-  name: '&7МагСталь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_MAG_THOR:
-  name: '&7Маг-Тор Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_MIXED_METAL:
-  name: '&7Смешанный металл Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_MYTHRIL:
-  name: '&7Мифрил Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_NICE:
-  name: '&7Найс Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_NICKEL:
-  name: '&7Никель Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_OSMIUM:
-  name: '&7Осмий Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_OSMIUM_SUPER_ALLOY:
-  name: '&7Осмиевый суперсплав Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_PASSION:
-  name: '&7Страсть Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_REDSTONE_ALLOY:
-  name: '&7Сплав редстоуна Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_REFINED_IRON:
-  name: '&7Очищенное железо Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_REINFORCED:
-  name: '&7Усиленный сплав Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_REINFORCED_DRACONIUM:
-  name: '&7Усиленный дракониум Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_REINFORCED_SLIMESTEEL:
-  name: '&7Усиленная слизистая сталь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_SCRAP:
-  name: '&7Лом Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_SEFIRITE:
-  name: '&7Сефирит Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_SILVER:
-  name: '&7Серебро Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_SLIMESTEEL:
-  name: '&7Слизистая сталь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_SMITHIUM:
-  name: '&7Смитий Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_SOLDER:
-  name: '&7Припой Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_STAINLESSSTEEL:
-  name: '&7Нержавеющая сталь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_STEEL:
-  name: '&7Сталь Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_TIN:
-  name: '&7Олово Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_TITANIUM:
-  name: '&7Титан Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_UNPATENTABILUM:
-  name: '&7Незапатентий Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_ZINC:
-  name: '&7Цинк Самородок'
   type:
   - '&7&oРесурс'
 OROBORUS_TRAIT_PROP_LINKS_INFINITE_INGOT:
@@ -1551,140 +1253,114 @@ OXYGENATED_TRAIT_PROP_LINKS_MAGNONIUM:
   type:
   - '&7&oКомпонент'
 OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Насыщение кислородом'
   type:
   - '&7&oКомпонент'
 PART_AXE_HEAD:
   type:
   - '&7&oКомпонент'
 PART_AXE_HEAD_DUMMY:
-  name: '&eДеталь: Головка топора'
   type:
   - '&7&oКомпонент'
 PART_BINDING_CARBON_MESH:
   type:
   - '&7&oКомпонент'
 PART_BINDING_CRIMSON_ROOT:
-  name: '&x&B&5&3&6&5&EИз багровых корней&x&4&2&C&8&F&5 обмотка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_DUMMY:
-  name: '&eДеталь: Связка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_GENERAL_DISPLAY:
-  name: '&7Связка Материал'
   type:
   - '&7&oКомпонент'
 PART_BINDING_GHOSTLY_ESSENCE:
   type:
   - '&7&oКомпонент'
 PART_BINDING_LEATHER:
-  name: '&x&9&1&8&0&5&6Кожаная&x&4&2&C&8&F&5 обмотка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_RUBBER:
   type:
   - '&7&oКомпонент'
 PART_BINDING_SILICON:
-  name: '&x&F&2&F&2&F&2Кремниевая&x&4&2&C&8&F&5 обмотка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_SLIME:
-  name: '&x&2&9&E&0&1&FСлизневая&x&4&2&C&8&F&5 обмотка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_STRING:
-  name: '&x&F&5&F&5&F&5Нитяная&x&4&2&C&8&F&5 обмотка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_TWISTED_VINE:
-  name: '&x&1&B&8&0&4&5Из витых лиан&x&4&2&C&8&F&5 обмотка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_VEX_GEM:
   type:
   - '&7&oКомпонент'
 PART_BINDING_VINE:
-  name: '&x&4&C&A&8&6&BЛиановая&x&4&2&C&8&F&5 обмотка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_WARPED_ROOT:
-  name: '&x&3&6&B&5&4&9Из искажённых корней&x&4&2&C&8&F&5 обмотка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_WEEPING_VINE:
-  name: '&x&9&C&0&9&1&DИз плакучих лиан&x&4&2&C&8&F&5 обмотка'
   type:
   - '&7&oКомпонент'
 PART_BOOTS_PLATES:
   type:
   - '&7&oКомпонент'
 PART_BOOT_PLATE_DUMMY:
-  name: '&eДеталь: Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_CHEST_PLATES:
   type:
   - '&7&oКомпонент'
 PART_CHEST_PLATE_DUMMY:
-  name: '&eДеталь: Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_CARBON_MESH:
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_CRIMSON_ROOT:
-  name: '&x&B&5&3&6&5&EИз багровых корней&x&4&2&C&8&F&5 поддоспешник'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_DUMMY:
-  name: '&eДеталь: Гамбезон'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_GENERAL_DISPLAY:
-  name: '&7Гамбезон Материал'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_GHOSTLY_ESSENCE:
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_LEATHER:
-  name: '&x&9&1&8&0&5&6Кожаный&x&4&2&C&8&F&5 поддоспешник'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_RUBBER:
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_SILICON:
-  name: '&x&F&2&F&2&F&2Кремниевый&x&4&2&C&8&F&5 поддоспешник'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_SLIME:
-  name: '&x&2&9&E&0&1&FСлизневый&x&4&2&C&8&F&5 поддоспешник'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_STRING:
-  name: '&x&F&5&F&5&F&5Нитяной&x&4&2&C&8&F&5 поддоспешник'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_TWISTED_VINE:
-  name: '&x&1&B&8&0&4&5Из витых лиан&x&4&2&C&8&F&5 поддоспешник'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_VEX_GEM:
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_VINE:
-  name: '&x&4&C&A&8&6&BЛиановый&x&4&2&C&8&F&5 поддоспешник'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_WARPED_ROOT:
-  name: '&x&3&6&B&5&4&9Из искажённых корней&x&4&2&C&8&F&5 поддоспешник'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_WEEPING_VINE:
-  name: '&x&9&C&0&9&1&DИз плакучих лиан&x&4&2&C&8&F&5 поддоспешник'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEADAMANTITE:
@@ -1694,78 +1370,63 @@ PART_HEAD_AXEADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевая&x&4&2&C&8&F&5 насадка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEBILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEBOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEBRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEBRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXECOBALT:
-  name: '&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXECOPPER:
-  name: '&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXECOPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXECORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 насадка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEDURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEEARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEFORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEGOLD:
-  name: '&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEGOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEINFINITE:
@@ -1778,14 +1439,12 @@ PART_HEAD_AXEIRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEIRON:
-  name: '&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEIRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXELEAD:
-  name: '&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXELEAD_SINGULARITY:
@@ -1795,7 +1454,6 @@ PART_HEAD_AXEMAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEMAGNESIUM_SINGULARITY:
@@ -1820,18 +1478,15 @@ PART_HEAD_AXEMYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXENICEINIUM:
-  name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXENICKEL:
-  name: '&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEREFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEREINFORCED_DRACONIUM:
@@ -1841,18 +1496,15 @@ PART_HEAD_AXESCRAP:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXESILVER:
-  name: '&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXESILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXESMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXESOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXESTAINLESS_STEEL:
@@ -1862,14 +1514,12 @@ PART_HEAD_AXESTAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXESTEEL:
-  name: '&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXETESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXETIN:
-  name: '&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXETIN_SINGULARITY:
@@ -1882,7 +1532,6 @@ PART_HEAD_AXEVOID:
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEZINC:
-  name: '&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка топора'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEZINC_SINGULARITY:
@@ -1895,78 +1544,63 @@ PART_HEAD_HOEADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевая&x&4&2&C&8&F&5 насадка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEBILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEBOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEBRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEBRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOECOBALT:
-  name: '&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOECOPPER:
-  name: '&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOECOPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOECORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 насадка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEDURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEEARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEFORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEGOLD:
-  name: '&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEGOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEINFINITE:
@@ -1979,14 +1613,12 @@ PART_HEAD_HOEIRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEIRON:
-  name: '&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEIRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOELEAD:
-  name: '&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOELEAD_SINGULARITY:
@@ -1996,7 +1628,6 @@ PART_HEAD_HOEMAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEMAGNESIUM_SINGULARITY:
@@ -2021,18 +1652,15 @@ PART_HEAD_HOEMYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOENICEINIUM:
-  name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOENICKEL:
-  name: '&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEREFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEREINFORCED_DRACONIUM:
@@ -2042,18 +1670,15 @@ PART_HEAD_HOESCRAP:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOESILVER:
-  name: '&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOESILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOESMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOESOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOESTAINLESS_STEEL:
@@ -2063,14 +1688,12 @@ PART_HEAD_HOESTAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOESTEEL:
-  name: '&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOETESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOETIN:
-  name: '&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOETIN_SINGULARITY:
@@ -2083,7 +1706,6 @@ PART_HEAD_HOEVOID:
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEZINC:
-  name: '&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка мотыги'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEZINC_SINGULARITY:
@@ -2096,78 +1718,63 @@ PART_HEAD_PICKADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевая&x&4&2&C&8&F&5 насадка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKBILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKBOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKBRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKBRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKCOBALT:
-  name: '&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKCOPPER:
-  name: '&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKCOPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 насадка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKDURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKEARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKFORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKGOLD:
-  name: '&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKGOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKINFINITE:
@@ -2180,14 +1787,12 @@ PART_HEAD_PICKIRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKIRON:
-  name: '&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKIRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKLEAD:
-  name: '&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKLEAD_SINGULARITY:
@@ -2197,7 +1802,6 @@ PART_HEAD_PICKMAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKMAGNESIUM_SINGULARITY:
@@ -2222,18 +1826,15 @@ PART_HEAD_PICKMYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKNICEINIUM:
-  name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKNICKEL:
-  name: '&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKREFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKREINFORCED_DRACONIUM:
@@ -2243,18 +1844,15 @@ PART_HEAD_PICKSCRAP:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKSILVER:
-  name: '&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKSILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKSMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKSOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKSTAINLESS_STEEL:
@@ -2264,14 +1862,12 @@ PART_HEAD_PICKSTAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKSTEEL:
-  name: '&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKTESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKTIN:
-  name: '&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKTIN_SINGULARITY:
@@ -2284,7 +1880,6 @@ PART_HEAD_PICKVOID:
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKZINC:
-  name: '&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка кирки'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKZINC_SINGULARITY:
@@ -2297,78 +1892,63 @@ PART_HEAD_SHOVELADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевая&x&4&2&C&8&F&5 насадка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Лопасть лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELBILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Лопасть лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELBOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELBRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Лопасть лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELBRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELCOBALT:
-  name: '&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELCOPPER:
-  name: '&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELCOPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Головка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELDURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELEARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELFORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELGOLD:
-  name: '&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELGOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELINFINITE:
@@ -2381,14 +1961,12 @@ PART_HEAD_SHOVELIRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELIRON:
-  name: '&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELIRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELLEAD:
-  name: '&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELLEAD_SINGULARITY:
@@ -2398,7 +1976,6 @@ PART_HEAD_SHOVELMAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
@@ -2423,18 +2000,15 @@ PART_HEAD_SHOVELMYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELNICEINIUM:
-  name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELNICKEL:
-  name: '&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Лопасть лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELREFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELREINFORCED_DRACONIUM:
@@ -2444,18 +2018,15 @@ PART_HEAD_SHOVELSCRAP:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELSILVER:
-  name: '&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELSILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELSMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELSOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Лопасть лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELSTAINLESS_STEEL:
@@ -2465,14 +2036,12 @@ PART_HEAD_SHOVELSTAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELSTEEL:
-  name: '&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELTESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELTIN:
-  name: '&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELTIN_SINGULARITY:
@@ -2485,7 +2054,6 @@ PART_HEAD_SHOVELVOID:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELZINC:
-  name: '&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка лопаты'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELZINC_SINGULARITY:
@@ -2498,78 +2066,63 @@ PART_HEAD_SWORDADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевый&x&4&2&C&8&F&5 наконечник меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Головка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDBILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDBOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDBRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDBRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Головка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDCOBALT:
-  name: '&x&9&E&9&E&9&EКобальтовая&x&4&2&C&8&F&5 голова меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDCOPPER:
-  name: '&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 наконечник меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDCOPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Головка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 насадка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDDURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDEARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилициевая&x&4&2&C&8&F&5 голова меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDFORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDGOLD:
-  name: '&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 наконечник меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDGOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Головка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDINFINITE:
@@ -2582,14 +2135,12 @@ PART_HEAD_SWORDIRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDIRON:
-  name: '&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 наконечник меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDIRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDLEAD:
-  name: '&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 наконечник меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDLEAD_SINGULARITY:
@@ -2599,7 +2150,6 @@ PART_HEAD_SWORDMAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевая&x&4&2&C&8&F&5 насадка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
@@ -2624,18 +2174,15 @@ PART_HEAD_SWORDMYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDNICEINIUM:
-  name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDNICKEL:
-  name: '&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDREFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 голова меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDREINFORCED_DRACONIUM:
@@ -2645,18 +2192,15 @@ PART_HEAD_SWORDSCRAP:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDSILVER:
-  name: '&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 наконечник меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDSILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDSMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDSOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDSTAINLESS_STEEL:
@@ -2666,14 +2210,12 @@ PART_HEAD_SWORDSTAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDSTEEL:
-  name: '&x&D&1&D&1&D&1Стальная&x&4&2&C&8&F&5 насадка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDTESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDTIN:
-  name: '&x&A&8&9&B&9&BОловянная&x&4&2&C&8&F&5 насадка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDTIN_SINGULARITY:
@@ -2686,7 +2228,6 @@ PART_HEAD_SWORDVOID:
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDZINC:
-  name: '&x&9&B&A&8&A&6Цинковая&x&4&2&C&8&F&5 насадка меча'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDZINC_SINGULARITY:
@@ -2696,21 +2237,18 @@ PART_HELM_PLATES:
   type:
   - '&7&oКомпонент'
 PART_HELM_PLATE_DUMMY:
-  name: '&eДеталь: Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_HOE_HEAD:
   type:
   - '&7&oКомпонент'
 PART_HOE_HEAD_DUMMY:
-  name: '&eДеталь: Головка мотыги'
   type:
   - '&7&oКомпонент'
 PART_LEG_PLATES:
   type:
   - '&7&oКомпонент'
 PART_LEG_PLATE_DUMMY:
-  name: '&eДеталь: Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_LINKS_ADAMANTITE:
@@ -2720,64 +2258,51 @@ PART_LINKS_ADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_LINKS_ALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_ALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Звенья кольчуги'
   type:
   - '&7&oКомпонент'
 PART_LINKS_ALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_ALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_LINKS_BILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Звенья кольчуги'
   type:
   - '&7&oКомпонент'
 PART_LINKS_BRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Звенья кольчуги'
   type:
   - '&7&oКомпонент'
 PART_LINKS_BRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_COBALT:
-  name: '&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 кольца кольчуги'
   type:
   - '&7&oКомпонент'
 PART_LINKS_COPPER:
-  name: '&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_COPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_LINKS_CORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Звенья кольчуги'
   type:
   - '&7&oКомпонент'
 PART_LINKS_CRINGLEIUM:
-  name: '&x&0&0&C&C&3&6Кринглиум&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_DAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_DURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_EARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_LINKS_FERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_FORTUNE_SINGULARITY:
@@ -2787,14 +2312,12 @@ PART_LINKS_GHOSTLY_ESSENCE:
   type:
   - '&7&oКомпонент'
 PART_LINKS_GOLD:
-  name: '&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_GOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_LINKS_HARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_INFINITE:
@@ -2807,28 +2330,24 @@ PART_LINKS_IRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_LINKS_IRON:
-  name: '&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_IRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_LINKS_LEAD:
-  name: '&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_LEAD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_LINKS_LIQUID_LOVE:
-  name: '&x&E&B&3&4&D&2Жидкая любовь&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_MAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_LINKS_MAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_MAGNESIUM_SINGULARITY:
@@ -2853,36 +2372,30 @@ PART_LINKS_MYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_LINKS_NICKEL:
-  name: '&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 кольца кольчуги'
   type:
   - '&7&oКомпонент'
 PART_LINKS_REDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_REFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_LINKS_REINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 кольца кольчуги'
   type:
   - '&7&oКомпонент'
 PART_LINKS_SCRAP:
   type:
   - '&7&oКомпонент'
 PART_LINKS_SILVER:
-  name: '&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_SILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_LINKS_SMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_SOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Звенья кольчуги'
   type:
   - '&7&oКомпонент'
 PART_LINKS_STAINLESS_STEEL:
@@ -2892,14 +2405,12 @@ PART_LINKS_STAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_LINKS_STEEL:
-  name: '&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_TESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_LINKS_TIN:
-  name: '&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_TIN_SINGULARITY:
@@ -2915,21 +2426,18 @@ PART_LINKS_VOID:
   type:
   - '&7&oКомпонент'
 PART_LINKS_ZINC:
-  name: '&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_LINKS_ZINC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_MAIL_LINKS_DUMMY:
-  name: '&eДеталь: Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PART_PICKAXE_HEAD:
   type:
   - '&7&oКомпонент'
 PART_PICKAXE_HEAD_DUMMY:
-  name: '&eДеталь: Головка кирки'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSADAMANTITE:
@@ -2939,82 +2447,66 @@ PART_PLATES_BOOTSADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSBILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSBOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSBRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSBRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSCOBALT:
-  name: '&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSCOPPER:
-  name: '&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSCOPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSDURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSEARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSFORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSGOLD:
-  name: '&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSGOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSINFINITE:
@@ -3027,14 +2519,12 @@ PART_PLATES_BOOTSIRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSIRON:
-  name: '&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSIRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSLEAD:
-  name: '&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSLEAD_SINGULARITY:
@@ -3044,7 +2534,6 @@ PART_PLATES_BOOTSMAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
@@ -3069,40 +2558,33 @@ PART_PLATES_BOOTSMYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSNICKEL:
-  name: '&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSREDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSREFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSCRAP:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSEFIRITE:
-  name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSILVER:
-  name: '&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSTAINLESS_STEEL:
@@ -3112,14 +2594,12 @@ PART_PLATES_BOOTSSTAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSTEEL:
-  name: '&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSTESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSTIN:
-  name: '&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSTIN_SINGULARITY:
@@ -3132,7 +2612,6 @@ PART_PLATES_BOOTSVOID:
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSZINC:
-  name: '&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 пластины ботинок'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSZINC_SINGULARITY:
@@ -3145,82 +2624,66 @@ PART_PLATES_CHESTPLATEADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEBILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEBOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEBRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEBRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATECOBALT:
-  name: '&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATECOPPER:
-  name: '&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATECOPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEDURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEFORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEGOLD:
-  name: '&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEGOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEINFINITE:
@@ -3233,14 +2696,12 @@ PART_PLATES_CHESTPLATEIRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEIRON:
-  name: '&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEIRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATELEAD:
-  name: '&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATELEAD_SINGULARITY:
@@ -3250,7 +2711,6 @@ PART_PLATES_CHESTPLATEMAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
@@ -3275,40 +2735,33 @@ PART_PLATES_CHESTPLATEMYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATENICKEL:
-  name: '&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEREFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESCRAP:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESEFIRITE:
-  name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESILVER:
-  name: '&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESTAINLESS_STEEL:
@@ -3318,14 +2771,12 @@ PART_PLATES_CHESTPLATESTAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESTEEL:
-  name: '&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATETESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATETIN:
-  name: '&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATETIN_SINGULARITY:
@@ -3338,7 +2789,6 @@ PART_PLATES_CHESTPLATEVOID:
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEZINC:
-  name: '&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 пластины нагрудника'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEZINC_SINGULARITY:
@@ -3351,82 +2801,66 @@ PART_PLATES_HELMETADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETBILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETBOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETBRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETBRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETCOBALT:
-  name: '&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETCOPPER:
-  name: '&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETCOPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETDURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETEARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETFORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETGOLD:
-  name: '&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETGOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETINFINITE:
@@ -3439,14 +2873,12 @@ PART_PLATES_HELMETIRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETIRON:
-  name: '&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETIRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETLEAD:
-  name: '&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETLEAD_SINGULARITY:
@@ -3456,7 +2888,6 @@ PART_PLATES_HELMETMAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
@@ -3481,40 +2912,33 @@ PART_PLATES_HELMETMYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETNICKEL:
-  name: '&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETREDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETREFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSCRAP:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSEFIRITE:
-  name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSILVER:
-  name: '&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSTAINLESS_STEEL:
@@ -3524,14 +2948,12 @@ PART_PLATES_HELMETSTAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSTEEL:
-  name: '&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETTESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETTIN:
-  name: '&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETTIN_SINGULARITY:
@@ -3544,7 +2966,6 @@ PART_PLATES_HELMETVOID:
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETZINC:
-  name: '&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 пластины шлема'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETZINC_SINGULARITY:
@@ -3557,82 +2978,66 @@ PART_PLATES_LEGGINGSADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевые&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSBILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSBOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSBRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSBRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSCOBALT:
-  name: '&x&9&E&9&E&9&EКобальтовые&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSCOPPER:
-  name: '&x&C&9&9&7&3&2Медные&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSCOPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSDURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSEARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSFORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSGOLD:
-  name: '&x&F&F&E&1&3&8Золотые&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSGOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSINFINITE:
@@ -3645,14 +3050,12 @@ PART_PLATES_LEGGINGSIRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSIRON:
-  name: '&x&8&C&8&C&8&CЖелезные&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSIRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSLEAD:
-  name: '&x&9&0&4&3&B&AСвинцовые&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSLEAD_SINGULARITY:
@@ -3662,7 +3065,6 @@ PART_PLATES_LEGGINGSMAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевые&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
@@ -3687,40 +3089,33 @@ PART_PLATES_LEGGINGSMYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSNICKEL:
-  name: '&x&E&B&E&B&E&BНикелевые&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSREDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSREFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSCRAP:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSEFIRITE:
-  name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSILVER:
-  name: '&x&D&4&D&4&D&4Серебряные&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSTAINLESS_STEEL:
@@ -3730,14 +3125,12 @@ PART_PLATES_LEGGINGSSTAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSTEEL:
-  name: '&x&D&1&D&1&D&1Стальные&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSTESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSTIN:
-  name: '&x&A&8&9&B&9&BОловянные&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSTIN_SINGULARITY:
@@ -3750,7 +3143,6 @@ PART_PLATES_LEGGINGSVOID:
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSZINC:
-  name: '&x&9&B&A&8&A&6Цинковые&x&4&2&C&8&F&5 пластины поножей'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSZINC_SINGULARITY:
@@ -3766,86 +3158,69 @@ PART_REPAIR_KIT_ADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_ALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевый&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_ALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_ALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_ANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_BILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_BOOMERITE:
-  name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_BRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_BRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_COBALT:
-  name: '&x&9&E&9&E&9&EКобальтовый&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_COPPER:
-  name: '&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_COPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_CORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_DAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_DUMMY:
-  name: '&eДеталь: Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_DURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_EARTH_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_FERROSILICON:
-  name: '&x&F&2&F&2&F&2Ферросилиций&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_FORTUNE_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_GOLD:
-  name: '&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_GOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_HARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_INFINITE:
@@ -3858,14 +3233,12 @@ PART_REPAIR_KIT_IRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_IRON:
-  name: '&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_IRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_LEAD:
-  name: '&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_LEAD_SINGULARITY:
@@ -3875,7 +3248,6 @@ PART_REPAIR_KIT_MAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_MAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевый&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
@@ -3900,22 +3272,18 @@ PART_REPAIR_KIT_MYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_NICEINIUM:
-  name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_NICKEL:
-  name: '&x&E&B&E&B&E&BНикелевый&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_REDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_REFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_REINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_REINFORCED_DRACONIUM:
@@ -3925,22 +3293,18 @@ PART_REPAIR_KIT_SCRAP:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_SEFIRITE:
-  name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_SILVER:
-  name: '&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_SILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_SMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_SOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_STAINLESS_STEEL:
@@ -3950,14 +3314,12 @@ PART_REPAIR_KIT_STAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_STEEL:
-  name: '&x&D&1&D&1&D&1Стальной&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_TESSERACTING_MATERIAL:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_TIN:
-  name: '&x&A&8&9&B&9&BОловянный&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_TIN_SINGULARITY:
@@ -3970,7 +3332,6 @@ PART_REPAIR_KIT_VOID:
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_ZINC:
-  name: '&x&9&B&A&8&A&6Цинковый&x&4&2&C&8&F&5 ремонтный набор'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_ZINC_SINGULARITY:
@@ -3983,53 +3344,42 @@ PART_ROD_ADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 PART_ROD_ALUMINUM:
-  name: '&x&B&0&B&0&B&0Алюминиевый&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_ALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Алюминиевая латунь&x&4&2&C&8&F&5 Стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_ALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DАлюминиевая бронза&x&4&2&C&8&F&5 Рукоять'
   type:
   - '&7&oКомпонент'
 PART_ROD_ALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_ROD_BILLON:
-  name: '&x&B&0&C&2&B&EБиллон&x&4&2&C&8&F&5 Стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_BRASS:
-  name: '&x&D&B&C&D&4&BЛатунь&x&4&2&C&8&F&5 Стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_BRONZE:
-  name: '&x&8&7&7&4&3&5Бронза&x&4&2&C&8&F&5 Рукоять'
   type:
   - '&7&oКомпонент'
 PART_ROD_COBALT:
-  name: '&x&9&E&9&E&9&EКобальтовый&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_COPPER:
-  name: '&x&C&9&9&7&3&2Медный&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_COPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_ROD_CORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Коринфская бронза&x&4&2&C&8&F&5 Стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_DAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CДамасская сталь&x&4&2&C&8&F&5 Рукоять'
   type:
   - '&7&oКомпонент'
 PART_ROD_DURALIUM:
-  name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Рукоять'
   type:
   - '&7&oКомпонент'
 PART_ROD_EARTH_SINGULARITY:
@@ -4042,14 +3392,12 @@ PART_ROD_GHOSTLY_ESSENCE:
   type:
   - '&7&oКомпонент'
 PART_ROD_GOLD:
-  name: '&x&F&F&E&1&3&8Золотой&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_GOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_ROD_HARDENED_METAL:
-  name: '&x&2&9&2&5&1&AЗакалённый металл&x&4&2&C&8&F&5 Рукоять'
   type:
   - '&7&oКомпонент'
 PART_ROD_INFINITE:
@@ -4059,14 +3407,12 @@ PART_ROD_IRIDIUM:
   type:
   - '&7&oКомпонент'
 PART_ROD_IRON:
-  name: '&x&8&C&8&C&8&CЖелезный&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_IRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_ROD_LEAD:
-  name: '&x&9&0&4&3&B&AСвинцовый&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_LEAD_SINGULARITY:
@@ -4076,7 +3422,6 @@ PART_ROD_MAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_ROD_MAGNESIUM:
-  name: '&x&E&8&C&E&F&5Магниевый&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_MAGNESIUM_SINGULARITY:
@@ -4101,36 +3446,30 @@ PART_ROD_MYTHRIL:
   type:
   - '&7&oКомпонент'
 PART_ROD_NICKEL:
-  name: '&x&E&B&E&B&E&BНикель&x&4&2&C&8&F&5 Стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_REDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Красный сплав&x&4&2&C&8&F&5 Стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_REFINED_IRON:
   type:
   - '&7&oКомпонент'
 PART_ROD_REINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Укреплённого сплава&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_SCRAP:
   type:
   - '&7&oКомпонент'
 PART_ROD_SILVER:
-  name: '&x&D&4&D&4&D&4Серебряный&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_SILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PART_ROD_SMITHIUM:
-  name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_SOLDER:
-  name: '&x&B&7&A&F&B&DПрипой&x&4&2&C&8&F&5 Стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_STAINLESS_STEEL:
@@ -4140,11 +3479,9 @@ PART_ROD_STAR_DUST:
   type:
   - '&7&oКомпонент'
 PART_ROD_STEEL:
-  name: '&x&D&1&D&1&D&1Стальной&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_TIN:
-  name: '&x&A&8&9&B&9&BОловянный&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_TIN_SINGULARITY:
@@ -4157,7 +3494,6 @@ PART_ROD_VOID:
   type:
   - '&7&oКомпонент'
 PART_ROD_ZINC:
-  name: '&x&9&B&A&8&A&6Цинковый&x&4&2&C&8&F&5 стержень'
   type:
   - '&7&oКомпонент'
 PART_ROD_ZINC_SINGULARITY:
@@ -4167,21 +3503,18 @@ PART_SHOVEL_HEAD:
   type:
   - '&7&oКомпонент'
 PART_SHOVEL_HEAD_DUMMY:
-  name: '&eДеталь: Головка лопаты'
   type:
   - '&7&oКомпонент'
 PART_SWORD_BLADE:
   type:
   - '&7&oКомпонент'
 PART_SWORD_BLADE_DUMMY:
-  name: '&eДеталь: Лезвие меча'
   type:
   - '&7&oКомпонент'
 PART_TOOL_ROD:
   type:
   - '&7&oКомпонент'
 PART_TOOL_ROD_DUMMY:
-  name: '&eДеталь: Стержень инструмента'
   type:
   - '&7&oКомпонент'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -4194,49 +3527,39 @@ POISONOUS_II_TRAIT_PROP_HEAD_LEAD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Ядовитость'
   type:
   - '&7&oКомпонент'
 POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
-  name: '&x&B&F&3&0&7&FСвойство : Под напряжением'
   type:
   - '&7&oКомпонент'
 PROP_BINDING:
-  name: '&bДеталь: Связующее'
   type:
   - '&7&oКомпонент'
 PROP_GAMBESON:
-  name: '&bДеталь: Гамбезон'
   type:
   - '&7&oКомпонент'
 PROP_HEAD:
-  name: '&bДеталь: Головка'
   type:
   - '&7&oКомпонент'
 PROP_LINKS:
-  name: '&bДеталь: Кольчужные звенья'
   type:
   - '&7&oКомпонент'
 PROP_PLATES:
-  name: '&bДеталь: Пластины'
   type:
   - '&7&oКомпонент'
 PROP_ROD:
-  name: '&bДеталь: Стержень инструмента'
   type:
   - '&7&oКомпонент'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Процветание'
   type:
   - '&7&oКомпонент'
 PROTECTIVE_TRAIT_PROP_HEAD_IRIDIUM:
   type:
   - '&7&oКомпонент'
 PURIFIED_PASSION_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная очищенная страсть'
   type:
   - '&7&oРесурс'
 RADIOACTIVE_PLATES_TRAIT_PROP_PLATES_MAG_THOR:
@@ -4252,42 +3575,33 @@ RECYCLABLE_II_TRAIT_PROP_HEAD_ALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Перерабатываемость'
   type:
   - '&7&oКомпонент'
 REDSTONE_ALLOY_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный красный сплав'
   type:
   - '&7&oРесурс'
 REDSTONE_ALLOY_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный красный сплав'
   type:
   - '&7&oРесурс'
 REDSTONE_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный редстоун'
   type:
   - '&7&oРесурс'
 REFINED_IRON_LIQUID:
   type:
   - '&7&oРесурс'
 REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
-  name: '&x&B&F&3&0&7&FСвойство : Освежающий'
   type:
   - '&7&oКомпонент'
 REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
-  name: '&x&B&F&3&0&7&FСвойство : Освежающий'
   type:
   - '&7&oКомпонент'
 REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Укрепляемый'
   type:
   - '&7&oКомпонент'
 REINFORCED_ALLOY_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный укреплённый сплав'
   type:
   - '&7&oРесурс'
 REINFORCED_ALLOY_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный укреплённый сплав'
   type:
   - '&7&oРесурс'
 REINFORCED_DRACONIUM_ALLOY:
@@ -4300,62 +3614,51 @@ REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
   type:
   - '&7&oКомпонент'
 REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Укреплённый'
   type:
   - '&7&oКомпонент'
 REMOTININIUM_LIQUID:
   type:
   - '&7&oРесурс'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Сопротивление'
   type:
   - '&7&oКомпонент'
 RUSTY_II_TRAIT_PROP_LINKS_IRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Ржавость'
   type:
   - '&7&oКомпонент'
 SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Драпаем!'
   type:
   - '&7&oКомпонент'
 SCRAP_LIQUID:
   type:
   - '&7&oРесурс'
 SEARED_BRICK:
-  name: '&7Обожжённый кирпич'
   type:
   - '&7&oКомпонент'
 SEARED_BRICK_BLOCK:
-  name: '&7Блок обожжённого кирпича'
   type:
   - '&7&oКомпонент'
 SEARED_TANK:
-  name: '&7Обожжённый резервуар'
   type:
   - '&7&oКомпонент'
 SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 SEFIRITE_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный сефирит'
   type:
   - '&7&oРесурс'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Острота 1'
   type:
   - '&7&oКомпонент'
 SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Острота 2'
   type:
   - '&7&oКомпонент'
 SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Поглощение ударов'
   type:
   - '&7&oКомпонент'
 SICKLY_II_TRAIT_PROP_LINKS_LEAD_SINGULARITY:
@@ -4365,102 +3668,81 @@ SICKLY_II_TRAIT_PROP_PLATES_LEAD_SINGULARITY:
   type:
   - '&7&oКомпонент'
 SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Болезненность'
   type:
   - '&7&oКомпонент'
 SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Болезненность'
   type:
   - '&7&oКомпонент'
 SILICON_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный кремний'
   type:
   - '&7&oРесурс'
 SILVER_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленное серебро'
   type:
   - '&7&oРесурс'
 SILVER_SINGULARITY_LIQUID:
   type:
   - '&7&oРесурс'
 SLIME_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная слизь'
   type:
   - '&7&oРесурс'
 SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
-  name: '&x&B&F&3&0&7&FСвойство : Медленный ученик'
   type:
   - '&7&oКомпонент'
 SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
-  name: '&x&B&F&3&0&7&FСвойство : Медленный ученик'
   type:
   - '&7&oКомпонент'
 SMELTERY_CONTROLLER:
-  name: '&3Контроллер плавильни'
   type:
   - '&7&oКомпонент'
 SMITHIUM_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный смитиум'
   type:
   - '&7&oРесурс'
 SMITHIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный смитиум'
   type:
   - '&7&oРесурс'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Скрытность'
   type:
   - '&7&oКомпонент'
 SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Снроши'
   type:
   - '&7&oКомпонент'
 SOFT_II_TRAIT_PROP_ROD_ALUMINUM_SINGULARITY:
   type:
   - '&7&oКомпонент'
 SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Мягкое приземление'
   type:
   - '&7&oКомпонент'
 SOFT_TOUCH_II_TRAIT_PROP_ROD_SILVER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Мягкое касание'
   type:
   - '&7&oКомпонент'
 SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Мягкость'
   type:
   - '&7&oКомпонент'
 SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
-  name: '&x&B&F&3&0&7&FСвойство : Солнечная энергия'
   type:
   - '&7&oКомпонент'
 SOLDER_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленный припой'
   type:
   - '&7&oРесурс'
 SOLDER_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный припой'
   type:
   - '&7&oРесурс'
 SPOUT:
-  name: '&7Обожжённый носик'
   type:
   - '&7&oКомпонент'
 SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Пружины'
   type:
   - '&7&oКомпонент'
 STABILITY_II_TRAIT_PROP_HEAD_IRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Стабильность'
   type:
   - '&7&oКомпонент'
 STAINLESS_STEEL_ALLOY:
@@ -4470,7 +3752,6 @@ STAINLESS_STEEL_LIQUID:
   type:
   - '&7&oРесурс'
 STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Нержавеющесть'
   type:
   - '&7&oКомпонент'
 STARSHINE_TRAIT_PROP_PLATES_DYNATECH_STAR_DUST:
@@ -4483,19 +3764,15 @@ STEADFAST_II_TRAIT_PROP_PLATES_IRON_SINGULARITY:
   type:
   - '&7&oКомпонент'
 STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Стойкость'
   type:
   - '&7&oКомпонент'
 STEEL_ALLOY:
-  name: '&x&A&6&0&A&0&AРасплавленная сталь'
   type:
   - '&7&oРесурс'
 STEEL_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленная сталь'
   type:
   - '&7&oРесурс'
 STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Жёсткость'
   type:
   - '&7&oКомпонент'
 STIFF_TRAIT_PROP_ROD_MIXED_METAL_INGOT:
@@ -4505,18 +3782,15 @@ STING_OF_GONDOLIN_TRAIT_PROP_ROD_MYTHRIL:
   type:
   - '&7&oКомпонент'
 STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Прочность'
   type:
   - '&7&oКомпонент'
 STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : Прилежание'
   type:
   - '&7&oКомпонент'
 SUPERHOT_TRAIT_PROP_LINKS_ADVANCED_ALLOY:
   type:
   - '&7&oКомпонент'
 SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Сверхгорячий'
   type:
   - '&7&oКомпонент'
 SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
@@ -4526,7 +3800,6 @@ SUPER_LIGHTWEIGHT_II_TRAIT_PROP_ROD_ZINC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Сверхлёгкость'
   type:
   - '&7&oКомпонент'
 SWEATY_TRAIT_PROP_GAMBESON_RUBBER:
@@ -4536,7 +3809,6 @@ TARNISHED_II_TRAIT_PROP_LINKS_COPPER_SINGULARITY:
   type:
   - '&7&oКомпонент'
 TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
-  name: '&x&B&F&3&0&7&FСвойство : Потускнение'
   type:
   - '&7&oКомпонент'
 TARNISHED_TRAIT_PROP_PLATES_MAGSTEEL:
@@ -4555,46 +3827,36 @@ THE_STANDARD_TRAIT_PROP_PLATES_DYNATECH_STAINLESS_STEEL_INGOT:
   type:
   - '&7&oКомпонент'
 THICK_TRAIT_PROP_BINDING_LEATHER:
-  name: '&x&B&F&3&0&7&FСвойство : Толстый'
   type:
   - '&7&oКомпонент'
 THICK_TRAIT_PROP_GAMBESON_LEATHER:
-  name: '&x&B&F&3&0&7&FСвойство : Толстый'
   type:
   - '&7&oКомпонент'
 THORIUM_LIQUID:
   type:
   - '&7&oРесурс'
 TINKERS_ARMOUR_TABLE:
-  name: '&3Стол брони Жестянщика'
   type:
   - '&7&oМашина'
 TINKERS_MOD_STATION:
-  name: '&3Станция модификации Жестянщика'
   type:
   - '&7&oМашина'
 TINKERS_REPAIR_BENCH:
-  name: '&3Ремонтный верстак Жестянщика'
   type:
   - '&7&oМашина'
 TINKERS_SMELTERY_CORE:
-  name: '&3Плавильня Жестянщика'
   type:
-  - '&7&oМультиблок'
+  - '&7&oСпоруда'
 TINKERS_SWAPPING_STATION:
-  name: '&3Станция замены Жестянщика'
   type:
   - '&7&oМашина'
 TINKERS_TABLE:
-  name: '&3Стол инструментов Жестянщика'
   type:
   - '&7&oМашина'
 TINKERS_WORKBENCH:
-  name: '&3Верстак Жестянщика'
   type:
   - '&7&oМашина'
 TIN_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленное олово'
   type:
   - '&7&oРесурс'
 TIN_SINGULARITY_LIQUID:
@@ -4608,67 +3870,59 @@ TITANIUM_LIQUID:
   - '&7&oРесурс'
 TOOL_AXE:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_AXE_ENTRY:
-  name: '&aТопор Жестянщика'
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_AXE_EXP:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_HOE:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_HOE_ENTRY:
-  name: '&aМотыга Жестянщика'
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_HOE_EXP:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_PICKAXE:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_PICKAXE_ENTRY:
-  name: '&aКирка Жестянщика'
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_PICKAXE_EXP:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_SHOVEL:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_SHOVEL_ENTRY:
-  name: '&aЛопата Жестянщика'
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_SHOVEL_EXP:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_SWORD:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_SWORD_ENTRY:
-  name: '&aМеч Жестянщика'
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOOL_SWORD_EXP:
   type:
-  - '&7&oИнструмент'
+  - '&7&oІнструмент'
 TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Слишком горячо'
   type:
   - '&7&oКомпонент'
 TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Усиленный'
   type:
   - '&7&oКомпонент'
 TRICKS_TRAIT_PROP_HEAD_MAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Крепкий орешек'
   type:
   - '&7&oКомпонент'
 ULTIMANINIUM_ALLOY:
@@ -4681,7 +3935,6 @@ UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
   type:
   - '&7&oКомпонент'
 VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Вампиризм'
   type:
   - '&7&oКомпонент'
 VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
@@ -4697,7 +3950,6 @@ VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
   type:
   - '&7&oКомпонент'
 WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Теплокровный'
   type:
   - '&7&oКомпонент'
 WARP_TRAIT_PROP_ROD_IRIDIUM:
@@ -4707,33 +3959,27 @@ WATER_SAFE_TRAIT_PROP_LINKS_DYNATECH_STAINLESS_STEEL_INGOT:
   type:
   - '&7&oКомпонент'
 WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
-  name: '&x&B&F&3&0&7&FЧерта : WHM'
   type:
   - '&7&oКомпонент'
 WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
-  name: '&x&B&F&3&0&7&FСвойство : Кому нужны нажимные плиты?'
   type:
   - '&7&oКомпонент'
 WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
-  name: '&x&B&F&3&0&7&FСвойство : Защита от иссушения'
   type:
   - '&7&oКомпонент'
 WIZARD_ROBES_TRAIT_PROP_PLATES_MAGIC_SINGULARITY:
   type:
   - '&7&oКомпонент'
 WORKS_TRAIT_PROP_BINDING_STRING:
-  name: '&x&B&F&3&0&7&FСвойство : Работает'
   type:
   - '&7&oКомпонент'
 WORKS_TRAIT_PROP_GAMBESON_STRING:
-  name: '&x&B&F&3&0&7&FСвойство : Работает'
   type:
   - '&7&oКомпонент'
 YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
   type:
   - '&7&oКомпонент'
 ZINC_LIQUID:
-  name: '&x&A&6&0&A&0&AРасплавленный цинк'
   type:
   - '&7&oРесурс'
 ZINC_SINGULARITY_LIQUID:

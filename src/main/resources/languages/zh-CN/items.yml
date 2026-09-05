@@ -1,1511 +1,4741 @@
-# SlimeTinker 物品中文翻译
-# Items not listed fall back to English.
-ARMOUR_BOOTS_ENTRY:
-  name: "&a工匠靴子"
-ARMOUR_CHESTPLATE_ENTRY:
-  name: "&a工匠胸甲"
-ARMOUR_HELMET_ENTRY:
-  name: "&a工匠头盔"
-ARMOUR_LEGGINGS_ENTRY:
-  name: "&a工匠护腿"
-BLOCK_CAST_ADAMANTITE:
-  name: "&7Adamanitite块"
-BLOCK_CAST_ADVANCED_ALLOY:
-  name: "&7高级合金块"
-BLOCK_CAST_ALUMINUM:
-  name: "&7铝块"
-BLOCK_CAST_ALU_BRASS:
-  name: "&7铝黄铜块"
-BLOCK_CAST_ALU_BRONZE:
-  name: "&7铝青铜块"
-BLOCK_CAST_ANNIVERSARIUM:
-  name: "&7周年铟块"
-BLOCK_CAST_BILLON:
-  name: "&7贱金属合金块"
-BLOCK_CAST_BOOMERITE:
-  name: "&7爆裂石块"
-BLOCK_CAST_BRASS:
-  name: "&7黄铜块"
-BLOCK_CAST_BRONZE:
-  name: "&7青铜块"
-BLOCK_CAST_COBALT:
-  name: "&7钴块"
-BLOCK_CAST_COPPER:
-  name: "&7铜块"
-BLOCK_CAST_COR_BRONZE:
-  name: "&7科林斯青铜块"
-BLOCK_CAST_CRINGLEIUM:
-  name: "&7圣诞铟块"
-BLOCK_CAST_DAMASCUS_STEEL:
-  name: "&7大马士革钢块"
-BLOCK_CAST_DURALIUM:
-  name: "&7硬铝块"
-BLOCK_CAST_FERROSILICON:
-  name: "&7硅铁块"
-BLOCK_CAST_HARD_METAL:
-  name: "&7硬化金属块"
-BLOCK_CAST_INFINITY:
-  name: "&7无尽块"
-BLOCK_CAST_IRIDIUM:
-  name: "&7铱块"
-BLOCK_CAST_LEAD:
-  name: "&7铅块"
-BLOCK_CAST_LOVE:
-  name: "&7爱块"
-BLOCK_CAST_MAGNESIUM:
-  name: "&7镁块"
-BLOCK_CAST_MAGNONIUM:
-  name: "&7磁能铟块"
-BLOCK_CAST_MAGSTEEL:
-  name: "&7磁钢块"
-BLOCK_CAST_MAG_THOR:
-  name: "&7镁钍块"
-BLOCK_CAST_MIXED_METAL:
-  name: "&7混合金属块"
-BLOCK_CAST_MYTHRIL:
-  name: "&7秘银块"
-BLOCK_CAST_NICE:
-  name: "&7美好块"
-BLOCK_CAST_NICKEL:
-  name: "&7镍块"
-BLOCK_CAST_OSMIUM:
-  name: "&7锇块"
-BLOCK_CAST_OSMIUM_SUPER_ALLOY:
-  name: "&7锇超合金块"
-BLOCK_CAST_REDSTONE_ALLOY:
-  name: "&7红石合金块"
-BLOCK_CAST_REFINED_IRON:
-  name: "&7精炼铁块"
-BLOCK_CAST_REINFORCED:
-  name: "&7强化合金块"
-BLOCK_CAST_REINFORCED_DRACONIUM:
-  name: "&7强化龙石块"
-BLOCK_CAST_REINFORCED_SLIMESTEEL:
-  name: "&7强化史莱姆钢块"
-BLOCK_CAST_SCRAP:
-  name: "&7废料块"
-BLOCK_CAST_SEFIRITE:
-  name: "&7塞菲石块"
-BLOCK_CAST_SILVER:
-  name: "&7银块"
-BLOCK_CAST_SLIMESTEEL:
-  name: "&7史莱姆钢块"
-BLOCK_CAST_SMITHIUM:
-  name: "&7史密斯铟块"
-BLOCK_CAST_SOLDER:
-  name: "&7焊料块"
-BLOCK_CAST_STAINLESSSTEEL:
-  name: "&7不锈钢块"
-BLOCK_CAST_STEEL:
-  name: "&7钢块"
-BLOCK_CAST_TIN:
-  name: "&7锡块"
-BLOCK_CAST_TITANIUM:
-  name: "&7钛块"
-BLOCK_CAST_UNPATENTABILUM:
-  name: "&7无法专利铟块"
-BLOCK_CAST_VOID:
-  name: "&7虚空块"
-BLOCK_CAST_ZINC:
-  name: "&7锌块"
-CAST_AXE_HEAD:
-  name: "&e铸模：斧头"
-CAST_BLOCK:
-  name: "&e铸模：金属块"
-CAST_BOOT_PLATE:
-  name: "&e铸模：靴子护甲板"
-CAST_CHEST_PLATE:
-  name: "&e铸模：胸甲护甲板"
-CAST_GEM:
-  name: "&e铸模：宝石"
-CAST_HELM_PLATE:
-  name: "&e铸模：头盔护甲板"
-CAST_HOEHEAD:
-  name: "&e铸模：锄头"
-CAST_INGOT:
-  name: "&e铸模：金属锭"
-CAST_LEG_PLATE:
-  name: "&e铸模：护腿护甲板"
-CAST_MAIL_LINK:
-  name: "&e铸模：锁甲环"
-CAST_NUGGET:
-  name: "&e铸模：金属粒"
-CAST_PICKAXEHEAD:
-  name: "&e铸模：镐头"
-CAST_REPAIRKIT:
-  name: "&e铸模：修复套件"
-CAST_SHOVELHEAD:
-  name: "&e铸模：锹头"
-CAST_SWORDBLADE:
-  name: "&e铸模：剑刃"
-CAST_TOOLROD:
-  name: "&e铸模：工具杆"
-DIE_AXE_HEAD:
-  name: "&e模具：石斧头"
-DIE_BOOT_PLATE:
-  name: "&e模具：石靴子护甲板"
-DIE_CHEST_PLATE:
-  name: "&e模具：石胸甲护甲板"
-DIE_HELM_PLATE:
-  name: "&e模具：石头盔护甲板"
-DIE_HOE_HEAD:
-  name: "&e模具：石锄头"
-DIE_LEG_PLATE:
-  name: "&e模具：石护腿护甲板"
-DIE_MAIL_LINK:
-  name: "&e模具：锁甲环"
-DIE_PICKAXE_HEAD:
-  name: "&e模具：石镐头"
-DIE_REPAIR_KIT:
-  name: "&e模具：修复套件"
-DIE_SHOVEL_HEAD:
-  name: "&e模具：石锹头"
-DIE_SWORD_BLADE:
-  name: "&e模具：石剑刃"
-DIE_TOOL_ROD:
-  name: "&e模具：工具杆"
-DUMMY_MODIFICATION_STATION:
-  name: "&3工匠改造站"
-DUMMY_TINKERS_ARMOUR_TABLE:
-  name: "&3工匠盔甲台"
-DUMMY_TINKERS_SMELTERY:
-  name: "&3工匠冶炼厂"
-DUMMY_TINKERS_SMELTERY_ALLOY:
-  name: "&3工匠冶炼厂"
-DUMMY_TINKERS_SMELTERY_MOLTEN:
-  name: "&3工匠冶炼厂"
-DUMMY_TINKERS_SMELTERY_MULTI:
-  name: "&3工匠冶炼厂"
-DUMMY_TINKERS_SMELTERY_PROP:
-  name: "&3工匠冶炼厂"
-DUMMY_TINKERS_TABLE:
-  name: "&3工匠工具台"
-GROUT:
-  name: "&7灰浆"
-INGOT_CAST_ANNIVERSARIUM:
-  name: "&7周年铟锭"
-INGOT_CAST_BOOMERITE:
-  name: "&7爆裂石锭"
-INGOT_CAST_CRINGLEIUM:
-  name: "&7圣诞铟锭"
-INGOT_CAST_DAXI_ABSORPTION:
-  name: "&7伤害吸收达西锭"
-INGOT_CAST_DAXI_FORTITUDE:
-  name: "&7坚韧达西锭"
-INGOT_CAST_DAXI_REGENERATION:
-  name: "&7再生达西锭"
-INGOT_CAST_DAXI_SATURATION:
-  name: "&7饱和达西锭"
-INGOT_CAST_DAXI_STRENGTH:
-  name: "&7力量达西锭"
-INGOT_CAST_DEVOTION:
-  name: "&7奉献锭"
-INGOT_CAST_FONDNESS:
-  name: "&7喜爱锭"
-INGOT_CAST_LOVE:
-  name: "&7爱锭"
-INGOT_CAST_NICE:
-  name: "&7美好锭"
-INGOT_CAST_PASSION:
-  name: "&7热情锭"
-INGOT_CAST_REINFORCED_DRACONIUM:
-  name: "&7强化龙石锭"
-INGOT_CAST_SEFIRITE:
-  name: "&7塞菲石锭"
-INGOT_CAST_SMITHIUM:
-  name: "&7史密斯铟锭"
-MOD_DIAMOND_ENTRY:
-  name: "&d改造：钻石"
-MOD_EMERALD_ENTRY:
-  name: "&d改造：绿宝石"
-MOD_LAPIS_ENTRY:
-  name: "&d改造：青金石"
-MOD_PLATE:
-  name: "&d强化板"
-MOD_PLATE_ENTRY:
-  name: "&d改造：强化板"
-MOD_QUARTZ_ENTRY:
-  name: "&d改造：石英"
-MOD_REDSTONE_ENTRY:
-  name: "&d改造：红石"
-NUGGET_CAST_ADAMANTITE:
-  name: "&7精金粒"
-NUGGET_CAST_ADVANCED_ALLOY:
-  name: "&7高级合金粒"
-NUGGET_CAST_ALUMINUM:
-  name: "&7铝粒"
-NUGGET_CAST_ALU_BRASS:
-  name: "&7铝黄铜粒"
-NUGGET_CAST_ALU_BRONZE:
-  name: "&7铝青铜粒"
-NUGGET_CAST_ANNIVERSARIUM:
-  name: "&7周年铟粒"
-NUGGET_CAST_BILLON:
-  name: "&7贱金属合金粒"
-NUGGET_CAST_BOOMERITE:
-  name: "&7爆裂石粒"
-NUGGET_CAST_BRASS:
-  name: "&7黄铜粒"
-NUGGET_CAST_BRONZE:
-  name: "&7青铜粒"
-NUGGET_CAST_COAL:
-  name: "&7煤粒"
-NUGGET_CAST_COBALT:
-  name: "&7钴粒"
-NUGGET_CAST_COPPER:
-  name: "&7铜粒"
-NUGGET_CAST_COR_BRONZE:
-  name: "&7科林斯青铜粒"
-NUGGET_CAST_CRINGLEIUM:
-  name: "&7圣诞铟粒"
-NUGGET_CAST_DAMASCUS_STEEL:
-  name: "&7大马士革钢粒"
-NUGGET_CAST_DAXI_ABSORPTION:
-  name: "&7伤害吸收达西粒"
-NUGGET_CAST_DAXI_FORTITUDE:
-  name: "&7坚韧达西粒"
-NUGGET_CAST_DAXI_REGENERATION:
-  name: "&7再生达西粒"
-NUGGET_CAST_DAXI_SATURATION:
-  name: "&7饱和达西粒"
-NUGGET_CAST_DAXI_STRENGTH:
-  name: "&7力量达西粒"
-NUGGET_CAST_DEVOTION:
-  name: "&7奉献粒"
-NUGGET_CAST_DURALIUM:
-  name: "&7硬铝粒"
-NUGGET_CAST_FERROSILICON:
-  name: "&7硅铁粒"
-NUGGET_CAST_FONDNESS:
-  name: "&7喜爱粒"
-NUGGET_CAST_HARD_METAL:
-  name: "&7硬化金属粒"
-NUGGET_CAST_INFINITY:
-  name: "&7无尽粒"
-NUGGET_CAST_IRIDIUM:
-  name: "&7铱粒"
-NUGGET_CAST_LEAD:
-  name: "&7铅粒"
-NUGGET_CAST_LOVE:
-  name: "&7爱粒"
-NUGGET_CAST_MAGNESIUM:
-  name: "&7镁粒"
-NUGGET_CAST_MAGNONIUM:
-  name: "&7磁能铟粒"
-NUGGET_CAST_MAGSTEEL:
-  name: "&7磁钢粒"
-NUGGET_CAST_MAG_THOR:
-  name: "&7镁钍粒"
-NUGGET_CAST_MIXED_METAL:
-  name: "&7混合金属粒"
-NUGGET_CAST_MYTHRIL:
-  name: "&7秘银粒"
-NUGGET_CAST_NICE:
-  name: "&7美好粒"
-NUGGET_CAST_NICKEL:
-  name: "&7镍粒"
-NUGGET_CAST_OSMIUM:
-  name: "&7锇粒"
-NUGGET_CAST_OSMIUM_SUPER_ALLOY:
-  name: "&7锇超合金粒"
-NUGGET_CAST_PASSION:
-  name: "&7热情粒"
-NUGGET_CAST_REDSTONE_ALLOY:
-  name: "&7红石合金粒"
-NUGGET_CAST_REFINED_IRON:
-  name: "&7精炼铁粒"
-NUGGET_CAST_REINFORCED:
-  name: "&7强化合金粒"
-NUGGET_CAST_REINFORCED_DRACONIUM:
-  name: "&7强化龙石粒"
-NUGGET_CAST_REINFORCED_SLIMESTEEL:
-  name: "&7强化史莱姆钢粒"
-NUGGET_CAST_SCRAP:
-  name: "&7废料粒"
-NUGGET_CAST_SEFIRITE:
-  name: "&7塞菲石粒"
-NUGGET_CAST_SILVER:
-  name: "&7银粒"
-NUGGET_CAST_SLIMESTEEL:
-  name: "&7史莱姆钢粒"
-NUGGET_CAST_SMITHIUM:
-  name: "&7史密斯铟粒"
-NUGGET_CAST_SOLDER:
-  name: "&7焊料粒"
-NUGGET_CAST_STAINLESSSTEEL:
-  name: "&7不锈钢粒"
-NUGGET_CAST_STEEL:
-  name: "&7钢粒"
-NUGGET_CAST_TIN:
-  name: "&7锡粒"
-NUGGET_CAST_TITANIUM:
-  name: "&7钛粒"
-NUGGET_CAST_UNPATENTABILUM:
-  name: "&7无法专利铟粒"
-NUGGET_CAST_ZINC:
-  name: "&7锌粒"
-PART_AXE_HEAD_DUMMY:
-  name: "&e部件：斧头"
-PART_BINDING_DUMMY:
-  name: "&e部件：绑定"
-PART_BINDING_GENERAL_DISPLAY:
-  name: "&7绑定材料"
-PART_BOOT_PLATE_DUMMY:
-  name: "&e部件：靴子护甲板"
-PART_CHEST_PLATE_DUMMY:
-  name: "&e部件：胸甲护甲板"
-PART_GAMBESON_DUMMY:
-  name: "&e部件：战袍"
-PART_GAMBESON_GENERAL_DISPLAY:
-  name: "&7战袍材料"
-PART_HELM_PLATE_DUMMY:
-  name: "&e部件：头盔护甲板"
-PART_HOE_HEAD_DUMMY:
-  name: "&e部件：锄头"
-PART_LEG_PLATE_DUMMY:
-  name: "&e部件：护腿护甲板"
-PART_MAIL_LINKS_DUMMY:
-  name: "&e部件：锁甲环"
-PART_PICKAXE_HEAD_DUMMY:
-  name: "&e部件：镐头"
-PART_REPAIR_KIT_DUMMY:
-  name: "&e部件：修复套件"
-PART_SHOVEL_HEAD_DUMMY:
-  name: "&e部件：锹头"
-PART_SWORD_BLADE_DUMMY:
-  name: "&e部件：剑刃"
-PART_TOOL_ROD_DUMMY:
-  name: "&e部件：工具杆"
-PROP_BINDING:
-  name: "&b部件：粘合件"
-PROP_GAMBESON:
-  name: "&b部件：战袍"
-PROP_HEAD:
-  name: "&b部件：头"
-PROP_LINKS:
-  name: "&b部件：锁甲环"
-PROP_PLATES:
-  name: "&b部件：护甲板"
-PROP_ROD:
-  name: "&b部件：工具杆"
-SEARED_BRICK:
-  name: "&7灼烧砖"
-SEARED_BRICK_BLOCK:
-  name: "&7灼烧砖块"
-SEARED_TANK:
-  name: "&7灼烧储罐"
-SMELTERY_CONTROLLER:
-  name: "&3冶炼厂控制器"
-SPOUT:
-  name: "&7灼烧出水口"
-TINKERS_ARMOUR_TABLE:
-  name: "&3工匠盔甲台"
-TINKERS_MOD_STATION:
-  name: "&3工匠改造站"
-TINKERS_REPAIR_BENCH:
-  name: "&3工匠修复台"
-TINKERS_SMELTERY_CORE:
-  name: "&3工匠冶炼厂"
-TINKERS_SWAPPING_STATION:
-  name: "&3工匠更换站"
-TINKERS_TABLE:
-  name: "&3工匠工具台"
-TINKERS_WORKBENCH:
-  name: "&3工匠工作台"
-TOOL_AXE_ENTRY:
-  name: "&a工匠斧"
-TOOL_HOE_ENTRY:
-  name: "&a工匠锄"
-TOOL_PICKAXE_ENTRY:
-  name: "&a工匠镐"
-TOOL_SHOVEL_ENTRY:
-  name: "&a工匠锹"
-TOOL_SWORD_ENTRY:
-  name: "&a工匠剑"
-
-IRON_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融铁"
-STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 稳固"
-SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 锋利 1"
-STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 坚定"
-RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 生锈"
-PART_HEAD_SWORDIRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEIRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEIRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKIRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELIRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5锹头"
-PART_ROD_IRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETIRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATEIRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSIRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSIRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_IRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5锁链环"
-PART_REPAIR_KIT_IRON:
-  name: "&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5修复包"
-GOLD_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融金"
-GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 黄金面纱"
-ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 闪光夺目"
-PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 富贵"
-BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 以物易物"
-PART_HEAD_SWORDGOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEGOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEGOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKGOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELGOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5锹头"
-PART_ROD_GOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETGOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATEGOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSGOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSGOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_GOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5锁链环"
-PART_REPAIR_KIT_GOLD:
-  name: "&x&F&F&E&1&3&8金&x&4&2&C&8&F&5修复包"
-COPPER_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融铜"
-BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 智胜蛮力"
-CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 导电"
-BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 新手"
-TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 锈蚀"
-PART_HEAD_SWORDCOPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOECOPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXECOPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKCOPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELCOPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5锹头"
-PART_ROD_COPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETCOPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATECOPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSCOPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSCOPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_COPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5锁链环"
-PART_REPAIR_KIT_COPPER:
-  name: "&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5修复包"
-LEAD_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融铅"
-POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 剧毒"
-LEECH_TRAIT_PROP_ROD_LEAD_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 吸取"
-SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 病弱"
-SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 病弱"
-PART_HEAD_SWORDLEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOELEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXELEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKLEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELLEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5锹头"
-PART_ROD_LEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETLEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATELEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSLEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSLEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_LEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5锁链环"
-PART_REPAIR_KIT_LEAD:
-  name: "&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5修复包"
-SILVER_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融银"
-ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 附魔"
-SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 轻柔手感"
-CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 导电性"
-ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 附魔"
-PART_HEAD_SWORDSILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOESILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXESILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKSILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELSILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5锹头"
-PART_ROD_SILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETSILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATESILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSSILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSSILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_SILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5锁链环"
-PART_REPAIR_KIT_SILVER:
-  name: "&x&D&4&D&4&D&4银&x&4&2&C&8&F&5修复包"
-ALUMINUM_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融铝"
-RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 可回收"
-SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 柔软"
-FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 箔片"
-EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 易于塑形"
-PART_HEAD_SWORDALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5锄头部件"
-PART_HEAD_AXEALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5斧头部件"
-PART_HEAD_PICKALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5镐头部件"
-PART_HEAD_SHOVELALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5锹头部件"
-PART_ROD_ALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATEALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_ALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_ALUMINUM:
-  name: "&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5修理套件"
-TIN_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融锡"
-MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 延展性"
-CAN_TRAIT_PROP_ROD_TIN_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 罐装"
-NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 抗腐蚀"
-BOOST_TRAIT_PROP_LINKS_TIN_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 增益"
-PART_HEAD_SWORDTIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5剑刃部件"
-PART_HEAD_HOETIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5锄头部件"
-PART_HEAD_AXETIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5斧头部件"
-PART_HEAD_PICKTIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5镐头部件"
-PART_HEAD_SHOVELTIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5锹头部件"
-PART_ROD_TIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETTIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATETIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSTIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSTIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_TIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_TIN:
-  name: "&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5修理套件"
-ZINC_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融锌"
-GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 优雅"
-SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 超轻量"
-SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 潜行"
-ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 针灸"
-PART_HEAD_SWORDZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5剑刃部件"
-PART_HEAD_HOEZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5锄头部件"
-PART_HEAD_AXEZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5斧头部件"
-PART_HEAD_PICKZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5镐头部件"
-PART_HEAD_SHOVELZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5锹头部件"
-PART_ROD_ZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATEZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_ZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_ZINC:
-  name: "&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5修理套件"
-MAGNESIUM_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融镁"
-FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 易燃"
-MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 磁镁"
-LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 轻盈"
-MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
-  name: "&x&B&F&3&0&7&F特性 : 镁视™"
-PART_HEAD_SWORDMAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5剑刃部件"
-PART_HEAD_HOEMAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5锄头部件"
-PART_HEAD_AXEMAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5斧头部件"
-PART_HEAD_PICKMAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5镐头部件"
-PART_HEAD_SHOVELMAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5锹头部件"
-PART_ROD_MAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETMAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATEMAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSMAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSMAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_MAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_MAGNESIUM:
-  name: "&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5修理套件"
-COAL_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融煤"
-STEEL_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融钢"
-STEEL_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融钢"
-STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 不锈"
-LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 轻量"
-HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 坚韧"
-STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 强力"
-PART_HEAD_SWORDSTEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5剑刃部件"
-PART_HEAD_HOESTEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5锄头部件"
-PART_HEAD_AXESTEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5斧头部件"
-PART_HEAD_PICKSTEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5镐头部件"
-PART_HEAD_SHOVELSTEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5锹头部件"
-PART_ROD_STEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETSTEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5头盔板甲"
-PART_PLATES_CHESTPLATESTEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5胸甲板甲"
-PART_PLATES_LEGGINGSSTEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5护腿板甲"
-PART_PLATES_BOOTSSTEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5靴子板甲"
-PART_LINKS_STEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_STEEL:
-  name: "&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5修理套件"
-DAMASCUS_STEEL_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融大马士革钢"
-DAMASCUS_STEEL_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融大马士革钢"
-VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 吸血"
-NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 夜行者"
-COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 复合"
-SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : Snroht"
-PART_HEAD_SWORDDAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5剑刃部件"
-PART_HEAD_HOEDAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5锄头部件"
-PART_HEAD_AXEDAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5斧头部件"
-PART_HEAD_PICKDAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5镐头部件"
-PART_HEAD_SHOVELDAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5锹头"
-PART_ROD_DAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETDAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5头盔甲板"
-PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5胸甲甲板"
-PART_PLATES_LEGGINGSDAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5护腿甲板"
-PART_PLATES_BOOTSDAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5靴子甲板"
-PART_LINKS_DAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_DAMASCUS_STEEL:
-  name: "&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5修复工具包"
-DURALIUM_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融硬铝"
-DURALIUM_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融硬铝"
-DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
-  name: "&x&B&F&3&0&7&F特性：耐用"
-EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
-  name: "&x&B&F&3&0&7&F特性：易修复"
-DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
-  name: "&x&B&F&3&0&7&F特性：耐用"
-SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
-  name: "&x&B&F&3&0&7&F特性：减震"
-PART_HEAD_SWORDDURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEDURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEDURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKDURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELDURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5锹头"
-PART_ROD_DURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETDURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5头盔甲板"
-PART_PLATES_CHESTPLATEDURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5胸甲甲板"
-PART_PLATES_LEGGINGSDURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5护腿甲板"
-PART_PLATES_BOOTSDURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5靴子甲板"
-PART_LINKS_DURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_DURALIUM:
-  name: "&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5修复工具包"
-BRONZE_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融青铜"
-BRONZE_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融青铜"
-RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：抗性"
-INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：英烈高地"
-FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：农夫"
-BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：脆弱"
-PART_HEAD_SWORDBRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEBRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEBRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKBRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELBRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5锹头"
-PART_ROD_BRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETBRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5头盔甲板"
-PART_PLATES_CHESTPLATEBRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5胸甲甲板"
-PART_PLATES_LEGGINGSBRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5护腿甲板"
-PART_PLATES_BOOTSBRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5靴子甲板"
-PART_LINKS_BRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_BRONZE:
-  name: "&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5修复工具包"
-ALUMINUM_BRONZE_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融铝青铜"
-ALUMINUM_BRONZE_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融铝青铜"
-SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：锋利 2"
-BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：脆弱"
-BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：华丽"
-EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：弹射！"
-PART_HEAD_SWORDALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5锹头"
-PART_ROD_ALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5头盔甲板"
-PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5胸甲甲板"
-PART_PLATES_LEGGINGSALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5护腿甲板"
-PART_PLATES_BOOTSALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5靴子甲板"
-PART_LINKS_ALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_ALUMINUM_BRONZE:
-  name: "&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5修复工具包"
-HARDENED_METAL_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融硬化金属"
-HARDENED_METAL_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融硬化金属"
-TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
-  name: "&x&B&F&3&0&7&F特性：坚韧之物"
-HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
-  name: "&x&B&F&3&0&7&F特性：沉重"
-TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
-  name: "&x&B&F&3&0&7&F特性：强化"
-DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
-  name: "&x&B&F&3&0&7&F特性：矮人技艺"
-PART_HEAD_SWORDHARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEHARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEHARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKHARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELHARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5锹头"
-PART_ROD_HARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5手柄"
-PART_PLATES_HELMETHARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5头盔甲板"
-PART_PLATES_CHESTPLATEHARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5胸甲甲板"
-PART_PLATES_LEGGINGSHARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5护腿甲板"
-PART_PLATES_BOOTSHARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5靴子甲板"
-PART_LINKS_HARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_HARDENED_METAL:
-  name: "&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5修复工具包"
-CORINTHIAN_BRONZE_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融科林斯青铜"
-CORINTHIAN_BRONZE_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融科林斯青铜"
-FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：烈焰灼热"
-TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：烫手难握"
-SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：超高温"
-WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
-  name: "&x&B&F&3&0&7&F特性：温血"
-PART_HEAD_SWORDCORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOECORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXECORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKCORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELCORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5锹头"
-PART_ROD_CORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5杆"
-PART_PLATES_HELMETCORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5头盔板"
-PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5胸甲板"
-PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5护腿板"
-PART_PLATES_BOOTSCORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5靴子板"
-PART_LINKS_CORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_CORINTHIAN_BRONZE:
-  name: "&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5修复套件"
-SOLDER_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融焊锡"
-SOLDER_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融焊锡"
-HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 隐藏"
-FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 熔合"
-SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 软着陆"
-FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 熔合"
-PART_HEAD_SWORDSOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOESOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXESOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKSOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELSOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5铲头"
-PART_ROD_SOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5杆"
-PART_PLATES_HELMETSOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5头盔板"
-PART_PLATES_CHESTPLATESOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5胸甲板"
-PART_PLATES_LEGGINGSSOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5护腿板"
-PART_PLATES_BOOTSSOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5靴子板"
-PART_LINKS_SOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_SOLDER:
-  name: "&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5修复套件"
-BILLON_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融银铜合金"
-BILLON_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融银铜合金"
-FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 迅捷"
-SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 弹簧"
-WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : WHM"
-HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 导热体"
-PART_HEAD_SWORDBILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEBILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEBILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKBILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELBILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5铲头"
-PART_ROD_BILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5杆"
-PART_PLATES_HELMETBILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5头盔板"
-PART_PLATES_CHESTPLATEBILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5胸甲板"
-PART_PLATES_LEGGINGSBILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5护腿板"
-PART_PLATES_BOOTSBILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5靴子板"
-PART_LINKS_BILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_BILLON:
-  name: "&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5修复套件"
-BRASS_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融黄铜"
-BRASS_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融黄铜"
-STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 坚硬"
-OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 充氧"
-BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 束带"
-SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : Scarpaaarr!"
-PART_HEAD_SWORDBRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEBRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEBRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKBRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELBRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5铲头"
-PART_ROD_BRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5杆"
-PART_PLATES_HELMETBRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5头盔板"
-PART_PLATES_CHESTPLATEBRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5胸甲板"
-PART_PLATES_LEGGINGSBRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5护腿板"
-PART_PLATES_BOOTSBRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5靴子板"
-PART_LINKS_BRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_BRASS:
-  name: "&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5修复套件"
-ALUMINUM_BRASS_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融铝黄铜"
-ALUMINUM_BRASS_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融铝黄铜"
-ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : Abra"
-STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 勤勉"
-MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 法师"
-ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 逃脱"
-PART_HEAD_SWORDALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5铲头"
-PART_ROD_ALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5杆"
-PART_PLATES_HELMETALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5头盔板"
-PART_PLATES_CHESTPLATEALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5胸甲板"
-PART_PLATES_LEGGINGSALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5护腿板"
-PART_PLATES_BOOTSALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5靴子板"
-PART_LINKS_ALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_ALUMINUM_BRASS:
-  name: "&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5修复套件"
-NICKEL_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融镍"
-NICKEL_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融镍"
-CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 充能头 -"
-CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 充能杆 -"
-MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 磁性 -"
-MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
-  name: "&x&B&F&3&0&7&F特性 : 磁性 -"
-PART_HEAD_SWORDNICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOENICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXENICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKNICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELNICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5铲头"
-PART_ROD_NICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5杆"
-PART_PLATES_HELMETNICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5头盔甲片"
-PART_PLATES_CHESTPLATENICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5胸甲甲片"
-PART_PLATES_LEGGINGSNICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5护腿甲片"
-PART_PLATES_BOOTSNICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5靴子甲片"
-PART_LINKS_NICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_NICKEL:
-  name: "&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5修复套件"
-COBALT_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融钴"
-COBALT_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融钴"
-CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
-  name: "&x&B&F&3&0&7&F特性：充能头部 +"
-CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
-  name: "&x&B&F&3&0&7&F特性：充能杆 +"
-MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
-  name: "&x&B&F&3&0&7&F特性：磁性 +"
-MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
-  name: "&x&B&F&3&0&7&F特性：磁性 +"
-PART_HEAD_SWORDCOBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOECOBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXECOBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKCOBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELCOBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5铲头"
-PART_ROD_COBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5杆"
-PART_PLATES_HELMETCOBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5头盔甲片"
-PART_PLATES_CHESTPLATECOBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5胸甲甲片"
-PART_PLATES_LEGGINGSCOBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5护腿甲片"
-PART_PLATES_BOOTSCOBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5靴子甲片"
-PART_LINKS_COBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_COBALT:
-  name: "&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5修复套件"
-REINFORCED_ALLOY_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融强化合金"
-REINFORCED_ALLOY_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融强化合金"
-BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
-  name: "&x&B&F&3&0&7&F特性：笨重"
-REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
-  name: "&x&B&F&3&0&7&F特性：强化"
-REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
-  name: "&x&B&F&3&0&7&F特性：可强化"
-WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
-  name: "&x&B&F&3&0&7&F特性：抗凋零"
-PART_HEAD_SWORDREINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEREINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEREINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKREINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELREINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5铲头"
-PART_ROD_REINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5杆"
-PART_PLATES_HELMETREINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5头盔甲片"
-PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5胸甲甲片"
-PART_PLATES_LEGGINGSREINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5护腿甲片"
-PART_PLATES_BOOTSREINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5靴子甲片"
-PART_LINKS_REINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5锁甲环"
-PART_REPAIR_KIT_REINFORCED_ALLOY:
-  name: "&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5修复套件"
-WORKS_TRAIT_PROP_BINDING_STRING:
-  name: "&x&B&F&3&0&7&F特性：劳作"
-WORKS_TRAIT_PROP_GAMBESON_STRING:
-  name: "&x&B&F&3&0&7&F特性：劳作"
-PART_BINDING_STRING:
-  name: "&x&F&5&F&5&F&5线&x&4&2&C&8&F&5绑带"
-PART_GAMBESON_STRING:
-  name: "&x&F&5&F&5&F&5线&x&4&2&C&8&F&5衬垫甲"
-GROWTH_TRAIT_PROP_BINDING_VINE:
-  name: "&x&B&F&3&0&7&F特性：生长"
-GROWTH_TRAIT_PROP_GAMBESON_VINE:
-  name: "&x&B&F&3&0&7&F特性：生长"
-PART_BINDING_VINE:
-  name: "&x&4&C&A&8&6&B藤蔓&x&4&2&C&8&F&5绑带"
-PART_GAMBESON_VINE:
-  name: "&x&4&C&A&8&6&B藤蔓&x&4&2&C&8&F&5衬垫甲"
-DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
-  name: "&x&B&F&3&0&7&F特性：腐朽"
-DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
-  name: "&x&B&F&3&0&7&F特性：腐朽"
-PART_BINDING_CRIMSON_ROOT:
-  name: "&x&B&5&3&6&5&E绯红菌根&x&4&2&C&8&F&5绑带"
-PART_GAMBESON_CRIMSON_ROOT:
-  name: "&x&B&5&3&6&5&E绯红菌根&x&4&2&C&8&F&5衬垫甲"
-REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
-  name: "&x&B&F&3&0&7&F特性：清爽"
-REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
-  name: "&x&B&F&3&0&7&F特性：清爽"
-PART_BINDING_WARPED_ROOT:
-  name: "&x&3&6&B&5&4&9诡异菌根&x&4&2&C&8&F&5绑带"
-PART_GAMBESON_WARPED_ROOT:
-  name: "&x&3&6&B&5&4&9诡异菌根&x&4&2&C&8&F&5衬垫甲"
-DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
-  name: "&x&B&F&3&0&7&F特性：厄运"
-DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
-  name: "&x&B&F&3&0&7&F特性：厄运"
-PART_BINDING_WEEPING_VINE:
-  name: "&x&9&C&0&9&1&D垂泪藤&x&4&2&C&8&F&5绑带"
-PART_GAMBESON_WEEPING_VINE:
-  name: "&x&9&C&0&9&1&D垂泪藤&x&4&2&C&8&F&5衬垫甲"
-ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
-  name: "&x&B&F&3&0&7&F特性：吸引"
-ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
-  name: "&x&B&F&3&0&7&F特性：吸引"
-PART_BINDING_TWISTED_VINE:
-  name: "&x&1&B&8&0&4&5缠络藤&x&4&2&C&8&F&5绑带"
-PART_GAMBESON_TWISTED_VINE:
-  name: "&x&1&B&8&0&4&5缠络藤&x&4&2&C&8&F&5衬垫甲"
-SLIME_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融黏液"
-BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
-  name: "&x&B&F&3&0&7&F特性：弹性"
-BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
-  name: "&x&B&F&3&0&7&F特性：弹性"
-PART_BINDING_SLIME:
-  name: "&x&2&9&E&0&1&F黏液&x&4&2&C&8&F&5绑带"
-PART_GAMBESON_SLIME:
-  name: "&x&2&9&E&0&1&F黏液&x&4&2&C&8&F&5衬垫甲"
-REDSTONE_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融红石"
-SILICON_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融硅"
-SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
-  name: "&x&B&F&3&0&7&F特性：慢学者"
-SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
-  name: "&x&B&F&3&0&7&F特性：慢学者"
-PART_BINDING_SILICON:
-  name: "&x&F&2&F&2&F&2硅&x&4&2&C&8&F&5绑带"
-PART_GAMBESON_SILICON:
-  name: "&x&F&2&F&2&F&2硅&x&4&2&C&8&F&5衬垫甲"
-THICK_TRAIT_PROP_BINDING_LEATHER:
-  name: "&x&B&F&3&0&7&F特性：厚实"
-THICK_TRAIT_PROP_GAMBESON_LEATHER:
-  name: "&x&B&F&3&0&7&F特性：厚实"
-PART_BINDING_LEATHER:
-  name: "&x&9&1&8&0&5&6皮革&x&4&2&C&8&F&5绑带"
-PART_GAMBESON_LEATHER:
-  name: "&x&9&1&8&0&5&6皮革&x&4&2&C&8&F&5衬垫甲"
-FERROSILICON_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融硅铁"
-FERROSILICON_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融硅铁"
-HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
-  name: "&x&B&F&3&0&7&F特性：氢"
-SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
-  name: "&x&B&F&3&0&7&F特性：太阳能"
-BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
-  name: "&x&B&F&3&0&7&F特性：炽燃"
-PART_HEAD_SWORDFERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5剑头"
-PART_HEAD_HOEFERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5锄头"
-PART_HEAD_AXEFERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5斧头"
-PART_HEAD_PICKFERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5镐头"
-PART_HEAD_SHOVELFERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5铲头"
-PART_PLATES_HELMETFERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 头盔板甲"
-PART_PLATES_CHESTPLATEFERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 胸甲板甲"
-PART_PLATES_LEGGINGSFERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 护腿板甲"
-PART_PLATES_BOOTSFERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 靴子板甲"
-PART_LINKS_FERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 锁甲环"
-PART_REPAIR_KIT_FERROSILICON:
-  name: "&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 修复套件"
-REDSTONE_ALLOY_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融红石合金"
-REDSTONE_ALLOY_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融红石合金"
-LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
-  name: "&x&B&F&3&0&7&F特性：避雷针"
-POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
-  name: "&x&B&F&3&0&7&F特性：通电"
-WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
-  name: "&x&B&F&3&0&7&F特性：谁还需要压力板？"
-PART_ROD_REDSTONE_ALLOY:
-  name: "&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 杆"
-PART_PLATES_HELMETREDSTONE_ALLOY:
-  name: "&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 头盔板甲"
-PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
-  name: "&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 胸甲板甲"
-PART_PLATES_LEGGINGSREDSTONE_ALLOY:
-  name: "&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 护腿板甲"
-PART_PLATES_BOOTSREDSTONE_ALLOY:
-  name: "&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 靴子板甲"
-PART_LINKS_REDSTONE_ALLOY:
-  name: "&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 锁甲环"
-PART_REPAIR_KIT_REDSTONE_ALLOY:
-  name: "&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 修复套件"
-DIAMOND_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融钻石"
-DRACONIC_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融龙息"
-BOOMERITE_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融爆裂矿"
-BOOMERITE_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融爆裂矿"
-LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
-  name: "&x&B&F&3&0&7&F特性：梯子模拟器™"
-GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
-  name: "&x&B&F&3&0&7&F特性：爆炸吧"
-PART_HEAD_SWORDBOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 剑头"
-PART_HEAD_HOEBOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 锄头"
-PART_HEAD_AXEBOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 斧头"
-PART_HEAD_PICKBOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 镐头"
-PART_HEAD_SHOVELBOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 锹头"
-PART_PLATES_HELMETBOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 头盔板甲"
-PART_PLATES_CHESTPLATEBOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 胸甲板甲"
-PART_PLATES_LEGGINGSBOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 护腿板甲"
-PART_PLATES_BOOTSBOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 靴子板甲"
-PART_REPAIR_KIT_BOOMERITE:
-  name: "&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 修复套件"
-SEFIRITE_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融塞菲矿"
-CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
-  name: "&x&B&F&3&0&7&F特性：庆祝"
-PART_PLATES_HELMETSEFIRITE:
-  name: "&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 头盔板甲"
-PART_PLATES_CHESTPLATESEFIRITE:
-  name: "&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 胸甲板甲"
-PART_PLATES_LEGGINGSSEFIRITE:
-  name: "&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 护腿板甲"
-PART_PLATES_BOOTSSEFIRITE:
-  name: "&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 靴子板甲"
-PART_REPAIR_KIT_SEFIRITE:
-  name: "&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 修复套件"
-LIQUID_CHRISTMAS_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融液态圣诞"
-CRINGLEIUM_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融圣诞矿"
-CRINGLEIUM_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融圣诞矿"
-FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
-  name: "&x&B&F&3&0&7&F特性：节日气氛"
-PART_LINKS_CRINGLEIUM:
-  name: "&x&0&0&C&C&3&6圣诞矿&x&4&2&C&8&F&5 锁甲环"
-FLOWING_FONDNESS_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融流动柔情"
-DETAILED_DEVOTION_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融细腻挚爱"
-PURIFIED_PASSION_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融纯净激情"
-LIQUID_LOVE_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融液态爱意"
-LIQUID_LOVE_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融液态爱意"
-IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
-  name: "&x&B&F&3&0&7&F特性：你只需要爱"
-PART_LINKS_LIQUID_LOVE:
-  name: "&x&E&B&3&4&D&2液态爱意&x&4&2&C&8&F&5 锁甲环"
-NICEINIUM_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融善良矿"
-NICEINIUM_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融善良矿"
-NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
-  name: "&x&B&F&3&0&7&F特性：善良"
-PART_HEAD_SWORDNICEINIUM:
-  name: "&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 剑头"
-PART_HEAD_HOENICEINIUM:
-  name: "&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 锄头"
-PART_HEAD_AXENICEINIUM:
-  name: "&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 斧头"
-PART_HEAD_PICKNICEINIUM:
-  name: "&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 镐头"
-PART_HEAD_SHOVELNICEINIUM:
-  name: "&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 锹头"
-PART_REPAIR_KIT_NICEINIUM:
-  name: "&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 修复套件"
-SMITHIUM_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融锻造矿"
-SMITHIUM_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融锻造矿"
-HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
-  name: "&x&B&F&3&0&7&F特性：坚韧"
-INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
-  name: "&x&B&F&3&0&7&F特性：勤勉"
-HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
-  name: "&x&B&F&3&0&7&F特性：抗热"
-CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
-  name: "&x&B&F&3&0&7&F特性：工艺"
-PART_HEAD_SWORDSMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 剑头"
-PART_HEAD_HOESMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 锄头"
-PART_HEAD_AXESMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 斧头"
-PART_HEAD_PICKSMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 镐头"
-PART_HEAD_SHOVELSMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 锹头"
-PART_ROD_SMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 杆"
-PART_PLATES_HELMETSMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 头盔板甲"
-PART_PLATES_CHESTPLATESMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 胸甲板甲"
-PART_PLATES_LEGGINGSSMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 护腿板甲"
-PART_PLATES_BOOTSSMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 靴子板甲"
-PART_LINKS_SMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 锁甲环"
-PART_REPAIR_KIT_SMITHIUM:
-  name: "&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 修复套件"
-ANNIVERSARIUM_LIQUID:
-  name: "&x&A&6&0&A&0&A熔融周年矿"
-ANNIVERSARIUM_ALLOY:
-  name: "&x&A&6&0&A&0&A熔融周年矿"
 10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
-  name: "&x&B&F&3&0&7&F特性：(粘液)科技十周年！"
-PART_PLATES_HELMETANNIVERSARIUM:
-  name: "&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 头盔板甲"
-PART_PLATES_CHESTPLATEANNIVERSARIUM:
-  name: "&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 胸甲板甲"
-PART_PLATES_LEGGINGSANNIVERSARIUM:
-  name: "&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 护腿板甲"
+  name: '&x&B&F&3&0&7&F特性：(粘液)科技十周年！'
+  type:
+  - '&7&o组件'
+ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : Abra'
+  type:
+  - '&7&o组件'
+ACUPUNCTURE_II_TRAIT_PROP_LINKS_ZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 针灸'
+  type:
+  - '&7&o组件'
+ADAMANTITE_LIQUID:
+  type:
+  - '&7&o资源'
+ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
+  type:
+  - '&7&o组件'
+ADVANCED_ALLOY_LIQUID:
+  type:
+  - '&7&o资源'
+ALL_THAT_GLITTERS_II_TRAIT_PROP_ROD_GOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 闪光夺目'
+  type:
+  - '&7&o组件'
+ALUMINUM_BRASS_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融铝黄铜'
+  type:
+  - '&7&o资源'
+ALUMINUM_BRASS_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融铝黄铜'
+  type:
+  - '&7&o资源'
+ALUMINUM_BRONZE_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融铝青铜'
+  type:
+  - '&7&o资源'
+ALUMINUM_BRONZE_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融铝青铜'
+  type:
+  - '&7&o资源'
+ALUMINUM_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融铝'
+  type:
+  - '&7&o资源'
+ALUMINUM_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+ANNIVERSARIUM_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融周年矿'
+  type:
+  - '&7&o资源'
+ANNIVERSARIUM_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融周年矿'
+  type:
+  - '&7&o资源'
+ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
+  type:
+  - '&7&o组件'
+ARMOUR_BOOTS:
+  type:
+  - '&7&o护甲'
+ARMOUR_BOOTS_ENTRY:
+  name: '&a工匠靴子'
+  type:
+  - '&7&o护甲'
+ARMOUR_CHESTPLATE:
+  type:
+  - '&7&o护甲'
+ARMOUR_CHESTPLATE_ENTRY:
+  name: '&a工匠胸甲'
+  type:
+  - '&7&o护甲'
+ARMOUR_HELM:
+  type:
+  - '&7&o护甲'
+ARMOUR_HELMET_ENTRY:
+  name: '&a工匠头盔'
+  type:
+  - '&7&o护甲'
+ARMOUR_LEGGINGS:
+  type:
+  - '&7&o护甲'
+ARMOUR_LEGGINGS_ENTRY:
+  name: '&a工匠护腿'
+  type:
+  - '&7&o护甲'
+ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
+  name: '&x&B&F&3&0&7&F特性：吸引'
+  type:
+  - '&7&o组件'
+ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
+  name: '&x&B&F&3&0&7&F特性：吸引'
+  type:
+  - '&7&o组件'
+BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 束带'
+  type:
+  - '&7&o组件'
+BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 以物易物'
+  type:
+  - '&7&o组件'
+BEAUTIFUL_TRAIT_PROP_LINKS_FORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：华丽'
+  type:
+  - '&7&o组件'
+BEGINNER_II_TRAIT_PROP_PLATES_COPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 新手'
+  type:
+  - '&7&o组件'
+BILLON_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融银铜合金'
+  type:
+  - '&7&o资源'
+BILLON_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融银铜合金'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_ADAMANTITE:
+  name: '&7Adamanitite块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_ADVANCED_ALLOY:
+  name: '&7高级合金块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_ALUMINUM:
+  name: '&7铝块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_ALU_BRASS:
+  name: '&7铝黄铜块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_ALU_BRONZE:
+  name: '&7铝青铜块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_ANNIVERSARIUM:
+  name: '&7周年铟块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_BILLON:
+  name: '&7贱金属合金块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_BOOMERITE:
+  name: '&7爆裂石块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_BRASS:
+  name: '&7黄铜块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_BRONZE:
+  name: '&7青铜块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_COBALT:
+  name: '&7钴块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_COPPER:
+  name: '&7铜块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_COR_BRONZE:
+  name: '&7科林斯青铜块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_CRINGLEIUM:
+  name: '&7圣诞铟块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_DAMASCUS_STEEL:
+  name: '&7大马士革钢块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_DURALIUM:
+  name: '&7硬铝块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_FERROSILICON:
+  name: '&7硅铁块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_HARD_METAL:
+  name: '&7硬化金属块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_INFINITY:
+  name: '&7无尽块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_IRIDIUM:
+  name: '&7铱块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_LEAD:
+  name: '&7铅块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_LOVE:
+  name: '&7爱块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_MAGNESIUM:
+  name: '&7镁块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_MAGNONIUM:
+  name: '&7磁能铟块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_MAGSTEEL:
+  name: '&7磁钢块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_MAG_THOR:
+  name: '&7镁钍块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_MIXED_METAL:
+  name: '&7混合金属块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_MYTHRIL:
+  name: '&7秘银块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_NICE:
+  name: '&7美好块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_NICKEL:
+  name: '&7镍块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_OSMIUM:
+  name: '&7锇块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  name: '&7锇超合金块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_REDSTONE_ALLOY:
+  name: '&7红石合金块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_REFINED_IRON:
+  name: '&7精炼铁块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_REINFORCED:
+  name: '&7强化合金块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  name: '&7强化龙石块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  name: '&7强化史莱姆钢块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_SCRAP:
+  name: '&7废料块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_SEFIRITE:
+  name: '&7塞菲石块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_SILVER:
+  name: '&7银块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_SLIMESTEEL:
+  name: '&7史莱姆钢块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_SMITHIUM:
+  name: '&7史密斯铟块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_SOLDER:
+  name: '&7焊料块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_STAINLESSSTEEL:
+  name: '&7不锈钢块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_STEEL:
+  name: '&7钢块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_TIN:
+  name: '&7锡块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_TITANIUM:
+  name: '&7钛块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_UNPATENTABILUM:
+  name: '&7无法专利铟块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_VOID:
+  name: '&7虚空块'
+  type:
+  - '&7&o资源'
+BLOCK_CAST_ZINC:
+  name: '&7锌块'
+  type:
+  - '&7&o资源'
+BOOMERITE_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融爆裂矿'
+  type:
+  - '&7&o资源'
+BOOMERITE_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融爆裂矿'
+  type:
+  - '&7&o资源'
+BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+BOOST_TRAIT_PROP_LINKS_TIN_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 增益'
+  type:
+  - '&7&o组件'
+BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
+  name: '&x&B&F&3&0&7&F特性：弹性'
+  type:
+  - '&7&o组件'
+BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
+  name: '&x&B&F&3&0&7&F特性：弹性'
+  type:
+  - '&7&o组件'
+BRAINS,_NOT_BRAWN._TRAIT_PROP_ROD_SCRAP:
+  type:
+  - '&7&o组件'
+BRAINS,_NOT_BRAWN_II_TRAIT_PROP_HEAD_COPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 智胜蛮力'
+  type:
+  - '&7&o组件'
+BRASS_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融黄铜'
+  type:
+  - '&7&o资源'
+BRASS_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融黄铜'
+  type:
+  - '&7&o资源'
+BREAKPOINT_TRAIT_PROP_HEAD_INFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+BRIGHT-BURN_TRAIT_PROP_LINKS_DYNATECH_STAR_DUST:
+  type:
+  - '&7&o组件'
+BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
+  name: '&x&B&F&3&0&7&F特性：炽燃'
+  type:
+  - '&7&o组件'
+BRIGHTBURN_TRAIT_PROP_PLATES_MYTHRIL:
+  type:
+  - '&7&o组件'
+BRIGHT_FURY_TRAIT_PROP_HEAD_DYNATECH_STAR_DUST:
+  type:
+  - '&7&o组件'
+BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：脆弱'
+  type:
+  - '&7&o组件'
+BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：脆弱'
+  type:
+  - '&7&o组件'
+BRONZE_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融青铜'
+  type:
+  - '&7&o资源'
+BRONZE_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融青铜'
+  type:
+  - '&7&o资源'
+BUILDING_RAGE_TRAIT_PROP_LINKS_MAG_THOR:
+  type:
+  - '&7&o组件'
+BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
+  name: '&x&B&F&3&0&7&F特性：笨重'
+  type:
+  - '&7&o组件'
+CALL_OF_THE_WILD_TRAIT_PROP_LINKS_MYTHRIL:
+  type:
+  - '&7&o组件'
+CAN_II_TRAIT_PROP_ROD_TIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+CAN_TRAIT_PROP_ROD_TIN_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 罐装'
+  type:
+  - '&7&o组件'
+CARBON_FIBRE_TRAIT_PROP_GAMBESON_RAW_CARBON_MESH:
+  type:
+  - '&7&o组件'
+CAST_AXE_HEAD:
+  name: '&e铸模：斧头'
+  type:
+  - '&7&o组件'
+CAST_BLOCK:
+  name: '&e铸模：金属块'
+  type:
+  - '&7&o组件'
+CAST_BOOT_PLATE:
+  name: '&e铸模：靴子护甲板'
+  type:
+  - '&7&o组件'
+CAST_CHEST_PLATE:
+  name: '&e铸模：胸甲护甲板'
+  type:
+  - '&7&o组件'
+CAST_GEM:
+  name: '&e铸模：宝石'
+  type:
+  - '&7&o组件'
+CAST_HELM_PLATE:
+  name: '&e铸模：头盔护甲板'
+  type:
+  - '&7&o组件'
+CAST_HOEHEAD:
+  name: '&e铸模：锄头'
+  type:
+  - '&7&o组件'
+CAST_INGOT:
+  name: '&e铸模：金属锭'
+  type:
+  - '&7&o组件'
+CAST_LEG_PLATE:
+  name: '&e铸模：护腿护甲板'
+  type:
+  - '&7&o组件'
+CAST_MAIL_LINK:
+  name: '&e铸模：锁甲环'
+  type:
+  - '&7&o组件'
+CAST_NUGGET:
+  name: '&e铸模：金属粒'
+  type:
+  - '&7&o组件'
+CAST_PICKAXEHEAD:
+  name: '&e铸模：镐头'
+  type:
+  - '&7&o组件'
+CAST_REPAIRKIT:
+  name: '&e铸模：修复套件'
+  type:
+  - '&7&o组件'
+CAST_SHOVELHEAD:
+  name: '&e铸模：锹头'
+  type:
+  - '&7&o组件'
+CAST_SWORDBLADE:
+  name: '&e铸模：剑刃'
+  type:
+  - '&7&o组件'
+CAST_TOOLROD:
+  name: '&e铸模：工具杆'
+  type:
+  - '&7&o组件'
+CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
+  name: '&x&B&F&3&0&7&F特性：庆祝'
+  type:
+  - '&7&o组件'
+CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
+  name: '&x&B&F&3&0&7&F特性：充能头部 +'
+  type:
+  - '&7&o组件'
+CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 充能头 -'
+  type:
+  - '&7&o组件'
+CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
+  name: '&x&B&F&3&0&7&F特性：充能杆 +'
+  type:
+  - '&7&o组件'
+CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 充能杆 -'
+  type:
+  - '&7&o组件'
+CLEAN_CUT_TRAIT_PROP_HEAD_METAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+CLEAVE_TRAIT_PROP_HEAD_ADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+COAL_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融煤'
+  type:
+  - '&7&o资源'
+COBALT_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融钴'
+  type:
+  - '&7&o资源'
+COBALT_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融钴'
+  type:
+  - '&7&o资源'
+COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 复合'
+  type:
+  - '&7&o组件'
+CONCEPTUAL_DEFENCE_TRAIT_PROP_ROD_INFINITE_INGOT:
+  type:
+  - '&7&o组件'
+CONDUCTIVE_II_TRAIT_PROP_ROD_COPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 导电'
+  type:
+  - '&7&o组件'
+CONDUCTIVITY_II_TRAIT_PROP_PLATES_SILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 导电性'
+  type:
+  - '&7&o组件'
+CONDUCTOR_TRAIT_PROP_ROD_METAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+COPPER_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融铜'
+  type:
+  - '&7&o资源'
+COPPER_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+CORINTHIAN_BRONZE_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融科林斯青铜'
+  type:
+  - '&7&o资源'
+CORINTHIAN_BRONZE_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融科林斯青铜'
+  type:
+  - '&7&o资源'
+CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
+  name: '&x&B&F&3&0&7&F特性：工艺'
+  type:
+  - '&7&o组件'
+CRINGLEIUM_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融圣诞矿'
+  type:
+  - '&7&o资源'
+CRINGLEIUM_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融圣诞矿'
+  type:
+  - '&7&o资源'
+CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
+  type:
+  - '&7&o组件'
+DAMASCUS_STEEL_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融大马士革钢'
+  type:
+  - '&7&o资源'
+DAMASCUS_STEEL_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融大马士革钢'
+  type:
+  - '&7&o资源'
+DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
+  name: '&x&B&F&3&0&7&F特性：腐朽'
+  type:
+  - '&7&o组件'
+DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
+  name: '&x&B&F&3&0&7&F特性：腐朽'
+  type:
+  - '&7&o组件'
+DEFENDER_TRAIT_PROP_LINKS_MAGSTEEL:
+  type:
+  - '&7&o组件'
+DEFLECTIVE_TRAIT_PROP_PLATES_ADAMANTITE:
+  type:
+  - '&7&o组件'
+DETAILED_DEVOTION_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融细腻挚爱'
+  type:
+  - '&7&o资源'
+DIAMOND_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融钻石'
+  type:
+  - '&7&o资源'
+DIAMOND_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+DIE_AXE_HEAD:
+  name: '&e模具：石斧头'
+  type:
+  - '&7&o组件'
+DIE_BOOT_PLATE:
+  name: '&e模具：石靴子护甲板'
+  type:
+  - '&7&o组件'
+DIE_CHEST_PLATE:
+  name: '&e模具：石胸甲护甲板'
+  type:
+  - '&7&o组件'
+DIE_HELM_PLATE:
+  name: '&e模具：石头盔护甲板'
+  type:
+  - '&7&o组件'
+DIE_HOE_HEAD:
+  name: '&e模具：石锄头'
+  type:
+  - '&7&o组件'
+DIE_LEG_PLATE:
+  name: '&e模具：石护腿护甲板'
+  type:
+  - '&7&o组件'
+DIE_MAIL_LINK:
+  name: '&e模具：锁甲环'
+  type:
+  - '&7&o组件'
+DIE_PICKAXE_HEAD:
+  name: '&e模具：石镐头'
+  type:
+  - '&7&o组件'
+DIE_REPAIR_KIT:
+  name: '&e模具：修复套件'
+  type:
+  - '&7&o组件'
+DIE_SHOVEL_HEAD:
+  name: '&e模具：石锹头'
+  type:
+  - '&7&o组件'
+DIE_SWORD_BLADE:
+  name: '&e模具：石剑刃'
+  type:
+  - '&7&o组件'
+DIE_TOOL_ROD:
+  name: '&e模具：工具杆'
+  type:
+  - '&7&o组件'
+DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
+  name: '&x&B&F&3&0&7&F特性：厄运'
+  type:
+  - '&7&o组件'
+DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
+  name: '&x&B&F&3&0&7&F特性：厄运'
+  type:
+  - '&7&o组件'
+DRACONIC_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融龙息'
+  type:
+  - '&7&o资源'
+DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
+  type:
+  - '&7&o组件'
+DUMMY_MODIFICATION_STATION:
+  name: '&3工匠改造站'
+  type:
+  - '&7&o杂项'
+DUMMY_TINKERS_ARMOUR_TABLE:
+  name: '&3工匠盔甲台'
+  type:
+  - '&7&o杂项'
+DUMMY_TINKERS_SMELTERY:
+  name: '&3工匠冶炼厂'
+  type:
+  - '&7&o杂项'
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  name: '&3工匠冶炼厂'
+  type:
+  - '&7&o杂项'
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  name: '&3工匠冶炼厂'
+  type:
+  - '&7&o杂项'
+DUMMY_TINKERS_SMELTERY_MULTI:
+  name: '&3工匠冶炼厂'
+  type:
+  - '&7&o杂项'
+DUMMY_TINKERS_SMELTERY_PROP:
+  name: '&3工匠冶炼厂'
+  type:
+  - '&7&o杂项'
+DUMMY_TINKERS_TABLE:
+  name: '&3工匠工具台'
+  type:
+  - '&7&o杂项'
+DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
+  name: '&x&B&F&3&0&7&F特性：耐用'
+  type:
+  - '&7&o组件'
+DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
+  name: '&x&B&F&3&0&7&F特性：耐用'
+  type:
+  - '&7&o组件'
+DURABLE_TRAIT_PROP_ROD_TITANIUM:
+  type:
+  - '&7&o组件'
+DURALIUM_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融硬铝'
+  type:
+  - '&7&o资源'
+DURALIUM_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融硬铝'
+  type:
+  - '&7&o资源'
+DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
+  name: '&x&B&F&3&0&7&F特性：矮人技艺'
+  type:
+  - '&7&o组件'
+DWARVEN_SKILLS_TRAIT_PROP_PLATES_TITANIUM:
+  type:
+  - '&7&o组件'
+EARTH_SHAKER_TRAIT_PROP_HEAD_EARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+EARTH_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+EASILY_SHAPED_II_TRAIT_PROP_LINKS_ALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 易于塑形'
+  type:
+  - '&7&o组件'
+EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
+  name: '&x&B&F&3&0&7&F特性：易修复'
+  type:
+  - '&7&o组件'
+EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：弹射！'
+  type:
+  - '&7&o组件'
+ELVEN_SPEED_TRAIT_PROP_HEAD_MYTHRIL:
+  type:
+  - '&7&o组件'
+ENCHANTING_II_TRAIT_PROP_HEAD_SILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+ENCHANTING_II_TRAIT_PROP_LINKS_SILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 附魔'
+  type:
+  - '&7&o组件'
+ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 附魔'
+  type:
+  - '&7&o组件'
+ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 逃脱'
+  type:
+  - '&7&o组件'
+ESCAPE_TRAIT_PROP_PLATES_MAGNONIUM:
+  type:
+  - '&7&o组件'
+EVEN_MORE_ADVANCED_TRAIT_PROP_PLATES_ADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+EXPERIENCED_TRAIT_PROP_LINKS_ADAMANTITE:
+  type:
+  - '&7&o组件'
+EXPERIENCED_TRAIT_PROP_PLATES_MIXED_METAL_INGOT:
+  type:
+  - '&7&o组件'
+FALLING_APART_TRAIT_PROP_LINKS_SCRAP:
+  type:
+  - '&7&o组件'
+FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：农夫'
+  type:
+  - '&7&o组件'
+FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 迅捷'
+  type:
+  - '&7&o组件'
+FEAR_THE_VOID_TRAIT_PROP_ROD_VOID_INGOT:
+  type:
+  - '&7&o组件'
+FEELING_CONNECTED_TRAIT_PROP_LINKS_NTW_REMOTE_ULTIMATE:
+  type:
+  - '&7&o组件'
+FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
+  name: '&x&B&F&3&0&7&F特性：节日气氛'
+  type:
+  - '&7&o组件'
+FERROSILICON_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融硅铁'
+  type:
+  - '&7&o资源'
+FERROSILICON_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融硅铁'
+  type:
+  - '&7&o资源'
+FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：烈焰灼热'
+  type:
+  - '&7&o组件'
+FLAMING_HOT_TRAIT_PROP_ROD_MAGNONIUM:
+  type:
+  - '&7&o组件'
+FLAMMABLE_II_TRAIT_PROP_HEAD_MAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 易燃'
+  type:
+  - '&7&o组件'
+FLAMMABLE_TRAIT_PROP_ROD_MAGSTEEL:
+  type:
+  - '&7&o组件'
+FLOWING_FONDNESS_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融流动柔情'
+  type:
+  - '&7&o资源'
+FOIL_II_TRAIT_PROP_PLATES_ALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 箔片'
+  type:
+  - '&7&o组件'
+FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+FORTUNE_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 熔合'
+  type:
+  - '&7&o组件'
+FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 熔合'
+  type:
+  - '&7&o组件'
+GHOSTLY_ESSENCE_LIQUID:
+  type:
+  - '&7&o资源'
+GHOSTLY_TRAIT_PROP_LINKS_DYNATECH_GHOSTLY_ESSENCE:
+  type:
+  - '&7&o组件'
+GHOST_IN_THE_SHELL_TRAIT_PROP_GAMBESON_DYNATECH_GHOSTLY_ESSENCE:
+  type:
+  - '&7&o组件'
+GLEAM_TRAIT_PROP_LINKS_METAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+GOLDEN_VEIL_II_TRAIT_PROP_HEAD_GOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 黄金面纱'
+  type:
+  - '&7&o组件'
+GOLD_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融金'
+  type:
+  - '&7&o资源'
+GOLD_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
+  name: '&x&B&F&3&0&7&F特性：爆炸吧'
+  type:
+  - '&7&o组件'
+GRACEFUL_II_TRAIT_PROP_HEAD_ZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 优雅'
+  type:
+  - '&7&o组件'
+GRINDER_TRAIT_PROP_ROD_EARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+GROUT:
+  name: '&7灰浆'
+  type:
+  - '&7&o组件'
+GROWTH_TRAIT_PROP_BINDING_VINE:
+  name: '&x&B&F&3&0&7&F特性：生长'
+  type:
+  - '&7&o组件'
+GROWTH_TRAIT_PROP_GAMBESON_VINE:
+  name: '&x&B&F&3&0&7&F特性：生长'
+  type:
+  - '&7&o组件'
+HARDENED_METAL_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融硬化金属'
+  type:
+  - '&7&o资源'
+HARDENED_METAL_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融硬化金属'
+  type:
+  - '&7&o资源'
+HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
+  name: '&x&B&F&3&0&7&F特性：坚韧'
+  type:
+  - '&7&o组件'
+HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 坚韧'
+  type:
+  - '&7&o组件'
+HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 导热体'
+  type:
+  - '&7&o组件'
+HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
+  name: '&x&B&F&3&0&7&F特性：抗热'
+  type:
+  - '&7&o组件'
+HEAT_RESISTANT_TRAIT_PROP_HEAD_MAG_THOR:
+  type:
+  - '&7&o组件'
+HEAT_RESISTANT_TRAIT_PROP_LINKS_TITANIUM:
+  type:
+  - '&7&o组件'
+HEAVY_DUTY_TRAIT_PROP_ROD_ADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
+  name: '&x&B&F&3&0&7&F特性：沉重'
+  type:
+  - '&7&o组件'
+HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 隐藏'
+  type:
+  - '&7&o组件'
+HOW_FORTUNATE_TRAIT_PROP_PLATES_FORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+HYBERBOLIC_TESSERATION_TRAIT_PROP_LINKS_DYNATECH_TESSERACTING_OBJECT:
+  type:
+  - '&7&o组件'
+HYBERBOLIC_TESSERATION_TRAIT_PROP_PLATES_DYNATECH_TESSERACTING_OBJECT:
+  type:
+  - '&7&o组件'
+HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
+  name: '&x&B&F&3&0&7&F特性：氢'
+  type:
+  - '&7&o组件'
+HYPERCUBE_[A]_TRAIT_PROP_HEAD_DYNATECH_TESSERACTING_OBJECT:
+  type:
+  - '&7&o组件'
+HYPERCUBE_[B]_TRAIT_PROP_ROD_DYNATECH_GHOSTLY_ESSENCE:
+  type:
+  - '&7&o组件'
+INCORPOREAL_TRAIT_PROP_BINDING_DYNATECH_GHOSTLY_ESSENCE:
+  type:
+  - '&7&o组件'
+INDOMITABLE_TRAIT_PROP_PLATES_IRIDIUM:
+  type:
+  - '&7&o组件'
+INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
+  name: '&x&B&F&3&0&7&F特性：勤勉'
+  type:
+  - '&7&o组件'
+INFINITE_CAPACITY_TRAIT_PROP_PLATES_INFINITE_INGOT:
+  type:
+  - '&7&o组件'
+INFINITE_DEFENCE_TRAIT_PROP_LINKS_INFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+INFINITE_LIQUID:
+  type:
+  - '&7&o资源'
+INFINITE_TRAIT_PROP_HEAD_INFINITE_INGOT:
+  type:
+  - '&7&o组件'
+INFINITLY_POWERFUL_TRAIT_PROP_PLATES_INFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+INFINITY_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：英烈高地'
+  type:
+  - '&7&o组件'
+INGOT_CAST_ANNIVERSARIUM:
+  name: '&7周年铟锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_BOOMERITE:
+  name: '&7爆裂石锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_CRINGLEIUM:
+  name: '&7圣诞铟锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_DAXI_ABSORPTION:
+  name: '&7伤害吸收达西锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_DAXI_FORTITUDE:
+  name: '&7坚韧达西锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_DAXI_REGENERATION:
+  name: '&7再生达西锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_DAXI_SATURATION:
+  name: '&7饱和达西锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_DAXI_STRENGTH:
+  name: '&7力量达西锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_DEVOTION:
+  name: '&7奉献锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_FONDNESS:
+  name: '&7喜爱锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_LOVE:
+  name: '&7爱锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_NICE:
+  name: '&7美好锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_PASSION:
+  name: '&7热情锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_REINFORCED_DRACONIUM:
+  name: '&7强化龙石锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_SEFIRITE:
+  name: '&7塞菲石锭'
+  type:
+  - '&7&o资源'
+INGOT_CAST_SMITHIUM:
+  name: '&7史密斯铟锭'
+  type:
+  - '&7&o资源'
+INSULATED_TRAIT_PROP_BINDING_RUBBER:
+  type:
+  - '&7&o组件'
+INTERDIMENSIONAL_PRESENCE_LIQUID:
+  type:
+  - '&7&o资源'
+IRIDIUM_LIQUID:
+  type:
+  - '&7&o资源'
+IRON_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融铁'
+  type:
+  - '&7&o资源'
+IRON_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
+  name: '&x&B&F&3&0&7&F特性：你只需要爱'
+  type:
+  - '&7&o组件'
+IT'S_ONLY_NATURAL_TRAIT_PROP_LINKS_EARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+KINGSMAN_TRAIT_PROP_PLATES_REFINED_IRON:
+  type:
+  - '&7&o组件'
+KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
+  name: '&x&B&F&3&0&7&F特性：梯子模拟器™'
+  type:
+  - '&7&o组件'
+LAVA_WALKER_TRAIT_PROP_PLATES_EARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+LEAD_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融铅'
+  type:
+  - '&7&o资源'
+LEAD_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+LEECH_II_TRAIT_PROP_ROD_LEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+LEECH_TRAIT_PROP_ROD_LEAD_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 吸取'
+  type:
+  - '&7&o组件'
+LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
+  name: '&x&B&F&3&0&7&F特性：避雷针'
+  type:
+  - '&7&o组件'
+LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 轻量'
+  type:
+  - '&7&o组件'
+LIGHT_II_TRAIT_PROP_PLATES_MAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 轻盈'
+  type:
+  - '&7&o组件'
+LIQUID_CHRISTMAS_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融液态圣诞'
+  type:
+  - '&7&o资源'
+LIQUID_LOVE_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融液态爱意'
+  type:
+  - '&7&o资源'
+LIQUID_LOVE_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融液态爱意'
+  type:
+  - '&7&o资源'
+MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+MAGIC_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+MAGNANIMOUS_TRAIT_PROP_HEAD_MAGNONIUM:
+  type:
+  - '&7&o组件'
+MAGNESIGHT™_II_TRAIT_PROP_LINKS_MAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 镁视™'
+  type:
+  - '&7&o组件'
+MAGNESIUM_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融镁'
+  type:
+  - '&7&o资源'
+MAGNESIUM_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 磁镁'
+  type:
+  - '&7&o组件'
+MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
+  name: '&x&B&F&3&0&7&F特性：磁性 +'
+  type:
+  - '&7&o组件'
+MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
+  name: '&x&B&F&3&0&7&F特性：磁性 +'
+  type:
+  - '&7&o组件'
+MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 磁性 -'
+  type:
+  - '&7&o组件'
+MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 磁性 -'
+  type:
+  - '&7&o组件'
+MAGNONIUM_LIQUID:
+  type:
+  - '&7&o资源'
+MAGSTEEL_ALLOY:
+  type:
+  - '&7&o资源'
+MAGSTEEL_LIQUID:
+  type:
+  - '&7&o资源'
+MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 法师'
+  type:
+  - '&7&o组件'
+MAG_THOR_ALLOY:
+  type:
+  - '&7&o资源'
+MAG_THOR_LIQUID:
+  type:
+  - '&7&o资源'
+MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 延展性'
+  type:
+  - '&7&o组件'
+MANNERS_MAKETH_MAN_TRAIT_PROP_ROD_REFINED_IRON:
+  type:
+  - '&7&o组件'
+MERCHANT'S_VEIL_TRAIT_PROP_ROD_FORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+METAL_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+MIXED_METALS_TRAIT_PROP_HEAD_MIXED_METAL_INGOT:
+  type:
+  - '&7&o组件'
+MIXED_METAL_ALLOY:
+  type:
+  - '&7&o资源'
+MIXED_METAL_LIQUID:
+  type:
+  - '&7&o资源'
+MIX_IT_UP!_TRAIT_PROP_LINKS_MIXED_METAL_INGOT:
+  type:
+  - '&7&o组件'
+MOD_DIAMOND_ENTRY:
+  name: '&d改造：钻石'
+  type:
+  - '&7&o组件'
+MOD_EMERALD_ENTRY:
+  name: '&d改造：绿宝石'
+  type:
+  - '&7&o组件'
+MOD_LAPIS_ENTRY:
+  name: '&d改造：青金石'
+  type:
+  - '&7&o组件'
+MOD_PLATE:
+  name: '&d强化板'
+  type:
+  - '&7&o组件'
+MOD_PLATE_ENTRY:
+  name: '&d改造：强化板'
+  type:
+  - '&7&o组件'
+MOD_QUARTZ_ENTRY:
+  name: '&d改造：石英'
+  type:
+  - '&7&o组件'
+MOD_REDSTONE_ENTRY:
+  name: '&d改造：红石'
+  type:
+  - '&7&o组件'
+MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
+  type:
+  - '&7&o组件'
+MYTHRIL_LIQUID:
+  type:
+  - '&7&o资源'
+NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
+  type:
+  - '&7&o组件'
+NICEINIUM_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融善良矿'
+  type:
+  - '&7&o资源'
+NICEINIUM_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融善良矿'
+  type:
+  - '&7&o资源'
+NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
+  name: '&x&B&F&3&0&7&F特性：善良'
+  type:
+  - '&7&o组件'
+NICKEL_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融镍'
+  type:
+  - '&7&o资源'
+NICKEL_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融镍'
+  type:
+  - '&7&o资源'
+NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 夜行者'
+  type:
+  - '&7&o组件'
+NIMBLE_TRAIT_PROP_BINDING_RAW_CARBON_MESH:
+  type:
+  - '&7&o组件'
+NOCLIP_TRAIT_PROP_BINDING_DYNATECH_VEX_GEM:
+  type:
+  - '&7&o组件'
+NON-CORROSIVE_II_TRAIT_PROP_PLATES_TIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 抗腐蚀'
+  type:
+  - '&7&o组件'
+NUGGET_CAST_ADAMANTITE:
+  name: '&7精金粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_ADVANCED_ALLOY:
+  name: '&7高级合金粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_ALUMINUM:
+  name: '&7铝粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_ALU_BRASS:
+  name: '&7铝黄铜粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_ALU_BRONZE:
+  name: '&7铝青铜粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_ANNIVERSARIUM:
+  name: '&7周年铟粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_BILLON:
+  name: '&7贱金属合金粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_BOOMERITE:
+  name: '&7爆裂石粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_BRASS:
+  name: '&7黄铜粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_BRONZE:
+  name: '&7青铜粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_COAL:
+  name: '&7煤粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_COBALT:
+  name: '&7钴粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_COPPER:
+  name: '&7铜粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_COR_BRONZE:
+  name: '&7科林斯青铜粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_CRINGLEIUM:
+  name: '&7圣诞铟粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_DAMASCUS_STEEL:
+  name: '&7大马士革钢粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_DAXI_ABSORPTION:
+  name: '&7伤害吸收达西粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_DAXI_FORTITUDE:
+  name: '&7坚韧达西粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_DAXI_REGENERATION:
+  name: '&7再生达西粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_DAXI_SATURATION:
+  name: '&7饱和达西粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_DAXI_STRENGTH:
+  name: '&7力量达西粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_DEVOTION:
+  name: '&7奉献粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_DURALIUM:
+  name: '&7硬铝粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_FERROSILICON:
+  name: '&7硅铁粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_FONDNESS:
+  name: '&7喜爱粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_HARD_METAL:
+  name: '&7硬化金属粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_INFINITY:
+  name: '&7无尽粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_IRIDIUM:
+  name: '&7铱粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_LEAD:
+  name: '&7铅粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_LOVE:
+  name: '&7爱粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_MAGNESIUM:
+  name: '&7镁粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_MAGNONIUM:
+  name: '&7磁能铟粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_MAGSTEEL:
+  name: '&7磁钢粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_MAG_THOR:
+  name: '&7镁钍粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_MIXED_METAL:
+  name: '&7混合金属粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_MYTHRIL:
+  name: '&7秘银粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_NICE:
+  name: '&7美好粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_NICKEL:
+  name: '&7镍粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_OSMIUM:
+  name: '&7锇粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  name: '&7锇超合金粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_PASSION:
+  name: '&7热情粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_REDSTONE_ALLOY:
+  name: '&7红石合金粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_REFINED_IRON:
+  name: '&7精炼铁粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_REINFORCED:
+  name: '&7强化合金粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  name: '&7强化龙石粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  name: '&7强化史莱姆钢粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_SCRAP:
+  name: '&7废料粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_SEFIRITE:
+  name: '&7塞菲石粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_SILVER:
+  name: '&7银粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_SLIMESTEEL:
+  name: '&7史莱姆钢粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_SMITHIUM:
+  name: '&7史密斯铟粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_SOLDER:
+  name: '&7焊料粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_STAINLESSSTEEL:
+  name: '&7不锈钢粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_STEEL:
+  name: '&7钢粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_TIN:
+  name: '&7锡粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_TITANIUM:
+  name: '&7钛粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_UNPATENTABILUM:
+  name: '&7无法专利铟粒'
+  type:
+  - '&7&o资源'
+NUGGET_CAST_ZINC:
+  name: '&7锌粒'
+  type:
+  - '&7&o资源'
+OROBORUS_TRAIT_PROP_LINKS_INFINITE_INGOT:
+  type:
+  - '&7&o组件'
+OXYGENATED_TRAIT_PROP_LINKS_MAGNONIUM:
+  type:
+  - '&7&o组件'
+OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 充氧'
+  type:
+  - '&7&o组件'
+PART_AXE_HEAD:
+  type:
+  - '&7&o组件'
+PART_AXE_HEAD_DUMMY:
+  name: '&e部件：斧头'
+  type:
+  - '&7&o组件'
+PART_BINDING_CARBON_MESH:
+  type:
+  - '&7&o组件'
+PART_BINDING_CRIMSON_ROOT:
+  name: '&x&B&5&3&6&5&E绯红菌根&x&4&2&C&8&F&5绑带'
+  type:
+  - '&7&o组件'
+PART_BINDING_DUMMY:
+  name: '&e部件：绑定'
+  type:
+  - '&7&o组件'
+PART_BINDING_GENERAL_DISPLAY:
+  name: '&7绑定材料'
+  type:
+  - '&7&o组件'
+PART_BINDING_GHOSTLY_ESSENCE:
+  type:
+  - '&7&o组件'
+PART_BINDING_LEATHER:
+  name: '&x&9&1&8&0&5&6皮革&x&4&2&C&8&F&5绑带'
+  type:
+  - '&7&o组件'
+PART_BINDING_RUBBER:
+  type:
+  - '&7&o组件'
+PART_BINDING_SILICON:
+  name: '&x&F&2&F&2&F&2硅&x&4&2&C&8&F&5绑带'
+  type:
+  - '&7&o组件'
+PART_BINDING_SLIME:
+  name: '&x&2&9&E&0&1&F黏液&x&4&2&C&8&F&5绑带'
+  type:
+  - '&7&o组件'
+PART_BINDING_STRING:
+  name: '&x&F&5&F&5&F&5线&x&4&2&C&8&F&5绑带'
+  type:
+  - '&7&o组件'
+PART_BINDING_TWISTED_VINE:
+  name: '&x&1&B&8&0&4&5缠络藤&x&4&2&C&8&F&5绑带'
+  type:
+  - '&7&o组件'
+PART_BINDING_VEX_GEM:
+  type:
+  - '&7&o组件'
+PART_BINDING_VINE:
+  name: '&x&4&C&A&8&6&B藤蔓&x&4&2&C&8&F&5绑带'
+  type:
+  - '&7&o组件'
+PART_BINDING_WARPED_ROOT:
+  name: '&x&3&6&B&5&4&9诡异菌根&x&4&2&C&8&F&5绑带'
+  type:
+  - '&7&o组件'
+PART_BINDING_WEEPING_VINE:
+  name: '&x&9&C&0&9&1&D垂泪藤&x&4&2&C&8&F&5绑带'
+  type:
+  - '&7&o组件'
+PART_BOOTS_PLATES:
+  type:
+  - '&7&o组件'
+PART_BOOT_PLATE_DUMMY:
+  name: '&e部件：靴子护甲板'
+  type:
+  - '&7&o组件'
+PART_CHEST_PLATES:
+  type:
+  - '&7&o组件'
+PART_CHEST_PLATE_DUMMY:
+  name: '&e部件：胸甲护甲板'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_CARBON_MESH:
+  type:
+  - '&7&o组件'
+PART_GAMBESON_CRIMSON_ROOT:
+  name: '&x&B&5&3&6&5&E绯红菌根&x&4&2&C&8&F&5衬垫甲'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_DUMMY:
+  name: '&e部件：战袍'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_GENERAL_DISPLAY:
+  name: '&7战袍材料'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_GHOSTLY_ESSENCE:
+  type:
+  - '&7&o组件'
+PART_GAMBESON_LEATHER:
+  name: '&x&9&1&8&0&5&6皮革&x&4&2&C&8&F&5衬垫甲'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_RUBBER:
+  type:
+  - '&7&o组件'
+PART_GAMBESON_SILICON:
+  name: '&x&F&2&F&2&F&2硅&x&4&2&C&8&F&5衬垫甲'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_SLIME:
+  name: '&x&2&9&E&0&1&F黏液&x&4&2&C&8&F&5衬垫甲'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_STRING:
+  name: '&x&F&5&F&5&F&5线&x&4&2&C&8&F&5衬垫甲'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_TWISTED_VINE:
+  name: '&x&1&B&8&0&4&5缠络藤&x&4&2&C&8&F&5衬垫甲'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_VEX_GEM:
+  type:
+  - '&7&o组件'
+PART_GAMBESON_VINE:
+  name: '&x&4&C&A&8&6&B藤蔓&x&4&2&C&8&F&5衬垫甲'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_WARPED_ROOT:
+  name: '&x&3&6&B&5&4&9诡异菌根&x&4&2&C&8&F&5衬垫甲'
+  type:
+  - '&7&o组件'
+PART_GAMBESON_WEEPING_VINE:
+  name: '&x&9&C&0&9&1&D垂泪藤&x&4&2&C&8&F&5衬垫甲'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5斧头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEBILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEBOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEBRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEBRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXECOBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXECOPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXECOPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXECORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEDAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5斧头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEDURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEEARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEFERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEFORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEGOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEGOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEHARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEINFINITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEINFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEIRIDIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEIRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEIRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXELEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXELEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEMAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEMAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5斧头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEMAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEMAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEMAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEMAG_THOR:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEMETAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEMIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEMYTHRIL:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXENICEINIUM:
+  name: '&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXENICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEREFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEREINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEREINFORCED_DRACONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXESCRAP:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXESILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXESILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXESMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXESOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5斧头'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXESTAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXESTAR_DUST:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXESTEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5斧头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXETESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXETIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5斧头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXETIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXETITANIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEVOID:
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5斧头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_AXEZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5锄头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEBILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEBOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEBRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEBRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOECOBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOECOPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOECOPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOECORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEDAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5锄头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEDURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEEARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEFERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEFORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEGOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEGOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEHARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEINFINITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEINFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEIRIDIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEIRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEIRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOELEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOELEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEMAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEMAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5锄头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEMAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEMAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEMAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEMAG_THOR:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEMETAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEMIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEMYTHRIL:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOENICEINIUM:
+  name: '&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOENICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEREFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEREINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEREINFORCED_DRACONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOESCRAP:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOESILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOESILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOESMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOESOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5锄头'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOESTAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOESTAR_DUST:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOESTEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5锄头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOETESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOETIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5锄头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOETIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOETITANIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEVOID:
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5锄头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_HOEZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5镐头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKBILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKBOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKBRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKBRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKCOBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKCOPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKCOPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKCORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKDAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5镐头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKDURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKEARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKFERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKFORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKGOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKGOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKHARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKINFINITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKINFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKIRIDIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKIRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKIRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKLEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKLEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKMAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKMAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5镐头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKMAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKMAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKMAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKMAG_THOR:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKMETAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKMIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKMYTHRIL:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKNICEINIUM:
+  name: '&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKNICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKREFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKREINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKREINFORCED_DRACONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKSCRAP:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKSILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKSILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKSMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKSOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5镐头'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKSTAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKSTAR_DUST:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKSTEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5镐头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKTESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKTIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5镐头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKTIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKTITANIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKVOID:
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5镐头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_PICKZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5锹头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5铲头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELBILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5铲头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELBOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELBRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5铲头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELBRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELCOBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5铲头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELCOPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELCOPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELCORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELDAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELDURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELEARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELFERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5铲头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELFORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELGOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELGOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELHARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELINFINITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELINFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELIRIDIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELIRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELIRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELLEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELLEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELMAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELMAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5锹头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELMAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELMAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELMAG_THOR:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELMETAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELMIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELMYTHRIL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELNICEINIUM:
+  name: '&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELNICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5铲头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELREFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELREINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5铲头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELREINFORCED_DRACONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELSCRAP:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELSILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELSILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELSMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 锹头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELSOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5铲头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELSTAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELSTAR_DUST:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELSTEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5锹头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELTESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELTIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5锹头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELTIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELTITANIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELVOID:
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5锹头部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SHOVELZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDBILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDBOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDBRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDBRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDCOBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDCOPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDCOPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDCORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDDAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5剑刃部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDDURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDEARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDFERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDFORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDGOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDGOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDHARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDINFINITE:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDINFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDIRIDIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDIRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDIRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDLEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDLEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDMAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDMAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5剑刃部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDMAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDMAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDMAG_THOR:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDMETAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDMIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDMYTHRIL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDNICEINIUM:
+  name: '&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDNICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDREFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDREINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDREINFORCED_DRACONIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDSCRAP:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDSILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDSILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDSMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDSOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5剑头'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDSTAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDSTAR_DUST:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDSTEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5剑刃部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDTESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDTIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5剑刃部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDTIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDTITANIUM:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDVOID:
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5剑刃部件'
+  type:
+  - '&7&o组件'
+PART_HEAD_SWORDZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_HELM_PLATES:
+  type:
+  - '&7&o组件'
+PART_HELM_PLATE_DUMMY:
+  name: '&e部件：头盔护甲板'
+  type:
+  - '&7&o组件'
+PART_HOE_HEAD:
+  type:
+  - '&7&o组件'
+PART_HOE_HEAD_DUMMY:
+  name: '&e部件：锄头'
+  type:
+  - '&7&o组件'
+PART_LEG_PLATES:
+  type:
+  - '&7&o组件'
+PART_LEG_PLATE_DUMMY:
+  name: '&e部件：护腿护甲板'
+  type:
+  - '&7&o组件'
+PART_LINKS_ADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_LINKS_ADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_LINKS_ALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_ALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_ALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_ALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_BILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_BRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_BRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_COBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_COPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5锁链环'
+  type:
+  - '&7&o组件'
+PART_LINKS_COPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_CORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_CRINGLEIUM:
+  name: '&x&0&0&C&C&3&6圣诞矿&x&4&2&C&8&F&5 锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_DAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_DURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_EARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_FERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_FORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_GHOSTLY_ESSENCE:
+  type:
+  - '&7&o组件'
+PART_LINKS_GOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5锁链环'
+  type:
+  - '&7&o组件'
+PART_LINKS_GOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_HARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_INFINITE:
+  type:
+  - '&7&o组件'
+PART_LINKS_INFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_IRIDIUM:
+  type:
+  - '&7&o组件'
+PART_LINKS_IRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5锁链环'
+  type:
+  - '&7&o组件'
+PART_LINKS_IRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_LEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5锁链环'
+  type:
+  - '&7&o组件'
+PART_LINKS_LEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_LIQUID_LOVE:
+  name: '&x&E&B&3&4&D&2液态爱意&x&4&2&C&8&F&5 锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_MAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_MAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_MAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_MAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_LINKS_MAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_LINKS_MAG_THOR:
+  type:
+  - '&7&o组件'
+PART_LINKS_METAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_MIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_LINKS_MYTHRIL:
+  type:
+  - '&7&o组件'
+PART_LINKS_NICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_REDSTONE_ALLOY:
+  name: '&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_REFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_LINKS_REINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_SCRAP:
+  type:
+  - '&7&o组件'
+PART_LINKS_SILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5锁链环'
+  type:
+  - '&7&o组件'
+PART_LINKS_SILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_SMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_SOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_STAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_LINKS_STAR_DUST:
+  type:
+  - '&7&o组件'
+PART_LINKS_STEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_TESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_LINKS_TIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_TIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_LINKS_TITANIUM:
+  type:
+  - '&7&o组件'
+PART_LINKS_ULTIMANINIUM:
+  type:
+  - '&7&o组件'
+PART_LINKS_VOID:
+  type:
+  - '&7&o组件'
+PART_LINKS_ZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5锁甲环'
+  type:
+  - '&7&o组件'
+PART_LINKS_ZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_MAIL_LINKS_DUMMY:
+  name: '&e部件：锁甲环'
+  type:
+  - '&7&o组件'
+PART_PICKAXE_HEAD:
+  type:
+  - '&7&o组件'
+PART_PICKAXE_HEAD_DUMMY:
+  name: '&e部件：镐头'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5靴子板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5靴子甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
 PART_PLATES_BOOTSANNIVERSARIUM:
-  name: "&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 靴子板甲"
+  name: '&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSBILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5靴子板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSBOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSBRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5靴子板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSBRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5靴子甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSCOBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5靴子甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSCOPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSCOPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSCORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5靴子板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSDAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5靴子甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSDURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5靴子甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSEARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSFERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSFORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSGOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSGOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSHARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5靴子甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSINFINITE:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSINFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSIRIDIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSIRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSIRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSLEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSLEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSMAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSMAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSMAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSMAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSMAG_THOR:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSMETAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSMIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSMYTHRIL:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSNICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5靴子甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSREDSTONE_ALLOY:
+  name: '&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSREFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSREINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5靴子甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSSCRAP:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSSEFIRITE:
+  name: '&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSSILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSSILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSSMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSSOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5靴子板'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSSTAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSSTAR_DUST:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSSTEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSTESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSTIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSTIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSTITANIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSVOID:
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5靴子板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_BOOTSZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5胸甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5胸甲甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEANNIVERSARIUM:
+  name: '&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEBILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5胸甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEBOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEBRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5胸甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEBRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5胸甲甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATECOBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5胸甲甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATECOPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATECOPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5胸甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5胸甲甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEDURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5胸甲甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEFERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEFORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEGOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEGOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEHARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5胸甲甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEINFINITE:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEINFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEIRIDIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEIRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEIRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATELEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATELEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEMAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEMAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEMAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEMAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEMAG_THOR:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEMIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEMYTHRIL:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATENICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5胸甲甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
+  name: '&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEREFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5胸甲甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATESCRAP:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATESEFIRITE:
+  name: '&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATESILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATESILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATESMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATESOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5胸甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATESTAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATESTAR_DUST:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATESTEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATETESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATETIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATETIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATETITANIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEVOID:
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5胸甲板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_CHESTPLATEZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5头盔板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5头盔甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETANNIVERSARIUM:
+  name: '&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETBILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5头盔板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETBOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETBRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5头盔板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETBRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5头盔甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETCOBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5头盔甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETCOPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETCOPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETCORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5头盔板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETDAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5头盔甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETDURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5头盔甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETEARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETFERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETFORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETGOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETGOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETHARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5头盔甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETINFINITE:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETINFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETIRIDIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETIRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETIRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETLEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETLEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETMAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETMAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETMAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETMAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETMAG_THOR:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETMETAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETMIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETMYTHRIL:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETNICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5头盔甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETREDSTONE_ALLOY:
+  name: '&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETREFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETREINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5头盔甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETSCRAP:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETSEFIRITE:
+  name: '&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETSILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETSILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETSMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETSOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5头盔板'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETSTAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETSTAR_DUST:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETSTEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETTESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETTIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETTIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETTITANIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETVOID:
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5头盔板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_HELMETZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5护腿板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5护腿甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSANNIVERSARIUM:
+  name: '&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSBILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5护腿板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSBOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSBRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5护腿板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSBRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5护腿甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSCOBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5护腿甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSCOPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSCOPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5护腿板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSDAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5护腿甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSDURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5护腿甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSEARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSFERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSFORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSGOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSGOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSHARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5护腿甲板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSINFINITE:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSINFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSIRIDIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSIRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSIRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSLEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSLEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSMAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSMAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSMAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSMAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSMAG_THOR:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSMETAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSMIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSMYTHRIL:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSNICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5护腿甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSREDSTONE_ALLOY:
+  name: '&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSREFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSREINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5护腿甲片'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSSCRAP:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSSEFIRITE:
+  name: '&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSSILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSSILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSSMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSSOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5护腿板'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSSTAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSSTAR_DUST:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSSTEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSTESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSTIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSTIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSTITANIUM:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSVOID:
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5护腿板甲'
+  type:
+  - '&7&o组件'
+PART_PLATES_LEGGINGSZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_ADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_ADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_ALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5修理套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_ALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_ALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5修复工具包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
 PART_REPAIR_KIT_ANNIVERSARIUM:
-  name: "&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 修复套件"
+  name: '&x&3&2&B&4&1&E周年矿&x&4&2&C&8&F&5 修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_BILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_BOOMERITE:
+  name: '&x&D&9&4&C&0&0爆裂矿&x&4&2&C&8&F&5 修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_BRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_BRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5修复工具包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_COBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_COPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5修复包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_COPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_CORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_DAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5修复工具包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_DUMMY:
+  name: '&e部件：修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_DURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5修复工具包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_EARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_FERROSILICON:
+  name: '&x&F&2&F&2&F&2硅铁&x&4&2&C&8&F&5 修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_FORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_GOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5修复包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_GOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_HARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5修复工具包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_INFINITE:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_INFINITY_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_IRIDIUM:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_IRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5修复包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_IRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_LEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5修复包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_LEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_MAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_MAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5修理套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_MAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_MAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_MAG_THOR:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_METAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_MIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_MYTHRIL:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_NICEINIUM:
+  name: '&x&8&0&5&5&0&D善良矿&x&4&2&C&8&F&5 修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_NICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_REDSTONE_ALLOY:
+  name: '&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_REFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_REINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_REINFORCED_DRACONIUM:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_SCRAP:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_SEFIRITE:
+  name: '&x&9&B&E&B&3&4塞菲矿&x&4&2&C&8&F&5 修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_SILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5修复包'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_SILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_SMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_SOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5修复套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_STAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_STAR_DUST:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_STEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5修理套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_TESSERACTING_MATERIAL:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_TIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5修理套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_TIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_TITANIUM:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_VOID:
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_ZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5修理套件'
+  type:
+  - '&7&o组件'
+PART_REPAIR_KIT_ZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_ADAMANTITE:
+  type:
+  - '&7&o组件'
+PART_ROD_ADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+PART_ROD_ALUMINUM:
+  name: '&x&B&0&B&0&B&0铝&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_ALUMINUM_BRASS:
+  name: '&x&D&B&D&2&7&9铝黄铜&x&4&2&C&8&F&5杆'
+  type:
+  - '&7&o组件'
+PART_ROD_ALUMINUM_BRONZE:
+  name: '&x&B&D&A&A&6&D铝青铜&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_ALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_BILLON:
+  name: '&x&B&0&C&2&B&E银铜合金&x&4&2&C&8&F&5杆'
+  type:
+  - '&7&o组件'
+PART_ROD_BRASS:
+  name: '&x&D&B&C&D&4&B黄铜&x&4&2&C&8&F&5杆'
+  type:
+  - '&7&o组件'
+PART_ROD_BRONZE:
+  name: '&x&8&7&7&4&3&5青铜&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_COBALT:
+  name: '&x&9&E&9&E&9&E钴&x&4&2&C&8&F&5杆'
+  type:
+  - '&7&o组件'
+PART_ROD_COPPER:
+  name: '&x&C&9&9&7&3&2铜&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_COPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_CORINTHIAN_BRONZE:
+  name: '&x&8&A&6&5&0&0科林斯青铜&x&4&2&C&8&F&5杆'
+  type:
+  - '&7&o组件'
+PART_ROD_DAMASCUS_STEEL:
+  name: '&x&A&3&8&C&8&C大马士革钢&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_DURALIUM:
+  name: '&x&A&3&A&0&8&9硬铝&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_EARTH_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_FORTUNE_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_GHOSTLY_ESSENCE:
+  type:
+  - '&7&o组件'
+PART_ROD_GOLD:
+  name: '&x&F&F&E&1&3&8金&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_GOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_HARDENED_METAL:
+  name: '&x&2&9&2&5&1&A硬化金属&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_INFINITE:
+  type:
+  - '&7&o组件'
+PART_ROD_IRIDIUM:
+  type:
+  - '&7&o组件'
+PART_ROD_IRON:
+  name: '&x&8&C&8&C&8&C铁&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_IRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_LEAD:
+  name: '&x&9&0&4&3&B&A铅&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_LEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_MAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_MAGNESIUM:
+  name: '&x&E&8&C&E&F&5镁&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_MAGNESIUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_MAGNONIUM:
+  type:
+  - '&7&o组件'
+PART_ROD_MAGSTEEL:
+  type:
+  - '&7&o组件'
+PART_ROD_MAG_THOR:
+  type:
+  - '&7&o组件'
+PART_ROD_METAL_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_MIXED_METAL:
+  type:
+  - '&7&o组件'
+PART_ROD_MYTHRIL:
+  type:
+  - '&7&o组件'
+PART_ROD_NICKEL:
+  name: '&x&E&B&E&B&E&B镍&x&4&2&C&8&F&5杆'
+  type:
+  - '&7&o组件'
+PART_ROD_REDSTONE_ALLOY:
+  name: '&x&7&0&0&D&2&1红石合金&x&4&2&C&8&F&5 杆'
+  type:
+  - '&7&o组件'
+PART_ROD_REFINED_IRON:
+  type:
+  - '&7&o组件'
+PART_ROD_REINFORCED_ALLOY:
+  name: '&x&4&6&5&8&9&9强化合金&x&4&2&C&8&F&5杆'
+  type:
+  - '&7&o组件'
+PART_ROD_SCRAP:
+  type:
+  - '&7&o组件'
+PART_ROD_SILVER:
+  name: '&x&D&4&D&4&D&4银&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_SILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_SMITHIUM:
+  name: '&x&6&E&7&F&8&0锻造矿&x&4&2&C&8&F&5 杆'
+  type:
+  - '&7&o组件'
+PART_ROD_SOLDER:
+  name: '&x&B&7&A&F&B&D焊锡&x&4&2&C&8&F&5杆'
+  type:
+  - '&7&o组件'
+PART_ROD_STAINLESS_STEEL:
+  type:
+  - '&7&o组件'
+PART_ROD_STAR_DUST:
+  type:
+  - '&7&o组件'
+PART_ROD_STEEL:
+  name: '&x&D&1&D&1&D&1钢&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_TIN:
+  name: '&x&A&8&9&B&9&B锡&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_TIN_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_ROD_TITANIUM:
+  type:
+  - '&7&o组件'
+PART_ROD_VOID:
+  type:
+  - '&7&o组件'
+PART_ROD_ZINC:
+  name: '&x&9&B&A&8&A&6锌&x&4&2&C&8&F&5手柄'
+  type:
+  - '&7&o组件'
+PART_ROD_ZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+PART_SHOVEL_HEAD:
+  type:
+  - '&7&o组件'
+PART_SHOVEL_HEAD_DUMMY:
+  name: '&e部件：锹头'
+  type:
+  - '&7&o组件'
+PART_SWORD_BLADE:
+  type:
+  - '&7&o组件'
+PART_SWORD_BLADE_DUMMY:
+  name: '&e部件：剑刃'
+  type:
+  - '&7&o组件'
+PART_TOOL_ROD:
+  type:
+  - '&7&o组件'
+PART_TOOL_ROD_DUMMY:
+  name: '&e部件：工具杆'
+  type:
+  - '&7&o组件'
+PATHETIC_TRAIT_PROP_PLATES_SCRAP:
+  type:
+  - '&7&o组件'
+PLANEWALKER_TRAIT_PROP_PLATES_VOID_INGOT:
+  type:
+  - '&7&o组件'
+POISONOUS_II_TRAIT_PROP_HEAD_LEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 剧毒'
+  type:
+  - '&7&o组件'
+POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
+  name: '&x&B&F&3&0&7&F特性：通电'
+  type:
+  - '&7&o组件'
+PROP_BINDING:
+  name: '&b部件：粘合件'
+  type:
+  - '&7&o组件'
+PROP_GAMBESON:
+  name: '&b部件：战袍'
+  type:
+  - '&7&o组件'
+PROP_HEAD:
+  name: '&b部件：头'
+  type:
+  - '&7&o组件'
+PROP_LINKS:
+  name: '&b部件：锁甲环'
+  type:
+  - '&7&o组件'
+PROP_PLATES:
+  name: '&b部件：护甲板'
+  type:
+  - '&7&o组件'
+PROP_ROD:
+  name: '&b部件：工具杆'
+  type:
+  - '&7&o组件'
+PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:
+  type:
+  - '&7&o组件'
+PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 富贵'
+  type:
+  - '&7&o组件'
+PROTECTIVE_TRAIT_PROP_HEAD_IRIDIUM:
+  type:
+  - '&7&o组件'
+PURIFIED_PASSION_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融纯净激情'
+  type:
+  - '&7&o资源'
+RADIOACTIVE_PLATES_TRAIT_PROP_PLATES_MAG_THOR:
+  type:
+  - '&7&o组件'
+REALLY_STABLE_TRAIT_PROP_HEAD_REFINED_IRON:
+  type:
+  - '&7&o组件'
+REALLY_STAINLESS_TRAIT_PROP_HEAD_MAGSTEEL:
+  type:
+  - '&7&o组件'
+RECYCLABLE_II_TRAIT_PROP_HEAD_ALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 可回收'
+  type:
+  - '&7&o组件'
+REDSTONE_ALLOY_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融红石合金'
+  type:
+  - '&7&o资源'
+REDSTONE_ALLOY_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融红石合金'
+  type:
+  - '&7&o资源'
+REDSTONE_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融红石'
+  type:
+  - '&7&o资源'
+REFINED_IRON_LIQUID:
+  type:
+  - '&7&o资源'
+REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
+  name: '&x&B&F&3&0&7&F特性：清爽'
+  type:
+  - '&7&o组件'
+REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
+  name: '&x&B&F&3&0&7&F特性：清爽'
+  type:
+  - '&7&o组件'
+REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
+  name: '&x&B&F&3&0&7&F特性：可强化'
+  type:
+  - '&7&o组件'
+REINFORCED_ALLOY_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融强化合金'
+  type:
+  - '&7&o资源'
+REINFORCED_ALLOY_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融强化合金'
+  type:
+  - '&7&o资源'
+REINFORCED_DRACONIUM_ALLOY:
+  type:
+  - '&7&o资源'
+REINFORCED_DRACONIUM_LIQUID:
+  type:
+  - '&7&o资源'
+REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
+  type:
+  - '&7&o组件'
+REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
+  name: '&x&B&F&3&0&7&F特性：强化'
+  type:
+  - '&7&o组件'
+REMOTININIUM_LIQUID:
+  type:
+  - '&7&o资源'
+RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：抗性'
+  type:
+  - '&7&o组件'
+RUSTY_II_TRAIT_PROP_LINKS_IRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 生锈'
+  type:
+  - '&7&o组件'
+SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : Scarpaaarr!'
+  type:
+  - '&7&o组件'
+SCRAP_LIQUID:
+  type:
+  - '&7&o资源'
+SEARED_BRICK:
+  name: '&7灼烧砖'
+  type:
+  - '&7&o组件'
+SEARED_BRICK_BLOCK:
+  name: '&7灼烧砖块'
+  type:
+  - '&7&o组件'
+SEARED_TANK:
+  name: '&7灼烧储罐'
+  type:
+  - '&7&o组件'
+SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+SEFIRITE_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融塞菲矿'
+  type:
+  - '&7&o资源'
+SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 锋利 1'
+  type:
+  - '&7&o组件'
+SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：锋利 2'
+  type:
+  - '&7&o组件'
+SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
+  name: '&x&B&F&3&0&7&F特性：减震'
+  type:
+  - '&7&o组件'
+SICKLY_II_TRAIT_PROP_LINKS_LEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+SICKLY_II_TRAIT_PROP_PLATES_LEAD_SINGULARITY:
+  type:
+  - '&7&o组件'
+SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 病弱'
+  type:
+  - '&7&o组件'
+SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 病弱'
+  type:
+  - '&7&o组件'
+SILICON_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融硅'
+  type:
+  - '&7&o资源'
+SILVER_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融银'
+  type:
+  - '&7&o资源'
+SILVER_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+SLIME_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融黏液'
+  type:
+  - '&7&o资源'
+SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
+  name: '&x&B&F&3&0&7&F特性：慢学者'
+  type:
+  - '&7&o组件'
+SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
+  name: '&x&B&F&3&0&7&F特性：慢学者'
+  type:
+  - '&7&o组件'
+SMELTERY_CONTROLLER:
+  name: '&3冶炼厂控制器'
+  type:
+  - '&7&o组件'
+SMITHIUM_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融锻造矿'
+  type:
+  - '&7&o资源'
+SMITHIUM_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融锻造矿'
+  type:
+  - '&7&o资源'
+SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 潜行'
+  type:
+  - '&7&o组件'
+SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : Snroht'
+  type:
+  - '&7&o组件'
+SOFT_II_TRAIT_PROP_ROD_ALUMINUM_SINGULARITY:
+  type:
+  - '&7&o组件'
+SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 软着陆'
+  type:
+  - '&7&o组件'
+SOFT_TOUCH_II_TRAIT_PROP_ROD_SILVER_SINGULARITY:
+  type:
+  - '&7&o组件'
+SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 轻柔手感'
+  type:
+  - '&7&o组件'
+SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 柔软'
+  type:
+  - '&7&o组件'
+SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
+  name: '&x&B&F&3&0&7&F特性：太阳能'
+  type:
+  - '&7&o组件'
+SOLDER_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融焊锡'
+  type:
+  - '&7&o资源'
+SOLDER_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融焊锡'
+  type:
+  - '&7&o资源'
+SPOUT:
+  name: '&7灼烧出水口'
+  type:
+  - '&7&o组件'
+SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 弹簧'
+  type:
+  - '&7&o组件'
+STABILITY_II_TRAIT_PROP_HEAD_IRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 稳固'
+  type:
+  - '&7&o组件'
+STAINLESS_STEEL_ALLOY:
+  type:
+  - '&7&o资源'
+STAINLESS_STEEL_LIQUID:
+  type:
+  - '&7&o资源'
+STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 不锈'
+  type:
+  - '&7&o组件'
+STARSHINE_TRAIT_PROP_PLATES_DYNATECH_STAR_DUST:
+  type:
+  - '&7&o组件'
+STAR_DUST_LIQUID:
+  type:
+  - '&7&o资源'
+STEADFAST_II_TRAIT_PROP_PLATES_IRON_SINGULARITY:
+  type:
+  - '&7&o组件'
+STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 坚定'
+  type:
+  - '&7&o组件'
+STEEL_ALLOY:
+  name: '&x&A&6&0&A&0&A熔融钢'
+  type:
+  - '&7&o资源'
+STEEL_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融钢'
+  type:
+  - '&7&o资源'
+STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 坚硬'
+  type:
+  - '&7&o组件'
+STIFF_TRAIT_PROP_ROD_MIXED_METAL_INGOT:
+  type:
+  - '&7&o组件'
+STING_OF_GONDOLIN_TRAIT_PROP_ROD_MYTHRIL:
+  type:
+  - '&7&o组件'
+STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 强力'
+  type:
+  - '&7&o组件'
+STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 勤勉'
+  type:
+  - '&7&o组件'
+SUPERHOT_TRAIT_PROP_LINKS_ADVANCED_ALLOY:
+  type:
+  - '&7&o组件'
+SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：超高温'
+  type:
+  - '&7&o组件'
+SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
+  type:
+  - '&7&o组件'
+SUPER_LIGHTWEIGHT_II_TRAIT_PROP_ROD_ZINC_SINGULARITY:
+  type:
+  - '&7&o组件'
+SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 超轻量'
+  type:
+  - '&7&o组件'
+SWEATY_TRAIT_PROP_GAMBESON_RUBBER:
+  type:
+  - '&7&o组件'
+TARNISHED_II_TRAIT_PROP_LINKS_COPPER_SINGULARITY:
+  type:
+  - '&7&o组件'
+TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
+  name: '&x&B&F&3&0&7&F特性 : 锈蚀'
+  type:
+  - '&7&o组件'
+TARNISHED_TRAIT_PROP_PLATES_MAGSTEEL:
+  type:
+  - '&7&o组件'
+TERRIBLE_TRAIT_PROP_HEAD_SCRAP:
+  type:
+  - '&7&o组件'
+TESSERACTING_MATERIAL_LIQUID:
+  type:
+  - '&7&o资源'
+THE_END_TRAIT_PROP_LINKS_VOID_INGOT:
+  type:
+  - '&7&o组件'
+THE_STANDARD_TRAIT_PROP_PLATES_DYNATECH_STAINLESS_STEEL_INGOT:
+  type:
+  - '&7&o组件'
+THICK_TRAIT_PROP_BINDING_LEATHER:
+  name: '&x&B&F&3&0&7&F特性：厚实'
+  type:
+  - '&7&o组件'
+THICK_TRAIT_PROP_GAMBESON_LEATHER:
+  name: '&x&B&F&3&0&7&F特性：厚实'
+  type:
+  - '&7&o组件'
+THORIUM_LIQUID:
+  type:
+  - '&7&o资源'
+TINKERS_ARMOUR_TABLE:
+  name: '&3工匠盔甲台'
+  type:
+  - '&7&o机器'
+TINKERS_MOD_STATION:
+  name: '&3工匠改造站'
+  type:
+  - '&7&o机器'
+TINKERS_REPAIR_BENCH:
+  name: '&3工匠修复台'
+  type:
+  - '&7&o机器'
+TINKERS_SMELTERY_CORE:
+  name: '&3工匠冶炼厂'
+  type:
+  - '&7&o多方块'
+TINKERS_SWAPPING_STATION:
+  name: '&3工匠更换站'
+  type:
+  - '&7&o机器'
+TINKERS_TABLE:
+  name: '&3工匠工具台'
+  type:
+  - '&7&o机器'
+TINKERS_WORKBENCH:
+  name: '&3工匠工作台'
+  type:
+  - '&7&o机器'
+TIN_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融锡'
+  type:
+  - '&7&o资源'
+TIN_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'
+TITANIUM_ALLOY:
+  type:
+  - '&7&o资源'
+TITANIUM_LIQUID:
+  type:
+  - '&7&o资源'
+TOOL_AXE:
+  type:
+  - '&7&o工具'
+TOOL_AXE_ENTRY:
+  name: '&a工匠斧'
+  type:
+  - '&7&o工具'
+TOOL_AXE_EXP:
+  type:
+  - '&7&o工具'
+TOOL_HOE:
+  type:
+  - '&7&o工具'
+TOOL_HOE_ENTRY:
+  name: '&a工匠锄'
+  type:
+  - '&7&o工具'
+TOOL_HOE_EXP:
+  type:
+  - '&7&o工具'
+TOOL_PICKAXE:
+  type:
+  - '&7&o工具'
+TOOL_PICKAXE_ENTRY:
+  name: '&a工匠镐'
+  type:
+  - '&7&o工具'
+TOOL_PICKAXE_EXP:
+  type:
+  - '&7&o工具'
+TOOL_SHOVEL:
+  type:
+  - '&7&o工具'
+TOOL_SHOVEL_ENTRY:
+  name: '&a工匠锹'
+  type:
+  - '&7&o工具'
+TOOL_SHOVEL_EXP:
+  type:
+  - '&7&o工具'
+TOOL_SWORD:
+  type:
+  - '&7&o工具'
+TOOL_SWORD_ENTRY:
+  name: '&a工匠剑'
+  type:
+  - '&7&o工具'
+TOOL_SWORD_EXP:
+  type:
+  - '&7&o工具'
+TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：烫手难握'
+  type:
+  - '&7&o组件'
+TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
+  name: '&x&B&F&3&0&7&F特性：强化'
+  type:
+  - '&7&o组件'
+TRICKS_TRAIT_PROP_HEAD_MAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
+  name: '&x&B&F&3&0&7&F特性：坚韧之物'
+  type:
+  - '&7&o组件'
+ULTIMANINIUM_ALLOY:
+  type:
+  - '&7&o资源'
+ULTIMANINIUM_LIQUID:
+  type:
+  - '&7&o资源'
+UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
+  type:
+  - '&7&o组件'
+VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : 吸血'
+  type:
+  - '&7&o组件'
+VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
+  type:
+  - '&7&o组件'
+VEX_GEM_LIQUID:
+  type:
+  - '&7&o资源'
+VOID_LIQUID:
+  type:
+  - '&7&o资源'
+VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
+  type:
+  - '&7&o组件'
+WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
+  name: '&x&B&F&3&0&7&F特性：温血'
+  type:
+  - '&7&o组件'
+WARP_TRAIT_PROP_ROD_IRIDIUM:
+  type:
+  - '&7&o组件'
+WATER_SAFE_TRAIT_PROP_LINKS_DYNATECH_STAINLESS_STEEL_INGOT:
+  type:
+  - '&7&o组件'
+WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
+  name: '&x&B&F&3&0&7&F特性 : WHM'
+  type:
+  - '&7&o组件'
+WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
+  name: '&x&B&F&3&0&7&F特性：谁还需要压力板？'
+  type:
+  - '&7&o组件'
+WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
+  name: '&x&B&F&3&0&7&F特性：抗凋零'
+  type:
+  - '&7&o组件'
+WIZARD_ROBES_TRAIT_PROP_PLATES_MAGIC_SINGULARITY:
+  type:
+  - '&7&o组件'
+WORKS_TRAIT_PROP_BINDING_STRING:
+  name: '&x&B&F&3&0&7&F特性：劳作'
+  type:
+  - '&7&o组件'
+WORKS_TRAIT_PROP_GAMBESON_STRING:
+  name: '&x&B&F&3&0&7&F特性：劳作'
+  type:
+  - '&7&o组件'
+YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
+  type:
+  - '&7&o组件'
+ZINC_LIQUID:
+  name: '&x&A&6&0&A&0&A熔融锌'
+  type:
+  - '&7&o资源'
+ZINC_SINGULARITY_LIQUID:
+  type:
+  - '&7&o资源'

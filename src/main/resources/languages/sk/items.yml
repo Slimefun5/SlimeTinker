@@ -1,358 +1,280 @@
 10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
-  name: '&x&B&F&3&0&7&FCecha : 10 lat (Slime)fun!'
   type:
   - '&7&oKomponent'
 ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Abra'
   type:
   - '&7&oKomponent'
 ACUPUNCTURE_II_TRAIT_PROP_LINKS_ZINC_SINGULARITY:
   type:
   - '&7&oKomponent'
 ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Akupunktura'
   type:
   - '&7&oKomponent'
 ADAMANTITE_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
   type:
   - '&7&oKomponent'
 ADVANCED_ALLOY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ALL_THAT_GLITTERS_II_TRAIT_PROP_ROD_GOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Wszystko co się świeci'
   type:
   - '&7&oKomponent'
 ALUMINUM_BRASS_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony mosiądz aluminiowy'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ALUMINUM_BRASS_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony mosiądz aluminiowy'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ALUMINUM_BRONZE_ALLOY:
-  name: '&x&A&6&0&A&0&ARoztopiony brąz aluminiowy'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ALUMINUM_BRONZE_LIQUID:
-  name: '&x&A&6&0&A&0&ARoztopiony brąz aluminiowy'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ALUMINUM_LIQUID:
-  name: '&x&A&6&0&A&0&APłynne aluminium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ALUMINUM_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ANNIVERSARIUM_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony Anniversarium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ANNIVERSARIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Anniversarium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
   type:
   - '&7&oKomponent'
 ARMOUR_BOOTS:
   type:
-  - '&7&oZbroja'
+  - '&7&oBrnenie'
 ARMOUR_BOOTS_ENTRY:
-  name: '&aButy Majsterkowicza'
   type:
-  - '&7&oZbroja'
+  - '&7&oBrnenie'
 ARMOUR_CHESTPLATE:
   type:
-  - '&7&oZbroja'
+  - '&7&oBrnenie'
 ARMOUR_CHESTPLATE_ENTRY:
-  name: '&aNapierśnik Majsterkowicza'
   type:
-  - '&7&oZbroja'
+  - '&7&oBrnenie'
 ARMOUR_HELM:
   type:
-  - '&7&oZbroja'
+  - '&7&oBrnenie'
 ARMOUR_HELMET_ENTRY:
-  name: '&aHełm Majsterkowicza'
   type:
-  - '&7&oZbroja'
+  - '&7&oBrnenie'
 ARMOUR_LEGGINGS:
   type:
-  - '&7&oZbroja'
+  - '&7&oBrnenie'
 ARMOUR_LEGGINGS_ENTRY:
-  name: '&aNogawice Majsterkowicza'
   type:
-  - '&7&oZbroja'
+  - '&7&oBrnenie'
 ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
-  name: '&x&B&F&3&0&7&FCecha : Przyciąganie'
   type:
   - '&7&oKomponent'
 ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
-  name: '&x&B&F&3&0&7&FCecha : Przyciąganie'
   type:
   - '&7&oKomponent'
 BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Opaska'
   type:
   - '&7&oKomponent'
 BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Handel wymienny'
   type:
   - '&7&oKomponent'
 BEAUTIFUL_TRAIT_PROP_LINKS_FORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Piękno'
   type:
   - '&7&oKomponent'
 BEGINNER_II_TRAIT_PROP_PLATES_COPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Początkujący'
   type:
   - '&7&oKomponent'
 BILLON_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony bilon'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BILLON_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony bilon'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_ADAMANTITE:
-  name: '&7Adamanitite Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_ADVANCED_ALLOY:
-  name: '&7Zaawansowany stop Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_ALUMINUM:
-  name: '&7Aluminium Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_ALU_BRASS:
-  name: '&7Mosiądz aluminiowy Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_ALU_BRONZE:
-  name: '&7Brąz aluminiowy Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_ANNIVERSARIUM:
-  name: '&7Anniversarium Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_BILLON:
-  name: '&7Bilon Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_BOOMERITE:
-  name: '&7Boomeryt Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_BRASS:
-  name: '&7Mosiądz Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_BRONZE:
-  name: '&7Brąz Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_COBALT:
-  name: '&7Kobalt Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_COPPER:
-  name: '&7Miedź Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_COR_BRONZE:
-  name: '&7Brąz koryncki Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_CRINGLEIUM:
-  name: '&7Cringleium Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_DAMASCUS_STEEL:
-  name: '&7Stal damasceńska Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_DURALIUM:
-  name: '&7Duralium Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_FERROSILICON:
-  name: '&7Żelazokrzem Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_HARD_METAL:
-  name: '&7Utwardzony metal Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_INFINITY:
-  name: '&7Nieskończoność Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_IRIDIUM:
-  name: '&7Iryd Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_LEAD:
-  name: '&7Ołów Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_LOVE:
-  name: '&7Miłość Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_MAGNESIUM:
-  name: '&7Magnez Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_MAGNONIUM:
-  name: '&7Magnonium Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_MAGSTEEL:
-  name: '&7MagStal Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_MAG_THOR:
-  name: '&7Mag-Thor Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_MIXED_METAL:
-  name: '&7Metal mieszany Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_MYTHRIL:
-  name: '&7Mithril Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_NICE:
-  name: '&7Nice Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_NICKEL:
-  name: '&7Nikiel Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_OSMIUM:
-  name: '&7Osm Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_OSMIUM_SUPER_ALLOY:
-  name: '&7Superstop osmu Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_REDSTONE_ALLOY:
-  name: '&7Stop z czerwienitu Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_REFINED_IRON:
-  name: '&7Rafinowane żelazo Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_REINFORCED:
-  name: '&7Wzmocniony stop Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_REINFORCED_DRACONIUM:
-  name: '&7Wzmocnione draconium Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_REINFORCED_SLIMESTEEL:
-  name: '&7Wzmocniona stal ze szlamu Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_SCRAP:
-  name: '&7Złom Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_SEFIRITE:
-  name: '&7Sefiryt Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_SILVER:
-  name: '&7Srebro Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_SLIMESTEEL:
-  name: '&7Stal ze szlamu Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_SMITHIUM:
-  name: '&7Smithium Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_SOLDER:
-  name: '&7Lut Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_STAINLESSSTEEL:
-  name: '&7Stal nierdzewna Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_STEEL:
-  name: '&7Stal Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_TIN:
-  name: '&7Cyna Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_TITANIUM:
-  name: '&7Tytan Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_UNPATENTABILUM:
-  name: '&7Unpatentabilum Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_VOID:
-  name: '&7Pustka Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BLOCK_CAST_ZINC:
-  name: '&7Cynk Blok'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BOOMERITE_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony Boomeryt'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BOOMERITE_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Boomeryt'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
   type:
   - '&7&oKomponent'
 BOOST_TRAIT_PROP_LINKS_TIN_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Wzmocnienie'
   type:
   - '&7&oKomponent'
 BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
-  name: '&x&B&F&3&0&7&FCecha : Sprężysty'
   type:
   - '&7&oKomponent'
 BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
-  name: '&x&B&F&3&0&7&FCecha : Sprężysty'
   type:
   - '&7&oKomponent'
 BRAINS,_NOT_BRAWN._TRAIT_PROP_ROD_SCRAP:
@@ -362,17 +284,14 @@ BRAINS,_NOT_BRAWN_II_TRAIT_PROP_HEAD_COPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Rozum, nie siła'
   type:
   - '&7&oKomponent'
 BRASS_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony mosiądz'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BRASS_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony mosiądz'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BREAKPOINT_TRAIT_PROP_HEAD_INFINITY_SINGULARITY:
   type:
   - '&7&oKomponent'
@@ -380,7 +299,6 @@ BRIGHT-BURN_TRAIT_PROP_LINKS_DYNATECH_STAR_DUST:
   type:
   - '&7&oKomponent'
 BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
-  name: '&x&B&F&3&0&7&FCecha : Jasnopłomienny'
   type:
   - '&7&oKomponent'
 BRIGHTBURN_TRAIT_PROP_PLATES_MYTHRIL:
@@ -390,26 +308,21 @@ BRIGHT_FURY_TRAIT_PROP_HEAD_DYNATECH_STAR_DUST:
   type:
   - '&7&oKomponent'
 BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Kruchość'
   type:
   - '&7&oKomponent'
 BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Kruchość'
   type:
   - '&7&oKomponent'
 BRONZE_ALLOY:
-  name: '&x&A&6&0&A&0&ARoztopiony brąz'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BRONZE_LIQUID:
-  name: '&x&A&6&0&A&0&ARoztopiony brąz'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 BUILDING_RAGE_TRAIT_PROP_LINKS_MAG_THOR:
   type:
   - '&7&oKomponent'
 BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Masywny'
   type:
   - '&7&oKomponent'
 CALL_OF_THE_WILD_TRAIT_PROP_LINKS_MYTHRIL:
@@ -419,94 +332,72 @@ CAN_II_TRAIT_PROP_ROD_TIN_SINGULARITY:
   type:
   - '&7&oKomponent'
 CAN_TRAIT_PROP_ROD_TIN_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Puszka'
   type:
   - '&7&oKomponent'
 CARBON_FIBRE_TRAIT_PROP_GAMBESON_RAW_CARBON_MESH:
   type:
   - '&7&oKomponent'
 CAST_AXE_HEAD:
-  name: '&eForma: Głowica topora'
   type:
   - '&7&oKomponent'
 CAST_BLOCK:
-  name: '&eForma: Metal Blok'
   type:
   - '&7&oKomponent'
 CAST_BOOT_PLATE:
-  name: '&eForma: Płyty butów'
   type:
   - '&7&oKomponent'
 CAST_CHEST_PLATE:
-  name: '&eForma: Płyty napierśnika'
   type:
   - '&7&oKomponent'
 CAST_GEM:
-  name: '&eForma: Klejnot'
   type:
   - '&7&oKomponent'
 CAST_HELM_PLATE:
-  name: '&eForma: Płyty hełmu'
   type:
   - '&7&oKomponent'
 CAST_HOEHEAD:
-  name: '&eForma: Głowica motyki'
   type:
   - '&7&oKomponent'
 CAST_INGOT:
-  name: '&eForma: Metal Sztabka'
   type:
   - '&7&oKomponent'
 CAST_LEG_PLATE:
-  name: '&eForma: Płyty nogawic'
   type:
   - '&7&oKomponent'
 CAST_MAIL_LINK:
-  name: '&eForma: Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 CAST_NUGGET:
-  name: '&eForma: Metal Bryłka'
   type:
   - '&7&oKomponent'
 CAST_PICKAXEHEAD:
-  name: '&eForma: Głowica kilofa'
   type:
   - '&7&oKomponent'
 CAST_REPAIRKIT:
-  name: '&eForma: Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 CAST_SHOVELHEAD:
-  name: '&eForma: Głowica łopaty'
   type:
   - '&7&oKomponent'
 CAST_SWORDBLADE:
-  name: '&eForma: Ostrze miecza'
   type:
   - '&7&oKomponent'
 CAST_TOOLROD:
-  name: '&eForma: Pręt narzędziowy'
   type:
   - '&7&oKomponent'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
-  name: '&x&B&F&3&0&7&FCecha : Świętuj'
   type:
   - '&7&oKomponent'
 CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Naładowana głowica +'
   type:
   - '&7&oKomponent'
 CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Naładowana głowica -'
   type:
   - '&7&oKomponent'
 CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Naładowany trzon +'
   type:
   - '&7&oKomponent'
 CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Naładowany pręt -'
   type:
   - '&7&oKomponent'
 CLEAN_CUT_TRAIT_PROP_HEAD_METAL_SINGULARITY:
@@ -516,19 +407,15 @@ CLEAVE_TRAIT_PROP_HEAD_ADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 COAL_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Węgiel'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 COBALT_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony kobalt'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 COBALT_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony kobalt'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Kumulacja'
   type:
   - '&7&oKomponent'
 CONCEPTUAL_DEFENCE_TRAIT_PROP_ROD_INFINITE_INGOT:
@@ -538,63 +425,51 @@ CONDUCTIVE_II_TRAIT_PROP_ROD_COPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Przewodzący'
   type:
   - '&7&oKomponent'
 CONDUCTIVITY_II_TRAIT_PROP_PLATES_SILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Przewodność'
   type:
   - '&7&oKomponent'
 CONDUCTOR_TRAIT_PROP_ROD_METAL_SINGULARITY:
   type:
   - '&7&oKomponent'
 COPPER_LIQUID:
-  name: '&x&A&6&0&A&0&APłynna miedź'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 COPPER_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 CORINTHIAN_BRONZE_ALLOY:
-  name: '&x&A&6&0&A&0&ARoztopiony brąz koryncki'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 CORINTHIAN_BRONZE_LIQUID:
-  name: '&x&A&6&0&A&0&ARoztopiony brąz koryncki'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
-  name: '&x&B&F&3&0&7&FCecha : Kunszt'
   type:
   - '&7&oKomponent'
 CRINGLEIUM_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony Cringleium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 CRINGLEIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Cringleium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
   type:
   - '&7&oKomponent'
 DAMASCUS_STEEL_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiona Stal Damasceńska'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 DAMASCUS_STEEL_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiona Stal Damasceńska'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
-  name: '&x&B&F&3&0&7&FCecha : Rozkład'
   type:
   - '&7&oKomponent'
 DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
-  name: '&x&B&F&3&0&7&FCecha : Rozkład'
   type:
   - '&7&oKomponent'
 DEFENDER_TRAIT_PROP_LINKS_MAGSTEEL:
@@ -604,132 +479,102 @@ DEFLECTIVE_TRAIT_PROP_PLATES_ADAMANTITE:
   type:
   - '&7&oKomponent'
 DETAILED_DEVOTION_LIQUID:
-  name: '&x&A&6&0&A&0&AStopione Szczegółowe Oddanie'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 DIAMOND_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Diament'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 DIAMOND_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 DIE_AXE_HEAD:
-  name: '&eMatryca: Kamienny Głowica topora'
   type:
   - '&7&oKomponent'
 DIE_BOOT_PLATE:
-  name: '&eMatryca: Kamienny Płyty butów'
   type:
   - '&7&oKomponent'
 DIE_CHEST_PLATE:
-  name: '&eMatryca: Kamienny Płyty napierśnika'
   type:
   - '&7&oKomponent'
 DIE_HELM_PLATE:
-  name: '&eMatryca: Kamienny Płyty hełmu'
   type:
   - '&7&oKomponent'
 DIE_HOE_HEAD:
-  name: '&eMatryca: Kamienny Głowica motyki'
   type:
   - '&7&oKomponent'
 DIE_LEG_PLATE:
-  name: '&eMatryca: Kamienny Płyty nogawic'
   type:
   - '&7&oKomponent'
 DIE_MAIL_LINK:
-  name: '&eMatryca: Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 DIE_PICKAXE_HEAD:
-  name: '&eMatryca: Kamienny Głowica kilofa'
   type:
   - '&7&oKomponent'
 DIE_REPAIR_KIT:
-  name: '&eMatryca: Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 DIE_SHOVEL_HEAD:
-  name: '&eMatryca: Kamienny Głowica łopaty'
   type:
   - '&7&oKomponent'
 DIE_SWORD_BLADE:
-  name: '&eMatryca: Kamienny Ostrze miecza'
   type:
   - '&7&oKomponent'
 DIE_TOOL_ROD:
-  name: '&eMatryca: Pręt narzędziowy'
   type:
   - '&7&oKomponent'
 DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
-  name: '&x&B&F&3&0&7&FCecha : Zagłada'
   type:
   - '&7&oKomponent'
 DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
-  name: '&x&B&F&3&0&7&FCecha : Zagłada'
   type:
   - '&7&oKomponent'
 DRACONIC_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Smoczyt'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
   type:
   - '&7&oKomponent'
 DUMMY_MODIFICATION_STATION:
-  name: '&3Stacja modyfikacji Majsterkowicza'
   type:
-  - '&7&oRóżne'
+  - '&7&oRôzne'
 DUMMY_TINKERS_ARMOUR_TABLE:
-  name: '&3Stół zbroi Majsterkowicza'
   type:
-  - '&7&oRóżne'
+  - '&7&oRôzne'
 DUMMY_TINKERS_SMELTERY:
-  name: '&3Odlewnia Majsterkowicza'
   type:
-  - '&7&oRóżne'
+  - '&7&oRôzne'
 DUMMY_TINKERS_SMELTERY_ALLOY:
-  name: '&3Odlewnia Majsterkowicza'
   type:
-  - '&7&oRóżne'
+  - '&7&oRôzne'
 DUMMY_TINKERS_SMELTERY_MOLTEN:
-  name: '&3Odlewnia Majsterkowicza'
   type:
-  - '&7&oRóżne'
+  - '&7&oRôzne'
 DUMMY_TINKERS_SMELTERY_MULTI:
-  name: '&3Odlewnia Majsterkowicza'
   type:
-  - '&7&oRóżne'
+  - '&7&oRôzne'
 DUMMY_TINKERS_SMELTERY_PROP:
-  name: '&3Odlewnia Majsterkowicza'
   type:
-  - '&7&oRóżne'
+  - '&7&oRôzne'
 DUMMY_TINKERS_TABLE:
-  name: '&3Stół narzędziowy Majsterkowicza'
   type:
-  - '&7&oRóżne'
+  - '&7&oRôzne'
 DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Wytrzymałość'
   type:
   - '&7&oKomponent'
 DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Wytrzymałość'
   type:
   - '&7&oKomponent'
 DURABLE_TRAIT_PROP_ROD_TITANIUM:
   type:
   - '&7&oKomponent'
 DURALIUM_ALLOY:
-  name: '&x&A&6&0&A&0&ARoztopione duralium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 DURALIUM_LIQUID:
-  name: '&x&A&6&0&A&0&ARoztopione duralium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Krasnoludzkie umiejętności'
   type:
   - '&7&oKomponent'
 DWARVEN_SKILLS_TRAIT_PROP_PLATES_TITANIUM:
@@ -740,20 +585,17 @@ EARTH_SHAKER_TRAIT_PROP_HEAD_EARTH_SINGULARITY:
   - '&7&oKomponent'
 EARTH_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 EASILY_SHAPED_II_TRAIT_PROP_LINKS_ALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Łatwy do kształtowania'
   type:
   - '&7&oKomponent'
 EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Łatwa naprawa'
   type:
   - '&7&oKomponent'
 EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Wyrzut!'
   type:
   - '&7&oKomponent'
 ELVEN_SPEED_TRAIT_PROP_HEAD_MYTHRIL:
@@ -766,15 +608,12 @@ ENCHANTING_II_TRAIT_PROP_LINKS_SILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Zaklinanie'
   type:
   - '&7&oKomponent'
 ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Zaklinanie'
   type:
   - '&7&oKomponent'
 ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Ucieczka'
   type:
   - '&7&oKomponent'
 ESCAPE_TRAIT_PROP_PLATES_MAGNONIUM:
@@ -793,11 +632,9 @@ FALLING_APART_TRAIT_PROP_LINKS_SCRAP:
   type:
   - '&7&oKomponent'
 FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Rolnik'
   type:
   - '&7&oKomponent'
 FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Szybki'
   type:
   - '&7&oKomponent'
 FEAR_THE_VOID_TRAIT_PROP_ROD_VOID_INGOT:
@@ -807,19 +644,15 @@ FEELING_CONNECTED_TRAIT_PROP_LINKS_NTW_REMOTE_ULTIMATE:
   type:
   - '&7&oKomponent'
 FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
-  name: '&x&B&F&3&0&7&FCecha : Świąteczny nastrój'
   type:
   - '&7&oKomponent'
 FERROSILICON_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony żelazokrzem'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 FERROSILICON_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony żelazokrzem'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Rozżarzony'
   type:
   - '&7&oKomponent'
 FLAMING_HOT_TRAIT_PROP_ROD_MAGNONIUM:
@@ -829,21 +662,18 @@ FLAMMABLE_II_TRAIT_PROP_HEAD_MAGNESIUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Łatwopalność'
   type:
   - '&7&oKomponent'
 FLAMMABLE_TRAIT_PROP_ROD_MAGSTEEL:
   type:
   - '&7&oKomponent'
 FLOWING_FONDNESS_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiona Płynąca Czułość'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 FOIL_II_TRAIT_PROP_PLATES_ALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Folia'
   type:
   - '&7&oKomponent'
 FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
@@ -851,18 +681,16 @@ FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
   - '&7&oKomponent'
 FORTUNE_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Zespolony'
   type:
   - '&7&oKomponent'
 FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Zespolony'
   type:
   - '&7&oKomponent'
 GHOSTLY_ESSENCE_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 GHOSTLY_TRAIT_PROP_LINKS_DYNATECH_GHOSTLY_ESSENCE:
   type:
   - '&7&oKomponent'
@@ -876,64 +704,51 @@ GOLDEN_VEIL_II_TRAIT_PROP_HEAD_GOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Złota zasłona'
   type:
   - '&7&oKomponent'
 GOLD_LIQUID:
-  name: '&x&A&6&0&A&0&APłynne złoto'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 GOLD_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
-  name: '&x&B&F&3&0&7&FCecha : Naprzód Boomerze'
   type:
   - '&7&oKomponent'
 GRACEFUL_II_TRAIT_PROP_HEAD_ZINC_SINGULARITY:
   type:
   - '&7&oKomponent'
 GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Wdzięk'
   type:
   - '&7&oKomponent'
 GRINDER_TRAIT_PROP_ROD_EARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 GROUT:
-  name: '&7Zaprawa'
   type:
   - '&7&oKomponent'
 GROWTH_TRAIT_PROP_BINDING_VINE:
-  name: '&x&B&F&3&0&7&FCecha : Wzrost'
   type:
   - '&7&oKomponent'
 GROWTH_TRAIT_PROP_GAMBESON_VINE:
-  name: '&x&B&F&3&0&7&FCecha : Wzrost'
   type:
   - '&7&oKomponent'
 HARDENED_METAL_ALLOY:
-  name: '&x&A&6&0&A&0&ARoztopiony hartowany metal'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 HARDENED_METAL_LIQUID:
-  name: '&x&A&6&0&A&0&ARoztopiony hartowany metal'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
-  name: '&x&B&F&3&0&7&FCecha : Wytrzymały'
   type:
   - '&7&oKomponent'
 HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Wytrzymałość'
   type:
   - '&7&oKomponent'
 HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Przewodnik ciepła'
   type:
   - '&7&oKomponent'
 HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
-  name: '&x&B&F&3&0&7&FCecha : Odporność na ciepło'
   type:
   - '&7&oKomponent'
 HEAT_RESISTANT_TRAIT_PROP_HEAD_MAG_THOR:
@@ -946,11 +761,9 @@ HEAVY_DUTY_TRAIT_PROP_ROD_ADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Ciężar'
   type:
   - '&7&oKomponent'
 HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Ukryty'
   type:
   - '&7&oKomponent'
 HOW_FORTUNATE_TRAIT_PROP_PLATES_FORTUNE_SINGULARITY:
@@ -963,7 +776,6 @@ HYBERBOLIC_TESSERATION_TRAIT_PROP_PLATES_DYNATECH_TESSERACTING_OBJECT:
   type:
   - '&7&oKomponent'
 HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
-  name: '&x&B&F&3&0&7&FCecha : Wodór'
   type:
   - '&7&oKomponent'
 HYPERCUBE_[A]_TRAIT_PROP_HEAD_DYNATECH_TESSERACTING_OBJECT:
@@ -979,7 +791,6 @@ INDOMITABLE_TRAIT_PROP_PLATES_IRIDIUM:
   type:
   - '&7&oKomponent'
 INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
-  name: '&x&B&F&3&0&7&FCecha : Pracowity'
   type:
   - '&7&oKomponent'
 INFINITE_CAPACITY_TRAIT_PROP_PLATES_INFINITE_INGOT:
@@ -990,7 +801,7 @@ INFINITE_DEFENCE_TRAIT_PROP_LINKS_INFINITY_SINGULARITY:
   - '&7&oKomponent'
 INFINITE_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INFINITE_TRAIT_PROP_HEAD_INFINITE_INGOT:
   type:
   - '&7&oKomponent'
@@ -999,93 +810,74 @@ INFINITLY_POWERFUL_TRAIT_PROP_PLATES_INFINITY_SINGULARITY:
   - '&7&oKomponent'
 INFINITY_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Wysokości'
   type:
   - '&7&oKomponent'
 INGOT_CAST_ANNIVERSARIUM:
-  name: '&7Anniversarium Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_BOOMERITE:
-  name: '&7Boomeryt Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_CRINGLEIUM:
-  name: '&7Cringleium Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_DAXI_ABSORPTION:
-  name: '&7Absorpcji Daxi Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_DAXI_FORTITUDE:
-  name: '&7Hartu Daxi Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_DAXI_REGENERATION:
-  name: '&7Regeneracji Daxi Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_DAXI_SATURATION:
-  name: '&7Sytości Daxi Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_DAXI_STRENGTH:
-  name: '&7Mocy Daxi Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_DEVOTION:
-  name: '&7Oddanie Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_FONDNESS:
-  name: '&7Sympatia Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_LOVE:
-  name: '&7Miłość Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_NICE:
-  name: '&7Nice Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_PASSION:
-  name: '&7Pasja Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_REINFORCED_DRACONIUM:
-  name: '&7Wzmocnione draconium Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_SEFIRITE:
-  name: '&7Sefiryt Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INGOT_CAST_SMITHIUM:
-  name: '&7Smithium Sztabka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 INSULATED_TRAIT_PROP_BINDING_RUBBER:
   type:
   - '&7&oKomponent'
 INTERDIMENSIONAL_PRESENCE_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 IRIDIUM_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 IRON_LIQUID:
-  name: '&x&A&6&0&A&0&APłynne żelazo'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 IRON_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
-  name: '&x&B&F&3&0&7&FCecha : To wszystko, czego potrzebujesz'
   type:
   - '&7&oKomponent'
 IT'S_ONLY_NATURAL_TRAIT_PROP_LINKS_EARTH_SINGULARITY:
@@ -1098,59 +890,50 @@ KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
   type:
   - '&7&oKomponent'
 LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
-  name: '&x&B&F&3&0&7&FCecha : Symulator Drabiny™'
   type:
   - '&7&oKomponent'
 LAVA_WALKER_TRAIT_PROP_PLATES_EARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 LEAD_LIQUID:
-  name: '&x&A&6&0&A&0&APłynny ołów'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 LEAD_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 LEECH_II_TRAIT_PROP_ROD_LEAD_SINGULARITY:
   type:
   - '&7&oKomponent'
 LEECH_TRAIT_PROP_ROD_LEAD_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Pijawka'
   type:
   - '&7&oKomponent'
 LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
-  name: '&x&B&F&3&0&7&FCecha : Piorunochron'
   type:
   - '&7&oKomponent'
 LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Lekkość'
   type:
   - '&7&oKomponent'
 LIGHT_II_TRAIT_PROP_PLATES_MAGNESIUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Lekkość'
   type:
   - '&7&oKomponent'
 LIQUID_CHRISTMAS_LIQUID:
-  name: '&x&A&6&0&A&0&AStopione Płynne Święta'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 LIQUID_LOVE_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiona Płynna Miłość'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 LIQUID_LOVE_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiona Płynna Miłość'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 MAGIC_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MAGNANIMOUS_TRAIT_PROP_HEAD_MAGNONIUM:
   type:
   - '&7&oKomponent'
@@ -1158,63 +941,54 @@ MAGNESIGHT™_II_TRAIT_PROP_LINKS_MAGNESIUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
-  name: '&x&B&F&3&0&7&FCecha : MagneWzrok™'
   type:
   - '&7&oKomponent'
 MAGNESIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Magnez'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MAGNESIUM_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Magnetez'
   type:
   - '&7&oKomponent'
 MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Magnetyczny +'
   type:
   - '&7&oKomponent'
 MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Magnetyczny +'
   type:
   - '&7&oKomponent'
 MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Magnetyczny -'
   type:
   - '&7&oKomponent'
 MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Magnetyczny -'
   type:
   - '&7&oKomponent'
 MAGNONIUM_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MAGSTEEL_ALLOY:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MAGSTEEL_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Mag'
   type:
   - '&7&oKomponent'
 MAG_THOR_ALLOY:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MAG_THOR_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
   type:
   - '&7&oKomponent'
 MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Kowalność'
   type:
   - '&7&oKomponent'
 MANNERS_MAKETH_MAN_TRAIT_PROP_ROD_REFINED_IRON:
@@ -1225,45 +999,38 @@ MERCHANT'S_VEIL_TRAIT_PROP_ROD_FORTUNE_SINGULARITY:
   - '&7&oKomponent'
 METAL_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MIXED_METALS_TRAIT_PROP_HEAD_MIXED_METAL_INGOT:
   type:
   - '&7&oKomponent'
 MIXED_METAL_ALLOY:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MIXED_METAL_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 MIX_IT_UP!_TRAIT_PROP_LINKS_MIXED_METAL_INGOT:
   type:
   - '&7&oKomponent'
 MOD_DIAMOND_ENTRY:
-  name: '&dModyfikacja: Diament'
   type:
   - '&7&oKomponent'
 MOD_EMERALD_ENTRY:
-  name: '&dModyfikacja: Szmaragd'
   type:
   - '&7&oKomponent'
 MOD_LAPIS_ENTRY:
-  name: '&dModyfikacja: Lazuryt'
   type:
   - '&7&oKomponent'
 MOD_PLATE:
-  name: '&dWzmocniona płyta'
   type:
   - '&7&oKomponent'
 MOD_PLATE_ENTRY:
-  name: '&dModyfikacja: Wzmocniona płyta'
   type:
   - '&7&oKomponent'
 MOD_QUARTZ_ENTRY:
-  name: '&dModyfikacja: Kwarc'
   type:
   - '&7&oKomponent'
 MOD_REDSTONE_ENTRY:
-  name: '&dModyfikacja: Czerwienit'
   type:
   - '&7&oKomponent'
 MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
@@ -1271,32 +1038,26 @@ MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
   - '&7&oKomponent'
 MYTHRIL_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
   type:
   - '&7&oKomponent'
 NICEINIUM_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony Niceinium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NICEINIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Niceinium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
-  name: '&x&B&F&3&0&7&FCecha : Miło'
   type:
   - '&7&oKomponent'
 NICKEL_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony nikiel'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NICKEL_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony nikiel'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Nocny Łowca'
   type:
   - '&7&oKomponent'
 NIMBLE_TRAIT_PROP_BINDING_RAW_CARBON_MESH:
@@ -1309,241 +1070,182 @@ NON-CORROSIVE_II_TRAIT_PROP_PLATES_TIN_SINGULARITY:
   type:
   - '&7&oKomponent'
 NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Odporność na Korozję'
   type:
   - '&7&oKomponent'
 NUGGET_CAST_ADAMANTITE:
-  name: '&7Adamantyt Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_ADVANCED_ALLOY:
-  name: '&7Zaawansowany stop Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_ALUMINUM:
-  name: '&7Aluminium Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_ALU_BRASS:
-  name: '&7Mosiądz aluminiowy Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_ALU_BRONZE:
-  name: '&7Brąz aluminiowy Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_ANNIVERSARIUM:
-  name: '&7Anniversarium Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_BILLON:
-  name: '&7Bilon Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_BOOMERITE:
-  name: '&7Boomeryt Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_BRASS:
-  name: '&7Mosiądz Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_BRONZE:
-  name: '&7Brąz Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_COAL:
-  name: '&7Węgiel Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_COBALT:
-  name: '&7Kobalt Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_COPPER:
-  name: '&7Miedź Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_COR_BRONZE:
-  name: '&7Brąz koryncki Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_CRINGLEIUM:
-  name: '&7Cringleium Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_DAMASCUS_STEEL:
-  name: '&7Stal damasceńska Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_DAXI_ABSORPTION:
-  name: '&7Absorpcji Daxi Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_DAXI_FORTITUDE:
-  name: '&7Hartu Daxi Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_DAXI_REGENERATION:
-  name: '&7Regeneracji Daxi Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_DAXI_SATURATION:
-  name: '&7Sytości Daxi Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_DAXI_STRENGTH:
-  name: '&7Mocy Daxi Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_DEVOTION:
-  name: '&7Oddanie Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_DURALIUM:
-  name: '&7Duralium Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_FERROSILICON:
-  name: '&7Żelazokrzem Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_FONDNESS:
-  name: '&7Sympatia Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_HARD_METAL:
-  name: '&7Utwardzony metal Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_INFINITY:
-  name: '&7Nieskończoność Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_IRIDIUM:
-  name: '&7Iryd Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_LEAD:
-  name: '&7Ołów Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_LOVE:
-  name: '&7Miłość Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_MAGNESIUM:
-  name: '&7Magnez Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_MAGNONIUM:
-  name: '&7Magnonium Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_MAGSTEEL:
-  name: '&7MagStal Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_MAG_THOR:
-  name: '&7Mag-Thor Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_MIXED_METAL:
-  name: '&7Metal mieszany Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_MYTHRIL:
-  name: '&7Mithril Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_NICE:
-  name: '&7Nice Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_NICKEL:
-  name: '&7Nikiel Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_OSMIUM:
-  name: '&7Osm Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_OSMIUM_SUPER_ALLOY:
-  name: '&7Superstop osmu Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_PASSION:
-  name: '&7Pasja Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_REDSTONE_ALLOY:
-  name: '&7Stop z czerwienitu Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_REFINED_IRON:
-  name: '&7Rafinowane żelazo Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_REINFORCED:
-  name: '&7Wzmocniony stop Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_REINFORCED_DRACONIUM:
-  name: '&7Wzmocnione draconium Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_REINFORCED_SLIMESTEEL:
-  name: '&7Wzmocniona stal ze szlamu Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_SCRAP:
-  name: '&7Złom Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_SEFIRITE:
-  name: '&7Sefiryt Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_SILVER:
-  name: '&7Srebro Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_SLIMESTEEL:
-  name: '&7Stal ze szlamu Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_SMITHIUM:
-  name: '&7Smithium Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_SOLDER:
-  name: '&7Lut Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_STAINLESSSTEEL:
-  name: '&7Stal nierdzewna Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_STEEL:
-  name: '&7Stal Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_TIN:
-  name: '&7Cyna Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_TITANIUM:
-  name: '&7Tytan Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_UNPATENTABILUM:
-  name: '&7Unpatentabilum Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 NUGGET_CAST_ZINC:
-  name: '&7Cynk Bryłka'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 OROBORUS_TRAIT_PROP_LINKS_INFINITE_INGOT:
   type:
   - '&7&oKomponent'
@@ -1551,140 +1253,114 @@ OXYGENATED_TRAIT_PROP_LINKS_MAGNONIUM:
   type:
   - '&7&oKomponent'
 OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Natleniony'
   type:
   - '&7&oKomponent'
 PART_AXE_HEAD:
   type:
   - '&7&oKomponent'
 PART_AXE_HEAD_DUMMY:
-  name: '&eCzęść: Głowica topora'
   type:
   - '&7&oKomponent'
 PART_BINDING_CARBON_MESH:
   type:
   - '&7&oKomponent'
 PART_BINDING_CRIMSON_ROOT:
-  name: '&x&B&5&3&6&5&EZ karmazynowego korzenia&x&4&2&C&8&F&5 wiązanie'
   type:
   - '&7&oKomponent'
 PART_BINDING_DUMMY:
-  name: '&eCzęść: Wiązanie'
   type:
   - '&7&oKomponent'
 PART_BINDING_GENERAL_DISPLAY:
-  name: '&7Wiązanie Materiał'
   type:
   - '&7&oKomponent'
 PART_BINDING_GHOSTLY_ESSENCE:
   type:
   - '&7&oKomponent'
 PART_BINDING_LEATHER:
-  name: '&x&9&1&8&0&5&6Skórzane&x&4&2&C&8&F&5 wiązanie'
   type:
   - '&7&oKomponent'
 PART_BINDING_RUBBER:
   type:
   - '&7&oKomponent'
 PART_BINDING_SILICON:
-  name: '&x&F&2&F&2&F&2Krzemowe&x&4&2&C&8&F&5 wiązanie'
   type:
   - '&7&oKomponent'
 PART_BINDING_SLIME:
-  name: '&x&2&9&E&0&1&FSzlamowe&x&4&2&C&8&F&5 wiązanie'
   type:
   - '&7&oKomponent'
 PART_BINDING_STRING:
-  name: '&x&F&5&F&5&F&5Sznurkowe&x&4&2&C&8&F&5 wiązanie'
   type:
   - '&7&oKomponent'
 PART_BINDING_TWISTED_VINE:
-  name: '&x&1&B&8&0&4&5Ze skręconego pnącza&x&4&2&C&8&F&5 wiązanie'
   type:
   - '&7&oKomponent'
 PART_BINDING_VEX_GEM:
   type:
   - '&7&oKomponent'
 PART_BINDING_VINE:
-  name: '&x&4&C&A&8&6&BPnączowe&x&4&2&C&8&F&5 wiązanie'
   type:
   - '&7&oKomponent'
 PART_BINDING_WARPED_ROOT:
-  name: '&x&3&6&B&5&4&9Ze spaczonego korzenia&x&4&2&C&8&F&5 wiązanie'
   type:
   - '&7&oKomponent'
 PART_BINDING_WEEPING_VINE:
-  name: '&x&9&C&0&9&1&DZ płaczącego pnącza&x&4&2&C&8&F&5 wiązanie'
   type:
   - '&7&oKomponent'
 PART_BOOTS_PLATES:
   type:
   - '&7&oKomponent'
 PART_BOOT_PLATE_DUMMY:
-  name: '&eCzęść: Płyty butów'
   type:
   - '&7&oKomponent'
 PART_CHEST_PLATES:
   type:
   - '&7&oKomponent'
 PART_CHEST_PLATE_DUMMY:
-  name: '&eCzęść: Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_CARBON_MESH:
   type:
   - '&7&oKomponent'
 PART_GAMBESON_CRIMSON_ROOT:
-  name: '&x&B&5&3&6&5&EZ karmazynowego korzenia&x&4&2&C&8&F&5 przeszywanica'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_DUMMY:
-  name: '&eCzęść: Przeszywanica'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_GENERAL_DISPLAY:
-  name: '&7Przeszywanica Materiał'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_GHOSTLY_ESSENCE:
   type:
   - '&7&oKomponent'
 PART_GAMBESON_LEATHER:
-  name: '&x&9&1&8&0&5&6Skórzany&x&4&2&C&8&F&5 przeszywanica'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_RUBBER:
   type:
   - '&7&oKomponent'
 PART_GAMBESON_SILICON:
-  name: '&x&F&2&F&2&F&2Krzemowy&x&4&2&C&8&F&5 przeszywanica'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_SLIME:
-  name: '&x&2&9&E&0&1&FSzlamowy&x&4&2&C&8&F&5 przeszywanica'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_STRING:
-  name: '&x&F&5&F&5&F&5Sznurkowy&x&4&2&C&8&F&5 przeszywanica'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_TWISTED_VINE:
-  name: '&x&1&B&8&0&4&5Ze skręconego pnącza&x&4&2&C&8&F&5 przeszywanica'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_VEX_GEM:
   type:
   - '&7&oKomponent'
 PART_GAMBESON_VINE:
-  name: '&x&4&C&A&8&6&BPnączowy&x&4&2&C&8&F&5 przeszywanica'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_WARPED_ROOT:
-  name: '&x&3&6&B&5&4&9Ze spaczonego korzenia&x&4&2&C&8&F&5 przeszywanica'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_WEEPING_VINE:
-  name: '&x&9&C&0&9&1&DZ płaczącego pnącza&x&4&2&C&8&F&5 przeszywanica'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEADAMANTITE:
@@ -1694,78 +1370,63 @@ PART_HEAD_AXEADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowa&x&4&2&C&8&F&5 Głowica Siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Głowica siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Główka siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEBILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Głowica siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEBOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Głowica siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEBRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Głowica siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEBRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Główka siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXECOBALT:
-  name: '&x&9&E&9&E&9&EKobaltowa&x&4&2&C&8&F&5 głowica topora'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXECOPPER:
-  name: '&x&C&9&9&7&3&2Miedziane&x&4&2&C&8&F&5 Ostrze siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXECOPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXECORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Główka siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal Damasceńska&x&4&2&C&8&F&5 Głowica Siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEDURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Główka siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEEARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEFERROSILICON:
-  name: '&x&F&2&F&2&F&2Żelazokrzemowa&x&4&2&C&8&F&5 głowica topora'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEFORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEGOLD:
-  name: '&x&F&F&E&1&3&8Złote&x&4&2&C&8&F&5 Ostrze siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEGOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Główka siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEINFINITE:
@@ -1778,14 +1439,12 @@ PART_HEAD_AXEIRIDIUM:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEIRON:
-  name: '&x&8&C&8&C&8&CŻelazne&x&4&2&C&8&F&5 Ostrze siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEIRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXELEAD:
-  name: '&x&9&0&4&3&B&AOłowiane&x&4&2&C&8&F&5 Ostrze siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXELEAD_SINGULARITY:
@@ -1795,7 +1454,6 @@ PART_HEAD_AXEMAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowa&x&4&2&C&8&F&5 Głowica Siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEMAGNESIUM_SINGULARITY:
@@ -1820,18 +1478,15 @@ PART_HEAD_AXEMYTHRIL:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXENICEINIUM:
-  name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Głowica siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXENICKEL:
-  name: '&x&E&B&E&B&E&BNikiel&x&4&2&C&8&F&5 Głowica siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEREFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 głowica topora'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEREINFORCED_DRACONIUM:
@@ -1841,18 +1496,15 @@ PART_HEAD_AXESCRAP:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXESILVER:
-  name: '&x&D&4&D&4&D&4Srebrne&x&4&2&C&8&F&5 Ostrze siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXESILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXESMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Głowica siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXESOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Głowica siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXESTAINLESS_STEEL:
@@ -1862,14 +1514,12 @@ PART_HEAD_AXESTAR_DUST:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXESTEEL:
-  name: '&x&D&1&D&1&D&1Stalowa&x&4&2&C&8&F&5 Głowica Siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXETESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXETIN:
-  name: '&x&A&8&9&B&9&BCynowa&x&4&2&C&8&F&5 Głowica Siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXETIN_SINGULARITY:
@@ -1882,7 +1532,6 @@ PART_HEAD_AXEVOID:
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEZINC:
-  name: '&x&9&B&A&8&A&6Cynkowa&x&4&2&C&8&F&5 Głowica Siekiery'
   type:
   - '&7&oKomponent'
 PART_HEAD_AXEZINC_SINGULARITY:
@@ -1895,78 +1544,63 @@ PART_HEAD_HOEADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowa&x&4&2&C&8&F&5 Głowica Motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Główka motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEBILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEBOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEBRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEBRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Główka motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOECOBALT:
-  name: '&x&9&E&9&E&9&EKobaltowa&x&4&2&C&8&F&5 głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOECOPPER:
-  name: '&x&C&9&9&7&3&2Miedziane&x&4&2&C&8&F&5 Ostrze motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOECOPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOECORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Główka motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal Damasceńska&x&4&2&C&8&F&5 Głowica Motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEDURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Główka motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEEARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEFERROSILICON:
-  name: '&x&F&2&F&2&F&2Żelazokrzemowa&x&4&2&C&8&F&5 głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEFORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEGOLD:
-  name: '&x&F&F&E&1&3&8Złote&x&4&2&C&8&F&5 Ostrze motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEGOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Główka motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEINFINITE:
@@ -1979,14 +1613,12 @@ PART_HEAD_HOEIRIDIUM:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEIRON:
-  name: '&x&8&C&8&C&8&CŻelazne&x&4&2&C&8&F&5 Ostrze motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEIRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOELEAD:
-  name: '&x&9&0&4&3&B&AOłowiane&x&4&2&C&8&F&5 Ostrze motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOELEAD_SINGULARITY:
@@ -1996,7 +1628,6 @@ PART_HEAD_HOEMAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowa&x&4&2&C&8&F&5 Głowica Motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEMAGNESIUM_SINGULARITY:
@@ -2021,18 +1652,15 @@ PART_HEAD_HOEMYTHRIL:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOENICEINIUM:
-  name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOENICKEL:
-  name: '&x&E&B&E&B&E&BNikiel&x&4&2&C&8&F&5 Głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEREFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEREINFORCED_DRACONIUM:
@@ -2042,18 +1670,15 @@ PART_HEAD_HOESCRAP:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOESILVER:
-  name: '&x&D&4&D&4&D&4Srebrne&x&4&2&C&8&F&5 Ostrze motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOESILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOESMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOESOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Głowica motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOESTAINLESS_STEEL:
@@ -2063,14 +1688,12 @@ PART_HEAD_HOESTAR_DUST:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOESTEEL:
-  name: '&x&D&1&D&1&D&1Stalowa&x&4&2&C&8&F&5 Głowica Motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOETESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOETIN:
-  name: '&x&A&8&9&B&9&BCynowa&x&4&2&C&8&F&5 Głowica Motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOETIN_SINGULARITY:
@@ -2083,7 +1706,6 @@ PART_HEAD_HOEVOID:
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEZINC:
-  name: '&x&9&B&A&8&A&6Cynkowa&x&4&2&C&8&F&5 Głowica Motyki'
   type:
   - '&7&oKomponent'
 PART_HEAD_HOEZINC_SINGULARITY:
@@ -2096,78 +1718,63 @@ PART_HEAD_PICKADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowa&x&4&2&C&8&F&5 Głowica Kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Główka kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKBILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKBOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKBRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKBRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Główka kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKCOBALT:
-  name: '&x&9&E&9&E&9&EKobaltowa&x&4&2&C&8&F&5 głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKCOPPER:
-  name: '&x&C&9&9&7&3&2Miedziany&x&4&2&C&8&F&5 Grot kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKCOPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Główka kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal Damasceńska&x&4&2&C&8&F&5 Głowica Kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKDURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Główka kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKEARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKFERROSILICON:
-  name: '&x&F&2&F&2&F&2Żelazokrzemowa&x&4&2&C&8&F&5 głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKFORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKGOLD:
-  name: '&x&F&F&E&1&3&8Złoty&x&4&2&C&8&F&5 Grot kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKGOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Główka kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKINFINITE:
@@ -2180,14 +1787,12 @@ PART_HEAD_PICKIRIDIUM:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKIRON:
-  name: '&x&8&C&8&C&8&CŻelazny&x&4&2&C&8&F&5 Grot kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKIRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKLEAD:
-  name: '&x&9&0&4&3&B&AOłowiany&x&4&2&C&8&F&5 Grot kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKLEAD_SINGULARITY:
@@ -2197,7 +1802,6 @@ PART_HEAD_PICKMAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowa&x&4&2&C&8&F&5 Głowica Kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKMAGNESIUM_SINGULARITY:
@@ -2222,18 +1826,15 @@ PART_HEAD_PICKMYTHRIL:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKNICEINIUM:
-  name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKNICKEL:
-  name: '&x&E&B&E&B&E&BNikiel&x&4&2&C&8&F&5 Głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKREFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKREINFORCED_DRACONIUM:
@@ -2243,18 +1844,15 @@ PART_HEAD_PICKSCRAP:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKSILVER:
-  name: '&x&D&4&D&4&D&4Srebrny&x&4&2&C&8&F&5 Grot kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKSILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKSMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKSOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKSTAINLESS_STEEL:
@@ -2264,14 +1862,12 @@ PART_HEAD_PICKSTAR_DUST:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKSTEEL:
-  name: '&x&D&1&D&1&D&1Stalowa&x&4&2&C&8&F&5 Głowica Kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKTESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKTIN:
-  name: '&x&A&8&9&B&9&BCynowa&x&4&2&C&8&F&5 Głowica Kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKTIN_SINGULARITY:
@@ -2284,7 +1880,6 @@ PART_HEAD_PICKVOID:
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKZINC:
-  name: '&x&9&B&A&8&A&6Cynkowa&x&4&2&C&8&F&5 Głowica Kilofa'
   type:
   - '&7&oKomponent'
 PART_HEAD_PICKZINC_SINGULARITY:
@@ -2297,78 +1892,63 @@ PART_HEAD_SHOVELADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowa&x&4&2&C&8&F&5 Głowica Łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Główka łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELBILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELBOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELBRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELBRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Główka łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELCOBALT:
-  name: '&x&9&E&9&E&9&EKobaltowa&x&4&2&C&8&F&5 głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELCOPPER:
-  name: '&x&C&9&9&7&3&2Miedziane&x&4&2&C&8&F&5 Ostrze łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELCOPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Główka łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal damasceńska&x&4&2&C&8&F&5 Główka łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELDURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Główka łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELEARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELFERROSILICON:
-  name: '&x&F&2&F&2&F&2Żelazokrzemowa&x&4&2&C&8&F&5 głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELFORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELGOLD:
-  name: '&x&F&F&E&1&3&8Złote&x&4&2&C&8&F&5 Ostrze łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELGOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Główka łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELINFINITE:
@@ -2381,14 +1961,12 @@ PART_HEAD_SHOVELIRIDIUM:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELIRON:
-  name: '&x&8&C&8&C&8&CŻelazne&x&4&2&C&8&F&5 Ostrze łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELIRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELLEAD:
-  name: '&x&9&0&4&3&B&AOłowiane&x&4&2&C&8&F&5 Ostrze łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELLEAD_SINGULARITY:
@@ -2398,7 +1976,6 @@ PART_HEAD_SHOVELMAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowa&x&4&2&C&8&F&5 Głowica Łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
@@ -2423,18 +2000,15 @@ PART_HEAD_SHOVELMYTHRIL:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELNICEINIUM:
-  name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELNICKEL:
-  name: '&x&E&B&E&B&E&BNikiel&x&4&2&C&8&F&5 Głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELREFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELREINFORCED_DRACONIUM:
@@ -2444,18 +2018,15 @@ PART_HEAD_SHOVELSCRAP:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELSILVER:
-  name: '&x&D&4&D&4&D&4Srebrne&x&4&2&C&8&F&5 Ostrze łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELSILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELSMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELSOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELSTAINLESS_STEEL:
@@ -2465,14 +2036,12 @@ PART_HEAD_SHOVELSTAR_DUST:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELSTEEL:
-  name: '&x&D&1&D&1&D&1Stalowa&x&4&2&C&8&F&5 Głowica Łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELTESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELTIN:
-  name: '&x&A&8&9&B&9&BCynowa&x&4&2&C&8&F&5 Głowica Łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELTIN_SINGULARITY:
@@ -2485,7 +2054,6 @@ PART_HEAD_SHOVELVOID:
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELZINC:
-  name: '&x&9&B&A&8&A&6Cynkowa&x&4&2&C&8&F&5 Głowica Łopaty'
   type:
   - '&7&oKomponent'
 PART_HEAD_SHOVELZINC_SINGULARITY:
@@ -2498,78 +2066,63 @@ PART_HEAD_SWORDADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowy&x&4&2&C&8&F&5 Grot miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Główka miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDBILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDBOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDBRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDBRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Główka miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDCOBALT:
-  name: '&x&9&E&9&E&9&EKobaltowa&x&4&2&C&8&F&5 głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDCOPPER:
-  name: '&x&C&9&9&7&3&2Miedziany&x&4&2&C&8&F&5 Grot miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDCOPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Główka miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal Damasceńska&x&4&2&C&8&F&5 Głowica Miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDDURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Główka miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDEARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDFERROSILICON:
-  name: '&x&F&2&F&2&F&2Żelazokrzemowa&x&4&2&C&8&F&5 głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDFORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDGOLD:
-  name: '&x&F&F&E&1&3&8Złoty&x&4&2&C&8&F&5 Grot miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDGOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Główka miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDINFINITE:
@@ -2582,14 +2135,12 @@ PART_HEAD_SWORDIRIDIUM:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDIRON:
-  name: '&x&8&C&8&C&8&CŻelazny&x&4&2&C&8&F&5 Grot miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDIRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDLEAD:
-  name: '&x&9&0&4&3&B&AOłowiany&x&4&2&C&8&F&5 Grot miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDLEAD_SINGULARITY:
@@ -2599,7 +2150,6 @@ PART_HEAD_SWORDMAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowa&x&4&2&C&8&F&5 Głowica Miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
@@ -2624,18 +2174,15 @@ PART_HEAD_SWORDMYTHRIL:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDNICEINIUM:
-  name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDNICKEL:
-  name: '&x&E&B&E&B&E&BNikiel&x&4&2&C&8&F&5 Głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDREFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDREINFORCED_DRACONIUM:
@@ -2645,18 +2192,15 @@ PART_HEAD_SWORDSCRAP:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDSILVER:
-  name: '&x&D&4&D&4&D&4Srebrny&x&4&2&C&8&F&5 Grot miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDSILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDSMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDSOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Głowica miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDSTAINLESS_STEEL:
@@ -2666,14 +2210,12 @@ PART_HEAD_SWORDSTAR_DUST:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDSTEEL:
-  name: '&x&D&1&D&1&D&1Stalowa&x&4&2&C&8&F&5 Głowica Miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDTESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDTIN:
-  name: '&x&A&8&9&B&9&BCynowa&x&4&2&C&8&F&5 Głowica Miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDTIN_SINGULARITY:
@@ -2686,7 +2228,6 @@ PART_HEAD_SWORDVOID:
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDZINC:
-  name: '&x&9&B&A&8&A&6Cynkowa&x&4&2&C&8&F&5 Głowica Miecza'
   type:
   - '&7&oKomponent'
 PART_HEAD_SWORDZINC_SINGULARITY:
@@ -2696,21 +2237,18 @@ PART_HELM_PLATES:
   type:
   - '&7&oKomponent'
 PART_HELM_PLATE_DUMMY:
-  name: '&eCzęść: Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_HOE_HEAD:
   type:
   - '&7&oKomponent'
 PART_HOE_HEAD_DUMMY:
-  name: '&eCzęść: Głowica motyki'
   type:
   - '&7&oKomponent'
 PART_LEG_PLATES:
   type:
   - '&7&oKomponent'
 PART_LEG_PLATE_DUMMY:
-  name: '&eCzęść: Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_LINKS_ADAMANTITE:
@@ -2720,64 +2258,51 @@ PART_LINKS_ADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_LINKS_ALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowe&x&4&2&C&8&F&5 Ogniwa Kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_ALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_ALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_ALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_LINKS_BILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_BRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_BRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_COBALT:
-  name: '&x&9&E&9&E&9&EKobaltowe&x&4&2&C&8&F&5 ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_COPPER:
-  name: '&x&C&9&9&7&3&2Miedziane&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_COPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_LINKS_CORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_CRINGLEIUM:
-  name: '&x&0&0&C&C&3&6Cringleium&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_DAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal damasceńska&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_DURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_EARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_LINKS_FERROSILICON:
-  name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_FORTUNE_SINGULARITY:
@@ -2787,14 +2312,12 @@ PART_LINKS_GHOSTLY_ESSENCE:
   type:
   - '&7&oKomponent'
 PART_LINKS_GOLD:
-  name: '&x&F&F&E&1&3&8Złote&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_GOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_LINKS_HARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_INFINITE:
@@ -2807,28 +2330,24 @@ PART_LINKS_IRIDIUM:
   type:
   - '&7&oKomponent'
 PART_LINKS_IRON:
-  name: '&x&8&C&8&C&8&CŻelazne&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_IRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_LINKS_LEAD:
-  name: '&x&9&0&4&3&B&AOłowiane&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_LEAD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_LINKS_LIQUID_LOVE:
-  name: '&x&E&B&3&4&D&2Płynna Miłość&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_MAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_LINKS_MAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowe&x&4&2&C&8&F&5 Ogniwa Kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_MAGNESIUM_SINGULARITY:
@@ -2853,36 +2372,30 @@ PART_LINKS_MYTHRIL:
   type:
   - '&7&oKomponent'
 PART_LINKS_NICKEL:
-  name: '&x&E&B&E&B&E&BNiklowe&x&4&2&C&8&F&5 ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_REDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Stop Czerwienitu&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_REFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_LINKS_REINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_SCRAP:
   type:
   - '&7&oKomponent'
 PART_LINKS_SILVER:
-  name: '&x&D&4&D&4&D&4Srebrne&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_SILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_LINKS_SMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_SOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_STAINLESS_STEEL:
@@ -2892,14 +2405,12 @@ PART_LINKS_STAR_DUST:
   type:
   - '&7&oKomponent'
 PART_LINKS_STEEL:
-  name: '&x&D&1&D&1&D&1Stalowe&x&4&2&C&8&F&5 Ogniwa Kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_TESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_LINKS_TIN:
-  name: '&x&A&8&9&B&9&BCynowe&x&4&2&C&8&F&5 Ogniwa Kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_TIN_SINGULARITY:
@@ -2915,21 +2426,18 @@ PART_LINKS_VOID:
   type:
   - '&7&oKomponent'
 PART_LINKS_ZINC:
-  name: '&x&9&B&A&8&A&6Cynkowe&x&4&2&C&8&F&5 Ogniwa Kolczugi'
   type:
   - '&7&oKomponent'
 PART_LINKS_ZINC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_MAIL_LINKS_DUMMY:
-  name: '&eCzęść: Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PART_PICKAXE_HEAD:
   type:
   - '&7&oKomponent'
 PART_PICKAXE_HEAD_DUMMY:
-  name: '&eCzęść: Głowica kilofa'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSADAMANTITE:
@@ -2939,82 +2447,66 @@ PART_PLATES_BOOTSADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowe&x&4&2&C&8&F&5 Płyty Butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSBILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSBOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSBRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSBRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSCOBALT:
-  name: '&x&9&E&9&E&9&EKobaltowe&x&4&2&C&8&F&5 płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSCOPPER:
-  name: '&x&C&9&9&7&3&2Miedziane&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSCOPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal damasceńska&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSDURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSEARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSFORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSGOLD:
-  name: '&x&F&F&E&1&3&8Złote&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSGOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSINFINITE:
@@ -3027,14 +2519,12 @@ PART_PLATES_BOOTSIRIDIUM:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSIRON:
-  name: '&x&8&C&8&C&8&CŻelazne&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSIRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSLEAD:
-  name: '&x&9&0&4&3&B&AOłowiane&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSLEAD_SINGULARITY:
@@ -3044,7 +2534,6 @@ PART_PLATES_BOOTSMAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowe&x&4&2&C&8&F&5 Płyty Butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
@@ -3069,40 +2558,33 @@ PART_PLATES_BOOTSMYTHRIL:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSNICKEL:
-  name: '&x&E&B&E&B&E&BNiklowe&x&4&2&C&8&F&5 płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSREDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Stop Czerwienitu&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSREFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSSCRAP:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSSEFIRITE:
-  name: '&x&9&B&E&B&3&4Sefiryt&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSSILVER:
-  name: '&x&D&4&D&4&D&4Srebrne&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSSILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSSMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSSOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Płyty butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSSTAINLESS_STEEL:
@@ -3112,14 +2594,12 @@ PART_PLATES_BOOTSSTAR_DUST:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSSTEEL:
-  name: '&x&D&1&D&1&D&1Stalowe&x&4&2&C&8&F&5 Płyty Butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSTESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSTIN:
-  name: '&x&A&8&9&B&9&BCynowe&x&4&2&C&8&F&5 Płyty Butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSTIN_SINGULARITY:
@@ -3132,7 +2612,6 @@ PART_PLATES_BOOTSVOID:
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSZINC:
-  name: '&x&9&B&A&8&A&6Cynkowe&x&4&2&C&8&F&5 Płyty Butów'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSZINC_SINGULARITY:
@@ -3145,82 +2624,66 @@ PART_PLATES_CHESTPLATEADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowe&x&4&2&C&8&F&5 Płyty Napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEBILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEBOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEBRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEBRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATECOBALT:
-  name: '&x&9&E&9&E&9&EKobaltowe&x&4&2&C&8&F&5 płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATECOPPER:
-  name: '&x&C&9&9&7&3&2Miedziane&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATECOPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal damasceńska&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEDURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEFORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEGOLD:
-  name: '&x&F&F&E&1&3&8Złote&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEGOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEINFINITE:
@@ -3233,14 +2696,12 @@ PART_PLATES_CHESTPLATEIRIDIUM:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEIRON:
-  name: '&x&8&C&8&C&8&CŻelazne&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEIRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATELEAD:
-  name: '&x&9&0&4&3&B&AOłowiane&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATELEAD_SINGULARITY:
@@ -3250,7 +2711,6 @@ PART_PLATES_CHESTPLATEMAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowe&x&4&2&C&8&F&5 Płyty Napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
@@ -3275,40 +2735,33 @@ PART_PLATES_CHESTPLATEMYTHRIL:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATENICKEL:
-  name: '&x&E&B&E&B&E&BNiklowe&x&4&2&C&8&F&5 płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Stop Czerwienitu&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEREFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATESCRAP:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATESEFIRITE:
-  name: '&x&9&B&E&B&3&4Sefiryt&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATESILVER:
-  name: '&x&D&4&D&4&D&4Srebrne&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATESILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATESMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATESOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Płyty napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATESTAINLESS_STEEL:
@@ -3318,14 +2771,12 @@ PART_PLATES_CHESTPLATESTAR_DUST:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATESTEEL:
-  name: '&x&D&1&D&1&D&1Stalowe&x&4&2&C&8&F&5 Płyty Napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATETESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATETIN:
-  name: '&x&A&8&9&B&9&BCynowe&x&4&2&C&8&F&5 Płyty Napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATETIN_SINGULARITY:
@@ -3338,7 +2789,6 @@ PART_PLATES_CHESTPLATEVOID:
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEZINC:
-  name: '&x&9&B&A&8&A&6Cynkowe&x&4&2&C&8&F&5 Płyty Napierśnika'
   type:
   - '&7&oKomponent'
 PART_PLATES_CHESTPLATEZINC_SINGULARITY:
@@ -3351,82 +2801,66 @@ PART_PLATES_HELMETADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowe&x&4&2&C&8&F&5 Płyty Hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETBILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETBOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETBRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETBRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETCOBALT:
-  name: '&x&9&E&9&E&9&EKobaltowe&x&4&2&C&8&F&5 płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETCOPPER:
-  name: '&x&C&9&9&7&3&2Miedziane&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETCOPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal damasceńska&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETDURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETEARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETFORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETGOLD:
-  name: '&x&F&F&E&1&3&8Złote&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETGOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETINFINITE:
@@ -3439,14 +2873,12 @@ PART_PLATES_HELMETIRIDIUM:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETIRON:
-  name: '&x&8&C&8&C&8&CŻelazne&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETIRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETLEAD:
-  name: '&x&9&0&4&3&B&AOłowiane&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETLEAD_SINGULARITY:
@@ -3456,7 +2888,6 @@ PART_PLATES_HELMETMAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowe&x&4&2&C&8&F&5 Płyty Hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
@@ -3481,40 +2912,33 @@ PART_PLATES_HELMETMYTHRIL:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETNICKEL:
-  name: '&x&E&B&E&B&E&BNiklowe&x&4&2&C&8&F&5 płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETREDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Stop Czerwienitu&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETREFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETSCRAP:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETSEFIRITE:
-  name: '&x&9&B&E&B&3&4Sefiryt&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETSILVER:
-  name: '&x&D&4&D&4&D&4Srebrne&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETSILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETSMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETSOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Płyty hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETSTAINLESS_STEEL:
@@ -3524,14 +2948,12 @@ PART_PLATES_HELMETSTAR_DUST:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETSTEEL:
-  name: '&x&D&1&D&1&D&1Stalowe&x&4&2&C&8&F&5 Płyty Hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETTESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETTIN:
-  name: '&x&A&8&9&B&9&BCynowe&x&4&2&C&8&F&5 Płyty Hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETTIN_SINGULARITY:
@@ -3544,7 +2966,6 @@ PART_PLATES_HELMETVOID:
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETZINC:
-  name: '&x&9&B&A&8&A&6Cynkowe&x&4&2&C&8&F&5 Płyty Hełmu'
   type:
   - '&7&oKomponent'
 PART_PLATES_HELMETZINC_SINGULARITY:
@@ -3557,82 +2978,66 @@ PART_PLATES_LEGGINGSADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowe&x&4&2&C&8&F&5 Płyty Nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSBILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSBOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSBRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSBRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSCOBALT:
-  name: '&x&9&E&9&E&9&EKobaltowe&x&4&2&C&8&F&5 płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSCOPPER:
-  name: '&x&C&9&9&7&3&2Miedziane&x&4&2&C&8&F&5 Płyty nagolenników'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSCOPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSDAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal damasceńska&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSDURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSEARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSFERROSILICON:
-  name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSFORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSGOLD:
-  name: '&x&F&F&E&1&3&8Złote&x&4&2&C&8&F&5 Płyty nagolenników'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSGOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSHARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSINFINITE:
@@ -3645,14 +3050,12 @@ PART_PLATES_LEGGINGSIRIDIUM:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSIRON:
-  name: '&x&8&C&8&C&8&CŻelazne&x&4&2&C&8&F&5 Płyty nagolenników'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSIRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSLEAD:
-  name: '&x&9&0&4&3&B&AOłowiane&x&4&2&C&8&F&5 Płyty nagolenników'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSLEAD_SINGULARITY:
@@ -3662,7 +3065,6 @@ PART_PLATES_LEGGINGSMAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSMAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowe&x&4&2&C&8&F&5 Płyty Nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
@@ -3687,40 +3089,33 @@ PART_PLATES_LEGGINGSMYTHRIL:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSNICKEL:
-  name: '&x&E&B&E&B&E&BNiklowe&x&4&2&C&8&F&5 płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSREDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Stop Czerwienitu&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSREFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSREINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSSCRAP:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSSEFIRITE:
-  name: '&x&9&B&E&B&3&4Sefiryt&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSSILVER:
-  name: '&x&D&4&D&4&D&4Srebrne&x&4&2&C&8&F&5 Płyty nagolenników'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSSILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSSMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSSOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Płyty nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSSTAINLESS_STEEL:
@@ -3730,14 +3125,12 @@ PART_PLATES_LEGGINGSSTAR_DUST:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSSTEEL:
-  name: '&x&D&1&D&1&D&1Stalowe&x&4&2&C&8&F&5 Płyty Nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSTESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSTIN:
-  name: '&x&A&8&9&B&9&BCynowe&x&4&2&C&8&F&5 Płyty Nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSTIN_SINGULARITY:
@@ -3750,7 +3143,6 @@ PART_PLATES_LEGGINGSVOID:
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSZINC:
-  name: '&x&9&B&A&8&A&6Cynkowe&x&4&2&C&8&F&5 Płyty Nogawic'
   type:
   - '&7&oKomponent'
 PART_PLATES_LEGGINGSZINC_SINGULARITY:
@@ -3766,86 +3158,69 @@ PART_REPAIR_KIT_ADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_ALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowy&x&4&2&C&8&F&5 Zestaw Naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_ALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_ALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_ANNIVERSARIUM:
-  name: '&x&3&2&B&4&1&EAnniversarium&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_BILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_BOOMERITE:
-  name: '&x&D&9&4&C&0&0Boomeryt&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_BRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_BRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_COBALT:
-  name: '&x&9&E&9&E&9&EKobaltowy&x&4&2&C&8&F&5 zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_COPPER:
-  name: '&x&C&9&9&7&3&2Miedziany&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_COPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_CORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_DAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal damasceńska&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_DUMMY:
-  name: '&eCzęść: Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_DURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_EARTH_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_FERROSILICON:
-  name: '&x&F&2&F&2&F&2Ferrosilicon&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_FORTUNE_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_GOLD:
-  name: '&x&F&F&E&1&3&8Złoty&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_GOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_HARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_INFINITE:
@@ -3858,14 +3233,12 @@ PART_REPAIR_KIT_IRIDIUM:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_IRON:
-  name: '&x&8&C&8&C&8&CŻelazny&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_IRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_LEAD:
-  name: '&x&9&0&4&3&B&AOłowiany&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_LEAD_SINGULARITY:
@@ -3875,7 +3248,6 @@ PART_REPAIR_KIT_MAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_MAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowy&x&4&2&C&8&F&5 Zestaw Naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
@@ -3900,22 +3272,18 @@ PART_REPAIR_KIT_MYTHRIL:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_NICEINIUM:
-  name: '&x&8&0&5&5&0&DNiceinium&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_NICKEL:
-  name: '&x&E&B&E&B&E&BNiklowy&x&4&2&C&8&F&5 zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_REDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Stop Czerwienitu&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_REFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_REINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_REINFORCED_DRACONIUM:
@@ -3925,22 +3293,18 @@ PART_REPAIR_KIT_SCRAP:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_SEFIRITE:
-  name: '&x&9&B&E&B&3&4Sefiryt&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_SILVER:
-  name: '&x&D&4&D&4&D&4Srebrny&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_SILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_SMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_SOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Zestaw naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_STAINLESS_STEEL:
@@ -3950,14 +3314,12 @@ PART_REPAIR_KIT_STAR_DUST:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_STEEL:
-  name: '&x&D&1&D&1&D&1Stalowy&x&4&2&C&8&F&5 Zestaw Naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_TESSERACTING_MATERIAL:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_TIN:
-  name: '&x&A&8&9&B&9&BCynowy&x&4&2&C&8&F&5 Zestaw Naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_TIN_SINGULARITY:
@@ -3970,7 +3332,6 @@ PART_REPAIR_KIT_VOID:
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_ZINC:
-  name: '&x&9&B&A&8&A&6Cynkowy&x&4&2&C&8&F&5 Zestaw Naprawczy'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_ZINC_SINGULARITY:
@@ -3983,53 +3344,42 @@ PART_ROD_ADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 PART_ROD_ALUMINUM:
-  name: '&x&B&0&B&0&B&0Aluminiowy&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_ALUMINUM_BRASS:
-  name: '&x&D&B&D&2&7&9Mosiądz aluminiowy&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_ALUMINUM_BRONZE:
-  name: '&x&B&D&A&A&6&DBrąz aluminiowy&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_ALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_ROD_BILLON:
-  name: '&x&B&0&C&2&B&EBilon&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_BRASS:
-  name: '&x&D&B&C&D&4&BMosiądz&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_BRONZE:
-  name: '&x&8&7&7&4&3&5Brąz&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_COBALT:
-  name: '&x&9&E&9&E&9&EKobaltowy&x&4&2&C&8&F&5 trzon'
   type:
   - '&7&oKomponent'
 PART_ROD_COPPER:
-  name: '&x&C&9&9&7&3&2Miedziany&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_COPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_ROD_CORINTHIAN_BRONZE:
-  name: '&x&8&A&6&5&0&0Brąz koryncki&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_DAMASCUS_STEEL:
-  name: '&x&A&3&8&C&8&CStal damasceńska&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_DURALIUM:
-  name: '&x&A&3&A&0&8&9Duralium&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_EARTH_SINGULARITY:
@@ -4042,14 +3392,12 @@ PART_ROD_GHOSTLY_ESSENCE:
   type:
   - '&7&oKomponent'
 PART_ROD_GOLD:
-  name: '&x&F&F&E&1&3&8Złoty&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_GOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_ROD_HARDENED_METAL:
-  name: '&x&2&9&2&5&1&AHartowany metal&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_INFINITE:
@@ -4059,14 +3407,12 @@ PART_ROD_IRIDIUM:
   type:
   - '&7&oKomponent'
 PART_ROD_IRON:
-  name: '&x&8&C&8&C&8&CŻelazny&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_IRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_ROD_LEAD:
-  name: '&x&9&0&4&3&B&AOłowiany&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_LEAD_SINGULARITY:
@@ -4076,7 +3422,6 @@ PART_ROD_MAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_ROD_MAGNESIUM:
-  name: '&x&E&8&C&E&F&5Magnezowy&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_MAGNESIUM_SINGULARITY:
@@ -4101,36 +3446,30 @@ PART_ROD_MYTHRIL:
   type:
   - '&7&oKomponent'
 PART_ROD_NICKEL:
-  name: '&x&E&B&E&B&E&BNikiel&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_REDSTONE_ALLOY:
-  name: '&x&7&0&0&D&2&1Stop Czerwienitu&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_REFINED_IRON:
   type:
   - '&7&oKomponent'
 PART_ROD_REINFORCED_ALLOY:
-  name: '&x&4&6&5&8&9&9Wzmocniony stop&x&4&2&C&8&F&5 trzon'
   type:
   - '&7&oKomponent'
 PART_ROD_SCRAP:
   type:
   - '&7&oKomponent'
 PART_ROD_SILVER:
-  name: '&x&D&4&D&4&D&4Srebrny&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_SILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 PART_ROD_SMITHIUM:
-  name: '&x&6&E&7&F&8&0Smithium&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_SOLDER:
-  name: '&x&B&7&A&F&B&DLut&x&4&2&C&8&F&5 Pręt'
   type:
   - '&7&oKomponent'
 PART_ROD_STAINLESS_STEEL:
@@ -4140,11 +3479,9 @@ PART_ROD_STAR_DUST:
   type:
   - '&7&oKomponent'
 PART_ROD_STEEL:
-  name: '&x&D&1&D&1&D&1Stalowy&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_TIN:
-  name: '&x&A&8&9&B&9&BCynowy&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_TIN_SINGULARITY:
@@ -4157,7 +3494,6 @@ PART_ROD_VOID:
   type:
   - '&7&oKomponent'
 PART_ROD_ZINC:
-  name: '&x&9&B&A&8&A&6Cynkowy&x&4&2&C&8&F&5 Trzonek'
   type:
   - '&7&oKomponent'
 PART_ROD_ZINC_SINGULARITY:
@@ -4167,21 +3503,18 @@ PART_SHOVEL_HEAD:
   type:
   - '&7&oKomponent'
 PART_SHOVEL_HEAD_DUMMY:
-  name: '&eCzęść: Głowica łopaty'
   type:
   - '&7&oKomponent'
 PART_SWORD_BLADE:
   type:
   - '&7&oKomponent'
 PART_SWORD_BLADE_DUMMY:
-  name: '&eCzęść: Ostrze miecza'
   type:
   - '&7&oKomponent'
 PART_TOOL_ROD:
   type:
   - '&7&oKomponent'
 PART_TOOL_ROD_DUMMY:
-  name: '&eCzęść: Pręt narzędziowy'
   type:
   - '&7&oKomponent'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -4194,51 +3527,41 @@ POISONOUS_II_TRAIT_PROP_HEAD_LEAD_SINGULARITY:
   type:
   - '&7&oKomponent'
 POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Trujący'
   type:
   - '&7&oKomponent'
 POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
-  name: '&x&B&F&3&0&7&FCecha : Pod napięciem'
   type:
   - '&7&oKomponent'
 PROP_BINDING:
-  name: '&bCzęść: Spoiwo'
   type:
   - '&7&oKomponent'
 PROP_GAMBESON:
-  name: '&bCzęść: Przeszywanica'
   type:
   - '&7&oKomponent'
 PROP_HEAD:
-  name: '&bCzęść: Głowica'
   type:
   - '&7&oKomponent'
 PROP_LINKS:
-  name: '&bCzęść: Ogniwa kolczugi'
   type:
   - '&7&oKomponent'
 PROP_PLATES:
-  name: '&bCzęść: Płyty'
   type:
   - '&7&oKomponent'
 PROP_ROD:
-  name: '&bCzęść: Pręt narzędziowy'
   type:
   - '&7&oKomponent'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:
   type:
   - '&7&oKomponent'
 PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Dostatni'
   type:
   - '&7&oKomponent'
 PROTECTIVE_TRAIT_PROP_HEAD_IRIDIUM:
   type:
   - '&7&oKomponent'
 PURIFIED_PASSION_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiona Oczyszczona Namiętność'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 RADIOACTIVE_PLATES_TRAIT_PROP_PLATES_MAG_THOR:
   type:
   - '&7&oKomponent'
@@ -4252,110 +3575,90 @@ RECYCLABLE_II_TRAIT_PROP_HEAD_ALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Nadający się do recyklingu'
   type:
   - '&7&oKomponent'
 REDSTONE_ALLOY_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony Stop Czerwienitu'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 REDSTONE_ALLOY_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Stop Czerwienitu'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 REDSTONE_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony redstone'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 REFINED_IRON_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
-  name: '&x&B&F&3&0&7&FCecha : Orzeźwiający'
   type:
   - '&7&oKomponent'
 REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
-  name: '&x&B&F&3&0&7&FCecha : Orzeźwiający'
   type:
   - '&7&oKomponent'
 REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Wzmacnialny'
   type:
   - '&7&oKomponent'
 REINFORCED_ALLOY_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony wzmocniony stop'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 REINFORCED_ALLOY_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony wzmocniony stop'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 REINFORCED_DRACONIUM_ALLOY:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 REINFORCED_DRACONIUM_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
   type:
   - '&7&oKomponent'
 REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Wzmocniony'
   type:
   - '&7&oKomponent'
 REMOTININIUM_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Odporność'
   type:
   - '&7&oKomponent'
 RUSTY_II_TRAIT_PROP_LINKS_IRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Zardzewiały'
   type:
   - '&7&oKomponent'
 SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Scarpaaarr!'
   type:
   - '&7&oKomponent'
 SCRAP_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SEARED_BRICK:
-  name: '&7Wypalona cegła'
   type:
   - '&7&oKomponent'
 SEARED_BRICK_BLOCK:
-  name: '&7Blok wypalonej cegły'
   type:
   - '&7&oKomponent'
 SEARED_TANK:
-  name: '&7Wypalony zbiornik'
   type:
   - '&7&oKomponent'
 SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 SEFIRITE_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Sefiryt'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Ostrość 1'
   type:
   - '&7&oKomponent'
 SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Ostrość 2'
   type:
   - '&7&oKomponent'
 SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Pochłanianie wstrząsów'
   type:
   - '&7&oKomponent'
 SICKLY_II_TRAIT_PROP_LINKS_LEAD_SINGULARITY:
@@ -4365,112 +3668,90 @@ SICKLY_II_TRAIT_PROP_PLATES_LEAD_SINGULARITY:
   type:
   - '&7&oKomponent'
 SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Chorobliwy'
   type:
   - '&7&oKomponent'
 SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Chorobliwy'
   type:
   - '&7&oKomponent'
 SILICON_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony krzem'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SILVER_LIQUID:
-  name: '&x&A&6&0&A&0&APłynne srebro'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SILVER_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SLIME_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony szlam'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
-  name: '&x&B&F&3&0&7&FCecha : Wolno się uczy'
   type:
   - '&7&oKomponent'
 SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
-  name: '&x&B&F&3&0&7&FCecha : Wolno się uczy'
   type:
   - '&7&oKomponent'
 SMELTERY_CONTROLLER:
-  name: '&3Kontroler odlewni'
   type:
   - '&7&oKomponent'
 SMITHIUM_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiony Smithium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SMITHIUM_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Smithium'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
   type:
   - '&7&oKomponent'
 SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Skradanie'
   type:
   - '&7&oKomponent'
 SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Ńroic'
   type:
   - '&7&oKomponent'
 SOFT_II_TRAIT_PROP_ROD_ALUMINUM_SINGULARITY:
   type:
   - '&7&oKomponent'
 SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Miękkie lądowanie'
   type:
   - '&7&oKomponent'
 SOFT_TOUCH_II_TRAIT_PROP_ROD_SILVER_SINGULARITY:
   type:
   - '&7&oKomponent'
 SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Delikatny dotyk'
   type:
   - '&7&oKomponent'
 SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Miękki'
   type:
   - '&7&oKomponent'
 SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
-  name: '&x&B&F&3&0&7&FCecha : Zasilany słonecznie'
   type:
   - '&7&oKomponent'
 SOLDER_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiona cyna lutownicza'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SOLDER_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiona cyna lutownicza'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 SPOUT:
-  name: '&7Wypalany wylew'
   type:
   - '&7&oKomponent'
 SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Sprężyny'
   type:
   - '&7&oKomponent'
 STABILITY_II_TRAIT_PROP_HEAD_IRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Stabilność'
   type:
   - '&7&oKomponent'
 STAINLESS_STEEL_ALLOY:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 STAINLESS_STEEL_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Nierdzewność'
   type:
   - '&7&oKomponent'
 STARSHINE_TRAIT_PROP_PLATES_DYNATECH_STAR_DUST:
@@ -4478,24 +3759,20 @@ STARSHINE_TRAIT_PROP_PLATES_DYNATECH_STAR_DUST:
   - '&7&oKomponent'
 STAR_DUST_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 STEADFAST_II_TRAIT_PROP_PLATES_IRON_SINGULARITY:
   type:
   - '&7&oKomponent'
 STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Niezłomność'
   type:
   - '&7&oKomponent'
 STEEL_ALLOY:
-  name: '&x&A&6&0&A&0&AStopiona Stal'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 STEEL_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiona Stal'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Sztywny'
   type:
   - '&7&oKomponent'
 STIFF_TRAIT_PROP_ROD_MIXED_METAL_INGOT:
@@ -4505,18 +3782,15 @@ STING_OF_GONDOLIN_TRAIT_PROP_ROD_MYTHRIL:
   type:
   - '&7&oKomponent'
 STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Siła'
   type:
   - '&7&oKomponent'
 STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Pilny'
   type:
   - '&7&oKomponent'
 SUPERHOT_TRAIT_PROP_LINKS_ADVANCED_ALLOY:
   type:
   - '&7&oKomponent'
 SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Ukrop'
   type:
   - '&7&oKomponent'
 SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
@@ -4526,7 +3800,6 @@ SUPER_LIGHTWEIGHT_II_TRAIT_PROP_ROD_ZINC_SINGULARITY:
   type:
   - '&7&oKomponent'
 SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Super Lekkość'
   type:
   - '&7&oKomponent'
 SWEATY_TRAIT_PROP_GAMBESON_RUBBER:
@@ -4536,7 +3809,6 @@ TARNISHED_II_TRAIT_PROP_LINKS_COPPER_SINGULARITY:
   type:
   - '&7&oKomponent'
 TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
-  name: '&x&B&F&3&0&7&FCecha : Matowy'
   type:
   - '&7&oKomponent'
 TARNISHED_TRAIT_PROP_PLATES_MAGSTEEL:
@@ -4547,7 +3819,7 @@ TERRIBLE_TRAIT_PROP_HEAD_SCRAP:
   - '&7&oKomponent'
 TESSERACTING_MATERIAL_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 THE_END_TRAIT_PROP_LINKS_VOID_INGOT:
   type:
   - '&7&oKomponent'
@@ -4555,133 +3827,114 @@ THE_STANDARD_TRAIT_PROP_PLATES_DYNATECH_STAINLESS_STEEL_INGOT:
   type:
   - '&7&oKomponent'
 THICK_TRAIT_PROP_BINDING_LEATHER:
-  name: '&x&B&F&3&0&7&FCecha : Gruby'
   type:
   - '&7&oKomponent'
 THICK_TRAIT_PROP_GAMBESON_LEATHER:
-  name: '&x&B&F&3&0&7&FCecha : Gruby'
   type:
   - '&7&oKomponent'
 THORIUM_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 TINKERS_ARMOUR_TABLE:
-  name: '&3Stół zbroi Majsterkowicza'
   type:
-  - '&7&oMaszyna'
+  - '&7&oStroj'
 TINKERS_MOD_STATION:
-  name: '&3Stacja modyfikacji Majsterkowicza'
   type:
-  - '&7&oMaszyna'
+  - '&7&oStroj'
 TINKERS_REPAIR_BENCH:
-  name: '&3Stół naprawczy Majsterkowicza'
   type:
-  - '&7&oMaszyna'
+  - '&7&oStroj'
 TINKERS_SMELTERY_CORE:
-  name: '&3Odlewnia Majsterkowicza'
   type:
   - '&7&oMultiblok'
 TINKERS_SWAPPING_STATION:
-  name: '&3Stacja wymiany Majsterkowicza'
   type:
-  - '&7&oMaszyna'
+  - '&7&oStroj'
 TINKERS_TABLE:
-  name: '&3Stół narzędziowy Majsterkowicza'
   type:
-  - '&7&oMaszyna'
+  - '&7&oStroj'
 TINKERS_WORKBENCH:
-  name: '&3Stół roboczy Majsterkowicza'
   type:
-  - '&7&oMaszyna'
+  - '&7&oStroj'
 TIN_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiona Cyna'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 TIN_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 TITANIUM_ALLOY:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 TITANIUM_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 TOOL_AXE:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_AXE_ENTRY:
-  name: '&aTopór Majsterkowicza'
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_AXE_EXP:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_HOE:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_HOE_ENTRY:
-  name: '&aMotyka Majsterkowicza'
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_HOE_EXP:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_PICKAXE:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_PICKAXE_ENTRY:
-  name: '&aKilof Majsterkowicza'
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_PICKAXE_EXP:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_SHOVEL:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_SHOVEL_ENTRY:
-  name: '&aŁopata Majsterkowicza'
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_SHOVEL_EXP:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_SWORD:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_SWORD_ENTRY:
-  name: '&aMiecz Majsterkowicza'
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOOL_SWORD_EXP:
   type:
-  - '&7&oNarzędzie'
+  - '&7&oNástroj'
 TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Nie do utrzymania'
   type:
   - '&7&oKomponent'
 TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Wzmocnienie'
   type:
   - '&7&oKomponent'
 TRICKS_TRAIT_PROP_HEAD_MAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Twardzina'
   type:
   - '&7&oKomponent'
 ULTIMANINIUM_ALLOY:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ULTIMANINIUM_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
   type:
   - '&7&oKomponent'
 VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Wampiryzm'
   type:
   - '&7&oKomponent'
 VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
@@ -4689,15 +3942,14 @@ VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
   - '&7&oKomponent'
 VEX_GEM_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 VOID_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
   type:
   - '&7&oKomponent'
 WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Ciepłokrwistość'
   type:
   - '&7&oKomponent'
 WARP_TRAIT_PROP_ROD_IRIDIUM:
@@ -4707,35 +3959,29 @@ WATER_SAFE_TRAIT_PROP_LINKS_DYNATECH_STAINLESS_STEEL_INGOT:
   type:
   - '&7&oKomponent'
 WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : WHM'
   type:
   - '&7&oKomponent'
 WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
-  name: '&x&B&F&3&0&7&FCecha : Komu potrzebne płyty naciskowe?'
   type:
   - '&7&oKomponent'
 WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
-  name: '&x&B&F&3&0&7&FCecha : Odporny na withera'
   type:
   - '&7&oKomponent'
 WIZARD_ROBES_TRAIT_PROP_PLATES_MAGIC_SINGULARITY:
   type:
   - '&7&oKomponent'
 WORKS_TRAIT_PROP_BINDING_STRING:
-  name: '&x&B&F&3&0&7&FCecha : Działa'
   type:
   - '&7&oKomponent'
 WORKS_TRAIT_PROP_GAMBESON_STRING:
-  name: '&x&B&F&3&0&7&FCecha : Działa'
   type:
   - '&7&oKomponent'
 YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
   type:
   - '&7&oKomponent'
 ZINC_LIQUID:
-  name: '&x&A&6&0&A&0&AStopiony Cynk'
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
 ZINC_SINGULARITY_LIQUID:
   type:
-  - '&7&oSurowiec'
+  - '&7&oSurovina'
