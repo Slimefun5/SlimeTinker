@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Giày
+  CHESTPLATE: Giáp Ngực
+  HELMET: Mũ Giáp
+  LEGGINGS: Quần Giáp
+lore:
+  added_by: Thêm bởi
+  binder_abbrev: 'D: '
+  gambeson_abbrev: 'G: '
+  head_abbrev: 'Đ: '
+  level: 'Cấp: '
+  links_abbrev: 'M: '
+  mod_level: ' Cấp '
+  mod_max: ' - (TỐI ĐA)'
+  modifier_slots: 'Ô Cải Biến: '
+  part_desc_1: Một bộ phận công cụ. Vô dụng khi đứng riêng nhưng có thể
+  part_desc_2: được chế thành thứ vĩ đại hơn tại
+  part_desc_3: Bàn thợ rèn.
+  part_material: 'Vật liệu : '
+  plate_abbrev: 'T: '
+  rod_abbrev: 'C: '
+  sponsored_by: Tài trợ bởi
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Hợp Kim Cao Cấp
+  ALUMINUM: Nhôm
+  ALUMINUM_BRASS: Đồng Thau Nhôm
+  ALUMINUM_BRONZE: Đồng Thanh Nhôm
+  ALUMINUM_SINGULARITY: Điểm Kỳ Dị Nhôm
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Hợp Kim Billon
+  BOOMERITE: Boomerite
+  BRASS: Đồng Thau
+  BRONZE: Đồng Thanh
+  CARBON_MESH: Lưới Cacbon
+  COAL: Than Đá
+  COBALT: Coban
+  COPPER: Đồng
+  COPPER_SINGULARITY: Điểm Kỳ Dị Đồng
+  CORINTHIAN_BRONZE: Đồng Thanh Corinth
+  CRIMSON_ROOT: Rễ Đỏ Thẫm
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Thép Damascus
+  DAXI_ABSORPTION: Daxi Hấp Thụ
+  DAXI_FORTITUDE: Daxi Kiên Cường
+  DAXI_REGENERATION: Daxi Hồi Phục
+  DAXI_SATURATION: Daxi No Đủ
+  DAXI_STRENGTH: Daxi Sức Mạnh
+  DETAILED_DEVOTION: Lòng Sùng Kính Tinh Tế
+  DIAMOND: Kim Cương
+  DIAMOND_SINGULARITY: Điểm Kỳ Dị Kim Cương
+  DRACONIC: Long Uy
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Điểm Kỳ Dị Đất
+  FERROSILICON: Hợp Kim Sắt Silic
+  FLOWING_FONDNESS: Tình Cảm Tuôn Trào
+  FORTUNE_SINGULARITY: Điểm Kỳ Dị May Mắn
+  GHOSTLY_ESSENCE: Tinh Chất Bóng Ma
+  GOLD: Vàng
+  GOLD_SINGULARITY: Điểm Kỳ Dị Vàng
+  HARDENED_METAL: Kim Loại Tôi Cứng
+  INFINITE: Vô Hạn
+  INFINITY_SINGULARITY: Điểm Kỳ Dị Vô Cực
+  INTERDIMENSIONAL_PRESENCE: Hiện Diện Liên Chiều
+  IRIDIUM: Iridi
+  IRON: Sắt
+  IRON_SINGULARITY: Điểm Kỳ Dị Sắt
+  LEAD: Chì
+  LEAD_SINGULARITY: Điểm Kỳ Dị Chì
+  LEATHER: Da Thuộc
+  LIQUID_CHRISTMAS: Giáng Sinh Lỏng
+  LIQUID_LOVE: Tình Yêu Lỏng
+  MAGIC_SINGULARITY: Điểm Kỳ Dị Ma Thuật
+  MAGNESIUM: Magie
+  MAGNESIUM_SINGULARITY: Điểm Kỳ Dị Magie
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Thép Magie
+  MAG_THOR: Mag-Thor
+  METAL_SINGULARITY: Điểm Kỳ Dị Kim Loại
+  MIXED_METAL: Kim Loại Hỗn Hợp
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Niken
+  OSMIUM: Osmi
+  OSMIUM_SUPERALLOY: Siêu Hợp Kim Osmi
+  PURIFIED_PASSION: Đam Mê Tinh Khiết
+  REDSTONE: Đá Đỏ
+  REDSTONE_ALLOY: Hợp Kim Đá Đỏ
+  REFINED_IRON: Sắt Tinh Luyện
+  REINFORCED_ALLOY: Hợp Kim Gia Cường
+  REINFORCED_DRACONIUM: Draconium Gia Cường
+  REINFORCED_SLIME_STEEL: Thép Slime Gia Cường
+  REMOTININIUM: Remotininium
+  RUBBER: Cao Su
+  SCRAP: Phế Liệu
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Silic
+  SILVER: Bạc
+  SILVER_SINGULARITY: Điểm Kỳ Dị Bạc
+  SLIME: Slime
+  SLIME_STEEL: Thép Slime
+  SMITHIUM: Smithium
+  SOLDER: Thiếc Hàn
+  STAINLESS_STEEL: Thép Không Gỉ
+  STAR_DUST: Bụi Sao
+  STEEL: Thép
+  STRING: Sợi Chỉ
+  TESSERACTING_MATERIAL: Vật Liệu Siêu Khối
+  THORIUM: Thori
+  TIN: Thiếc
+  TIN_SINGULARITY: Điểm Kỳ Dị Thiếc
+  TITANIUM: Titan
+  TWISTED_VINE: Dây Leo Xoắn
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Ngọc Vex
+  VINE: Dây Leo
+  VOID: Hư Không
+  WARPED_ROOT: Rễ Vặn Vẹo
+  WEEPING_VINE: Dây Leo Rủ
+  ZINC: Kẽm
+  ZINC_SINGULARITY: Điểm Kỳ Dị Kẽm
+messages:
+  smeltery-incomplete: Lò nấu kim này chưa hoàn thiện - hãy hoàn tất khối 3x3 dựng đứng với 6 Khối Gạch Nung, một Bồn Nung và một Vòi Rót.
+modifiers:
+  DIAMOND: Kim Cương
+  EMERALD: Ngọc Lục Bảo
+  LAPIS_LAZULI: Lưu Ly
+  MOD_PLATE: Tấm Cải Biến
+  QUARTZ: Thạch Anh
+  REDSTONE: Đá Đỏ
+part-types:
+  BINDING: Dây Buộc
+  GAMBESON: Giáp Lót
+  HEAD_AXE: Đầu Rìu
+  HEAD_HOE: Đầu Cuốc
+  HEAD_PICK: Đầu Cuốc Chim
+  HEAD_SHOVEL: Đầu Xẻng
+  HEAD_SWORD: Lưỡi Kiếm
+  LINKS: Mắt Xích Giáp
+  PLATE_BOOTS: Tấm Giáp Giày
+  PLATE_CHESTPLATE: Tấm Giáp Ngực
+  PLATE_HELMET: Tấm Giáp Mũ
+  PLATE_LEGGINGS: Tấm Giáp Quần
+  REPAIR: Bộ Sửa Chữa
+  ROD: Cán Công Cụ
+tool-types:
+  AXE: Rìu
+  HOE: Cuốc
+  PICK: Cuốc Chim
+  PICKAXE: Cuốc Chim
+  SHOVEL: Xẻng
+  SWORD: Kiếm
