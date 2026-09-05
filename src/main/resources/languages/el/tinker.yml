@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Μπότες
+  CHESTPLATE: Θώρακας
+  HELMET: Κράνος
+  LEGGINGS: Περικνημίδες
+lore:
+  added_by: Προστέθηκε από
+  binder_abbrev: 'Δ: '
+  gambeson_abbrev: 'Γ: '
+  head_abbrev: 'Κ: '
+  level: 'Επίπεδο: '
+  links_abbrev: 'Κρ: '
+  mod_level: ' Επίπεδο '
+  mod_max: ' - (ΜΕΓΙΣΤΟ)'
+  modifier_slots: 'Θέσεις Τροποποιητών: '
+  part_desc_1: Μέρος εργαλείου. Άχρηστο μόνο του, αλλά μπορεί
+  part_desc_2: να γίνει κάτι σπουδαιότερο στον
+  part_desc_3: Πάγκος του Τεχνίτη.
+  part_material: 'Υλικό : '
+  plate_abbrev: 'Π: '
+  rod_abbrev: 'Ρ: '
+  sponsored_by: Με την υποστήριξη των
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Προηγμένο Κράμα
+  ALUMINUM: Αλουμίνιο
+  ALUMINUM_BRASS: Ορείχαλκος Αλουμινίου
+  ALUMINUM_BRONZE: Μπρούντζος Αλουμινίου
+  ALUMINUM_SINGULARITY: Ιδιομορφία Αλουμινίου
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Βιλόν
+  BOOMERITE: Boomerite
+  BRASS: Ορείχαλκος
+  BRONZE: Μπρούντζος
+  CARBON_MESH: Πλέγμα Άνθρακα
+  COAL: Κάρβουνο
+  COBALT: Κοβάλτιο
+  COPPER: Χαλκός
+  COPPER_SINGULARITY: Ιδιομορφία Χαλκού
+  CORINTHIAN_BRONZE: Κορινθιακός Χαλκός
+  CRIMSON_ROOT: Πορφυρή Ρίζα
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Δαμασκηνός Χάλυβας
+  DAXI_ABSORPTION: Daxi Απορρόφησης
+  DAXI_FORTITUDE: Daxi Σθένους
+  DAXI_REGENERATION: Daxi Αναγέννησης
+  DAXI_SATURATION: Daxi Κορεσμού
+  DAXI_STRENGTH: Daxi Δύναμης
+  DETAILED_DEVOTION: Λεπτουργημένη Αφοσίωση
+  DIAMOND: Διαμάντι
+  DIAMOND_SINGULARITY: Ιδιομορφία Διαμαντιού
+  DRACONIC: Δρακόνειο
+  DURALIUM: Δουράλιο
+  EARTH_SINGULARITY: Ιδιομορφία Γης
+  FERROSILICON: Σιδηροπυρίτιο
+  FLOWING_FONDNESS: Ρέουσα Τρυφερότητα
+  FORTUNE_SINGULARITY: Ιδιομορφία Τύχης
+  GHOSTLY_ESSENCE: Φαντασματική Ουσία
+  GOLD: Χρυσός
+  GOLD_SINGULARITY: Ιδιομορφία Χρυσού
+  HARDENED_METAL: Σκληρυμένο Μέταλλο
+  INFINITE: Άπειρο
+  INFINITY_SINGULARITY: Ιδιομορφία Απειρίας
+  INTERDIMENSIONAL_PRESENCE: Διαδιαστατική Παρουσία
+  IRIDIUM: Ιρίδιο
+  IRON: Σίδηρος
+  IRON_SINGULARITY: Ιδιομορφία Σιδήρου
+  LEAD: Μόλυβδος
+  LEAD_SINGULARITY: Ιδιομορφία Μολύβδου
+  LEATHER: Δέρμα
+  LIQUID_CHRISTMAS: Υγρά Χριστούγεννα
+  LIQUID_LOVE: Υγρή Αγάπη
+  MAGIC_SINGULARITY: Ιδιομορφία Μαγείας
+  MAGNESIUM: Μαγνήσιο
+  MAGNESIUM_SINGULARITY: Ιδιομορφία Μαγνησίου
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Μαγνησιοχάλυβας
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Ιδιομορφία Μετάλλου
+  MIXED_METAL: Μεικτό Μέταλλο
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Νικέλιο
+  OSMIUM: Όσμιο
+  OSMIUM_SUPERALLOY: Υπερκράμα Οσμίου
+  PURIFIED_PASSION: Εξαγνισμένο Πάθος
+  REDSTONE: Κοκκινόπετρα
+  REDSTONE_ALLOY: Κράμα Κοκκινόπετρας
+  REFINED_IRON: Επεξεργασμένος Σίδηρος
+  REINFORCED_ALLOY: Ενισχυμένο Κράμα
+  REINFORCED_DRACONIUM: Ενισχυμένο Draconium
+  REINFORCED_SLIME_STEEL: Ενισχυμένος Γλοιοχάλυβας
+  REMOTININIUM: Remotininium
+  RUBBER: Λάστιχο
+  SCRAP: Παλιοσίδερο
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Πυρίτιο
+  SILVER: Ασήμι
+  SILVER_SINGULARITY: Ιδιομορφία Ασημιού
+  SLIME: Γλοιός
+  SLIME_STEEL: Γλοιοχάλυβας
+  SMITHIUM: Smithium
+  SOLDER: Κράμα Συγκόλλησης
+  STAINLESS_STEEL: Ανοξείδωτος Χάλυβας
+  STAR_DUST: Αστρόσκονη
+  STEEL: Χάλυβας
+  STRING: Κλωστή
+  TESSERACTING_MATERIAL: Τεσσερακτικό Υλικό
+  THORIUM: Θόριο
+  TIN: Κασσίτερος
+  TIN_SINGULARITY: Ιδιομορφία Κασσιτέρου
+  TITANIUM: Τιτάνιο
+  TWISTED_VINE: Στριφτό Κλήμα
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Πετράδι Βεξ
+  VINE: Κλήμα
+  VOID: Κενό
+  WARPED_ROOT: Στρεβλή Ρίζα
+  WEEPING_VINE: Κλαίον Κλήμα
+  ZINC: Ψευδάργυρος
+  ZINC_SINGULARITY: Ιδιομορφία Ψευδαργύρου
+messages:
+  smeltery-incomplete: Αυτό το χυτήριο δεν είναι ολοκληρωμένο - συμπλήρωσε το κάθετο 3x3 με 6 Κύβους Πυρωμένου Τούβλου, μια Πυρωμένη Δεξαμενή και έναν Κρουνό.
+modifiers:
+  DIAMOND: Διαμάντι
+  EMERALD: Σμαράγδι
+  LAPIS_LAZULI: Λαζουρίτης
+  MOD_PLATE: Πλάκα Τροποποίησης
+  QUARTZ: Χαλαζίας
+  REDSTONE: Κοκκινόπετρα
+part-types:
+  BINDING: Δέσιμο
+  GAMBESON: Γκαμπεζόν
+  HEAD_AXE: Κεφαλή Τσεκουριού
+  HEAD_HOE: Κεφαλή Τσάπας
+  HEAD_PICK: Κεφαλή Αξίνας
+  HEAD_SHOVEL: Κεφαλή Φτυαριού
+  HEAD_SWORD: Λεπίδα Σπαθιού
+  LINKS: Κρίκοι Αλυσίδας
+  PLATE_BOOTS: Πλάκες Μποτών
+  PLATE_CHESTPLATE: Πλάκες Θώρακα
+  PLATE_HELMET: Πλάκες Κράνους
+  PLATE_LEGGINGS: Πλάκες Περικνημίδων
+  REPAIR: Σετ Επισκευής
+  ROD: Ράβδος Εργαλείου
+tool-types:
+  AXE: Τσεκούρι
+  HOE: Τσάπα
+  PICK: Αξίνα
+  PICKAXE: Αξίνα
+  SHOVEL: Φτυάρι
+  SWORD: Σπαθί

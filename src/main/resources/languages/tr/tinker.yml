@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Bot
+  CHESTPLATE: Göğüslük
+  HELMET: Miğfer
+  LEGGINGS: Pantolon
+lore:
+  added_by: Ekleyen
+  binder_abbrev: 'Ba: '
+  gambeson_abbrev: 'G: '
+  head_abbrev: 'B: '
+  level: 'Seviye: '
+  links_abbrev: 'H: '
+  mod_level: ' Seviye '
+  mod_max: ' - (AZAMİ)'
+  modifier_slots: 'Değiştirici Yuvaları: '
+  part_desc_1: Bir alet parçası. Tek başına işe yaramaz ama
+  part_desc_2: daha büyük bir şeye dönüştürülebilir
+  part_desc_3: Zanaatkâr Masası.
+  part_material: 'Malzeme : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'S: '
+  sponsored_by: Sponsor
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Gelişmiş Alaşım
+  ALUMINUM: Alüminyum
+  ALUMINUM_BRASS: Alüminyum Pirinci
+  ALUMINUM_BRONZE: Alüminyum Bronzu
+  ALUMINUM_SINGULARITY: Alüminyum Tekilliği
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerite
+  BRASS: Pirinç
+  BRONZE: Bronz
+  CARBON_MESH: Karbon Örgü
+  COAL: Kömür
+  COBALT: Kobalt
+  COPPER: Bakır
+  COPPER_SINGULARITY: Bakır Tekilliği
+  CORINTHIAN_BRONZE: Korint Bronzu
+  CRIMSON_ROOT: Kızıl Kök
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Şam Çeliği
+  DAXI_ABSORPTION: Emilim Daxi
+  DAXI_FORTITUDE: Metanet Daxi
+  DAXI_REGENERATION: Yenilenme Daxi
+  DAXI_SATURATION: Doygunluk Daxi
+  DAXI_STRENGTH: Güç Daxi
+  DETAILED_DEVOTION: İşlenmiş Adanmışlık
+  DIAMOND: Elmas
+  DIAMOND_SINGULARITY: Elmas Tekilliği
+  DRACONIC: Ejderha Özü
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Toprak Tekilliği
+  FERROSILICON: Ferrosilisyum
+  FLOWING_FONDNESS: Akan Sevecenlik
+  FORTUNE_SINGULARITY: Talih Tekilliği
+  GHOSTLY_ESSENCE: Hayalet Özü
+  GOLD: Altın
+  GOLD_SINGULARITY: Altın Tekilliği
+  HARDENED_METAL: Sertleştirilmiş Metal
+  INFINITE: Sonsuz
+  INFINITY_SINGULARITY: Sonsuzluk Tekilliği
+  INTERDIMENSIONAL_PRESENCE: Boyutlar Arası Varlık
+  IRIDIUM: İridyum
+  IRON: Demir
+  IRON_SINGULARITY: Demir Tekilliği
+  LEAD: Kurşun
+  LEAD_SINGULARITY: Kurşun Tekilliği
+  LEATHER: Deri
+  LIQUID_CHRISTMAS: Sıvı Noel
+  LIQUID_LOVE: Sıvı Sevgi
+  MAGIC_SINGULARITY: Büyü Tekilliği
+  MAGNESIUM: Magnezyum
+  MAGNESIUM_SINGULARITY: Magnezyum Tekilliği
+  MAGNONIUM: Magnonium
+  MAGSTEEL: MagÇelik
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Metal Tekilliği
+  MIXED_METAL: Karışık Metal
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nikel
+  OSMIUM: Osmiyum
+  OSMIUM_SUPERALLOY: Osmiyum Süperalaşımı
+  PURIFIED_PASSION: Arınmış Tutku
+  REDSTONE: Kızıltaş
+  REDSTONE_ALLOY: Kızıltaş Alaşımı
+  REFINED_IRON: İşlenmiş Demir
+  REINFORCED_ALLOY: Güçlendirilmiş Alaşım
+  REINFORCED_DRACONIUM: Güçlendirilmiş Draconium
+  REINFORCED_SLIME_STEEL: Güçlendirilmiş Balçık Çeliği
+  REMOTININIUM: Remotininium
+  RUBBER: Kauçuk
+  SCRAP: Hurda
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Silisyum
+  SILVER: Gümüş
+  SILVER_SINGULARITY: Gümüş Tekilliği
+  SLIME: Balçık
+  SLIME_STEEL: Balçık Çeliği
+  SMITHIUM: Smithium
+  SOLDER: Lehim
+  STAINLESS_STEEL: Paslanmaz Çelik
+  STAR_DUST: Yıldız Tozu
+  STEEL: Çelik
+  STRING: İp
+  TESSERACTING_MATERIAL: Tesseract Maddesi
+  THORIUM: Toryum
+  TIN: Kalay
+  TIN_SINGULARITY: Kalay Tekilliği
+  TITANIUM: Titanyum
+  TWISTED_VINE: Burkulmuş Sarmaşık
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vex Mücevheri
+  VINE: Sarmaşık
+  VOID: Boşluk
+  WARPED_ROOT: Çarpık Kök
+  WEEPING_VINE: Ağlayan Sarmaşık
+  ZINC: Çinko
+  ZINC_SINGULARITY: Çinko Tekilliği
+messages:
+  smeltery-incomplete: Bu ergitme ocağı tamamlanmadı - dikey 3x3'ü 6 Kavrulmuş Tuğla Bloğu, bir Kavrulmuş Depo ve bir Oluk ile tamamla.
+modifiers:
+  DIAMOND: Elmas
+  EMERALD: Zümrüt
+  LAPIS_LAZULI: Lapis Lazuli
+  MOD_PLATE: Değişim Plakası
+  QUARTZ: Kuvars
+  REDSTONE: Kızıltaş
+part-types:
+  BINDING: Bağ
+  GAMBESON: Gambison
+  HEAD_AXE: Balta Başlığı
+  HEAD_HOE: Çapa Başlığı
+  HEAD_PICK: Kazma Başlığı
+  HEAD_SHOVEL: Kürek Başlığı
+  HEAD_SWORD: Kılıç Ağzı
+  LINKS: Zincir Halkaları
+  PLATE_BOOTS: Bot Plakaları
+  PLATE_CHESTPLATE: Göğüslük Plakaları
+  PLATE_HELMET: Miğfer Plakaları
+  PLATE_LEGGINGS: Pantolon Plakaları
+  REPAIR: Onarım Kiti
+  ROD: Alet Sapı
+tool-types:
+  AXE: Balta
+  HOE: Çapa
+  PICK: Kazma
+  PICKAXE: Kazma
+  SHOVEL: Kürek
+  SWORD: Kılıç
