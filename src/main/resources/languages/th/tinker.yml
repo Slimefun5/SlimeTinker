@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: รองเท้าเกราะ
+  CHESTPLATE: เกราะอก
+  HELMET: หมวกเกราะ
+  LEGGINGS: เกราะขา
+lore:
+  added_by: เพิ่มโดย
+  binder_abbrev: 'ต: '
+  gambeson_abbrev: 'ส: '
+  head_abbrev: 'หว: '
+  level: 'ระดับ: '
+  links_abbrev: 'ห: '
+  mod_level: ' ระดับ '
+  mod_max: ' - (สูงสุด)'
+  modifier_slots: 'ช่องดัดแปลง: '
+  part_desc_1: ชิ้นส่วนเครื่องมือ ลำพังตัวมันเองไร้ประโยชน์ แต่
+  part_desc_2: ถูกแปรเป็นสิ่งที่ยิ่งใหญ่กว่าได้ที่
+  part_desc_3: โต๊ะช่างประดิษฐ์
+  part_material: 'วัสดุ : '
+  plate_abbrev: 'แ: '
+  rod_abbrev: 'ด: '
+  sponsored_by: สนับสนุนโดย
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: โลหะผสมขั้นสูง
+  ALUMINUM: อะลูมิเนียม
+  ALUMINUM_BRASS: ทองเหลืองอะลูมิเนียม
+  ALUMINUM_BRONZE: ทองสัมฤทธิ์อะลูมิเนียม
+  ALUMINUM_SINGULARITY: เอกฐานอะลูมิเนียม
+  ANNIVERSARIUM: Anniversarium
+  BILLON: บิลลอน
+  BOOMERITE: Boomerite
+  BRASS: ทองเหลือง
+  BRONZE: ทองสัมฤทธิ์
+  CARBON_MESH: ตาข่ายคาร์บอน
+  COAL: ถ่านหิน
+  COBALT: โคบอลต์
+  COPPER: ทองแดง
+  COPPER_SINGULARITY: เอกฐานทองแดง
+  CORINTHIAN_BRONZE: ทองสัมฤทธิ์โครินธ์
+  CRIMSON_ROOT: รากคริมสัน
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: เหล็กกล้าดามัสกัส
+  DAXI_ABSORPTION: Daxi แห่งการดูดซับ
+  DAXI_FORTITUDE: Daxi แห่งความทรหด
+  DAXI_REGENERATION: Daxi แห่งการฟื้นฟู
+  DAXI_SATURATION: Daxi แห่งความอิ่มเอม
+  DAXI_STRENGTH: Daxi แห่งพละกำลัง
+  DETAILED_DEVOTION: ความภักดีอันประณีต
+  DIAMOND: เพชร
+  DIAMOND_SINGULARITY: เอกฐานเพชร
+  DRACONIC: ธาตุมังกร
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: เอกฐานปฐพี
+  FERROSILICON: เฟอร์โรซิลิคอน
+  FLOWING_FONDNESS: ความเอ็นดูที่ไหลริน
+  FORTUNE_SINGULARITY: เอกฐานโชคลาภ
+  GHOSTLY_ESSENCE: แก่นสารวิญญาณ
+  GOLD: ทองคำ
+  GOLD_SINGULARITY: เอกฐานทองคำ
+  HARDENED_METAL: โลหะชุบแข็ง
+  INFINITE: ความไร้ที่สิ้นสุด
+  INFINITY_SINGULARITY: เอกฐานอนันต์
+  INTERDIMENSIONAL_PRESENCE: การดำรงอยู่ข้ามมิติ
+  IRIDIUM: อิริเดียม
+  IRON: เหล็ก
+  IRON_SINGULARITY: เอกฐานเหล็ก
+  LEAD: ตะกั่ว
+  LEAD_SINGULARITY: เอกฐานตะกั่ว
+  LEATHER: หนังสัตว์
+  LIQUID_CHRISTMAS: คริสต์มาสเหลว
+  LIQUID_LOVE: ความรักเหลว
+  MAGIC_SINGULARITY: เอกฐานเวทมนตร์
+  MAGNESIUM: แมกนีเซียม
+  MAGNESIUM_SINGULARITY: เอกฐานแมกนีเซียม
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magsteel
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: เอกฐานโลหะ
+  MIXED_METAL: โลหะผสมคละ
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: นิกเกิล
+  OSMIUM: ออสเมียม
+  OSMIUM_SUPERALLOY: โลหะผสมยิ่งยวดออสเมียม
+  PURIFIED_PASSION: ความเร่าร้อนบริสุทธิ์
+  REDSTONE: เรดสโตน
+  REDSTONE_ALLOY: โลหะผสมเรดสโตน
+  REFINED_IRON: เหล็กบริสุทธิ์
+  REINFORCED_ALLOY: โลหะผสมเสริมแรง
+  REINFORCED_DRACONIUM: Draconium เสริมแรง
+  REINFORCED_SLIME_STEEL: Slime Steel เสริมแรง
+  REMOTININIUM: Remotininium
+  RUBBER: ยาง
+  SCRAP: เศษโลหะ
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: ซิลิคอน
+  SILVER: เงิน
+  SILVER_SINGULARITY: เอกฐานเงิน
+  SLIME: สไลม์
+  SLIME_STEEL: Slime Steel
+  SMITHIUM: Smithium
+  SOLDER: ตะกั่วบัดกรี
+  STAINLESS_STEEL: เหล็กกล้าไร้สนิม
+  STAR_DUST: ผงดาว
+  STEEL: เหล็กกล้า
+  STRING: เส้นด้าย
+  TESSERACTING_MATERIAL: วัสดุเทสเซอแร็กต์
+  THORIUM: ทอเรียม
+  TIN: ดีบุก
+  TIN_SINGULARITY: เอกฐานดีบุก
+  TITANIUM: ไทเทเนียม
+  TWISTED_VINE: เถาวัลย์บิดเกลียว
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: อัญมณีเว็กซ์
+  VINE: เถาวัลย์
+  VOID: ห้วงว่าง
+  WARPED_ROOT: รากวอร์ป
+  WEEPING_VINE: เถาวัลย์ร่ำไห้
+  ZINC: สังกะสี
+  ZINC_SINGULARITY: เอกฐานสังกะสี
+messages:
+  smeltery-incomplete: เตาหลอมนี้ยังไม่เสร็จ - ต่อผนังแนวตั้ง 3x3 ให้ครบด้วยบล็อกอิฐเผา 6 ก้อน ถังอิฐเผา 1 ใบ และพวยเท 1 อัน
+modifiers:
+  DIAMOND: เพชร
+  EMERALD: มรกต
+  LAPIS_LAZULI: ลาพิสลาซูลี
+  MOD_PLATE: แผ่นดัดแปลง
+  QUARTZ: ควอตซ์
+  REDSTONE: เรดสโตน
+part-types:
+  BINDING: ตัวยึด
+  GAMBESON: เสื้อบุนวม
+  HEAD_AXE: หัวขวาน
+  HEAD_HOE: หัวจอบ
+  HEAD_PICK: หัวอีเต้อ
+  HEAD_SHOVEL: หัวพลั่ว
+  HEAD_SWORD: ใบดาบ
+  LINKS: ห่วงโซ่เกราะ
+  PLATE_BOOTS: แผ่นเกราะรองเท้า
+  PLATE_CHESTPLATE: แผ่นเกราะอก
+  PLATE_HELMET: แผ่นเกราะหมวก
+  PLATE_LEGGINGS: แผ่นเกราะขา
+  REPAIR: ชุดซ่อม
+  ROD: ด้ามเครื่องมือ
+tool-types:
+  AXE: ขวาน
+  HOE: จอบ
+  PICK: อีเต้อ
+  PICKAXE: อีเต้อ
+  SHOVEL: พลั่ว
+  SWORD: ดาบ
