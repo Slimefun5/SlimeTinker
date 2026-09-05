@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: حذاء
+  CHESTPLATE: درع صدر
+  HELMET: خوذة
+  LEGGINGS: سروال
+lore:
+  added_by: أضافه
+  binder_abbrev: 'رب: '
+  gambeson_abbrev: 'ج: '
+  head_abbrev: 'ر: '
+  level: 'المستوى: '
+  links_abbrev: 'ح: '
+  mod_level: ' المستوى '
+  mod_max: ' - (الأقصى)'
+  modifier_slots: 'خانات التعديل: '
+  part_desc_1: جزء أداة. عديم الفائدة وحده لكن يمكن
+  part_desc_2: أن يُصنع منه ما هو أعظم في
+  part_desc_3: طاولة الصانع.
+  part_material: 'المادة : '
+  plate_abbrev: 'ص: '
+  rod_abbrev: 'ق: '
+  sponsored_by: برعاية
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: سبيكة متقدّمة
+  ALUMINUM: ألومنيوم
+  ALUMINUM_BRASS: نحاس أصفر ألومنيومي
+  ALUMINUM_BRONZE: برونز ألومنيومي
+  ALUMINUM_SINGULARITY: تفرّد الألومنيوم
+  ANNIVERSARIUM: Anniversarium
+  BILLON: بيلون
+  BOOMERITE: Boomerite
+  BRASS: نحاس أصفر
+  BRONZE: برونز
+  CARBON_MESH: شبكة كربون
+  COAL: فحم
+  COBALT: كوبالت
+  COPPER: نحاس
+  COPPER_SINGULARITY: تفرّد النحاس
+  CORINTHIAN_BRONZE: برونز كورنثي
+  CRIMSON_ROOT: جذر قرمزي
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: فولاذ دمشقي
+  DAXI_ABSORPTION: Daxi الامتصاص
+  DAXI_FORTITUDE: Daxi الجَلَد
+  DAXI_REGENERATION: Daxi التجدّد
+  DAXI_SATURATION: Daxi الشِبَع
+  DAXI_STRENGTH: Daxi القوّة
+  DETAILED_DEVOTION: إخلاص مُتقن
+  DIAMOND: ألماس
+  DIAMOND_SINGULARITY: تفرّد الألماس
+  DRACONIC: تنّيني
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: تفرّد الأرض
+  FERROSILICON: فيروسيليكون
+  FLOWING_FONDNESS: مودّة متدفّقة
+  FORTUNE_SINGULARITY: تفرّد الحظ
+  GHOSTLY_ESSENCE: جوهر شبحي
+  GOLD: ذهب
+  GOLD_SINGULARITY: تفرّد الذهب
+  HARDENED_METAL: معدن مُقسّى
+  INFINITE: لانهائي
+  INFINITY_SINGULARITY: تفرّد اللانهاية
+  INTERDIMENSIONAL_PRESENCE: حضور بين الأبعاد
+  IRIDIUM: إيريديوم
+  IRON: حديد
+  IRON_SINGULARITY: تفرّد الحديد
+  LEAD: رصاص
+  LEAD_SINGULARITY: تفرّد الرصاص
+  LEATHER: جلد
+  LIQUID_CHRISTMAS: سائل الميلاد
+  LIQUID_LOVE: سائل الحب
+  MAGIC_SINGULARITY: تفرّد السحر
+  MAGNESIUM: مغنيسيوم
+  MAGNESIUM_SINGULARITY: تفرّد المغنيسيوم
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magsteel
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: تفرّد المعدن
+  MIXED_METAL: معدن مخلوط
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: نيكل
+  OSMIUM: أوزميوم
+  OSMIUM_SUPERALLOY: سبيكة أوزميوم فائقة
+  PURIFIED_PASSION: شغف مُصفّى
+  REDSTONE: حجر أحمر
+  REDSTONE_ALLOY: سبيكة الحجر الأحمر
+  REFINED_IRON: حديد مُنقّى
+  REINFORCED_ALLOY: سبيكة مُعزّزة
+  REINFORCED_DRACONIUM: Draconium مُعزّز
+  REINFORCED_SLIME_STEEL: فولاذ هلامي مُعزّز
+  REMOTININIUM: Remotininium
+  RUBBER: مطاط
+  SCRAP: خردة
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: سيليكون
+  SILVER: فضة
+  SILVER_SINGULARITY: تفرّد الفضة
+  SLIME: هلام
+  SLIME_STEEL: فولاذ هلامي
+  SMITHIUM: Smithium
+  SOLDER: لحام
+  STAINLESS_STEEL: فولاذ مقاوم للصدأ
+  STAR_DUST: غبار النجوم
+  STEEL: فولاذ
+  STRING: خيط
+  TESSERACTING_MATERIAL: مادة رباعية الأبعاد
+  THORIUM: ثوريوم
+  TIN: قصدير
+  TIN_SINGULARITY: تفرّد القصدير
+  TITANIUM: تيتانيوم
+  TWISTED_VINE: لبلاب ملتوٍ
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: جوهرة المُزعج
+  VINE: لبلاب
+  VOID: فراغ
+  WARPED_ROOT: جذر مشوّه
+  WEEPING_VINE: لبلاب باكٍ
+  ZINC: زنك
+  ZINC_SINGULARITY: تفرّد الزنك
+messages:
+  smeltery-incomplete: لم يكتمل هذا المصهر - أكمل الشبكة الرأسية 3x3 بستّ كتل من الطوب المحروق، وخزّان محروق، وصنبور.
+modifiers:
+  DIAMOND: ألماس
+  EMERALD: زمرّد
+  LAPIS_LAZULI: لازورد
+  MOD_PLATE: صفيحة تعديل
+  QUARTZ: كوارتز
+  REDSTONE: حجر أحمر
+part-types:
+  BINDING: رباط
+  GAMBESON: جُبّة مبطّنة
+  HEAD_AXE: رأس فأس
+  HEAD_HOE: رأس معزقة
+  HEAD_PICK: رأس معول
+  HEAD_SHOVEL: رأس مجرفة
+  HEAD_SWORD: نصل سيف
+  LINKS: حلقات زَرَد
+  PLATE_BOOTS: صفائح حذاء
+  PLATE_CHESTPLATE: صفائح درع صدر
+  PLATE_HELMET: صفائح خوذة
+  PLATE_LEGGINGS: صفائح سروال
+  REPAIR: عُدّة إصلاح
+  ROD: قضيب أداة
+tool-types:
+  AXE: فأس
+  HOE: معزقة
+  PICK: معول
+  PICKAXE: معول
+  SHOVEL: مجرفة
+  SWORD: سيف

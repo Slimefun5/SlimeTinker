@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: 부츠
+  CHESTPLATE: 흉갑
+  HELMET: 투구
+  LEGGINGS: 바지
+lore:
+  added_by: 추가한 곳
+  binder_abbrev: '결: '
+  gambeson_abbrev: '누: '
+  head_abbrev: '머: '
+  level: '레벨: '
+  links_abbrev: '고: '
+  mod_level: ' 레벨 '
+  mod_max: ' - (최대)'
+  modifier_slots: '개조 슬롯: '
+  part_desc_1: 도구 부품입니다. 그 자체로는 쓸모없지만
+  part_desc_2: '다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  part_desc_3: 팅커의 작업대.
+  part_material: '재료 : '
+  plate_abbrev: '판: '
+  rod_abbrev: '손: '
+  sponsored_by: 후원
+materials:
+  ADAMANTITE: 아다만타이트
+  ADVANCED_ALLOY: 고급 합금
+  ALUMINUM: 알루미늄
+  ALUMINUM_BRASS: 알루미늄 황동
+  ALUMINUM_BRONZE: 알루미늄 청동
+  ALUMINUM_SINGULARITY: 알루미늄 특이점
+  ANNIVERSARIUM: 애니버사륨
+  BILLON: 빌론
+  BOOMERITE: 부메라이트
+  BRASS: 황동
+  BRONZE: 청동
+  CARBON_MESH: 탄소 메시
+  COAL: 석탄
+  COBALT: 코발트
+  COPPER: 구리
+  COPPER_SINGULARITY: 구리 특이점
+  CORINTHIAN_BRONZE: 코린토스 청동
+  CRIMSON_ROOT: 진홍빛 뿌리
+  CRINGLEIUM: 크링글륨
+  DAMASCUS_STEEL: 다마스쿠스 강철
+  DAXI_ABSORPTION: 닥시 흡수
+  DAXI_FORTITUDE: 닥시 불굴
+  DAXI_REGENERATION: 닥시 재생
+  DAXI_SATURATION: 닥시 포만
+  DAXI_STRENGTH: 닥시 힘
+  DETAILED_DEVOTION: 섬세한 헌신
+  DIAMOND: 다이아몬드
+  DIAMOND_SINGULARITY: 다이아몬드 특이점
+  DRACONIC: 드라코닉
+  DURALIUM: 두랄륨
+  EARTH_SINGULARITY: 대지 특이점
+  FERROSILICON: 페로실리콘
+  FLOWING_FONDNESS: 흐르는 애정
+  FORTUNE_SINGULARITY: 행운 특이점
+  GHOSTLY_ESSENCE: 유령의 정수
+  GOLD: 금
+  GOLD_SINGULARITY: 금 특이점
+  HARDENED_METAL: 경화 금속
+  INFINITE: 무한
+  INFINITY_SINGULARITY: 무한 특이점
+  INTERDIMENSIONAL_PRESENCE: 차원 간 존재
+  IRIDIUM: 이리듐
+  IRON: 철
+  IRON_SINGULARITY: 철 특이점
+  LEAD: 납
+  LEAD_SINGULARITY: 납 특이점
+  LEATHER: 가죽
+  LIQUID_CHRISTMAS: 액체 크리스마스
+  LIQUID_LOVE: 액체 사랑
+  MAGIC_SINGULARITY: 마법 특이점
+  MAGNESIUM: 마그네슘
+  MAGNESIUM_SINGULARITY: 마그네슘 특이점
+  MAGNONIUM: 마그노늄
+  MAGSTEEL: 마그강철
+  MAG_THOR: 마그토르
+  METAL_SINGULARITY: 금속 특이점
+  MIXED_METAL: 혼합 금속
+  MYTHRIL: 미스릴
+  NICEINIUM: 나이스늄
+  NICKEL: 니켈
+  OSMIUM: 오스뮴
+  OSMIUM_SUPERALLOY: 오스뮴 초합금
+  PURIFIED_PASSION: 정제된 열정
+  REDSTONE: 레드스톤
+  REDSTONE_ALLOY: 레드스톤 합금
+  REFINED_IRON: 정제된 철
+  REINFORCED_ALLOY: 강화 합금
+  REINFORCED_DRACONIUM: 강화 드라코늄
+  REINFORCED_SLIME_STEEL: 강화 슬라임 강철
+  REMOTININIUM: 리모티니늄
+  RUBBER: 고무
+  SCRAP: 고철
+  SEFIRITE: 세피라이트
+  SEGGANESSON: 세가네슨
+  SILICON: 규소
+  SILVER: 은
+  SILVER_SINGULARITY: 은 특이점
+  SLIME: 슬라임
+  SLIME_STEEL: 슬라임 강철
+  SMITHIUM: 스미슘
+  SOLDER: 땜납
+  STAINLESS_STEEL: 스테인리스강
+  STAR_DUST: 별가루
+  STEEL: 강철
+  STRING: 실
+  TESSERACTING_MATERIAL: 초입방체 물질
+  THORIUM: 토륨
+  TIN: 주석
+  TIN_SINGULARITY: 주석 특이점
+  TITANIUM: 티타늄
+  TWISTED_VINE: 뒤틀린 덩굴
+  ULTIMANINIUM: 얼티마니늄
+  UNPATENTABLIUM: 언페이턴타빌룸
+  VEX_GEM: 벡스 보석
+  VINE: 덩굴
+  VOID: 공허
+  WARPED_ROOT: 뒤틀린 뿌리
+  WEEPING_VINE: 우는 덩굴
+  ZINC: 아연
+  ZINC_SINGULARITY: 아연 특이점
+messages:
+  smeltery-incomplete: 이 제련소는 아직 완성되지 않았습니다 - 수직 3x3을 구운 벽돌 블록 6개, 구운 저장조 1개, 주입구 1개로 채우세요.
+modifiers:
+  DIAMOND: 다이아몬드
+  EMERALD: 에메랄드
+  LAPIS_LAZULI: 청금석
+  MOD_PLATE: 개조 판
+  QUARTZ: 석영
+  REDSTONE: 레드스톤
+part-types:
+  BINDING: 결속재
+  GAMBESON: 누비옷
+  HEAD_AXE: 도끼 머리
+  HEAD_HOE: 괭이 머리
+  HEAD_PICK: 곡괭이 머리
+  HEAD_SHOVEL: 삽 머리
+  HEAD_SWORD: 검 날
+  LINKS: 사슬 고리
+  PLATE_BOOTS: 부츠 판
+  PLATE_CHESTPLATE: 흉갑 판
+  PLATE_HELMET: 투구 판
+  PLATE_LEGGINGS: 바지 판
+  REPAIR: 수리 키트
+  ROD: 도구 손잡이
+tool-types:
+  AXE: 도끼
+  HOE: 괭이
+  PICK: 곡괭이
+  PICKAXE: 곡괭이
+  SHOVEL: 삽
+  SWORD: 검

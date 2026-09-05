@@ -1,3987 +1,8865 @@
 10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
+  description:
+  - '&7(슬라임)펀 10주년!'
+  - ''
+  - '&7방어구 네 부위 모두가 필요합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f(슬라임)펀 10주년!'
   type:
   - '&7&o부품'
 ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7타격한 몹은 일정 확률로'
+  - '&7무작위로 순간이동됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f아브라'
   type:
   - '&7&o부품'
 ACUPUNCTURE_II_TRAIT_PROP_LINKS_ZINC_SINGULARITY:
+  description:
+  - '&7선인장 가시가 당신을 치유합니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f침술 II'
   type:
   - '&7&o부품'
 ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
+  description:
+  - '&7선인장 가시에 피해를 받지 않습니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f침술'
   type:
   - '&7&o부품'
 ADAMANTITE_LIQUID:
+  description:
+  - '&7아다만타이트로 이루어진 용융 상태입니다.'
+  name: '&f용융 아다만타이트'
   type:
   - '&7&o자원'
 ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
+  description:
+  - '&7모든 폭발에 면역이 됩니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f완강함'
   type:
   - '&7&o부품'
 ADVANCED_ALLOY_LIQUID:
+  description:
+  - '&7고급 합금으로 이루어진 용융 상태입니다.'
+  name: '&f용융 고급 합금'
   type:
   - '&7&o자원'
 ALL_THAT_GLITTERS_II_TRAIT_PROP_ROD_GOLD_SINGULARITY:
+  description:
+  - '&7반짝반짝, 게다가 무지갯빛까지...'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f반짝이는 모든 것 II'
   type:
   - '&7&o부품'
 ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
+  description:
+  - '&7온몸이 반짝반짝해집니다...'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f반짝이는 모든 것'
   type:
   - '&7&o부품'
 ALUMINUM_BRASS_ALLOY:
+  description:
+  - '&7알루미늄 황동으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 알루미늄 황동'
   type:
   - '&7&o자원'
 ALUMINUM_BRASS_LIQUID:
+  description:
+  - '&7알루미늄 황동으로 이루어진 용융 상태입니다.'
+  name: '&f용융 알루미늄 황동'
   type:
   - '&7&o자원'
 ALUMINUM_BRONZE_ALLOY:
+  description:
+  - '&7알루미늄 청동으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 알루미늄 청동'
   type:
   - '&7&o자원'
 ALUMINUM_BRONZE_LIQUID:
+  description:
+  - '&7알루미늄 청동으로 이루어진 용융 상태입니다.'
+  name: '&f용융 알루미늄 청동'
   type:
   - '&7&o자원'
 ALUMINUM_LIQUID:
+  description:
+  - '&7알루미늄으로 이루어진 용융 상태입니다.'
+  name: '&f용융 알루미늄'
   type:
   - '&7&o자원'
 ALUMINUM_SINGULARITY_LIQUID:
+  description:
+  - '&7알루미늄 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 알루미늄 특이점'
   type:
   - '&7&o자원'
 ANNIVERSARIUM_ALLOY:
+  description:
+  - '&7애니버사륨으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 애니버사륨'
   type:
   - '&7&o자원'
 ANNIVERSARIUM_LIQUID:
+  description:
+  - '&7애니버사륨으로 이루어진 용융 상태입니다.'
+  name: '&f용융 애니버사륨'
   type:
   - '&7&o자원'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
+  description:
+  - '&7벡스 보석을 이렇게 쓰면 안 됩니다!'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f성가심'
   type:
   - '&7&o부품'
 ARMOUR_BOOTS:
+  description:
+  - '&7세 부품으로 만들어진 부츠 한 켤레입니다.'
+  - '&7팅커의 방어구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7부서지면 착용이 해제됩니다.'
+  name: '&f팅커의 부츠'
   type:
   - '&7&o갑옷'
 ARMOUR_BOOTS_ENTRY:
+  description:
+  - '&7세 부품으로 만들어진 부츠 한 켤레입니다.'
+  - '&7팅커의 방어구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7부서지면 착용이 해제됩니다.'
+  - '&7인벤토리에 자리가 없으면'
+  - '&7아이템이 바닥에 떨어집니다'
+  name: '&f팅커의 부츠'
   type:
   - '&7&o갑옷'
 ARMOUR_CHESTPLATE:
+  description:
+  - '&7세 부품으로 만들어진 흉갑입니다.'
+  - '&7팅커의 방어구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7부서지면 착용이 해제됩니다.'
+  name: '&f팅커의 흉갑'
   type:
   - '&7&o갑옷'
 ARMOUR_CHESTPLATE_ENTRY:
+  description:
+  - '&7세 부품으로 만들어진 흉갑입니다.'
+  - '&7팅커의 방어구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7부서지면 착용이 해제됩니다.'
+  - '&7인벤토리에 자리가 없으면'
+  - '&7아이템이 바닥에 떨어집니다'
+  name: '&f팅커의 흉갑'
   type:
   - '&7&o갑옷'
 ARMOUR_HELM:
+  description:
+  - '&7세 부품으로 만들어진 투구입니다.'
+  - '&7팅커의 방어구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7부서지면 착용이 해제됩니다.'
+  name: '&f팅커의 투구'
   type:
   - '&7&o갑옷'
 ARMOUR_HELMET_ENTRY:
+  description:
+  - '&7세 부품으로 만들어진 투구입니다.'
+  - '&7팅커의 방어구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7부서지면 착용이 해제됩니다.'
+  - '&7인벤토리에 자리가 없으면'
+  - '&7아이템이 바닥에 떨어집니다'
+  name: '&f팅커의 투구'
   type:
   - '&7&o갑옷'
 ARMOUR_LEGGINGS:
+  description:
+  - '&7세 부품으로 만들어진 바지입니다.'
+  - '&7팅커의 방어구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7부서지면 착용이 해제됩니다.'
+  name: '&f팅커의 바지'
   type:
   - '&7&o갑옷'
 ARMOUR_LEGGINGS_ENTRY:
+  description:
+  - '&7세 부품으로 만들어진 바지입니다.'
+  - '&7팅커의 방어구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7부서지면 착용이 해제됩니다.'
+  - '&7인벤토리에 자리가 없으면'
+  - '&7아이템이 바닥에 떨어집니다'
+  name: '&f팅커의 바지'
   type:
   - '&7&o갑옷'
 ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
+  description:
+  - '&7모든 드롭이 당신에게 끌려옵니다.'
+  - '&75블록 범위.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f인력'
   type:
   - '&7&o부품'
 ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
+  description:
+  - '&7주변 (5x5 범위)의 드롭이 당신에게 끌려옵니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f인력'
   type:
   - '&7&o부품'
 BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
+  description:
+  - '&7내구도 소모 +200%. 피해가 1-25% 감소합니다'
+  - '&7내구도가 줄수록 확률이 낮아집니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f띠'
   type:
   - '&7&o부품'
 BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
+  description:
+  - '&7피글린이 당신의 갑옷을 정말 좋아합니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f물물교환 II'
   type:
   - '&7&o부품'
 BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
+  description:
+  - '&7피글린이 당신의 갑옷을 좋아합니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f물물교환'
   type:
   - '&7&o부품'
 BEAUTIFUL_TRAIT_PROP_LINKS_FORTUNE_SINGULARITY:
+  description:
+  - '&7걸을 때 꽃이 자라날 확률이 있습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f아름다움'
   type:
   - '&7&o부품'
 BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7걸을 때 꽃이 자라날 확률이 있습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f아름다움'
   type:
   - '&7&o부품'
 BEGINNER_II_TRAIT_PROP_PLATES_COPPER_SINGULARITY:
+  description:
+  - '&7받는 피해 +50%. 방어구 경험치 +40%'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f초보자 II'
   type:
   - '&7&o부품'
 BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
+  description:
+  - '&7받는 피해 +25%. 방어구 경험치 +20%'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f초보자'
   type:
   - '&7&o부품'
 BILLON_ALLOY:
+  description:
+  - '&7빌론으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 빌론'
   type:
   - '&7&o자원'
 BILLON_LIQUID:
+  description:
+  - '&7빌론으로 이루어진 용융 상태입니다.'
+  name: '&f용융 빌론'
   type:
   - '&7&o자원'
 BLOCK_CAST_ADAMANTITE:
+  description:
+  - '&7아다마니타이트로 만든 블록입니다.'
+  name: '&f아다마니타이트 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_ADVANCED_ALLOY:
+  description:
+  - '&7고급 합금 블록'
+  name: '&f고급 합금 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_ALUMINUM:
+  description:
+  - '&7순수 알루미늄으로 만든 블록'
+  name: '&f알루미늄 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_ALU_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 블록'
+  name: '&f알루미늄 황동 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_ALU_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 블록'
+  name: '&f알루미늄 청동 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_ANNIVERSARIUM:
+  description:
+  - '&7(슬라임)펀 10주년!'
+  name: '&f애니버사륨 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_BILLON:
+  description:
+  - '&7빌론으로 만든 블록'
+  name: '&f빌론 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_BOOMERITE:
+  description:
+  - '&7부메라이트로 만든 블록'
+  name: '&f부메라이트 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_BRASS:
+  description:
+  - '&7황동으로 만든 블록'
+  name: '&f황동 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_BRONZE:
+  description:
+  - '&7청동으로 만든 블록'
+  name: '&f청동 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_COBALT:
+  description:
+  - '&7코발트로 만든 블록'
+  name: '&f코발트 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_COPPER:
+  description:
+  - '&7순수 구리로 만든 블록'
+  name: '&f구리 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_COR_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 블록'
+  name: '&f코린토스 청동 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_CRINGLEIUM:
+  description:
+  - '&7크링글륨으로 만든 블록'
+  name: '&f크링글륨 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_DAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 블록'
+  name: '&f다마스쿠스 강철 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_DURALIUM:
+  description:
+  - '&7두랄륨으로 만든 블록'
+  name: '&f두랄륨 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_FERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 블록'
+  name: '&f페로실리콘 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_HARD_METAL:
+  description:
+  - '&7경화 금속으로 만든 블록'
+  name: '&f경화 금속 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_INFINITY:
+  description:
+  - '&7*한숨* 무한대로 만든 블록입니다.'
+  name: '&f무한대 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_IRIDIUM:
+  description:
+  - '&7이리듐 블록'
+  name: '&f이리듐 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_LEAD:
+  description:
+  - '&7순수 납으로 만든 블록'
+  name: '&f납 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_LOVE:
+  description:
+  - '&7오직 다음의 기운만을 내뿜는 블록:'
+  - '&7순수하고 티 없는 사랑.'
+  name: '&f사랑 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_MAGNESIUM:
+  description:
+  - '&7순수 마그네슘으로 만든 블록'
+  name: '&f마그네슘 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_MAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 블록입니다.'
+  name: '&f마그노늄 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_MAGSTEEL:
+  description:
+  - '&7마그강철로 만든 블록입니다.'
+  name: '&f마그강철 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_MAG_THOR:
+  description:
+  - '&7마그토르 블록'
+  name: '&f마그토르 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_MIXED_METAL:
+  description:
+  - '&7혼합 금속 블록'
+  name: '&f혼합 금속 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_MYTHRIL:
+  description:
+  - '&7미스릴로 만든 블록입니다.'
+  name: '&f미스릴 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_NICE:
+  description:
+  - '&7나이스'
+  name: '&f나이스 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_NICKEL:
+  description:
+  - '&7니켈로 만든 블록'
+  name: '&f니켈 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_OSMIUM:
+  description:
+  - '&7오스뮴 블록'
+  name: '&f오스뮴 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  description:
+  - '&7오스뮴 초합금 블록'
+  name: '&f오스뮴 초합금 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_REDSTONE_ALLOY:
+  description:
+  - '&7레드스톤 합금으로 만든 블록'
+  name: '&f레드스톤 합금 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_REFINED_IRON:
+  description:
+  - '&7정제된 철 블록'
+  name: '&f정제된 철 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_REINFORCED:
+  description:
+  - '&7강화 합금으로 만든 블록'
+  name: '&f강화 합금 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7다음이 가득 넘쳐흐르는 블록:'
+  - '&7비할 데 없는 분노.'
+  name: '&f강화 드라코늄 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  description:
+  - '&7강화 슬라임 강철 블록'
+  name: '&f강화 슬라임 강철 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_SCRAP:
+  description:
+  - '&7고철 블록'
+  name: '&f고철 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_SEFIRITE:
+  description:
+  - '&7세피라이트로 만든 블록'
+  name: '&f세피라이트 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_SILVER:
+  description:
+  - '&7순수 은으로 만든 블록'
+  name: '&f은 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_SLIMESTEEL:
+  description:
+  - '&7슬라임 강철 블록'
+  name: '&f슬라임 강철 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_SMITHIUM:
+  description:
+  - '&7쓰임새가 다양한 평범한 금속'
+  - '&7핵심 산업 작업에 쓰입니다.'
+  name: '&f스미슘 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_SOLDER:
+  description:
+  - '&7땜납으로 만든 블록'
+  name: '&f땜납 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_STAINLESSSTEEL:
+  description:
+  - '&7스테인리스강 블록'
+  name: '&f스테인리스강 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_STEEL:
+  description:
+  - '&7순수 강철로 만든 블록'
+  name: '&f강철 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_TIN:
+  description:
+  - '&7순수 주석으로 만든 블록'
+  name: '&f주석 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_TITANIUM:
+  description:
+  - '&7티타늄으로 만든 블록입니다.'
+  name: '&f티타늄 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_UNPATENTABILUM:
+  description:
+  - '&7언페이턴타빌룸 블록'
+  name: '&f언페이턴타빌룸 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_VOID:
+  description:
+  - '&7... 공허로 만든 블록입니다?'
+  name: '&f공허 블록'
   type:
   - '&7&o자원'
 BLOCK_CAST_ZINC:
+  description:
+  - '&7순수 아연으로 만든 블록'
+  name: '&f아연 블록'
   type:
   - '&7&o자원'
 BOOMERITE_ALLOY:
+  description:
+  - '&7부메라이트로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 부메라이트'
   type:
   - '&7&o자원'
 BOOMERITE_LIQUID:
+  description:
+  - '&7부메라이트로 이루어진 용융 상태입니다.'
+  name: '&f용융 부메라이트'
   type:
   - '&7&o자원'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
+  description:
+  - '&7큰 피해를 받으면 흡수 효과를 많이 얻습니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f가속 II'
   type:
   - '&7&o부품'
 BOOST_TRAIT_PROP_LINKS_TIN_DUST:
+  description:
+  - '&7큰 피해를 받으면 흡수 효과를 얻습니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f가속'
   type:
   - '&7&o부품'
 BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
+  description:
+  - '&7낙하 피해가 절반이 됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f탱글탱글'
   type:
   - '&7&o부품'
 BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
+  description:
+  - '&7낙하 피해 -25%'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f탱글탱글'
   type:
   - '&7&o부품'
 BRAINS,_NOT_BRAWN._TRAIT_PROP_ROD_SCRAP:
+  description:
+  - '&7도구 경험치 획득이 두 배가 됩니다. 가하는'
+  - '&7피해는 절반이 됩니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f힘보다 머리.'
   type:
   - '&7&o부품'
 BRAINS,_NOT_BRAWN_II_TRAIT_PROP_HEAD_COPPER_SINGULARITY:
+  description:
+  - '&7도구 경험치 +200%, 피해 50%'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f힘보다 머리 II'
   type:
   - '&7&o부품'
 BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
+  description:
+  - '&7도구 경험치 획득이 두 배가 됩니다. 가하는'
+  - '&7피해는 절반이 됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f힘보다 머리'
   type:
   - '&7&o부품'
 BRASS_ALLOY:
+  description:
+  - '&7황동으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 황동'
   type:
   - '&7&o자원'
 BRASS_LIQUID:
+  description:
+  - '&7황동으로 이루어진 용융 상태입니다.'
+  name: '&f용융 황동'
   type:
   - '&7&o자원'
 BREAKPOINT_TRAIT_PROP_HEAD_INFINITY_SINGULARITY:
+  description:
+  - '&7부서지지 않습니다. 피해 +200%.'
+  - '&7도구 경험치 +200%, 3x3 채굴.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f한계점'
   type:
   - '&7&o부품'
 BRIGHT-BURN_TRAIT_PROP_LINKS_DYNATECH_STAR_DUST:
+  description:
+  - '&7밝게 타오름 1중첩을 부여합니다! 4 '
+  - '&7중첩되면 적대적인 몹이 밀려납니다 (보스 제외).'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f밝은 불꽃'
   type:
   - '&7&o부품'
 BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
+  description:
+  - '&7밝게 타오름 1중첩을 부여합니다! 4 '
+  - '&7중첩되면 적대적인 몹이 밀려납니다 (보스 제외).'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f광휘 연소'
   type:
   - '&7&o부품'
 BRIGHTBURN_TRAIT_PROP_PLATES_MYTHRIL:
+  description:
+  - '&7밝게 타오름 1중첩을 부여합니다! 4 '
+  - '&7중첩되면 적대적인 몹이 밀려납니다 (보스 제외).'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f광휘 연소'
   type:
   - '&7&o부품'
 BRIGHT_FURY_TRAIT_PROP_HEAD_DYNATECH_STAR_DUST:
+  description:
+  - '&7공격이 눈을 부시게 하고 실명시킵니다.'
+  - '&7위력이 50% 강해집니다.'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f밝은 분노'
   type:
   - '&7&o부품'
 BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
+  description:
+  - '&7내구도 소모가 두 배가 됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f부서지기 쉬움'
   type:
   - '&7&o부품'
 BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7내구도 소모가 두 배가 됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f부서지기 쉬움'
   type:
   - '&7&o부품'
 BRONZE_ALLOY:
+  description:
+  - '&7청동으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 청동'
   type:
   - '&7&o자원'
 BRONZE_LIQUID:
+  description:
+  - '&7청동으로 이루어진 용융 상태입니다.'
+  name: '&f용융 청동'
   type:
   - '&7&o자원'
 BUILDING_RAGE_TRAIT_PROP_LINKS_MAG_THOR:
+  description:
+  - '&7피격 시 신속 1과 성급함 1을 얻을 확률이 있습니다'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f쌓이는 분노'
   type:
   - '&7&o부품'
 BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&73x3 범위를 채굴합니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f육중함'
   type:
   - '&7&o부품'
 CALL_OF_THE_WILD_TRAIT_PROP_LINKS_MYTHRIL:
+  description:
+  - '&7피격 시 가끔 늑대를 소환해 도움을 받습니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f야생의 부름'
   type:
   - '&7&o부품'
 CAN_II_TRAIT_PROP_ROD_TIN_SINGULARITY:
+  description:
+  - '&7허기가 줄지 않음'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f깡통 II'
   type:
   - '&7&o부품'
 CAN_TRAIT_PROP_ROD_TIN_DUST:
+  description:
+  - '&7허기가 스르르 사라집니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f깡통'
   type:
   - '&7&o부품'
 CARBON_FIBRE_TRAIT_PROP_GAMBESON_RAW_CARBON_MESH:
+  description:
+  - '&7신속 +1'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f탄소 섬유'
   type:
   - '&7&o부품'
 CAST_AXE_HEAD:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f도끼 머리 주형'
+  stats:
+  - '&8Input: &e27 Units'
+  - '&8Output: &e1 Axe Head'
   type:
   - '&7&o부품'
 CAST_BLOCK:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f금속 블록 주형'
+  stats:
+  - '&8Input: &e81 Units'
+  - '&8Output: &e1 Block'
   type:
   - '&7&o부품'
 CAST_BOOT_PLATE:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f부츠 판 주형'
+  stats:
+  - '&8Input: &e36 Units'
+  - '&8Output: &e1 Set of Boot Plates'
   type:
   - '&7&o부품'
 CAST_CHEST_PLATE:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f흉갑 판 주형'
+  stats:
+  - '&8Input: &e72 Units'
+  - '&8Output: &e1 Set of Chestplate Plates'
   type:
   - '&7&o부품'
 CAST_GEM:
+  description:
+  - '&7비금속 액체용 주형입니다.'
+  name: '&f보석 주형'
+  stats:
+  - '&8Input: &e9 Units'
+  - '&8Output: &e1 Gem'
   type:
   - '&7&o부품'
 CAST_HELM_PLATE:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f투구 판 주형'
+  stats:
+  - '&8Input: &e45 Units'
+  - '&8Output: &e1 Set of Helmet Plates'
   type:
   - '&7&o부품'
 CAST_HOEHEAD:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f괭이 머리 주형'
+  stats:
+  - '&8Input: &e18 Units'
+  - '&8Output: &e1 Hoe Head'
   type:
   - '&7&o부품'
 CAST_INGOT:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f금속 주괴 주형'
+  stats:
+  - '&8Input: &e9 Units'
+  - '&8Output: &e1 Ingot'
   type:
   - '&7&o부품'
 CAST_LEG_PLATE:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f바지 판 주형'
+  stats:
+  - '&8Input: &e63 Units'
+  - '&8Output: &e1 Set of Legging Plates'
   type:
   - '&7&o부품'
 CAST_MAIL_LINK:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f사슬 고리 주형'
+  stats:
+  - '&8Input: &e18 Units'
+  - '&8Output: &e1 Set of Mail Links'
   type:
   - '&7&o부품'
 CAST_NUGGET:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f금속 조각 주형'
+  stats:
+  - '&8Input: &e1 Units'
+  - '&8Output: &e1 Nugget'
   type:
   - '&7&o부품'
 CAST_PICKAXEHEAD:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f곡괭이 머리 주형'
+  stats:
+  - '&8Input: &e27 Units'
+  - '&8Output: &e1 Pickaxe Head'
   type:
   - '&7&o부품'
 CAST_REPAIRKIT:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f수리 키트 주형'
+  stats:
+  - '&8Input: &e27 Units'
+  - '&8Output: &e1 Repair Kit'
   type:
   - '&7&o부품'
 CAST_SHOVELHEAD:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f삽 머리 주형'
+  stats:
+  - '&8Input: &e9 Units'
+  - '&8Output: &e1 Shovel Head'
   type:
   - '&7&o부품'
 CAST_SWORDBLADE:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f검 날 주형'
+  stats:
+  - '&8Input: &e18 Units'
+  - '&8Output: &e1 Sword Blade'
   type:
   - '&7&o부품'
 CAST_TOOLROD:
+  description:
+  - '&7금속용 주형입니다.'
+  name: '&f도구 손잡이 주형'
+  stats:
+  - '&8Input: &e9 Units'
+  - '&8Output: &e1 Tool Rod'
   type:
   - '&7&o부품'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
+  description:
+  - '&7축하할 시간입니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f축제'
   type:
   - '&7&o부품'
 CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
+  description:
+  - '&7혼자서는... 아무것도 하지 않습니다...'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f충전된 머리 +'
   type:
   - '&7&o부품'
 CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
+  description:
+  - '&7혼자서는... 아무것도 하지 않습니다...'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f충전된 머리 -'
   type:
   - '&7&o부품'
 CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
+  description:
+  - '&7혼자서는... 아무것도 하지 않습니다...'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f충전된 손잡이 +'
   type:
   - '&7&o부품'
 CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
+  description:
+  - '&7혼자서는... 아무것도 하지 않습니다...'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f충전된 손잡이 -'
   type:
   - '&7&o부품'
 CLEAN_CUT_TRAIT_PROP_HEAD_METAL_SINGULARITY:
+  description:
+  - '&7피해 +100%. 성급함 2'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f깔끔한 절단'
   type:
   - '&7&o부품'
 CLEAVE_TRAIT_PROP_HEAD_ADVANCED_ALLOY:
+  description:
+  - '&7공격할 때 주변의 모든 몹에게 피해를 줍니다.'
+  - '&7광역 베기 피해는 팅커 효과를 발동시키지 않습니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f광역 베기'
   type:
   - '&7&o부품'
 COAL_LIQUID:
+  description:
+  - '&7석탄으로 이루어진 용융 상태입니다.'
+  name: '&f용융 석탄'
   type:
   - '&7&o자원'
 COBALT_ALLOY:
+  description:
+  - '&7코발트로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 코발트'
   type:
   - '&7&o자원'
 COBALT_LIQUID:
+  description:
+  - '&7코발트로 이루어진 용융 상태입니다.'
+  name: '&f용융 코발트'
   type:
   - '&7&o자원'
 COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7누적되는 부위마다 추가 체력을 얻습니다.'
+  - '&7그 양은 부위별 획득량만큼'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f누적'
   type:
   - '&7&o부품'
 CONCEPTUAL_DEFENCE_TRAIT_PROP_ROD_INFINITE_INGOT:
+  description:
+  - '&7모든 피해가 절반이 됩니다 (올림).'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f개념적 방어'
   type:
   - '&7&o부품'
 CONDUCTIVE_II_TRAIT_PROP_ROD_COPPER_SINGULARITY:
+  description:
+  - '&7모든 도구 경험치가 플레이어 경험치로 전환됩니다'
+  - '&750% 보너스와 함께.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f전도성 II'
   type:
   - '&7&o부품'
 CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
+  description:
+  - '&7모든 도구 경험치가 플레이어 경험치로 전환됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f전도성'
   type:
   - '&7&o부품'
 CONDUCTIVITY_II_TRAIT_PROP_PLATES_SILVER_SINGULARITY:
+  description:
+  - '&7피격 시 폭풍을 소환할 확률이 있습니다.'
+  - '&7번개 피해가 당신을 치유합니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f전도율 II'
   type:
   - '&7&o부품'
 CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
+  description:
+  - '&7번개에 면역이며 되받아치기까지 합니다!'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f전도율'
   type:
   - '&7&o부품'
 CONDUCTOR_TRAIT_PROP_ROD_METAL_SINGULARITY:
+  description:
+  - '&7플레이어의 모든 경험치가 도구 경험치로'
+  - '&710 : 1 비율로 전환됩니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f도체'
   type:
   - '&7&o부품'
 COPPER_LIQUID:
+  description:
+  - '&7구리로 이루어진 용융 상태입니다.'
+  name: '&f용융 구리'
   type:
   - '&7&o자원'
 COPPER_SINGULARITY_LIQUID:
+  description:
+  - '&7구리 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 구리 특이점'
   type:
   - '&7&o자원'
 CORINTHIAN_BRONZE_ALLOY:
+  description:
+  - '&7코린토스 청동으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 코린토스 청동'
   type:
   - '&7&o자원'
 CORINTHIAN_BRONZE_LIQUID:
+  description:
+  - '&7코린토스 청동으로 이루어진 용융 상태입니다.'
+  name: '&f용융 코린토스 청동'
   type:
   - '&7&o자원'
 CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
+  description:
+  - '&725% 확률로 수리 비용을 돌려받습니다!'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f장인정신'
   type:
   - '&7&o부품'
 CRINGLEIUM_ALLOY:
+  description:
+  - '&7크링글륨으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 크링글륨'
   type:
   - '&7&o자원'
 CRINGLEIUM_LIQUID:
+  description:
+  - '&7크링글륨으로 이루어진 용융 상태입니다.'
+  name: '&f용융 크링글륨'
   type:
   - '&7&o자원'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7동물을 때리면 곧바로 허기가 채워집니다. 끔찍'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f날붙이'
   type:
   - '&7&o부품'
 DAMASCUS_STEEL_ALLOY:
+  description:
+  - '&7다마스쿠스 강철로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 다마스쿠스 강철'
   type:
   - '&7&o자원'
 DAMASCUS_STEEL_LIQUID:
+  description:
+  - '&7다마스쿠스 강철로 이루어진 용융 상태입니다.'
+  name: '&f용융 다마스쿠스 강철'
   type:
   - '&7&o자원'
 DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
+  description:
+  - '&7밤에 도구가 서서히 수리됩니다.'
+  - '&7개조와 중첩됩니다. 손에 들고 있어야 합니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f부패'
   type:
   - '&7&o부품'
 DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
+  description:
+  - '&7밤에 서서히 수리됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f부패'
   type:
   - '&7&o부품'
 DEFENDER_TRAIT_PROP_LINKS_MAGSTEEL:
+  description:
+  - '&7피격 시 5% 확률로 피해를 무시합니다'
+  - '&7그리고 흡수 효과를 얻습니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f수호자'
   type:
   - '&7&o부품'
 DEFLECTIVE_TRAIT_PROP_PLATES_ADAMANTITE:
+  description:
+  - '&7발사체 피해 -25%'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f굴절'
   type:
   - '&7&o부품'
 DETAILED_DEVOTION_LIQUID:
+  description:
+  - '&7섬세한 헌신으로 이루어진 용융 상태입니다.'
+  name: '&f용융 섬세한 헌신'
   type:
   - '&7&o자원'
 DIAMOND_LIQUID:
+  description:
+  - '&7다이아몬드로 이루어진 용융 상태입니다.'
+  name: '&f용융 다이아몬드'
   type:
   - '&7&o자원'
 DIAMOND_SINGULARITY_LIQUID:
+  description:
+  - '&7다이아몬드 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 다이아몬드 특이점'
   type:
   - '&7&o자원'
 DIE_AXE_HEAD:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f돌 도끼 머리 형본'
   type:
   - '&7&o부품'
 DIE_BOOT_PLATE:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f돌 부츠 판 형본'
   type:
   - '&7&o부품'
 DIE_CHEST_PLATE:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f돌 흉갑 판 형본'
   type:
   - '&7&o부품'
 DIE_HELM_PLATE:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f돌 투구 판 형본'
   type:
   - '&7&o부품'
 DIE_HOE_HEAD:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f돌 괭이 머리 형본'
   type:
   - '&7&o부품'
 DIE_LEG_PLATE:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f돌 바지 판 형본'
   type:
   - '&7&o부품'
 DIE_MAIL_LINK:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f사슬 고리 형본'
   type:
   - '&7&o부품'
 DIE_PICKAXE_HEAD:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f돌 곡괭이 머리 형본'
   type:
   - '&7&o부품'
 DIE_REPAIR_KIT:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f수리 키트 형본'
   type:
   - '&7&o부품'
 DIE_SHOVEL_HEAD:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f돌 삽 머리 형본'
   type:
   - '&7&o부품'
 DIE_SWORD_BLADE:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f돌 검 머리 형본'
   type:
   - '&7&o부품'
 DIE_TOOL_ROD:
+  description:
+  - '&7주형을 뜨기 위한 형본입니다.'
+  name: '&f도구 손잡이 형본'
   type:
   - '&7&o부품'
 DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
+  description:
+  - '&7여기서 불길한 기운이 느껴집니다...'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f파멸'
   type:
   - '&7&o부품'
 DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
+  description:
+  - '&7흉조를 부여합니다. 주민들을 숨기세요!'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f파멸'
   type:
   - '&7&o부품'
 DRACONIC_LIQUID:
+  description:
+  - '&7드라코닉으로 이루어진 용융 상태입니다.'
+  name: '&f용융 드라코닉'
   type:
   - '&7&o자원'
 DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7엔더 드래곤에게 피격되면'
+  - '&715초 동안 추가 피해를 얻습니다.'
+  - '&7합산 방식으로 중첩됩니다. 중첩될 때마다 지속시간이 갱신됩니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  - '&7후원: Bunkky/ReasonFoundDecoy'
+  name: '&f용의 발작'
   type:
   - '&7&o부품'
 DUMMY_MODIFICATION_STATION:
+  description:
+  - '&7도구는 개조 작업대에서'
+  - '&7알맞은 재료를 사용해 강화합니다.'
+  - '&7재료가 충분히 들어가면'
+  - '&7개조의 레벨이 오릅니다.'
+  name: '&f팅커의 개조 작업대'
   type:
   - '&7&o기타'
 DUMMY_TINKERS_ARMOUR_TABLE:
+  description:
+  - '&7이 아이템은 팅커의 방어구 작업대에서 만듭니다.'
+  name: '&f팅커의 방어구 작업대'
   type:
   - '&7&o기타'
 DUMMY_TINKERS_SMELTERY:
+  description:
+  - '&7이 아이템은 팅커의 제련소에서'
+  - '&7알맞은 주형과 금속/액체를 사용해'
+  - '&7주조해 만듭니다.'
+  name: '&f팅커의 제련소'
   type:
   - '&7&o기타'
 DUMMY_TINKERS_SMELTERY_ALLOY:
+  description:
+  - '&7이 합금은 팅커의 제련소에서'
+  - '&7알맞은 금속 종류를 넣고'
+  - '&7합금 버튼을 눌러 만듭니다.'
+  name: '&f팅커의 제련소'
   type:
   - '&7&o기타'
 DUMMY_TINKERS_SMELTERY_MOLTEN:
+  description:
+  - '&7용융 금속은 해당 금속으로 만든'
+  - '&7아이템을 팅커의 제련소에 넣어'
+  - '&7만듭니다. 열원으로 충분한 용암이'
+  - '&7있으면 아이템이 녹습니다.'
+  name: '&f팅커의 제련소'
   type:
   - '&7&o기타'
 DUMMY_TINKERS_SMELTERY_MULTI:
+  description:
+  - '&7이것은 멀티블록입니다. 월드에'
+  - '&7여기 보이는 대로 지으세요.'
+  name: '&f팅커의 제련소'
   type:
   - '&7&o기타'
 DUMMY_TINKERS_SMELTERY_PROP:
+  description:
+  - '&7이 금속으로 알맞은 부품을 만들면'
+  - '&7완성된 도구에 다음'
+  - '&7속성이 부여됩니다.'
+  name: '&f팅커의 제련소'
   type:
   - '&7&o기타'
 DUMMY_TINKERS_TABLE:
+  description:
+  - '&7이 아이템은 팅커의 도구 작업대에서 만듭니다.'
+  name: '&f팅커의 도구 작업대'
   type:
   - '&7&o기타'
 DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
+  description:
+  - '&7부서진 상태에서도 작동하지만 피해는 50%,'
+  - '&7채굴이 느려지고 경험치는 0이 됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f내구성'
   type:
   - '&7&o부품'
 DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
+  description:
+  - '&7부서져도 작동하지만 받는 피해 +20%'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f내구성'
   type:
   - '&7&o부품'
 DURABLE_TRAIT_PROP_ROD_TITANIUM:
+  description:
+  - '&7부서진 상태에서도 작동하지만 피해는 50%,'
+  - '&7채굴이 느려지고 경험치는 0이 됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f내구성'
   type:
   - '&7&o부품'
 DURALIUM_ALLOY:
+  description:
+  - '&7두랄륨으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 두랄륨'
   type:
   - '&7&o자원'
 DURALIUM_LIQUID:
+  description:
+  - '&7두랄륨으로 이루어진 용융 상태입니다.'
+  name: '&f용융 두랄륨'
   type:
   - '&7&o자원'
 DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
+  description:
+  - '&7채굴 중 희귀한 유물을 발견할 확률이 있습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f드워프의 기술'
   type:
   - '&7&o부품'
 DWARVEN_SKILLS_TRAIT_PROP_PLATES_TITANIUM:
+  description:
+  - '&7채굴 중 희귀한 유물을 발견할 확률이 있습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f드워프의 기술'
   type:
   - '&7&o부품'
 EARTH_SHAKER_TRAIT_PROP_HEAD_EARTH_SINGULARITY:
+  description:
+  - '&7타격한 몹을 밀쳐내고 기절시킵니다'
+  - '&7그들이 착지할 때.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f대지를 흔드는 자'
   type:
   - '&7&o부품'
 EARTH_SINGULARITY_LIQUID:
+  description:
+  - '&7대지 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 대지 특이점'
   type:
   - '&7&o자원'
 EASILY_SHAPED_II_TRAIT_PROP_LINKS_ALUMINUM_SINGULARITY:
+  description:
+  - '&7수리에는 아무 금속의 키트 1개만 있으면 됩니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f성형이 쉬움 II'
   type:
   - '&7&o부품'
 EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
+  description:
+  - '&7수리에는 키트 1개만 있으면 됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f성형이 쉬움'
   type:
   - '&7&o부품'
 EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
+  description:
+  - '&7완전히 수리하는 데 키트 1개만 있으면 됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f간편 수리'
   type:
   - '&7&o부품'
 EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7체력이 절반 아래일 때 피해를 받으면 - 탈출!'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f탈출!'
   type:
   - '&7&o부품'
 ELVEN_SPEED_TRAIT_PROP_HEAD_MYTHRIL:
+  description:
+  - '&7성급함 2, 신속 1. 내구도 소모 +50%'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f엘프의 속도'
   type:
   - '&7&o부품'
 ENCHANTING_II_TRAIT_PROP_HEAD_SILVER_SINGULARITY:
+  description:
+  - '&7도구 경험치 획득이 절반이 됩니다. 도구가 1-3개의'
+  - '&7무작위로 선택된 마법 부여를 레벨업 시 추가합니다'
+  - '&7이 마법 부여는 쓸모없을 수도 있습니다!'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f마법 부여 II'
   type:
   - '&7&o부품'
 ENCHANTING_II_TRAIT_PROP_LINKS_SILVER_SINGULARITY:
+  description:
+  - '&7이 방어구가 레벨업할 때마다 무작위'
+  - '&7마법 부여를 1-3개 얻습니다. 쓸모없을 수도 있습니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f마법 부여 II'
   type:
   - '&7&o부품'
 ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
+  description:
+  - '&7도구 경험치 획득이 절반이 됩니다. 도구가'
+  - '&7레벨업 시 무작위 바닐라 마법 부여를 하나 추가합니다.'
+  - '&7도구 종류와 맞지 않을 수도 있습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f마법 부여'
   type:
   - '&7&o부품'
 ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
+  description:
+  - '&7이것이 레벨업할 때마다 무작위 마법 부여를 얻습니다'
+  - '&7마법 부여를 1-3개 얻습니다. 쓸모없을 수도 있습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f마법 부여'
   type:
   - '&7&o부품'
 ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7무작위로 순간이동한 뒤 타격합니다 (대기시간: 10초)'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f탈주'
   type:
   - '&7&o부품'
 ESCAPE_TRAIT_PROP_PLATES_MAGNONIUM:
+  description:
+  - '&7무작위로 순간이동한 뒤 타격합니다 (대기시간: 10초)'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f탈주'
   type:
   - '&7&o부품'
 EVEN_MORE_ADVANCED_TRAIT_PROP_PLATES_ADVANCED_ALLOY:
+  description:
+  - '&7부위마다 고급 개조 슬롯 +1.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f더욱 발전된'
   type:
   - '&7&o부품'
 EXPERIENCED_TRAIT_PROP_LINKS_ADAMANTITE:
+  description:
+  - '&7모든 도구와 방어구 경험치 +10%'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f숙련'
   type:
   - '&7&o부품'
 EXPERIENCED_TRAIT_PROP_PLATES_MIXED_METAL_INGOT:
+  description:
+  - '&7모든 도구와 방어구 경험치 +10%'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f숙련'
   type:
   - '&7&o부품'
 FALLING_APART_TRAIT_PROP_LINKS_SCRAP:
+  description:
+  - '&7경험치 +200%. 방어구가 그냥'
+  - '&7벗겨질 확률이 있습니다!'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f산산조각'
   type:
   - '&7&o부품'
 FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
+  description:
+  - '&7모든 작물이 아이템을 1개 더 떨어뜨립니다. 행운의 영향을 받지 않습니다.'
+  - '&7같은 효과끼리는 중첩되지 않지만 다른 효과와는 중첩됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f농부'
   type:
   - '&7&o부품'
 FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
+  description:
+  - '&7이동 속도가 빨라지고 성급함이 적용됩니다.'
+  - '&7개조와 중첩됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f신속'
   type:
   - '&7&o부품'
 FEAR_THE_VOID_TRAIT_PROP_ROD_VOID_INGOT:
+  description:
+  - '&7피해 +150%. 디 엔드에서는 250%.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f공허를 두려워하라'
   type:
   - '&7&o부품'
 FEELING_CONNECTED_TRAIT_PROP_LINKS_NTW_REMOTE_ULTIMATE:
+  description:
+  - '&7투구를 통한 직접 신경 접속으로'
+  - '&7네트워크에 무선으로'
+  - '&7연결할 수 있습니다.'
+  - ''
+  - '&7빈 손으로 시프트 + 좌클릭하면'
+  - '&7저장 격자에 연결됩니다.'
+  - ''
+  - '&7빈 손으로 허공을 좌클릭하면'
+  - '&7연결된 저장 격자를 열 수 있습니다.'
+  - ''
+  - '&7투구에서만 작동합니다.'
+  - ''
+  - '&7추가한 곳: 네트웍스'
+  name: '&f연결된 느낌'
   type:
   - '&7&o부품'
 FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
+  description:
+  - '&7축제 기분을 만끽하세요!'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f축제 기분'
   type:
   - '&7&o부품'
 FERROSILICON_ALLOY:
+  description:
+  - '&7페로실리콘으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 페로실리콘'
   type:
   - '&7&o자원'
 FERROSILICON_LIQUID:
+  description:
+  - '&7페로실리콘으로 이루어진 용융 상태입니다.'
+  name: '&f용융 페로실리콘'
   type:
   - '&7&o자원'
 FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7가능한 경우 부순 블록을 제련합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f불타는 열기'
   type:
   - '&7&o부품'
 FLAMING_HOT_TRAIT_PROP_ROD_MAGNONIUM:
+  description:
+  - '&7가능한 경우 부순 블록을 제련합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f불타는 열기'
   type:
   - '&7&o부품'
 FLAMMABLE_II_TRAIT_PROP_HEAD_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7(도구 레벨 x 10)% 확률로'
+  - '&7적을 더 오랫동안 불태웁니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f가연성 II'
   type:
   - '&7&o부품'
 FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
+  description:
+  - '&7(도구 레벨 x 5)% 확률로'
+  - '&7적을 불태웁니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f가연성'
   type:
   - '&7&o부품'
 FLAMMABLE_TRAIT_PROP_ROD_MAGSTEEL:
+  description:
+  - '&7(도구 레벨 x 5)% 확률로'
+  - '&7적을 불태웁니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f가연성'
   type:
   - '&7&o부품'
 FLOWING_FONDNESS_LIQUID:
+  description:
+  - '&7흐르는 애정으로 이루어진 용융 상태입니다.'
+  name: '&f용융 흐르는 애정'
   type:
   - '&7&o자원'
 FOIL_II_TRAIT_PROP_PLATES_ALUMINUM_SINGULARITY:
+  description:
+  - '&7받는 피해 +50%. 신속 +2'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f금속박 II'
   type:
   - '&7&o부품'
 FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
+  description:
+  - '&7받는 피해 +50%. 신속 +1'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f금속박'
   type:
   - '&7&o부품'
 FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
+  description:
+  - '&7행운으로 얻는 드롭이 200%. 중첩됩니다'
+  - '&7청금석 개조와 함께.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f행운아'
   type:
   - '&7&o부품'
 FORTUNE_SINGULARITY_LIQUID:
+  description:
+  - '&7행운 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 행운 특이점'
   type:
   - '&7&o자원'
 FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
+  description:
+  - '&7사망 시에도, 일부러도 버릴 수 없습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f융합'
   type:
   - '&7&o부품'
 FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
+  description:
+  - '&7이 도구는 플레이어가 버리거나'
+  - '&7사망해도 떨어뜨릴 수 없습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f융합'
   type:
   - '&7&o부품'
 GHOSTLY_ESSENCE_LIQUID:
+  description:
+  - '&7유령의 정수로 이루어진 용융 상태입니다.'
+  name: '&f용융 유령의 정수'
   type:
   - '&7&o자원'
 GHOSTLY_TRAIT_PROP_LINKS_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7유령처럼 떠다닙니다'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f유령같음'
   type:
   - '&7&o부품'
 GHOST_IN_THE_SHELL_TRAIT_PROP_GAMBESON_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7내구도를 소모하며 주변의 모든 몹에게 서서히 피해를 줍니다.'
+  - '&7이 효과로는 몹이 죽지 않습니다.'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f껍데기 속의 유령'
   type:
   - '&7&o부품'
 GLEAM_TRAIT_PROP_LINKS_METAL_SINGULARITY:
+  description:
+  - '&7피격 시 피해를 반사하고 주변 엔티티에게도'
+  - '&7공격자의 눈을 부시게 합니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f광채'
   type:
   - '&7&o부품'
 GOLDEN_VEIL_II_TRAIT_PROP_HEAD_GOLD_SINGULARITY:
+  description:
+  - '&7플레이어를 투명하게 만듭니다. 다음에 사용하면:'
+  - '&7무기에 사용 시 피해 +50%.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f황금 장막 II'
   type:
   - '&7&o부품'
 GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
+  description:
+  - '&7플레이어를 투명하게 만듭니다. 다음에 사용하면:'
+  - '&7무기에 사용 시 피해 -100%.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f황금 장막'
   type:
   - '&7&o부품'
 GOLD_LIQUID:
+  description:
+  - '&7금으로 이루어진 용융 상태입니다.'
+  name: '&f용융 금'
   type:
   - '&7&o자원'
 GOLD_SINGULARITY_LIQUID:
+  description:
+  - '&7금 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 금 특이점'
   type:
   - '&7&o자원'
 GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
+  description:
+  - '&7경고... 뭔가 터질 겁니다...'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f쾅 터져라'
   type:
   - '&7&o부품'
 GRACEFUL_II_TRAIT_PROP_HEAD_ZINC_SINGULARITY:
+  description:
+  - '&7돌고래의 힘이여, 더 강하게 발동하라!'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f우아함 II'
   type:
   - '&7&o부품'
 GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
+  description:
+  - '&7돌고래의 힘이여, 발동하라!'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f우아함'
   type:
   - '&7&o부품'
 GRINDER_TRAIT_PROP_ROD_EARTH_SINGULARITY:
+  description:
+  - '&7블록을 부수면 마치'
+  - '&7분쇄기를 거친 것처럼 처리됩니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f분쇄기'
   type:
   - '&7&o부품'
 GROUT:
+  description:
+  - '&7구운 벽돌을 만드는 데 쓰입니다.'
+  name: '&f그라우트'
   type:
   - '&7&o부품'
 GROWTH_TRAIT_PROP_BINDING_VINE:
+  description:
+  - '&7낮에 도구가 서서히 수리됩니다.'
+  - '&7개조와 중첩됩니다. 손에 들고 있어야 합니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f성장'
   type:
   - '&7&o부품'
 GROWTH_TRAIT_PROP_GAMBESON_VINE:
+  description:
+  - '&7낮에 서서히 수리됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f성장'
   type:
   - '&7&o부품'
 HARDENED_METAL_ALLOY:
+  description:
+  - '&7경화 금속으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 경화 금속'
   type:
   - '&7&o자원'
 HARDENED_METAL_LIQUID:
+  description:
+  - '&7경화 금속으로 이루어진 용융 상태입니다.'
+  name: '&f용융 경화 금속'
   type:
   - '&7&o자원'
 HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
+  description:
+  - '&750% 확률로 내구도 소모를 무시합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f강인함'
   type:
   - '&7&o부품'
 HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
+  description:
+  - '&7폭발 피해가 25% 감소합니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f강인함'
   type:
   - '&7&o부품'
 HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
+  description:
+  - '&7마그마 블록이 더 이상 피해를 주지 않습니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f열전도체'
   type:
   - '&7&o부품'
 HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
+  description:
+  - '&725% 확률로 화염/열 피해를 무시합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f내열'
   type:
   - '&7&o부품'
 HEAT_RESISTANT_TRAIT_PROP_HEAD_MAG_THOR:
+  description:
+  - '&7불과 용암에 면역입니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f내열성'
   type:
   - '&7&o부품'
 HEAT_RESISTANT_TRAIT_PROP_LINKS_TITANIUM:
+  description:
+  - '&7불과 용암에 면역입니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f내열성'
   type:
   - '&7&o부품'
 HEAVY_DUTY_TRAIT_PROP_ROD_ADVANCED_ALLOY:
+  description:
+  - '&7내구도가 낮아지면 인벤토리의 철 주괴 1개를'
+  - '&7소모해 내구도를 일부 회복합니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f고강도'
   type:
   - '&7&o부품'
 HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
+  description:
+  - '&73x3 범위를 채굴합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f무거움'
   type:
   - '&7&o부품'
 HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
+  description:
+  - '&7투명 효과를 주지만 즉시 부서집니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f은신'
   type:
   - '&7&o부품'
 HOW_FORTUNATE_TRAIT_PROP_PLATES_FORTUNE_SINGULARITY:
+  description:
+  - '&7피격 시 0.5% 확률로 선물을 받습니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f이 얼마나 행운인가'
   type:
   - '&7&o부품'
 HYBERBOLIC_TESSERATION_TRAIT_PROP_LINKS_DYNATECH_TESSERACTING_OBJECT:
+  description:
+  - '&7자신의 집에 있을 때 에너지를 저장합니다.'
+  - '&7받는 피해가 이 에너지 저장량에서 차감됩니다.'
+  - '&7작동하려면 8개가 필요하며 50에서 상한에 걸립니다'
+  - '&7스스로 중첩됩니다.'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f쌍곡 사차원화'
   type:
   - '&7&o부품'
 HYBERBOLIC_TESSERATION_TRAIT_PROP_PLATES_DYNATECH_TESSERACTING_OBJECT:
+  description:
+  - '&7자신의 집에 있을 때 에너지를 저장합니다.'
+  - '&7받는 피해가 이 에너지 저장량에서 차감됩니다.'
+  - '&7작동하려면 8개가 필요하며 50에서 상한에 걸립니다'
+  - '&7스스로 중첩됩니다.'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f쌍곡 사차원화'
   type:
   - '&7&o부품'
 HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
+  description:
+  - '&7위험에서 두둥실 떠오릅니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f수소'
   type:
   - '&7&o부품'
 HYPERCUBE_[A]_TRAIT_PROP_HEAD_DYNATECH_TESSERACTING_OBJECT:
+  description:
+  - '&7[A]와 [B]가 모두 있어야 작동합니다. 시프트 + 우'
+  - '&7클릭으로 위치를 저장하고, 우클릭으로 그'
+  - '&7위치로 되돌아갑니다. (대기시간: 10분)'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f초입방체 [A]'
   type:
   - '&7&o부품'
 HYPERCUBE_[B]_TRAIT_PROP_ROD_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7[A]와 [B]가 모두 있어야 작동합니다. 시프트 + 우'
+  - '&7클릭으로 위치를 저장하고, 우클릭으로 그'
+  - '&7위치로 되돌아갑니다. (대기시간: 10분)'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f초입방체 [B]'
   type:
   - '&7&o부품'
 INCORPOREAL_TRAIT_PROP_BINDING_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7발사체가 당신을 그대로 통과합니다.'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f비실체'
   type:
   - '&7&o부품'
 INDOMITABLE_TRAIT_PROP_PLATES_IRIDIUM:
+  description:
+  - '&7모든 피해의 10%를 무시하고 반사합니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f불굴'
   type:
   - '&7&o부품'
 INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
+  description:
+  - '&7시프트 + 우클릭하면 30초 동안 성급함 폭발이 발동합니다.'
+  - '&7성급함 폭발이 활성화된 동안 부순 블록마다'
+  - '&7[50 ÷ 성급함 레벨]% 확률로 성급함 1중첩이 적용됩니다.'
+  - '&7성급함 10에서 상한에 걸립니다. 재사용 대기시간은 5분입니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f근면'
   type:
   - '&7&o부품'
 INFINITE_CAPACITY_TRAIT_PROP_PLATES_INFINITE_INGOT:
+  description:
+  - '&7피해를 받을 때마다 그 10%가 저장됩니다'
+  - '&7최대 하트 5개까지. 우클릭하면 방출합니다'
+  - '&7그 피해를 입힐 확률이 있습니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f무한 수용력'
   type:
   - '&7&o부품'
 INFINITE_DEFENCE_TRAIT_PROP_LINKS_INFINITY_SINGULARITY:
+  description:
+  - '&7네 부위가 모두 착용되면 받는 모든 피해가'
+  - '&71로 고정됩니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f무한 방어'
   type:
   - '&7&o부품'
 INFINITE_LIQUID:
+  description:
+  - '&7무한으로 이루어진 용융 상태입니다.'
+  name: '&f용융 무한'
   type:
   - '&7&o자원'
 INFINITE_TRAIT_PROP_HEAD_INFINITE_INGOT:
+  description:
+  - '&7이 도구는 영원히 살아남습니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f무한'
   type:
   - '&7&o부품'
 INFINITLY_POWERFUL_TRAIT_PROP_PLATES_INFINITY_SINGULARITY:
+  description:
+  - '&7받은 피해가 X 포인트에 이를 때마다 (감소'
+  - '&7적용 전 기준) 새롭고 무작위한'
+  - '&7마법 부여. 상한은 없습니다.'
+  - '&7필요한 피해량이 매번 증가합니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f무한히 강력함'
   type:
   - '&7&o부품'
 INFINITY_SINGULARITY_LIQUID:
+  description:
+  - '&7무한 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 무한 특이점'
   type:
   - '&7&o자원'
 INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
+  description:
+  - '&7이 도구에 뭔가 문제가 있습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f잉하이츠'
   type:
   - '&7&o부품'
 INGOT_CAST_ANNIVERSARIUM:
+  description:
+  - '&7(슬라임)펀 10주년!'
+  name: '&f애니버사륨 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_BOOMERITE:
+  description:
+  - '&7매우 희귀한 주괴입니다. 출처는 알 수 없습니다.'
+  name: '&f부메라이트 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_CRINGLEIUM:
+  description:
+  - '&7짧은 기간에만 얻을 수 있는 축제용 주괴입니다.'
+  name: '&f크링글륨 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_DAXI_ABSORPTION:
+  description:
+  - '&7결의의 기운을 내뿜는 닥시 주괴입니다.'
+  name: '&f흡수의 닥시 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_DAXI_FORTITUDE:
+  description:
+  - '&7저항의 기운을 내뿜는 닥시 주괴입니다.'
+  name: '&f불굴의 닥시 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_DAXI_REGENERATION:
+  description:
+  - '&7친절의 기운을 내뿜는 닥시 주괴입니다.'
+  name: '&f재생의 닥시 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_DAXI_SATURATION:
+  description:
+  - '&7온기를 내뿜는 닥시 주괴입니다.'
+  name: '&f포만의 닥시 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_DAXI_STRENGTH:
+  description:
+  - '&7힘의 기운을 내뿜는 닥시 주괴입니다.'
+  name: '&f힘의 닥시 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_DEVOTION:
+  description:
+  - '&7다음 개념으로 만든 주괴:'
+  - '&7헌신.'
+  name: '&f헌신 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_FONDNESS:
+  description:
+  - '&7다음 개념으로 만든 주괴:'
+  - '&7애정.'
+  name: '&f애정 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_LOVE:
+  description:
+  - '&7오직 다음의 기운만을 내뿜는 주괴:'
+  - '&7순수하고 티 없는 사랑.'
+  name: '&f사랑 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_NICE:
+  description:
+  - '&7나이스'
+  name: '&f나이스 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_PASSION:
+  description:
+  - '&7다음 개념으로 만든 주괴:'
+  - '&7열정.'
+  name: '&f열정 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7다음이 가득 넘쳐흐르는 주괴:'
+  - '&7비할 데 없는 분노.'
+  name: '&f강화 드라코늄 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_SEFIRITE:
+  description:
+  - '&7짧은 기간에만 얻을 수 있는 주괴입니다.'
+  name: '&f세피라이트 주괴'
   type:
   - '&7&o자원'
 INGOT_CAST_SMITHIUM:
+  description:
+  - '&7쓰임새가 다양한 평범한 금속'
+  - '&7핵심 산업 작업에 쓰입니다.'
+  name: '&f스미슘 주괴'
   type:
   - '&7&o자원'
 INSULATED_TRAIT_PROP_BINDING_RUBBER:
+  description:
+  - '&7번개에 면역이 됩니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f절연'
   type:
   - '&7&o부품'
 INTERDIMENSIONAL_PRESENCE_LIQUID:
+  description:
+  - '&7차원 간 존재로 이루어진 용융 상태입니다.'
+  name: '&f용융 차원 간 존재'
   type:
   - '&7&o자원'
 IRIDIUM_LIQUID:
+  description:
+  - '&7이리듐으로 이루어진 용융 상태입니다.'
+  name: '&f용융 이리듐'
   type:
   - '&7&o자원'
 IRON_LIQUID:
+  description:
+  - '&7철로 이루어진 용융 상태입니다.'
+  name: '&f용융 철'
   type:
   - '&7&o자원'
 IRON_SINGULARITY_LIQUID:
+  description:
+  - '&7철 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 철 특이점'
   type:
   - '&7&o자원'
 IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
+  description:
+  - '&7당신은 사랑받고 있습니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f그거면 충분해'
   type:
   - '&7&o부품'
 IT'S_ONLY_NATURAL_TRAIT_PROP_LINKS_EARTH_SINGULARITY:
+  description:
+  - '&7우클릭하면 주변 동물 두 마리에게 먹이를 줍니다. (대기시간: 2분)'
+  - '&7성공 여부와 상관없이 재사용 대기시간이 적용됩니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f자연스러운 일이지'
   type:
   - '&7&o부품'
 KINGSMAN_TRAIT_PROP_PLATES_REFINED_IRON:
+  description:
+  - '&7우클릭하면 화려한 행렬이 소환되어'
+  - '&7순수한 파괴.'
+  - '&7예의가 없다면 아무 효과도 없습니다.'
+  - '&7킹스맨이 붙은 4부위가 필요합니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f킹스맨'
   type:
   - '&7&o부품'
 KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
+  description:
+  - '&7피격 시 원탁의 기사를 소환할'
+  - '&7확률이 있습니다. (사실 골렘이에요 ;))'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f원탁의 기사'
   type:
   - '&7&o부품'
 LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
+  description:
+  - '&7우클릭하면 사다리를 놓습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f사다리 시뮬레이터™'
   type:
   - '&7&o부품'
 LAVA_WALKER_TRAIT_PROP_PLATES_EARTH_SINGULARITY:
+  description:
+  - '&7발밑의 용암이 마그마 블록으로 변합니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f용암 보행자'
   type:
   - '&7&o부품'
 LEAD_LIQUID:
+  description:
+  - '&7납으로 이루어진 용융 상태입니다.'
+  name: '&f용융 납'
   type:
   - '&7&o자원'
 LEAD_SINGULARITY_LIQUID:
+  description:
+  - '&7납 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 납 특이점'
   type:
   - '&7&o자원'
 LEECH_II_TRAIT_PROP_ROD_LEAD_SINGULARITY:
+  description:
+  - '&7추가 체력을 얻지만 에너지를 소모합니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f흡혈 II'
   type:
   - '&7&o부품'
 LEECH_TRAIT_PROP_ROD_LEAD_DUST:
+  description:
+  - '&7추가 체력을 얻지만 에너지를 소모합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f흡혈'
   type:
   - '&7&o부품'
 LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
+  description:
+  - '&7타격한 몹에게 번개를 내리칠 확률이 있습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f번개 손잡이'
   type:
   - '&7&o부품'
 LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
+  description:
+  - '&7도구 경험치 +50%. 신속 +1'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f경량'
   type:
   - '&7&o부품'
 LIGHT_II_TRAIT_PROP_PLATES_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7가하는 피해 -50%. 신속 +2'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f가벼움 II'
   type:
   - '&7&o부품'
 LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
+  description:
+  - '&7가하는 피해 -25%. 신속 +1'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f가벼움'
   type:
   - '&7&o부품'
 LIQUID_CHRISTMAS_LIQUID:
+  description:
+  - '&7액체 크리스마스로 이루어진 용융 상태입니다.'
+  name: '&f용융 액체 크리스마스'
   type:
   - '&7&o자원'
 LIQUID_LOVE_ALLOY:
+  description:
+  - '&7액체 사랑으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 액체 사랑'
   type:
   - '&7&o자원'
 LIQUID_LOVE_LIQUID:
+  description:
+  - '&7액체 사랑으로 이루어진 용융 상태입니다.'
+  name: '&f용융 액체 사랑'
   type:
   - '&7&o자원'
 MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
+  description:
+  - '&7여전히 역겹긴 하지만, 드래곤의'
+  - '&7숨결은 당신을 해치지 못합니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f마법의 박하'
   type:
   - '&7&o부품'
 MAGIC_SINGULARITY_LIQUID:
+  description:
+  - '&7마법 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 마법 특이점'
   type:
   - '&7&o자원'
 MAGNANIMOUS_TRAIT_PROP_HEAD_MAGNONIUM:
+  description:
+  - '&7당신은 너무나도 다정하군요'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f관대함'
   type:
   - '&7&o부품'
 MAGNESIGHT™_II_TRAIT_PROP_LINKS_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7야간 투시를 얻고 모든 몹이 강조 표시됩니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f자기시야™ II'
   type:
   - '&7&o부품'
 MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
+  description:
+  - '&7야간 투시를 얻습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f자기시야™'
   type:
   - '&7&o부품'
 MAGNESIUM_LIQUID:
+  description:
+  - '&7마그네슘으로 이루어진 용융 상태입니다.'
+  name: '&f용융 마그네슘'
   type:
   - '&7&o자원'
 MAGNESIUM_SINGULARITY_LIQUID:
+  description:
+  - '&7마그네슘 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 마그네슘 특이점'
   type:
   - '&7&o자원'
 MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7무작위 아이템이 당신에게 끌려옵니다.'
+  - '&710블록 범위 이내.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f자력네슘 II'
   type:
   - '&7&o부품'
 MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
+  description:
+  - '&7무작위 아이템이 당신에게 끌려옵니다.'
+  - '&75블록 범위 이내.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f자력네슘'
   type:
   - '&7&o부품'
 MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
+  description:
+  - '&7자기력 1중첩과 양극성 1중첩을 얻습니다.'
+  - '&7자기력이 주변의 모든 아이템을 끌어당깁니다.'
+  - '&7범위 = 자기력 레벨 - (∆ 양극성/음극성)'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f자성 +'
   type:
   - '&7&o부품'
 MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
+  description:
+  - '&7자기력 1중첩과 음극성 1중첩을 얻습니다.'
+  - '&7자기력이 주변의 모든 아이템을 끌어당깁니다.'
+  - '&7범위 = 자기력 레벨 - (∆ 양극성/음극성)'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f자성 +'
   type:
   - '&7&o부품'
 MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
+  description:
+  - '&7자기력 1중첩과 음극성 1중첩을 얻습니다.'
+  - '&7자기력이 주변의 모든 아이템을 끌어당깁니다.'
+  - '&7범위 = 자기력 레벨 - (∆ 양극성/음극성)'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f자성 -'
   type:
   - '&7&o부품'
 MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
+  description:
+  - '&7자기력 1중첩과 음극성 1중첩을 얻습니다.'
+  - '&7자기력이 주변의 모든 아이템을 끌어당깁니다.'
+  - '&7범위 = 자기력 레벨 - (∆ 양극성/음극성)'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f자성 -'
   type:
   - '&7&o부품'
 MAGNONIUM_LIQUID:
+  description:
+  - '&7마그노늄으로 이루어진 용융 상태입니다.'
+  name: '&f용융 마그노늄'
   type:
   - '&7&o자원'
 MAGSTEEL_ALLOY:
+  description:
+  - '&7마그강철로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 마그강철'
   type:
   - '&7&o자원'
 MAGSTEEL_LIQUID:
+  description:
+  - '&7마그강철로 이루어진 용융 상태입니다.'
+  name: '&f용융 마그강철'
   type:
   - '&7&o자원'
 MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7마법 피해 -50%'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f마도사'
   type:
   - '&7&o부품'
 MAG_THOR_ALLOY:
+  description:
+  - '&7마그토르로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 마그토르'
   type:
   - '&7&o자원'
 MAG_THOR_LIQUID:
+  description:
+  - '&7마그토르로 이루어진 용융 상태입니다.'
+  name: '&f용융 마그토르'
   type:
   - '&7&o자원'
 MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
+  description:
+  - '&7피해를 50% 덜 주지만 대신 많은'
+  - '&7행운과 신속.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f가단성 II'
   type:
   - '&7&o부품'
 MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
+  description:
+  - '&7피해를 50% 덜 주는 대신 행운을 얻습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f가단성'
   type:
   - '&7&o부품'
 MANNERS_MAKETH_MAN_TRAIT_PROP_ROD_REFINED_IRON:
+  description:
+  - '&7신속 1, 피해 +50%. 당신의 전투가'
+  - '&7무척 멋져 보입니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f예절이 사람을 만든다'
   type:
   - '&7&o부품'
 MERCHANT'S_VEIL_TRAIT_PROP_ROD_FORTUNE_SINGULARITY:
+  description:
+  - '&7단점 없는 투명 효과!'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f상인의 장막'
   type:
   - '&7&o부품'
 METAL_SINGULARITY_LIQUID:
+  description:
+  - '&7금속 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 금속 특이점'
   type:
   - '&7&o자원'
 MIXED_METALS_TRAIT_PROP_HEAD_MIXED_METAL_INGOT:
+  description:
+  - '&7재료의 모든 효과를 지니지만'
+  - '&7그 위력은 절반이 됩니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f섞인 금속'
   type:
   - '&7&o부품'
 MIXED_METAL_ALLOY:
+  description:
+  - '&7혼합 금속으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 혼합 금속'
   type:
   - '&7&o자원'
 MIXED_METAL_LIQUID:
+  description:
+  - '&7혼합 금속으로 이루어진 용융 상태입니다.'
+  name: '&f용융 혼합 금속'
   type:
   - '&7&o자원'
 MIX_IT_UP!_TRAIT_PROP_LINKS_MIXED_METAL_INGOT:
+  description:
+  - '&7피격 시 상황을 조금 뒤섞습니다'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f뒤섞어라!'
   type:
   - '&7&o부품'
 MOD_DIAMOND_ENTRY:
+  description:
+  - '&7도구에 적용하면 소지자가'
+  - '&7받은 피해를 반사할 확률이 있습니다'
+  - '&7공격자에게 되돌려줍니다. 레벨당 10%'
+  name: '&f개조: 다이아몬드'
   type:
   - '&7&o부품'
 MOD_EMERALD_ENTRY:
+  description:
+  - '&7도구에 적용하면 소지자가'
+  - '&7행동할 때마다 추가 도구 경험치를 얻습니다'
+  - '&7도구는 경험치 +1, 그리고 10%'
+  - '&7무기용입니다.'
+  name: '&f개조: 에메랄드'
   type:
   - '&7&o부품'
 MOD_LAPIS_ENTRY:
+  description:
+  - '&7도구에 적용하면 소지자가'
+  - '&7블록에서, 또는 다음에서 추가 아이템을 떨어뜨립니다:'
+  - '&7처치 시. 행운/약탈 적용 후 계산됩니다.'
+  - '&7레벨당 10%.'
+  name: '&f개조: 청금석'
   type:
   - '&7&o부품'
 MOD_PLATE:
+  description:
+  - '&7도구에 다음을 부여하는 개조입니다.'
+  - '&7도구 피해를 무시할 확률이 있습니다.'
+  name: '&f강화판'
   type:
   - '&7&o부품'
 MOD_PLATE_ENTRY:
+  description:
+  - '&7이 개조가 적용된 도구는'
+  - '&7내구도 피해를 받지 않을 확률이 있습니다. 레벨당 10%'
+  - '&7- 레벨 10에서는 도구가 부서지지 않습니다'
+  name: '&f개조: 강화판'
   type:
   - '&7&o부품'
 MOD_QUARTZ_ENTRY:
+  description:
+  - '&7도구에 적용하면 소지자가'
+  - '&7추가 피해를 줍니다. 계산은 그 뒤에 이루어집니다'
+  - '&7날카로움이나 다른 피해 마법 부여.'
+  - '&7레벨당 20%'
+  name: '&f개조: 석영'
   type:
   - '&7&o부품'
 MOD_REDSTONE_ENTRY:
+  description:
+  - '&7도구에 적용하면 소지자가'
+  - '&7개조 레벨에 맞는 성급함이'
+  - '&7부여됩니다.'
+  name: '&f개조: 레드스톤'
   type:
   - '&7&o부품'
 MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
+  description:
+  - '&7플레이어 경험치 +100% (채굴) +50% (몹)'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f신비'
   type:
   - '&7&o부품'
 MYTHRIL_LIQUID:
+  description:
+  - '&7미스릴로 이루어진 용융 상태입니다.'
+  name: '&f용융 미스릴'
   type:
   - '&7&o자원'
 NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
+  description:
+  - '&7공격자가 실명합니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f좁아짐'
   type:
   - '&7&o부품'
 NICEINIUM_ALLOY:
+  description:
+  - '&7나이스늄으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 나이스늄'
   type:
   - '&7&o자원'
 NICEINIUM_LIQUID:
+  description:
+  - '&7나이스늄으로 이루어진 용융 상태입니다.'
+  name: '&f용융 나이스늄'
   type:
   - '&7&o자원'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
+  description:
+  - '&7나이스'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f나이스'
   type:
   - '&7&o부품'
 NICKEL_ALLOY:
+  description:
+  - '&7니켈로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 니켈'
   type:
   - '&7&o자원'
 NICKEL_LIQUID:
+  description:
+  - '&7니켈로 이루어진 용융 상태입니다.'
+  name: '&f용융 니켈'
   type:
   - '&7&o자원'
 NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7야간 투시를 부여합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f밤의 추적자'
   type:
   - '&7&o부품'
 NIMBLE_TRAIT_PROP_BINDING_RAW_CARBON_MESH:
+  description:
+  - '&7신속 1. 받는 피해 33% 감소'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f민첩'
   type:
   - '&7&o부품'
 NOCLIP_TRAIT_PROP_BINDING_DYNATECH_VEX_GEM:
+  description:
+  - '&7들고 우클릭하면 무작위로 순간이동합니다.'
+  - '&7재사용 대기시간 5분.'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f통과'
   type:
   - '&7&o부품'
 NON-CORROSIVE_II_TRAIT_PROP_PLATES_TIN_SINGULARITY:
+  description:
+  - '&7독이 치유가 되고 허기와 나약함에 면역입니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f비부식성 II'
   type:
   - '&7&o부품'
 NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
+  description:
+  - '&7독에 면역입니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f비부식성'
   type:
   - '&7&o부품'
 NUGGET_CAST_ADAMANTITE:
+  description:
+  - '&7순수 아다만타이트로 만든 조각'
+  name: '&f아다만타이트 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_ADVANCED_ALLOY:
+  description:
+  - '&7고급 합금 조각'
+  name: '&f고급 합금 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_ALUMINUM:
+  description:
+  - '&7순수 알루미늄으로 만든 조각'
+  name: '&f알루미늄 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_ALU_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 조각'
+  name: '&f알루미늄 황동 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_ALU_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 조각'
+  name: '&f알루미늄 청동 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_ANNIVERSARIUM:
+  description:
+  - '&7(슬라임)펀 10주년!'
+  name: '&f애니버사륨 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_BILLON:
+  description:
+  - '&7빌론으로 만든 조각'
+  name: '&f빌론 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_BOOMERITE:
+  description:
+  - '&7부메라이트로 만든 조각'
+  name: '&f부메라이트 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_BRASS:
+  description:
+  - '&7황동으로 만든 조각'
+  name: '&f황동 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_BRONZE:
+  description:
+  - '&7청동으로 만든 조각'
+  name: '&f청동 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_COAL:
+  description:
+  - '&7액화된 석탄으로 만든 조각'
+  name: '&f석탄 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_COBALT:
+  description:
+  - '&7코발트로 만든 조각'
+  name: '&f코발트 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_COPPER:
+  description:
+  - '&7순수 구리로 만든 조각'
+  name: '&f구리 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_COR_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 조각'
+  name: '&f코린토스 청동 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_CRINGLEIUM:
+  description:
+  - '&7크링글륨으로 만든 조각입니다.'
+  name: '&f크링글륨 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_DAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 조각'
+  name: '&f다마스쿠스 강철 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_DAXI_ABSORPTION:
+  description:
+  - '&7결의의 기운을 내뿜는 닥시 조각입니다.'
+  name: '&f흡수의 닥시 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_DAXI_FORTITUDE:
+  description:
+  - '&7저항의 기운을 내뿜는 닥시 조각입니다.'
+  name: '&f불굴의 닥시 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_DAXI_REGENERATION:
+  description:
+  - '&7친절의 기운을 내뿜는 닥시 조각입니다.'
+  name: '&f재생의 닥시 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_DAXI_SATURATION:
+  description:
+  - '&7온기를 내뿜는 닥시 조각입니다.'
+  name: '&f포만의 닥시 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_DAXI_STRENGTH:
+  description:
+  - '&7힘의 기운을 내뿜는 닥시 조각입니다.'
+  name: '&f힘의 닥시 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_DEVOTION:
+  description:
+  - '&7다음 개념으로 만든 조각:'
+  - '&7헌신.'
+  name: '&f헌신 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_DURALIUM:
+  description:
+  - '&7두랄륨으로 만든 조각'
+  name: '&f두랄륨 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_FERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 조각'
+  name: '&f페로실리콘 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_FONDNESS:
+  description:
+  - '&7다음 개념으로 만든 조각:'
+  - '&7애정.'
+  name: '&f애정 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_HARD_METAL:
+  description:
+  - '&7경화 금속으로 만든 조각'
+  name: '&f경화 금속 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_INFINITY:
+  description:
+  - '&7순수한 무한대로 만든 조각... 그렇습니다!'
+  name: '&f무한대 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_IRIDIUM:
+  description:
+  - '&7이리듐 조각'
+  name: '&f이리듐 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_LEAD:
+  description:
+  - '&7순수 납으로 만든 조각'
+  name: '&f납 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_LOVE:
+  description:
+  - '&7오직 다음의 기운만을 내뿜는 조각:'
+  - '&7순수하고 티 없는 사랑.'
+  name: '&f사랑 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_MAGNESIUM:
+  description:
+  - '&7순수 마그네슘으로 만든 조각'
+  name: '&f마그네슘 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_MAGNONIUM:
+  description:
+  - '&7순수 마그노늄으로 만든 조각'
+  name: '&f마그노늄 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_MAGSTEEL:
+  description:
+  - '&7순수 마그강철로 만든 조각'
+  name: '&f마그강철 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_MAG_THOR:
+  description:
+  - '&7마그토르 조각'
+  name: '&f마그토르 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_MIXED_METAL:
+  description:
+  - '&7혼합 금속 조각'
+  name: '&f혼합 금속 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_MYTHRIL:
+  description:
+  - '&7순수 미스릴로 만든 조각'
+  name: '&f미스릴 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_NICE:
+  description:
+  - '&7나이스'
+  name: '&f나이스 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_NICKEL:
+  description:
+  - '&7니켈로 만든 조각'
+  name: '&f니켈 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_OSMIUM:
+  description:
+  - '&7오스뮴 조각'
+  name: '&f오스뮴 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  description:
+  - '&7오스뮴 초합금 조각'
+  name: '&f오스뮴 초합금 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_PASSION:
+  description:
+  - '&7다음 개념으로 만든 조각:'
+  - '&7열정.'
+  name: '&f열정 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_REDSTONE_ALLOY:
+  description:
+  - '&7레드스톤 합금으로 만든 조각'
+  name: '&f레드스톤 합금 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_REFINED_IRON:
+  description:
+  - '&7정제된 철 조각'
+  name: '&f정제된 철 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_REINFORCED:
+  description:
+  - '&7강화 합금으로 만든 조각'
+  name: '&f강화 합금 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7다음이 가득 넘쳐흐르는 주괴:'
+  - '&7비할 데 없는 분노.'
+  name: '&f강화 드라코늄 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  description:
+  - '&7강화 슬라임 강철 조각'
+  name: '&f강화 슬라임 강철 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_SCRAP:
+  description:
+  - '&7고철 조각'
+  name: '&f고철 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_SEFIRITE:
+  description:
+  - '&7세피라이트로 만든 조각'
+  name: '&f세피라이트 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_SILVER:
+  description:
+  - '&7순수 은으로 만든 조각'
+  name: '&f은 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_SLIMESTEEL:
+  description:
+  - '&7슬라임 강철 조각'
+  name: '&f슬라임 강철 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_SMITHIUM:
+  description:
+  - '&7쓰임새가 다양한 평범한 금속'
+  - '&7핵심 산업 작업에 쓰입니다.'
+  name: '&f스미슘 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_SOLDER:
+  description:
+  - '&7땜납으로 만든 조각'
+  name: '&f땜납 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_STAINLESSSTEEL:
+  description:
+  - '&7스테인리스강 조각'
+  name: '&f스테인리스강 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_STEEL:
+  description:
+  - '&7순수 강철로 만든 조각'
+  name: '&f강철 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_TIN:
+  description:
+  - '&7순수 주석으로 만든 조각'
+  name: '&f주석 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_TITANIUM:
+  description:
+  - '&7순수 티타늄으로 만든 조각'
+  name: '&f티타늄 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_UNPATENTABILUM:
+  description:
+  - '&7언페이턴타빌룸 조각'
+  name: '&f언페이턴타빌룸 조각'
   type:
   - '&7&o자원'
 NUGGET_CAST_ZINC:
+  description:
+  - '&7순수 아연으로 만든 조각'
+  name: '&f아연 조각'
   type:
   - '&7&o자원'
 OROBORUS_TRAIT_PROP_LINKS_INFINITE_INGOT:
+  description:
+  - '&720% 확률로 받은 피해를 반사합니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f우로보로스'
   type:
   - '&7&o부품'
 OXYGENATED_TRAIT_PROP_LINKS_MAGNONIUM:
+  description:
+  - '&7들고 있는 동안 수중 호흡을 부여합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f산소 공급'
   type:
   - '&7&o부품'
 OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
+  description:
+  - '&7들고 있는 동안 수중 호흡을 부여합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f산소 공급'
   type:
   - '&7&o부품'
 PART_AXE_HEAD:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f도끼 머리'
   type:
   - '&7&o부품'
 PART_AXE_HEAD_DUMMY:
+  description:
+  - '&7주조된 도끼 머리입니다.'
+  name: '&f부품: 도끼 머리'
   type:
   - '&7&o부품'
 PART_BINDING_CARBON_MESH:
+  description:
+  - '&7탄소 메시로 만든 결속재입니다.'
+  name: '&f탄소 메시 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_CRIMSON_ROOT:
+  description:
+  - '&7진홍빛 뿌리로 만든 결속재입니다.'
+  name: '&f진홍빛 뿌리 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_DUMMY:
+  description:
+  - '&7부품을 하나로 묶어주는 결속재입니다.'
+  name: '&f부품: 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_GENERAL_DISPLAY:
+  description:
+  - '&7결속재를 만들기에 알맞은 재료입니다.'
+  - '&7그냥 실이 아닙니다. 이것으로도 실험해 보세요:'
+  - '&7비슷한 재료들.'
+  name: '&f결속재 재료'
   type:
   - '&7&o부품'
 PART_BINDING_GHOSTLY_ESSENCE:
+  description:
+  - '&7유령의 정수로 만든 결속재입니다.'
+  name: '&f유령의 정수 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_LEATHER:
+  description:
+  - '&7가죽으로 만든 결속재입니다.'
+  name: '&f가죽 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_RUBBER:
+  description:
+  - '&7고무로 만든 결속재입니다.'
+  name: '&f고무 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_SILICON:
+  description:
+  - '&7규소로 만든 결속재입니다.'
+  name: '&f규소 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_SLIME:
+  description:
+  - '&7슬라임으로 만든 결속재입니다.'
+  name: '&f슬라임 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_STRING:
+  description:
+  - '&7실로 만든 결속재입니다.'
+  name: '&f실 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_TWISTED_VINE:
+  description:
+  - '&7뒤틀린 덩굴로 만든 결속재입니다.'
+  name: '&f뒤틀린 덩굴 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_VEX_GEM:
+  description:
+  - '&7벡스 보석으로 만든 결속재입니다.'
+  name: '&f벡스 보석 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_VINE:
+  description:
+  - '&7덩굴로 만든 결속재입니다.'
+  name: '&f덩굴 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_WARPED_ROOT:
+  description:
+  - '&7뒤틀린 뿌리로 만든 결속재입니다.'
+  name: '&f뒤틀린 뿌리 결속재'
   type:
   - '&7&o부품'
 PART_BINDING_WEEPING_VINE:
+  description:
+  - '&7우는 덩굴로 만든 결속재입니다.'
+  name: '&f우는 덩굴 결속재'
   type:
   - '&7&o부품'
 PART_BOOTS_PLATES:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f부츠 판'
   type:
   - '&7&o부품'
 PART_BOOT_PLATE_DUMMY:
+  description:
+  - '&7주조된 바지 판 세트입니다.'
+  name: '&f부품: 부츠 판'
   type:
   - '&7&o부품'
 PART_CHEST_PLATES:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f흉갑 판'
   type:
   - '&7&o부품'
 PART_CHEST_PLATE_DUMMY:
+  description:
+  - '&7주조된 흉갑 판 세트입니다.'
+  name: '&f부품: 흉갑 판'
   type:
   - '&7&o부품'
 PART_GAMBESON_CARBON_MESH:
+  description:
+  - '&7탄소 메시로 만든 누비옷입니다.'
+  name: '&f탄소 메시 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_CRIMSON_ROOT:
+  description:
+  - '&7진홍빛 뿌리로 만든 누비옷입니다.'
+  name: '&f진홍빛 뿌리 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_DUMMY:
+  description:
+  - '&7갑옷 안에 입는 천 의복'
+  name: '&f부품: 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_GENERAL_DISPLAY:
+  description:
+  - '&7누비옷을 만들기에 알맞은 재료입니다.'
+  - '&7그냥 실이 아닙니다. 이것으로도 실험해 보세요:'
+  - '&7비슷한 재료들.'
+  name: '&f누비옷 재료'
   type:
   - '&7&o부품'
 PART_GAMBESON_GHOSTLY_ESSENCE:
+  description:
+  - '&7유령의 정수로 만든 누비옷입니다.'
+  name: '&f유령의 정수 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_LEATHER:
+  description:
+  - '&7가죽으로 만든 누비옷입니다.'
+  name: '&f가죽 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_RUBBER:
+  description:
+  - '&7고무로 만든 누비옷입니다.'
+  name: '&f고무 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_SILICON:
+  description:
+  - '&7규소로 만든 누비옷입니다.'
+  name: '&f규소 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_SLIME:
+  description:
+  - '&7슬라임으로 만든 누비옷입니다.'
+  name: '&f슬라임 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_STRING:
+  description:
+  - '&7실로 만든 누비옷입니다.'
+  name: '&f실 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_TWISTED_VINE:
+  description:
+  - '&7뒤틀린 덩굴로 만든 누비옷입니다.'
+  name: '&f뒤틀린 덩굴 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_VEX_GEM:
+  description:
+  - '&7벡스 보석으로 만든 누비옷입니다.'
+  name: '&f벡스 보석 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_VINE:
+  description:
+  - '&7덩굴로 만든 누비옷입니다.'
+  name: '&f덩굴 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_WARPED_ROOT:
+  description:
+  - '&7뒤틀린 뿌리로 만든 누비옷입니다.'
+  name: '&f뒤틀린 뿌리 누비옷'
   type:
   - '&7&o부품'
 PART_GAMBESON_WEEPING_VINE:
+  description:
+  - '&7우는 덩굴로 만든 누비옷입니다.'
+  name: '&f우는 덩굴 누비옷'
   type:
   - '&7&o부품'
 PART_HEAD_AXEADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 도구 머리입니다.'
+  name: '&f아다만타이트 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 도구 머리입니다.'
+  name: '&f고급 합금 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 황동 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 청동 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEBILLON:
+  description:
+  - '&7빌론으로 만든 도구 머리입니다.'
+  name: '&f빌론 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEBOOMERITE:
+  description:
+  - '&7부메라이트로 만든 도구 머리입니다.'
+  name: '&f부메라이트 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEBRASS:
+  description:
+  - '&7황동으로 만든 도구 머리입니다.'
+  name: '&f황동 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEBRONZE:
+  description:
+  - '&7청동으로 만든 도구 머리입니다.'
+  name: '&f청동 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXECOBALT:
+  description:
+  - '&7코발트로 만든 도구 머리입니다.'
+  name: '&f코발트 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXECOPPER:
+  description:
+  - '&7구리로 만든 도구 머리입니다.'
+  name: '&f구리 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXECOPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 도구 머리입니다.'
+  name: '&f구리 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXECORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 도구 머리입니다.'
+  name: '&f코린토스 청동 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEDAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 도구 머리입니다.'
+  name: '&f다마스쿠스 강철 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEDURALIUM:
+  description:
+  - '&7두랄륨으로 만든 도구 머리입니다.'
+  name: '&f두랄륨 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEEARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 도구 머리입니다.'
+  name: '&f대지 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEFERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 도구 머리입니다.'
+  name: '&f페로실리콘 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEFORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 도구 머리입니다.'
+  name: '&f행운 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEGOLD:
+  description:
+  - '&7금으로 만든 도구 머리입니다.'
+  name: '&f금 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEGOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 도구 머리입니다.'
+  name: '&f금 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEHARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 도구 머리입니다.'
+  name: '&f경화 금속 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEINFINITE:
+  description:
+  - '&7무한으로 만든 도구 머리입니다.'
+  name: '&f무한 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEINFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 도구 머리입니다.'
+  name: '&f무한 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEIRIDIUM:
+  description:
+  - '&7이리듐으로 만든 도구 머리입니다.'
+  name: '&f이리듐 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEIRON:
+  description:
+  - '&7철로 만든 도구 머리입니다.'
+  name: '&f철 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEIRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 도구 머리입니다.'
+  name: '&f철 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXELEAD:
+  description:
+  - '&7납으로 만든 도구 머리입니다.'
+  name: '&f납 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXELEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 도구 머리입니다.'
+  name: '&f납 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEMAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 도구 머리입니다.'
+  name: '&f마법 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEMAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEMAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEMAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 도구 머리입니다.'
+  name: '&f마그노늄 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEMAGSTEEL:
+  description:
+  - '&7마그강철로 만든 도구 머리입니다.'
+  name: '&f마그강철 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEMAG_THOR:
+  description:
+  - '&7마그토르로 만든 도구 머리입니다.'
+  name: '&f마그토르 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEMETAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 도구 머리입니다.'
+  name: '&f금속 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEMIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 도구 머리입니다.'
+  name: '&f혼합 금속 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEMYTHRIL:
+  description:
+  - '&7미스릴로 만든 도구 머리입니다.'
+  name: '&f미스릴 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXENICEINIUM:
+  description:
+  - '&7나이스늄으로 만든 도구 머리입니다.'
+  name: '&f나이스늄 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXENICKEL:
+  description:
+  - '&7니켈로 만든 도구 머리입니다.'
+  name: '&f니켈 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEREFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 도구 머리입니다.'
+  name: '&f정제된 철 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEREINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 도구 머리입니다.'
+  name: '&f강화 합금 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEREINFORCED_DRACONIUM:
+  description:
+  - '&7강화 드라코늄으로 만든 도구 머리입니다.'
+  name: '&f강화 드라코늄 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXESCRAP:
+  description:
+  - '&7고철로 만든 도구 머리입니다.'
+  name: '&f고철 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXESILVER:
+  description:
+  - '&7은으로 만든 도구 머리입니다.'
+  name: '&f은 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXESILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 도구 머리입니다.'
+  name: '&f은 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXESMITHIUM:
+  description:
+  - '&7스미슘으로 만든 도구 머리입니다.'
+  name: '&f스미슘 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXESOLDER:
+  description:
+  - '&7땜납으로 만든 도구 머리입니다.'
+  name: '&f땜납 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXESTAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 도구 머리입니다.'
+  name: '&f스테인리스강 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXESTAR_DUST:
+  description:
+  - '&7별가루로 만든 도구 머리입니다.'
+  name: '&f별가루 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXESTEEL:
+  description:
+  - '&7강철로 만든 도구 머리입니다.'
+  name: '&f강철 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXETESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 도구 머리입니다.'
+  name: '&f초입방체 물질 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXETIN:
+  description:
+  - '&7주석으로 만든 도구 머리입니다.'
+  name: '&f주석 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXETIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 도구 머리입니다.'
+  name: '&f주석 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXETITANIUM:
+  description:
+  - '&7티타늄으로 만든 도구 머리입니다.'
+  name: '&f티타늄 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEVOID:
+  description:
+  - '&7공허로 만든 도구 머리입니다.'
+  name: '&f공허 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEZINC:
+  description:
+  - '&7아연으로 만든 도구 머리입니다.'
+  name: '&f아연 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_AXEZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 도구 머리입니다.'
+  name: '&f아연 특이점 도끼 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 도구 머리입니다.'
+  name: '&f아다만타이트 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 도구 머리입니다.'
+  name: '&f고급 합금 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 황동 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 청동 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEBILLON:
+  description:
+  - '&7빌론으로 만든 도구 머리입니다.'
+  name: '&f빌론 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEBOOMERITE:
+  description:
+  - '&7부메라이트로 만든 도구 머리입니다.'
+  name: '&f부메라이트 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEBRASS:
+  description:
+  - '&7황동으로 만든 도구 머리입니다.'
+  name: '&f황동 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEBRONZE:
+  description:
+  - '&7청동으로 만든 도구 머리입니다.'
+  name: '&f청동 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOECOBALT:
+  description:
+  - '&7코발트로 만든 도구 머리입니다.'
+  name: '&f코발트 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOECOPPER:
+  description:
+  - '&7구리로 만든 도구 머리입니다.'
+  name: '&f구리 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOECOPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 도구 머리입니다.'
+  name: '&f구리 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOECORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 도구 머리입니다.'
+  name: '&f코린토스 청동 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEDAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 도구 머리입니다.'
+  name: '&f다마스쿠스 강철 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEDURALIUM:
+  description:
+  - '&7두랄륨으로 만든 도구 머리입니다.'
+  name: '&f두랄륨 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEEARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 도구 머리입니다.'
+  name: '&f대지 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEFERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 도구 머리입니다.'
+  name: '&f페로실리콘 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEFORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 도구 머리입니다.'
+  name: '&f행운 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEGOLD:
+  description:
+  - '&7금으로 만든 도구 머리입니다.'
+  name: '&f금 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEGOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 도구 머리입니다.'
+  name: '&f금 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEHARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 도구 머리입니다.'
+  name: '&f경화 금속 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEINFINITE:
+  description:
+  - '&7무한으로 만든 도구 머리입니다.'
+  name: '&f무한 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEINFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 도구 머리입니다.'
+  name: '&f무한 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEIRIDIUM:
+  description:
+  - '&7이리듐으로 만든 도구 머리입니다.'
+  name: '&f이리듐 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEIRON:
+  description:
+  - '&7철로 만든 도구 머리입니다.'
+  name: '&f철 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEIRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 도구 머리입니다.'
+  name: '&f철 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOELEAD:
+  description:
+  - '&7납으로 만든 도구 머리입니다.'
+  name: '&f납 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOELEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 도구 머리입니다.'
+  name: '&f납 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEMAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 도구 머리입니다.'
+  name: '&f마법 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEMAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEMAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEMAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 도구 머리입니다.'
+  name: '&f마그노늄 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEMAGSTEEL:
+  description:
+  - '&7마그강철로 만든 도구 머리입니다.'
+  name: '&f마그강철 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEMAG_THOR:
+  description:
+  - '&7마그토르로 만든 도구 머리입니다.'
+  name: '&f마그토르 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEMETAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 도구 머리입니다.'
+  name: '&f금속 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEMIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 도구 머리입니다.'
+  name: '&f혼합 금속 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEMYTHRIL:
+  description:
+  - '&7미스릴로 만든 도구 머리입니다.'
+  name: '&f미스릴 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOENICEINIUM:
+  description:
+  - '&7나이스늄으로 만든 도구 머리입니다.'
+  name: '&f나이스늄 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOENICKEL:
+  description:
+  - '&7니켈로 만든 도구 머리입니다.'
+  name: '&f니켈 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEREFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 도구 머리입니다.'
+  name: '&f정제된 철 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEREINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 도구 머리입니다.'
+  name: '&f강화 합금 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEREINFORCED_DRACONIUM:
+  description:
+  - '&7강화 드라코늄으로 만든 도구 머리입니다.'
+  name: '&f강화 드라코늄 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOESCRAP:
+  description:
+  - '&7고철로 만든 도구 머리입니다.'
+  name: '&f고철 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOESILVER:
+  description:
+  - '&7은으로 만든 도구 머리입니다.'
+  name: '&f은 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOESILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 도구 머리입니다.'
+  name: '&f은 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOESMITHIUM:
+  description:
+  - '&7스미슘으로 만든 도구 머리입니다.'
+  name: '&f스미슘 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOESOLDER:
+  description:
+  - '&7땜납으로 만든 도구 머리입니다.'
+  name: '&f땜납 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOESTAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 도구 머리입니다.'
+  name: '&f스테인리스강 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOESTAR_DUST:
+  description:
+  - '&7별가루로 만든 도구 머리입니다.'
+  name: '&f별가루 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOESTEEL:
+  description:
+  - '&7강철로 만든 도구 머리입니다.'
+  name: '&f강철 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOETESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 도구 머리입니다.'
+  name: '&f초입방체 물질 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOETIN:
+  description:
+  - '&7주석으로 만든 도구 머리입니다.'
+  name: '&f주석 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOETIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 도구 머리입니다.'
+  name: '&f주석 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOETITANIUM:
+  description:
+  - '&7티타늄으로 만든 도구 머리입니다.'
+  name: '&f티타늄 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEVOID:
+  description:
+  - '&7공허로 만든 도구 머리입니다.'
+  name: '&f공허 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEZINC:
+  description:
+  - '&7아연으로 만든 도구 머리입니다.'
+  name: '&f아연 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_HOEZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 도구 머리입니다.'
+  name: '&f아연 특이점 괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 도구 머리입니다.'
+  name: '&f아다만타이트 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 도구 머리입니다.'
+  name: '&f고급 합금 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 황동 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 청동 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKBILLON:
+  description:
+  - '&7빌론으로 만든 도구 머리입니다.'
+  name: '&f빌론 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKBOOMERITE:
+  description:
+  - '&7부메라이트로 만든 도구 머리입니다.'
+  name: '&f부메라이트 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKBRASS:
+  description:
+  - '&7황동으로 만든 도구 머리입니다.'
+  name: '&f황동 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKBRONZE:
+  description:
+  - '&7청동으로 만든 도구 머리입니다.'
+  name: '&f청동 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKCOBALT:
+  description:
+  - '&7코발트로 만든 도구 머리입니다.'
+  name: '&f코발트 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKCOPPER:
+  description:
+  - '&7구리로 만든 도구 머리입니다.'
+  name: '&f구리 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKCOPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 도구 머리입니다.'
+  name: '&f구리 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKCORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 도구 머리입니다.'
+  name: '&f코린토스 청동 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKDAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 도구 머리입니다.'
+  name: '&f다마스쿠스 강철 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKDURALIUM:
+  description:
+  - '&7두랄륨으로 만든 도구 머리입니다.'
+  name: '&f두랄륨 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKEARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 도구 머리입니다.'
+  name: '&f대지 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKFERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 도구 머리입니다.'
+  name: '&f페로실리콘 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKFORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 도구 머리입니다.'
+  name: '&f행운 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKGOLD:
+  description:
+  - '&7금으로 만든 도구 머리입니다.'
+  name: '&f금 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKGOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 도구 머리입니다.'
+  name: '&f금 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKHARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 도구 머리입니다.'
+  name: '&f경화 금속 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKINFINITE:
+  description:
+  - '&7무한으로 만든 도구 머리입니다.'
+  name: '&f무한 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKINFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 도구 머리입니다.'
+  name: '&f무한 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKIRIDIUM:
+  description:
+  - '&7이리듐으로 만든 도구 머리입니다.'
+  name: '&f이리듐 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKIRON:
+  description:
+  - '&7철로 만든 도구 머리입니다.'
+  name: '&f철 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKIRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 도구 머리입니다.'
+  name: '&f철 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKLEAD:
+  description:
+  - '&7납으로 만든 도구 머리입니다.'
+  name: '&f납 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKLEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 도구 머리입니다.'
+  name: '&f납 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKMAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 도구 머리입니다.'
+  name: '&f마법 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKMAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKMAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKMAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 도구 머리입니다.'
+  name: '&f마그노늄 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKMAGSTEEL:
+  description:
+  - '&7마그강철로 만든 도구 머리입니다.'
+  name: '&f마그강철 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKMAG_THOR:
+  description:
+  - '&7마그토르로 만든 도구 머리입니다.'
+  name: '&f마그토르 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKMETAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 도구 머리입니다.'
+  name: '&f금속 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKMIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 도구 머리입니다.'
+  name: '&f혼합 금속 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKMYTHRIL:
+  description:
+  - '&7미스릴로 만든 도구 머리입니다.'
+  name: '&f미스릴 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKNICEINIUM:
+  description:
+  - '&7나이스늄으로 만든 도구 머리입니다.'
+  name: '&f나이스늄 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKNICKEL:
+  description:
+  - '&7니켈로 만든 도구 머리입니다.'
+  name: '&f니켈 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKREFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 도구 머리입니다.'
+  name: '&f정제된 철 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKREINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 도구 머리입니다.'
+  name: '&f강화 합금 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKREINFORCED_DRACONIUM:
+  description:
+  - '&7강화 드라코늄으로 만든 도구 머리입니다.'
+  name: '&f강화 드라코늄 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKSCRAP:
+  description:
+  - '&7고철로 만든 도구 머리입니다.'
+  name: '&f고철 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKSILVER:
+  description:
+  - '&7은으로 만든 도구 머리입니다.'
+  name: '&f은 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKSILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 도구 머리입니다.'
+  name: '&f은 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKSMITHIUM:
+  description:
+  - '&7스미슘으로 만든 도구 머리입니다.'
+  name: '&f스미슘 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKSOLDER:
+  description:
+  - '&7땜납으로 만든 도구 머리입니다.'
+  name: '&f땜납 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKSTAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 도구 머리입니다.'
+  name: '&f스테인리스강 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKSTAR_DUST:
+  description:
+  - '&7별가루로 만든 도구 머리입니다.'
+  name: '&f별가루 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKSTEEL:
+  description:
+  - '&7강철로 만든 도구 머리입니다.'
+  name: '&f강철 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKTESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 도구 머리입니다.'
+  name: '&f초입방체 물질 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKTIN:
+  description:
+  - '&7주석으로 만든 도구 머리입니다.'
+  name: '&f주석 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKTIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 도구 머리입니다.'
+  name: '&f주석 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKTITANIUM:
+  description:
+  - '&7티타늄으로 만든 도구 머리입니다.'
+  name: '&f티타늄 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKVOID:
+  description:
+  - '&7공허로 만든 도구 머리입니다.'
+  name: '&f공허 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKZINC:
+  description:
+  - '&7아연으로 만든 도구 머리입니다.'
+  name: '&f아연 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_PICKZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 도구 머리입니다.'
+  name: '&f아연 특이점 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 도구 머리입니다.'
+  name: '&f아다만타이트 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 도구 머리입니다.'
+  name: '&f고급 합금 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 황동 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 청동 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELBILLON:
+  description:
+  - '&7빌론으로 만든 도구 머리입니다.'
+  name: '&f빌론 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELBOOMERITE:
+  description:
+  - '&7부메라이트로 만든 도구 머리입니다.'
+  name: '&f부메라이트 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELBRASS:
+  description:
+  - '&7황동으로 만든 도구 머리입니다.'
+  name: '&f황동 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELBRONZE:
+  description:
+  - '&7청동으로 만든 도구 머리입니다.'
+  name: '&f청동 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELCOBALT:
+  description:
+  - '&7코발트로 만든 도구 머리입니다.'
+  name: '&f코발트 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELCOPPER:
+  description:
+  - '&7구리로 만든 도구 머리입니다.'
+  name: '&f구리 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELCOPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 도구 머리입니다.'
+  name: '&f구리 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELCORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 도구 머리입니다.'
+  name: '&f코린토스 청동 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELDAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 도구 머리입니다.'
+  name: '&f다마스쿠스 강철 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELDURALIUM:
+  description:
+  - '&7두랄륨으로 만든 도구 머리입니다.'
+  name: '&f두랄륨 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELEARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 도구 머리입니다.'
+  name: '&f대지 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELFERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 도구 머리입니다.'
+  name: '&f페로실리콘 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELFORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 도구 머리입니다.'
+  name: '&f행운 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELGOLD:
+  description:
+  - '&7금으로 만든 도구 머리입니다.'
+  name: '&f금 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELGOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 도구 머리입니다.'
+  name: '&f금 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELHARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 도구 머리입니다.'
+  name: '&f경화 금속 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELINFINITE:
+  description:
+  - '&7무한으로 만든 도구 머리입니다.'
+  name: '&f무한 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELINFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 도구 머리입니다.'
+  name: '&f무한 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELIRIDIUM:
+  description:
+  - '&7이리듐으로 만든 도구 머리입니다.'
+  name: '&f이리듐 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELIRON:
+  description:
+  - '&7철로 만든 도구 머리입니다.'
+  name: '&f철 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELIRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 도구 머리입니다.'
+  name: '&f철 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELLEAD:
+  description:
+  - '&7납으로 만든 도구 머리입니다.'
+  name: '&f납 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELLEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 도구 머리입니다.'
+  name: '&f납 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELMAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 도구 머리입니다.'
+  name: '&f마법 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELMAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELMAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 도구 머리입니다.'
+  name: '&f마그노늄 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELMAGSTEEL:
+  description:
+  - '&7마그강철로 만든 도구 머리입니다.'
+  name: '&f마그강철 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELMAG_THOR:
+  description:
+  - '&7마그토르로 만든 도구 머리입니다.'
+  name: '&f마그토르 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELMETAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 도구 머리입니다.'
+  name: '&f금속 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELMIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 도구 머리입니다.'
+  name: '&f혼합 금속 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELMYTHRIL:
+  description:
+  - '&7미스릴로 만든 도구 머리입니다.'
+  name: '&f미스릴 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELNICEINIUM:
+  description:
+  - '&7나이스늄으로 만든 도구 머리입니다.'
+  name: '&f나이스늄 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELNICKEL:
+  description:
+  - '&7니켈로 만든 도구 머리입니다.'
+  name: '&f니켈 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELREFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 도구 머리입니다.'
+  name: '&f정제된 철 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELREINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 도구 머리입니다.'
+  name: '&f강화 합금 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELREINFORCED_DRACONIUM:
+  description:
+  - '&7강화 드라코늄으로 만든 도구 머리입니다.'
+  name: '&f강화 드라코늄 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELSCRAP:
+  description:
+  - '&7고철로 만든 도구 머리입니다.'
+  name: '&f고철 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELSILVER:
+  description:
+  - '&7은으로 만든 도구 머리입니다.'
+  name: '&f은 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELSILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 도구 머리입니다.'
+  name: '&f은 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELSMITHIUM:
+  description:
+  - '&7스미슘으로 만든 도구 머리입니다.'
+  name: '&f스미슘 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELSOLDER:
+  description:
+  - '&7땜납으로 만든 도구 머리입니다.'
+  name: '&f땜납 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELSTAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 도구 머리입니다.'
+  name: '&f스테인리스강 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELSTAR_DUST:
+  description:
+  - '&7별가루로 만든 도구 머리입니다.'
+  name: '&f별가루 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELSTEEL:
+  description:
+  - '&7강철로 만든 도구 머리입니다.'
+  name: '&f강철 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELTESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 도구 머리입니다.'
+  name: '&f초입방체 물질 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELTIN:
+  description:
+  - '&7주석으로 만든 도구 머리입니다.'
+  name: '&f주석 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELTIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 도구 머리입니다.'
+  name: '&f주석 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELTITANIUM:
+  description:
+  - '&7티타늄으로 만든 도구 머리입니다.'
+  name: '&f티타늄 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELVOID:
+  description:
+  - '&7공허로 만든 도구 머리입니다.'
+  name: '&f공허 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELZINC:
+  description:
+  - '&7아연으로 만든 도구 머리입니다.'
+  name: '&f아연 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SHOVELZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 도구 머리입니다.'
+  name: '&f아연 특이점 삽 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 도구 머리입니다.'
+  name: '&f아다만타이트 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 도구 머리입니다.'
+  name: '&f고급 합금 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 황동 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 청동 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 도구 머리입니다.'
+  name: '&f알루미늄 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDBILLON:
+  description:
+  - '&7빌론으로 만든 도구 머리입니다.'
+  name: '&f빌론 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDBOOMERITE:
+  description:
+  - '&7부메라이트로 만든 도구 머리입니다.'
+  name: '&f부메라이트 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDBRASS:
+  description:
+  - '&7황동으로 만든 도구 머리입니다.'
+  name: '&f황동 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDBRONZE:
+  description:
+  - '&7청동으로 만든 도구 머리입니다.'
+  name: '&f청동 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDCOBALT:
+  description:
+  - '&7코발트로 만든 도구 머리입니다.'
+  name: '&f코발트 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDCOPPER:
+  description:
+  - '&7구리로 만든 도구 머리입니다.'
+  name: '&f구리 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDCOPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 도구 머리입니다.'
+  name: '&f구리 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDCORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 도구 머리입니다.'
+  name: '&f코린토스 청동 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDDAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 도구 머리입니다.'
+  name: '&f다마스쿠스 강철 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDDURALIUM:
+  description:
+  - '&7두랄륨으로 만든 도구 머리입니다.'
+  name: '&f두랄륨 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDEARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 도구 머리입니다.'
+  name: '&f대지 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDFERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 도구 머리입니다.'
+  name: '&f페로실리콘 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDFORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 도구 머리입니다.'
+  name: '&f행운 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDGOLD:
+  description:
+  - '&7금으로 만든 도구 머리입니다.'
+  name: '&f금 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDGOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 도구 머리입니다.'
+  name: '&f금 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDHARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 도구 머리입니다.'
+  name: '&f경화 금속 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDINFINITE:
+  description:
+  - '&7무한으로 만든 도구 머리입니다.'
+  name: '&f무한 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDINFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 도구 머리입니다.'
+  name: '&f무한 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDIRIDIUM:
+  description:
+  - '&7이리듐으로 만든 도구 머리입니다.'
+  name: '&f이리듐 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDIRON:
+  description:
+  - '&7철로 만든 도구 머리입니다.'
+  name: '&f철 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDIRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 도구 머리입니다.'
+  name: '&f철 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDLEAD:
+  description:
+  - '&7납으로 만든 도구 머리입니다.'
+  name: '&f납 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDLEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 도구 머리입니다.'
+  name: '&f납 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDMAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 도구 머리입니다.'
+  name: '&f마법 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDMAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 도구 머리입니다.'
+  name: '&f마그네슘 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDMAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 도구 머리입니다.'
+  name: '&f마그노늄 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDMAGSTEEL:
+  description:
+  - '&7마그강철로 만든 도구 머리입니다.'
+  name: '&f마그강철 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDMAG_THOR:
+  description:
+  - '&7마그토르로 만든 도구 머리입니다.'
+  name: '&f마그토르 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDMETAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 도구 머리입니다.'
+  name: '&f금속 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDMIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 도구 머리입니다.'
+  name: '&f혼합 금속 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDMYTHRIL:
+  description:
+  - '&7미스릴로 만든 도구 머리입니다.'
+  name: '&f미스릴 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDNICEINIUM:
+  description:
+  - '&7나이스늄으로 만든 도구 머리입니다.'
+  name: '&f나이스늄 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDNICKEL:
+  description:
+  - '&7니켈로 만든 도구 머리입니다.'
+  name: '&f니켈 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDREFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 도구 머리입니다.'
+  name: '&f정제된 철 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDREINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 도구 머리입니다.'
+  name: '&f강화 합금 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDREINFORCED_DRACONIUM:
+  description:
+  - '&7강화 드라코늄으로 만든 도구 머리입니다.'
+  name: '&f강화 드라코늄 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDSCRAP:
+  description:
+  - '&7고철로 만든 도구 머리입니다.'
+  name: '&f고철 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDSILVER:
+  description:
+  - '&7은으로 만든 도구 머리입니다.'
+  name: '&f은 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDSILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 도구 머리입니다.'
+  name: '&f은 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDSMITHIUM:
+  description:
+  - '&7스미슘으로 만든 도구 머리입니다.'
+  name: '&f스미슘 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDSOLDER:
+  description:
+  - '&7땜납으로 만든 도구 머리입니다.'
+  name: '&f땜납 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDSTAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 도구 머리입니다.'
+  name: '&f스테인리스강 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDSTAR_DUST:
+  description:
+  - '&7별가루로 만든 도구 머리입니다.'
+  name: '&f별가루 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDSTEEL:
+  description:
+  - '&7강철로 만든 도구 머리입니다.'
+  name: '&f강철 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDTESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 도구 머리입니다.'
+  name: '&f초입방체 물질 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDTIN:
+  description:
+  - '&7주석으로 만든 도구 머리입니다.'
+  name: '&f주석 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDTIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 도구 머리입니다.'
+  name: '&f주석 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDTITANIUM:
+  description:
+  - '&7티타늄으로 만든 도구 머리입니다.'
+  name: '&f티타늄 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDVOID:
+  description:
+  - '&7공허로 만든 도구 머리입니다.'
+  name: '&f공허 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDZINC:
+  description:
+  - '&7아연으로 만든 도구 머리입니다.'
+  name: '&f아연 검 머리'
   type:
   - '&7&o부품'
 PART_HEAD_SWORDZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 도구 머리입니다.'
+  name: '&f아연 특이점 검 머리'
   type:
   - '&7&o부품'
 PART_HELM_PLATES:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f투구 판'
   type:
   - '&7&o부품'
 PART_HELM_PLATE_DUMMY:
+  description:
+  - '&7주조된 투구 판 세트입니다.'
+  name: '&f부품: 투구 판'
   type:
   - '&7&o부품'
 PART_HOE_HEAD:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f괭이 머리'
   type:
   - '&7&o부품'
 PART_HOE_HEAD_DUMMY:
+  description:
+  - '&7주조된 괭이 머리입니다.'
+  name: '&f부품: 괭이 머리'
   type:
   - '&7&o부품'
 PART_LEG_PLATES:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f바지 판'
   type:
   - '&7&o부품'
 PART_LEG_PLATE_DUMMY:
+  description:
+  - '&7주조된 바지 판 세트입니다.'
+  name: '&f부품: 바지 판'
   type:
   - '&7&o부품'
 PART_LINKS_ADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 사슬 고리 세트입니다.'
+  name: '&f아다만타이트 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_ADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 사슬 고리 세트입니다.'
+  name: '&f고급 합금 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_ALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 사슬 고리 세트입니다.'
+  name: '&f알루미늄 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_ALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 사슬 고리 세트입니다.'
+  name: '&f알루미늄 황동 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_ALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 사슬 고리 세트입니다.'
+  name: '&f알루미늄 청동 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_ALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f알루미늄 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_BILLON:
+  description:
+  - '&7빌론으로 만든 사슬 고리 세트입니다.'
+  name: '&f빌론 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_BRASS:
+  description:
+  - '&7황동으로 만든 사슬 고리 세트입니다.'
+  name: '&f황동 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_BRONZE:
+  description:
+  - '&7청동으로 만든 사슬 고리 세트입니다.'
+  name: '&f청동 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_COBALT:
+  description:
+  - '&7코발트로 만든 사슬 고리 세트입니다.'
+  name: '&f코발트 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_COPPER:
+  description:
+  - '&7구리로 만든 사슬 고리 세트입니다.'
+  name: '&f구리 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_COPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f구리 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_CORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 사슬 고리 세트입니다.'
+  name: '&f코린토스 청동 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_CRINGLEIUM:
+  description:
+  - '&7크링글륨으로 만든 사슬 고리 세트입니다.'
+  name: '&f크링글륨 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_DAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 사슬 고리 세트입니다.'
+  name: '&f다마스쿠스 강철 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_DURALIUM:
+  description:
+  - '&7두랄륨으로 만든 사슬 고리 세트입니다.'
+  name: '&f두랄륨 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_EARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f대지 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_FERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 사슬 고리 세트입니다.'
+  name: '&f페로실리콘 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_FORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f행운 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_GHOSTLY_ESSENCE:
+  description:
+  - '&7유령의 정수로 만든 사슬 고리 세트입니다.'
+  name: '&f유령의 정수 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_GOLD:
+  description:
+  - '&7금으로 만든 사슬 고리 세트입니다.'
+  name: '&f금 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_GOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f금 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_HARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 사슬 고리 세트입니다.'
+  name: '&f경화 금속 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_INFINITE:
+  description:
+  - '&7무한으로 만든 사슬 고리 세트입니다.'
+  name: '&f무한 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_INFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f무한 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_IRIDIUM:
+  description:
+  - '&7이리듐으로 만든 사슬 고리 세트입니다.'
+  name: '&f이리듐 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_IRON:
+  description:
+  - '&7철로 만든 사슬 고리 세트입니다.'
+  name: '&f철 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_IRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f철 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_LEAD:
+  description:
+  - '&7납으로 만든 사슬 고리 세트입니다.'
+  name: '&f납 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_LEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f납 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_LIQUID_LOVE:
+  description:
+  - '&7액체 사랑으로 만든 사슬 고리 세트입니다.'
+  name: '&f액체 사랑 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_MAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f마법 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_MAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 사슬 고리 세트입니다.'
+  name: '&f마그네슘 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f마그네슘 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_MAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 사슬 고리 세트입니다.'
+  name: '&f마그노늄 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_MAGSTEEL:
+  description:
+  - '&7마그강철로 만든 사슬 고리 세트입니다.'
+  name: '&f마그강철 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_MAG_THOR:
+  description:
+  - '&7마그토르로 만든 사슬 고리 세트입니다.'
+  name: '&f마그토르 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_METAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f금속 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_MIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 사슬 고리 세트입니다.'
+  name: '&f혼합 금속 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_MYTHRIL:
+  description:
+  - '&7미스릴로 만든 사슬 고리 세트입니다.'
+  name: '&f미스릴 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_NICKEL:
+  description:
+  - '&7니켈로 만든 사슬 고리 세트입니다.'
+  name: '&f니켈 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_REDSTONE_ALLOY:
+  description:
+  - '&7레드스톤 합금으로 만든 사슬 고리 세트입니다.'
+  name: '&f레드스톤 합금 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_REFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 사슬 고리 세트입니다.'
+  name: '&f정제된 철 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_REINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 사슬 고리 세트입니다.'
+  name: '&f강화 합금 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_SCRAP:
+  description:
+  - '&7고철로 만든 사슬 고리 세트입니다.'
+  name: '&f고철 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_SILVER:
+  description:
+  - '&7은으로 만든 사슬 고리 세트입니다.'
+  name: '&f은 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_SILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f은 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_SMITHIUM:
+  description:
+  - '&7스미슘으로 만든 사슬 고리 세트입니다.'
+  name: '&f스미슘 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_SOLDER:
+  description:
+  - '&7땜납으로 만든 사슬 고리 세트입니다.'
+  name: '&f땜납 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_STAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 사슬 고리 세트입니다.'
+  name: '&f스테인리스강 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_STAR_DUST:
+  description:
+  - '&7별가루로 만든 사슬 고리 세트입니다.'
+  name: '&f별가루 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_STEEL:
+  description:
+  - '&7강철로 만든 사슬 고리 세트입니다.'
+  name: '&f강철 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_TESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 사슬 고리 세트입니다.'
+  name: '&f초입방체 물질 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_TIN:
+  description:
+  - '&7주석으로 만든 사슬 고리 세트입니다.'
+  name: '&f주석 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_TIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f주석 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_TITANIUM:
+  description:
+  - '&7티타늄으로 만든 사슬 고리 세트입니다.'
+  name: '&f티타늄 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_ULTIMANINIUM:
+  description:
+  - '&7얼티마니늄으로 만든 사슬 고리 세트입니다.'
+  name: '&f얼티마니늄 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_VOID:
+  description:
+  - '&7공허로 만든 사슬 고리 세트입니다.'
+  name: '&f공허 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_ZINC:
+  description:
+  - '&7아연으로 만든 사슬 고리 세트입니다.'
+  name: '&f아연 사슬 고리'
   type:
   - '&7&o부품'
 PART_LINKS_ZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 사슬 고리 세트입니다.'
+  name: '&f아연 특이점 사슬 고리'
   type:
   - '&7&o부품'
 PART_MAIL_LINKS_DUMMY:
+  description:
+  - '&7주조된 금속 고리로 엮은 유연한 그물'
+  name: '&f부품: 사슬 고리'
   type:
   - '&7&o부품'
 PART_PICKAXE_HEAD:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f곡괭이 머리'
   type:
   - '&7&o부품'
 PART_PICKAXE_HEAD_DUMMY:
+  description:
+  - '&7주조된 곡괭이 머리입니다.'
+  name: '&f부품: 곡괭이 머리'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 방어구 판 세트입니다.'
+  name: '&f아다만타이트 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f고급 합금 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 황동 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 청동 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSANNIVERSARIUM:
+  description:
+  - '&7애니버사륨으로 만든 방어구 판 세트입니다.'
+  name: '&f애니버사륨 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSBILLON:
+  description:
+  - '&7빌론으로 만든 방어구 판 세트입니다.'
+  name: '&f빌론 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSBOOMERITE:
+  description:
+  - '&7부메라이트로 만든 방어구 판 세트입니다.'
+  name: '&f부메라이트 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSBRASS:
+  description:
+  - '&7황동으로 만든 방어구 판 세트입니다.'
+  name: '&f황동 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSBRONZE:
+  description:
+  - '&7청동으로 만든 방어구 판 세트입니다.'
+  name: '&f청동 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSCOBALT:
+  description:
+  - '&7코발트로 만든 방어구 판 세트입니다.'
+  name: '&f코발트 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSCOPPER:
+  description:
+  - '&7구리로 만든 방어구 판 세트입니다.'
+  name: '&f구리 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSCOPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f구리 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSCORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 방어구 판 세트입니다.'
+  name: '&f코린토스 청동 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSDAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 방어구 판 세트입니다.'
+  name: '&f다마스쿠스 강철 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSDURALIUM:
+  description:
+  - '&7두랄륨으로 만든 방어구 판 세트입니다.'
+  name: '&f두랄륨 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSEARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f대지 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSFERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 방어구 판 세트입니다.'
+  name: '&f페로실리콘 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSFORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f행운 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSGOLD:
+  description:
+  - '&7금으로 만든 방어구 판 세트입니다.'
+  name: '&f금 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSGOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f금 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSHARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 방어구 판 세트입니다.'
+  name: '&f경화 금속 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSINFINITE:
+  description:
+  - '&7무한으로 만든 방어구 판 세트입니다.'
+  name: '&f무한 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSINFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f무한 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSIRIDIUM:
+  description:
+  - '&7이리듐으로 만든 방어구 판 세트입니다.'
+  name: '&f이리듐 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSIRON:
+  description:
+  - '&7철로 만든 방어구 판 세트입니다.'
+  name: '&f철 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSIRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f철 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSLEAD:
+  description:
+  - '&7납으로 만든 방어구 판 세트입니다.'
+  name: '&f납 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSLEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f납 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSMAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f마법 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSMAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 방어구 판 세트입니다.'
+  name: '&f마그네슘 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f마그네슘 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSMAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 방어구 판 세트입니다.'
+  name: '&f마그노늄 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSMAGSTEEL:
+  description:
+  - '&7마그강철로 만든 방어구 판 세트입니다.'
+  name: '&f마그강철 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSMAG_THOR:
+  description:
+  - '&7마그토르로 만든 방어구 판 세트입니다.'
+  name: '&f마그토르 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSMETAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f금속 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSMIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 방어구 판 세트입니다.'
+  name: '&f혼합 금속 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSMYTHRIL:
+  description:
+  - '&7미스릴로 만든 방어구 판 세트입니다.'
+  name: '&f미스릴 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSNICKEL:
+  description:
+  - '&7니켈로 만든 방어구 판 세트입니다.'
+  name: '&f니켈 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSREDSTONE_ALLOY:
+  description:
+  - '&7레드스톤 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f레드스톤 합금 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSREFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 방어구 판 세트입니다.'
+  name: '&f정제된 철 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSREINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f강화 합금 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSSCRAP:
+  description:
+  - '&7고철로 만든 방어구 판 세트입니다.'
+  name: '&f고철 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSSEFIRITE:
+  description:
+  - '&7세피라이트로 만든 방어구 판 세트입니다.'
+  name: '&f세피라이트 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSSILVER:
+  description:
+  - '&7은으로 만든 방어구 판 세트입니다.'
+  name: '&f은 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSSILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f은 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSSMITHIUM:
+  description:
+  - '&7스미슘으로 만든 방어구 판 세트입니다.'
+  name: '&f스미슘 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSSOLDER:
+  description:
+  - '&7땜납으로 만든 방어구 판 세트입니다.'
+  name: '&f땜납 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSSTAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 방어구 판 세트입니다.'
+  name: '&f스테인리스강 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSSTAR_DUST:
+  description:
+  - '&7별가루로 만든 방어구 판 세트입니다.'
+  name: '&f별가루 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSSTEEL:
+  description:
+  - '&7강철로 만든 방어구 판 세트입니다.'
+  name: '&f강철 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSTESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 방어구 판 세트입니다.'
+  name: '&f초입방체 물질 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSTIN:
+  description:
+  - '&7주석으로 만든 방어구 판 세트입니다.'
+  name: '&f주석 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSTIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f주석 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSTITANIUM:
+  description:
+  - '&7티타늄으로 만든 방어구 판 세트입니다.'
+  name: '&f티타늄 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSVOID:
+  description:
+  - '&7공허로 만든 방어구 판 세트입니다.'
+  name: '&f공허 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSZINC:
+  description:
+  - '&7아연으로 만든 방어구 판 세트입니다.'
+  name: '&f아연 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_BOOTSZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f아연 특이점 부츠 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 방어구 판 세트입니다.'
+  name: '&f아다만타이트 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f고급 합금 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 황동 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 청동 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
+  description:
+  - '&7애니버사륨으로 만든 방어구 판 세트입니다.'
+  name: '&f애니버사륨 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEBILLON:
+  description:
+  - '&7빌론으로 만든 방어구 판 세트입니다.'
+  name: '&f빌론 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEBOOMERITE:
+  description:
+  - '&7부메라이트로 만든 방어구 판 세트입니다.'
+  name: '&f부메라이트 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEBRASS:
+  description:
+  - '&7황동으로 만든 방어구 판 세트입니다.'
+  name: '&f황동 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEBRONZE:
+  description:
+  - '&7청동으로 만든 방어구 판 세트입니다.'
+  name: '&f청동 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATECOBALT:
+  description:
+  - '&7코발트로 만든 방어구 판 세트입니다.'
+  name: '&f코발트 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATECOPPER:
+  description:
+  - '&7구리로 만든 방어구 판 세트입니다.'
+  name: '&f구리 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATECOPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f구리 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 방어구 판 세트입니다.'
+  name: '&f코린토스 청동 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 방어구 판 세트입니다.'
+  name: '&f다마스쿠스 강철 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEDURALIUM:
+  description:
+  - '&7두랄륨으로 만든 방어구 판 세트입니다.'
+  name: '&f두랄륨 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f대지 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEFERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 방어구 판 세트입니다.'
+  name: '&f페로실리콘 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEFORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f행운 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEGOLD:
+  description:
+  - '&7금으로 만든 방어구 판 세트입니다.'
+  name: '&f금 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEGOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f금 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEHARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 방어구 판 세트입니다.'
+  name: '&f경화 금속 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEINFINITE:
+  description:
+  - '&7무한으로 만든 방어구 판 세트입니다.'
+  name: '&f무한 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEINFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f무한 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEIRIDIUM:
+  description:
+  - '&7이리듐으로 만든 방어구 판 세트입니다.'
+  name: '&f이리듐 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEIRON:
+  description:
+  - '&7철로 만든 방어구 판 세트입니다.'
+  name: '&f철 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEIRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f철 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATELEAD:
+  description:
+  - '&7납으로 만든 방어구 판 세트입니다.'
+  name: '&f납 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATELEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f납 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEMAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f마법 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEMAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 방어구 판 세트입니다.'
+  name: '&f마그네슘 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f마그네슘 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEMAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 방어구 판 세트입니다.'
+  name: '&f마그노늄 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEMAGSTEEL:
+  description:
+  - '&7마그강철로 만든 방어구 판 세트입니다.'
+  name: '&f마그강철 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEMAG_THOR:
+  description:
+  - '&7마그토르로 만든 방어구 판 세트입니다.'
+  name: '&f마그토르 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f금속 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEMIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 방어구 판 세트입니다.'
+  name: '&f혼합 금속 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEMYTHRIL:
+  description:
+  - '&7미스릴로 만든 방어구 판 세트입니다.'
+  name: '&f미스릴 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATENICKEL:
+  description:
+  - '&7니켈로 만든 방어구 판 세트입니다.'
+  name: '&f니켈 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
+  description:
+  - '&7레드스톤 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f레드스톤 합금 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEREFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 방어구 판 세트입니다.'
+  name: '&f정제된 철 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f강화 합금 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATESCRAP:
+  description:
+  - '&7고철로 만든 방어구 판 세트입니다.'
+  name: '&f고철 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATESEFIRITE:
+  description:
+  - '&7세피라이트로 만든 방어구 판 세트입니다.'
+  name: '&f세피라이트 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATESILVER:
+  description:
+  - '&7은으로 만든 방어구 판 세트입니다.'
+  name: '&f은 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATESILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f은 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATESMITHIUM:
+  description:
+  - '&7스미슘으로 만든 방어구 판 세트입니다.'
+  name: '&f스미슘 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATESOLDER:
+  description:
+  - '&7땜납으로 만든 방어구 판 세트입니다.'
+  name: '&f땜납 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATESTAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 방어구 판 세트입니다.'
+  name: '&f스테인리스강 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATESTAR_DUST:
+  description:
+  - '&7별가루로 만든 방어구 판 세트입니다.'
+  name: '&f별가루 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATESTEEL:
+  description:
+  - '&7강철로 만든 방어구 판 세트입니다.'
+  name: '&f강철 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATETESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 방어구 판 세트입니다.'
+  name: '&f초입방체 물질 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATETIN:
+  description:
+  - '&7주석으로 만든 방어구 판 세트입니다.'
+  name: '&f주석 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATETIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f주석 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATETITANIUM:
+  description:
+  - '&7티타늄으로 만든 방어구 판 세트입니다.'
+  name: '&f티타늄 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEVOID:
+  description:
+  - '&7공허로 만든 방어구 판 세트입니다.'
+  name: '&f공허 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEZINC:
+  description:
+  - '&7아연으로 만든 방어구 판 세트입니다.'
+  name: '&f아연 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_CHESTPLATEZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f아연 특이점 흉갑 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 방어구 판 세트입니다.'
+  name: '&f아다만타이트 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f고급 합금 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 황동 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 청동 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETANNIVERSARIUM:
+  description:
+  - '&7애니버사륨으로 만든 방어구 판 세트입니다.'
+  name: '&f애니버사륨 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETBILLON:
+  description:
+  - '&7빌론으로 만든 방어구 판 세트입니다.'
+  name: '&f빌론 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETBOOMERITE:
+  description:
+  - '&7부메라이트로 만든 방어구 판 세트입니다.'
+  name: '&f부메라이트 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETBRASS:
+  description:
+  - '&7황동으로 만든 방어구 판 세트입니다.'
+  name: '&f황동 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETBRONZE:
+  description:
+  - '&7청동으로 만든 방어구 판 세트입니다.'
+  name: '&f청동 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETCOBALT:
+  description:
+  - '&7코발트로 만든 방어구 판 세트입니다.'
+  name: '&f코발트 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETCOPPER:
+  description:
+  - '&7구리로 만든 방어구 판 세트입니다.'
+  name: '&f구리 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETCOPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f구리 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETCORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 방어구 판 세트입니다.'
+  name: '&f코린토스 청동 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETDAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 방어구 판 세트입니다.'
+  name: '&f다마스쿠스 강철 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETDURALIUM:
+  description:
+  - '&7두랄륨으로 만든 방어구 판 세트입니다.'
+  name: '&f두랄륨 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETEARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f대지 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETFERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 방어구 판 세트입니다.'
+  name: '&f페로실리콘 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETFORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f행운 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETGOLD:
+  description:
+  - '&7금으로 만든 방어구 판 세트입니다.'
+  name: '&f금 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETGOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f금 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETHARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 방어구 판 세트입니다.'
+  name: '&f경화 금속 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETINFINITE:
+  description:
+  - '&7무한으로 만든 방어구 판 세트입니다.'
+  name: '&f무한 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETINFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f무한 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETIRIDIUM:
+  description:
+  - '&7이리듐으로 만든 방어구 판 세트입니다.'
+  name: '&f이리듐 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETIRON:
+  description:
+  - '&7철로 만든 방어구 판 세트입니다.'
+  name: '&f철 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETIRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f철 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETLEAD:
+  description:
+  - '&7납으로 만든 방어구 판 세트입니다.'
+  name: '&f납 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETLEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f납 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETMAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f마법 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETMAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 방어구 판 세트입니다.'
+  name: '&f마그네슘 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f마그네슘 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETMAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 방어구 판 세트입니다.'
+  name: '&f마그노늄 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETMAGSTEEL:
+  description:
+  - '&7마그강철로 만든 방어구 판 세트입니다.'
+  name: '&f마그강철 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETMAG_THOR:
+  description:
+  - '&7마그토르로 만든 방어구 판 세트입니다.'
+  name: '&f마그토르 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETMETAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f금속 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETMIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 방어구 판 세트입니다.'
+  name: '&f혼합 금속 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETMYTHRIL:
+  description:
+  - '&7미스릴로 만든 방어구 판 세트입니다.'
+  name: '&f미스릴 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETNICKEL:
+  description:
+  - '&7니켈로 만든 방어구 판 세트입니다.'
+  name: '&f니켈 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETREDSTONE_ALLOY:
+  description:
+  - '&7레드스톤 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f레드스톤 합금 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETREFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 방어구 판 세트입니다.'
+  name: '&f정제된 철 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETREINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f강화 합금 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETSCRAP:
+  description:
+  - '&7고철로 만든 방어구 판 세트입니다.'
+  name: '&f고철 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETSEFIRITE:
+  description:
+  - '&7세피라이트로 만든 방어구 판 세트입니다.'
+  name: '&f세피라이트 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETSILVER:
+  description:
+  - '&7은으로 만든 방어구 판 세트입니다.'
+  name: '&f은 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETSILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f은 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETSMITHIUM:
+  description:
+  - '&7스미슘으로 만든 방어구 판 세트입니다.'
+  name: '&f스미슘 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETSOLDER:
+  description:
+  - '&7땜납으로 만든 방어구 판 세트입니다.'
+  name: '&f땜납 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETSTAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 방어구 판 세트입니다.'
+  name: '&f스테인리스강 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETSTAR_DUST:
+  description:
+  - '&7별가루로 만든 방어구 판 세트입니다.'
+  name: '&f별가루 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETSTEEL:
+  description:
+  - '&7강철로 만든 방어구 판 세트입니다.'
+  name: '&f강철 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETTESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 방어구 판 세트입니다.'
+  name: '&f초입방체 물질 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETTIN:
+  description:
+  - '&7주석으로 만든 방어구 판 세트입니다.'
+  name: '&f주석 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETTIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f주석 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETTITANIUM:
+  description:
+  - '&7티타늄으로 만든 방어구 판 세트입니다.'
+  name: '&f티타늄 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETVOID:
+  description:
+  - '&7공허로 만든 방어구 판 세트입니다.'
+  name: '&f공허 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETZINC:
+  description:
+  - '&7아연으로 만든 방어구 판 세트입니다.'
+  name: '&f아연 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_HELMETZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f아연 특이점 투구 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 방어구 판 세트입니다.'
+  name: '&f아다만타이트 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f고급 합금 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 황동 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 청동 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f알루미늄 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
+  description:
+  - '&7애니버사륨으로 만든 방어구 판 세트입니다.'
+  name: '&f애니버사륨 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSBILLON:
+  description:
+  - '&7빌론으로 만든 방어구 판 세트입니다.'
+  name: '&f빌론 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSBOOMERITE:
+  description:
+  - '&7부메라이트로 만든 방어구 판 세트입니다.'
+  name: '&f부메라이트 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSBRASS:
+  description:
+  - '&7황동으로 만든 방어구 판 세트입니다.'
+  name: '&f황동 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSBRONZE:
+  description:
+  - '&7청동으로 만든 방어구 판 세트입니다.'
+  name: '&f청동 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSCOBALT:
+  description:
+  - '&7코발트로 만든 방어구 판 세트입니다.'
+  name: '&f코발트 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSCOPPER:
+  description:
+  - '&7구리로 만든 방어구 판 세트입니다.'
+  name: '&f구리 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSCOPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f구리 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 방어구 판 세트입니다.'
+  name: '&f코린토스 청동 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSDAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 방어구 판 세트입니다.'
+  name: '&f다마스쿠스 강철 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSDURALIUM:
+  description:
+  - '&7두랄륨으로 만든 방어구 판 세트입니다.'
+  name: '&f두랄륨 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSEARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f대지 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSFERROSILICON:
+  description:
+  - '&7페로실리콘으로 만든 방어구 판 세트입니다.'
+  name: '&f페로실리콘 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSFORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f행운 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSGOLD:
+  description:
+  - '&7금으로 만든 방어구 판 세트입니다.'
+  name: '&f금 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSGOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f금 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSHARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 방어구 판 세트입니다.'
+  name: '&f경화 금속 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSINFINITE:
+  description:
+  - '&7무한으로 만든 방어구 판 세트입니다.'
+  name: '&f무한 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSINFINITY_SINGULARITY:
+  description:
+  - '&7무한 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f무한 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSIRIDIUM:
+  description:
+  - '&7이리듐으로 만든 방어구 판 세트입니다.'
+  name: '&f이리듐 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSIRON:
+  description:
+  - '&7철로 만든 방어구 판 세트입니다.'
+  name: '&f철 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSIRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f철 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSLEAD:
+  description:
+  - '&7납으로 만든 방어구 판 세트입니다.'
+  name: '&f납 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSLEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f납 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSMAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f마법 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSMAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 방어구 판 세트입니다.'
+  name: '&f마그네슘 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f마그네슘 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSMAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 방어구 판 세트입니다.'
+  name: '&f마그노늄 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSMAGSTEEL:
+  description:
+  - '&7마그강철로 만든 방어구 판 세트입니다.'
+  name: '&f마그강철 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSMAG_THOR:
+  description:
+  - '&7마그토르로 만든 방어구 판 세트입니다.'
+  name: '&f마그토르 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSMETAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f금속 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSMIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 방어구 판 세트입니다.'
+  name: '&f혼합 금속 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSMYTHRIL:
+  description:
+  - '&7미스릴로 만든 방어구 판 세트입니다.'
+  name: '&f미스릴 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSNICKEL:
+  description:
+  - '&7니켈로 만든 방어구 판 세트입니다.'
+  name: '&f니켈 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSREDSTONE_ALLOY:
+  description:
+  - '&7레드스톤 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f레드스톤 합금 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSREFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 방어구 판 세트입니다.'
+  name: '&f정제된 철 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSREINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 방어구 판 세트입니다.'
+  name: '&f강화 합금 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSSCRAP:
+  description:
+  - '&7고철로 만든 방어구 판 세트입니다.'
+  name: '&f고철 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSSEFIRITE:
+  description:
+  - '&7세피라이트로 만든 방어구 판 세트입니다.'
+  name: '&f세피라이트 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSSILVER:
+  description:
+  - '&7은으로 만든 방어구 판 세트입니다.'
+  name: '&f은 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSSILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f은 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSSMITHIUM:
+  description:
+  - '&7스미슘으로 만든 방어구 판 세트입니다.'
+  name: '&f스미슘 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSSOLDER:
+  description:
+  - '&7땜납으로 만든 방어구 판 세트입니다.'
+  name: '&f땜납 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSSTAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 방어구 판 세트입니다.'
+  name: '&f스테인리스강 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSSTAR_DUST:
+  description:
+  - '&7별가루로 만든 방어구 판 세트입니다.'
+  name: '&f별가루 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSSTEEL:
+  description:
+  - '&7강철로 만든 방어구 판 세트입니다.'
+  name: '&f강철 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSTESSERACTING_MATERIAL:
+  description:
+  - '&7초입방체 물질로 만든 방어구 판 세트입니다.'
+  name: '&f초입방체 물질 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSTIN:
+  description:
+  - '&7주석으로 만든 방어구 판 세트입니다.'
+  name: '&f주석 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSTIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f주석 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSTITANIUM:
+  description:
+  - '&7티타늄으로 만든 방어구 판 세트입니다.'
+  name: '&f티타늄 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSVOID:
+  description:
+  - '&7공허로 만든 방어구 판 세트입니다.'
+  name: '&f공허 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSZINC:
+  description:
+  - '&7아연으로 만든 방어구 판 세트입니다.'
+  name: '&f아연 바지 판'
   type:
   - '&7&o부품'
 PART_PLATES_LEGGINGSZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 방어구 판 세트입니다.'
+  name: '&f아연 특이점 바지 판'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_ADAMANTITE:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7아다만타이트로 만들었습니다.'
+  name: '&f아다만타이트 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_ADVANCED_ALLOY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7고급 합금으로 만들었습니다.'
+  name: '&f고급 합금 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_ALUMINUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7알루미늄으로 만들었습니다.'
+  name: '&f알루미늄 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_ALUMINUM_BRASS:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7알루미늄 황동으로 만들었습니다.'
+  name: '&f알루미늄 황동 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_ALUMINUM_BRONZE:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7알루미늄 청동으로 만들었습니다.'
+  name: '&f알루미늄 청동 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7알루미늄 특이점으로 만들었습니다.'
+  name: '&f알루미늄 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_ANNIVERSARIUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7애니버사륨으로 만들었습니다.'
+  name: '&f애니버사륨 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_BILLON:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7빌론으로 만들었습니다.'
+  name: '&f빌론 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_BOOMERITE:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7부메라이트로 만들었습니다.'
+  name: '&f부메라이트 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_BRASS:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7황동으로 만들었습니다.'
+  name: '&f황동 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_BRONZE:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7청동으로 만들었습니다.'
+  name: '&f청동 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_COBALT:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7코발트로 만들었습니다.'
+  name: '&f코발트 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_COPPER:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7구리로 만들었습니다.'
+  name: '&f구리 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_COPPER_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7구리 특이점으로 만들었습니다.'
+  name: '&f구리 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_CORINTHIAN_BRONZE:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7코린토스 청동으로 만들었습니다.'
+  name: '&f코린토스 청동 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_DAMASCUS_STEEL:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7다마스쿠스 강철로 만들었습니다.'
+  name: '&f다마스쿠스 강철 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_DUMMY:
+  description:
+  - '&7수리대에서 부서진 아이템을 수리합니다.'
+  name: '&f부품: 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_DURALIUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7두랄륨으로 만들었습니다.'
+  name: '&f두랄륨 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_EARTH_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7대지 특이점으로 만들었습니다.'
+  name: '&f대지 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_FERROSILICON:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7페로실리콘으로 만들었습니다.'
+  name: '&f페로실리콘 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_FORTUNE_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7행운 특이점으로 만들었습니다.'
+  name: '&f행운 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_GOLD:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7금으로 만들었습니다.'
+  name: '&f금 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_GOLD_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7금 특이점으로 만들었습니다.'
+  name: '&f금 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_HARDENED_METAL:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7경화 금속으로 만들었습니다.'
+  name: '&f경화 금속 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_INFINITE:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7무한으로 만들었습니다.'
+  name: '&f무한 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_INFINITY_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7무한 특이점으로 만들었습니다.'
+  name: '&f무한 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_IRIDIUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7이리듐으로 만들었습니다.'
+  name: '&f이리듐 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_IRON:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7철로 만들었습니다.'
+  name: '&f철 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_IRON_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7철 특이점으로 만들었습니다.'
+  name: '&f철 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_LEAD:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7납으로 만들었습니다.'
+  name: '&f납 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_LEAD_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7납 특이점으로 만들었습니다.'
+  name: '&f납 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_MAGIC_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7마법 특이점으로 만들었습니다.'
+  name: '&f마법 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_MAGNESIUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7마그네슘으로 만들었습니다.'
+  name: '&f마그네슘 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7마그네슘 특이점으로 만들었습니다.'
+  name: '&f마그네슘 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_MAGNONIUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7마그노늄으로 만들었습니다.'
+  name: '&f마그노늄 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_MAGSTEEL:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7마그강철로 만들었습니다.'
+  name: '&f마그강철 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_MAG_THOR:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7마그토르로 만들었습니다.'
+  name: '&f마그토르 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_METAL_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7금속 특이점으로 만들었습니다.'
+  name: '&f금속 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_MIXED_METAL:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7혼합 금속으로 만들었습니다.'
+  name: '&f혼합 금속 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_MYTHRIL:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7미스릴로 만들었습니다.'
+  name: '&f미스릴 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_NICEINIUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7나이스늄으로 만들었습니다.'
+  name: '&f나이스늄 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_NICKEL:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7니켈로 만들었습니다.'
+  name: '&f니켈 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_REDSTONE_ALLOY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7레드스톤 합금으로 만들었습니다.'
+  name: '&f레드스톤 합금 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_REFINED_IRON:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7정제된 철로 만들었습니다.'
+  name: '&f정제된 철 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_REINFORCED_ALLOY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7강화 합금으로 만들었습니다.'
+  name: '&f강화 합금 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_REINFORCED_DRACONIUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7강화 드라코늄으로 만들었습니다.'
+  name: '&f강화 드라코늄 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_SCRAP:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7고철로 만들었습니다.'
+  name: '&f고철 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_SEFIRITE:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7세피라이트로 만들었습니다.'
+  name: '&f세피라이트 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_SILVER:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7은으로 만들었습니다.'
+  name: '&f은 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_SILVER_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7은 특이점으로 만들었습니다.'
+  name: '&f은 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_SMITHIUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7스미슘으로 만들었습니다.'
+  name: '&f스미슘 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_SOLDER:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7땜납으로 만들었습니다.'
+  name: '&f땜납 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_STAINLESS_STEEL:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7스테인리스강으로 만들었습니다.'
+  name: '&f스테인리스강 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_STAR_DUST:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7별가루로 만들었습니다.'
+  name: '&f별가루 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_STEEL:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7강철로 만들었습니다.'
+  name: '&f강철 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_TESSERACTING_MATERIAL:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7초입방체 물질로 만들었습니다.'
+  name: '&f초입방체 물질 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_TIN:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7주석으로 만들었습니다.'
+  name: '&f주석 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_TIN_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7주석 특이점으로 만들었습니다.'
+  name: '&f주석 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_TITANIUM:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7티타늄으로 만들었습니다.'
+  name: '&f티타늄 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_VOID:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7공허로 만들었습니다.'
+  name: '&f공허 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_ZINC:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7아연으로 만들었습니다.'
+  name: '&f아연 수리 키트'
   type:
   - '&7&o부품'
 PART_REPAIR_KIT_ZINC_SINGULARITY:
+  description:
+  - '&7아이템을 수리할 수 있는 키트'
+  - '&7아연 특이점으로 만들었습니다.'
+  name: '&f아연 특이점 수리 키트'
   type:
   - '&7&o부품'
 PART_ROD_ADAMANTITE:
+  description:
+  - '&7아다만타이트로 만든 도구 손잡이입니다.'
+  name: '&f아다만타이트 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_ADVANCED_ALLOY:
+  description:
+  - '&7고급 합금으로 만든 도구 손잡이입니다.'
+  name: '&f고급 합금 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_ALUMINUM:
+  description:
+  - '&7알루미늄으로 만든 도구 손잡이입니다.'
+  name: '&f알루미늄 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_ALUMINUM_BRASS:
+  description:
+  - '&7알루미늄 황동으로 만든 도구 손잡이입니다.'
+  name: '&f알루미늄 황동 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_ALUMINUM_BRONZE:
+  description:
+  - '&7알루미늄 청동으로 만든 도구 손잡이입니다.'
+  name: '&f알루미늄 청동 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_ALUMINUM_SINGULARITY:
+  description:
+  - '&7알루미늄 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f알루미늄 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_BILLON:
+  description:
+  - '&7빌론으로 만든 도구 손잡이입니다.'
+  name: '&f빌론 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_BRASS:
+  description:
+  - '&7황동으로 만든 도구 손잡이입니다.'
+  name: '&f황동 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_BRONZE:
+  description:
+  - '&7청동으로 만든 도구 손잡이입니다.'
+  name: '&f청동 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_COBALT:
+  description:
+  - '&7코발트로 만든 도구 손잡이입니다.'
+  name: '&f코발트 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_COPPER:
+  description:
+  - '&7구리로 만든 도구 손잡이입니다.'
+  name: '&f구리 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_COPPER_SINGULARITY:
+  description:
+  - '&7구리 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f구리 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_CORINTHIAN_BRONZE:
+  description:
+  - '&7코린토스 청동으로 만든 도구 손잡이입니다.'
+  name: '&f코린토스 청동 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_DAMASCUS_STEEL:
+  description:
+  - '&7다마스쿠스 강철로 만든 도구 손잡이입니다.'
+  name: '&f다마스쿠스 강철 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_DURALIUM:
+  description:
+  - '&7두랄륨으로 만든 도구 손잡이입니다.'
+  name: '&f두랄륨 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_EARTH_SINGULARITY:
+  description:
+  - '&7대지 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f대지 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_FORTUNE_SINGULARITY:
+  description:
+  - '&7행운 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f행운 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_GHOSTLY_ESSENCE:
+  description:
+  - '&7유령의 정수로 만든 도구 손잡이입니다.'
+  name: '&f유령의 정수 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_GOLD:
+  description:
+  - '&7금으로 만든 도구 손잡이입니다.'
+  name: '&f금 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_GOLD_SINGULARITY:
+  description:
+  - '&7금 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f금 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_HARDENED_METAL:
+  description:
+  - '&7경화 금속으로 만든 도구 손잡이입니다.'
+  name: '&f경화 금속 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_INFINITE:
+  description:
+  - '&7무한으로 만든 도구 손잡이입니다.'
+  name: '&f무한 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_IRIDIUM:
+  description:
+  - '&7이리듐으로 만든 도구 손잡이입니다.'
+  name: '&f이리듐 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_IRON:
+  description:
+  - '&7철로 만든 도구 손잡이입니다.'
+  name: '&f철 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_IRON_SINGULARITY:
+  description:
+  - '&7철 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f철 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_LEAD:
+  description:
+  - '&7납으로 만든 도구 손잡이입니다.'
+  name: '&f납 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_LEAD_SINGULARITY:
+  description:
+  - '&7납 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f납 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_MAGIC_SINGULARITY:
+  description:
+  - '&7마법 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f마법 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_MAGNESIUM:
+  description:
+  - '&7마그네슘으로 만든 도구 손잡이입니다.'
+  name: '&f마그네슘 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7마그네슘 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f마그네슘 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_MAGNONIUM:
+  description:
+  - '&7마그노늄으로 만든 도구 손잡이입니다.'
+  name: '&f마그노늄 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_MAGSTEEL:
+  description:
+  - '&7마그강철로 만든 도구 손잡이입니다.'
+  name: '&f마그강철 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_MAG_THOR:
+  description:
+  - '&7마그토르로 만든 도구 손잡이입니다.'
+  name: '&f마그토르 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_METAL_SINGULARITY:
+  description:
+  - '&7금속 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f금속 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_MIXED_METAL:
+  description:
+  - '&7혼합 금속으로 만든 도구 손잡이입니다.'
+  name: '&f혼합 금속 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_MYTHRIL:
+  description:
+  - '&7미스릴로 만든 도구 손잡이입니다.'
+  name: '&f미스릴 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_NICKEL:
+  description:
+  - '&7니켈로 만든 도구 손잡이입니다.'
+  name: '&f니켈 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_REDSTONE_ALLOY:
+  description:
+  - '&7레드스톤 합금으로 만든 도구 손잡이입니다.'
+  name: '&f레드스톤 합금 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_REFINED_IRON:
+  description:
+  - '&7정제된 철로 만든 도구 손잡이입니다.'
+  name: '&f정제된 철 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_REINFORCED_ALLOY:
+  description:
+  - '&7강화 합금으로 만든 도구 손잡이입니다.'
+  name: '&f강화 합금 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_SCRAP:
+  description:
+  - '&7고철로 만든 도구 손잡이입니다.'
+  name: '&f고철 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_SILVER:
+  description:
+  - '&7은으로 만든 도구 손잡이입니다.'
+  name: '&f은 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_SILVER_SINGULARITY:
+  description:
+  - '&7은 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f은 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_SMITHIUM:
+  description:
+  - '&7스미슘으로 만든 도구 손잡이입니다.'
+  name: '&f스미슘 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_SOLDER:
+  description:
+  - '&7땜납으로 만든 도구 손잡이입니다.'
+  name: '&f땜납 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_STAINLESS_STEEL:
+  description:
+  - '&7스테인리스강으로 만든 도구 손잡이입니다.'
+  name: '&f스테인리스강 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_STAR_DUST:
+  description:
+  - '&7별가루로 만든 도구 손잡이입니다.'
+  name: '&f별가루 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_STEEL:
+  description:
+  - '&7강철로 만든 도구 손잡이입니다.'
+  name: '&f강철 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_TIN:
+  description:
+  - '&7주석으로 만든 도구 손잡이입니다.'
+  name: '&f주석 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_TIN_SINGULARITY:
+  description:
+  - '&7주석 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f주석 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_TITANIUM:
+  description:
+  - '&7티타늄으로 만든 도구 손잡이입니다.'
+  name: '&f티타늄 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_VOID:
+  description:
+  - '&7공허로 만든 도구 손잡이입니다.'
+  name: '&f공허 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_ZINC:
+  description:
+  - '&7아연으로 만든 도구 손잡이입니다.'
+  name: '&f아연 손잡이'
   type:
   - '&7&o부품'
 PART_ROD_ZINC_SINGULARITY:
+  description:
+  - '&7아연 특이점으로 만든 도구 손잡이입니다.'
+  name: '&f아연 특이점 손잡이'
   type:
   - '&7&o부품'
 PART_SHOVEL_HEAD:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f삽 머리'
   type:
   - '&7&o부품'
 PART_SHOVEL_HEAD_DUMMY:
+  description:
+  - '&7주조된 삽 머리입니다.'
+  name: '&f부품: 삽 머리'
   type:
   - '&7&o부품'
 PART_SWORD_BLADE:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f검 날'
   type:
   - '&7&o부품'
 PART_SWORD_BLADE_DUMMY:
+  description:
+  - '&7주조된 검 날입니다.'
+  name: '&f부품: 검 날'
   type:
   - '&7&o부품'
 PART_TOOL_ROD:
+  description:
+  - '&7도구 부품입니다. 그 자체로는 쓸모없지만'
+  - '&7다음 장소에서 더 위대한 것으로 만들 수 있습니다:'
+  - '&7팅커의 작업대입니다.'
+  name: '&f도구 손잡이'
   type:
   - '&7&o부품'
 PART_TOOL_ROD_DUMMY:
+  description:
+  - '&7주조된 도구 손잡이입니다.'
+  name: '&f부품: 도구 손잡이'
   type:
   - '&7&o부품'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
+  description:
+  - '&7이 방어구는 입지 마세요.'
+  - '&7아주 나쁜 일이 일어날 수 있습니다'
+  - '&7경고했습니다'
+  - '&7경험치 +400%.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f한심함'
   type:
   - '&7&o부품'
 PLANEWALKER_TRAIT_PROP_PLATES_VOID_INGOT:
+  description:
+  - '&7공허는 더 이상 당신의 적이 아닙니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f차원 보행자'
   type:
   - '&7&o부품'
 POISONOUS_II_TRAIT_PROP_HEAD_LEAD_SINGULARITY:
+  description:
+  - '&7더 자주, 더 오래 독을 겁니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f유독 II'
   type:
   - '&7&o부품'
 POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
+  description:
+  - '&7타격 시 25% 확률로 독을 겁니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f유독'
   type:
   - '&7&o부품'
 POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
+  description:
+  - '&75x2x5 범위 안의 블록에 무작위로 신호를 넣습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f전원 켜짐'
   type:
   - '&7&o부품'
 PROP_BINDING:
+  description:
+  - '&7아무 ''결속재'' 아이템.'
+  name: '&f부품: 결속재'
   type:
   - '&7&o부품'
 PROP_GAMBESON:
+  description:
+  - '&7아무 ''누비옷'' 아이템.'
+  name: '&f부품: 누비옷'
   type:
   - '&7&o부품'
 PROP_HEAD:
+  description:
+  - '&7아무 ''머리'' 아이템 (검 날, 도끼 머리 등)'
+  name: '&f부품: 머리'
   type:
   - '&7&o부품'
 PROP_LINKS:
+  description:
+  - '&7아무 ''사슬 고리'' 아이템.'
+  name: '&f부품: 사슬 고리'
   type:
   - '&7&o부품'
 PROP_PLATES:
+  description:
+  - '&7아무 ''판'' 아이템 (투구 판, 부츠 판 등)'
+  name: '&f부품: 판'
   type:
   - '&7&o부품'
 PROP_ROD:
+  description:
+  - '&7아무 ''도구 손잡이'' 아이템.'
+  name: '&f부품: 도구 손잡이'
   type:
   - '&7&o부품'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:
+  description:
+  - '&7피격 시 1% 확률로 금 조각 1-4개를 떨어뜨립니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f번영 II'
   type:
   - '&7&o부품'
 PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
+  description:
+  - '&7피격 시 1% 확률로 금 조각을 떨어뜨립니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f번영'
   type:
   - '&7&o부품'
 PROTECTIVE_TRAIT_PROP_HEAD_IRIDIUM:
+  description:
+  - '&7죽음에서 구해줍니다. (대기시간 20분)'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f보호'
   type:
   - '&7&o부품'
 PURIFIED_PASSION_LIQUID:
+  description:
+  - '&7정제된 열정으로 이루어진 용융 상태입니다.'
+  name: '&f용융 정제된 열정'
   type:
   - '&7&o자원'
 RADIOACTIVE_PLATES_TRAIT_PROP_PLATES_MAG_THOR:
+  description:
+  - '&7당신을 공격한 적에게 독을 겁니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f방사성 물질 판'
   type:
   - '&7&o부품'
 REALLY_STABLE_TRAIT_PROP_HEAD_REFINED_IRON:
+  description:
+  - '&7아무 효과도 없습니다. 레벨을 올려보면 어떨까요?.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f정말 안정적'
   type:
   - '&7&o부품'
 REALLY_STAINLESS_TRAIT_PROP_HEAD_MAGSTEEL:
+  description:
+  - '&7스테인리스강 같지만.. 진짜로요.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f정말 부식 없음'
   type:
   - '&7&o부품'
 RECYCLABLE_II_TRAIT_PROP_HEAD_ALUMINUM_SINGULARITY:
+  description:
+  - '&7타격/블록 파괴 시 내구도를 회복할 확률이 있습니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f재활용 가능 II'
   type:
   - '&7&o부품'
 RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
+  description:
+  - '&7타격/블록 파괴 시 내구도를 회복할 확률이 있습니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f재활용 가능'
   type:
   - '&7&o부품'
 REDSTONE_ALLOY_ALLOY:
+  description:
+  - '&7레드스톤 합금으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 레드스톤 합금'
   type:
   - '&7&o자원'
 REDSTONE_ALLOY_LIQUID:
+  description:
+  - '&7레드스톤 합금으로 이루어진 용융 상태입니다.'
+  name: '&f용융 레드스톤 합금'
   type:
   - '&7&o자원'
 REDSTONE_LIQUID:
+  description:
+  - '&7레드스톤으로 이루어진 용융 상태입니다.'
+  name: '&f용융 레드스톤'
   type:
   - '&7&o자원'
 REFINED_IRON_LIQUID:
+  description:
+  - '&7정제된 철로 이루어진 용융 상태입니다.'
+  name: '&f용융 정제된 철'
   type:
   - '&7&o자원'
 REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
+  description:
+  - '&7들고 있는 사람을 서서히 치유합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f상쾌함'
   type:
   - '&7&o부품'
 REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
+  description:
+  - '&7착용한 플레이어를 서서히 치유합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f상쾌함'
   type:
   - '&7&o부품'
 REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7판 개조가 두 번 계산됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f강화 가능'
   type:
   - '&7&o부품'
 REINFORCED_ALLOY_ALLOY:
+  description:
+  - '&7강화 합금으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 강화 합금'
   type:
   - '&7&o자원'
 REINFORCED_ALLOY_LIQUID:
+  description:
+  - '&7강화 합금으로 이루어진 용융 상태입니다.'
+  name: '&f용융 강화 합금'
   type:
   - '&7&o자원'
 REINFORCED_DRACONIUM_ALLOY:
+  description:
+  - '&7강화 드라코늄으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 강화 드라코늄'
   type:
   - '&7&o자원'
 REINFORCED_DRACONIUM_LIQUID:
+  description:
+  - '&7강화 드라코늄으로 이루어진 용융 상태입니다.'
+  name: '&f용융 강화 드라코늄'
   type:
   - '&7&o자원'
 REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
+  description:
+  - '&7도구에 붙은 판 개조가 두 번 계산됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f강화'
   type:
   - '&7&o부품'
 REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7도구에 붙은 판 개조가 두 번 계산됩니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f강화'
   type:
   - '&7&o부품'
 REMOTININIUM_LIQUID:
+  description:
+  - '&7리모티니늄으로 이루어진 용융 상태입니다.'
+  name: '&f용융 리모티니늄'
   type:
   - '&7&o자원'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
+  description:
+  - '&7들고 있는 동안 화염 저항을 부여합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f저항'
   type:
   - '&7&o부품'
 RUSTY_II_TRAIT_PROP_LINKS_IRON_SINGULARITY:
+  description:
+  - '&7방어구 내구도 소모 +10%. 플레이어 경험치 획득 +20%'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f녹슴 II'
   type:
   - '&7&o부품'
 RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
+  description:
+  - '&7방어구 내구도 소모 +10%. 플레이어 경험치 획득 +10%'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f녹슴'
   type:
   - '&7&o부품'
 SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
+  description:
+  - '&7내구도 소모가 두 배가 됩니다. 체력이 절반 아래일 때 피해를 받으면 신속 3을 얻습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f스카파아아!'
   type:
   - '&7&o부품'
 SCRAP_LIQUID:
+  description:
+  - '&7고철로 이루어진 용융 상태입니다.'
+  name: '&f용융 고철'
   type:
   - '&7&o자원'
 SEARED_BRICK:
+  description:
+  - '&7제련소 블록을 제작하는 데 쓰입니다.'
+  name: '&f구운 벽돌'
   type:
   - '&7&o부품'
 SEARED_BRICK_BLOCK:
+  description:
+  - '&7제련소를 짓는 데 쓰입니다.'
+  name: '&f구운 벽돌 블록'
   type:
   - '&7&o부품'
 SEARED_TANK:
+  description:
+  - '&7제련소를 짓는 데 쓰입니다.'
+  name: '&f구운 저장조'
   type:
   - '&7&o부품'
 SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
+  description:
+  - '&7주변의 살아있는 (혹은 아닌!) 존재를 모두 드러냅니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f드러난 비밀'
   type:
   - '&7&o부품'
 SEFIRITE_LIQUID:
+  description:
+  - '&7세피라이트로 이루어진 용융 상태입니다.'
+  name: '&f용융 세피라이트'
   type:
   - '&7&o자원'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
+  description:
+  - '&7정말 형편없는 작명이군요. 피해 +'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f예리함 1 II'
   type:
   - '&7&o부품'
 SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
+  description:
+  - '&7피해가 증가하며 다음과 중첩됩니다:'
+  - '&7개조와 그 밖의 속성.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f예리함 1'
   type:
   - '&7&o부품'
 SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7피해가 증가하며 다음과 중첩됩니다:'
+  - '&7개조와 그 밖의 속성.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f예리함 2'
   type:
   - '&7&o부품'
 SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
+  description:
+  - '&710% 확률로 피해를 무시합니다. 합산되지 않습니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f충격 흡수'
   type:
   - '&7&o부품'
 SICKLY_II_TRAIT_PROP_LINKS_LEAD_SINGULARITY:
+  description:
+  - '&7납 갑옷은 정말 나쁜 생각입니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f병약함 II'
   type:
   - '&7&o부품'
 SICKLY_II_TRAIT_PROP_PLATES_LEAD_SINGULARITY:
+  description:
+  - '&7납 갑옷은 정말 나쁜 생각입니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f병약함 II'
   type:
   - '&7&o부품'
 SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
+  description:
+  - '&7납 갑옷은 좋은 생각이 아닙니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f병약함'
   type:
   - '&7&o부품'
 SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
+  description:
+  - '&7납 갑옷은 좋은 생각이 아닙니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f병약함'
   type:
   - '&7&o부품'
 SILICON_LIQUID:
+  description:
+  - '&7규소로 이루어진 용융 상태입니다.'
+  name: '&f용융 규소'
   type:
   - '&7&o자원'
 SILVER_LIQUID:
+  description:
+  - '&7은으로 이루어진 용융 상태입니다.'
+  name: '&f용융 은'
   type:
   - '&7&o자원'
 SILVER_SINGULARITY_LIQUID:
+  description:
+  - '&7은 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 은 특이점'
   type:
   - '&7&o자원'
 SLIME_LIQUID:
+  description:
+  - '&7슬라임으로 이루어진 용융 상태입니다.'
+  name: '&f용융 슬라임'
   type:
   - '&7&o자원'
 SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
+  description:
+  - '&7블록을 부술 때의 도구 경험치 획득이'
+  - '&7(도구 레벨 x 5%)만큼 증가합니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f느린 학습자'
   type:
   - '&7&o부품'
 SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
+  description:
+  - '&7방어구 경험치 획득 = (레벨 * 5%)'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f느린 학습자'
   type:
   - '&7&o부품'
 SMELTERY_CONTROLLER:
+  description:
+  - '&7제련소 블록을 제작하는 데 쓰입니다.'
+  name: '&f제련소 제어기'
   type:
   - '&7&o부품'
 SMITHIUM_ALLOY:
+  description:
+  - '&7스미슘으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 스미슘'
   type:
   - '&7&o자원'
 SMITHIUM_LIQUID:
+  description:
+  - '&7스미슘으로 이루어진 용융 상태입니다.'
+  name: '&f용융 스미슘'
   type:
   - '&7&o자원'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
+  description:
+  - '&7대상이 등을 돌리고 있으면 피해가 두 배가 됩니다.'
+  - '&7넓은 허용 오차'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f은밀함 II'
   type:
   - '&7&o부품'
 SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
+  description:
+  - '&7대상이 등을 돌리고 있으면 피해가 두 배가 됩니다.'
+  - '&7좁은 허용 오차'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f은밀함'
   type:
   - '&7&o부품'
 SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7가시 피해를 무시하고 그대로'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f시가'
   type:
   - '&7&o부품'
 SOFT_II_TRAIT_PROP_ROD_ALUMINUM_SINGULARITY:
+  description:
+  - '&7내구도 소모 +100%, 도구 경험치 +100%.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f부드러움 II'
   type:
   - '&7&o부품'
 SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
+  description:
+  - '&7벽을 쳐도 더 이상 아프지 않습니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f부드러운 착지'
   type:
   - '&7&o부품'
 SOFT_TOUCH_II_TRAIT_PROP_ROD_SILVER_SINGULARITY:
+  description:
+  - '&7몸이 훨씬 가벼워진 느낌입니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f섬세한 손길 II'
   type:
   - '&7&o부품'
 SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
+  description:
+  - '&7몸이 가벼워진 느낌입니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f섬세한 손길'
   type:
   - '&7&o부품'
 SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
+  description:
+  - '&7내구도 소모 +100%, 도구 경험치 +50%.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f부드러움'
   type:
   - '&7&o부품'
 SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
+  description:
+  - '&7낮 동안 내구도를 회복합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f태양광 동력'
   type:
   - '&7&o부품'
 SOLDER_ALLOY:
+  description:
+  - '&7땜납으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 땜납'
   type:
   - '&7&o자원'
 SOLDER_LIQUID:
+  description:
+  - '&7땜납으로 이루어진 용융 상태입니다.'
+  name: '&f용융 땜납'
   type:
   - '&7&o자원'
 SPOUT:
+  description:
+  - '&7제련소를 짓는 데 쓰입니다.'
+  name: '&f구운 주입구'
   type:
   - '&7&o부품'
 SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
+  description:
+  - '&7더 높이 뛸 수 있습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f용수철'
   type:
   - '&7&o부품'
 STABILITY_II_TRAIT_PROP_HEAD_IRON_SINGULARITY:
+  description:
+  - '&7여전히 아무것도 하지 않습니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f안정성 II'
   type:
   - '&7&o부품'
 STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
+  description:
+  - '&7아무... 효과도 없습니다!'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f안정성'
   type:
   - '&7&o부품'
 STAINLESS_STEEL_ALLOY:
+  description:
+  - '&7스테인리스강으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 스테인리스강'
   type:
   - '&7&o자원'
 STAINLESS_STEEL_LIQUID:
+  description:
+  - '&7스테인리스강으로 이루어진 용융 상태입니다.'
+  name: '&f용융 스테인리스강'
   type:
   - '&7&o자원'
 STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
+  description:
+  - '&7이 도구/무기는 피를 튕겨냅니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f부식 없음'
   type:
   - '&7&o부품'
 STARSHINE_TRAIT_PROP_PLATES_DYNATECH_STAR_DUST:
+  description:
+  - '&7밤에 5% 확률로 하트 1/2을 회복합니다'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f별빛'
   type:
   - '&7&o부품'
 STAR_DUST_LIQUID:
+  description:
+  - '&7별가루로 이루어진 용융 상태입니다.'
+  name: '&f용융 별가루'
   type:
   - '&7&o자원'
 STEADFAST_II_TRAIT_PROP_PLATES_IRON_SINGULARITY:
+  description:
+  - '&7모든 폭발을 무시합니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f굳건함 II'
   type:
   - '&7&o부품'
 STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
+  description:
+  - '&733% 확률로 폭발을 무시합니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f굳건함'
   type:
   - '&7&o부품'
 STEEL_ALLOY:
+  description:
+  - '&7강철로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 강철'
   type:
   - '&7&o자원'
 STEEL_LIQUID:
+  description:
+  - '&7강철로 이루어진 용융 상태입니다.'
+  name: '&f용융 강철'
   type:
   - '&7&o자원'
 STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
+  description:
+  - '&7피해 +50%, 다만 불운해집니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f뻣뻣함'
   type:
   - '&7&o부품'
 STIFF_TRAIT_PROP_ROD_MIXED_METAL_INGOT:
+  description:
+  - '&7피해 +50%, 다만 불운해집니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f뻣뻣함'
   type:
   - '&7&o부품'
 STING_OF_GONDOLIN_TRAIT_PROP_ROD_MYTHRIL:
+  description:
+  - '&7주변의 적대적인 몹이 모두 밀려납니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f곤돌린의 스팅'
   type:
   - '&7&o부품'
 STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
+  description:
+  - '&7체력 증가 +1'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f강력함'
   type:
   - '&7&o부품'
 STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7도구와 플레이어 경험치 +50%, 다만 피해는 절반'
+  - '&7그리고 행동이 느려집니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f학구적'
   type:
   - '&7&o부품'
 SUPERHOT_TRAIT_PROP_LINKS_ADVANCED_ALLOY:
+  description:
+  - '&7주변 엔티티에 불을 붙일 확률이 있습니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f초고온'
   type:
   - '&7&o부품'
 SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7주변 엔티티에 불을 붙일 확률이 있습니다'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f초고온'
   type:
   - '&7&o부품'
 SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7강철이나 마그강철 같지만 훨씬 더 터무니없습니다.'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f완전 초강력 부식 없음'
   type:
   - '&7&o부품'
 SUPER_LIGHTWEIGHT_II_TRAIT_PROP_ROD_ZINC_SINGULARITY:
+  description:
+  - '&7웅크릴 때 공기보다 가벼워집니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f초경량 II'
   type:
   - '&7&o부품'
 SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
+  description:
+  - '&7웅크리지 않을 때 공기보다 가벼워집니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f초경량'
   type:
   - '&7&o부품'
 SWEATY_TRAIT_PROP_GAMBESON_RUBBER:
+  description:
+  - '&7고무 안감이 너무나도 뜨겁습니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f땀투성이'
   type:
   - '&7&o부품'
 TARNISHED_II_TRAIT_PROP_LINKS_COPPER_SINGULARITY:
+  description:
+  - '&7가하는 피해 25% 감소. 방어구 경험치 +40%'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f변색됨 II'
   type:
   - '&7&o부품'
 TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
+  description:
+  - '&7가하는 피해 25% 감소. 방어구 경험치 +20%'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f변색됨'
   type:
   - '&7&o부품'
 TARNISHED_TRAIT_PROP_PLATES_MAGSTEEL:
+  description:
+  - '&7가하는 피해 25% 감소. 방어구 경험치 +20%'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f변색됨'
   type:
   - '&7&o부품'
 TERRIBLE_TRAIT_PROP_HEAD_SCRAP:
+  description:
+  - '&7내구도 소모 +300%. 경험치 획득 0%.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f형편없음'
   type:
   - '&7&o부품'
 TESSERACTING_MATERIAL_LIQUID:
+  description:
+  - '&7초입방체 물질로 이루어진 용융 상태입니다.'
+  name: '&f용융 초입방체 물질'
   type:
   - '&7&o자원'
 THE_END_TRAIT_PROP_LINKS_VOID_INGOT:
+  description:
+  - '&7드래곤, 엔더맨,'
+  - '&7셜커에게 받는 피해가 10% 감소합니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f디 엔드'
   type:
   - '&7&o부품'
 THE_STANDARD_TRAIT_PROP_PLATES_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7받는 피해가 5% 감소합니다'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f표준'
   type:
   - '&7&o부품'
 THICK_TRAIT_PROP_BINDING_LEATHER:
+  description:
+  - '&7도구 경험치 획득 +50%'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f두꺼움'
   type:
   - '&7&o부품'
 THICK_TRAIT_PROP_GAMBESON_LEATHER:
+  description:
+  - '&7방어구 경험치 획득 +10%'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f두꺼움'
   type:
   - '&7&o부품'
 THORIUM_LIQUID:
+  description:
+  - '&7토륨으로 이루어진 용융 상태입니다.'
+  name: '&f용융 토륨'
   type:
   - '&7&o자원'
 TINKERS_ARMOUR_TABLE:
+  description:
+  - '&7부품을 합쳐 방어구를 만듭니다.'
+  name: '&f팅커의 방어구 작업대'
   type:
   - '&7&o기계'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_MOD_STATION:
+  description:
+  - '&7도구와 무기에 개조를 적용합니다.'
+  name: '&f팅커의 개조 작업대'
   type:
   - '&7&o기계'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_REPAIR_BENCH:
+  description:
+  - '&7도구와 무기를 수리합니다.'
+  name: '&f팅커의 수리대'
   type:
   - '&7&o기계'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_SMELTERY_CORE:
+  description:
+  - '&7금속을 녹여 액체로 만듭니다.'
+  - '&7그 뒤 금속을 합금하여'
+  - '&7여러 형태로 주조할 수 있습니다.'
+  - '&7연료로 용암이 필요합니다'
+  name: '&f팅커의 제련소'
   type:
   - '&7&o멀티블록'
+  usage:
+  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
 TINKERS_SWAPPING_STATION:
+  description:
+  - '&7도구의 부품을 새 부품으로 교체합니다.'
+  name: '&f팅커의 부품 교체대'
   type:
   - '&7&o기계'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_TABLE:
+  description:
+  - '&7부품을 합쳐 도구를 만듭니다.'
+  name: '&f팅커의 도구 작업대'
   type:
   - '&7&o기계'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_WORKBENCH:
+  description:
+  - '&7여러 아이템을 제작하는 데 쓰입니다'
+  - '&7팅커의 도구와 구조물에 쓰이는 부품을'
+  - '&7만듭니다. 또한 다음 역할도 합니다:'
+  - '&7강화된 조합대.'
+  name: '&f팅커의 작업대'
   type:
   - '&7&o기계'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TIN_LIQUID:
+  description:
+  - '&7주석으로 이루어진 용융 상태입니다.'
+  name: '&f용융 주석'
   type:
   - '&7&o자원'
 TIN_SINGULARITY_LIQUID:
+  description:
+  - '&7주석 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 주석 특이점'
   type:
   - '&7&o자원'
 TITANIUM_ALLOY:
+  description:
+  - '&7티타늄으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 티타늄'
   type:
   - '&7&o자원'
 TITANIUM_LIQUID:
+  description:
+  - '&7티타늄으로 이루어진 용융 상태입니다.'
+  name: '&f용융 티타늄'
   type:
   - '&7&o자원'
 TOOL_AXE:
+  description:
+  - '&7세 부품으로 만들어진 도끼입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 도끼'
   type:
   - '&7&o도구'
 TOOL_AXE_ENTRY:
+  description:
+  - '&7세 부품으로 만들어진 도끼입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 도끼'
   type:
   - '&7&o도구'
 TOOL_AXE_EXP:
+  description:
+  - '&7세 부품으로 만들어진 도끼입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7이 변형은 블록을 범위째로 한 번에 부숩니다.'
+  name: '&f팅커의 도끼 (폭발형)'
   type:
   - '&7&o도구'
 TOOL_HOE:
+  description:
+  - '&7세 부품으로 만들어진 괭이입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 괭이'
   type:
   - '&7&o도구'
 TOOL_HOE_ENTRY:
+  description:
+  - '&7세 부품으로 만들어진 괭이입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 괭이'
   type:
   - '&7&o도구'
 TOOL_HOE_EXP:
+  description:
+  - '&7세 부품으로 만들어진 괭이입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7이 변형은 블록을 범위째로 한 번에 부숩니다.'
+  name: '&f팅커의 괭이 (폭발형)'
   type:
   - '&7&o도구'
 TOOL_PICKAXE:
+  description:
+  - '&7세 부품으로 만들어진 곡괭이입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 곡괭이'
   type:
   - '&7&o도구'
 TOOL_PICKAXE_ENTRY:
+  description:
+  - '&7세 부품으로 만들어진 곡괭이입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 곡괭이'
   type:
   - '&7&o도구'
 TOOL_PICKAXE_EXP:
+  description:
+  - '&7세 부품으로 만들어진 곡괭이입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7이 변형은 블록을 범위째로 한 번에 부숩니다.'
+  name: '&f팅커의 곡괭이 (폭발형)'
   type:
   - '&7&o도구'
 TOOL_SHOVEL:
+  description:
+  - '&7세 부품으로 만들어진 삽입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 삽'
   type:
   - '&7&o도구'
 TOOL_SHOVEL_ENTRY:
+  description:
+  - '&7세 부품으로 만들어진 삽입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 삽'
   type:
   - '&7&o도구'
 TOOL_SHOVEL_EXP:
+  description:
+  - '&7세 부품으로 만들어진 삽입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7이 변형은 블록을 범위째로 한 번에 부숩니다.'
+  name: '&f팅커의 삽 (폭발형)'
   type:
   - '&7&o도구'
 TOOL_SWORD:
+  description:
+  - '&7세 부품으로 만들어진 검입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 검'
   type:
   - '&7&o도구'
 TOOL_SWORD_ENTRY:
+  description:
+  - '&7세 부품으로 만들어진 검입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  name: '&f팅커의 검'
   type:
   - '&7&o도구'
 TOOL_SWORD_EXP:
+  description:
+  - '&7세 부품으로 만들어진 검입니다.'
+  - '&7팅커의 도구는 레벨을 올려'
+  - '&7추가 속성과 개조를 얻을 수 있습니다.'
+  - '&7이 변형은 블록을 범위째로 한 번에 부숩니다.'
+  name: '&f팅커의 검 (폭발형)'
   type:
   - '&7&o도구'
 TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7?'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f손댈 수 없이 뜨거움'
   type:
   - '&7&o부품'
 TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
+  description:
+  - '&7내구도가 소모되지 않습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f강인해짐'
   type:
   - '&7&o부품'
 TRICKS_TRAIT_PROP_HEAD_MAGIC_SINGULARITY:
+  description:
+  - '&7주변 대상에게 짓궂은 장난을 칩니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f장난'
   type:
   - '&7&o부품'
 TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
+  description:
+  - '&7타격한 대상을 모두 밀쳐내며, 일정 확률로'
+  - '&7기절시키기도 합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f단단한 물건'
   type:
   - '&7&o부품'
 ULTIMANINIUM_ALLOY:
+  description:
+  - '&7얼티마니늄으로 이루어진 용융 합금 금속입니다.'
+  name: '&f용융 얼티마니늄'
   type:
   - '&7&o자원'
 ULTIMANINIUM_LIQUID:
+  description:
+  - '&7얼티마니늄으로 이루어진 용융 상태입니다.'
+  name: '&f용융 얼티마니늄'
   type:
   - '&7&o자원'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
+  description:
+  - '&7받은 피해가 모두 기억됩니다. 우클릭하면'
+  - '&7클릭하면 인벤토리 아이템을 충전합니다.'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f색다른 힘'
   type:
   - '&7&o부품'
 VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7가한 피해만큼 회복할 확률이 있습니다.'
+  - '&7가하는 피해가 시간대에 따라 달라집니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f흡혈귀화'
   type:
   - '&7&o부품'
 VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
+  description:
+  - '&7가한 피해만큼 회복할 확률이 있습니다.'
+  - '&7가하는 피해가 시간대에 따라 달라집니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f흡혈귀화'
   type:
   - '&7&o부품'
 VEX_GEM_LIQUID:
+  description:
+  - '&7벡스 보석으로 이루어진 용융 상태입니다.'
+  name: '&f용융 벡스 보석'
   type:
   - '&7&o자원'
 VOID_LIQUID:
+  description:
+  - '&7공허로 이루어진 용융 상태입니다.'
+  name: '&f용융 공허'
   type:
   - '&7&o자원'
 VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
+  description:
+  - '&7채굴/굴착 중 무작위로 광석이 생성됩니다.'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f공허 채굴자'
   type:
   - '&7&o부품'
 WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7네더에서 더울 때 신속 +2.'
+  - '&7디 엔드에서 추울 때 구속 +1'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f온혈'
   type:
   - '&7&o부품'
 WARP_TRAIT_PROP_ROD_IRIDIUM:
+  description:
+  - '&7상대를 뒤로 돌려세웁니다. (대기시간: 20분)'
+  - ''
+  - '&7추가한 곳: 라이트익스팬션'
+  name: '&f차원 도약'
   type:
   - '&7&o부품'
 WATER_SAFE_TRAIT_PROP_LINKS_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7수중 호흡을 부여합니다'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f수중 안전'
   type:
   - '&7&o부품'
 WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
+  description:
+  - '&7당신의 공격이 해치는 대신 치유합니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f백마도사'
   type:
   - '&7&o부품'
 WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
+  description:
+  - '&7당신이 서 있는 블록에 신호가 들어옵니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f압력판이 왜 필요해?'
   type:
   - '&7&o부품'
 WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7시들함 효과에 면역입니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f위더 방지'
   type:
   - '&7&o부품'
 WIZARD_ROBES_TRAIT_PROP_PLATES_MAGIC_SINGULARITY:
+  description:
+  - '&7공격 시 마법을 일으킬 확률이 있습니다'
+  - ''
+  - '&7추가한 곳: 인피니티 익스팬션'
+  name: '&f마법사의 로브'
   type:
   - '&7&o부품'
 WORKS_TRAIT_PROP_BINDING_STRING:
+  description:
+  - '&7특별한 효과는 없습니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f작동함'
   type:
   - '&7&o부품'
 WORKS_TRAIT_PROP_GAMBESON_STRING:
+  description:
+  - '&7특별한 효과는 없지만 방어구를 빠르게 만듭니다.'
+  - ''
+  - '&7추가한 곳: 코어 슬라임팅커'
+  name: '&f작동함'
   type:
   - '&7&o부품'
 YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
+  description:
+  - '&7신비로운 광채를 뿜어 주민들이'
+  - '&7당신에게 더 친근해집니다.'
+  - ''
+  - '&7추가한 곳: 다이나테크'
+  name: '&f이베인'
   type:
   - '&7&o부품'
 ZINC_LIQUID:
+  description:
+  - '&7아연으로 이루어진 용융 상태입니다.'
+  name: '&f용융 아연'
   type:
   - '&7&o자원'
 ZINC_SINGULARITY_LIQUID:
+  description:
+  - '&7아연 특이점으로 이루어진 용융 상태입니다.'
+  name: '&f용융 아연 특이점'
   type:
   - '&7&o자원'
