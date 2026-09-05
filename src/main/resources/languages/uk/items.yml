@@ -36,7 +36,7 @@ ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
 ADAMANTITE_LIQUID:
   description:
   - '&7Розплав, отриманий з адамантиту.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з адамантиту'
   type:
   - '&7&oРесурс'
 ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
@@ -50,7 +50,7 @@ ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
 ADVANCED_ALLOY_LIQUID:
   description:
   - '&7Розплав, отриманий з покращеного сплаву.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з покращеного сплаву'
   type:
   - '&7&oРесурс'
 ALL_THAT_GLITTERS_II_TRAIT_PROP_ROD_GOLD_SINGULARITY:
@@ -72,49 +72,49 @@ ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
 ALUMINUM_BRASS_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з алюмінієвої латуні.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з алюмінієвої латуні'
   type:
   - '&7&oРесурс'
 ALUMINUM_BRASS_LIQUID:
   description:
   - '&7Розплав, отриманий з алюмінієвої латуні.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з алюмінієвої латуні'
   type:
   - '&7&oРесурс'
 ALUMINUM_BRONZE_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з алюмінієвої бронзи.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з алюмінієвої бронзи'
   type:
   - '&7&oРесурс'
 ALUMINUM_BRONZE_LIQUID:
   description:
   - '&7Розплав, отриманий з алюмінієвої бронзи.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з алюмінієвої бронзи'
   type:
   - '&7&oРесурс'
 ALUMINUM_LIQUID:
   description:
   - '&7Розплав, отриманий з алюмінію.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з алюмінію'
   type:
   - '&7&oРесурс'
 ALUMINUM_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий з алюмінієвої сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з алюмінієвої сингулярності'
   type:
   - '&7&oРесурс'
 ANNIVERSARIUM_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з Anniversarium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Anniversarium'
   type:
   - '&7&oРесурс'
 ANNIVERSARIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з Anniversarium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Anniversarium'
   type:
   - '&7&oРесурс'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
@@ -282,13 +282,13 @@ BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
 BILLON_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з білону.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з білону'
   type:
   - '&7&oРесурс'
 BILLON_LIQUID:
   description:
   - '&7Розплав, отриманий з білону.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з білону'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_ADAMANTITE:
@@ -597,13 +597,13 @@ BLOCK_CAST_ZINC:
 BOOMERITE_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з Boomerite.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Boomerite'
   type:
   - '&7&oРесурс'
 BOOMERITE_LIQUID:
   description:
   - '&7Розплав, отриманий з Boomerite.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Boomerite'
   type:
   - '&7&oРесурс'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
@@ -667,13 +667,13 @@ BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
 BRASS_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з латуні.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з латуні'
   type:
   - '&7&oРесурс'
 BRASS_LIQUID:
   description:
   - '&7Розплав, отриманий з латуні.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з латуні'
   type:
   - '&7&oРесурс'
 BREAKPOINT_TRAIT_PROP_HEAD_INFINITY_SINGULARITY:
@@ -740,13 +740,13 @@ BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
 BRONZE_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з бронзи.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з бронзи'
   type:
   - '&7&oРесурс'
 BRONZE_LIQUID:
   description:
   - '&7Розплав, отриманий з бронзи.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з бронзи'
   type:
   - '&7&oРесурс'
 BUILDING_RAGE_TRAIT_PROP_LINKS_MAG_THOR:
@@ -1001,19 +1001,19 @@ CLEAVE_TRAIT_PROP_HEAD_ADVANCED_ALLOY:
 COAL_LIQUID:
   description:
   - '&7Розплав, отриманий з вугілля.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з вугілля'
   type:
   - '&7&oРесурс'
 COBALT_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з кобальту.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з кобальту'
   type:
   - '&7&oРесурс'
 COBALT_LIQUID:
   description:
   - '&7Розплав, отриманий з кобальту.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з кобальту'
   type:
   - '&7&oРесурс'
 COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
@@ -1079,25 +1079,25 @@ CONDUCTOR_TRAIT_PROP_ROD_METAL_SINGULARITY:
 COPPER_LIQUID:
   description:
   - '&7Розплав, отриманий з міді.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з міді'
   type:
   - '&7&oРесурс'
 COPPER_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий з мідної сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з мідної сингулярності'
   type:
   - '&7&oРесурс'
 CORINTHIAN_BRONZE_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з коринфської бронзи.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з коринфської бронзи'
   type:
   - '&7&oРесурс'
 CORINTHIAN_BRONZE_LIQUID:
   description:
   - '&7Розплав, отриманий з коринфської бронзи.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з коринфської бронзи'
   type:
   - '&7&oРесурс'
 CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
@@ -1111,13 +1111,13 @@ CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
 CRINGLEIUM_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з Cringleium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Cringleium'
   type:
   - '&7&oРесурс'
 CRINGLEIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з Cringleium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Cringleium'
   type:
   - '&7&oРесурс'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
@@ -1131,13 +1131,13 @@ CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
 DAMASCUS_STEEL_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з дамаської сталі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з дамаської сталі'
   type:
   - '&7&oРесурс'
 DAMASCUS_STEEL_LIQUID:
   description:
   - '&7Розплав, отриманий з дамаської сталі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з дамаської сталі'
   type:
   - '&7&oРесурс'
 DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
@@ -1177,19 +1177,19 @@ DEFLECTIVE_TRAIT_PROP_PLATES_ADAMANTITE:
 DETAILED_DEVOTION_LIQUID:
   description:
   - '&7Розплав, отриманий з виточеної відданості.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з виточеної відданості'
   type:
   - '&7&oРесурс'
 DIAMOND_LIQUID:
   description:
   - '&7Розплав, отриманий з алмазу.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з алмазу'
   type:
   - '&7&oРесурс'
 DIAMOND_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий з алмазної сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з алмазної сингулярності'
   type:
   - '&7&oРесурс'
 DIE_AXE_HEAD:
@@ -1283,7 +1283,7 @@ DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
 DRACONIC_LIQUID:
   description:
   - '&7Розплав, отриманий з драконіту.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з драконіту'
   type:
   - '&7&oРесурс'
 DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
@@ -1387,13 +1387,13 @@ DURABLE_TRAIT_PROP_ROD_TITANIUM:
 DURALIUM_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з Duralium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Duralium'
   type:
   - '&7&oРесурс'
 DURALIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з Duralium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Duralium'
   type:
   - '&7&oРесурс'
 DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
@@ -1424,7 +1424,7 @@ EARTH_SHAKER_TRAIT_PROP_HEAD_EARTH_SINGULARITY:
 EARTH_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий із земної сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із земної сингулярності'
   type:
   - '&7&oРесурс'
 EASILY_SHAPED_II_TRAIT_PROP_LINKS_ALUMINUM_SINGULARITY:
@@ -1609,13 +1609,13 @@ FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
 FERROSILICON_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з феросиліцію.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з феросиліцію'
   type:
   - '&7&oРесурс'
 FERROSILICON_LIQUID:
   description:
   - '&7Розплав, отриманий з феросиліцію.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з феросиліцію'
   type:
   - '&7&oРесурс'
 FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
@@ -1664,7 +1664,7 @@ FLAMMABLE_TRAIT_PROP_ROD_MAGSTEEL:
 FLOWING_FONDNESS_LIQUID:
   description:
   - '&7Розплав, отриманий з плинної прихильності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з плинної прихильності'
   type:
   - '&7&oРесурс'
 FOIL_II_TRAIT_PROP_PLATES_ALUMINUM_SINGULARITY:
@@ -1695,7 +1695,7 @@ FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
 FORTUNE_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий із сингулярності удачі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із сингулярності удачі'
   type:
   - '&7&oРесурс'
 FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
@@ -1718,7 +1718,7 @@ FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
 GHOSTLY_ESSENCE_LIQUID:
   description:
   - '&7Розплав, отриманий з примарної есенції.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з примарної есенції'
   type:
   - '&7&oРесурс'
 GHOSTLY_TRAIT_PROP_LINKS_DYNATECH_GHOSTLY_ESSENCE:
@@ -1768,13 +1768,13 @@ GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
 GOLD_LIQUID:
   description:
   - '&7Розплав, отриманий із золота.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із золота'
   type:
   - '&7&oРесурс'
 GOLD_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий із золотої сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із золотої сингулярності'
   type:
   - '&7&oРесурс'
 GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
@@ -1836,13 +1836,13 @@ GROWTH_TRAIT_PROP_GAMBESON_VINE:
 HARDENED_METAL_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений із загартованого металу.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із загартованого металу'
   type:
   - '&7&oРесурс'
 HARDENED_METAL_LIQUID:
   description:
   - '&7Розплав, отриманий із загартованого металу.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із загартованого металу'
   type:
   - '&7&oРесурс'
 HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
@@ -2025,7 +2025,7 @@ INFINITE_DEFENCE_TRAIT_PROP_LINKS_INFINITY_SINGULARITY:
 INFINITE_LIQUID:
   description:
   - '&7Розплав, отриманий з безмежності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з безмежності'
   type:
   - '&7&oРесурс'
 INFINITE_TRAIT_PROP_HEAD_INFINITE_INGOT:
@@ -2050,7 +2050,7 @@ INFINITLY_POWERFUL_TRAIT_PROP_PLATES_INFINITY_SINGULARITY:
 INFINITY_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий із сингулярності нескінченності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із сингулярності нескінченності'
   type:
   - '&7&oРесурс'
 INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
@@ -2174,25 +2174,25 @@ INSULATED_TRAIT_PROP_BINDING_RUBBER:
 INTERDIMENSIONAL_PRESENCE_LIQUID:
   description:
   - '&7Розплав, отриманий з міжвимірної присутності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з міжвимірної присутності'
   type:
   - '&7&oРесурс'
 IRIDIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з іридію.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з іридію'
   type:
   - '&7&oРесурс'
 IRON_LIQUID:
   description:
   - '&7Розплав, отриманий із заліза.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із заліза'
   type:
   - '&7&oРесурс'
 IRON_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий із залізної сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із залізної сингулярності'
   type:
   - '&7&oРесурс'
 IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
@@ -2251,13 +2251,13 @@ LAVA_WALKER_TRAIT_PROP_PLATES_EARTH_SINGULARITY:
 LEAD_LIQUID:
   description:
   - '&7Розплав, отриманий зі свинцю.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі свинцю'
   type:
   - '&7&oРесурс'
 LEAD_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий зі свинцевої сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі свинцевої сингулярності'
   type:
   - '&7&oРесурс'
 LEECH_II_TRAIT_PROP_ROD_LEAD_SINGULARITY:
@@ -2311,19 +2311,19 @@ LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
 LIQUID_CHRISTMAS_LIQUID:
   description:
   - '&7Розплав, отриманий з рідкого Різдва.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з рідкого Різдва'
   type:
   - '&7&oРесурс'
 LIQUID_LOVE_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з рідкого кохання.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з рідкого кохання'
   type:
   - '&7&oРесурс'
 LIQUID_LOVE_LIQUID:
   description:
   - '&7Розплав, отриманий з рідкого кохання.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з рідкого кохання'
   type:
   - '&7&oРесурс'
 MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
@@ -2338,7 +2338,7 @@ MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
 MAGIC_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий з магічної сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з магічної сингулярності'
   type:
   - '&7&oРесурс'
 MAGNANIMOUS_TRAIT_PROP_HEAD_MAGNONIUM:
@@ -2368,13 +2368,13 @@ MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
 MAGNESIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з магнію.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з магнію'
   type:
   - '&7&oРесурс'
 MAGNESIUM_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий з магнієвої сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з магнієвої сингулярності'
   type:
   - '&7&oРесурс'
 MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
@@ -2438,19 +2438,19 @@ MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
 MAGNONIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з Magnonium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Magnonium'
   type:
   - '&7&oРесурс'
 MAGSTEEL_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з магсталі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з магсталі'
   type:
   - '&7&oРесурс'
 MAGSTEEL_LIQUID:
   description:
   - '&7Розплав, отриманий з магсталі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з магсталі'
   type:
   - '&7&oРесурс'
 MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
@@ -2464,13 +2464,13 @@ MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
 MAG_THOR_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з Маг-Тору.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Маг-Тору'
   type:
   - '&7&oРесурс'
 MAG_THOR_LIQUID:
   description:
   - '&7Розплав, отриманий з Маг-Тору.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Маг-Тору'
   type:
   - '&7&oРесурс'
 MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
@@ -2510,7 +2510,7 @@ MERCHANT'S_VEIL_TRAIT_PROP_ROD_FORTUNE_SINGULARITY:
 METAL_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий з металевої сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з металевої сингулярності'
   type:
   - '&7&oРесурс'
 MIXED_METALS_TRAIT_PROP_HEAD_MIXED_METAL_INGOT:
@@ -2525,13 +2525,13 @@ MIXED_METALS_TRAIT_PROP_HEAD_MIXED_METAL_INGOT:
 MIXED_METAL_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений зі змішаного металу.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі змішаного металу'
   type:
   - '&7&oРесурс'
 MIXED_METAL_LIQUID:
   description:
   - '&7Розплав, отриманий зі змішаного металу.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі змішаного металу'
   type:
   - '&7&oРесурс'
 MIX_IT_UP!_TRAIT_PROP_LINKS_MIXED_METAL_INGOT:
@@ -2611,7 +2611,7 @@ MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
 MYTHRIL_LIQUID:
   description:
   - '&7Розплав, отриманий з міфрилу.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з міфрилу'
   type:
   - '&7&oРесурс'
 NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
@@ -2625,13 +2625,13 @@ NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
 NICEINIUM_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з Niceinium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Niceinium'
   type:
   - '&7&oРесурс'
 NICEINIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з Niceinium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Niceinium'
   type:
   - '&7&oРесурс'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
@@ -2645,13 +2645,13 @@ NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
 NICKEL_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з нікелю.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з нікелю'
   type:
   - '&7&oРесурс'
 NICKEL_LIQUID:
   description:
   - '&7Розплав, отриманий з нікелю.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з нікелю'
   type:
   - '&7&oРесурс'
 NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
@@ -7790,7 +7790,7 @@ PROTECTIVE_TRAIT_PROP_HEAD_IRIDIUM:
 PURIFIED_PASSION_LIQUID:
   description:
   - '&7Розплав, отриманий з очищеної пристрасті.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з очищеної пристрасті'
   type:
   - '&7&oРесурс'
 RADIOACTIVE_PLATES_TRAIT_PROP_PLATES_MAG_THOR:
@@ -7836,25 +7836,25 @@ RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
 REDSTONE_ALLOY_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з редстоунового сплаву.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з редстоунового сплаву'
   type:
   - '&7&oРесурс'
 REDSTONE_ALLOY_LIQUID:
   description:
   - '&7Розплав, отриманий з редстоунового сплаву.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з редстоунового сплаву'
   type:
   - '&7&oРесурс'
 REDSTONE_LIQUID:
   description:
   - '&7Розплав, отриманий з редстоуну.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з редстоуну'
   type:
   - '&7&oРесурс'
 REFINED_IRON_LIQUID:
   description:
   - '&7Розплав, отриманий з очищеного заліза.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з очищеного заліза'
   type:
   - '&7&oРесурс'
 REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
@@ -7884,25 +7884,25 @@ REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
 REINFORCED_ALLOY_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений зі зміцненого сплаву.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі зміцненого сплаву'
   type:
   - '&7&oРесурс'
 REINFORCED_ALLOY_LIQUID:
   description:
   - '&7Розплав, отриманий зі зміцненого сплаву.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі зміцненого сплаву'
   type:
   - '&7&oРесурс'
 REINFORCED_DRACONIUM_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений зі зміцненого драконіуму.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі зміцненого драконіуму'
   type:
   - '&7&oРесурс'
 REINFORCED_DRACONIUM_LIQUID:
   description:
   - '&7Розплав, отриманий зі зміцненого драконіуму.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі зміцненого драконіуму'
   type:
   - '&7&oРесурс'
 REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
@@ -7924,7 +7924,7 @@ REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
 REMOTININIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з Remotininium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Remotininium'
   type:
   - '&7&oРесурс'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
@@ -7962,7 +7962,7 @@ SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
 SCRAP_LIQUID:
   description:
   - '&7Розплав, отриманий з брухту.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з брухту'
   type:
   - '&7&oРесурс'
 SEARED_BRICK:
@@ -7994,7 +7994,7 @@ SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
 SEFIRITE_LIQUID:
   description:
   - '&7Розплав, отриманий з Sefirite.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Sefirite'
   type:
   - '&7&oРесурс'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
@@ -8066,25 +8066,25 @@ SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
 SILICON_LIQUID:
   description:
   - '&7Розплав, отриманий з кремнію.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з кремнію'
   type:
   - '&7&oРесурс'
 SILVER_LIQUID:
   description:
   - '&7Розплав, отриманий зі срібла.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі срібла'
   type:
   - '&7&oРесурс'
 SILVER_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий зі срібної сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі срібної сингулярності'
   type:
   - '&7&oРесурс'
 SLIME_LIQUID:
   description:
   - '&7Розплав, отриманий зі слизу.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі слизу'
   type:
   - '&7&oРесурс'
 SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
@@ -8113,13 +8113,13 @@ SMELTERY_CONTROLLER:
 SMITHIUM_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з Smithium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Smithium'
   type:
   - '&7&oРесурс'
 SMITHIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з Smithium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Smithium'
   type:
   - '&7&oРесурс'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
@@ -8199,13 +8199,13 @@ SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
 SOLDER_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з припою.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з припою'
   type:
   - '&7&oРесурс'
 SOLDER_LIQUID:
   description:
   - '&7Розплав, отриманий з припою.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з припою'
   type:
   - '&7&oРесурс'
 SPOUT:
@@ -8241,13 +8241,13 @@ STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
 STAINLESS_STEEL_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з нержавіючої сталі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з нержавіючої сталі'
   type:
   - '&7&oРесурс'
 STAINLESS_STEEL_LIQUID:
   description:
   - '&7Розплав, отриманий з нержавіючої сталі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з нержавіючої сталі'
   type:
   - '&7&oРесурс'
 STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
@@ -8269,7 +8269,7 @@ STARSHINE_TRAIT_PROP_PLATES_DYNATECH_STAR_DUST:
 STAR_DUST_LIQUID:
   description:
   - '&7Розплав, отриманий із зоряного пилу.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із зоряного пилу'
   type:
   - '&7&oРесурс'
 STEADFAST_II_TRAIT_PROP_PLATES_IRON_SINGULARITY:
@@ -8291,13 +8291,13 @@ STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
 STEEL_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений зі сталі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі сталі'
   type:
   - '&7&oРесурс'
 STEEL_LIQUID:
   description:
   - '&7Розплав, отриманий зі сталі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав зі сталі'
   type:
   - '&7&oРесурс'
 STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
@@ -8424,7 +8424,7 @@ TERRIBLE_TRAIT_PROP_HEAD_SCRAP:
 TESSERACTING_MATERIAL_LIQUID:
   description:
   - '&7Розплав, отриманий з тесерактової матерії.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з тесерактової матерії'
   type:
   - '&7&oРесурс'
 THE_END_TRAIT_PROP_LINKS_VOID_INGOT:
@@ -8463,7 +8463,7 @@ THICK_TRAIT_PROP_GAMBESON_LEATHER:
 THORIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з торію.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з торію'
   type:
   - '&7&oРесурс'
 TINKERS_ARMOUR_TABLE:
@@ -8531,25 +8531,25 @@ TINKERS_WORKBENCH:
 TIN_LIQUID:
   description:
   - '&7Розплав, отриманий з олова.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з олова'
   type:
   - '&7&oРесурс'
 TIN_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий з олов''яної сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з олов''яної сингулярності'
   type:
   - '&7&oРесурс'
 TITANIUM_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з титану.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з титану'
   type:
   - '&7&oРесурс'
 TITANIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з титану.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з титану'
   type:
   - '&7&oРесурс'
 TOOL_AXE:
@@ -8713,13 +8713,13 @@ TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
 ULTIMANINIUM_ALLOY:
   description:
   - '&7Розплавлений сплав, виготовлений з Ultimaninium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Ultimaninium'
   type:
   - '&7&oРесурс'
 ULTIMANINIUM_LIQUID:
   description:
   - '&7Розплав, отриманий з Ultimaninium.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з Ultimaninium'
   type:
   - '&7&oРесурс'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
@@ -8752,13 +8752,13 @@ VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
 VEX_GEM_LIQUID:
   description:
   - '&7Розплав, отриманий із самоцвіту причепи.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав із самоцвіту причепи'
   type:
   - '&7&oРесурс'
 VOID_LIQUID:
   description:
   - '&7Розплав, отриманий з порожнечі.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з порожнечі'
   type:
   - '&7&oРесурс'
 VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
@@ -8854,12 +8854,12 @@ YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
 ZINC_LIQUID:
   description:
   - '&7Розплав, отриманий з цинку.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з цинку'
   type:
   - '&7&oРесурс'
 ZINC_SINGULARITY_LIQUID:
   description:
   - '&7Розплав, отриманий з цинкової сингулярності.'
-  name: '&fРозплав {mof}'
+  name: '&fРозплав з цинкової сингулярності'
   type:
   - '&7&oРесурс'
