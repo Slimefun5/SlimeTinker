@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Обувки
+  CHESTPLATE: Нагръдник
+  HELMET: Шлем
+  LEGGINGS: Панталони
+lore:
+  added_by: Добавено от
+  binder_abbrev: 'С: '
+  gambeson_abbrev: 'Га: '
+  head_abbrev: 'Г: '
+  level: 'Ниво: '
+  links_abbrev: 'З: '
+  mod_level: ' ниво '
+  mod_max: ' - (МАКС)'
+  modifier_slots: 'Слотове за модификатори: '
+  part_desc_1: Част за инструмент. Сама по себе си е безполезна, но може
+  part_desc_2: да се превърне в нещо по-велико на
+  part_desc_3: Масата на майстора.
+  part_material: 'Материал : '
+  plate_abbrev: 'П: '
+  rod_abbrev: 'Д: '
+  sponsored_by: Спонсорирано от
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Усъвършенствана сплав
+  ALUMINUM: Алуминий
+  ALUMINUM_BRASS: Алуминиев месинг
+  ALUMINUM_BRONZE: Алуминиев бронз
+  ALUMINUM_SINGULARITY: Алуминиева сингулярност
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Билон
+  BOOMERITE: Boomerite
+  BRASS: Месинг
+  BRONZE: Бронз
+  CARBON_MESH: Карбонова мрежа
+  COAL: Въглища
+  COBALT: Кобалт
+  COPPER: Мед
+  COPPER_SINGULARITY: Медна сингулярност
+  CORINTHIAN_BRONZE: Коринтски бронз
+  CRIMSON_ROOT: Пурпурен корен
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Дамаска стомана
+  DAXI_ABSORPTION: Daxi на Поглъщане
+  DAXI_FORTITUDE: Daxi на Издръжливост
+  DAXI_REGENERATION: Daxi на Възстановяване
+  DAXI_SATURATION: Daxi на Насита
+  DAXI_STRENGTH: Daxi на Сила
+  DETAILED_DEVOTION: Изящна преданост
+  DIAMOND: Диамант
+  DIAMOND_SINGULARITY: Диамантена сингулярност
+  DRACONIC: Дракониум
+  DURALIUM: Дуралуминий
+  EARTH_SINGULARITY: Земна сингулярност
+  FERROSILICON: Феросилиций
+  FLOWING_FONDNESS: Струяща привързаност
+  FORTUNE_SINGULARITY: Сингулярност на богатството
+  GHOSTLY_ESSENCE: Призрачна същност
+  GOLD: Злато
+  GOLD_SINGULARITY: Златна сингулярност
+  HARDENED_METAL: Закален метал
+  INFINITE: Безкраен метал
+  INFINITY_SINGULARITY: Сингулярност на безкрайността
+  INTERDIMENSIONAL_PRESENCE: Междуизмерно присъствие
+  IRIDIUM: Иридий
+  IRON: Желязо
+  IRON_SINGULARITY: Желязна сингулярност
+  LEAD: Олово
+  LEAD_SINGULARITY: Оловна сингулярност
+  LEATHER: Кожа
+  LIQUID_CHRISTMAS: Течна Коледа
+  LIQUID_LOVE: Течна любов
+  MAGIC_SINGULARITY: Магическа сингулярност
+  MAGNESIUM: Магнезий
+  MAGNESIUM_SINGULARITY: Магнезиева сингулярност
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Магстомана
+  MAG_THOR: Маг-торий
+  METAL_SINGULARITY: Метална сингулярност
+  MIXED_METAL: Смесен метал
+  MYTHRIL: Митрил
+  NICEINIUM: Niceinium
+  NICKEL: Никел
+  OSMIUM: Осмий
+  OSMIUM_SUPERALLOY: Осмиева суперсплав
+  PURIFIED_PASSION: Пречистена страст
+  REDSTONE: Редстоун
+  REDSTONE_ALLOY: Редстоун сплав
+  REFINED_IRON: Пречистено желязо
+  REINFORCED_ALLOY: Подсилена сплав
+  REINFORCED_DRACONIUM: Подсилен дракониум
+  REINFORCED_SLIME_STEEL: Подсилена слузна стомана
+  REMOTININIUM: Remotininium
+  RUBBER: Гума
+  SCRAP: Скрап
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Силиций
+  SILVER: Сребро
+  SILVER_SINGULARITY: Сребърна сингулярност
+  SLIME: Слуз
+  SLIME_STEEL: Слузна стомана
+  SMITHIUM: Smithium
+  SOLDER: Припой
+  STAINLESS_STEEL: Неръждаема стомана
+  STAR_DUST: Звезден прах
+  STEEL: Стомана
+  STRING: Връв
+  TESSERACTING_MATERIAL: Тесерактен материал
+  THORIUM: Торий
+  TIN: Калай
+  TIN_SINGULARITY: Калаена сингулярност
+  TITANIUM: Титан
+  TWISTED_VINE: Усукана лиана
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Вексов камък
+  VINE: Лиана
+  VOID: Бездна
+  WARPED_ROOT: Изкривен корен
+  WEEPING_VINE: Плачеща лиана
+  ZINC: Цинк
+  ZINC_SINGULARITY: Цинкова сингулярност
+messages:
+  smeltery-incomplete: Тази топилня не е завършена - допълни вертикалния 3x3 с 6 блока обгорени тухли, обгорен резервоар и чучур.
+modifiers:
+  DIAMOND: Диамант
+  EMERALD: Изумруд
+  LAPIS_LAZULI: Лапис лазули
+  MOD_PLATE: Модификационна плочка
+  QUARTZ: Кварц
+  REDSTONE: Редстоун
+part-types:
+  BINDING: Свръзка
+  GAMBESON: Гамбезон
+  HEAD_AXE: глава на секира
+  HEAD_HOE: глава на мотика
+  HEAD_PICK: глава на кирка
+  HEAD_SHOVEL: глава на лопата
+  HEAD_SWORD: острие на меч
+  LINKS: звена за ризница
+  PLATE_BOOTS: плочки за обувки
+  PLATE_CHESTPLATE: плочки за нагръдник
+  PLATE_HELMET: плочки за шлем
+  PLATE_LEGGINGS: плочки за панталони
+  REPAIR: комплект за ремонт
+  ROD: дръжка за инструмент
+tool-types:
+  AXE: Секира
+  HOE: Мотика
+  PICK: Кирка
+  PICKAXE: Кирка
+  SHOVEL: Лопата
+  SWORD: Меч
