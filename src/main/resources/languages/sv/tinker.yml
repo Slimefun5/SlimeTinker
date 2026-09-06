@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Stövlar
+  CHESTPLATE: Bröstharnesk
+  HELMET: Hjälm
+  LEGGINGS: Benskydd
+lore:
+  added_by: Tillagd av
+  binder_abbrev: 'B: '
+  gambeson_abbrev: 'G: '
+  head_abbrev: 'H: '
+  level: 'Nivå: '
+  links_abbrev: 'L: '
+  mod_level: ' Nivå '
+  mod_max: ' - (MAX)'
+  modifier_slots: 'Modifieringsplatser: '
+  part_desc_1: En verktygsdel. Oanvändbar ensam men kan
+  part_desc_2: förvandlas till något större vid
+  part_desc_3: Hantverkarens bord.
+  part_material: 'Material : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'S: '
+  sponsored_by: Sponsrad av
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Avancerad legering
+  ALUMINUM: Aluminium
+  ALUMINUM_BRASS: Aluminiummässing
+  ALUMINUM_BRONZE: Aluminiumbrons
+  ALUMINUM_SINGULARITY: Aluminiumsingularitet
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerite
+  BRASS: Mässing
+  BRONZE: Brons
+  CARBON_MESH: Kolfibernät
+  COAL: Kol
+  COBALT: Kobolt
+  COPPER: Koppar
+  COPPER_SINGULARITY: Kopparsingularitet
+  CORINTHIAN_BRONZE: Korintisk brons
+  CRIMSON_ROOT: Karmosinrot
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damaskusstål
+  DAXI_ABSORPTION: Daxi Absorption
+  DAXI_FORTITUDE: Daxi Ståndaktighet
+  DAXI_REGENERATION: Daxi Regeneration
+  DAXI_SATURATION: Daxi Mättnad
+  DAXI_STRENGTH: Daxi Styrka
+  DETAILED_DEVOTION: Detaljerad hängivenhet
+  DIAMOND: Diamant
+  DIAMOND_SINGULARITY: Diamantsingularitet
+  DRACONIC: Det drakiska
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Jordsingularitet
+  FERROSILICON: Ferrokisel
+  FLOWING_FONDNESS: Flödande ömhet
+  FORTUNE_SINGULARITY: Lyckosingularitet
+  GHOSTLY_ESSENCE: Spöklik essens
+  GOLD: Guld
+  GOLD_SINGULARITY: Guldsingularitet
+  HARDENED_METAL: Härdad metall
+  INFINITE: Det oändliga
+  INFINITY_SINGULARITY: Oändlighetssingularitet
+  INTERDIMENSIONAL_PRESENCE: Interdimensionell närvaro
+  IRIDIUM: Iridium
+  IRON: Järn
+  IRON_SINGULARITY: Järnsingularitet
+  LEAD: Bly
+  LEAD_SINGULARITY: Blysingularitet
+  LEATHER: Läder
+  LIQUID_CHRISTMAS: Flytande jul
+  LIQUID_LOVE: Flytande kärlek
+  MAGIC_SINGULARITY: Magisingularitet
+  MAGNESIUM: Magnesium
+  MAGNESIUM_SINGULARITY: Magnesiumsingularitet
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magstål
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Metallsingularitet
+  MIXED_METAL: Blandmetall
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nickel
+  OSMIUM: Osmium
+  OSMIUM_SUPERALLOY: Osmiumsuperlegering
+  PURIFIED_PASSION: Renad passion
+  REDSTONE: Rödsten
+  REDSTONE_ALLOY: Rödstenslegering
+  REFINED_IRON: Raffinerat järn
+  REINFORCED_ALLOY: Förstärkt legering
+  REINFORCED_DRACONIUM: Förstärkt Draconium
+  REINFORCED_SLIME_STEEL: Förstärkt slemstål
+  REMOTININIUM: Remotininium
+  RUBBER: Gummi
+  SCRAP: Skrot
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Kisel
+  SILVER: Silver
+  SILVER_SINGULARITY: Silversingularitet
+  SLIME: Slem
+  SLIME_STEEL: Slemstål
+  SMITHIUM: Smithium
+  SOLDER: Lod
+  STAINLESS_STEEL: Rostfritt stål
+  STAR_DUST: Stjärnstoft
+  STEEL: Stål
+  STRING: Tråd
+  TESSERACTING_MATERIAL: Tesserakterande material
+  THORIUM: Torium
+  TIN: Tenn
+  TIN_SINGULARITY: Tennsingularitet
+  TITANIUM: Titan
+  TWISTED_VINE: Vriden ranka
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vex-ädelsten
+  VINE: Ranka
+  VOID: Tomrum
+  WARPED_ROOT: Vresrot
+  WEEPING_VINE: Gråtande ranka
+  ZINC: Zink
+  ZINC_SINGULARITY: Zinksingularitet
+messages:
+  smeltery-incomplete: Detta smältverk är inte färdigt - fullborda den lodräta 3x3 med 6 brända tegelblock, en bränd tank och en pip.
+modifiers:
+  DIAMOND: Diamant
+  EMERALD: Smaragd
+  LAPIS_LAZULI: Lapis lazuli
+  MOD_PLATE: Modplåt
+  QUARTZ: Kvarts
+  REDSTONE: Rödsten
+part-types:
+  BINDING: Bindning
+  GAMBESON: Gambeson
+  HEAD_AXE: yxhuvud
+  HEAD_HOE: jordhackhuvud
+  HEAD_PICK: hackhuvud
+  HEAD_SHOVEL: spadhuvud
+  HEAD_SWORD: svärdsklinga
+  LINKS: brynjelänkar
+  PLATE_BOOTS: stövelplåtar
+  PLATE_CHESTPLATE: bröstplåtar
+  PLATE_HELMET: hjälmplåtar
+  PLATE_LEGGINGS: benplåtar
+  REPAIR: reparationssats
+  ROD: verktygsskaft
+tool-types:
+  AXE: Yxa
+  HOE: Jordhacka
+  PICK: Hacka
+  PICKAXE: Hacka
+  SHOVEL: Spade
+  SWORD: Svärd
