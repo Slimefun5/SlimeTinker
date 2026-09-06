@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Saappaat
+  CHESTPLATE: Rintapanssari
+  HELMET: Kypärä
+  LEGGINGS: Housut
+lore:
+  added_by: Lisännyt
+  binder_abbrev: 'S: '
+  gambeson_abbrev: 'T: '
+  head_abbrev: 'P: '
+  level: 'Taso: '
+  links_abbrev: 'Le: '
+  mod_level: ' Taso '
+  mod_max: ' - (MAKS)'
+  modifier_slots: 'Muunnospaikat: '
+  part_desc_1: Työkalun osa. Yksinään hyödytön, mutta se voi
+  part_desc_2: muuttua joksikin suuremmaksi
+  part_desc_3: Sepän pöytä.
+  part_material: 'Materiaali : '
+  plate_abbrev: 'L: '
+  rod_abbrev: 'V: '
+  sponsored_by: Sponsori
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Kehittynyt seos
+  ALUMINUM: Alumiini
+  ALUMINUM_BRASS: Alumiinimessinki
+  ALUMINUM_BRONZE: Alumiinipronssi
+  ALUMINUM_SINGULARITY: Alumiinisingulariteetti
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerite
+  BRASS: Messinki
+  BRONZE: Pronssi
+  CARBON_MESH: Hiilikuituverkko
+  COAL: Hiili
+  COBALT: Koboltti
+  COPPER: Kupari
+  COPPER_SINGULARITY: Kuparisingulariteetti
+  CORINTHIAN_BRONZE: Korinttilainen pronssi
+  CRIMSON_ROOT: Karmiinijuuri
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damaskosteräs
+  DAXI_ABSORPTION: Daxi-imeytys
+  DAXI_FORTITUDE: Daxi-sisukkuus
+  DAXI_REGENERATION: Daxi-uudistuminen
+  DAXI_SATURATION: Daxi-kylläisyys
+  DAXI_STRENGTH: Daxi-voima
+  DETAILED_DEVOTION: Tarkka omistautuminen
+  DIAMOND: Timantti
+  DIAMOND_SINGULARITY: Timanttisingulariteetti
+  DRACONIC: Draakoninen
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Maasingulariteetti
+  FERROSILICON: Ferropii
+  FLOWING_FONDNESS: Virtaava kiintymys
+  FORTUNE_SINGULARITY: Onnensingulariteetti
+  GHOSTLY_ESSENCE: Aavemainen olemus
+  GOLD: Kulta
+  GOLD_SINGULARITY: Kultasingulariteetti
+  HARDENED_METAL: Karkaistu metalli
+  INFINITE: Ääretön
+  INFINITY_SINGULARITY: Äärettömyyssingulariteetti
+  INTERDIMENSIONAL_PRESENCE: Ulottuvuuksien välinen läsnäolo
+  IRIDIUM: Iridium
+  IRON: Rauta
+  IRON_SINGULARITY: Rautasingulariteetti
+  LEAD: Lyijy
+  LEAD_SINGULARITY: Lyijysingulariteetti
+  LEATHER: Nahka
+  LIQUID_CHRISTMAS: Nestemäinen joulu
+  LIQUID_LOVE: Nestemäinen rakkaus
+  MAGIC_SINGULARITY: Taikasingulariteetti
+  MAGNESIUM: Magnesium
+  MAGNESIUM_SINGULARITY: Magnesiumsingulariteetti
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magteräs
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Metallisingulariteetti
+  MIXED_METAL: Sekametalli
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nikkeli
+  OSMIUM: Osmium
+  OSMIUM_SUPERALLOY: Osmiumsuperseos
+  PURIFIED_PASSION: Puhdistettu intohimo
+  REDSTONE: Punakivi
+  REDSTONE_ALLOY: Punakiviseos
+  REFINED_IRON: Jalostettu rauta
+  REINFORCED_ALLOY: Vahvistettu seos
+  REINFORCED_DRACONIUM: Vahvistettu Draconium
+  REINFORCED_SLIME_STEEL: Vahvistettu limateräs
+  REMOTININIUM: Remotininium
+  RUBBER: Kumi
+  SCRAP: Romu
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Pii
+  SILVER: Hopea
+  SILVER_SINGULARITY: Hopeasingulariteetti
+  SLIME: Lima
+  SLIME_STEEL: Limateräs
+  SMITHIUM: Smithium
+  SOLDER: Juote
+  STAINLESS_STEEL: Ruostumaton teräs
+  STAR_DUST: Tähtipöly
+  STEEL: Teräs
+  STRING: Lanka
+  TESSERACTING_MATERIAL: Tesseraktimateriaali
+  THORIUM: Torium
+  TIN: Tina
+  TIN_SINGULARITY: Tinasingulariteetti
+  TITANIUM: Titaani
+  TWISTED_VINE: Kiertynyt köynnös
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vex-jalokivi
+  VINE: Köynnös
+  VOID: Tyhjyys
+  WARPED_ROOT: Vääntynyt juuri
+  WEEPING_VINE: Itkuköynnös
+  ZINC: Sinkki
+  ZINC_SINGULARITY: Sinkkisingulariteetti
+messages:
+  smeltery-incomplete: Tämä sulattamo ei ole valmis - täydennä pystysuora 3x3 kuudella poltetulla tiililohkareella, poltetulla säiliöllä ja valukourulla.
+modifiers:
+  DIAMOND: Timantti
+  EMERALD: Smaragdi
+  LAPIS_LAZULI: Lasuurikivi
+  MOD_PLATE: Muunnoslevy
+  QUARTZ: Kvartsi
+  REDSTONE: Punakivi
+part-types:
+  BINDING: Sidos
+  GAMBESON: Toppatakki
+  HEAD_AXE: Kirveenpään
+  HEAD_HOE: Kuokanpään
+  HEAD_PICK: Hakunpään
+  HEAD_SHOVEL: Lapionpään
+  HEAD_SWORD: Miekanterän
+  LINKS: Rengaslenkkien
+  PLATE_BOOTS: Saapaslevyjen
+  PLATE_CHESTPLATE: Rintapanssarilevyjen
+  PLATE_HELMET: Kypärälevyjen
+  PLATE_LEGGINGS: Housulevyjen
+  REPAIR: Korjaussarjan
+  ROD: Työkaluvarren
+tool-types:
+  AXE: Kirves
+  HOE: Kuokka
+  PICK: Hakku
+  PICKAXE: Hakku
+  SHOVEL: Lapio
+  SWORD: Miekka
