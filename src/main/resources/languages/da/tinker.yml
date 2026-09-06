@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Støvler
+  CHESTPLATE: Brystplade
+  HELMET: Hjelm
+  LEGGINGS: Benskinner
+lore:
+  added_by: Tilføjet af
+  binder_abbrev: 'B: '
+  gambeson_abbrev: 'G: '
+  head_abbrev: 'H: '
+  level: 'Niveau: '
+  links_abbrev: 'R: '
+  mod_level: ' Niveau '
+  mod_max: ' - (MAKS)'
+  modifier_slots: 'Modifikationspladser: '
+  part_desc_1: En værktøjsdel. Ubrugelig alene, men kan
+  part_desc_2: gøres til noget større på
+  part_desc_3: Håndværkerens bord.
+  part_material: 'Materiale : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'S: '
+  sponsored_by: Sponsoreret af
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Avanceret legering
+  ALUMINUM: Aluminium
+  ALUMINUM_BRASS: Aluminiummessing
+  ALUMINUM_BRONZE: Aluminiumbronze
+  ALUMINUM_SINGULARITY: Aluminiumsingularitet
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerite
+  BRASS: Messing
+  BRONZE: Bronze
+  CARBON_MESH: Kulstofnet
+  COAL: Kul
+  COBALT: Kobolt
+  COPPER: Kobber
+  COPPER_SINGULARITY: Kobbersingularitet
+  CORINTHIAN_BRONZE: Korinthisk bronze
+  CRIMSON_ROOT: Karmosinrød rod
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damaskusstål
+  DAXI_ABSORPTION: Daxi-absorption
+  DAXI_FORTITUDE: Daxi-sejhed
+  DAXI_REGENERATION: Daxi-regeneration
+  DAXI_SATURATION: Daxi-mætning
+  DAXI_STRENGTH: Daxi-styrke
+  DETAILED_DEVOTION: Detaljeret hengivenhed
+  DIAMOND: Diamant
+  DIAMOND_SINGULARITY: Diamantsingularitet
+  DRACONIC: Dragisk
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Jordsingularitet
+  FERROSILICON: Ferrosilicium
+  FLOWING_FONDNESS: Flydende ømhed
+  FORTUNE_SINGULARITY: Lykkesingularitet
+  GHOSTLY_ESSENCE: Spøgelsesessens
+  GOLD: Guld
+  GOLD_SINGULARITY: Guldsingularitet
+  HARDENED_METAL: Hærdet metal
+  INFINITE: Uendelig
+  INFINITY_SINGULARITY: Uendelighedssingularitet
+  INTERDIMENSIONAL_PRESENCE: Interdimensional tilstedeværelse
+  IRIDIUM: Iridium
+  IRON: Jern
+  IRON_SINGULARITY: Jernsingularitet
+  LEAD: Bly
+  LEAD_SINGULARITY: Blysingularitet
+  LEATHER: Læder
+  LIQUID_CHRISTMAS: Flydende jul
+  LIQUID_LOVE: Flydende kærlighed
+  MAGIC_SINGULARITY: Magisingularitet
+  MAGNESIUM: Magnesium
+  MAGNESIUM_SINGULARITY: Magnesiumsingularitet
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magstål
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Metalsingularitet
+  MIXED_METAL: Blandet metal
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nikkel
+  OSMIUM: Osmium
+  OSMIUM_SUPERALLOY: Osmiumsuperlegering
+  PURIFIED_PASSION: Renset lidenskab
+  REDSTONE: Rødsten
+  REDSTONE_ALLOY: Rødstenslegering
+  REFINED_IRON: Raffineret jern
+  REINFORCED_ALLOY: Forstærket legering
+  REINFORCED_DRACONIUM: Forstærket Draconium
+  REINFORCED_SLIME_STEEL: Forstærket slimstål
+  REMOTININIUM: Remotininium
+  RUBBER: Gummi
+  SCRAP: Skrot
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Silicium
+  SILVER: Sølv
+  SILVER_SINGULARITY: Sølvsingularitet
+  SLIME: Slim
+  SLIME_STEEL: Slimstål
+  SMITHIUM: Smithium
+  SOLDER: Loddemetal
+  STAINLESS_STEEL: Rustfrit stål
+  STAR_DUST: Stjernestøv
+  STEEL: Stål
+  STRING: Snor
+  TESSERACTING_MATERIAL: Tesserakt-materiale
+  THORIUM: Thorium
+  TIN: Tin
+  TIN_SINGULARITY: Tinsingularitet
+  TITANIUM: Titan
+  TWISTED_VINE: Snoet ranke
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vex-ædelsten
+  VINE: Ranke
+  VOID: Tomrum
+  WARPED_ROOT: Fordrejet rod
+  WEEPING_VINE: Grædende ranke
+  ZINC: Zink
+  ZINC_SINGULARITY: Zinksingularitet
+messages:
+  smeltery-incomplete: Dette smelteværk er ikke færdigt - fuldfør den lodrette 3x3 med 6 blokke af brændt mursten, en brændt tank og en tud.
+modifiers:
+  DIAMOND: Diamant
+  EMERALD: Smaragd
+  LAPIS_LAZULI: Lapis lazuli
+  MOD_PLATE: Modplade
+  QUARTZ: Kvarts
+  REDSTONE: Rødsten
+part-types:
+  BINDING: Binding
+  GAMBESON: Gambison
+  HEAD_AXE: Øksehoved
+  HEAD_HOE: Hakkehoved
+  HEAD_PICK: Spidshakkehoved
+  HEAD_SHOVEL: Skovlhoved
+  HEAD_SWORD: Sværdklinge
+  LINKS: Brynjeringe
+  PLATE_BOOTS: Støvleplader
+  PLATE_CHESTPLATE: Brystplader
+  PLATE_HELMET: Hjelmplader
+  PLATE_LEGGINGS: Benskinneplader
+  REPAIR: Reparationssæt
+  ROD: Værktøjsstang
+tool-types:
+  AXE: Økse
+  HOE: Hakke
+  PICK: Spidshakke
+  PICKAXE: Spidshakke
+  SHOVEL: Skovl
+  SWORD: Sværd
