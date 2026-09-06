@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Čižmy
+  CHESTPLATE: Náprsný pancier
+  HELMET: Prilba
+  LEGGINGS: Nohavice
+lore:
+  added_by: Pridal
+  binder_abbrev: 'S: '
+  gambeson_abbrev: 'G: '
+  head_abbrev: 'H: '
+  level: 'Úroveň: '
+  links_abbrev: 'K: '
+  mod_level: ' Úroveň '
+  mod_max: ' - (MAX)'
+  modifier_slots: 'Miesta na úpravy: '
+  part_desc_1: Diel nástroja. Sám osebe zbytočný, no môže
+  part_desc_2: sa dá premeniť na niečo väčšie na
+  part_desc_3: Remeselnícky stôl.
+  part_material: 'Materiál : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'R: '
+  sponsored_by: Sponzor
+materials:
+  ADAMANTITE: Adamantit
+  ADVANCED_ALLOY: Pokročilá zliatina
+  ALUMINUM: Hliník
+  ALUMINUM_BRASS: Hliníková mosadz
+  ALUMINUM_BRONZE: Hliníkový bronz
+  ALUMINUM_SINGULARITY: Hliníková singularita
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerit
+  BRASS: Mosadz
+  BRONZE: Bronz
+  CARBON_MESH: Uhlíková sieťka
+  COAL: Uhlie
+  COBALT: Kobalt
+  COPPER: Meď
+  COPPER_SINGULARITY: Medená singularita
+  CORINTHIAN_BRONZE: Korintský bronz
+  CRIMSON_ROOT: Šarlátový koreň
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damascénska oceľ
+  DAXI_ABSORPTION: Daxi pohltenia
+  DAXI_FORTITUDE: Daxi odolnosti
+  DAXI_REGENERATION: Daxi regenerácie
+  DAXI_SATURATION: Daxi nasýtenia
+  DAXI_STRENGTH: Daxi sily
+  DETAILED_DEVOTION: Vycibrená oddanosť
+  DIAMOND: Diamant
+  DIAMOND_SINGULARITY: Diamantová singularita
+  DRACONIC: Dračí kov
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Zemská singularita
+  FERROSILICON: Ferosilícium
+  FLOWING_FONDNESS: Prúdiaca náklonnosť
+  FORTUNE_SINGULARITY: Singularita šťastia
+  GHOSTLY_ESSENCE: Prízračná esencia
+  GOLD: Zlato
+  GOLD_SINGULARITY: Zlatá singularita
+  HARDENED_METAL: Kalený kov
+  INFINITE: Nekonečný kov
+  INFINITY_SINGULARITY: Singularita nekonečna
+  INTERDIMENSIONAL_PRESENCE: Medzidimenzionálna prítomnosť
+  IRIDIUM: Irídium
+  IRON: Železo
+  IRON_SINGULARITY: Železná singularita
+  LEAD: Olovo
+  LEAD_SINGULARITY: Olovená singularita
+  LEATHER: Koža
+  LIQUID_CHRISTMAS: Tekuté Vianoce
+  LIQUID_LOVE: Tekutá láska
+  MAGIC_SINGULARITY: Magická singularita
+  MAGNESIUM: Horčík
+  MAGNESIUM_SINGULARITY: Horčíková singularita
+  MAGNONIUM: Magnónium
+  MAGSTEEL: Magoceľ
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Kovová singularita
+  MIXED_METAL: Zmiešaný kov
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nikel
+  OSMIUM: Osmium
+  OSMIUM_SUPERALLOY: Osmiová superzliatina
+  PURIFIED_PASSION: Očistená vášeň
+  REDSTONE: Redstone
+  REDSTONE_ALLOY: Redstonová zliatina
+  REFINED_IRON: Rafinované železo
+  REINFORCED_ALLOY: Zosilnená zliatina
+  REINFORCED_DRACONIUM: Zosilnené draconium
+  REINFORCED_SLIME_STEEL: Zosilnená slizová oceľ
+  REMOTININIUM: Remotininium
+  RUBBER: Guma
+  SCRAP: Šrot
+  SEFIRITE: Sefirit
+  SEGGANESSON: Segganesson
+  SILICON: Kremík
+  SILVER: Striebro
+  SILVER_SINGULARITY: Strieborná singularita
+  SLIME: Sliz
+  SLIME_STEEL: Slizová oceľ
+  SMITHIUM: Smithium
+  SOLDER: Spájka
+  STAINLESS_STEEL: Nehrdzavejúca oceľ
+  STAR_DUST: Hviezdny prach
+  STEEL: Oceľ
+  STRING: Motúz
+  TESSERACTING_MATERIAL: Teseraktový materiál
+  THORIUM: Tórium
+  TIN: Cín
+  TIN_SINGULARITY: Cínová singularita
+  TITANIUM: Titán
+  TWISTED_VINE: Skrútená liana
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vexov drahokam
+  VINE: Liana
+  VOID: Prázdnota
+  WARPED_ROOT: Pokrivený koreň
+  WEEPING_VINE: Plačúca liana
+  ZINC: Zinok
+  ZINC_SINGULARITY: Zinková singularita
+messages:
+  smeltery-incomplete: Táto taviaca pec nie je dokončená - doplň zvislý štvorec 3x3 o 6 blokov vypálenej tehly, Vypálenú nádrž a Výlevku.
+modifiers:
+  DIAMOND: Diamant
+  EMERALD: Smaragd
+  LAPIS_LAZULI: Lapis lazuli
+  MOD_PLATE: Úpravná platňa
+  QUARTZ: Kremeň
+  REDSTONE: Redstone
+part-types:
+  BINDING: Spojivo
+  GAMBESON: Gambezón
+  HEAD_AXE: hlavu sekery
+  HEAD_HOE: hlavu motyky
+  HEAD_PICK: hlavu krompáča
+  HEAD_SHOVEL: hlavu lopaty
+  HEAD_SWORD: čepeľ meča
+  LINKS: krúžkové články
+  PLATE_BOOTS: platne čižiem
+  PLATE_CHESTPLATE: platne panciera
+  PLATE_HELMET: platne prilby
+  PLATE_LEGGINGS: platne nohavíc
+  REPAIR: opravnú súpravu
+  ROD: rukoväť nástroja
+tool-types:
+  AXE: Sekera
+  HOE: Motyka
+  PICK: Krompáč
+  PICKAXE: Krompáč
+  SHOVEL: Lopata
+  SWORD: Meč
