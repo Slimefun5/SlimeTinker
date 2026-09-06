@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Boty
+  CHESTPLATE: Krunýř
+  HELMET: Helma
+  LEGGINGS: Nohavice
+lore:
+  added_by: Přidal
+  binder_abbrev: 'V: '
+  gambeson_abbrev: 'Ka: '
+  head_abbrev: 'H: '
+  level: 'Úroveň: '
+  links_abbrev: 'Kr: '
+  mod_level: ' úroveň '
+  mod_max: ' - (MAX)'
+  modifier_slots: 'Sloty úprav: '
+  part_desc_1: Díl nástroje. Sám o sobě k ničemu, ale může
+  part_desc_2: být přetvořen v něco většího na
+  part_desc_3: Řemeslnický stůl.
+  part_material: 'Materiál : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'N: '
+  sponsored_by: Sponzor
+materials:
+  ADAMANTITE: Adamantit
+  ADVANCED_ALLOY: Pokročilá slitina
+  ALUMINUM: Hliník
+  ALUMINUM_BRASS: Hliníková mosaz
+  ALUMINUM_BRONZE: Hliníkový bronz
+  ALUMINUM_SINGULARITY: Hliníková singularita
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerit
+  BRASS: Mosaz
+  BRONZE: Bronz
+  CARBON_MESH: Uhlíková síťovina
+  COAL: Uhlí
+  COBALT: Kobalt
+  COPPER: Měď
+  COPPER_SINGULARITY: Měděná singularita
+  CORINTHIAN_BRONZE: Korintský bronz
+  CRIMSON_ROOT: Nachový kořen
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damašková ocel
+  DAXI_ABSORPTION: Daxi pohlcení
+  DAXI_FORTITUDE: Daxi odolnosti
+  DAXI_REGENERATION: Daxi obnovy
+  DAXI_SATURATION: Daxi nasycení
+  DAXI_STRENGTH: Daxi síly
+  DETAILED_DEVOTION: Vybroušená oddanost
+  DIAMOND: Diamant
+  DIAMOND_SINGULARITY: Diamantová singularita
+  DRACONIC: Dračí hmota
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Zemská singularita
+  FERROSILICON: Ferosilicium
+  FLOWING_FONDNESS: Plynoucí náklonnost
+  FORTUNE_SINGULARITY: Singularita štěstí
+  GHOSTLY_ESSENCE: Přízračná esence
+  GOLD: Zlato
+  GOLD_SINGULARITY: Zlatá singularita
+  HARDENED_METAL: Kalený kov
+  INFINITE: Nekonečno
+  INFINITY_SINGULARITY: Singularita nekonečna
+  INTERDIMENSIONAL_PRESENCE: Mezidimenzionální přítomnost
+  IRIDIUM: Iridium
+  IRON: Železo
+  IRON_SINGULARITY: Železná singularita
+  LEAD: Olovo
+  LEAD_SINGULARITY: Olověná singularita
+  LEATHER: Kůže
+  LIQUID_CHRISTMAS: Tekuté Vánoce
+  LIQUID_LOVE: Tekutá láska
+  MAGIC_SINGULARITY: Magická singularita
+  MAGNESIUM: Hořčík
+  MAGNESIUM_SINGULARITY: Hořčíková singularita
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magocel
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Kovová singularita
+  MIXED_METAL: Smíšený kov
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nikl
+  OSMIUM: Osmium
+  OSMIUM_SUPERALLOY: Osmiová superslitina
+  PURIFIED_PASSION: Očištěná vášeň
+  REDSTONE: Rudit
+  REDSTONE_ALLOY: Ruditová slitina
+  REFINED_IRON: Rafinované železo
+  REINFORCED_ALLOY: Zesílená slitina
+  REINFORCED_DRACONIUM: Zesílené draconium
+  REINFORCED_SLIME_STEEL: Zesílená slizová ocel
+  REMOTININIUM: Remotininium
+  RUBBER: Guma
+  SCRAP: Šrot
+  SEFIRITE: Sefirit
+  SEGGANESSON: Segganesson
+  SILICON: Křemík
+  SILVER: Stříbro
+  SILVER_SINGULARITY: Stříbrná singularita
+  SLIME: Sliz
+  SLIME_STEEL: Slizová ocel
+  SMITHIUM: Smithium
+  SOLDER: Pájka
+  STAINLESS_STEEL: Nerezová ocel
+  STAR_DUST: Hvězdný prach
+  STEEL: Ocel
+  STRING: Provázek
+  TESSERACTING_MATERIAL: Teseraktující hmota
+  THORIUM: Thorium
+  TIN: Cín
+  TIN_SINGULARITY: Cínová singularita
+  TITANIUM: Titan
+  TWISTED_VINE: Zkroucená liána
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Drahokam vexa
+  VINE: Liána
+  VOID: Prázdnota
+  WARPED_ROOT: Zprohýbaný kořen
+  WEEPING_VINE: Plačící liána
+  ZINC: Zinek
+  ZINC_SINGULARITY: Zinková singularita
+messages:
+  smeltery-incomplete: Tato tavírna není hotová - doplň svislý 3x3 o 6 bloků vypálených cihel, vypálenou nádrž a výlevník.
+modifiers:
+  DIAMOND: Diamant
+  EMERALD: Smaragd
+  LAPIS_LAZULI: Lazurit
+  MOD_PLATE: Úpravný plát
+  QUARTZ: Křemen
+  REDSTONE: Rudit
+part-types:
+  BINDING: Vazba
+  GAMBESON: Kabátec
+  HEAD_AXE: hlavu sekery
+  HEAD_HOE: hlavu motyky
+  HEAD_PICK: hlavu krumpáče
+  HEAD_SHOVEL: hlavu lopaty
+  HEAD_SWORD: čepel meče
+  LINKS: kroužky
+  PLATE_BOOTS: pláty bot
+  PLATE_CHESTPLATE: pláty krunýře
+  PLATE_HELMET: pláty helmy
+  PLATE_LEGGINGS: pláty nohavic
+  REPAIR: opravnou sadu
+  ROD: násadu nástroje
+tool-types:
+  AXE: Sekera
+  HOE: Motyka
+  PICK: Krumpáč
+  PICKAXE: Krumpáč
+  SHOVEL: Lopata
+  SWORD: Meč
