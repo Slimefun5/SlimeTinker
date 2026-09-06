@@ -3184,7 +3184,7 @@ PART_BOOTS_PLATES:
   - '&7Díl nástroje. Sám o sobě k ničemu, ale může'
   - '&7být přetvořen v něco většího na'
   - '&7řemeslnickém stole.'
-  name: '&fPláty z boty'
+  name: '&fPláty bot'
   type:
   - '&7&oKomponenta'
 PART_BOOT_PLATE_DUMMY:
@@ -5072,7 +5072,7 @@ PART_LEG_PLATES:
   - '&7Díl nástroje. Sám o sobě k ničemu, ale může'
   - '&7být přetvořen v něco většího na'
   - '&7řemeslnickém stole.'
-  name: '&fPláty z nohavic'
+  name: '&fPláty nohavic'
   type:
   - '&7&oKomponenta'
 PART_LEG_PLATE_DUMMY:
@@ -5452,7 +5452,7 @@ PART_PICKAXE_HEAD:
   - '&7Díl nástroje. Sám o sobě k ničemu, ale může'
   - '&7být přetvořen v něco většího na'
   - '&7řemeslnickém stole.'
-  name: '&fHlava z krumpáče'
+  name: '&fHlava krumpáče'
   type:
   - '&7&oKomponenta'
 PART_PICKAXE_HEAD_DUMMY:

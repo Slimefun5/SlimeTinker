@@ -3184,7 +3184,7 @@ PART_BOOTS_PLATES:
   - '&7En verktygsdel. Oanvändbar ensam men kan'
   - '&7förvandlas till något större vid'
   - '&7Hantverkarens bord.'
-  name: '&fPlåtar av stövel'
+  name: '&fStövelplåtar'
   type:
   - '&7&oKomponent'
 PART_BOOT_PLATE_DUMMY:
@@ -5072,7 +5072,7 @@ PART_LEG_PLATES:
   - '&7En verktygsdel. Oanvändbar ensam men kan'
   - '&7förvandlas till något större vid'
   - '&7Hantverkarens bord.'
-  name: '&fPlåtar av benskydd'
+  name: '&fBenplåtar'
   type:
   - '&7&oKomponent'
 PART_LEG_PLATE_DUMMY:
@@ -5452,7 +5452,7 @@ PART_PICKAXE_HEAD:
   - '&7En verktygsdel. Oanvändbar ensam men kan'
   - '&7förvandlas till något större vid'
   - '&7Hantverkarens bord.'
-  name: '&fHuvud av hacka'
+  name: '&fHackhuvud'
   type:
   - '&7&oKomponent'
 PART_PICKAXE_HEAD_DUMMY:

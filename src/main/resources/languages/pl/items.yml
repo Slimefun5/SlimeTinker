@@ -3184,7 +3184,7 @@ PART_BOOTS_PLATES:
   - '&7Część narzędzia. Sama w sobie bezużyteczna, ale może'
   - '&7zostać przekuta w coś większego na'
   - '&7rzemieślnika.'
-  name: '&fPłyty z buta'
+  name: '&fPłyty butów'
   type:
   - '&7&oKomponent'
 PART_BOOT_PLATE_DUMMY:
@@ -5072,7 +5072,7 @@ PART_LEG_PLATES:
   - '&7Część narzędzia. Sama w sobie bezużyteczna, ale może'
   - '&7zostać przekuta w coś większego na'
   - '&7rzemieślnika.'
-  name: '&fPłyty ze spodni'
+  name: '&fPłyty spodni'
   type:
   - '&7&oKomponent'
 PART_LEG_PLATE_DUMMY:
@@ -5452,7 +5452,7 @@ PART_PICKAXE_HEAD:
   - '&7Część narzędzia. Sama w sobie bezużyteczna, ale może'
   - '&7zostać przekuta w coś większego na'
   - '&7rzemieślnika.'
-  name: '&fGłowica z kilofa'
+  name: '&fGłowica kilofa'
   type:
   - '&7&oKomponent'
 PART_PICKAXE_HEAD_DUMMY:
