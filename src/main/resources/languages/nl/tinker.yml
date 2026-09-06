@@ -1,398 +1,401 @@
-# SlimeTinker runtime-composed name fragments. Keyed by material/type id.
-materials:
-  IRON: IJzer
-  GOLD: Goud
-  COPPER: Koper
-  SILVER: Zilver
-  TIN: Tin
-  MAGNESIUM: Magnesium
-  ALUMINUM: Aluminium
-  LEAD: Lood
-  ZINC: Zink
-  COAL: Steenkool
-  STEEL: Staal
-  DAMASCUS_STEEL: Damaststaal
-  DURALIUM: Duralium
-  BRONZE: Brons
-  ALUMINUM_BRONZE: Aluminiumbrons
-  HARDENED_METAL: Gehard Metaal
-  CORINTHIAN_BRONZE: Korinthisch Brons
-  SOLDER: Soldeer
-  BILLON: Billon
-  BRASS: Messing
-  ALUMINUM_BRASS: Aluminiummessing
-  NICKEL: Nikkel
-  COBALT: Kobalt
-  REINFORCED_ALLOY: Versterkte Legering
-  STRING: Draad
-  VINE: Liaan
-  CRIMSON_ROOT: Karmozijnen Wortel
-  WARPED_ROOT: Verwrongen Wortel
-  WEEPING_VINE: Wenende Liaan
-  TWISTED_VINE: Gedraaide Liaan
-  SLIME: Slijm
-  LEATHER: Leer
-  DIAMOND: Diamant
-  DRACONIC: Draconisch
-  REDSTONE: Redstone
-  REDSTONE_ALLOY: Redstone-legering
-  SILICON: Silicium
-  FERROSILICON: Ferrosilicium
-  BOOMERITE: Boomeriet
-  SEFIRITE: Sefiriet
-  LIQUID_CHRISTMAS: Vloeibare Kerst
-  CRINGLEIUM: Cringleium
-  FLOWING_FONDNESS: Vloeiende Genegenheid
-  DETAILED_DEVOTION: Gedetailleerde Toewijding
-  PURIFIED_PASSION: Gezuiverde Passie
-  LIQUID_LOVE: Vloeibare Liefde
-  NICEINIUM: Niceinium
-  SMITHIUM: Smithium
-  ANNIVERSARIUM: Anniversarium
-  VOID: Leegte
-  INFINITE: Oneindig
-  FORTUNE_SINGULARITY: Fortuin-singulariteit
-  MAGIC_SINGULARITY: Magie-singulariteit
-  EARTH_SINGULARITY: Aarde-singulariteit
-  METAL_SINGULARITY: Metaal-singulariteit
-  MAGSTEEL: Magstaal
-  TITANIUM: Titanium
-  MYTHRIL: Mythril
-  ADAMANTITE: Adamantiet
-  MAGNONIUM: Magnonium
-  COPPER_SINGULARITY: Koper-singulariteit
-  ZINC_SINGULARITY: Zink-singulariteit
-  TIN_SINGULARITY: Tin-singulariteit
-  ALUMINUM_SINGULARITY: Aluminium-singulariteit
-  SILVER_SINGULARITY: Zilver-singulariteit
-  MAGNESIUM_SINGULARITY: Magnesium-singulariteit
-  LEAD_SINGULARITY: Lood-singulariteit
-  GOLD_SINGULARITY: Goud-singulariteit
-  IRON_SINGULARITY: IJzer-singulariteit
-  DIAMOND_SINGULARITY: Diamant-singulariteit
-  INFINITY_SINGULARITY: Oneindigheid-singulariteit
-  REINFORCED_DRACONIUM: Versterkt Draconium
-  SLIME_STEEL: Slijmstaal
-  REINFORCED_SLIME_STEEL: Versterkt Slijmstaal
-  OSMIUM_SUPERALLOY: Osmium-superlegering
-  OSMIUM: Osmium
-  SEGGANESSON: Segganesson
-  UNPATENTABLIUM: Unpatentablium
-  STAINLESS_STEEL: Roestvrij Staal
-  VEX_GEM: Vex-edelsteen
-  STAR_DUST: Sterrenstof
-  GHOSTLY_ESSENCE: Spookachtige Essentie
-  TESSERACTING_MATERIAL: Tesseractmateriaal
-  RUBBER: Rubber
-  REFINED_IRON: Geraffineerd IJzer
-  MIXED_METAL: Gemengd Metaal
-  ADVANCED_ALLOY: Geavanceerde Legering
-  THORIUM: Thorium
-  MAG_THOR: Mag Thor
-  CARBON_MESH: Koolstofgaas
-  SCRAP: Schroot
-  IRIDIUM: Iridium
-  DAXI_STRENGTH: Daxi-kracht
-  DAXI_ABSORPTION: Daxi-absorptie
-  DAXI_FORTITUDE: Daxi-standvastigheid
-  DAXI_SATURATION: Daxi-verzadiging
-  DAXI_REGENERATION: Daxi-regeneratie
-  INTERDIMENSIONAL_PRESENCE: Interdimensionale Aanwezigheid
-  REMOTININIUM: Remotininium
-  ULTIMANINIUM: Ultimaninium
-tool-types:
-  SHOVEL: Schep
-  PICK: Houweel
-  PICKAXE: Houweel
-  AXE: Bijl
-  HOE: Schoffel
-  SWORD: Zwaard
 armour-types:
-  HELMET: Helm
-  CHESTPLATE: Borstplaat
-  LEGGINGS: Beenkappen
   BOOTS: Laarzen
-part-types:
-  HEAD_SHOVEL: Schepblad
-  HEAD_PICK: Houweelkop
-  HEAD_AXE: Bijlkop
-  HEAD_HOE: Schoffelblad
-  HEAD_SWORD: Zwaardkling
-  ROD: Gereedschapsstaaf
-  BINDING: Binding
-  PLATE_HELMET: Helmplaten
-  PLATE_CHESTPLATE: Borstplaatdelen
-  PLATE_LEGGINGS: Beenplaten
-  PLATE_BOOTS: Laarsplaten
-  GAMBESON: Gambeson
-  LINKS: Maliënschakels
-  REPAIR: Reparatieset
+  CHESTPLATE: Borstplaat
+  HELMET: Helm
+  LEGGINGS: Beenkappen
 lore:
-  added_by: 'Toegevoegd door'
-  sponsored_by: 'Gesponsord door'
-  head_abbrev: 'K: '
+  added_by: Toegevoegd door
   binder_abbrev: 'B: '
-  rod_abbrev: 'S: '
-  plate_abbrev: 'P: '
   gambeson_abbrev: 'W: '
-  links_abbrev: 'S: '
+  head_abbrev: 'K: '
   level: 'Niveau: '
-  modifier_slots: 'Modificatiesleuven: '
+  links_abbrev: 'S: '
   mod_level: ' Niveau '
   mod_max: ' - (MAX)'
-modifiers:
-  REDSTONE: 'Redstone'
-  LAPIS_LAZULI: 'Lapis Lazuli'
-  QUARTZ: 'Kwarts'
-  DIAMOND: 'Diamant'
-  EMERALD: 'Smaragd'
-  MOD_PLATE: 'Modificatieplaat'
-traits:
-  "10 Years of (Slime)fun!": "10 Jaar (Slime)fun!"
-  "Abra": "Abra"
-  "Acupuncture": "Acupunctuur"
-  "Acupuncture II": "Acupunctuur II"
-  "Adamant": "Standvastig"
-  "All That Glitters II": "Al Wat Blinkt II"
-  "All that Glitters": "Al Wat Blinkt"
-  "Annoying": "Irritant"
-  "Attraction": "Aantrekking"
-  "Band": "Band"
-  "Barter": "Ruilhandel"
-  "Barter II": "Ruilhandel II"
-  "Beautiful": "Prachtig"
-  "Beginner": "Beginner"
-  "Beginner II": "Beginner II"
-  "Blinding Speed": "Verblindende Snelheid"
-  "Boost": "Boost"
-  "Boost II": "Boost II"
-  "Bouncy": "Veerkrachtig"
-  "Bouncy II": "Veerkrachtig II"
-  "Brains, Not Brawn": "Hersens, Geen Spieren"
-  "Brains, Not Brawn II": "Hersens, Geen Spieren II"
-  "Brains, Not Brawn.": "Hersens, Geen Spieren."
-  "Breakpoint": "Breekpunt"
-  "Bright Fury": "Felle Woede"
-  "Bright-burn": "Felbrand"
-  "Brightburn": "Felbrand"
-  "Brittle": "Bros"
-  "Brute": "Bruut"
-  "Building Rage": "Oplaaiende Woede"
-  "Bulky": "Lijvig"
-  "Call of the Wild": "Roep van de Wildernis"
-  "Can": "Blik"
-  "Can II": "Blik II"
-  "Carbon Fibre": "Koolstofvezel"
-  "Celebrate": "Vieren"
-  "Charged Head +": "Geladen Kop +"
-  "Charged Head -": "Geladen Kop -"
-  "Charged Rod +": "Geladen Staaf +"
-  "Charged Rod -": "Geladen Staaf -"
-  "Clean Cut": "Schone Snede"
-  "Cleave": "Klieven"
-  "Compounding": "Samengesteld"
-  "Conceptual Defence": "Conceptuele Verdediging"
-  "Conductive": "Geleidend"
-  "Conductive II": "Geleidend II"
-  "Conductivity": "Geleiding"
-  "Conductivity II": "Geleiding II"
-  "Conductor": "Geleider"
-  "Craftsmanship": "Vakmanschap"
-  "Cutlery": "Bestek"
-  "Decay": "Verval"
-  "Defender": "Verdediger"
-  "Deflection": "Afbuiging"
-  "Deflective": "Afbuigend"
-  "Doom": "Verdoemenis"
-  "Draconic Tantrum": "Draconische Woedeaanval"
-  "Draw": "Trekken"
-  "Durable": "Duurzaam"
-  "Dwarven Skills": "Dwergenvaardigheden"
-  "Earth Shaker": "Aardschudder"
-  "Easily Shaped": "Makkelijk Vormbaar"
-  "Easily Shaped II": "Makkelijk Vormbaar II"
-  "Easy Fix": "Snelle Reparatie"
-  "Eject!": "Uitwerpen!"
-  "Elven Speed": "Elfensnelheid"
-  "Enchanting": "Betoverend"
-  "Enchanting II": "Betoverend II"
-  "Escape": "Ontsnapping"
-  "Even More Advanced": "Nog Geavanceerder"
-  "Experienced": "Ervaren"
-  "Falling Apart": "Uit Elkaar Vallend"
-  "Farmer": "Boer"
-  "Fast": "Snel"
-  "Fear the Void": "Vrees de Leegte"
-  "Feeling Connected": "Verbonden Voelen"
-  "Feeling Festive": "Feestelijke Stemming"
-  "Flaming Hot": "Vlammend Heet"
-  "Flammable": "Brandbaar"
-  "Flammable II": "Brandbaar II"
-  "Flexibility": "Flexibiliteit"
-  "Foil": "Floret"
-  "Foil II": "Floret II"
-  "Fortunate": "Fortuinlijk"
-  "Fused": "Versmolten"
-  "Ghost in the shell": "Geest in de schil"
-  "Ghostly": "Spookachtig"
-  "Gleam": "Glans"
-  "Go Boomer": "Knal Maar Raak"
-  "Golden Veil": "Gouden Sluier"
-  "Golden Veil II": "Gouden Sluier II"
-  "Graceful": "Sierlijk"
-  "Graceful II": "Sierlijk II"
-  "Gravity": "Zwaartekracht"
-  "Grinder": "Vermaler"
-  "Growth": "Groei"
-  "Hardy": "Gehard"
-  "Heat Conductor": "Warmtegeleider"
-  "Heat Resistance": "Hittebestendigheid"
-  "Heat Resistant": "Hittebestendig"
-  "Heavy": "Zwaar"
-  "Heavy Duty": "Zwaar Belastbaar"
-  "Heavy Pommel": "Zware Pommel"
-  "Hidden": "Verborgen"
-  "How Fortunate": "Wat een Geluk"
-  "Hyberbolic Tesseration": "Hyperbolische Tesseratie"
-  "Hydrogen": "Waterstof"
-  "HyperCube [A]": "HyperKubus [A]"
-  "HyperCube [B]": "HyperKubus [B]"
-  "Incorporeal": "Onstoffelijk"
-  "Incorporeal Right": "Onstoffelijk Recht"
-  "Increased Mass": "Vergrote Massa"
-  "Indomitable": "Ontembaar"
-  "Industrious": "Vlijtig"
-  "Infinite": "Oneindig"
-  "Infinite Capacity": "Oneindige Capaciteit"
-  "Infinite Defence": "Oneindige Verdediging"
-  "Infinitly Powerful": "Oneindig Krachtig"
-  "Ingheights": "Ingheights"
-  "Innovation": "Innovatie"
-  "Insulated": "Geïsoleerd"
-  "Intense Gaze": "Intense Blik"
-  "It's all you need": "Het is alles wat je nodig hebt"
-  "It's only natural": "Het is heel natuurlijk"
-  "KOTR": "KOTR"
-  "Kingsman": "Kingsman"
-  "Ladder Simulator™": "Ladder Simulator™"
-  "Lava Walker": "Lavawandelaar"
-  "Leech": "Bloedzuiger"
-  "Leech II": "Bloedzuiger II"
-  "Light": "Licht"
-  "Light II": "Licht II"
-  "Lightning Rod": "Bliksemafleider"
-  "Lightweight": "Lichtgewicht"
-  "Magical Mint": "Magische Munt"
-  "Magnanimous": "Grootmoedig"
-  "MagneSight™": "MagneSight™"
-  "MagneSight™ II": "MagneSight™ II"
-  "Magnetesium": "Magnetesium"
-  "Magnetesium II": "Magnetesium II"
-  "Magnetic +": "Magnetisch +"
-  "Magnetic -": "Magnetisch -"
-  "Magus": "Magus"
-  "Malleable": "Kneedbaar"
-  "Malleable II": "Kneedbaar II"
-  "Manners Maketh Man": "Manieren Maken de Man"
-  "Merchant's Veil": "Sluier van de Koopman"
-  "Mix it up!": "Meng het door elkaar!"
-  "Mixed Metals": "Gemengde Metalen"
-  "Moon Bounce": "Maansprong"
-  "Mystic": "Mystiek"
-  "Narrowing": "Versmalling"
-  "Nice": "Fijn"
-  "Nightstalker": "Nachtsluiper"
-  "Nimble": "Behendig"
-  "NoClip": "NoClip"
-  "Non-Corrosive": "Niet-Corrosief"
-  "Non-Corrosive II": "Niet-Corrosief II"
-  "Oroborus": "Oroborus"
-  "Overcharge": "Overlading"
-  "Oxygenated": "Zuurstofrijk"
-  "Partial Decay": "Gedeeltelijk Verval"
-  "Pathetic": "Zielig"
-  "Planewalker": "Sferenloper"
-  "Poisonous": "Giftig"
-  "Poisonous II": "Giftig II"
-  "Powered On": "Ingeschakeld"
-  "Prosperous": "Voorspoedig"
-  "Prosperous II": "Voorspoedig II"
-  "Protective": "Beschermend"
-  "Radioactive Plates": "Radioactieve Platen"
-  "Really Stable": "Echt Stabiel"
-  "Really Stainless": "Echt Roestvrij"
-  "Recyclable": "Recyclebaar"
-  "Recyclable II": "Recyclebaar II"
-  "Refreshing": "Verfrissend"
-  "Reinforcable": "Versterkbaar"
-  "Reinforced": "Versterkt"
-  "Resistance": "Weerstand"
-  "Rigid Flexibility": "Rigide Flexibiliteit"
-  "Rusty": "Roestig"
-  "Rusty II": "Roestig II"
-  "Scarpaaarr!": "Scarpaaarr!"
-  "Secrets Revealed": "Geheimen Onthuld"
-  "Sharp 1": "Scherp 1"
-  "Sharp 1 II": "Scherp 1 II"
-  "Sharp 2": "Scherp 2"
-  "Shock Absorbant": "Schokdempend"
-  "Sickly": "Ziekelijk"
-  "Sickly II": "Ziekelijk II"
-  "Slow Learner": "Trage Leerling"
-  "Sneaky": "Stiekem"
-  "Sneaky II": "Stiekem II"
-  "Snroht": "Snroht"
-  "Soft": "Zacht"
-  "Soft II": "Zacht II"
-  "Soft Landing": "Zachte Landing"
-  "Soft Touch": "Zachte Aanraking"
-  "Soft Touch II": "Zachte Aanraking II"
-  "Solar Powered": "Zonne-Aangedreven"
-  "Soul Siphon": "Zielenzuiger"
-  "Springs": "Veren"
-  "Stability": "Stabiliteit"
-  "Stability II": "Stabiliteit II"
-  "Stainless": "Roestvrij"
-  "Starshine": "Sterrenglans"
-  "Steadfast": "Standvastig"
-  "Steadfast II": "Standvastig II"
-  "Stiff": "Stijf"
-  "Sting of Gondolin": "Angel van Gondolin"
-  "Strong": "Sterk"
-  "Strong and Sticky": "Sterk en Kleverig"
-  "Studious": "Leergierig"
-  "Super Dooper Stainless": "Super Dooper Roestvrij"
-  "Super Lightweight": "Super Lichtgewicht"
-  "Super Lightweight II": "Super Lichtgewicht II"
-  "Superhot": "Superheet"
-  "Sweaty": "Zweterig"
-  "Tarnished": "Aangetast"
-  "Tarnished II": "Aangetast II"
-  "Tempest": "Storm"
-  "Terrible": "Verschrikkelijk"
-  "The End": "Het Einde"
-  "The Power of Daxi": "De Kracht van Daxi"
-  "The Standard": "De Standaard"
-  "Thick": "Dik"
-  "Too Hot to Handle": "Te Heet om aan te Pakken"
-  "Toughened": "Verhard"
-  "Tricks": "Trucs"
-  "Tuff Stuff": "Stevig Spul"
-  "Unconventional Power": "Onconventionele Kracht"
-  "Unite - Absorption": "Verenig - Absorptie"
-  "Unite - Fortitude": "Verenig - Standvastigheid"
-  "Unite - Regeneration": "Verenig - Regeneratie"
-  "Unite - Saturation": "Verenig - Verzadiging"
-  "Vampirism": "Vampirisme"
-  "Void Miner": "Leegte-Mijner"
-  "WHM": "WHM"
-  "Warm Blodded": "Warmbloedig"
-  "Warp": "Warp"
-  "Water Safe": "Waterbestendig"
-  "Who needs pressure plates?": "Wie heeft er drukplaten nodig?"
-  "Witherproof": "Witherbestendig"
-  "Wizard Robes": "Tovenaarsgewaad"
-  "Works": "Werkt"
-  "Yvaine": "Yvaine"
+  modifier_slots: 'Modificatiesleuven: '
+  part_desc_1: Een gereedschapsonderdeel. Op zichzelf nutteloos, maar kan
+  part_desc_2: tot iets groters worden gemaakt op de
+  part_desc_3: Tafel van de Smid.
+  part_material: 'Materiaal : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'S: '
+  sponsored_by: Gesponsord door
+materials:
+  ADAMANTITE: Adamantiet
+  ADVANCED_ALLOY: Geavanceerde Legering
+  ALUMINUM: Aluminium
+  ALUMINUM_BRASS: Aluminiummessing
+  ALUMINUM_BRONZE: Aluminiumbrons
+  ALUMINUM_SINGULARITY: Aluminium-singulariteit
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomeriet
+  BRASS: Messing
+  BRONZE: Brons
+  CARBON_MESH: Koolstofgaas
+  COAL: Steenkool
+  COBALT: Kobalt
+  COPPER: Koper
+  COPPER_SINGULARITY: Koper-singulariteit
+  CORINTHIAN_BRONZE: Korinthisch Brons
+  CRIMSON_ROOT: Karmozijnen Wortel
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damaststaal
+  DAXI_ABSORPTION: Daxi-absorptie
+  DAXI_FORTITUDE: Daxi-standvastigheid
+  DAXI_REGENERATION: Daxi-regeneratie
+  DAXI_SATURATION: Daxi-verzadiging
+  DAXI_STRENGTH: Daxi-kracht
+  DETAILED_DEVOTION: Gedetailleerde Toewijding
+  DIAMOND: Diamant
+  DIAMOND_SINGULARITY: Diamant-singulariteit
+  DRACONIC: Draconisch
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Aarde-singulariteit
+  FERROSILICON: Ferrosilicium
+  FLOWING_FONDNESS: Vloeiende Genegenheid
+  FORTUNE_SINGULARITY: Fortuin-singulariteit
+  GHOSTLY_ESSENCE: Spookachtige Essentie
+  GOLD: Goud
+  GOLD_SINGULARITY: Goud-singulariteit
+  HARDENED_METAL: Gehard Metaal
+  INFINITE: Oneindig
+  INFINITY_SINGULARITY: Oneindigheid-singulariteit
+  INTERDIMENSIONAL_PRESENCE: Interdimensionale Aanwezigheid
+  IRIDIUM: Iridium
+  IRON: IJzer
+  IRON_SINGULARITY: IJzer-singulariteit
+  LEAD: Lood
+  LEAD_SINGULARITY: Lood-singulariteit
+  LEATHER: Leer
+  LIQUID_CHRISTMAS: Vloeibare Kerst
+  LIQUID_LOVE: Vloeibare Liefde
+  MAGIC_SINGULARITY: Magie-singulariteit
+  MAGNESIUM: Magnesium
+  MAGNESIUM_SINGULARITY: Magnesium-singulariteit
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magstaal
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Metaal-singulariteit
+  MIXED_METAL: Gemengd Metaal
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nikkel
+  OSMIUM: Osmium
+  OSMIUM_SUPERALLOY: Osmium-superlegering
+  PURIFIED_PASSION: Gezuiverde Passie
+  REDSTONE: Redstone
+  REDSTONE_ALLOY: Redstone-legering
+  REFINED_IRON: Geraffineerd IJzer
+  REINFORCED_ALLOY: Versterkte Legering
+  REINFORCED_DRACONIUM: Versterkt Draconium
+  REINFORCED_SLIME_STEEL: Versterkt Slijmstaal
+  REMOTININIUM: Remotininium
+  RUBBER: Rubber
+  SCRAP: Schroot
+  SEFIRITE: Sefiriet
+  SEGGANESSON: Segganesson
+  SILICON: Silicium
+  SILVER: Zilver
+  SILVER_SINGULARITY: Zilver-singulariteit
+  SLIME: Slijm
+  SLIME_STEEL: Slijmstaal
+  SMITHIUM: Smithium
+  SOLDER: Soldeer
+  STAINLESS_STEEL: Roestvrij Staal
+  STAR_DUST: Sterrenstof
+  STEEL: Staal
+  STRING: Draad
+  TESSERACTING_MATERIAL: Tesseractmateriaal
+  THORIUM: Thorium
+  TIN: Tin
+  TIN_SINGULARITY: Tin-singulariteit
+  TITANIUM: Titanium
+  TWISTED_VINE: Gedraaide Liaan
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vex-edelsteen
+  VINE: Liaan
+  VOID: Leegte
+  WARPED_ROOT: Verwrongen Wortel
+  WEEPING_VINE: Wenende Liaan
+  ZINC: Zink
+  ZINC_SINGULARITY: Zink-singulariteit
 messages:
-  smeltery-incomplete: 'Deze smelterij is niet af - maak het verticale 3x3 compleet met 6 Gebakken Baksteenblokken, een Gebakken Tank en een Gebakken Tuit.'
+  smeltery-incomplete: Deze smelterij is niet af - maak het verticale 3x3 compleet met 6 Gebakken Baksteenblokken, een Gebakken Tank en een Gebakken Tuit.
+modifiers:
+  DIAMOND: Diamant
+  EMERALD: Smaragd
+  LAPIS_LAZULI: Lapis Lazuli
+  MOD_PLATE: Modificatieplaat
+  QUARTZ: Kwarts
+  REDSTONE: Redstone
+part-types:
+  BINDING: Binding
+  GAMBESON: Gambeson
+  HEAD_AXE: Bijlkop
+  HEAD_HOE: Schoffelblad
+  HEAD_PICK: Houweelkop
+  HEAD_SHOVEL: Schepblad
+  HEAD_SWORD: Zwaardkling
+  LINKS: Maliënschakels
+  PLATE_BOOTS: Laarsplaten
+  PLATE_CHESTPLATE: Borstplaatdelen
+  PLATE_HELMET: Helmplaten
+  PLATE_LEGGINGS: Beenplaten
+  REPAIR: Reparatieset
+  ROD: Gereedschapsstaaf
+tool-types:
+  AXE: Bijl
+  HOE: Schoffel
+  PICK: Houweel
+  PICKAXE: Houweel
+  SHOVEL: Schep
+  SWORD: Zwaard
+traits:
+  10 Years of (Slime)fun!: 10 Jaar (Slime)fun!
+  Abra: Abra
+  Acupuncture: Acupunctuur
+  Acupuncture II: Acupunctuur II
+  Adamant: Standvastig
+  All That Glitters II: Al Wat Blinkt II
+  All that Glitters: Al Wat Blinkt
+  Annoying: Irritant
+  Attraction: Aantrekking
+  Band: Band
+  Barter: Ruilhandel
+  Barter II: Ruilhandel II
+  Beautiful: Prachtig
+  Beginner: Beginner
+  Beginner II: Beginner II
+  Blinding Speed: Verblindende Snelheid
+  Boost: Boost
+  Boost II: Boost II
+  Bouncy: Veerkrachtig
+  Bouncy II: Veerkrachtig II
+  Brains, Not Brawn: Hersens, Geen Spieren
+  Brains, Not Brawn II: Hersens, Geen Spieren II
+  Brains, Not Brawn.: Hersens, Geen Spieren.
+  Breakpoint: Breekpunt
+  Bright Fury: Felle Woede
+  Bright-burn: Felbrand
+  Brightburn: Felbrand
+  Brittle: Bros
+  Brute: Bruut
+  Building Rage: Oplaaiende Woede
+  Bulky: Lijvig
+  Call of the Wild: Roep van de Wildernis
+  Can: Blik
+  Can II: Blik II
+  Carbon Fibre: Koolstofvezel
+  Celebrate: Vieren
+  Charged Head +: Geladen Kop +
+  Charged Head -: Geladen Kop -
+  Charged Rod +: Geladen Staaf +
+  Charged Rod -: Geladen Staaf -
+  Clean Cut: Schone Snede
+  Cleave: Klieven
+  Compounding: Samengesteld
+  Conceptual Defence: Conceptuele Verdediging
+  Conductive: Geleidend
+  Conductive II: Geleidend II
+  Conductivity: Geleiding
+  Conductivity II: Geleiding II
+  Conductor: Geleider
+  Craftsmanship: Vakmanschap
+  Cutlery: Bestek
+  Decay: Verval
+  Defender: Verdediger
+  Deflection: Afbuiging
+  Deflective: Afbuigend
+  Doom: Verdoemenis
+  Draconic Tantrum: Draconische Woedeaanval
+  Draw: Trekken
+  Durable: Duurzaam
+  Dwarven Skills: Dwergenvaardigheden
+  Earth Shaker: Aardschudder
+  Easily Shaped: Makkelijk Vormbaar
+  Easily Shaped II: Makkelijk Vormbaar II
+  Easy Fix: Snelle Reparatie
+  Eject!: Uitwerpen!
+  Elven Speed: Elfensnelheid
+  Enchanting: Betoverend
+  Enchanting II: Betoverend II
+  Escape: Ontsnapping
+  Even More Advanced: Nog Geavanceerder
+  Experienced: Ervaren
+  Falling Apart: Uit Elkaar Vallend
+  Farmer: Boer
+  Fast: Snel
+  Fear the Void: Vrees de Leegte
+  Feeling Connected: Verbonden Voelen
+  Feeling Festive: Feestelijke Stemming
+  Flaming Hot: Vlammend Heet
+  Flammable: Brandbaar
+  Flammable II: Brandbaar II
+  Flexibility: Flexibiliteit
+  Foil: Floret
+  Foil II: Floret II
+  Fortunate: Fortuinlijk
+  Fused: Versmolten
+  Ghost in the shell: Geest in de schil
+  Ghostly: Spookachtig
+  Gleam: Glans
+  Go Boomer: Knal Maar Raak
+  Golden Veil: Gouden Sluier
+  Golden Veil II: Gouden Sluier II
+  Graceful: Sierlijk
+  Graceful II: Sierlijk II
+  Gravity: Zwaartekracht
+  Grinder: Vermaler
+  Growth: Groei
+  Hardy: Gehard
+  Heat Conductor: Warmtegeleider
+  Heat Resistance: Hittebestendigheid
+  Heat Resistant: Hittebestendig
+  Heavy: Zwaar
+  Heavy Duty: Zwaar Belastbaar
+  Heavy Pommel: Zware Pommel
+  Hidden: Verborgen
+  How Fortunate: Wat een Geluk
+  Hyberbolic Tesseration: Hyperbolische Tesseratie
+  Hydrogen: Waterstof
+  HyperCube [A]: HyperKubus [A]
+  HyperCube [B]: HyperKubus [B]
+  Incorporeal: Onstoffelijk
+  Incorporeal Right: Onstoffelijk Recht
+  Increased Mass: Vergrote Massa
+  Indomitable: Ontembaar
+  Industrious: Vlijtig
+  Infinite: Oneindig
+  Infinite Capacity: Oneindige Capaciteit
+  Infinite Defence: Oneindige Verdediging
+  Infinitly Powerful: Oneindig Krachtig
+  Ingheights: Ingheights
+  Innovation: Innovatie
+  Insulated: Geïsoleerd
+  Intense Gaze: Intense Blik
+  It's all you need: Het is alles wat je nodig hebt
+  It's only natural: Het is heel natuurlijk
+  KOTR: KOTR
+  Kingsman: Kingsman
+  Ladder Simulator™: Ladder Simulator™
+  Lava Walker: Lavawandelaar
+  Leech: Bloedzuiger
+  Leech II: Bloedzuiger II
+  Light: Licht
+  Light II: Licht II
+  Lightning Rod: Bliksemafleider
+  Lightweight: Lichtgewicht
+  Magical Mint: Magische Munt
+  Magnanimous: Grootmoedig
+  MagneSight™: MagneSight™
+  MagneSight™ II: MagneSight™ II
+  Magnetesium: Magnetesium
+  Magnetesium II: Magnetesium II
+  Magnetic +: Magnetisch +
+  Magnetic -: Magnetisch -
+  Magus: Magus
+  Malleable: Kneedbaar
+  Malleable II: Kneedbaar II
+  Manners Maketh Man: Manieren Maken de Man
+  Merchant's Veil: Sluier van de Koopman
+  Mix it up!: Meng het door elkaar!
+  Mixed Metals: Gemengde Metalen
+  Moon Bounce: Maansprong
+  Mystic: Mystiek
+  Narrowing: Versmalling
+  Nice: Fijn
+  Nightstalker: Nachtsluiper
+  Nimble: Behendig
+  NoClip: NoClip
+  Non-Corrosive: Niet-Corrosief
+  Non-Corrosive II: Niet-Corrosief II
+  Oroborus: Oroborus
+  Overcharge: Overlading
+  Oxygenated: Zuurstofrijk
+  Partial Decay: Gedeeltelijk Verval
+  Pathetic: Zielig
+  Planewalker: Sferenloper
+  Poisonous: Giftig
+  Poisonous II: Giftig II
+  Powered On: Ingeschakeld
+  Prosperous: Voorspoedig
+  Prosperous II: Voorspoedig II
+  Protective: Beschermend
+  Radioactive Plates: Radioactieve Platen
+  Really Stable: Echt Stabiel
+  Really Stainless: Echt Roestvrij
+  Recyclable: Recyclebaar
+  Recyclable II: Recyclebaar II
+  Refreshing: Verfrissend
+  Reinforcable: Versterkbaar
+  Reinforced: Versterkt
+  Resistance: Weerstand
+  Rigid Flexibility: Rigide Flexibiliteit
+  Rusty: Roestig
+  Rusty II: Roestig II
+  Scarpaaarr!: Scarpaaarr!
+  Secrets Revealed: Geheimen Onthuld
+  Sharp 1: Scherp 1
+  Sharp 1 II: Scherp 1 II
+  Sharp 2: Scherp 2
+  Shock Absorbant: Schokdempend
+  Sickly: Ziekelijk
+  Sickly II: Ziekelijk II
+  Slow Learner: Trage Leerling
+  Sneaky: Stiekem
+  Sneaky II: Stiekem II
+  Snroht: Snroht
+  Soft: Zacht
+  Soft II: Zacht II
+  Soft Landing: Zachte Landing
+  Soft Touch: Zachte Aanraking
+  Soft Touch II: Zachte Aanraking II
+  Solar Powered: Zonne-Aangedreven
+  Soul Siphon: Zielenzuiger
+  Springs: Veren
+  Stability: Stabiliteit
+  Stability II: Stabiliteit II
+  Stainless: Roestvrij
+  Starshine: Sterrenglans
+  Steadfast: Standvastig
+  Steadfast II: Standvastig II
+  Stiff: Stijf
+  Sting of Gondolin: Angel van Gondolin
+  Strong: Sterk
+  Strong and Sticky: Sterk en Kleverig
+  Studious: Leergierig
+  Super Dooper Stainless: Super Dooper Roestvrij
+  Super Lightweight: Super Lichtgewicht
+  Super Lightweight II: Super Lichtgewicht II
+  Superhot: Superheet
+  Sweaty: Zweterig
+  Tarnished: Aangetast
+  Tarnished II: Aangetast II
+  Tempest: Storm
+  Terrible: Verschrikkelijk
+  The End: Het Einde
+  The Power of Daxi: De Kracht van Daxi
+  The Standard: De Standaard
+  Thick: Dik
+  Too Hot to Handle: Te Heet om aan te Pakken
+  Toughened: Verhard
+  Tricks: Trucs
+  Tuff Stuff: Stevig Spul
+  Unconventional Power: Onconventionele Kracht
+  Unite - Absorption: Verenig - Absorptie
+  Unite - Fortitude: Verenig - Standvastigheid
+  Unite - Regeneration: Verenig - Regeneratie
+  Unite - Saturation: Verenig - Verzadiging
+  Vampirism: Vampirisme
+  Void Miner: Leegte-Mijner
+  WHM: WHM
+  Warm Blodded: Warmbloedig
+  Warp: Warp
+  Water Safe: Waterbestendig
+  Who needs pressure plates?: Wie heeft er drukplaten nodig?
+  Witherproof: Witherbestendig
+  Wizard Robes: Tovenaarsgewaad
+  Works: Werkt
+  Yvaine: Yvaine
