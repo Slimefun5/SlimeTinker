@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Zābaki
+  CHESTPLATE: Krūšu bruņas
+  HELMET: Ķivere
+  LEGGINGS: Kājbruņas
+lore:
+  added_by: Pievienoja
+  binder_abbrev: 'S: '
+  gambeson_abbrev: 'Ga: '
+  head_abbrev: 'G: '
+  level: 'Līmenis: '
+  links_abbrev: 'Po: '
+  mod_level: ' līmenis '
+  mod_max: ' - (MAKS.)'
+  modifier_slots: 'Modifikatoru vietas: '
+  part_desc_1: Darbarīka daļa. Pati par sevi nederīga, taču var
+  part_desc_2: tikt pārvērsta par kaut ko lielāku
+  part_desc_3: Amatnieka galds.
+  part_material: 'Materiāls : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'K: '
+  sponsored_by: Atbalsta
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Uzlabotais sakausējums
+  ALUMINUM: Alumīnijs
+  ALUMINUM_BRASS: Alumīnija misiņš
+  ALUMINUM_BRONZE: Alumīnija bronza
+  ALUMINUM_SINGULARITY: Alumīnija singularitāte
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billons
+  BOOMERITE: Boomerite
+  BRASS: Misiņš
+  BRONZE: Bronza
+  CARBON_MESH: Oglekļa siets
+  COAL: Ogles
+  COBALT: Kobalts
+  COPPER: Varš
+  COPPER_SINGULARITY: Vara singularitāte
+  CORINTHIAN_BRONZE: Korintas bronza
+  CRIMSON_ROOT: Sārtā sakne
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damaskas tērauds
+  DAXI_ABSORPTION: Absorbcijas Daxi
+  DAXI_FORTITUDE: Izturības Daxi
+  DAXI_REGENERATION: Reģenerācijas Daxi
+  DAXI_SATURATION: Sāta Daxi
+  DAXI_STRENGTH: Spēka Daxi
+  DETAILED_DEVOTION: Izsmalcināta uzticība
+  DIAMOND: Dimants
+  DIAMOND_SINGULARITY: Dimanta singularitāte
+  DRACONIC: Pūķa viela
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Zemes singularitāte
+  FERROSILICON: Ferosilīcijs
+  FLOWING_FONDNESS: Plūstoša pieķeršanās
+  FORTUNE_SINGULARITY: Veiksmes singularitāte
+  GHOSTLY_ESSENCE: Spoku esence
+  GOLD: Zelts
+  GOLD_SINGULARITY: Zelta singularitāte
+  HARDENED_METAL: Rūdīts metāls
+  INFINITE: Bezgalīgais
+  INFINITY_SINGULARITY: Bezgalības singularitāte
+  INTERDIMENSIONAL_PRESENCE: Starpdimensiju klātbūtne
+  IRIDIUM: Irīdijs
+  IRON: Dzelzs
+  IRON_SINGULARITY: Dzelzs singularitāte
+  LEAD: Svins
+  LEAD_SINGULARITY: Svina singularitāte
+  LEATHER: Āda
+  LIQUID_CHRISTMAS: Šķidrie Ziemassvētki
+  LIQUID_LOVE: Šķidrā mīlestība
+  MAGIC_SINGULARITY: Maģijas singularitāte
+  MAGNESIUM: Magnijs
+  MAGNESIUM_SINGULARITY: Magnija singularitāte
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magsteel
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Metāla singularitāte
+  MIXED_METAL: Jaukts metāls
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Niķelis
+  OSMIUM: Osmijs
+  OSMIUM_SUPERALLOY: Osmija supersakausējums
+  PURIFIED_PASSION: Attīrīta kaislība
+  REDSTONE: Sarkanakmens
+  REDSTONE_ALLOY: Sarkanakmens sakausējums
+  REFINED_IRON: Attīrīta dzelzs
+  REINFORCED_ALLOY: Pastiprināts sakausējums
+  REINFORCED_DRACONIUM: Pastiprinātais Draconium
+  REINFORCED_SLIME_STEEL: Pastiprināts gļotu tērauds
+  REMOTININIUM: Remotininium
+  RUBBER: Gumija
+  SCRAP: Metāllūžņi
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Silīcijs
+  SILVER: Sudrabs
+  SILVER_SINGULARITY: Sudraba singularitāte
+  SLIME: Gļotas
+  SLIME_STEEL: Gļotu tērauds
+  SMITHIUM: Smithium
+  SOLDER: Lodmetāls
+  STAINLESS_STEEL: Nerūsējošais tērauds
+  STAR_DUST: Zvaigžņu putekļi
+  STEEL: Tērauds
+  STRING: Aukla
+  TESSERACTING_MATERIAL: Teserakta viela
+  THORIUM: Torijs
+  TIN: Alva
+  TIN_SINGULARITY: Alvas singularitāte
+  TITANIUM: Titāns
+  TWISTED_VINE: Savītā vīnstīga
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vex dārgakmens
+  VINE: Vīnstīga
+  VOID: Tukšums
+  WARPED_ROOT: Sagrozītā sakne
+  WEEPING_VINE: Raudošā vīnstīga
+  ZINC: Cinks
+  ZINC_SINGULARITY: Cinka singularitāte
+messages:
+  smeltery-incomplete: Šī kausētava nav pabeigta - papildini vertikālo 3x3 ar 6 apdedzinātu ķieģeļu blokiem, apdedzinātu tvertni un snīpi.
+modifiers:
+  DIAMOND: Dimants
+  EMERALD: Smaragds
+  LAPIS_LAZULI: Lazurīts
+  MOD_PLATE: Modifikācijas plāksne
+  QUARTZ: Kvarcs
+  REDSTONE: Sarkanakmens
+part-types:
+  BINDING: Saite
+  GAMBESON: Gambezons
+  HEAD_AXE: Cirvja galvas
+  HEAD_HOE: Kapļa galvas
+  HEAD_PICK: Cērtes galvas
+  HEAD_SHOVEL: Lāpstas galvas
+  HEAD_SWORD: Zobena asmens
+  LINKS: Bruņkrekla posmu
+  PLATE_BOOTS: Zābaku plākšņu
+  PLATE_CHESTPLATE: Krūšu bruņu plākšņu
+  PLATE_HELMET: Ķiveres plākšņu
+  PLATE_LEGGINGS: Kājbruņu plākšņu
+  REPAIR: Remontkomplekta
+  ROD: Darbarīka kāta
+tool-types:
+  AXE: Cirvis
+  HOE: Kaplis
+  PICK: Cērte
+  PICKAXE: Cērte
+  SHOVEL: Lāpsta
+  SWORD: Zobens
