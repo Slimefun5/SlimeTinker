@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Csizma
+  CHESTPLATE: Mellvért
+  HELMET: Sisak
+  LEGGINGS: Lábvért
+lore:
+  added_by: Hozzáadta
+  binder_abbrev: 'K: '
+  gambeson_abbrev: 'P: '
+  head_abbrev: 'F: '
+  level: 'Szint: '
+  links_abbrev: 'S: '
+  mod_level: ' szint '
+  mod_max: ' - (MAX)'
+  modifier_slots: 'Módosítóhelyek: '
+  part_desc_1: Szerszámalkatrész. Önmagában használhatatlan, de
+  part_desc_2: valami nagyobbá alakítható
+  part_desc_3: Mesterkovács asztala.
+  part_material: 'Anyag : '
+  plate_abbrev: 'L: '
+  rod_abbrev: 'N: '
+  sponsored_by: Támogatta
+materials:
+  ADAMANTITE: Adamantit
+  ADVANCED_ALLOY: Fejlett ötvözet
+  ALUMINUM: Alumínium
+  ALUMINUM_BRASS: Alumíniumsárgaréz
+  ALUMINUM_BRONZE: Alumíniumbronz
+  ALUMINUM_SINGULARITY: Alumínium-szingularitás
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerit
+  BRASS: Sárgaréz
+  BRONZE: Bronz
+  CARBON_MESH: Szénszálháló
+  COAL: Szén
+  COBALT: Kobalt
+  COPPER: Réz
+  COPPER_SINGULARITY: Réz-szingularitás
+  CORINTHIAN_BRONZE: Korinthoszi bronz
+  CRIMSON_ROOT: Karmazsin gyökér
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damaszkuszi acél
+  DAXI_ABSORPTION: Daxi felszívódás
+  DAXI_FORTITUDE: Daxi kitartás
+  DAXI_REGENERATION: Daxi regeneráció
+  DAXI_SATURATION: Daxi jóllakottság
+  DAXI_STRENGTH: Daxi erő
+  DETAILED_DEVOTION: Kidolgozott odaadás
+  DIAMOND: Gyémánt
+  DIAMOND_SINGULARITY: Gyémánt-szingularitás
+  DRACONIC: Sárkányfém
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Föld-szingularitás
+  FERROSILICON: Ferroszilícium
+  FLOWING_FONDNESS: Áradó vonzalom
+  FORTUNE_SINGULARITY: Szerencse-szingularitás
+  GHOSTLY_ESSENCE: Szellemesszencia
+  GOLD: Arany
+  GOLD_SINGULARITY: Arany-szingularitás
+  HARDENED_METAL: Edzett fém
+  INFINITE: Végtelen
+  INFINITY_SINGULARITY: Végtelenség-szingularitás
+  INTERDIMENSIONAL_PRESENCE: Dimenziók közti jelenlét
+  IRIDIUM: Irídium
+  IRON: Vas
+  IRON_SINGULARITY: Vas-szingularitás
+  LEAD: Ólom
+  LEAD_SINGULARITY: Ólom-szingularitás
+  LEATHER: Bőr
+  LIQUID_CHRISTMAS: Folyékony karácsony
+  LIQUID_LOVE: Folyékony szeretet
+  MAGIC_SINGULARITY: Mágia-szingularitás
+  MAGNESIUM: Magnézium
+  MAGNESIUM_SINGULARITY: Magnézium-szingularitás
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magacél
+  MAG_THOR: Mag-Tór
+  METAL_SINGULARITY: Fém-szingularitás
+  MIXED_METAL: Vegyes fém
+  MYTHRIL: Mithril
+  NICEINIUM: Niceinium
+  NICKEL: Nikkel
+  OSMIUM: Ozmium
+  OSMIUM_SUPERALLOY: Ozmium-szuperötvözet
+  PURIFIED_PASSION: Megtisztított szenvedély
+  REDSTONE: Redstone
+  REDSTONE_ALLOY: Redstone-ötvözet
+  REFINED_IRON: Tisztított vas
+  REINFORCED_ALLOY: Megerősített ötvözet
+  REINFORCED_DRACONIUM: Megerősített drakónium
+  REINFORCED_SLIME_STEEL: Megerősített nyálkaacél
+  REMOTININIUM: Remotininium
+  RUBBER: Gumi
+  SCRAP: Fémhulladék
+  SEFIRITE: Sefirit
+  SEGGANESSON: Segganesson
+  SILICON: Szilícium
+  SILVER: Ezüst
+  SILVER_SINGULARITY: Ezüst-szingularitás
+  SLIME: Nyálka
+  SLIME_STEEL: Nyálkaacél
+  SMITHIUM: Smithium
+  SOLDER: Forrasztóón
+  STAINLESS_STEEL: Rozsdamentes acél
+  STAR_DUST: Csillagpor
+  STEEL: Acél
+  STRING: Fonál
+  TESSERACTING_MATERIAL: Tesszeraktáló anyag
+  THORIUM: Tórium
+  TIN: Ón
+  TIN_SINGULARITY: Ón-szingularitás
+  TITANIUM: Titán
+  TWISTED_VINE: Csavart inda
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vex-drágakő
+  VINE: Inda
+  VOID: Üresség
+  WARPED_ROOT: Ferde gyökér
+  WEEPING_VINE: Síró inda
+  ZINC: Cink
+  ZINC_SINGULARITY: Cink-szingularitás
+messages:
+  smeltery-incomplete: Ez az olvasztómű nincs kész - fejezd be a függőleges 3x3-at 6 égetett téglatömbbel, egy égetett tartállyal és egy kiöntővel.
+modifiers:
+  DIAMOND: Gyémánt
+  EMERALD: Smaragd
+  LAPIS_LAZULI: Lazurit
+  MOD_PLATE: Módosító lemez
+  QUARTZ: Kvarc
+  REDSTONE: Redstone
+part-types:
+  BINDING: Kötés
+  GAMBESON: Páncélbélés
+  HEAD_AXE: Fejszefej
+  HEAD_HOE: Kapafej
+  HEAD_PICK: Csákányfej
+  HEAD_SHOVEL: Lapátfej
+  HEAD_SWORD: Kardpenge
+  LINKS: Sodronyszem
+  PLATE_BOOTS: Csizmalemez
+  PLATE_CHESTPLATE: Mellvértlemez
+  PLATE_HELMET: Sisaklemez
+  PLATE_LEGGINGS: Lábvértlemez
+  REPAIR: Javítókészlet
+  ROD: Szerszámnyél
+tool-types:
+  AXE: Fejsze
+  HOE: Kapa
+  PICK: Csákány
+  PICKAXE: Csákány
+  SHOVEL: Lapát
+  SWORD: Kard
