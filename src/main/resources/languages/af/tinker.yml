@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Stewels
+  CHESTPLATE: Borsplaat
+  HELMET: Helm
+  LEGGINGS: Beenharnas
+lore:
+  added_by: Bygevoeg deur
+  binder_abbrev: 'B: '
+  gambeson_abbrev: 'W: '
+  head_abbrev: 'K: '
+  level: 'Vlak: '
+  links_abbrev: 'Sk: '
+  mod_level: ' Vlak '
+  mod_max: ' - (MAKS)'
+  modifier_slots: 'Wysigergleuwe: '
+  part_desc_1: '''n Gereedskaponderdeel. Nutteloos op sy eie, maar kan'
+  part_desc_2: in iets groters omskep word by die
+  part_desc_3: Ketellapper se tafel.
+  part_material: 'Materiaal : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'St: '
+  sponsored_by: Geborg deur
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Gevorderde Legering
+  ALUMINUM: Aluminium
+  ALUMINUM_BRASS: Aluminiummessing
+  ALUMINUM_BRONZE: Aluminiumbrons
+  ALUMINUM_SINGULARITY: Aluminiumsingulariteit
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerite
+  BRASS: Messing
+  BRONZE: Brons
+  CARBON_MESH: Koolstofgaas
+  COAL: Steenkool
+  COBALT: Kobalt
+  COPPER: Koper
+  COPPER_SINGULARITY: Kopersingulariteit
+  CORINTHIAN_BRONZE: Korintiese Brons
+  CRIMSON_ROOT: Karmosynwortel
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damaskusstaal
+  DAXI_ABSORPTION: Daxi-Absorpsie
+  DAXI_FORTITUDE: Daxi-Standvastigheid
+  DAXI_REGENERATION: Daxi-Herlewing
+  DAXI_SATURATION: Daxi-Versadiging
+  DAXI_STRENGTH: Daxi-Krag
+  DETAILED_DEVOTION: Fyn Toewyding
+  DIAMOND: Diamant
+  DIAMOND_SINGULARITY: Diamantsingulariteit
+  DRACONIC: Drakonies
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Aardesingulariteit
+  FERROSILICON: Ferrosilikon
+  FLOWING_FONDNESS: Vloeiende Geneentheid
+  FORTUNE_SINGULARITY: Fortuinsingulariteit
+  GHOSTLY_ESSENCE: Spookagtige Essens
+  GOLD: Goud
+  GOLD_SINGULARITY: Goudsingulariteit
+  HARDENED_METAL: Geharde Metaal
+  INFINITE: Oneindige
+  INFINITY_SINGULARITY: Oneindigheidsingulariteit
+  INTERDIMENSIONAL_PRESENCE: Interdimensionele Teenwoordigheid
+  IRIDIUM: Iridium
+  IRON: Yster
+  IRON_SINGULARITY: Ystersingulariteit
+  LEAD: Lood
+  LEAD_SINGULARITY: Loodsingulariteit
+  LEATHER: Leer
+  LIQUID_CHRISTMAS: Vloeibare Kersfees
+  LIQUID_LOVE: Vloeibare Liefde
+  MAGIC_SINGULARITY: Towersingulariteit
+  MAGNESIUM: Magnesium
+  MAGNESIUM_SINGULARITY: Magnesiumsingulariteit
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magstaal
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Metaalsingulariteit
+  MIXED_METAL: Gemengde Metaal
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nikkel
+  OSMIUM: Osmium
+  OSMIUM_SUPERALLOY: Osmium-superlegering
+  PURIFIED_PASSION: Gesuiwerde Passie
+  REDSTONE: Rooisteen
+  REDSTONE_ALLOY: Rooisteenlegering
+  REFINED_IRON: Verfynde Yster
+  REINFORCED_ALLOY: Versterkte Legering
+  REINFORCED_DRACONIUM: Versterkte Draconium
+  REINFORCED_SLIME_STEEL: Versterkte Slymstaal
+  REMOTININIUM: Remotininium
+  RUBBER: Rubber
+  SCRAP: Skroot
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Silikon
+  SILVER: Silwer
+  SILVER_SINGULARITY: Silwersingulariteit
+  SLIME: Slym
+  SLIME_STEEL: Slymstaal
+  SMITHIUM: Smithium
+  SOLDER: Soldeersel
+  STAINLESS_STEEL: Vlekvrye Staal
+  STAR_DUST: Sterrestof
+  STEEL: Staal
+  STRING: Garing
+  TESSERACTING_MATERIAL: Tesserakterende Materiaal
+  THORIUM: Torium
+  TIN: Tin
+  TIN_SINGULARITY: Tinsingulariteit
+  TITANIUM: Titaan
+  TWISTED_VINE: Verdraaide Rank
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vex-edelsteen
+  VINE: Rank
+  VOID: Leegte
+  WARPED_ROOT: Verwronge Wortel
+  WEEPING_VINE: Treurende Rank
+  ZINC: Sink
+  ZINC_SINGULARITY: Sinksingulariteit
+messages:
+  smeltery-incomplete: Hierdie smeltery is nie voltooi nie - voltooi die vertikale 3x3 met 6 Gebrande Steenblokke, 'n Gebrande Tenk en 'n Tuit.
+modifiers:
+  DIAMOND: Diamant
+  EMERALD: Smarag
+  LAPIS_LAZULI: Lapis Lazuli
+  MOD_PLATE: Wysigingsplaat
+  QUARTZ: Kwarts
+  REDSTONE: Rooisteen
+part-types:
+  BINDING: Binding
+  GAMBESON: Wambuis
+  HEAD_AXE: Bylkop
+  HEAD_HOE: Skoffelkop
+  HEAD_PICK: Houweelkop
+  HEAD_SHOVEL: Graafkop
+  HEAD_SWORD: Swaardlem
+  LINKS: Malieskakels
+  PLATE_BOOTS: Stewelplate
+  PLATE_CHESTPLATE: Borsplaatplate
+  PLATE_HELMET: Helmplate
+  PLATE_LEGGINGS: Beenplate
+  REPAIR: Herstelstel
+  ROD: Gereedskapstaaf
+tool-types:
+  AXE: Byl
+  HOE: Skoffel
+  PICK: Houweel
+  PICKAXE: Houweel
+  SHOVEL: Graaf
+  SWORD: Swaard
