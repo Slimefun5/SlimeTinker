@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Batai
+  CHESTPLATE: Krūtinės šarvas
+  HELMET: Šalmas
+  LEGGINGS: Kelnės
+lore:
+  added_by: Pridėjo
+  binder_abbrev: 'R: '
+  gambeson_abbrev: 'Ga: '
+  head_abbrev: 'G: '
+  level: 'Lygis: '
+  links_abbrev: 'Ž: '
+  mod_level: ' Lygis '
+  mod_max: ' - (MAKS.)'
+  modifier_slots: 'Modifikatorių vietos: '
+  part_desc_1: Įrankio dalis. Pati savaime bevertė, bet gali
+  part_desc_2: būti paversta kažkuo didesniu
+  part_desc_3: Meistro stalas.
+  part_material: 'Medžiaga : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'S: '
+  sponsored_by: Rėmė
+materials:
+  ADAMANTITE: Adamantitas
+  ADVANCED_ALLOY: Pažangusis lydinys
+  ALUMINUM: Aliuminis
+  ALUMINUM_BRASS: Aliuminio žalvaris
+  ALUMINUM_BRONZE: Aliuminio bronza
+  ALUMINUM_SINGULARITY: Aliuminio singuliarumas
+  ANNIVERSARIUM: Anniversariumas
+  BILLON: Bilonas
+  BOOMERITE: Boomeritas
+  BRASS: Žalvaris
+  BRONZE: Bronza
+  CARBON_MESH: Anglies pluošto tinklelis
+  COAL: Anglis
+  COBALT: Kobaltas
+  COPPER: Varis
+  COPPER_SINGULARITY: Vario singuliarumas
+  CORINTHIAN_BRONZE: Korinto bronza
+  CRIMSON_ROOT: Raudonoji šaknis
+  CRINGLEIUM: Cringleiumas
+  DAMASCUS_STEEL: Damasko plienas
+  DAXI_ABSORPTION: Daxi sugertis
+  DAXI_FORTITUDE: Daxi tvirtybė
+  DAXI_REGENERATION: Daxi atsinaujinimas
+  DAXI_SATURATION: Daxi sotumas
+  DAXI_STRENGTH: Daxi stiprybė
+  DETAILED_DEVOTION: Išpuoselėtas atsidavimas
+  DIAMOND: Deimantas
+  DIAMOND_SINGULARITY: Deimanto singuliarumas
+  DRACONIC: Drakoninis
+  DURALIUM: Duraliumas
+  EARTH_SINGULARITY: Žemės singuliarumas
+  FERROSILICON: Ferosilicis
+  FLOWING_FONDNESS: Tekantis prielankumas
+  FORTUNE_SINGULARITY: Sėkmės singuliarumas
+  GHOSTLY_ESSENCE: Vaiduokliška esencija
+  GOLD: Auksas
+  GOLD_SINGULARITY: Aukso singuliarumas
+  HARDENED_METAL: Grūdintas metalas
+  INFINITE: Begalinis
+  INFINITY_SINGULARITY: Begalybės singuliarumas
+  INTERDIMENSIONAL_PRESENCE: Tarpmatmenė esatis
+  IRIDIUM: Iridis
+  IRON: Geležis
+  IRON_SINGULARITY: Geležies singuliarumas
+  LEAD: Švinas
+  LEAD_SINGULARITY: Švino singuliarumas
+  LEATHER: Oda
+  LIQUID_CHRISTMAS: Skystos Kalėdos
+  LIQUID_LOVE: Skysta meilė
+  MAGIC_SINGULARITY: Magijos singuliarumas
+  MAGNESIUM: Magnis
+  MAGNESIUM_SINGULARITY: Magnio singuliarumas
+  MAGNONIUM: Magnoniumas
+  MAGSTEEL: Magplienas
+  MAG_THOR: Mag Toras
+  METAL_SINGULARITY: Metalo singuliarumas
+  MIXED_METAL: Mišrus metalas
+  MYTHRIL: Mitrilas
+  NICEINIUM: Niceiniumas
+  NICKEL: Nikelis
+  OSMIUM: Osmis
+  OSMIUM_SUPERALLOY: Osmio superlydinys
+  PURIFIED_PASSION: Išgryninta aistra
+  REDSTONE: Raudonasis akmuo
+  REDSTONE_ALLOY: Raudonojo akmens lydinys
+  REFINED_IRON: Rafinuota geležis
+  REINFORCED_ALLOY: Sustiprintas lydinys
+  REINFORCED_DRACONIUM: Sustiprintas Draconiumas
+  REINFORCED_SLIME_STEEL: Sustiprintas gleivių plienas
+  REMOTININIUM: Remotininiumas
+  RUBBER: Guma
+  SCRAP: Metalo laužas
+  SEFIRITE: Sefiritas
+  SEGGANESSON: Segganesson
+  SILICON: Silicis
+  SILVER: Sidabras
+  SILVER_SINGULARITY: Sidabro singuliarumas
+  SLIME: Gleivės
+  SLIME_STEEL: Gleivių plienas
+  SMITHIUM: Smithiumas
+  SOLDER: Lydmetalis
+  STAINLESS_STEEL: Nerūdijantysis plienas
+  STAR_DUST: Žvaigždžių dulkės
+  STEEL: Plienas
+  STRING: Siūlas
+  TESSERACTING_MATERIAL: Teseraktinė medžiaga
+  THORIUM: Toris
+  TIN: Alavas
+  TIN_SINGULARITY: Alavo singuliarumas
+  TITANIUM: Titanas
+  TWISTED_VINE: Susisukusi vijoklė
+  ULTIMANINIUM: Ultimaniniumas
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vekso brangakmenis
+  VINE: Vijoklė
+  VOID: Tuštuma
+  WARPED_ROOT: Iškreipta šaknis
+  WEEPING_VINE: Verkiančioji vijoklė
+  ZINC: Cinkas
+  ZINC_SINGULARITY: Cinko singuliarumas
+messages:
+  smeltery-incomplete: Ši lydykla nebaigta - užbaik vertikalų 3x3 su 6 apdegtų plytų blokais, apdegta talpykla ir snapeliu.
+modifiers:
+  DIAMOND: Deimantas
+  EMERALD: Smaragdas
+  LAPIS_LAZULI: Lazuritas
+  MOD_PLATE: Modifikavimo plokštė
+  QUARTZ: Kvarcas
+  REDSTONE: Raudonasis akmuo
+part-types:
+  BINDING: Rišiklis
+  GAMBESON: Gambezonas
+  HEAD_AXE: Kirvio galvos
+  HEAD_HOE: Kauptuko galvos
+  HEAD_PICK: Kirtiklio galvos
+  HEAD_SHOVEL: Kastuvo galvos
+  HEAD_SWORD: Kalavijo ašmenų
+  LINKS: Grandinės žiedų
+  PLATE_BOOTS: Batų plokščių
+  PLATE_CHESTPLATE: Krūtinės šarvo plokščių
+  PLATE_HELMET: Šalmo plokščių
+  PLATE_LEGGINGS: Kelnių plokščių
+  REPAIR: Remonto rinkinio
+  ROD: Įrankio strypo
+tool-types:
+  AXE: Kirvis
+  HOE: Kauptukas
+  PICK: Kirtiklis
+  PICKAXE: Kirtiklis
+  SHOVEL: Kastuvas
+  SWORD: Kalavijas
