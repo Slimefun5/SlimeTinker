@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Bocanci
+  CHESTPLATE: Platoșă
+  HELMET: Coif
+  LEGGINGS: Jambiere
+lore:
+  added_by: Adăugat de
+  binder_abbrev: 'L: '
+  gambeson_abbrev: 'PM: '
+  head_abbrev: 'C: '
+  level: 'Nivel: '
+  links_abbrev: 'Z: '
+  mod_level: ' Nivel '
+  mod_max: ' - (MAX)'
+  modifier_slots: 'Locuri de modificator: '
+  part_desc_1: O piesă de unealtă. Nefolositoare singură, dar poate
+  part_desc_2: fi prefăcută în ceva mai măreț la
+  part_desc_3: Masa meșterului.
+  part_material: 'Material : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'T: '
+  sponsored_by: Sprijinit de
+materials:
+  ADAMANTITE: Adamantit
+  ADVANCED_ALLOY: Aliaj Avansat
+  ALUMINUM: Aluminiu
+  ALUMINUM_BRASS: Alamă cu Aluminiu
+  ALUMINUM_BRONZE: Bronz cu Aluminiu
+  ALUMINUM_SINGULARITY: Singularitate de Aluminiu
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Bilon
+  BOOMERITE: Boomerite
+  BRASS: Alamă
+  BRONZE: Bronz
+  CARBON_MESH: Plasă de Carbon
+  COAL: Cărbune
+  COBALT: Cobalt
+  COPPER: Cupru
+  COPPER_SINGULARITY: Singularitate de Cupru
+  CORINTHIAN_BRONZE: Bronz Corintic
+  CRIMSON_ROOT: Rădăcină Stacojie
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Oțel de Damasc
+  DAXI_ABSORPTION: Daxi al Absorbției
+  DAXI_FORTITUDE: Daxi al Tăriei
+  DAXI_REGENERATION: Daxi al Regenerării
+  DAXI_SATURATION: Daxi al Sațietății
+  DAXI_STRENGTH: Daxi al Puterii
+  DETAILED_DEVOTION: Devotament Migălos
+  DIAMOND: Diamant
+  DIAMOND_SINGULARITY: Singularitate de Diamant
+  DRACONIC: Draconic
+  DURALIUM: Duraliu
+  EARTH_SINGULARITY: Singularitate de Pământ
+  FERROSILICON: Ferosiliciu
+  FLOWING_FONDNESS: Afecțiune Curgătoare
+  FORTUNE_SINGULARITY: Singularitate de Noroc
+  GHOSTLY_ESSENCE: Esență Fantomatică
+  GOLD: Aur
+  GOLD_SINGULARITY: Singularitate de Aur
+  HARDENED_METAL: Metal Călit
+  INFINITE: Infinit
+  INFINITY_SINGULARITY: Singularitate de Infinitate
+  INTERDIMENSIONAL_PRESENCE: Prezență Interdimensională
+  IRIDIUM: Iridiu
+  IRON: Fier
+  IRON_SINGULARITY: Singularitate de Fier
+  LEAD: Plumb
+  LEAD_SINGULARITY: Singularitate de Plumb
+  LEATHER: Piele
+  LIQUID_CHRISTMAS: Crăciun Lichid
+  LIQUID_LOVE: Iubire Lichidă
+  MAGIC_SINGULARITY: Singularitate de Magie
+  MAGNESIUM: Magneziu
+  MAGNESIUM_SINGULARITY: Singularitate de Magneziu
+  MAGNONIUM: Magnoniu
+  MAGSTEEL: MagOțel
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Singularitate de Metal
+  MIXED_METAL: Metal Amestecat
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nichel
+  OSMIUM: Osmiu
+  OSMIUM_SUPERALLOY: Superaliaj de Osmiu
+  PURIFIED_PASSION: Pasiune Purificată
+  REDSTONE: Piatră Roșie
+  REDSTONE_ALLOY: Aliaj de Piatră Roșie
+  REFINED_IRON: Fier Rafinat
+  REINFORCED_ALLOY: Aliaj Ranforsat
+  REINFORCED_DRACONIUM: Draconiu Ranforsat
+  REINFORCED_SLIME_STEEL: Oțel de Mâzgă Ranforsat
+  REMOTININIUM: Remotininium
+  RUBBER: Cauciuc
+  SCRAP: Fier Vechi
+  SEFIRITE: Sefirit
+  SEGGANESSON: Segganesson
+  SILICON: Siliciu
+  SILVER: Argint
+  SILVER_SINGULARITY: Singularitate de Argint
+  SLIME: Mâzgă
+  SLIME_STEEL: Oțel de Mâzgă
+  SMITHIUM: Smithium
+  SOLDER: Aliaj de Lipit
+  STAINLESS_STEEL: Oțel Inoxidabil
+  STAR_DUST: Praf de Stele
+  STEEL: Oțel
+  STRING: Sfoară
+  TESSERACTING_MATERIAL: Material de Teseract
+  THORIUM: Toriu
+  TIN: Cositor
+  TIN_SINGULARITY: Singularitate de Cositor
+  TITANIUM: Titan
+  TWISTED_VINE: Liană Răsucită
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Nestemată de Vex
+  VINE: Liană
+  VOID: Vid
+  WARPED_ROOT: Rădăcină Denaturată
+  WEEPING_VINE: Liană Plângătoare
+  ZINC: Zinc
+  ZINC_SINGULARITY: Singularitate de Zinc
+messages:
+  smeltery-incomplete: Această topitorie nu este gata - completează pătratul vertical de 3x3 cu 6 blocuri de Cărămidă Arsă, un Rezervor Ars și o Gură de Turnare.
+modifiers:
+  DIAMOND: Diamant
+  EMERALD: Smarald
+  LAPIS_LAZULI: Lapislazuli
+  MOD_PLATE: Placă de Modificare
+  QUARTZ: Cuarț
+  REDSTONE: Piatră Roșie
+part-types:
+  BINDING: Legătură
+  GAMBESON: Pieptar Matlasat
+  HEAD_AXE: Cap de Topor
+  HEAD_HOE: Cap de Sapă
+  HEAD_PICK: Cap de Târnăcop
+  HEAD_SHOVEL: Cap de Lopată
+  HEAD_SWORD: Lamă de Sabie
+  LINKS: Zale
+  PLATE_BOOTS: Plăci de Bocanci
+  PLATE_CHESTPLATE: Plăci de Platoșă
+  PLATE_HELMET: Plăci de Coif
+  PLATE_LEGGINGS: Plăci de Jambiere
+  REPAIR: Trusă de Reparații
+  ROD: Tijă de Unealtă
+tool-types:
+  AXE: Topor
+  HOE: Sapă
+  PICK: Târnăcop
+  PICKAXE: Târnăcop
+  SHOVEL: Lopată
+  SWORD: Sabie
