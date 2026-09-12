@@ -1,3987 +1,8865 @@
 10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
+  description:
+  - '&710 年的 (黏液) 歡樂時光！'
+  - ''
+  - '&7需要四件盔甲齊全。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f10 年黏液歡樂！'
   type:
   - '&7&o元件'
 ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7被命中的生物有一定機率會被'
+  - '&7隨機傳送。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&fAbra'
   type:
   - '&7&o元件'
 ACUPUNCTURE_II_TRAIT_PROP_LINKS_ZINC_SINGULARITY:
+  description:
+  - '&7仙人掌的刺會治癒你。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f針灸 II'
   type:
   - '&7&o元件'
 ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
+  description:
+  - '&7不會受到仙人掌刺的傷害'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f針灸'
   type:
   - '&7&o元件'
 ADAMANTITE_LIQUID:
+  description:
+  - '&7精金的熔融型態。'
+  name: '&f熔融精金'
   type:
   - '&7&o資源'
 ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
+  description:
+  - '&7對所有爆炸免疫'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f堅定不移'
   type:
   - '&7&o元件'
 ADVANCED_ALLOY_LIQUID:
+  description:
+  - '&7進階合金的熔融型態。'
+  name: '&f熔融進階合金'
   type:
   - '&7&o資源'
 ALL_THAT_GLITTERS_II_TRAIT_PROP_ROD_GOLD_SINGULARITY:
+  description:
+  - '&7讓你既閃亮又……彩虹繽紛'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f閃亮奪目 II'
   type:
   - '&7&o元件'
 ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
+  description:
+  - '&7讓你渾身閃閃發亮……'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f閃亮奪目'
   type:
   - '&7&o元件'
 ALUMINUM_BRASS_ALLOY:
+  description:
+  - '&7由鋁黃銅熔煉而成的合金。'
+  name: '&f熔融鋁黃銅'
   type:
   - '&7&o資源'
 ALUMINUM_BRASS_LIQUID:
+  description:
+  - '&7鋁黃銅的熔融型態。'
+  name: '&f熔融鋁黃銅'
   type:
   - '&7&o資源'
 ALUMINUM_BRONZE_ALLOY:
+  description:
+  - '&7由鋁青銅熔煉而成的合金。'
+  name: '&f熔融鋁青銅'
   type:
   - '&7&o資源'
 ALUMINUM_BRONZE_LIQUID:
+  description:
+  - '&7鋁青銅的熔融型態。'
+  name: '&f熔融鋁青銅'
   type:
   - '&7&o資源'
 ALUMINUM_LIQUID:
+  description:
+  - '&7鋁的熔融型態。'
+  name: '&f熔融鋁'
   type:
   - '&7&o資源'
 ALUMINUM_SINGULARITY_LIQUID:
+  description:
+  - '&7鋁奇點的熔融型態。'
+  name: '&f熔融鋁奇點'
   type:
   - '&7&o資源'
 ANNIVERSARIUM_ALLOY:
+  description:
+  - '&7由Anniversarium熔煉而成的合金。'
+  name: '&f熔融Anniversarium'
   type:
   - '&7&o資源'
 ANNIVERSARIUM_LIQUID:
+  description:
+  - '&7Anniversarium的熔融型態。'
+  name: '&f熔融Anniversarium'
   type:
   - '&7&o資源'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
+  description:
+  - '&7惡靈寶石不該這樣使用！'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f惱人'
   type:
   - '&7&o元件'
 ARMOUR_BOOTS:
+  description:
+  - '&7由三個部件組成的靴子。'
+  - '&7工匠盔甲可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7損壞時會自動卸下。'
+  name: '&f工匠靴子'
   type:
   - '&7&o護甲'
 ARMOUR_BOOTS_ENTRY:
+  description:
+  - '&7由三個部件組成的靴子。'
+  - '&7工匠盔甲可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7損壞時會自動卸下。'
+  - '&7如果你的背包沒有空位'
+  - '&7那麼物品就會掉在地上'
+  name: '&f工匠靴子'
   type:
   - '&7&o護甲'
 ARMOUR_CHESTPLATE:
+  description:
+  - '&7由三個部件組成的胸甲。'
+  - '&7工匠盔甲可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7損壞時會自動卸下。'
+  name: '&f工匠胸甲'
   type:
   - '&7&o護甲'
 ARMOUR_CHESTPLATE_ENTRY:
+  description:
+  - '&7由三個部件組成的胸甲。'
+  - '&7工匠盔甲可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7損壞時會自動卸下。'
+  - '&7如果你的背包沒有空位'
+  - '&7那麼物品就會掉在地上'
+  name: '&f工匠胸甲'
   type:
   - '&7&o護甲'
 ARMOUR_HELM:
+  description:
+  - '&7由三個部件組成的頭盔。'
+  - '&7工匠盔甲可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7損壞時會自動卸下。'
+  name: '&f工匠頭盔'
   type:
   - '&7&o護甲'
 ARMOUR_HELMET_ENTRY:
+  description:
+  - '&7由三個部件組成的頭盔。'
+  - '&7工匠盔甲可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7損壞時會自動卸下。'
+  - '&7如果你的背包沒有空位'
+  - '&7那麼物品就會掉在地上'
+  name: '&f工匠頭盔'
   type:
   - '&7&o護甲'
 ARMOUR_LEGGINGS:
+  description:
+  - '&7由三個部件組成的護腿。'
+  - '&7工匠盔甲可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7損壞時會自動卸下。'
+  name: '&f工匠護腿'
   type:
   - '&7&o護甲'
 ARMOUR_LEGGINGS_ENTRY:
+  description:
+  - '&7由三個部件組成的護腿。'
+  - '&7工匠盔甲可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7損壞時會自動卸下。'
+  - '&7如果你的背包沒有空位'
+  - '&7那麼物品就會掉在地上'
+  name: '&f工匠護腿'
   type:
   - '&7&o護甲'
 ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
+  description:
+  - '&7一定範圍內的所有掉落物都會被吸向你'
+  - '&75 格範圍。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f引力'
   type:
   - '&7&o元件'
 ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
+  description:
+  - '&7附近 (5x5 範圍) 的掉落物會被吸向你。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f引力'
   type:
   - '&7&o元件'
 BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
+  description:
+  - '&7耐久度損耗 +200%，傷害減少 1-25%'
+  - '&7隨著耐久度下降而降低。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f束帶'
   type:
   - '&7&o元件'
 BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
+  description:
+  - '&7豬布林超級喜歡你的盔甲'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f以物易物 II'
   type:
   - '&7&o元件'
 BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
+  description:
+  - '&7豬布林喜歡你的盔甲'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f以物易物'
   type:
   - '&7&o元件'
 BEAUTIFUL_TRAIT_PROP_LINKS_FORTUNE_SINGULARITY:
+  description:
+  - '&7行走時有機率長出花朵。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f美麗'
   type:
   - '&7&o元件'
 BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7行走時有機率長出花朵。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f美麗'
   type:
   - '&7&o元件'
 BEGINNER_II_TRAIT_PROP_PLATES_COPPER_SINGULARITY:
+  description:
+  - '&7所受傷害 +50%，盔甲經驗 +40%'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f初學者 II'
   type:
   - '&7&o元件'
 BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
+  description:
+  - '&7所受傷害 +25%，盔甲經驗 +20%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f初學者'
   type:
   - '&7&o元件'
 BILLON_ALLOY:
+  description:
+  - '&7由比隆合金熔煉而成的合金。'
+  name: '&f熔融比隆合金'
   type:
   - '&7&o資源'
 BILLON_LIQUID:
+  description:
+  - '&7比隆合金的熔融型態。'
+  name: '&f熔融比隆合金'
   type:
   - '&7&o資源'
 BLOCK_CAST_ADAMANTITE:
+  description:
+  - '&7由精金製成的方塊。'
+  name: '&f精金方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_ADVANCED_ALLOY:
+  description:
+  - '&7一塊進階合金方塊'
+  name: '&f進階合金方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_ALUMINUM:
+  description:
+  - '&7由純鋁製成的方塊'
+  name: '&f鋁方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_ALU_BRASS:
+  description:
+  - '&7由鋁黃銅製成的方塊'
+  name: '&f鋁黃銅方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_ALU_BRONZE:
+  description:
+  - '&7由鋁青銅製成的方塊'
+  name: '&f鋁青銅方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_ANNIVERSARIUM:
+  description:
+  - '&710 年的 (黏液) 歡樂時光！'
+  name: '&fAnniversarium方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_BILLON:
+  description:
+  - '&7由比隆合金製成的方塊'
+  name: '&f比隆合金方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_BOOMERITE:
+  description:
+  - '&7由 Boomerite 製成的方塊'
+  name: '&fBoomerite方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_BRASS:
+  description:
+  - '&7由黃銅製成的方塊'
+  name: '&f黃銅方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_BRONZE:
+  description:
+  - '&7由青銅製成的方塊'
+  name: '&f青銅方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_COBALT:
+  description:
+  - '&7由鈷製成的方塊'
+  name: '&f鈷方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_COPPER:
+  description:
+  - '&7由純銅製成的方塊'
+  name: '&f銅方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_COR_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的方塊'
+  name: '&f科林斯青銅方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_CRINGLEIUM:
+  description:
+  - '&7由 Cringleium 製成的方塊'
+  name: '&fCringleium方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_DAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的方塊'
+  name: '&f大馬士革鋼方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_DURALIUM:
+  description:
+  - '&7由 Duralium 製成的方塊'
+  name: '&fDuralium方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_FERROSILICON:
+  description:
+  - '&7由矽鐵製成的方塊'
+  name: '&f矽鐵方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_HARD_METAL:
+  description:
+  - '&7由硬化金屬製成的方塊'
+  name: '&f硬化金屬方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_INFINITY:
+  description:
+  - '&7由 *嘆氣* 無限製成的方塊。'
+  name: '&f無限方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_IRIDIUM:
+  description:
+  - '&7一塊銥方塊'
+  name: '&f銥方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_LEAD:
+  description:
+  - '&7由純鉛製成的方塊'
+  name: '&f鉛方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_LOVE:
+  description:
+  - '&7這方塊所散發的，只有'
+  - '&7純粹而毫無雜質的愛。'
+  name: '&f愛方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_MAGNESIUM:
+  description:
+  - '&7由純鎂製成的方塊'
+  name: '&f鎂方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_MAGNONIUM:
+  description:
+  - '&7由Magnonium製成的方塊。'
+  name: '&fMagnonium方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_MAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的方塊。'
+  name: '&f鎂鋼方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_MAG_THOR:
+  description:
+  - '&7一塊鎂釷合金方塊'
+  name: '&f鎂釷合金方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_MIXED_METAL:
+  description:
+  - '&7一塊混合金屬方塊'
+  name: '&f混合金屬方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_MYTHRIL:
+  description:
+  - '&7由秘銀製成的方塊。'
+  name: '&f秘銀方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_NICE:
+  description:
+  - '&7美好'
+  name: '&f美好方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_NICKEL:
+  description:
+  - '&7由鎳製成的方塊'
+  name: '&f鎳方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_OSMIUM:
+  description:
+  - '&7一塊鋨方塊'
+  name: '&f鋨方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  description:
+  - '&7一塊鋨超合金方塊'
+  name: '&f鋨超合金方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_REDSTONE_ALLOY:
+  description:
+  - '&7由紅石合金製成的方塊'
+  name: '&f紅石合金方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_REFINED_IRON:
+  description:
+  - '&7一塊精煉鐵方塊'
+  name: '&f精煉鐵方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_REINFORCED:
+  description:
+  - '&7由強化合金製成的方塊'
+  name: '&f強化合金方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7這方塊滿溢著一股'
+  - '&7無與倫比的狂怒。'
+  name: '&f強化龍晶方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  description:
+  - '&7一塊強化黏液鋼方塊'
+  name: '&f強化黏液鋼方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_SCRAP:
+  description:
+  - '&7一塊廢料方塊'
+  name: '&f廢料方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_SEFIRITE:
+  description:
+  - '&7由 Sefirite 製成的方塊'
+  name: '&fSefirite方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_SILVER:
+  description:
+  - '&7由純銀製成的方塊'
+  name: '&f銀方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_SLIMESTEEL:
+  description:
+  - '&7一塊黏液鋼方塊'
+  name: '&f黏液鋼方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_SMITHIUM:
+  description:
+  - '&7樸實無華、用途廣泛的金屬'
+  - '&7在核心工業作業之中。'
+  name: '&fSmithium方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_SOLDER:
+  description:
+  - '&7由焊錫製成的方塊'
+  name: '&f焊錫方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_STAINLESSSTEEL:
+  description:
+  - '&7一塊不鏽鋼方塊'
+  name: '&f不鏽鋼方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_STEEL:
+  description:
+  - '&7由純鋼製成的方塊'
+  name: '&f鋼方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_TIN:
+  description:
+  - '&7由純錫製成的方塊'
+  name: '&f錫方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_TITANIUM:
+  description:
+  - '&7由鈦製成的方塊。'
+  name: '&f鈦方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_UNPATENTABILUM:
+  description:
+  - '&7一塊 Unpatentabilum 方塊'
+  name: '&fUnpatentabilum方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_VOID:
+  description:
+  - '&7由 ... 虛空？製成的方塊'
+  name: '&f虛空方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_ZINC:
+  description:
+  - '&7由純鋅製成的方塊'
+  name: '&f鋅方塊'
   type:
   - '&7&o資源'
 BOOMERITE_ALLOY:
+  description:
+  - '&7由Boomerite熔煉而成的合金。'
+  name: '&f熔融Boomerite'
   type:
   - '&7&o資源'
 BOOMERITE_LIQUID:
+  description:
+  - '&7Boomerite的熔融型態。'
+  name: '&f熔融Boomerite'
   type:
   - '&7&o資源'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
+  description:
+  - '&7受到重創時，獲得大量傷害吸收'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f助推 II'
   type:
   - '&7&o元件'
 BOOST_TRAIT_PROP_LINKS_TIN_DUST:
+  description:
+  - '&7受到重創時，獲得傷害吸收'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f助推'
   type:
   - '&7&o元件'
 BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
+  description:
+  - '&7墜落傷害減半。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f彈跳'
   type:
   - '&7&o元件'
 BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
+  description:
+  - '&7墜落傷害 -25%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f彈跳'
   type:
   - '&7&o元件'
 BRAINS,_NOT_BRAWN._TRAIT_PROP_ROD_SCRAP:
+  description:
+  - '&7工具經驗獲得加倍。傷害'
+  - '&7造成的傷害減半。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f智取而非力敵。'
   type:
   - '&7&o元件'
 BRAINS,_NOT_BRAWN_II_TRAIT_PROP_HEAD_COPPER_SINGULARITY:
+  description:
+  - '&7工具經驗 +200%，傷害 50%'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f智取而非力敵 II'
   type:
   - '&7&o元件'
 BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
+  description:
+  - '&7工具經驗獲得加倍。傷害'
+  - '&7造成的傷害減半。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f智取而非力敵'
   type:
   - '&7&o元件'
 BRASS_ALLOY:
+  description:
+  - '&7由黃銅熔煉而成的合金。'
+  name: '&f熔融黃銅'
   type:
   - '&7&o資源'
 BRASS_LIQUID:
+  description:
+  - '&7黃銅的熔融型態。'
+  name: '&f熔融黃銅'
   type:
   - '&7&o資源'
 BREAKPOINT_TRAIT_PROP_HEAD_INFINITY_SINGULARITY:
+  description:
+  - '&7不會損壞，傷害 +200%。'
+  - '&7工具經驗 +200%，並可 3x3 挖掘。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f臨界點'
   type:
   - '&7&o元件'
 BRIGHT-BURN_TRAIT_PROP_LINKS_DYNATECH_STAR_DUST:
+  description:
+  - '&7給予一層烈焰閃耀！當累積 4 '
+  - '&7層時，敵對生物會被驅離 (頭目除外)。'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f熾燃'
   type:
   - '&7&o元件'
 BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
+  description:
+  - '&7給予一層烈焰閃耀！當累積 4 '
+  - '&7層時，敵對生物會被驅離 (頭目除外)。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f熾焰燃燒'
   type:
   - '&7&o元件'
 BRIGHTBURN_TRAIT_PROP_PLATES_MYTHRIL:
+  description:
+  - '&7給予一層烈焰閃耀！當累積 4 '
+  - '&7層時，敵對生物會被驅離 (頭目除外)。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f熾焰燃燒'
   type:
   - '&7&o元件'
 BRIGHT_FURY_TRAIT_PROP_HEAD_DYNATECH_STAR_DUST:
+  description:
+  - '&7攻擊會使目標目眩並致盲。'
+  - '&7威力提升 50%。'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f熾亮之怒'
   type:
   - '&7&o元件'
 BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
+  description:
+  - '&7耐久度損耗加倍。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f脆弱'
   type:
   - '&7&o元件'
 BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7耐久度損耗加倍。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f脆弱'
   type:
   - '&7&o元件'
 BRONZE_ALLOY:
+  description:
+  - '&7由青銅熔煉而成的合金。'
+  name: '&f熔融青銅'
   type:
   - '&7&o資源'
 BRONZE_LIQUID:
+  description:
+  - '&7青銅的熔融型態。'
+  name: '&f熔融青銅'
   type:
   - '&7&o資源'
 BUILDING_RAGE_TRAIT_PROP_LINKS_MAG_THOR:
+  description:
+  - '&7受擊時有機率獲得速度提升 1 與挖掘加速 1'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f積蓄怒火'
   type:
   - '&7&o元件'
 BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7以 3x3 範圍挖掘'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f笨重'
   type:
   - '&7&o元件'
 CALL_OF_THE_WILD_TRAIT_PROP_LINKS_MYTHRIL:
+  description:
+  - '&7受擊時，你有時會召喚一隻狼前來相助'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f荒野呼喚'
   type:
   - '&7&o元件'
 CAN_II_TRAIT_PROP_ROD_TIN_SINGULARITY:
+  description:
+  - '&7不會消耗飢餓值'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f罐裝 II'
   type:
   - '&7&o元件'
 CAN_TRAIT_PROP_ROD_TIN_DUST:
+  description:
+  - '&7你的飢餓感就這麼消散了'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f罐裝'
   type:
   - '&7&o元件'
 CARBON_FIBRE_TRAIT_PROP_GAMBESON_RAW_CARBON_MESH:
+  description:
+  - '&7速度提升 +1'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f碳纖維'
   type:
   - '&7&o元件'
 CAST_AXE_HEAD:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f斧刃專用鑄模'
+  stats:
+  - '&8Input: &e27 Units'
+  - '&8Output: &e1 Axe Head'
   type:
   - '&7&o元件'
 CAST_BLOCK:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f金屬方塊鑄模'
+  stats:
+  - '&8Input: &e81 Units'
+  - '&8Output: &e1 Block'
   type:
   - '&7&o元件'
 CAST_BOOT_PLATE:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f靴甲片專用鑄模'
+  stats:
+  - '&8Input: &e36 Units'
+  - '&8Output: &e1 Set of Boot Plates'
   type:
   - '&7&o元件'
 CAST_CHEST_PLATE:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f胸甲片專用鑄模'
+  stats:
+  - '&8Input: &e72 Units'
+  - '&8Output: &e1 Set of Chestplate Plates'
   type:
   - '&7&o元件'
 CAST_GEM:
+  description:
+  - '&7用於非金屬液體的鑄模。'
+  name: '&f寶石專用鑄模'
+  stats:
+  - '&8Input: &e9 Units'
+  - '&8Output: &e1 Gem'
   type:
   - '&7&o元件'
 CAST_HELM_PLATE:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f頭盔甲片專用鑄模'
+  stats:
+  - '&8Input: &e45 Units'
+  - '&8Output: &e1 Set of Helmet Plates'
   type:
   - '&7&o元件'
 CAST_HOEHEAD:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f鋤刃專用鑄模'
+  stats:
+  - '&8Input: &e18 Units'
+  - '&8Output: &e1 Hoe Head'
   type:
   - '&7&o元件'
 CAST_INGOT:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f金屬錠專用鑄模'
+  stats:
+  - '&8Input: &e9 Units'
+  - '&8Output: &e1 Ingot'
   type:
   - '&7&o元件'
 CAST_LEG_PLATE:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f護腿甲片專用鑄模'
+  stats:
+  - '&8Input: &e63 Units'
+  - '&8Output: &e1 Set of Legging Plates'
   type:
   - '&7&o元件'
 CAST_MAIL_LINK:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f鎖環專用鑄模'
+  stats:
+  - '&8Input: &e18 Units'
+  - '&8Output: &e1 Set of Mail Links'
   type:
   - '&7&o元件'
 CAST_NUGGET:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f金屬顆粒專用鑄模'
+  stats:
+  - '&8Input: &e1 Units'
+  - '&8Output: &e1 Nugget'
   type:
   - '&7&o元件'
 CAST_PICKAXEHEAD:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f鎬頭專用鑄模'
+  stats:
+  - '&8Input: &e27 Units'
+  - '&8Output: &e1 Pickaxe Head'
   type:
   - '&7&o元件'
 CAST_REPAIRKIT:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f修理包專用鑄模'
+  stats:
+  - '&8Input: &e27 Units'
+  - '&8Output: &e1 Repair Kit'
   type:
   - '&7&o元件'
 CAST_SHOVELHEAD:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f鏟頭專用鑄模'
+  stats:
+  - '&8Input: &e9 Units'
+  - '&8Output: &e1 Shovel Head'
   type:
   - '&7&o元件'
 CAST_SWORDBLADE:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f劍刃專用鑄模'
+  stats:
+  - '&8Input: &e18 Units'
+  - '&8Output: &e1 Sword Blade'
   type:
   - '&7&o元件'
 CAST_TOOLROD:
+  description:
+  - '&7用於金屬的鑄模。'
+  name: '&f工具柄專用鑄模'
+  stats:
+  - '&8Input: &e9 Units'
+  - '&8Output: &e1 Tool Rod'
   type:
   - '&7&o元件'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
+  description:
+  - '&7是時候慶祝了'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f歡慶'
   type:
   - '&7&o元件'
 CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
+  description:
+  - '&7單獨使用……什麼也做不到……'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f充能頭部 +'
   type:
   - '&7&o元件'
 CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
+  description:
+  - '&7單獨使用……什麼也做不到……'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f充能頭部 -'
   type:
   - '&7&o元件'
 CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
+  description:
+  - '&7單獨使用……什麼也做不到……'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f充能柄 +'
   type:
   - '&7&o元件'
 CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
+  description:
+  - '&7單獨使用……什麼也做不到……'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f充能柄 -'
   type:
   - '&7&o元件'
 CLEAN_CUT_TRAIT_PROP_HEAD_METAL_SINGULARITY:
+  description:
+  - '&7傷害 +100%，挖掘加速 2'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f俐落一擊'
   type:
   - '&7&o元件'
 CLEAVE_TRAIT_PROP_HEAD_ADVANCED_ALLOY:
+  description:
+  - '&7攻擊時對附近所有生物造成傷害。'
+  - '&7橫掃傷害不會觸發工匠效果。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f橫掃'
   type:
   - '&7&o元件'
 COAL_LIQUID:
+  description:
+  - '&7煤炭的熔融型態。'
+  name: '&f熔融煤炭'
   type:
   - '&7&o資源'
 COBALT_ALLOY:
+  description:
+  - '&7由鈷熔煉而成的合金。'
+  name: '&f熔融鈷'
   type:
   - '&7&o資源'
 COBALT_LIQUID:
+  description:
+  - '&7鈷的熔融型態。'
+  name: '&f熔融鈷'
   type:
   - '&7&o資源'
 COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7每一層複合效果都會帶來等量的額外生命值'
+  - '&7件。數量會自行疊加'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f複合'
   type:
   - '&7&o元件'
 CONCEPTUAL_DEFENCE_TRAIT_PROP_ROD_INFINITE_INGOT:
+  description:
+  - '&7所有傷害減半 (無條件進位)。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f概念防禦'
   type:
   - '&7&o元件'
 CONDUCTIVE_II_TRAIT_PROP_ROD_COPPER_SINGULARITY:
+  description:
+  - '&7工具的所有經驗都會轉換為玩家經驗'
+  - '&7並有 50% 的加成。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f導電 II'
   type:
   - '&7&o元件'
 CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
+  description:
+  - '&7工具的所有經驗都會轉換為玩家經驗。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f導電'
   type:
   - '&7&o元件'
 CONDUCTIVITY_II_TRAIT_PROP_PLATES_SILVER_SINGULARITY:
+  description:
+  - '&7受擊時有機率召喚一場風暴。'
+  - '&7閃電傷害會治癒你。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f導電性 II'
   type:
   - '&7&o元件'
 CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
+  description:
+  - '&7對閃電免疫，甚至還能反彈回去！'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f導電性'
   type:
   - '&7&o元件'
 CONDUCTOR_TRAIT_PROP_ROD_METAL_SINGULARITY:
+  description:
+  - '&7玩家的所有經驗都會轉換為工具'
+  - '&7經驗，比例為 10 : 1。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f導體'
   type:
   - '&7&o元件'
 COPPER_LIQUID:
+  description:
+  - '&7銅的熔融型態。'
+  name: '&f熔融銅'
   type:
   - '&7&o資源'
 COPPER_SINGULARITY_LIQUID:
+  description:
+  - '&7銅奇點的熔融型態。'
+  name: '&f熔融銅奇點'
   type:
   - '&7&o資源'
 CORINTHIAN_BRONZE_ALLOY:
+  description:
+  - '&7由科林斯青銅熔煉而成的合金。'
+  name: '&f熔融科林斯青銅'
   type:
   - '&7&o資源'
 CORINTHIAN_BRONZE_LIQUID:
+  description:
+  - '&7科林斯青銅的熔融型態。'
+  name: '&f熔融科林斯青銅'
   type:
   - '&7&o資源'
 CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
+  description:
+  - '&7有 25% 機率退還修理的花費！'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f工藝精湛'
   type:
   - '&7&o元件'
 CRINGLEIUM_ALLOY:
+  description:
+  - '&7由Cringleium熔煉而成的合金。'
+  name: '&f熔融Cringleium'
   type:
   - '&7&o資源'
 CRINGLEIUM_LIQUID:
+  description:
+  - '&7Cringleium的熔融型態。'
+  name: '&f熔融Cringleium'
   type:
   - '&7&o資源'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7攻擊動物會直接餵飽你。真是'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f利刃餐具'
   type:
   - '&7&o元件'
 DAMASCUS_STEEL_ALLOY:
+  description:
+  - '&7由大馬士革鋼熔煉而成的合金。'
+  name: '&f熔融大馬士革鋼'
   type:
   - '&7&o資源'
 DAMASCUS_STEEL_LIQUID:
+  description:
+  - '&7大馬士革鋼的熔融型態。'
+  name: '&f熔融大馬士革鋼'
   type:
   - '&7&o資源'
 DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
+  description:
+  - '&7在夜間緩慢修復工具。'
+  - '&7可與改造疊加，必須拿在手上'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f衰朽'
   type:
   - '&7&o元件'
 DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
+  description:
+  - '&7在夜間緩慢修復。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f衰朽'
   type:
   - '&7&o元件'
 DEFENDER_TRAIT_PROP_LINKS_MAGSTEEL:
+  description:
+  - '&7受擊時有 5% 機率無視傷害'
+  - '&7並獲得傷害吸收。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f守護者'
   type:
   - '&7&o元件'
 DEFLECTIVE_TRAIT_PROP_PLATES_ADAMANTITE:
+  description:
+  - '&7投射物傷害 -25%'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f偏轉'
   type:
   - '&7&o元件'
 DETAILED_DEVOTION_LIQUID:
+  description:
+  - '&7精緻虔誠的熔融型態。'
+  name: '&f熔融精緻虔誠'
   type:
   - '&7&o資源'
 DIAMOND_LIQUID:
+  description:
+  - '&7鑽石的熔融型態。'
+  name: '&f熔融鑽石'
   type:
   - '&7&o資源'
 DIAMOND_SINGULARITY_LIQUID:
+  description:
+  - '&7鑽石奇點的熔融型態。'
+  name: '&f熔融鑽石奇點'
   type:
   - '&7&o資源'
 DIE_AXE_HEAD:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f石斧刃專用母模'
   type:
   - '&7&o元件'
 DIE_BOOT_PLATE:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f石靴甲片專用母模'
   type:
   - '&7&o元件'
 DIE_CHEST_PLATE:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f石胸甲片專用母模'
   type:
   - '&7&o元件'
 DIE_HELM_PLATE:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f石頭盔甲片專用母模'
   type:
   - '&7&o元件'
 DIE_HOE_HEAD:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f石鋤刃專用母模'
   type:
   - '&7&o元件'
 DIE_LEG_PLATE:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f石護腿甲片專用母模'
   type:
   - '&7&o元件'
 DIE_MAIL_LINK:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f鎖環專用母模'
   type:
   - '&7&o元件'
 DIE_PICKAXE_HEAD:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f石鎬頭專用母模'
   type:
   - '&7&o元件'
 DIE_REPAIR_KIT:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f修理包專用母模'
   type:
   - '&7&o元件'
 DIE_SHOVEL_HEAD:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f石鏟頭專用母模'
   type:
   - '&7&o元件'
 DIE_SWORD_BLADE:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f石劍首專用母模'
   type:
   - '&7&o元件'
 DIE_TOOL_ROD:
+  description:
+  - '&7用來製作鑄模的母模。'
+  name: '&f工具柄專用母模'
   type:
   - '&7&o元件'
 DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
+  description:
+  - '&7我對這東西有種不祥的預感……'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f厄運'
   type:
   - '&7&o元件'
 DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
+  description:
+  - '&7給予你不祥之兆，快把村民藏好！'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f厄運'
   type:
   - '&7&o元件'
 DRACONIC_LIQUID:
+  description:
+  - '&7龍族的熔融型態。'
+  name: '&f熔融龍族'
   type:
   - '&7&o資源'
 DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7被終界龍擊中時，獲得'
+  - '&7額外傷害，持續 15 秒。'
+  - '&7以加法疊加，疊加時會刷新持續時間。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  - '&7贊助者: Bunkky/ReasonFoundDecoy'
+  name: '&f龍之暴怒'
   type:
   - '&7&o元件'
 DUMMY_MODIFICATION_STATION:
+  description:
+  - '&7工具在改造'
+  - '&7工作站使用適當的材料。'
+  - '&7加入足夠的材料之後，'
+  - '&7改造就會升級。'
+  name: '&f工匠改造工作站'
   type:
   - '&7&o雜項'
 DUMMY_TINKERS_ARMOUR_TABLE:
+  description:
+  - '&7這個物品在工匠盔甲製作檯上製作。'
+  name: '&f工匠盔甲製作檯'
   type:
   - '&7&o雜項'
 DUMMY_TINKERS_SMELTERY:
+  description:
+  - '&7這個物品鑄造自'
+  - '&7工匠冶煉爐中，使用'
+  - '&7對應的鑄模與金屬或液體。'
+  name: '&f工匠冶煉爐'
   type:
   - '&7&o雜項'
 DUMMY_TINKERS_SMELTERY_ALLOY:
+  description:
+  - '&7這種合金是在工匠'
+  - '&7冶煉爐中，方法是輸入正確的金屬'
+  - '&7種類，然後點擊「合金」。'
+  name: '&f工匠冶煉爐'
   type:
   - '&7&o雜項'
 DUMMY_TINKERS_SMELTERY_MOLTEN:
+  description:
+  - '&7熔融金屬的製法是將'
+  - '&7由該金屬製成的物品放入'
+  - '&7冶煉爐。物品在獲得足夠的'
+  - '&7岩漿作為熱源時就會熔化。'
+  name: '&f工匠冶煉爐'
   type:
   - '&7&o雜項'
 DUMMY_TINKERS_SMELTERY_MULTI:
+  description:
+  - '&7這是一個多方塊結構，請在世界中依'
+  - '&7如此處所示。'
+  name: '&f工匠冶煉爐'
   type:
   - '&7&o雜項'
 DUMMY_TINKERS_SMELTERY_PROP:
+  description:
+  - '&7當使用這種材料製作對應的部件時'
+  - '&7金屬，就會賦予完成的工具'
+  - '&7這項屬性。'
+  name: '&f工匠冶煉爐'
   type:
   - '&7&o雜項'
 DUMMY_TINKERS_TABLE:
+  description:
+  - '&7這個物品在工匠工具製作檯上製作。'
+  name: '&f工匠工具製作檯'
   type:
   - '&7&o雜項'
 DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
+  description:
+  - '&7即使損毀仍可使用，但傷害只剩 50%，'
+  - '&7挖掘會變慢，而且只有 0 經驗。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f耐用'
   type:
   - '&7&o元件'
 DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
+  description:
+  - '&7損壞後仍可運作，但所受傷害 +20%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f耐用'
   type:
   - '&7&o元件'
 DURABLE_TRAIT_PROP_ROD_TITANIUM:
+  description:
+  - '&7即使損毀仍可使用，但傷害只剩 50%，'
+  - '&7挖掘會變慢，而且只有 0 經驗。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f耐用'
   type:
   - '&7&o元件'
 DURALIUM_ALLOY:
+  description:
+  - '&7由Duralium熔煉而成的合金。'
+  name: '&f熔融Duralium'
   type:
   - '&7&o資源'
 DURALIUM_LIQUID:
+  description:
+  - '&7Duralium的熔融型態。'
+  name: '&f熔融Duralium'
   type:
   - '&7&o資源'
 DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
+  description:
+  - '&7挖礦時有機率找到稀有的遺物。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f矮人技藝'
   type:
   - '&7&o元件'
 DWARVEN_SKILLS_TRAIT_PROP_PLATES_TITANIUM:
+  description:
+  - '&7挖礦時有機率找到稀有的遺物。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f矮人技藝'
   type:
   - '&7&o元件'
 EARTH_SHAKER_TRAIT_PROP_HEAD_EARTH_SINGULARITY:
+  description:
+  - '&7將命中的生物擊退並使其暈眩'
+  - '&7當它們落地時。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f撼地者'
   type:
   - '&7&o元件'
 EARTH_SINGULARITY_LIQUID:
+  description:
+  - '&7大地奇點的熔融型態。'
+  name: '&f熔融大地奇點'
   type:
   - '&7&o資源'
 EASILY_SHAPED_II_TRAIT_PROP_LINKS_ALUMINUM_SINGULARITY:
+  description:
+  - '&7修理只需要任何金屬的單一修理包'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f易於塑形 II'
   type:
   - '&7&o元件'
 EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
+  description:
+  - '&7修理只需要單一修理包。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f易於塑形'
   type:
   - '&7&o元件'
 EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
+  description:
+  - '&7只需 1 個修理包即可完全修復。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f輕鬆修補'
   type:
   - '&7&o元件'
 EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7若在生命值低於 1/2 時受傷 - 彈射！'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f彈射！'
   type:
   - '&7&o元件'
 ELVEN_SPEED_TRAIT_PROP_HEAD_MYTHRIL:
+  description:
+  - '&7挖掘加速 2、速度提升 1，耐久度損耗 +50%'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f精靈疾行'
   type:
   - '&7&o元件'
 ENCHANTING_II_TRAIT_PROP_HEAD_SILVER_SINGULARITY:
+  description:
+  - '&7工具經驗獲得減半。工具會增加 1-3 個'
+  - '&7升級時隨機選出的附魔'
+  - '&7升級。這些附魔也許派不上用場！'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f附魔 II'
   type:
   - '&7&o元件'
 ENCHANTING_II_TRAIT_PROP_LINKS_SILVER_SINGULARITY:
+  description:
+  - '&7每次升級時隨機獲得 1-3 個附魔'
+  - '&7盔甲升級時。也許派不上用場。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f附魔 II'
   type:
   - '&7&o元件'
 ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
+  description:
+  - '&7工具經驗獲得減半。工具會增加一個'
+  - '&7升級時隨機獲得一個原版附魔。可能'
+  - '&7可能與工具類型不符。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f附魔'
   type:
   - '&7&o元件'
 ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
+  description:
+  - '&7每次升級時隨機獲得一個附魔'
+  - '&7盔甲升級時。也許派不上用場。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f附魔'
   type:
   - '&7&o元件'
 ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7隨機傳送後再出手 (冷卻: 10 秒)'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f脫逃'
   type:
   - '&7&o元件'
 ESCAPE_TRAIT_PROP_PLATES_MAGNONIUM:
+  description:
+  - '&7隨機傳送後再出手 (冷卻: 10 秒)'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f脫逃'
   type:
   - '&7&o元件'
 EVEN_MORE_ADVANCED_TRAIT_PROP_PLATES_ADVANCED_ALLOY:
+  description:
+  - '&7每件裝備使進階改造槽 +1。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f更加進階'
   type:
   - '&7&o元件'
 EXPERIENCED_TRAIT_PROP_LINKS_ADAMANTITE:
+  description:
+  - '&7所有工具與盔甲經驗 +10%'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f經驗老到'
   type:
   - '&7&o元件'
 EXPERIENCED_TRAIT_PROP_PLATES_MIXED_METAL_INGOT:
+  description:
+  - '&7所有工具與盔甲經驗 +10%'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f經驗老到'
   type:
   - '&7&o元件'
 FALLING_APART_TRAIT_PROP_LINKS_SCRAP:
+  description:
+  - '&7經驗 +200%，盔甲有機率會'
+  - '&7直接掉下來！'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f分崩離析'
   type:
   - '&7&o元件'
 FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
+  description:
+  - '&7所有作物額外掉落 1 個物品，不受幸運影響。'
+  - '&7無法與自身疊加，但可與其他效果疊加。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f農夫'
   type:
   - '&7&o元件'
 FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
+  description:
+  - '&7移動速度提升，並獲得挖掘加速。'
+  - '&7可與改造疊加。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f迅捷'
   type:
   - '&7&o元件'
 FEAR_THE_VOID_TRAIT_PROP_ROD_VOID_INGOT:
+  description:
+  - '&7傷害 +150%，在終界中為 250%。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f畏懼虛空'
   type:
   - '&7&o元件'
 FEELING_CONNECTED_TRAIT_PROP_LINKS_NTW_REMOTE_ULTIMATE:
+  description:
+  - '&7讓你能以無線方式連接'
+  - '&7到網路上，使用直接的神經'
+  - '&7透過你的頭盔連線。'
+  - ''
+  - '&7潛行 + 左鍵，以空的'
+  - '&7手綁定到一個網格上。'
+  - ''
+  - '&7空手左鍵點擊空氣以'
+  - '&7嘗試開啟綁定的網格。'
+  - ''
+  - '&7只在頭盔上有效。'
+  - ''
+  - '&7新增者: Networks'
+  name: '&f心意相連'
   type:
   - '&7&o元件'
 FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
+  description:
+  - '&7來感受節慶的氣氛吧！'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f節慶氣氛'
   type:
   - '&7&o元件'
 FERROSILICON_ALLOY:
+  description:
+  - '&7由矽鐵熔煉而成的合金。'
+  name: '&f熔融矽鐵'
   type:
   - '&7&o資源'
 FERROSILICON_LIQUID:
+  description:
+  - '&7矽鐵的熔融型態。'
+  name: '&f熔融矽鐵'
   type:
   - '&7&o資源'
 FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7盡可能熔煉被破壞的方塊。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f熾熱如焰'
   type:
   - '&7&o元件'
 FLAMING_HOT_TRAIT_PROP_ROD_MAGNONIUM:
+  description:
+  - '&7盡可能熔煉被破壞的方塊。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f熾熱如焰'
   type:
   - '&7&o元件'
 FLAMMABLE_II_TRAIT_PROP_HEAD_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7有 (工具等級 x 10)% 的機率'
+  - '&7讓你的敵人燃燒更長的時間。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f易燃 II'
   type:
   - '&7&o元件'
 FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
+  description:
+  - '&7有 (工具等級 x 5)% 的機率'
+  - '&7讓你的敵人燃燒起來。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f易燃'
   type:
   - '&7&o元件'
 FLAMMABLE_TRAIT_PROP_ROD_MAGSTEEL:
+  description:
+  - '&7有 (工具等級 x 5)% 的機率'
+  - '&7讓你的敵人燃燒起來。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f易燃'
   type:
   - '&7&o元件'
 FLOWING_FONDNESS_LIQUID:
+  description:
+  - '&7流動喜愛的熔融型態。'
+  name: '&f熔融流動喜愛'
   type:
   - '&7&o資源'
 FOIL_II_TRAIT_PROP_PLATES_ALUMINUM_SINGULARITY:
+  description:
+  - '&7所受傷害 +50%，速度提升 +2'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f箔片 II'
   type:
   - '&7&o元件'
 FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
+  description:
+  - '&7所受傷害 +50%，速度提升 +1'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f箔片'
   type:
   - '&7&o元件'
 FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
+  description:
+  - '&7幸運帶來的掉落物 +200%，可疊加'
+  - '&7青金石改造疊加。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f好運當頭'
   type:
   - '&7&o元件'
 FORTUNE_SINGULARITY_LIQUID:
+  description:
+  - '&7幸運奇點的熔融型態。'
+  name: '&f熔融幸運奇點'
   type:
   - '&7&o資源'
 FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
+  description:
+  - '&7死亡時或刻意丟棄都不會掉落。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f熔接'
   type:
   - '&7&o元件'
 FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
+  description:
+  - '&7這件工具不會因為'
+  - '&7玩家或死亡而掉落。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f熔接'
   type:
   - '&7&o元件'
 GHOSTLY_ESSENCE_LIQUID:
+  description:
+  - '&7幽靈精華的熔融型態。'
+  name: '&f熔融幽靈精華'
   type:
   - '&7&o資源'
 GHOSTLY_TRAIT_PROP_LINKS_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7像幽靈一樣飄浮'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f幽靈之姿'
   type:
   - '&7&o元件'
 GHOST_IN_THE_SHELL_TRAIT_PROP_GAMBESON_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7以耐久度為代價，緩慢傷害附近所有生物。'
+  - '&7生物不會因這個效果而死亡。'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f殼中幽靈'
   type:
   - '&7&o元件'
 GLEAM_TRAIT_PROP_LINKS_METAL_SINGULARITY:
+  description:
+  - '&7受擊時有機率反彈傷害並'
+  - '&7使攻擊者目眩。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f微光'
   type:
   - '&7&o元件'
 GOLDEN_VEIL_II_TRAIT_PROP_HEAD_GOLD_SINGULARITY:
+  description:
+  - '&7使玩家隱形。若用於'
+  - '&7武器上，傷害 +50%。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f黃金面紗 II'
   type:
   - '&7&o元件'
 GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
+  description:
+  - '&7使玩家隱形。若用於'
+  - '&7武器上，傷害 -100%。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f黃金面紗'
   type:
   - '&7&o元件'
 GOLD_LIQUID:
+  description:
+  - '&7黃金的熔融型態。'
+  name: '&f熔融黃金'
   type:
   - '&7&o資源'
 GOLD_SINGULARITY_LIQUID:
+  description:
+  - '&7黃金奇點的熔融型態。'
+  name: '&f熔融黃金奇點'
   type:
   - '&7&o資源'
 GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
+  description:
+  - '&7警告……東西會爆炸……'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f轟然一響'
   type:
   - '&7&o元件'
 GRACEFUL_II_TRAIT_PROP_HEAD_ZINC_SINGULARITY:
+  description:
+  - '&7海豚之力，再加碼啟動！'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f優雅 II'
   type:
   - '&7&o元件'
 GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
+  description:
+  - '&7海豚之力，啟動！'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f優雅'
   type:
   - '&7&o元件'
 GRINDER_TRAIT_PROP_ROD_EARTH_SINGULARITY:
+  description:
+  - '&7破壞方塊時，就彷彿方塊帶有'
+  - '&7經過了研磨機。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f研磨者'
   type:
   - '&7&o元件'
 GROUT:
+  description:
+  - '&7用於製作燒灼磚。'
+  name: '&f灰漿'
   type:
   - '&7&o元件'
 GROWTH_TRAIT_PROP_BINDING_VINE:
+  description:
+  - '&7在白天緩慢修復工具。'
+  - '&7可與改造疊加，必須拿在手上'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f生長'
   type:
   - '&7&o元件'
 GROWTH_TRAIT_PROP_GAMBESON_VINE:
+  description:
+  - '&7在白天緩慢修復。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f生長'
   type:
   - '&7&o元件'
 HARDENED_METAL_ALLOY:
+  description:
+  - '&7由硬化金屬熔煉而成的合金。'
+  name: '&f熔融硬化金屬'
   type:
   - '&7&o資源'
 HARDENED_METAL_LIQUID:
+  description:
+  - '&7硬化金屬的熔融型態。'
+  name: '&f熔融硬化金屬'
   type:
   - '&7&o資源'
 HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
+  description:
+  - '&7有 50% 機率無視耐久度損耗。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f強健'
   type:
   - '&7&o元件'
 HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
+  description:
+  - '&7爆炸造成的傷害減少 25%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f強健'
   type:
   - '&7&o元件'
 HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
+  description:
+  - '&7岩漿塊不再造成傷害'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f導熱體'
   type:
   - '&7&o元件'
 HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
+  description:
+  - '&7有 25% 機率無視火焰與高溫傷害。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f耐熱'
   type:
   - '&7&o元件'
 HEAT_RESISTANT_TRAIT_PROP_HEAD_MAG_THOR:
+  description:
+  - '&7對火焰與岩漿免疫。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f耐熱性'
   type:
   - '&7&o元件'
 HEAT_RESISTANT_TRAIT_PROP_LINKS_TITANIUM:
+  description:
+  - '&7對火焰與岩漿免疫。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f耐熱性'
   type:
   - '&7&o元件'
 HEAVY_DUTY_TRAIT_PROP_ROD_ADVANCED_ALLOY:
+  description:
+  - '&7耐久度過低時，它會吃掉 1 塊鐵'
+  - '&7背包中的金屬錠來回復一些耐久度。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f重載'
   type:
   - '&7&o元件'
 HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
+  description:
+  - '&7以 3x3 範圍挖掘。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f沉重'
   type:
   - '&7&o元件'
 HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
+  description:
+  - '&7賦予隱形，但會立刻損毀。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f隱匿'
   type:
   - '&7&o元件'
 HOW_FORTUNATE_TRAIT_PROP_PLATES_FORTUNE_SINGULARITY:
+  description:
+  - '&7受擊時有 0.5% 機率獲得禮物。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f何其幸運'
   type:
   - '&7&o元件'
 HYBERBOLIC_TESSERATION_TRAIT_PROP_LINKS_DYNATECH_TESSERACTING_OBJECT:
+  description:
+  - '&7待在自己的家中時，你會儲存能量。'
+  - '&7所受的傷害會從這個能量池中扣除。'
+  - '&7需要 8 件才能生效，上限為 50'
+  - '&7每件裝備。'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f雙曲超立方'
   type:
   - '&7&o元件'
 HYBERBOLIC_TESSERATION_TRAIT_PROP_PLATES_DYNATECH_TESSERACTING_OBJECT:
+  description:
+  - '&7待在自己的家中時，你會儲存能量。'
+  - '&7所受的傷害會從這個能量池中扣除。'
+  - '&7需要 8 件才能生效，上限為 50'
+  - '&7每件裝備。'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f雙曲超立方'
   type:
   - '&7&o元件'
 HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
+  description:
+  - '&7飄離危險。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f氫'
   type:
   - '&7&o元件'
 HYPERCUBE_[A]_TRAIT_PROP_HEAD_DYNATECH_TESSERACTING_OBJECT:
+  description:
+  - '&7只有同時擁有 [A] 與 [B] 才有效。潛行 + 右鍵'
+  - '&7點擊以記錄一個地點。右鍵點擊可召回'
+  - '&7回到該地點。(冷卻: 10 分鐘)'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f超立方 [A]'
   type:
   - '&7&o元件'
 HYPERCUBE_[B]_TRAIT_PROP_ROD_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7只有同時擁有 [A] 與 [B] 才有效。潛行 + 右鍵'
+  - '&7點擊以記錄一個地點。右鍵點擊可召回'
+  - '&7回到該地點。(冷卻: 10 分鐘)'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f超立方 [B]'
   type:
   - '&7&o元件'
 INCORPOREAL_TRAIT_PROP_BINDING_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7投射物會直接穿過你。'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f無形之軀'
   type:
   - '&7&o元件'
 INDOMITABLE_TRAIT_PROP_PLATES_IRIDIUM:
+  description:
+  - '&7所受傷害的 10% 會被無視並反彈回去。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f不屈不撓'
   type:
   - '&7&o元件'
 INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
+  description:
+  - '&7潛行 + 右鍵可啟動 30 秒的加速爆發。'
+  - '&7加速爆發啟動時，每破壞一個方塊就有'
+  - '&7有 [50 ÷ 挖掘加速等級]% 的機率施加一層挖掘加速。'
+  - '&7硬上限為挖掘加速 10，冷卻 5 分鐘。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f勤奮'
   type:
   - '&7&o元件'
 INFINITE_CAPACITY_TRAIT_PROP_PLATES_INFINITE_INGOT:
+  description:
+  - '&7每次受到傷害時，會有 10% 被儲存起來'
+  - '&7最多 5 顆心。右鍵點擊以釋放'
+  - '&7對附近實體造成的傷害'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f無盡容量'
   type:
   - '&7&o元件'
 INFINITE_DEFENCE_TRAIT_PROP_LINKS_INFINITY_SINGULARITY:
+  description:
+  - '&7當 4 件裝備齊全時，所受傷害固定為 1'
+  - '&7已裝備時。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f無盡防禦'
   type:
   - '&7&o元件'
 INFINITE_LIQUID:
+  description:
+  - '&7無盡的熔融型態。'
+  name: '&f熔融無盡'
   type:
   - '&7&o資源'
 INFINITE_TRAIT_PROP_HEAD_INFINITE_INGOT:
+  description:
+  - '&7這件工具將永遠流傳下去。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f無盡'
   type:
   - '&7&o元件'
 INFINITLY_POWERFUL_TRAIT_PROP_PLATES_INFINITY_SINGULARITY:
+  description:
+  - '&7每承受 X 點傷害 (在'
+  - '&7減免之前) 會解鎖一個新的隨機'
+  - '&7附魔，沒有上限。'
+  - '&7所需的傷害量每次都會增加'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f無限強大'
   type:
   - '&7&o元件'
 INFINITY_SINGULARITY_LIQUID:
+  description:
+  - '&7無限奇點的熔融型態。'
+  name: '&f熔融無限奇點'
   type:
   - '&7&o資源'
 INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
+  description:
+  - '&7這件工具有點不對勁。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&fIngheights'
   type:
   - '&7&o元件'
 INGOT_CAST_ANNIVERSARIUM:
+  description:
+  - '&710 年的 (黏液) 歡樂時光！'
+  name: '&fAnniversarium錠'
   type:
   - '&7&o資源'
 INGOT_CAST_BOOMERITE:
+  description:
+  - '&7極為稀有的金屬錠，來歷不明。'
+  name: '&fBoomerite錠'
   type:
   - '&7&o資源'
 INGOT_CAST_CRINGLEIUM:
+  description:
+  - '&7只在短時間內現身的節慶金屬錠。'
+  name: '&fCringleium錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_ABSORPTION:
+  description:
+  - '&7散發著堅毅氣息的 Daxi 錠。'
+  name: '&f吸收 Daxi 錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_FORTITUDE:
+  description:
+  - '&7散發著不屈氣息的 Daxi 錠。'
+  name: '&f堅毅 Daxi 錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_REGENERATION:
+  description:
+  - '&7散發著仁慈氣息的 Daxi 錠。'
+  name: '&f再生 Daxi 錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_SATURATION:
+  description:
+  - '&7散發著暖意的 Daxi 錠。'
+  name: '&f飽食 Daxi 錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_STRENGTH:
+  description:
+  - '&7散發著力量氣息的 Daxi 錠。'
+  name: '&f力量 Daxi 錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DEVOTION:
+  description:
+  - '&7由某種概念鍛成的金屬錠'
+  - '&7的虔誠。'
+  name: '&f虔誠錠'
   type:
   - '&7&o資源'
 INGOT_CAST_FONDNESS:
+  description:
+  - '&7由某種概念鍛成的金屬錠'
+  - '&7的喜愛。'
+  name: '&f喜愛錠'
   type:
   - '&7&o資源'
 INGOT_CAST_LOVE:
+  description:
+  - '&7這金屬錠所散發的，只有'
+  - '&7純粹而毫無雜質的愛。'
+  name: '&f愛錠'
   type:
   - '&7&o資源'
 INGOT_CAST_NICE:
+  description:
+  - '&7美好'
+  name: '&f美好錠'
   type:
   - '&7&o資源'
 INGOT_CAST_PASSION:
+  description:
+  - '&7由某種概念鍛成的金屬錠'
+  - '&7的熱情。'
+  name: '&f熱情錠'
   type:
   - '&7&o資源'
 INGOT_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7這金屬錠滿溢著一股'
+  - '&7無與倫比的狂怒。'
+  name: '&f強化龍晶錠'
   type:
   - '&7&o資源'
 INGOT_CAST_SEFIRITE:
+  description:
+  - '&7只在短時間內現身的金屬錠。'
+  name: '&fSefirite錠'
   type:
   - '&7&o資源'
 INGOT_CAST_SMITHIUM:
+  description:
+  - '&7樸實無華、用途廣泛的金屬'
+  - '&7在核心工業作業之中。'
+  name: '&fSmithium錠'
   type:
   - '&7&o資源'
 INSULATED_TRAIT_PROP_BINDING_RUBBER:
+  description:
+  - '&7對閃電免疫。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f絕緣'
   type:
   - '&7&o元件'
 INTERDIMENSIONAL_PRESENCE_LIQUID:
+  description:
+  - '&7次元存在的熔融型態。'
+  name: '&f熔融次元存在'
   type:
   - '&7&o資源'
 IRIDIUM_LIQUID:
+  description:
+  - '&7銥的熔融型態。'
+  name: '&f熔融銥'
   type:
   - '&7&o資源'
 IRON_LIQUID:
+  description:
+  - '&7鐵的熔融型態。'
+  name: '&f熔融鐵'
   type:
   - '&7&o資源'
 IRON_SINGULARITY_LIQUID:
+  description:
+  - '&7鐵奇點的熔融型態。'
+  name: '&f熔融鐵奇點'
   type:
   - '&7&o資源'
 IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
+  description:
+  - '&7你是被愛著的'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f這就是你需要的一切'
   type:
   - '&7&o元件'
 IT'S_ONLY_NATURAL_TRAIT_PROP_LINKS_EARTH_SINGULARITY:
+  description:
+  - '&7右鍵可餵食附近兩隻動物。(冷卻: 2 分鐘)'
+  - '&7無論成功與否都會進入冷卻。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f這再自然不過'
   type:
   - '&7&o元件'
 KINGSMAN_TRAIT_PROP_PLATES_REFINED_IRON:
+  description:
+  - '&7右鍵點擊時，召喚一支繽紛的隊伍'
+  - '&7的純粹毀滅。'
+  - '&7你要是沒有禮貌，它就毫無作用。'
+  - '&7需要 4 件帶有「金士曼」的裝備。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f金士曼'
   type:
   - '&7&o元件'
 KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
+  description:
+  - '&7受擊時有機率召喚一位騎士'
+  - '&7圓桌武士。(其實是鐵傀儡 ;))'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f圓桌武士'
   type:
   - '&7&o元件'
 LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
+  description:
+  - '&7右鍵點擊時生成梯子。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f梯子模擬器™'
   type:
   - '&7&o元件'
 LAVA_WALKER_TRAIT_PROP_PLATES_EARTH_SINGULARITY:
+  description:
+  - '&7腳下的岩漿會變成岩漿塊。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f岩漿行者'
   type:
   - '&7&o元件'
 LEAD_LIQUID:
+  description:
+  - '&7鉛的熔融型態。'
+  name: '&f熔融鉛'
   type:
   - '&7&o資源'
 LEAD_SINGULARITY_LIQUID:
+  description:
+  - '&7鉛奇點的熔融型態。'
+  name: '&f熔融鉛奇點'
   type:
   - '&7&o資源'
 LEECH_II_TRAIT_PROP_ROD_LEAD_SINGULARITY:
+  description:
+  - '&7額外的生命值，但會耗損你的能量。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f吸取 II'
   type:
   - '&7&o元件'
 LEECH_TRAIT_PROP_ROD_LEAD_DUST:
+  description:
+  - '&7額外的生命值，但會耗損你的能量。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f吸取'
   type:
   - '&7&o元件'
 LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
+  description:
+  - '&7有機率以閃電劈中被命中的生物。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f閃電柄'
   type:
   - '&7&o元件'
 LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
+  description:
+  - '&7工具經驗 +50%，速度提升 +1'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f輕量'
   type:
   - '&7&o元件'
 LIGHT_II_TRAIT_PROP_PLATES_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7造成的傷害 -50%，速度提升 +2'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f輕盈 II'
   type:
   - '&7&o元件'
 LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
+  description:
+  - '&7造成的傷害 -25%，速度提升 +1'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f輕盈'
   type:
   - '&7&o元件'
 LIQUID_CHRISTMAS_LIQUID:
+  description:
+  - '&7液態聖誕的熔融型態。'
+  name: '&f熔融液態聖誕'
   type:
   - '&7&o資源'
 LIQUID_LOVE_ALLOY:
+  description:
+  - '&7由液態愛熔煉而成的合金。'
+  name: '&f熔融液態愛'
   type:
   - '&7&o資源'
 LIQUID_LOVE_LIQUID:
+  description:
+  - '&7液態愛的熔融型態。'
+  name: '&f熔融液態愛'
   type:
   - '&7&o資源'
 MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
+  description:
+  - '&7它或許依舊汙穢，但巨龍的'
+  - '&7吐息不會傷害你。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f魔法薄荷'
   type:
   - '&7&o元件'
 MAGIC_SINGULARITY_LIQUID:
+  description:
+  - '&7魔法奇點的熔融型態。'
+  name: '&f熔融魔法奇點'
   type:
   - '&7&o資源'
 MAGNANIMOUS_TRAIT_PROP_HEAD_MAGNONIUM:
+  description:
+  - '&7你實在是太過善良了'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f寬宏大量'
   type:
   - '&7&o元件'
 MAGNESIGHT™_II_TRAIT_PROP_LINKS_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7獲得夜視，並標示出所有生物'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f磁視™ II'
   type:
   - '&7&o元件'
 MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
+  description:
+  - '&7獲得夜視。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f磁視™'
   type:
   - '&7&o元件'
 MAGNESIUM_LIQUID:
+  description:
+  - '&7鎂的熔融型態。'
+  name: '&f熔融鎂'
   type:
   - '&7&o資源'
 MAGNESIUM_SINGULARITY_LIQUID:
+  description:
+  - '&7鎂奇點的熔融型態。'
+  name: '&f熔融鎂奇點'
   type:
   - '&7&o資源'
 MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7隨機物品會從'
+  - '&7在 10 格範圍內'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f磁鎂 II'
   type:
   - '&7&o元件'
 MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
+  description:
+  - '&7隨機物品會從'
+  - '&7在 5 格範圍內'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f磁鎂'
   type:
   - '&7&o元件'
 MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
+  description:
+  - '&7獲得 1 層磁力與 1 層正極。'
+  - '&7磁力會吸引附近所有物品。'
+  - '&7範圍 = 磁力等級 - (∆ 正極/負極)'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f磁性 +'
   type:
   - '&7&o元件'
 MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
+  description:
+  - '&7獲得 1 層磁力與 1 層負極。'
+  - '&7磁力會吸引附近所有物品。'
+  - '&7範圍 = 磁力等級 - (∆ 正極/負極)'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f磁性 +'
   type:
   - '&7&o元件'
 MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
+  description:
+  - '&7獲得 1 層磁力與 1 層負極。'
+  - '&7磁力會吸引附近所有物品。'
+  - '&7範圍 = 磁力等級 - (∆ 正極/負極)'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f磁性 -'
   type:
   - '&7&o元件'
 MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
+  description:
+  - '&7獲得 1 層磁力與 1 層負極。'
+  - '&7磁力會吸引附近所有物品。'
+  - '&7範圍 = 磁力等級 - (∆ 正極/負極)'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f磁性 -'
   type:
   - '&7&o元件'
 MAGNONIUM_LIQUID:
+  description:
+  - '&7Magnonium的熔融型態。'
+  name: '&f熔融Magnonium'
   type:
   - '&7&o資源'
 MAGSTEEL_ALLOY:
+  description:
+  - '&7由鎂鋼熔煉而成的合金。'
+  name: '&f熔融鎂鋼'
   type:
   - '&7&o資源'
 MAGSTEEL_LIQUID:
+  description:
+  - '&7鎂鋼的熔融型態。'
+  name: '&f熔融鎂鋼'
   type:
   - '&7&o資源'
 MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7魔法傷害 -50%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f法師'
   type:
   - '&7&o元件'
 MAG_THOR_ALLOY:
+  description:
+  - '&7由鎂釷合金熔煉而成的合金。'
+  name: '&f熔融鎂釷合金'
   type:
   - '&7&o資源'
 MAG_THOR_LIQUID:
+  description:
+  - '&7鎂釷合金的熔融型態。'
+  name: '&f熔融鎂釷合金'
   type:
   - '&7&o資源'
 MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
+  description:
+  - '&7造成的傷害減少 50%，但可獲得大量'
+  - '&7幸運與速度。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f延展 II'
   type:
   - '&7&o元件'
 MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
+  description:
+  - '&7造成的傷害減少 50%，但可獲得幸運。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f延展'
   type:
   - '&7&o元件'
 MANNERS_MAKETH_MAN_TRAIT_PROP_ROD_REFINED_IRON:
+  description:
+  - '&7速度提升 1，傷害 +50%。你的戰鬥看起來'
+  - '&7超級酷炫。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f禮儀成就非凡之人'
   type:
   - '&7&o元件'
 MERCHANT'S_VEIL_TRAIT_PROP_ROD_FORTUNE_SINGULARITY:
+  description:
+  - '&7隱形，卻沒有任何壞處！'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f商人之紗'
   type:
   - '&7&o元件'
 METAL_SINGULARITY_LIQUID:
+  description:
+  - '&7金屬奇點的熔融型態。'
+  name: '&f熔融金屬奇點'
   type:
   - '&7&o資源'
 MIXED_METALS_TRAIT_PROP_HEAD_MIXED_METAL_INGOT:
+  description:
+  - '&7擁有所有材料的效果，但'
+  - '&7它們的威力減半。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f混合金屬'
   type:
   - '&7&o元件'
 MIXED_METAL_ALLOY:
+  description:
+  - '&7由混合金屬熔煉而成的合金。'
+  name: '&f熔融混合金屬'
   type:
   - '&7&o資源'
 MIXED_METAL_LIQUID:
+  description:
+  - '&7混合金屬的熔融型態。'
+  name: '&f熔融混合金屬'
   type:
   - '&7&o資源'
 MIX_IT_UP!_TRAIT_PROP_LINKS_MIXED_METAL_INGOT:
+  description:
+  - '&7受擊時會把局面攪亂一番'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f攪亂一番！'
   type:
   - '&7&o元件'
 MOD_DIAMOND_ENTRY:
+  description:
+  - '&7套用到工具上時，持有者'
+  - '&7有機率反彈所受的傷害'
+  - '&7回攻擊者身上，每級 10%'
+  name: '&f改造: 鑽石'
   type:
   - '&7&o元件'
 MOD_EMERALD_ENTRY:
+  description:
+  - '&7套用到工具上時，持有者'
+  - '&7每次動作都會獲得額外的工具經驗'
+  - '&7的動作。工具 +1 經驗，並有 10%'
+  - '&7用於武器。'
+  name: '&f改造: 綠寶石'
   type:
   - '&7&o元件'
 MOD_LAPIS_ENTRY:
+  description:
+  - '&7套用到工具上時，持有者'
+  - '&7會從方塊掉落額外物品，或是'
+  - '&7擊殺。在幸運與掠奪之後計算。'
+  - '&7每級 10%。'
+  name: '&f改造: 青金石'
   type:
   - '&7&o元件'
 MOD_PLATE:
+  description:
+  - '&7一種賦予工具能力的改造。'
+  - '&7的機率無視工具的損耗。'
+  name: '&f強化甲片'
   type:
   - '&7&o元件'
 MOD_PLATE_ENTRY:
+  description:
+  - '&7帶有這項改造的工具擁有'
+  - '&7的機率不損失耐久度。每級 10%'
+  - '&7每級 - 到 10 級時工具將不會損壞'
+  name: '&f改造: 強化甲片'
   type:
   - '&7&o元件'
 MOD_QUARTZ_ENTRY:
+  description:
+  - '&7套用到工具上時，持有者'
+  - '&7會造成額外傷害。計算於'
+  - '&7鋒利或其他傷害附魔疊加。'
+  - '&7每級 20%'
+  name: '&f改造: 石英'
   type:
   - '&7&o元件'
 MOD_REDSTONE_ENTRY:
+  description:
+  - '&7套用到工具上時，持有者'
+  - '&7會獲得與等級相符的挖掘加速'
+  - '&7的改造。'
+  name: '&f改造: 紅石'
   type:
   - '&7&o元件'
 MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
+  description:
+  - '&7玩家經驗 +100% (挖掘) +50% (生物)'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f神祕'
   type:
   - '&7&o元件'
 MYTHRIL_LIQUID:
+  description:
+  - '&7秘銀的熔融型態。'
+  name: '&f熔融秘銀'
   type:
   - '&7&o資源'
 NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
+  description:
+  - '&7攻擊者會被致盲。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f收束'
   type:
   - '&7&o元件'
 NICEINIUM_ALLOY:
+  description:
+  - '&7由Niceinium熔煉而成的合金。'
+  name: '&f熔融Niceinium'
   type:
   - '&7&o資源'
 NICEINIUM_LIQUID:
+  description:
+  - '&7Niceinium的熔融型態。'
+  name: '&f熔融Niceinium'
   type:
   - '&7&o資源'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
+  description:
+  - '&7美好'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f美好'
   type:
   - '&7&o元件'
 NICKEL_ALLOY:
+  description:
+  - '&7由鎳熔煉而成的合金。'
+  name: '&f熔融鎳'
   type:
   - '&7&o資源'
 NICKEL_LIQUID:
+  description:
+  - '&7鎳的熔融型態。'
+  name: '&f熔融鎳'
   type:
   - '&7&o資源'
 NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7給予夜視。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f夜行者'
   type:
   - '&7&o元件'
 NIMBLE_TRAIT_PROP_BINDING_RAW_CARBON_MESH:
+  description:
+  - '&7速度提升 1，所受傷害減少 33%'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f敏捷'
   type:
   - '&7&o元件'
 NOCLIP_TRAIT_PROP_BINDING_DYNATECH_VEX_GEM:
+  description:
+  - '&7手持時右鍵點擊可隨機傳送。'
+  - '&7冷卻 5 分鐘。'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f穿牆'
   type:
   - '&7&o元件'
 NON-CORROSIVE_II_TRAIT_PROP_PLATES_TIN_SINGULARITY:
+  description:
+  - '&7中毒會治癒你，並對飢餓與虛弱免疫。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f抗腐蝕 II'
   type:
   - '&7&o元件'
 NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
+  description:
+  - '&7對中毒免疫'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f抗腐蝕'
   type:
   - '&7&o元件'
 NUGGET_CAST_ADAMANTITE:
+  description:
+  - '&7由純精金製成的顆粒'
+  name: '&f精金顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_ADVANCED_ALLOY:
+  description:
+  - '&7一顆進階合金顆粒'
+  name: '&f進階合金顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_ALUMINUM:
+  description:
+  - '&7由純鋁製成的顆粒'
+  name: '&f鋁顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_ALU_BRASS:
+  description:
+  - '&7由鋁黃銅製成的顆粒'
+  name: '&f鋁黃銅顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_ALU_BRONZE:
+  description:
+  - '&7由鋁青銅製成的顆粒'
+  name: '&f鋁青銅顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_ANNIVERSARIUM:
+  description:
+  - '&710 年的 (黏液) 歡樂時光！'
+  name: '&fAnniversarium顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_BILLON:
+  description:
+  - '&7由比隆合金製成的顆粒'
+  name: '&f比隆合金顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_BOOMERITE:
+  description:
+  - '&7由 Boomerite 製成的顆粒'
+  name: '&fBoomerite顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_BRASS:
+  description:
+  - '&7由黃銅製成的顆粒'
+  name: '&f黃銅顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_BRONZE:
+  description:
+  - '&7由青銅製成的顆粒'
+  name: '&f青銅顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_COAL:
+  description:
+  - '&7由液化煤炭製成的顆粒'
+  name: '&f煤炭顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_COBALT:
+  description:
+  - '&7由鈷製成的顆粒'
+  name: '&f鈷顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_COPPER:
+  description:
+  - '&7由純銅製成的顆粒'
+  name: '&f銅顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_COR_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的顆粒'
+  name: '&f科林斯青銅顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_CRINGLEIUM:
+  description:
+  - '&7由 Cringleium 製成的顆粒。'
+  name: '&fCringleium顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的顆粒'
+  name: '&f大馬士革鋼顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAXI_ABSORPTION:
+  description:
+  - '&7散發著堅毅氣息的 Daxi 顆粒。'
+  name: '&f吸收 Daxi 顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAXI_FORTITUDE:
+  description:
+  - '&7散發著不屈氣息的 Daxi 顆粒。'
+  name: '&f堅毅 Daxi 顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAXI_REGENERATION:
+  description:
+  - '&7散發著仁慈氣息的 Daxi 顆粒。'
+  name: '&f再生 Daxi 顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAXI_SATURATION:
+  description:
+  - '&7散發著暖意的 Daxi 顆粒。'
+  name: '&f飽食 Daxi 顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAXI_STRENGTH:
+  description:
+  - '&7散發著力量氣息的 Daxi 顆粒。'
+  name: '&f力量 Daxi 顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DEVOTION:
+  description:
+  - '&7由某種概念凝成的顆粒'
+  - '&7的虔誠。'
+  name: '&f虔誠顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DURALIUM:
+  description:
+  - '&7由 Duralium 製成的顆粒'
+  name: '&fDuralium顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_FERROSILICON:
+  description:
+  - '&7由矽鐵製成的顆粒'
+  name: '&f矽鐵顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_FONDNESS:
+  description:
+  - '&7由某種概念凝成的顆粒'
+  - '&7的喜愛。'
+  name: '&f喜愛顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_HARD_METAL:
+  description:
+  - '&7由硬化金屬製成的顆粒'
+  name: '&f硬化金屬顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_INFINITY:
+  description:
+  - '&7由純粹的無限製成的顆粒……沒錯！'
+  name: '&f無限顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_IRIDIUM:
+  description:
+  - '&7一顆銥顆粒'
+  name: '&f銥顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_LEAD:
+  description:
+  - '&7由純鉛製成的顆粒'
+  name: '&f鉛顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_LOVE:
+  description:
+  - '&7這顆粒所散發的，只有'
+  - '&7純粹而毫無雜質的愛。'
+  name: '&f愛顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_MAGNESIUM:
+  description:
+  - '&7由純鎂製成的顆粒'
+  name: '&f鎂顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_MAGNONIUM:
+  description:
+  - '&7由純 Magnonium 製成的顆粒'
+  name: '&fMagnonium顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_MAGSTEEL:
+  description:
+  - '&7由純鎂鋼製成的顆粒'
+  name: '&f鎂鋼顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_MAG_THOR:
+  description:
+  - '&7一顆鎂釷合金顆粒'
+  name: '&f鎂釷合金顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_MIXED_METAL:
+  description:
+  - '&7一顆混合金屬顆粒'
+  name: '&f混合金屬顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_MYTHRIL:
+  description:
+  - '&7由純秘銀製成的顆粒'
+  name: '&f秘銀顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_NICE:
+  description:
+  - '&7美好'
+  name: '&f美好顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_NICKEL:
+  description:
+  - '&7由鎳製成的顆粒'
+  name: '&f鎳顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_OSMIUM:
+  description:
+  - '&7一顆鋨顆粒'
+  name: '&f鋨顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  description:
+  - '&7一顆鋨超合金顆粒'
+  name: '&f鋨超合金顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_PASSION:
+  description:
+  - '&7由某種概念凝成的顆粒'
+  - '&7的熱情。'
+  name: '&f熱情顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_REDSTONE_ALLOY:
+  description:
+  - '&7由紅石合金製成的顆粒'
+  name: '&f紅石合金顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_REFINED_IRON:
+  description:
+  - '&7一顆精煉鐵顆粒'
+  name: '&f精煉鐵顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_REINFORCED:
+  description:
+  - '&7由強化合金製成的顆粒'
+  name: '&f強化合金顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7這金屬錠滿溢著一股'
+  - '&7無與倫比的狂怒。'
+  name: '&f強化龍晶顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  description:
+  - '&7一顆強化黏液鋼顆粒'
+  name: '&f強化黏液鋼顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_SCRAP:
+  description:
+  - '&7一顆廢料顆粒'
+  name: '&f廢料顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_SEFIRITE:
+  description:
+  - '&7由 Sefirite 製成的顆粒'
+  name: '&fSefirite顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_SILVER:
+  description:
+  - '&7由純銀製成的顆粒'
+  name: '&f銀顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_SLIMESTEEL:
+  description:
+  - '&7一顆黏液鋼顆粒'
+  name: '&f黏液鋼顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_SMITHIUM:
+  description:
+  - '&7樸實無華、用途廣泛的金屬'
+  - '&7在核心工業作業之中。'
+  name: '&fSmithium顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_SOLDER:
+  description:
+  - '&7由焊錫製成的顆粒'
+  name: '&f焊錫顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_STAINLESSSTEEL:
+  description:
+  - '&7一顆不鏽鋼顆粒'
+  name: '&f不鏽鋼顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_STEEL:
+  description:
+  - '&7由純鋼製成的顆粒'
+  name: '&f鋼顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_TIN:
+  description:
+  - '&7由純錫製成的顆粒'
+  name: '&f錫顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_TITANIUM:
+  description:
+  - '&7由純鈦製成的顆粒'
+  name: '&f鈦顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_UNPATENTABILUM:
+  description:
+  - '&7一顆 Unpatentabilum 顆粒'
+  name: '&fUnpatentabilum顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_ZINC:
+  description:
+  - '&7由純鋅製成的顆粒'
+  name: '&f鋅顆粒'
   type:
   - '&7&o資源'
 OROBORUS_TRAIT_PROP_LINKS_INFINITE_INGOT:
+  description:
+  - '&7有 20% 機率反彈所受的傷害。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f銜尾蛇'
   type:
   - '&7&o元件'
 OXYGENATED_TRAIT_PROP_LINKS_MAGNONIUM:
+  description:
+  - '&7手持時給予水下呼吸。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f充氧'
   type:
   - '&7&o元件'
 OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
+  description:
+  - '&7手持時給予水下呼吸。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f充氧'
   type:
   - '&7&o元件'
 PART_AXE_HEAD:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f斧刃'
   type:
   - '&7&o元件'
 PART_AXE_HEAD_DUMMY:
+  description:
+  - '&7鑄造成形的斧刃。'
+  name: '&f部件:斧刃'
   type:
   - '&7&o元件'
 PART_BINDING_CARBON_MESH:
+  description:
+  - '&7由碳纖維網製成的綁帶。'
+  name: '&f碳纖維網綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_CRIMSON_ROOT:
+  description:
+  - '&7由緋紅菌根製成的綁帶。'
+  name: '&f緋紅菌根綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_DUMMY:
+  description:
+  - '&7用來把各部件固定在一起的綁帶。'
+  name: '&f部件:綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_GENERAL_DISPLAY:
+  description:
+  - '&7適合製作綁帶的材料。'
+  - '&7這不只是普通的線，試著搭配'
+  - '&7類似的材料。'
+  name: '&f綁帶材料'
   type:
   - '&7&o元件'
 PART_BINDING_GHOSTLY_ESSENCE:
+  description:
+  - '&7由幽靈精華製成的綁帶。'
+  name: '&f幽靈精華綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_LEATHER:
+  description:
+  - '&7由皮革製成的綁帶。'
+  name: '&f皮革綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_RUBBER:
+  description:
+  - '&7由橡膠製成的綁帶。'
+  name: '&f橡膠綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_SILICON:
+  description:
+  - '&7由矽製成的綁帶。'
+  name: '&f矽綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_SLIME:
+  description:
+  - '&7由黏液製成的綁帶。'
+  name: '&f黏液綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_STRING:
+  description:
+  - '&7由線製成的綁帶。'
+  name: '&f線綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_TWISTED_VINE:
+  description:
+  - '&7由纏繞藤蔓製成的綁帶。'
+  name: '&f纏繞藤蔓綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_VEX_GEM:
+  description:
+  - '&7由惡靈寶石製成的綁帶。'
+  name: '&f惡靈寶石綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_VINE:
+  description:
+  - '&7由藤蔓製成的綁帶。'
+  name: '&f藤蔓綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_WARPED_ROOT:
+  description:
+  - '&7由扭曲菌根製成的綁帶。'
+  name: '&f扭曲菌根綁帶'
   type:
   - '&7&o元件'
 PART_BINDING_WEEPING_VINE:
+  description:
+  - '&7由垂泣藤蔓製成的綁帶。'
+  name: '&f垂泣藤蔓綁帶'
   type:
   - '&7&o元件'
 PART_BOOTS_PLATES:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f靴甲片'
   type:
   - '&7&o元件'
 PART_BOOT_PLATE_DUMMY:
+  description:
+  - '&7鑄造成形的護腿甲片組。'
+  name: '&f部件: 靴甲片'
   type:
   - '&7&o元件'
 PART_CHEST_PLATES:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f胸甲片'
   type:
   - '&7&o元件'
 PART_CHEST_PLATE_DUMMY:
+  description:
+  - '&7鑄造成形的胸甲片組。'
+  name: '&f部件: 胸甲甲片'
   type:
   - '&7&o元件'
 PART_GAMBESON_CARBON_MESH:
+  description:
+  - '&7由碳纖維網製成的襯衣。'
+  name: '&f碳纖維網襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_CRIMSON_ROOT:
+  description:
+  - '&7由緋紅菌根製成的襯衣。'
+  name: '&f緋紅菌根襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_DUMMY:
+  description:
+  - '&7穿在盔甲底下的布製衣物'
+  name: '&f部件:襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_GENERAL_DISPLAY:
+  description:
+  - '&7適合製作襯衣的材料。'
+  - '&7這不只是普通的線，試著搭配'
+  - '&7類似的材料。'
+  name: '&f襯衣材料'
   type:
   - '&7&o元件'
 PART_GAMBESON_GHOSTLY_ESSENCE:
+  description:
+  - '&7由幽靈精華製成的襯衣。'
+  name: '&f幽靈精華襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_LEATHER:
+  description:
+  - '&7由皮革製成的襯衣。'
+  name: '&f皮革襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_RUBBER:
+  description:
+  - '&7由橡膠製成的襯衣。'
+  name: '&f橡膠襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_SILICON:
+  description:
+  - '&7由矽製成的襯衣。'
+  name: '&f矽襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_SLIME:
+  description:
+  - '&7由黏液製成的襯衣。'
+  name: '&f黏液襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_STRING:
+  description:
+  - '&7由線製成的襯衣。'
+  name: '&f線襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_TWISTED_VINE:
+  description:
+  - '&7由纏繞藤蔓製成的襯衣。'
+  name: '&f纏繞藤蔓襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_VEX_GEM:
+  description:
+  - '&7由惡靈寶石製成的襯衣。'
+  name: '&f惡靈寶石襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_VINE:
+  description:
+  - '&7由藤蔓製成的襯衣。'
+  name: '&f藤蔓襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_WARPED_ROOT:
+  description:
+  - '&7由扭曲菌根製成的襯衣。'
+  name: '&f扭曲菌根襯衣'
   type:
   - '&7&o元件'
 PART_GAMBESON_WEEPING_VINE:
+  description:
+  - '&7由垂泣藤蔓製成的襯衣。'
+  name: '&f垂泣藤蔓襯衣'
   type:
   - '&7&o元件'
 PART_HEAD_AXEADAMANTITE:
+  description:
+  - '&7由精金製成的工具頭部。'
+  name: '&f精金斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的工具頭部。'
+  name: '&f進階合金斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEALUMINUM:
+  description:
+  - '&7由鋁製成的工具頭部。'
+  name: '&f鋁斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的工具頭部。'
+  name: '&f鋁黃銅斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的工具頭部。'
+  name: '&f鋁青銅斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的工具頭部。'
+  name: '&f鋁奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEBILLON:
+  description:
+  - '&7由比隆合金製成的工具頭部。'
+  name: '&f比隆合金斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEBOOMERITE:
+  description:
+  - '&7由Boomerite製成的工具頭部。'
+  name: '&fBoomerite斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEBRASS:
+  description:
+  - '&7由黃銅製成的工具頭部。'
+  name: '&f黃銅斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEBRONZE:
+  description:
+  - '&7由青銅製成的工具頭部。'
+  name: '&f青銅斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXECOBALT:
+  description:
+  - '&7由鈷製成的工具頭部。'
+  name: '&f鈷斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXECOPPER:
+  description:
+  - '&7由銅製成的工具頭部。'
+  name: '&f銅斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXECOPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的工具頭部。'
+  name: '&f銅奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXECORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的工具頭部。'
+  name: '&f科林斯青銅斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEDAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的工具頭部。'
+  name: '&f大馬士革鋼斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEDURALIUM:
+  description:
+  - '&7由Duralium製成的工具頭部。'
+  name: '&fDuralium斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEEARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的工具頭部。'
+  name: '&f大地奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEFERROSILICON:
+  description:
+  - '&7由矽鐵製成的工具頭部。'
+  name: '&f矽鐵斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEFORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的工具頭部。'
+  name: '&f幸運奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEGOLD:
+  description:
+  - '&7由黃金製成的工具頭部。'
+  name: '&f黃金斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEGOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的工具頭部。'
+  name: '&f黃金奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEHARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的工具頭部。'
+  name: '&f硬化金屬斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEINFINITE:
+  description:
+  - '&7由無盡製成的工具頭部。'
+  name: '&f無盡斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEINFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的工具頭部。'
+  name: '&f無限奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEIRIDIUM:
+  description:
+  - '&7由銥製成的工具頭部。'
+  name: '&f銥斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEIRON:
+  description:
+  - '&7由鐵製成的工具頭部。'
+  name: '&f鐵斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEIRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的工具頭部。'
+  name: '&f鐵奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXELEAD:
+  description:
+  - '&7由鉛製成的工具頭部。'
+  name: '&f鉛斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXELEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的工具頭部。'
+  name: '&f鉛奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的工具頭部。'
+  name: '&f魔法奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMAGNESIUM:
+  description:
+  - '&7由鎂製成的工具頭部。'
+  name: '&f鎂斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的工具頭部。'
+  name: '&f鎂奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMAGNONIUM:
+  description:
+  - '&7由Magnonium製成的工具頭部。'
+  name: '&fMagnonium斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的工具頭部。'
+  name: '&f鎂鋼斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的工具頭部。'
+  name: '&f鎂釷合金斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMETAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的工具頭部。'
+  name: '&f金屬奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMIXED_METAL:
+  description:
+  - '&7由混合金屬製成的工具頭部。'
+  name: '&f混合金屬斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMYTHRIL:
+  description:
+  - '&7由秘銀製成的工具頭部。'
+  name: '&f秘銀斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXENICEINIUM:
+  description:
+  - '&7由Niceinium製成的工具頭部。'
+  name: '&fNiceinium斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXENICKEL:
+  description:
+  - '&7由鎳製成的工具頭部。'
+  name: '&f鎳斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEREFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的工具頭部。'
+  name: '&f精煉鐵斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEREINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的工具頭部。'
+  name: '&f強化合金斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEREINFORCED_DRACONIUM:
+  description:
+  - '&7由強化龍晶製成的工具頭部。'
+  name: '&f強化龍晶斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXESCRAP:
+  description:
+  - '&7由廢料製成的工具頭部。'
+  name: '&f廢料斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXESILVER:
+  description:
+  - '&7由銀製成的工具頭部。'
+  name: '&f銀斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXESILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的工具頭部。'
+  name: '&f銀奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXESMITHIUM:
+  description:
+  - '&7由Smithium製成的工具頭部。'
+  name: '&fSmithium斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXESOLDER:
+  description:
+  - '&7由焊錫製成的工具頭部。'
+  name: '&f焊錫斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXESTAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的工具頭部。'
+  name: '&f不鏽鋼斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXESTAR_DUST:
+  description:
+  - '&7由星塵製成的工具頭部。'
+  name: '&f星塵斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXESTEEL:
+  description:
+  - '&7由鋼製成的工具頭部。'
+  name: '&f鋼斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXETESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的工具頭部。'
+  name: '&f超立方材料斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXETIN:
+  description:
+  - '&7由錫製成的工具頭部。'
+  name: '&f錫斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXETIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的工具頭部。'
+  name: '&f錫奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXETITANIUM:
+  description:
+  - '&7由鈦製成的工具頭部。'
+  name: '&f鈦斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEVOID:
+  description:
+  - '&7由虛空製成的工具頭部。'
+  name: '&f虛空斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEZINC:
+  description:
+  - '&7由鋅製成的工具頭部。'
+  name: '&f鋅斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的工具頭部。'
+  name: '&f鋅奇點斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEADAMANTITE:
+  description:
+  - '&7由精金製成的工具頭部。'
+  name: '&f精金鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的工具頭部。'
+  name: '&f進階合金鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEALUMINUM:
+  description:
+  - '&7由鋁製成的工具頭部。'
+  name: '&f鋁鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的工具頭部。'
+  name: '&f鋁黃銅鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的工具頭部。'
+  name: '&f鋁青銅鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的工具頭部。'
+  name: '&f鋁奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEBILLON:
+  description:
+  - '&7由比隆合金製成的工具頭部。'
+  name: '&f比隆合金鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEBOOMERITE:
+  description:
+  - '&7由Boomerite製成的工具頭部。'
+  name: '&fBoomerite鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEBRASS:
+  description:
+  - '&7由黃銅製成的工具頭部。'
+  name: '&f黃銅鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEBRONZE:
+  description:
+  - '&7由青銅製成的工具頭部。'
+  name: '&f青銅鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOECOBALT:
+  description:
+  - '&7由鈷製成的工具頭部。'
+  name: '&f鈷鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOECOPPER:
+  description:
+  - '&7由銅製成的工具頭部。'
+  name: '&f銅鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOECOPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的工具頭部。'
+  name: '&f銅奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOECORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的工具頭部。'
+  name: '&f科林斯青銅鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEDAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的工具頭部。'
+  name: '&f大馬士革鋼鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEDURALIUM:
+  description:
+  - '&7由Duralium製成的工具頭部。'
+  name: '&fDuralium鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEEARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的工具頭部。'
+  name: '&f大地奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEFERROSILICON:
+  description:
+  - '&7由矽鐵製成的工具頭部。'
+  name: '&f矽鐵鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEFORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的工具頭部。'
+  name: '&f幸運奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEGOLD:
+  description:
+  - '&7由黃金製成的工具頭部。'
+  name: '&f黃金鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEGOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的工具頭部。'
+  name: '&f黃金奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEHARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的工具頭部。'
+  name: '&f硬化金屬鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEINFINITE:
+  description:
+  - '&7由無盡製成的工具頭部。'
+  name: '&f無盡鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEINFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的工具頭部。'
+  name: '&f無限奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEIRIDIUM:
+  description:
+  - '&7由銥製成的工具頭部。'
+  name: '&f銥鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEIRON:
+  description:
+  - '&7由鐵製成的工具頭部。'
+  name: '&f鐵鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEIRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的工具頭部。'
+  name: '&f鐵奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOELEAD:
+  description:
+  - '&7由鉛製成的工具頭部。'
+  name: '&f鉛鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOELEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的工具頭部。'
+  name: '&f鉛奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的工具頭部。'
+  name: '&f魔法奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMAGNESIUM:
+  description:
+  - '&7由鎂製成的工具頭部。'
+  name: '&f鎂鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的工具頭部。'
+  name: '&f鎂奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMAGNONIUM:
+  description:
+  - '&7由Magnonium製成的工具頭部。'
+  name: '&fMagnonium鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的工具頭部。'
+  name: '&f鎂鋼鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的工具頭部。'
+  name: '&f鎂釷合金鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMETAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的工具頭部。'
+  name: '&f金屬奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMIXED_METAL:
+  description:
+  - '&7由混合金屬製成的工具頭部。'
+  name: '&f混合金屬鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMYTHRIL:
+  description:
+  - '&7由秘銀製成的工具頭部。'
+  name: '&f秘銀鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOENICEINIUM:
+  description:
+  - '&7由Niceinium製成的工具頭部。'
+  name: '&fNiceinium鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOENICKEL:
+  description:
+  - '&7由鎳製成的工具頭部。'
+  name: '&f鎳鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEREFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的工具頭部。'
+  name: '&f精煉鐵鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEREINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的工具頭部。'
+  name: '&f強化合金鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEREINFORCED_DRACONIUM:
+  description:
+  - '&7由強化龍晶製成的工具頭部。'
+  name: '&f強化龍晶鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOESCRAP:
+  description:
+  - '&7由廢料製成的工具頭部。'
+  name: '&f廢料鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOESILVER:
+  description:
+  - '&7由銀製成的工具頭部。'
+  name: '&f銀鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOESILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的工具頭部。'
+  name: '&f銀奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOESMITHIUM:
+  description:
+  - '&7由Smithium製成的工具頭部。'
+  name: '&fSmithium鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOESOLDER:
+  description:
+  - '&7由焊錫製成的工具頭部。'
+  name: '&f焊錫鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOESTAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的工具頭部。'
+  name: '&f不鏽鋼鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOESTAR_DUST:
+  description:
+  - '&7由星塵製成的工具頭部。'
+  name: '&f星塵鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOESTEEL:
+  description:
+  - '&7由鋼製成的工具頭部。'
+  name: '&f鋼鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOETESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的工具頭部。'
+  name: '&f超立方材料鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOETIN:
+  description:
+  - '&7由錫製成的工具頭部。'
+  name: '&f錫鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOETIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的工具頭部。'
+  name: '&f錫奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOETITANIUM:
+  description:
+  - '&7由鈦製成的工具頭部。'
+  name: '&f鈦鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEVOID:
+  description:
+  - '&7由虛空製成的工具頭部。'
+  name: '&f虛空鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEZINC:
+  description:
+  - '&7由鋅製成的工具頭部。'
+  name: '&f鋅鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的工具頭部。'
+  name: '&f鋅奇點鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_PICKADAMANTITE:
+  description:
+  - '&7由精金製成的工具頭部。'
+  name: '&f精金鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的工具頭部。'
+  name: '&f進階合金鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKALUMINUM:
+  description:
+  - '&7由鋁製成的工具頭部。'
+  name: '&f鋁鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的工具頭部。'
+  name: '&f鋁黃銅鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的工具頭部。'
+  name: '&f鋁青銅鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的工具頭部。'
+  name: '&f鋁奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKBILLON:
+  description:
+  - '&7由比隆合金製成的工具頭部。'
+  name: '&f比隆合金鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKBOOMERITE:
+  description:
+  - '&7由Boomerite製成的工具頭部。'
+  name: '&fBoomerite鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKBRASS:
+  description:
+  - '&7由黃銅製成的工具頭部。'
+  name: '&f黃銅鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKBRONZE:
+  description:
+  - '&7由青銅製成的工具頭部。'
+  name: '&f青銅鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKCOBALT:
+  description:
+  - '&7由鈷製成的工具頭部。'
+  name: '&f鈷鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKCOPPER:
+  description:
+  - '&7由銅製成的工具頭部。'
+  name: '&f銅鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKCOPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的工具頭部。'
+  name: '&f銅奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKCORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的工具頭部。'
+  name: '&f科林斯青銅鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKDAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的工具頭部。'
+  name: '&f大馬士革鋼鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKDURALIUM:
+  description:
+  - '&7由Duralium製成的工具頭部。'
+  name: '&fDuralium鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKEARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的工具頭部。'
+  name: '&f大地奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKFERROSILICON:
+  description:
+  - '&7由矽鐵製成的工具頭部。'
+  name: '&f矽鐵鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKFORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的工具頭部。'
+  name: '&f幸運奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKGOLD:
+  description:
+  - '&7由黃金製成的工具頭部。'
+  name: '&f黃金鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKGOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的工具頭部。'
+  name: '&f黃金奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKHARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的工具頭部。'
+  name: '&f硬化金屬鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKINFINITE:
+  description:
+  - '&7由無盡製成的工具頭部。'
+  name: '&f無盡鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKINFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的工具頭部。'
+  name: '&f無限奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKIRIDIUM:
+  description:
+  - '&7由銥製成的工具頭部。'
+  name: '&f銥鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKIRON:
+  description:
+  - '&7由鐵製成的工具頭部。'
+  name: '&f鐵鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKIRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的工具頭部。'
+  name: '&f鐵奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKLEAD:
+  description:
+  - '&7由鉛製成的工具頭部。'
+  name: '&f鉛鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKLEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的工具頭部。'
+  name: '&f鉛奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的工具頭部。'
+  name: '&f魔法奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMAGNESIUM:
+  description:
+  - '&7由鎂製成的工具頭部。'
+  name: '&f鎂鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的工具頭部。'
+  name: '&f鎂奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMAGNONIUM:
+  description:
+  - '&7由Magnonium製成的工具頭部。'
+  name: '&fMagnonium鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的工具頭部。'
+  name: '&f鎂鋼鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的工具頭部。'
+  name: '&f鎂釷合金鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMETAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的工具頭部。'
+  name: '&f金屬奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMIXED_METAL:
+  description:
+  - '&7由混合金屬製成的工具頭部。'
+  name: '&f混合金屬鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMYTHRIL:
+  description:
+  - '&7由秘銀製成的工具頭部。'
+  name: '&f秘銀鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKNICEINIUM:
+  description:
+  - '&7由Niceinium製成的工具頭部。'
+  name: '&fNiceinium鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKNICKEL:
+  description:
+  - '&7由鎳製成的工具頭部。'
+  name: '&f鎳鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKREFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的工具頭部。'
+  name: '&f精煉鐵鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKREINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的工具頭部。'
+  name: '&f強化合金鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKREINFORCED_DRACONIUM:
+  description:
+  - '&7由強化龍晶製成的工具頭部。'
+  name: '&f強化龍晶鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKSCRAP:
+  description:
+  - '&7由廢料製成的工具頭部。'
+  name: '&f廢料鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKSILVER:
+  description:
+  - '&7由銀製成的工具頭部。'
+  name: '&f銀鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKSILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的工具頭部。'
+  name: '&f銀奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKSMITHIUM:
+  description:
+  - '&7由Smithium製成的工具頭部。'
+  name: '&fSmithium鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKSOLDER:
+  description:
+  - '&7由焊錫製成的工具頭部。'
+  name: '&f焊錫鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKSTAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的工具頭部。'
+  name: '&f不鏽鋼鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKSTAR_DUST:
+  description:
+  - '&7由星塵製成的工具頭部。'
+  name: '&f星塵鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKSTEEL:
+  description:
+  - '&7由鋼製成的工具頭部。'
+  name: '&f鋼鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKTESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的工具頭部。'
+  name: '&f超立方材料鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKTIN:
+  description:
+  - '&7由錫製成的工具頭部。'
+  name: '&f錫鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKTIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的工具頭部。'
+  name: '&f錫奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKTITANIUM:
+  description:
+  - '&7由鈦製成的工具頭部。'
+  name: '&f鈦鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKVOID:
+  description:
+  - '&7由虛空製成的工具頭部。'
+  name: '&f虛空鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKZINC:
+  description:
+  - '&7由鋅製成的工具頭部。'
+  name: '&f鋅鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的工具頭部。'
+  name: '&f鋅奇點鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELADAMANTITE:
+  description:
+  - '&7由精金製成的工具頭部。'
+  name: '&f精金鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的工具頭部。'
+  name: '&f進階合金鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELALUMINUM:
+  description:
+  - '&7由鋁製成的工具頭部。'
+  name: '&f鋁鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的工具頭部。'
+  name: '&f鋁黃銅鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的工具頭部。'
+  name: '&f鋁青銅鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的工具頭部。'
+  name: '&f鋁奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELBILLON:
+  description:
+  - '&7由比隆合金製成的工具頭部。'
+  name: '&f比隆合金鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELBOOMERITE:
+  description:
+  - '&7由Boomerite製成的工具頭部。'
+  name: '&fBoomerite鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELBRASS:
+  description:
+  - '&7由黃銅製成的工具頭部。'
+  name: '&f黃銅鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELBRONZE:
+  description:
+  - '&7由青銅製成的工具頭部。'
+  name: '&f青銅鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELCOBALT:
+  description:
+  - '&7由鈷製成的工具頭部。'
+  name: '&f鈷鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELCOPPER:
+  description:
+  - '&7由銅製成的工具頭部。'
+  name: '&f銅鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELCOPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的工具頭部。'
+  name: '&f銅奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELCORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的工具頭部。'
+  name: '&f科林斯青銅鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELDAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的工具頭部。'
+  name: '&f大馬士革鋼鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELDURALIUM:
+  description:
+  - '&7由Duralium製成的工具頭部。'
+  name: '&fDuralium鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELEARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的工具頭部。'
+  name: '&f大地奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELFERROSILICON:
+  description:
+  - '&7由矽鐵製成的工具頭部。'
+  name: '&f矽鐵鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELFORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的工具頭部。'
+  name: '&f幸運奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELGOLD:
+  description:
+  - '&7由黃金製成的工具頭部。'
+  name: '&f黃金鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELGOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的工具頭部。'
+  name: '&f黃金奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELHARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的工具頭部。'
+  name: '&f硬化金屬鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELINFINITE:
+  description:
+  - '&7由無盡製成的工具頭部。'
+  name: '&f無盡鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELINFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的工具頭部。'
+  name: '&f無限奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELIRIDIUM:
+  description:
+  - '&7由銥製成的工具頭部。'
+  name: '&f銥鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELIRON:
+  description:
+  - '&7由鐵製成的工具頭部。'
+  name: '&f鐵鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELIRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的工具頭部。'
+  name: '&f鐵奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELLEAD:
+  description:
+  - '&7由鉛製成的工具頭部。'
+  name: '&f鉛鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELLEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的工具頭部。'
+  name: '&f鉛奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的工具頭部。'
+  name: '&f魔法奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMAGNESIUM:
+  description:
+  - '&7由鎂製成的工具頭部。'
+  name: '&f鎂鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的工具頭部。'
+  name: '&f鎂奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMAGNONIUM:
+  description:
+  - '&7由Magnonium製成的工具頭部。'
+  name: '&fMagnonium鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的工具頭部。'
+  name: '&f鎂鋼鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的工具頭部。'
+  name: '&f鎂釷合金鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMETAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的工具頭部。'
+  name: '&f金屬奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMIXED_METAL:
+  description:
+  - '&7由混合金屬製成的工具頭部。'
+  name: '&f混合金屬鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMYTHRIL:
+  description:
+  - '&7由秘銀製成的工具頭部。'
+  name: '&f秘銀鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELNICEINIUM:
+  description:
+  - '&7由Niceinium製成的工具頭部。'
+  name: '&fNiceinium鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELNICKEL:
+  description:
+  - '&7由鎳製成的工具頭部。'
+  name: '&f鎳鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELREFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的工具頭部。'
+  name: '&f精煉鐵鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELREINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的工具頭部。'
+  name: '&f強化合金鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELREINFORCED_DRACONIUM:
+  description:
+  - '&7由強化龍晶製成的工具頭部。'
+  name: '&f強化龍晶鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELSCRAP:
+  description:
+  - '&7由廢料製成的工具頭部。'
+  name: '&f廢料鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELSILVER:
+  description:
+  - '&7由銀製成的工具頭部。'
+  name: '&f銀鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELSILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的工具頭部。'
+  name: '&f銀奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELSMITHIUM:
+  description:
+  - '&7由Smithium製成的工具頭部。'
+  name: '&fSmithium鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELSOLDER:
+  description:
+  - '&7由焊錫製成的工具頭部。'
+  name: '&f焊錫鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELSTAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的工具頭部。'
+  name: '&f不鏽鋼鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELSTAR_DUST:
+  description:
+  - '&7由星塵製成的工具頭部。'
+  name: '&f星塵鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELSTEEL:
+  description:
+  - '&7由鋼製成的工具頭部。'
+  name: '&f鋼鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELTESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的工具頭部。'
+  name: '&f超立方材料鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELTIN:
+  description:
+  - '&7由錫製成的工具頭部。'
+  name: '&f錫鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELTIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的工具頭部。'
+  name: '&f錫奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELTITANIUM:
+  description:
+  - '&7由鈦製成的工具頭部。'
+  name: '&f鈦鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELVOID:
+  description:
+  - '&7由虛空製成的工具頭部。'
+  name: '&f虛空鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELZINC:
+  description:
+  - '&7由鋅製成的工具頭部。'
+  name: '&f鋅鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的工具頭部。'
+  name: '&f鋅奇點鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDADAMANTITE:
+  description:
+  - '&7由精金製成的工具頭部。'
+  name: '&f精金劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的工具頭部。'
+  name: '&f進階合金劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDALUMINUM:
+  description:
+  - '&7由鋁製成的工具頭部。'
+  name: '&f鋁劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的工具頭部。'
+  name: '&f鋁黃銅劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的工具頭部。'
+  name: '&f鋁青銅劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的工具頭部。'
+  name: '&f鋁奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDBILLON:
+  description:
+  - '&7由比隆合金製成的工具頭部。'
+  name: '&f比隆合金劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDBOOMERITE:
+  description:
+  - '&7由Boomerite製成的工具頭部。'
+  name: '&fBoomerite劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDBRASS:
+  description:
+  - '&7由黃銅製成的工具頭部。'
+  name: '&f黃銅劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDBRONZE:
+  description:
+  - '&7由青銅製成的工具頭部。'
+  name: '&f青銅劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDCOBALT:
+  description:
+  - '&7由鈷製成的工具頭部。'
+  name: '&f鈷劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDCOPPER:
+  description:
+  - '&7由銅製成的工具頭部。'
+  name: '&f銅劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDCOPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的工具頭部。'
+  name: '&f銅奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDCORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的工具頭部。'
+  name: '&f科林斯青銅劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDDAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的工具頭部。'
+  name: '&f大馬士革鋼劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDDURALIUM:
+  description:
+  - '&7由Duralium製成的工具頭部。'
+  name: '&fDuralium劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDEARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的工具頭部。'
+  name: '&f大地奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDFERROSILICON:
+  description:
+  - '&7由矽鐵製成的工具頭部。'
+  name: '&f矽鐵劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDFORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的工具頭部。'
+  name: '&f幸運奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDGOLD:
+  description:
+  - '&7由黃金製成的工具頭部。'
+  name: '&f黃金劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDGOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的工具頭部。'
+  name: '&f黃金奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDHARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的工具頭部。'
+  name: '&f硬化金屬劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDINFINITE:
+  description:
+  - '&7由無盡製成的工具頭部。'
+  name: '&f無盡劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDINFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的工具頭部。'
+  name: '&f無限奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDIRIDIUM:
+  description:
+  - '&7由銥製成的工具頭部。'
+  name: '&f銥劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDIRON:
+  description:
+  - '&7由鐵製成的工具頭部。'
+  name: '&f鐵劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDIRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的工具頭部。'
+  name: '&f鐵奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDLEAD:
+  description:
+  - '&7由鉛製成的工具頭部。'
+  name: '&f鉛劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDLEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的工具頭部。'
+  name: '&f鉛奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的工具頭部。'
+  name: '&f魔法奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMAGNESIUM:
+  description:
+  - '&7由鎂製成的工具頭部。'
+  name: '&f鎂劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的工具頭部。'
+  name: '&f鎂奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMAGNONIUM:
+  description:
+  - '&7由Magnonium製成的工具頭部。'
+  name: '&fMagnonium劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的工具頭部。'
+  name: '&f鎂鋼劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的工具頭部。'
+  name: '&f鎂釷合金劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMETAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的工具頭部。'
+  name: '&f金屬奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMIXED_METAL:
+  description:
+  - '&7由混合金屬製成的工具頭部。'
+  name: '&f混合金屬劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMYTHRIL:
+  description:
+  - '&7由秘銀製成的工具頭部。'
+  name: '&f秘銀劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDNICEINIUM:
+  description:
+  - '&7由Niceinium製成的工具頭部。'
+  name: '&fNiceinium劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDNICKEL:
+  description:
+  - '&7由鎳製成的工具頭部。'
+  name: '&f鎳劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDREFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的工具頭部。'
+  name: '&f精煉鐵劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDREINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的工具頭部。'
+  name: '&f強化合金劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDREINFORCED_DRACONIUM:
+  description:
+  - '&7由強化龍晶製成的工具頭部。'
+  name: '&f強化龍晶劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDSCRAP:
+  description:
+  - '&7由廢料製成的工具頭部。'
+  name: '&f廢料劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDSILVER:
+  description:
+  - '&7由銀製成的工具頭部。'
+  name: '&f銀劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDSILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的工具頭部。'
+  name: '&f銀奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDSMITHIUM:
+  description:
+  - '&7由Smithium製成的工具頭部。'
+  name: '&fSmithium劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDSOLDER:
+  description:
+  - '&7由焊錫製成的工具頭部。'
+  name: '&f焊錫劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDSTAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的工具頭部。'
+  name: '&f不鏽鋼劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDSTAR_DUST:
+  description:
+  - '&7由星塵製成的工具頭部。'
+  name: '&f星塵劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDSTEEL:
+  description:
+  - '&7由鋼製成的工具頭部。'
+  name: '&f鋼劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDTESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的工具頭部。'
+  name: '&f超立方材料劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDTIN:
+  description:
+  - '&7由錫製成的工具頭部。'
+  name: '&f錫劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDTIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的工具頭部。'
+  name: '&f錫奇點劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDTITANIUM:
+  description:
+  - '&7由鈦製成的工具頭部。'
+  name: '&f鈦劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDVOID:
+  description:
+  - '&7由虛空製成的工具頭部。'
+  name: '&f虛空劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDZINC:
+  description:
+  - '&7由鋅製成的工具頭部。'
+  name: '&f鋅劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的工具頭部。'
+  name: '&f鋅奇點劍首'
   type:
   - '&7&o元件'
 PART_HELM_PLATES:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f頭盔甲片'
   type:
   - '&7&o元件'
 PART_HELM_PLATE_DUMMY:
+  description:
+  - '&7鑄造成形的頭盔甲片組。'
+  name: '&f部件:頭盔甲片'
   type:
   - '&7&o元件'
 PART_HOE_HEAD:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f鋤刃'
   type:
   - '&7&o元件'
 PART_HOE_HEAD_DUMMY:
+  description:
+  - '&7鑄造成形的鋤刃。'
+  name: '&f部件:鋤刃'
   type:
   - '&7&o元件'
 PART_LEG_PLATES:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f護腿甲片'
   type:
   - '&7&o元件'
 PART_LEG_PLATE_DUMMY:
+  description:
+  - '&7鑄造成形的護腿甲片組。'
+  name: '&f部件: 護腿甲片'
   type:
   - '&7&o元件'
 PART_LINKS_ADAMANTITE:
+  description:
+  - '&7由精金製成的一組鎖環。'
+  name: '&f精金鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_ADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的一組鎖環。'
+  name: '&f進階合金鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_ALUMINUM:
+  description:
+  - '&7由鋁製成的一組鎖環。'
+  name: '&f鋁鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_ALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的一組鎖環。'
+  name: '&f鋁黃銅鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_ALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的一組鎖環。'
+  name: '&f鋁青銅鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_ALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的一組鎖環。'
+  name: '&f鋁奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_BILLON:
+  description:
+  - '&7由比隆合金製成的一組鎖環。'
+  name: '&f比隆合金鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_BRASS:
+  description:
+  - '&7由黃銅製成的一組鎖環。'
+  name: '&f黃銅鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_BRONZE:
+  description:
+  - '&7由青銅製成的一組鎖環。'
+  name: '&f青銅鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_COBALT:
+  description:
+  - '&7由鈷製成的一組鎖環。'
+  name: '&f鈷鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_COPPER:
+  description:
+  - '&7由銅製成的一組鎖環。'
+  name: '&f銅鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_COPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的一組鎖環。'
+  name: '&f銅奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_CORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的一組鎖環。'
+  name: '&f科林斯青銅鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_CRINGLEIUM:
+  description:
+  - '&7由Cringleium製成的一組鎖環。'
+  name: '&fCringleium鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_DAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的一組鎖環。'
+  name: '&f大馬士革鋼鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_DURALIUM:
+  description:
+  - '&7由Duralium製成的一組鎖環。'
+  name: '&fDuralium鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_EARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的一組鎖環。'
+  name: '&f大地奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_FERROSILICON:
+  description:
+  - '&7由矽鐵製成的一組鎖環。'
+  name: '&f矽鐵鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_FORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的一組鎖環。'
+  name: '&f幸運奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_GHOSTLY_ESSENCE:
+  description:
+  - '&7由幽靈精華製成的一組鎖環。'
+  name: '&f幽靈精華鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_GOLD:
+  description:
+  - '&7由黃金製成的一組鎖環。'
+  name: '&f黃金鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_GOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的一組鎖環。'
+  name: '&f黃金奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_HARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的一組鎖環。'
+  name: '&f硬化金屬鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_INFINITE:
+  description:
+  - '&7由無盡製成的一組鎖環。'
+  name: '&f無盡鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_INFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的一組鎖環。'
+  name: '&f無限奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_IRIDIUM:
+  description:
+  - '&7由銥製成的一組鎖環。'
+  name: '&f銥鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_IRON:
+  description:
+  - '&7由鐵製成的一組鎖環。'
+  name: '&f鐵鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_IRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的一組鎖環。'
+  name: '&f鐵奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_LEAD:
+  description:
+  - '&7由鉛製成的一組鎖環。'
+  name: '&f鉛鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_LEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的一組鎖環。'
+  name: '&f鉛奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_LIQUID_LOVE:
+  description:
+  - '&7由液態愛製成的一組鎖環。'
+  name: '&f液態愛鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_MAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的一組鎖環。'
+  name: '&f魔法奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_MAGNESIUM:
+  description:
+  - '&7由鎂製成的一組鎖環。'
+  name: '&f鎂鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的一組鎖環。'
+  name: '&f鎂奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_MAGNONIUM:
+  description:
+  - '&7由Magnonium製成的一組鎖環。'
+  name: '&fMagnonium鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_MAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的一組鎖環。'
+  name: '&f鎂鋼鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_MAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的一組鎖環。'
+  name: '&f鎂釷合金鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_METAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的一組鎖環。'
+  name: '&f金屬奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_MIXED_METAL:
+  description:
+  - '&7由混合金屬製成的一組鎖環。'
+  name: '&f混合金屬鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_MYTHRIL:
+  description:
+  - '&7由秘銀製成的一組鎖環。'
+  name: '&f秘銀鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_NICKEL:
+  description:
+  - '&7由鎳製成的一組鎖環。'
+  name: '&f鎳鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_REDSTONE_ALLOY:
+  description:
+  - '&7由紅石合金製成的一組鎖環。'
+  name: '&f紅石合金鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_REFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的一組鎖環。'
+  name: '&f精煉鐵鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_REINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的一組鎖環。'
+  name: '&f強化合金鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_SCRAP:
+  description:
+  - '&7由廢料製成的一組鎖環。'
+  name: '&f廢料鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_SILVER:
+  description:
+  - '&7由銀製成的一組鎖環。'
+  name: '&f銀鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_SILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的一組鎖環。'
+  name: '&f銀奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_SMITHIUM:
+  description:
+  - '&7由Smithium製成的一組鎖環。'
+  name: '&fSmithium鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_SOLDER:
+  description:
+  - '&7由焊錫製成的一組鎖環。'
+  name: '&f焊錫鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_STAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的一組鎖環。'
+  name: '&f不鏽鋼鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_STAR_DUST:
+  description:
+  - '&7由星塵製成的一組鎖環。'
+  name: '&f星塵鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_STEEL:
+  description:
+  - '&7由鋼製成的一組鎖環。'
+  name: '&f鋼鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_TESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的一組鎖環。'
+  name: '&f超立方材料鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_TIN:
+  description:
+  - '&7由錫製成的一組鎖環。'
+  name: '&f錫鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_TIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的一組鎖環。'
+  name: '&f錫奇點鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_TITANIUM:
+  description:
+  - '&7由鈦製成的一組鎖環。'
+  name: '&f鈦鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_ULTIMANINIUM:
+  description:
+  - '&7由Ultimaninium製成的一組鎖環。'
+  name: '&fUltimaninium鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_VOID:
+  description:
+  - '&7由虛空製成的一組鎖環。'
+  name: '&f虛空鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_ZINC:
+  description:
+  - '&7由鋅製成的一組鎖環。'
+  name: '&f鋅鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_ZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的一組鎖環。'
+  name: '&f鋅奇點鎖環'
   type:
   - '&7&o元件'
 PART_MAIL_LINKS_DUMMY:
+  description:
+  - '&7由鑄造金屬環扣成的柔軟網面'
+  name: '&f部件:鎖環'
   type:
   - '&7&o元件'
 PART_PICKAXE_HEAD:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f鎬頭'
   type:
   - '&7&o元件'
 PART_PICKAXE_HEAD_DUMMY:
+  description:
+  - '&7鑄造成形的鎬頭。'
+  name: '&f部件: 鎬頭部'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSADAMANTITE:
+  description:
+  - '&7由精金製成的一組盔甲甲片。'
+  name: '&f精金靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的一組盔甲甲片。'
+  name: '&f進階合金靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSALUMINUM:
+  description:
+  - '&7由鋁製成的一組盔甲甲片。'
+  name: '&f鋁靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的一組盔甲甲片。'
+  name: '&f鋁黃銅靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的一組盔甲甲片。'
+  name: '&f鋁青銅靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的一組盔甲甲片。'
+  name: '&f鋁奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSANNIVERSARIUM:
+  description:
+  - '&7由Anniversarium製成的一組盔甲甲片。'
+  name: '&fAnniversarium靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSBILLON:
+  description:
+  - '&7由比隆合金製成的一組盔甲甲片。'
+  name: '&f比隆合金靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSBOOMERITE:
+  description:
+  - '&7由Boomerite製成的一組盔甲甲片。'
+  name: '&fBoomerite靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSBRASS:
+  description:
+  - '&7由黃銅製成的一組盔甲甲片。'
+  name: '&f黃銅靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSBRONZE:
+  description:
+  - '&7由青銅製成的一組盔甲甲片。'
+  name: '&f青銅靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSCOBALT:
+  description:
+  - '&7由鈷製成的一組盔甲甲片。'
+  name: '&f鈷靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSCOPPER:
+  description:
+  - '&7由銅製成的一組盔甲甲片。'
+  name: '&f銅靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSCOPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的一組盔甲甲片。'
+  name: '&f銅奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSCORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的一組盔甲甲片。'
+  name: '&f科林斯青銅靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSDAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的一組盔甲甲片。'
+  name: '&f大馬士革鋼靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSDURALIUM:
+  description:
+  - '&7由Duralium製成的一組盔甲甲片。'
+  name: '&fDuralium靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSEARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的一組盔甲甲片。'
+  name: '&f大地奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSFERROSILICON:
+  description:
+  - '&7由矽鐵製成的一組盔甲甲片。'
+  name: '&f矽鐵靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSFORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的一組盔甲甲片。'
+  name: '&f幸運奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSGOLD:
+  description:
+  - '&7由黃金製成的一組盔甲甲片。'
+  name: '&f黃金靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSGOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的一組盔甲甲片。'
+  name: '&f黃金奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSHARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的一組盔甲甲片。'
+  name: '&f硬化金屬靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSINFINITE:
+  description:
+  - '&7由無盡製成的一組盔甲甲片。'
+  name: '&f無盡靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSINFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的一組盔甲甲片。'
+  name: '&f無限奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSIRIDIUM:
+  description:
+  - '&7由銥製成的一組盔甲甲片。'
+  name: '&f銥靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSIRON:
+  description:
+  - '&7由鐵製成的一組盔甲甲片。'
+  name: '&f鐵靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSIRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的一組盔甲甲片。'
+  name: '&f鐵奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSLEAD:
+  description:
+  - '&7由鉛製成的一組盔甲甲片。'
+  name: '&f鉛靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSLEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的一組盔甲甲片。'
+  name: '&f鉛奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的一組盔甲甲片。'
+  name: '&f魔法奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMAGNESIUM:
+  description:
+  - '&7由鎂製成的一組盔甲甲片。'
+  name: '&f鎂靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的一組盔甲甲片。'
+  name: '&f鎂奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMAGNONIUM:
+  description:
+  - '&7由Magnonium製成的一組盔甲甲片。'
+  name: '&fMagnonium靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的一組盔甲甲片。'
+  name: '&f鎂鋼靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的一組盔甲甲片。'
+  name: '&f鎂釷合金靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMETAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的一組盔甲甲片。'
+  name: '&f金屬奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMIXED_METAL:
+  description:
+  - '&7由混合金屬製成的一組盔甲甲片。'
+  name: '&f混合金屬靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMYTHRIL:
+  description:
+  - '&7由秘銀製成的一組盔甲甲片。'
+  name: '&f秘銀靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSNICKEL:
+  description:
+  - '&7由鎳製成的一組盔甲甲片。'
+  name: '&f鎳靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSREDSTONE_ALLOY:
+  description:
+  - '&7由紅石合金製成的一組盔甲甲片。'
+  name: '&f紅石合金靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSREFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的一組盔甲甲片。'
+  name: '&f精煉鐵靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSREINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的一組盔甲甲片。'
+  name: '&f強化合金靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSCRAP:
+  description:
+  - '&7由廢料製成的一組盔甲甲片。'
+  name: '&f廢料靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSEFIRITE:
+  description:
+  - '&7由Sefirite製成的一組盔甲甲片。'
+  name: '&fSefirite靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSILVER:
+  description:
+  - '&7由銀製成的一組盔甲甲片。'
+  name: '&f銀靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的一組盔甲甲片。'
+  name: '&f銀奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSMITHIUM:
+  description:
+  - '&7由Smithium製成的一組盔甲甲片。'
+  name: '&fSmithium靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSOLDER:
+  description:
+  - '&7由焊錫製成的一組盔甲甲片。'
+  name: '&f焊錫靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSTAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的一組盔甲甲片。'
+  name: '&f不鏽鋼靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSTAR_DUST:
+  description:
+  - '&7由星塵製成的一組盔甲甲片。'
+  name: '&f星塵靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSTEEL:
+  description:
+  - '&7由鋼製成的一組盔甲甲片。'
+  name: '&f鋼靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSTESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的一組盔甲甲片。'
+  name: '&f超立方材料靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSTIN:
+  description:
+  - '&7由錫製成的一組盔甲甲片。'
+  name: '&f錫靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSTIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的一組盔甲甲片。'
+  name: '&f錫奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSTITANIUM:
+  description:
+  - '&7由鈦製成的一組盔甲甲片。'
+  name: '&f鈦靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSVOID:
+  description:
+  - '&7由虛空製成的一組盔甲甲片。'
+  name: '&f虛空靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSZINC:
+  description:
+  - '&7由鋅製成的一組盔甲甲片。'
+  name: '&f鋅靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的一組盔甲甲片。'
+  name: '&f鋅奇點靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEADAMANTITE:
+  description:
+  - '&7由精金製成的一組盔甲甲片。'
+  name: '&f精金胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的一組盔甲甲片。'
+  name: '&f進階合金胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEALUMINUM:
+  description:
+  - '&7由鋁製成的一組盔甲甲片。'
+  name: '&f鋁胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的一組盔甲甲片。'
+  name: '&f鋁黃銅胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的一組盔甲甲片。'
+  name: '&f鋁青銅胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的一組盔甲甲片。'
+  name: '&f鋁奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
+  description:
+  - '&7由Anniversarium製成的一組盔甲甲片。'
+  name: '&fAnniversarium胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEBILLON:
+  description:
+  - '&7由比隆合金製成的一組盔甲甲片。'
+  name: '&f比隆合金胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEBOOMERITE:
+  description:
+  - '&7由Boomerite製成的一組盔甲甲片。'
+  name: '&fBoomerite胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEBRASS:
+  description:
+  - '&7由黃銅製成的一組盔甲甲片。'
+  name: '&f黃銅胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEBRONZE:
+  description:
+  - '&7由青銅製成的一組盔甲甲片。'
+  name: '&f青銅胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATECOBALT:
+  description:
+  - '&7由鈷製成的一組盔甲甲片。'
+  name: '&f鈷胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATECOPPER:
+  description:
+  - '&7由銅製成的一組盔甲甲片。'
+  name: '&f銅胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATECOPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的一組盔甲甲片。'
+  name: '&f銅奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的一組盔甲甲片。'
+  name: '&f科林斯青銅胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的一組盔甲甲片。'
+  name: '&f大馬士革鋼胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEDURALIUM:
+  description:
+  - '&7由Duralium製成的一組盔甲甲片。'
+  name: '&fDuralium胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的一組盔甲甲片。'
+  name: '&f大地奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEFERROSILICON:
+  description:
+  - '&7由矽鐵製成的一組盔甲甲片。'
+  name: '&f矽鐵胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEFORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的一組盔甲甲片。'
+  name: '&f幸運奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEGOLD:
+  description:
+  - '&7由黃金製成的一組盔甲甲片。'
+  name: '&f黃金胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEGOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的一組盔甲甲片。'
+  name: '&f黃金奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEHARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的一組盔甲甲片。'
+  name: '&f硬化金屬胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEINFINITE:
+  description:
+  - '&7由無盡製成的一組盔甲甲片。'
+  name: '&f無盡胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEINFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的一組盔甲甲片。'
+  name: '&f無限奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEIRIDIUM:
+  description:
+  - '&7由銥製成的一組盔甲甲片。'
+  name: '&f銥胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEIRON:
+  description:
+  - '&7由鐵製成的一組盔甲甲片。'
+  name: '&f鐵胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEIRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的一組盔甲甲片。'
+  name: '&f鐵奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATELEAD:
+  description:
+  - '&7由鉛製成的一組盔甲甲片。'
+  name: '&f鉛胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATELEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的一組盔甲甲片。'
+  name: '&f鉛奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的一組盔甲甲片。'
+  name: '&f魔法奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMAGNESIUM:
+  description:
+  - '&7由鎂製成的一組盔甲甲片。'
+  name: '&f鎂胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的一組盔甲甲片。'
+  name: '&f鎂奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMAGNONIUM:
+  description:
+  - '&7由Magnonium製成的一組盔甲甲片。'
+  name: '&fMagnonium胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的一組盔甲甲片。'
+  name: '&f鎂鋼胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的一組盔甲甲片。'
+  name: '&f鎂釷合金胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的一組盔甲甲片。'
+  name: '&f金屬奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMIXED_METAL:
+  description:
+  - '&7由混合金屬製成的一組盔甲甲片。'
+  name: '&f混合金屬胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMYTHRIL:
+  description:
+  - '&7由秘銀製成的一組盔甲甲片。'
+  name: '&f秘銀胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATENICKEL:
+  description:
+  - '&7由鎳製成的一組盔甲甲片。'
+  name: '&f鎳胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
+  description:
+  - '&7由紅石合金製成的一組盔甲甲片。'
+  name: '&f紅石合金胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEREFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的一組盔甲甲片。'
+  name: '&f精煉鐵胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的一組盔甲甲片。'
+  name: '&f強化合金胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESCRAP:
+  description:
+  - '&7由廢料製成的一組盔甲甲片。'
+  name: '&f廢料胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESEFIRITE:
+  description:
+  - '&7由Sefirite製成的一組盔甲甲片。'
+  name: '&fSefirite胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESILVER:
+  description:
+  - '&7由銀製成的一組盔甲甲片。'
+  name: '&f銀胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的一組盔甲甲片。'
+  name: '&f銀奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESMITHIUM:
+  description:
+  - '&7由Smithium製成的一組盔甲甲片。'
+  name: '&fSmithium胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESOLDER:
+  description:
+  - '&7由焊錫製成的一組盔甲甲片。'
+  name: '&f焊錫胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESTAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的一組盔甲甲片。'
+  name: '&f不鏽鋼胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESTAR_DUST:
+  description:
+  - '&7由星塵製成的一組盔甲甲片。'
+  name: '&f星塵胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESTEEL:
+  description:
+  - '&7由鋼製成的一組盔甲甲片。'
+  name: '&f鋼胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATETESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的一組盔甲甲片。'
+  name: '&f超立方材料胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATETIN:
+  description:
+  - '&7由錫製成的一組盔甲甲片。'
+  name: '&f錫胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATETIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的一組盔甲甲片。'
+  name: '&f錫奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATETITANIUM:
+  description:
+  - '&7由鈦製成的一組盔甲甲片。'
+  name: '&f鈦胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEVOID:
+  description:
+  - '&7由虛空製成的一組盔甲甲片。'
+  name: '&f虛空胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEZINC:
+  description:
+  - '&7由鋅製成的一組盔甲甲片。'
+  name: '&f鋅胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的一組盔甲甲片。'
+  name: '&f鋅奇點胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETADAMANTITE:
+  description:
+  - '&7由精金製成的一組盔甲甲片。'
+  name: '&f精金頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的一組盔甲甲片。'
+  name: '&f進階合金頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETALUMINUM:
+  description:
+  - '&7由鋁製成的一組盔甲甲片。'
+  name: '&f鋁頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的一組盔甲甲片。'
+  name: '&f鋁黃銅頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的一組盔甲甲片。'
+  name: '&f鋁青銅頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的一組盔甲甲片。'
+  name: '&f鋁奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETANNIVERSARIUM:
+  description:
+  - '&7由Anniversarium製成的一組盔甲甲片。'
+  name: '&fAnniversarium頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETBILLON:
+  description:
+  - '&7由比隆合金製成的一組盔甲甲片。'
+  name: '&f比隆合金頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETBOOMERITE:
+  description:
+  - '&7由Boomerite製成的一組盔甲甲片。'
+  name: '&fBoomerite頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETBRASS:
+  description:
+  - '&7由黃銅製成的一組盔甲甲片。'
+  name: '&f黃銅頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETBRONZE:
+  description:
+  - '&7由青銅製成的一組盔甲甲片。'
+  name: '&f青銅頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETCOBALT:
+  description:
+  - '&7由鈷製成的一組盔甲甲片。'
+  name: '&f鈷頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETCOPPER:
+  description:
+  - '&7由銅製成的一組盔甲甲片。'
+  name: '&f銅頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETCOPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的一組盔甲甲片。'
+  name: '&f銅奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETCORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的一組盔甲甲片。'
+  name: '&f科林斯青銅頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETDAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的一組盔甲甲片。'
+  name: '&f大馬士革鋼頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETDURALIUM:
+  description:
+  - '&7由Duralium製成的一組盔甲甲片。'
+  name: '&fDuralium頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETEARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的一組盔甲甲片。'
+  name: '&f大地奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETFERROSILICON:
+  description:
+  - '&7由矽鐵製成的一組盔甲甲片。'
+  name: '&f矽鐵頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETFORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的一組盔甲甲片。'
+  name: '&f幸運奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETGOLD:
+  description:
+  - '&7由黃金製成的一組盔甲甲片。'
+  name: '&f黃金頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETGOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的一組盔甲甲片。'
+  name: '&f黃金奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETHARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的一組盔甲甲片。'
+  name: '&f硬化金屬頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETINFINITE:
+  description:
+  - '&7由無盡製成的一組盔甲甲片。'
+  name: '&f無盡頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETINFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的一組盔甲甲片。'
+  name: '&f無限奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETIRIDIUM:
+  description:
+  - '&7由銥製成的一組盔甲甲片。'
+  name: '&f銥頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETIRON:
+  description:
+  - '&7由鐵製成的一組盔甲甲片。'
+  name: '&f鐵頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETIRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的一組盔甲甲片。'
+  name: '&f鐵奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETLEAD:
+  description:
+  - '&7由鉛製成的一組盔甲甲片。'
+  name: '&f鉛頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETLEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的一組盔甲甲片。'
+  name: '&f鉛奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的一組盔甲甲片。'
+  name: '&f魔法奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMAGNESIUM:
+  description:
+  - '&7由鎂製成的一組盔甲甲片。'
+  name: '&f鎂頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的一組盔甲甲片。'
+  name: '&f鎂奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMAGNONIUM:
+  description:
+  - '&7由Magnonium製成的一組盔甲甲片。'
+  name: '&fMagnonium頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的一組盔甲甲片。'
+  name: '&f鎂鋼頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的一組盔甲甲片。'
+  name: '&f鎂釷合金頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMETAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的一組盔甲甲片。'
+  name: '&f金屬奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMIXED_METAL:
+  description:
+  - '&7由混合金屬製成的一組盔甲甲片。'
+  name: '&f混合金屬頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMYTHRIL:
+  description:
+  - '&7由秘銀製成的一組盔甲甲片。'
+  name: '&f秘銀頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETNICKEL:
+  description:
+  - '&7由鎳製成的一組盔甲甲片。'
+  name: '&f鎳頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETREDSTONE_ALLOY:
+  description:
+  - '&7由紅石合金製成的一組盔甲甲片。'
+  name: '&f紅石合金頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETREFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的一組盔甲甲片。'
+  name: '&f精煉鐵頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETREINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的一組盔甲甲片。'
+  name: '&f強化合金頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSCRAP:
+  description:
+  - '&7由廢料製成的一組盔甲甲片。'
+  name: '&f廢料頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSEFIRITE:
+  description:
+  - '&7由Sefirite製成的一組盔甲甲片。'
+  name: '&fSefirite頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSILVER:
+  description:
+  - '&7由銀製成的一組盔甲甲片。'
+  name: '&f銀頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的一組盔甲甲片。'
+  name: '&f銀奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSMITHIUM:
+  description:
+  - '&7由Smithium製成的一組盔甲甲片。'
+  name: '&fSmithium頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSOLDER:
+  description:
+  - '&7由焊錫製成的一組盔甲甲片。'
+  name: '&f焊錫頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSTAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的一組盔甲甲片。'
+  name: '&f不鏽鋼頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSTAR_DUST:
+  description:
+  - '&7由星塵製成的一組盔甲甲片。'
+  name: '&f星塵頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSTEEL:
+  description:
+  - '&7由鋼製成的一組盔甲甲片。'
+  name: '&f鋼頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETTESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的一組盔甲甲片。'
+  name: '&f超立方材料頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETTIN:
+  description:
+  - '&7由錫製成的一組盔甲甲片。'
+  name: '&f錫頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETTIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的一組盔甲甲片。'
+  name: '&f錫奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETTITANIUM:
+  description:
+  - '&7由鈦製成的一組盔甲甲片。'
+  name: '&f鈦頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETVOID:
+  description:
+  - '&7由虛空製成的一組盔甲甲片。'
+  name: '&f虛空頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETZINC:
+  description:
+  - '&7由鋅製成的一組盔甲甲片。'
+  name: '&f鋅頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的一組盔甲甲片。'
+  name: '&f鋅奇點頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSADAMANTITE:
+  description:
+  - '&7由精金製成的一組盔甲甲片。'
+  name: '&f精金護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的一組盔甲甲片。'
+  name: '&f進階合金護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSALUMINUM:
+  description:
+  - '&7由鋁製成的一組盔甲甲片。'
+  name: '&f鋁護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的一組盔甲甲片。'
+  name: '&f鋁黃銅護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的一組盔甲甲片。'
+  name: '&f鋁青銅護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的一組盔甲甲片。'
+  name: '&f鋁奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
+  description:
+  - '&7由Anniversarium製成的一組盔甲甲片。'
+  name: '&fAnniversarium護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSBILLON:
+  description:
+  - '&7由比隆合金製成的一組盔甲甲片。'
+  name: '&f比隆合金護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSBOOMERITE:
+  description:
+  - '&7由Boomerite製成的一組盔甲甲片。'
+  name: '&fBoomerite護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSBRASS:
+  description:
+  - '&7由黃銅製成的一組盔甲甲片。'
+  name: '&f黃銅護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSBRONZE:
+  description:
+  - '&7由青銅製成的一組盔甲甲片。'
+  name: '&f青銅護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSCOBALT:
+  description:
+  - '&7由鈷製成的一組盔甲甲片。'
+  name: '&f鈷護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSCOPPER:
+  description:
+  - '&7由銅製成的一組盔甲甲片。'
+  name: '&f銅護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSCOPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的一組盔甲甲片。'
+  name: '&f銅奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的一組盔甲甲片。'
+  name: '&f科林斯青銅護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSDAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的一組盔甲甲片。'
+  name: '&f大馬士革鋼護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSDURALIUM:
+  description:
+  - '&7由Duralium製成的一組盔甲甲片。'
+  name: '&fDuralium護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSEARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的一組盔甲甲片。'
+  name: '&f大地奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSFERROSILICON:
+  description:
+  - '&7由矽鐵製成的一組盔甲甲片。'
+  name: '&f矽鐵護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSFORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的一組盔甲甲片。'
+  name: '&f幸運奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSGOLD:
+  description:
+  - '&7由黃金製成的一組盔甲甲片。'
+  name: '&f黃金護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSGOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的一組盔甲甲片。'
+  name: '&f黃金奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSHARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的一組盔甲甲片。'
+  name: '&f硬化金屬護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSINFINITE:
+  description:
+  - '&7由無盡製成的一組盔甲甲片。'
+  name: '&f無盡護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSINFINITY_SINGULARITY:
+  description:
+  - '&7由無限奇點製成的一組盔甲甲片。'
+  name: '&f無限奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSIRIDIUM:
+  description:
+  - '&7由銥製成的一組盔甲甲片。'
+  name: '&f銥護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSIRON:
+  description:
+  - '&7由鐵製成的一組盔甲甲片。'
+  name: '&f鐵護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSIRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的一組盔甲甲片。'
+  name: '&f鐵奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSLEAD:
+  description:
+  - '&7由鉛製成的一組盔甲甲片。'
+  name: '&f鉛護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSLEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的一組盔甲甲片。'
+  name: '&f鉛奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的一組盔甲甲片。'
+  name: '&f魔法奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMAGNESIUM:
+  description:
+  - '&7由鎂製成的一組盔甲甲片。'
+  name: '&f鎂護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的一組盔甲甲片。'
+  name: '&f鎂奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMAGNONIUM:
+  description:
+  - '&7由Magnonium製成的一組盔甲甲片。'
+  name: '&fMagnonium護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的一組盔甲甲片。'
+  name: '&f鎂鋼護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的一組盔甲甲片。'
+  name: '&f鎂釷合金護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMETAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的一組盔甲甲片。'
+  name: '&f金屬奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMIXED_METAL:
+  description:
+  - '&7由混合金屬製成的一組盔甲甲片。'
+  name: '&f混合金屬護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMYTHRIL:
+  description:
+  - '&7由秘銀製成的一組盔甲甲片。'
+  name: '&f秘銀護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSNICKEL:
+  description:
+  - '&7由鎳製成的一組盔甲甲片。'
+  name: '&f鎳護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSREDSTONE_ALLOY:
+  description:
+  - '&7由紅石合金製成的一組盔甲甲片。'
+  name: '&f紅石合金護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSREFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的一組盔甲甲片。'
+  name: '&f精煉鐵護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSREINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的一組盔甲甲片。'
+  name: '&f強化合金護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSCRAP:
+  description:
+  - '&7由廢料製成的一組盔甲甲片。'
+  name: '&f廢料護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSEFIRITE:
+  description:
+  - '&7由Sefirite製成的一組盔甲甲片。'
+  name: '&fSefirite護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSILVER:
+  description:
+  - '&7由銀製成的一組盔甲甲片。'
+  name: '&f銀護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的一組盔甲甲片。'
+  name: '&f銀奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSMITHIUM:
+  description:
+  - '&7由Smithium製成的一組盔甲甲片。'
+  name: '&fSmithium護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSOLDER:
+  description:
+  - '&7由焊錫製成的一組盔甲甲片。'
+  name: '&f焊錫護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSTAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的一組盔甲甲片。'
+  name: '&f不鏽鋼護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSTAR_DUST:
+  description:
+  - '&7由星塵製成的一組盔甲甲片。'
+  name: '&f星塵護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSTEEL:
+  description:
+  - '&7由鋼製成的一組盔甲甲片。'
+  name: '&f鋼護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSTESSERACTING_MATERIAL:
+  description:
+  - '&7由超立方材料製成的一組盔甲甲片。'
+  name: '&f超立方材料護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSTIN:
+  description:
+  - '&7由錫製成的一組盔甲甲片。'
+  name: '&f錫護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSTIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的一組盔甲甲片。'
+  name: '&f錫奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSTITANIUM:
+  description:
+  - '&7由鈦製成的一組盔甲甲片。'
+  name: '&f鈦護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSVOID:
+  description:
+  - '&7由虛空製成的一組盔甲甲片。'
+  name: '&f虛空護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSZINC:
+  description:
+  - '&7由鋅製成的一組盔甲甲片。'
+  name: '&f鋅護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的一組盔甲甲片。'
+  name: '&f鋅奇點護腿甲片'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_ADAMANTITE:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由精金製成。'
+  name: '&f精金修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_ADVANCED_ALLOY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由進階合金製成。'
+  name: '&f進階合金修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_ALUMINUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鋁製成。'
+  name: '&f鋁修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_ALUMINUM_BRASS:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鋁黃銅製成。'
+  name: '&f鋁黃銅修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_ALUMINUM_BRONZE:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鋁青銅製成。'
+  name: '&f鋁青銅修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鋁奇點製成。'
+  name: '&f鋁奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_ANNIVERSARIUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由 Anniversarium 製成。'
+  name: '&fAnniversarium修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_BILLON:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由比隆合金製成。'
+  name: '&f比隆合金修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_BOOMERITE:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由 Boomerite 製成。'
+  name: '&fBoomerite修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_BRASS:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由黃銅製成。'
+  name: '&f黃銅修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_BRONZE:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由青銅製成。'
+  name: '&f青銅修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_COBALT:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鈷製成。'
+  name: '&f鈷修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_COPPER:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由銅製成。'
+  name: '&f銅修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_COPPER_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由銅奇點製成。'
+  name: '&f銅奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_CORINTHIAN_BRONZE:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由科林斯青銅製成。'
+  name: '&f科林斯青銅修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_DAMASCUS_STEEL:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由大馬士革鋼製成。'
+  name: '&f大馬士革鋼修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_DUMMY:
+  description:
+  - '&7在修理工作檯修復損壞的物品。'
+  name: '&f部件:修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_DURALIUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由 Duralium 製成。'
+  name: '&fDuralium修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_EARTH_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由大地奇點製成。'
+  name: '&f大地奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_FERROSILICON:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由矽鐵製成。'
+  name: '&f矽鐵修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_FORTUNE_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由幸運奇點製成。'
+  name: '&f幸運奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_GOLD:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由黃金製成。'
+  name: '&f黃金修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_GOLD_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由黃金奇點製成。'
+  name: '&f黃金奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_HARDENED_METAL:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由硬化金屬製成。'
+  name: '&f硬化金屬修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_INFINITE:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由無盡製成。'
+  name: '&f無盡修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_INFINITY_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由無限奇點製成。'
+  name: '&f無限奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_IRIDIUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由銥製成。'
+  name: '&f銥修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_IRON:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鐵製成。'
+  name: '&f鐵修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_IRON_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鐵奇點製成。'
+  name: '&f鐵奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_LEAD:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鉛製成。'
+  name: '&f鉛修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_LEAD_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鉛奇點製成。'
+  name: '&f鉛奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_MAGIC_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由魔法奇點製成。'
+  name: '&f魔法奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_MAGNESIUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鎂製成。'
+  name: '&f鎂修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鎂奇點製成。'
+  name: '&f鎂奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_MAGNONIUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由 Magnonium 製成。'
+  name: '&fMagnonium修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_MAGSTEEL:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鎂鋼製成。'
+  name: '&f鎂鋼修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_MAG_THOR:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鎂釷合金製成。'
+  name: '&f鎂釷合金修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_METAL_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由金屬奇點製成。'
+  name: '&f金屬奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_MIXED_METAL:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由混合金屬製成。'
+  name: '&f混合金屬修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_MYTHRIL:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由秘銀製成。'
+  name: '&f秘銀修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_NICEINIUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由 Niceinium 製成。'
+  name: '&fNiceinium修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_NICKEL:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鎳製成。'
+  name: '&f鎳修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_REDSTONE_ALLOY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由紅石合金製成。'
+  name: '&f紅石合金修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_REFINED_IRON:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由精煉鐵製成。'
+  name: '&f精煉鐵修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_REINFORCED_ALLOY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由強化合金製成。'
+  name: '&f強化合金修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_REINFORCED_DRACONIUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由強化龍晶製成。'
+  name: '&f強化龍晶修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_SCRAP:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由廢料製成。'
+  name: '&f廢料修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_SEFIRITE:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由 Sefirite 製成。'
+  name: '&fSefirite修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_SILVER:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由銀製成。'
+  name: '&f銀修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_SILVER_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由銀奇點製成。'
+  name: '&f銀奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_SMITHIUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由 Smithium 製成。'
+  name: '&fSmithium修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_SOLDER:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由焊錫製成。'
+  name: '&f焊錫修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_STAINLESS_STEEL:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由不鏽鋼製成。'
+  name: '&f不鏽鋼修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_STAR_DUST:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由星塵製成。'
+  name: '&f星塵修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_STEEL:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鋼製成。'
+  name: '&f鋼修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_TESSERACTING_MATERIAL:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由超立方材料製成。'
+  name: '&f超立方材料修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_TIN:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由錫製成。'
+  name: '&f錫修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_TIN_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由錫奇點製成。'
+  name: '&f錫奇點修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_TITANIUM:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鈦製成。'
+  name: '&f鈦修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_VOID:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由虛空製成。'
+  name: '&f虛空修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_ZINC:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鋅製成。'
+  name: '&f鋅修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_ZINC_SINGULARITY:
+  description:
+  - '&7能夠修理物品的工具包'
+  - '&7由鋅奇點製成。'
+  name: '&f鋅奇點修理包'
   type:
   - '&7&o元件'
 PART_ROD_ADAMANTITE:
+  description:
+  - '&7由精金製成的工具柄。'
+  name: '&f精金柄'
   type:
   - '&7&o元件'
 PART_ROD_ADVANCED_ALLOY:
+  description:
+  - '&7由進階合金製成的工具柄。'
+  name: '&f進階合金柄'
   type:
   - '&7&o元件'
 PART_ROD_ALUMINUM:
+  description:
+  - '&7由鋁製成的工具柄。'
+  name: '&f鋁柄'
   type:
   - '&7&o元件'
 PART_ROD_ALUMINUM_BRASS:
+  description:
+  - '&7由鋁黃銅製成的工具柄。'
+  name: '&f鋁黃銅柄'
   type:
   - '&7&o元件'
 PART_ROD_ALUMINUM_BRONZE:
+  description:
+  - '&7由鋁青銅製成的工具柄。'
+  name: '&f鋁青銅柄'
   type:
   - '&7&o元件'
 PART_ROD_ALUMINUM_SINGULARITY:
+  description:
+  - '&7由鋁奇點製成的工具柄。'
+  name: '&f鋁奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_BILLON:
+  description:
+  - '&7由比隆合金製成的工具柄。'
+  name: '&f比隆合金柄'
   type:
   - '&7&o元件'
 PART_ROD_BRASS:
+  description:
+  - '&7由黃銅製成的工具柄。'
+  name: '&f黃銅柄'
   type:
   - '&7&o元件'
 PART_ROD_BRONZE:
+  description:
+  - '&7由青銅製成的工具柄。'
+  name: '&f青銅柄'
   type:
   - '&7&o元件'
 PART_ROD_COBALT:
+  description:
+  - '&7由鈷製成的工具柄。'
+  name: '&f鈷柄'
   type:
   - '&7&o元件'
 PART_ROD_COPPER:
+  description:
+  - '&7由銅製成的工具柄。'
+  name: '&f銅柄'
   type:
   - '&7&o元件'
 PART_ROD_COPPER_SINGULARITY:
+  description:
+  - '&7由銅奇點製成的工具柄。'
+  name: '&f銅奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_CORINTHIAN_BRONZE:
+  description:
+  - '&7由科林斯青銅製成的工具柄。'
+  name: '&f科林斯青銅柄'
   type:
   - '&7&o元件'
 PART_ROD_DAMASCUS_STEEL:
+  description:
+  - '&7由大馬士革鋼製成的工具柄。'
+  name: '&f大馬士革鋼柄'
   type:
   - '&7&o元件'
 PART_ROD_DURALIUM:
+  description:
+  - '&7由Duralium製成的工具柄。'
+  name: '&fDuralium柄'
   type:
   - '&7&o元件'
 PART_ROD_EARTH_SINGULARITY:
+  description:
+  - '&7由大地奇點製成的工具柄。'
+  name: '&f大地奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_FORTUNE_SINGULARITY:
+  description:
+  - '&7由幸運奇點製成的工具柄。'
+  name: '&f幸運奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_GHOSTLY_ESSENCE:
+  description:
+  - '&7由幽靈精華製成的工具柄。'
+  name: '&f幽靈精華柄'
   type:
   - '&7&o元件'
 PART_ROD_GOLD:
+  description:
+  - '&7由黃金製成的工具柄。'
+  name: '&f黃金柄'
   type:
   - '&7&o元件'
 PART_ROD_GOLD_SINGULARITY:
+  description:
+  - '&7由黃金奇點製成的工具柄。'
+  name: '&f黃金奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_HARDENED_METAL:
+  description:
+  - '&7由硬化金屬製成的工具柄。'
+  name: '&f硬化金屬柄'
   type:
   - '&7&o元件'
 PART_ROD_INFINITE:
+  description:
+  - '&7由無盡製成的工具柄。'
+  name: '&f無盡柄'
   type:
   - '&7&o元件'
 PART_ROD_IRIDIUM:
+  description:
+  - '&7由銥製成的工具柄。'
+  name: '&f銥柄'
   type:
   - '&7&o元件'
 PART_ROD_IRON:
+  description:
+  - '&7由鐵製成的工具柄。'
+  name: '&f鐵柄'
   type:
   - '&7&o元件'
 PART_ROD_IRON_SINGULARITY:
+  description:
+  - '&7由鐵奇點製成的工具柄。'
+  name: '&f鐵奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_LEAD:
+  description:
+  - '&7由鉛製成的工具柄。'
+  name: '&f鉛柄'
   type:
   - '&7&o元件'
 PART_ROD_LEAD_SINGULARITY:
+  description:
+  - '&7由鉛奇點製成的工具柄。'
+  name: '&f鉛奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_MAGIC_SINGULARITY:
+  description:
+  - '&7由魔法奇點製成的工具柄。'
+  name: '&f魔法奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_MAGNESIUM:
+  description:
+  - '&7由鎂製成的工具柄。'
+  name: '&f鎂柄'
   type:
   - '&7&o元件'
 PART_ROD_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7由鎂奇點製成的工具柄。'
+  name: '&f鎂奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_MAGNONIUM:
+  description:
+  - '&7由Magnonium製成的工具柄。'
+  name: '&fMagnonium柄'
   type:
   - '&7&o元件'
 PART_ROD_MAGSTEEL:
+  description:
+  - '&7由鎂鋼製成的工具柄。'
+  name: '&f鎂鋼柄'
   type:
   - '&7&o元件'
 PART_ROD_MAG_THOR:
+  description:
+  - '&7由鎂釷合金製成的工具柄。'
+  name: '&f鎂釷合金柄'
   type:
   - '&7&o元件'
 PART_ROD_METAL_SINGULARITY:
+  description:
+  - '&7由金屬奇點製成的工具柄。'
+  name: '&f金屬奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_MIXED_METAL:
+  description:
+  - '&7由混合金屬製成的工具柄。'
+  name: '&f混合金屬柄'
   type:
   - '&7&o元件'
 PART_ROD_MYTHRIL:
+  description:
+  - '&7由秘銀製成的工具柄。'
+  name: '&f秘銀柄'
   type:
   - '&7&o元件'
 PART_ROD_NICKEL:
+  description:
+  - '&7由鎳製成的工具柄。'
+  name: '&f鎳柄'
   type:
   - '&7&o元件'
 PART_ROD_REDSTONE_ALLOY:
+  description:
+  - '&7由紅石合金製成的工具柄。'
+  name: '&f紅石合金柄'
   type:
   - '&7&o元件'
 PART_ROD_REFINED_IRON:
+  description:
+  - '&7由精煉鐵製成的工具柄。'
+  name: '&f精煉鐵柄'
   type:
   - '&7&o元件'
 PART_ROD_REINFORCED_ALLOY:
+  description:
+  - '&7由強化合金製成的工具柄。'
+  name: '&f強化合金柄'
   type:
   - '&7&o元件'
 PART_ROD_SCRAP:
+  description:
+  - '&7由廢料製成的工具柄。'
+  name: '&f廢料柄'
   type:
   - '&7&o元件'
 PART_ROD_SILVER:
+  description:
+  - '&7由銀製成的工具柄。'
+  name: '&f銀柄'
   type:
   - '&7&o元件'
 PART_ROD_SILVER_SINGULARITY:
+  description:
+  - '&7由銀奇點製成的工具柄。'
+  name: '&f銀奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_SMITHIUM:
+  description:
+  - '&7由Smithium製成的工具柄。'
+  name: '&fSmithium柄'
   type:
   - '&7&o元件'
 PART_ROD_SOLDER:
+  description:
+  - '&7由焊錫製成的工具柄。'
+  name: '&f焊錫柄'
   type:
   - '&7&o元件'
 PART_ROD_STAINLESS_STEEL:
+  description:
+  - '&7由不鏽鋼製成的工具柄。'
+  name: '&f不鏽鋼柄'
   type:
   - '&7&o元件'
 PART_ROD_STAR_DUST:
+  description:
+  - '&7由星塵製成的工具柄。'
+  name: '&f星塵柄'
   type:
   - '&7&o元件'
 PART_ROD_STEEL:
+  description:
+  - '&7由鋼製成的工具柄。'
+  name: '&f鋼柄'
   type:
   - '&7&o元件'
 PART_ROD_TIN:
+  description:
+  - '&7由錫製成的工具柄。'
+  name: '&f錫柄'
   type:
   - '&7&o元件'
 PART_ROD_TIN_SINGULARITY:
+  description:
+  - '&7由錫奇點製成的工具柄。'
+  name: '&f錫奇點柄'
   type:
   - '&7&o元件'
 PART_ROD_TITANIUM:
+  description:
+  - '&7由鈦製成的工具柄。'
+  name: '&f鈦柄'
   type:
   - '&7&o元件'
 PART_ROD_VOID:
+  description:
+  - '&7由虛空製成的工具柄。'
+  name: '&f虛空柄'
   type:
   - '&7&o元件'
 PART_ROD_ZINC:
+  description:
+  - '&7由鋅製成的工具柄。'
+  name: '&f鋅柄'
   type:
   - '&7&o元件'
 PART_ROD_ZINC_SINGULARITY:
+  description:
+  - '&7由鋅奇點製成的工具柄。'
+  name: '&f鋅奇點柄'
   type:
   - '&7&o元件'
 PART_SHOVEL_HEAD:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f鏟頭'
   type:
   - '&7&o元件'
 PART_SHOVEL_HEAD_DUMMY:
+  description:
+  - '&7鑄造成形的鏟頭。'
+  name: '&f部件:鏟頭'
   type:
   - '&7&o元件'
 PART_SWORD_BLADE:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f劍刃'
   type:
   - '&7&o元件'
 PART_SWORD_BLADE_DUMMY:
+  description:
+  - '&7鑄造成形的劍刃。'
+  name: '&f部件:劍刃'
   type:
   - '&7&o元件'
 PART_TOOL_ROD:
+  description:
+  - '&7一個工具部件。單獨使用毫無用處，但可以'
+  - '&7在工作站中鍛造成更了不起的東西。'
+  - '&7工匠工作檯。'
+  name: '&f工具柄'
   type:
   - '&7&o元件'
 PART_TOOL_ROD_DUMMY:
+  description:
+  - '&7鑄造成形的工具柄。'
+  name: '&f部件:工具柄'
   type:
   - '&7&o元件'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
+  description:
+  - '&7千萬別穿上這套盔甲。'
+  - '&7可能會發生非常糟糕的事'
+  - '&7你已經被警告過了'
+  - '&7經驗 +400%。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f可悲'
   type:
   - '&7&o元件'
 PLANEWALKER_TRAIT_PROP_PLATES_VOID_INGOT:
+  description:
+  - '&7虛空不再是你的敵人'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f位面行者'
   type:
   - '&7&o元件'
 POISONOUS_II_TRAIT_PROP_HEAD_LEAD_SINGULARITY:
+  description:
+  - '&7中毒更頻繁，持續也更久。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f帶毒 II'
   type:
   - '&7&o元件'
 POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
+  description:
+  - '&7命中時有 25% 機率造成中毒。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f帶毒'
   type:
   - '&7&o元件'
 POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
+  description:
+  - '&7隨機為 5x2x5 範圍內的一個方塊充能。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f通電'
   type:
   - '&7&o元件'
 PROP_BINDING:
+  description:
+  - '&7任何「綁帶」物品。'
+  name: '&f部件: 綁帶'
   type:
   - '&7&o元件'
 PROP_GAMBESON:
+  description:
+  - '&7任何「襯衣」物品。'
+  name: '&f部件:襯衣'
   type:
   - '&7&o元件'
 PROP_HEAD:
+  description:
+  - '&7任何「頭部」物品 (劍刃、斧刃等)'
+  name: '&f部件:頭部'
   type:
   - '&7&o元件'
 PROP_LINKS:
+  description:
+  - '&7任何「鎖環」物品。'
+  name: '&f部件:鎖環'
   type:
   - '&7&o元件'
 PROP_PLATES:
+  description:
+  - '&7任何「甲片」物品 (頭盔甲片、靴甲片等)'
+  name: '&f部件:甲片'
   type:
   - '&7&o元件'
 PROP_ROD:
+  description:
+  - '&7任何「工具柄」物品。'
+  name: '&f部件:工具柄'
   type:
   - '&7&o元件'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:
+  description:
+  - '&7受擊時有 1% 機率掉落 1-4 個金粒'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f富足 II'
   type:
   - '&7&o元件'
 PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
+  description:
+  - '&7受擊時有 1% 機率掉落一個金粒'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f富足'
   type:
   - '&7&o元件'
 PROTECTIVE_TRAIT_PROP_HEAD_IRIDIUM:
+  description:
+  - '&7讓你免於一死。(冷卻 20 分鐘)'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f護體'
   type:
   - '&7&o元件'
 PURIFIED_PASSION_LIQUID:
+  description:
+  - '&7純淨熱情的熔融型態。'
+  name: '&f熔融純淨熱情'
   type:
   - '&7&o資源'
 RADIOACTIVE_PLATES_TRAIT_PROP_PLATES_MAG_THOR:
+  description:
+  - '&7使攻擊你的敵人中毒。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f放射性物質甲片'
   type:
   - '&7&o元件'
 REALLY_STABLE_TRAIT_PROP_HEAD_REFINED_IRON:
+  description:
+  - '&7毫無作用。也許升級之後會有？'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f極為穩定'
   type:
   - '&7&o元件'
 REALLY_STAINLESS_TRAIT_PROP_HEAD_MAGSTEEL:
+  description:
+  - '&7就像不鏽鋼，不過……是真的不鏽。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f真的不鏽'
   type:
   - '&7&o元件'
 RECYCLABLE_II_TRAIT_PROP_HEAD_ALUMINUM_SINGULARITY:
+  description:
+  - '&7命中或破壞方塊時有機率回復耐久度'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f可回收 II'
   type:
   - '&7&o元件'
 RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
+  description:
+  - '&7命中或破壞方塊時有機率回復耐久度'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f可回收'
   type:
   - '&7&o元件'
 REDSTONE_ALLOY_ALLOY:
+  description:
+  - '&7由紅石合金熔煉而成的合金。'
+  name: '&f熔融紅石合金'
   type:
   - '&7&o資源'
 REDSTONE_ALLOY_LIQUID:
+  description:
+  - '&7紅石合金的熔融型態。'
+  name: '&f熔融紅石合金'
   type:
   - '&7&o資源'
 REDSTONE_LIQUID:
+  description:
+  - '&7紅石的熔融型態。'
+  name: '&f熔融紅石'
   type:
   - '&7&o資源'
 REFINED_IRON_LIQUID:
+  description:
+  - '&7精煉鐵的熔融型態。'
+  name: '&f熔融精煉鐵'
   type:
   - '&7&o資源'
 REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
+  description:
+  - '&7緩慢治癒持有者。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f清爽'
   type:
   - '&7&o元件'
 REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
+  description:
+  - '&7緩慢治癒裝備者。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f清爽'
   type:
   - '&7&o元件'
 REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7甲片改造計算兩次。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f可強化'
   type:
   - '&7&o元件'
 REINFORCED_ALLOY_ALLOY:
+  description:
+  - '&7由強化合金熔煉而成的合金。'
+  name: '&f熔融強化合金'
   type:
   - '&7&o資源'
 REINFORCED_ALLOY_LIQUID:
+  description:
+  - '&7強化合金的熔融型態。'
+  name: '&f熔融強化合金'
   type:
   - '&7&o資源'
 REINFORCED_DRACONIUM_ALLOY:
+  description:
+  - '&7由強化龍晶熔煉而成的合金。'
+  name: '&f熔融強化龍晶'
   type:
   - '&7&o資源'
 REINFORCED_DRACONIUM_LIQUID:
+  description:
+  - '&7強化龍晶的熔融型態。'
+  name: '&f熔融強化龍晶'
   type:
   - '&7&o資源'
 REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
+  description:
+  - '&7工具上的任何甲片改造都會計算兩次。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f強化'
   type:
   - '&7&o元件'
 REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7工具上的任何甲片改造都會計算兩次。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f強化'
   type:
   - '&7&o元件'
 REMOTININIUM_LIQUID:
+  description:
+  - '&7Remotininium的熔融型態。'
+  name: '&f熔融Remotininium'
   type:
   - '&7&o資源'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
+  description:
+  - '&7手持時給予防火。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f抗性'
   type:
   - '&7&o元件'
 RUSTY_II_TRAIT_PROP_LINKS_IRON_SINGULARITY:
+  description:
+  - '&7盔甲耐久度損耗 +10%，玩家經驗獲得 +20%'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f生鏽 II'
   type:
   - '&7&o元件'
 RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
+  description:
+  - '&7盔甲耐久度損耗 +10%，玩家經驗獲得 +10%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f生鏽'
   type:
   - '&7&o元件'
 SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
+  description:
+  - '&7耐久度損耗加倍。生命值低於 1/2 時受傷，可獲得速度提升 3。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f快逃啊啊啊！'
   type:
   - '&7&o元件'
 SCRAP_LIQUID:
+  description:
+  - '&7廢料的熔融型態。'
+  name: '&f熔融廢料'
   type:
   - '&7&o資源'
 SEARED_BRICK:
+  description:
+  - '&7用於合成冶煉爐方塊。'
+  name: '&f燒灼磚'
   type:
   - '&7&o元件'
 SEARED_BRICK_BLOCK:
+  description:
+  - '&7用於建造冶煉爐。'
+  name: '&f燒灼磚方塊'
   type:
   - '&7&o元件'
 SEARED_TANK:
+  description:
+  - '&7用於建造冶煉爐。'
+  name: '&f燒灼儲罐'
   type:
   - '&7&o元件'
 SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
+  description:
+  - '&7顯現附近所有活著 (或不活著！) 的東西。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f祕密揭曉'
   type:
   - '&7&o元件'
 SEFIRITE_LIQUID:
+  description:
+  - '&7Sefirite的熔融型態。'
+  name: '&f熔融Sefirite'
   type:
   - '&7&o資源'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
+  description:
+  - '&7這命名方式真糟糕。傷害提升'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f鋒利 1 II'
   type:
   - '&7&o元件'
 SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
+  description:
+  - '&7提升傷害，可與'
+  - '&7改造與其他屬性。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f鋒利 1'
   type:
   - '&7&o元件'
 SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7提升傷害，可與'
+  - '&7改造與其他屬性。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f鋒利 2'
   type:
   - '&7&o元件'
 SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
+  description:
+  - '&7有 10% 機率無視傷害，不可累加'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f吸震'
   type:
   - '&7&o元件'
 SICKLY_II_TRAIT_PROP_LINKS_LEAD_SINGULARITY:
+  description:
+  - '&7鉛製盔甲是個非常糟糕的主意'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f病懨懨 II'
   type:
   - '&7&o元件'
 SICKLY_II_TRAIT_PROP_PLATES_LEAD_SINGULARITY:
+  description:
+  - '&7鉛製盔甲是個非常糟糕的主意'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f病懨懨 II'
   type:
   - '&7&o元件'
 SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
+  description:
+  - '&7鉛製盔甲可不是什麼好主意'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f病懨懨'
   type:
   - '&7&o元件'
 SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
+  description:
+  - '&7鉛製盔甲可不是什麼好主意'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f病懨懨'
   type:
   - '&7&o元件'
 SILICON_LIQUID:
+  description:
+  - '&7矽的熔融型態。'
+  name: '&f熔融矽'
   type:
   - '&7&o資源'
 SILVER_LIQUID:
+  description:
+  - '&7銀的熔融型態。'
+  name: '&f熔融銀'
   type:
   - '&7&o資源'
 SILVER_SINGULARITY_LIQUID:
+  description:
+  - '&7銀奇點的熔融型態。'
+  name: '&f熔融銀奇點'
   type:
   - '&7&o資源'
 SLIME_LIQUID:
+  description:
+  - '&7黏液的熔融型態。'
+  name: '&f熔融黏液'
   type:
   - '&7&o資源'
 SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
+  description:
+  - '&7破壞方塊時的工具經驗獲得會'
+  - '&7提高 (工具等級 x 5%)'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f學得慢'
   type:
   - '&7&o元件'
 SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
+  description:
+  - '&7盔甲經驗獲得 = (等級 * 5%)'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f學得慢'
   type:
   - '&7&o元件'
 SMELTERY_CONTROLLER:
+  description:
+  - '&7用於合成冶煉爐方塊。'
+  name: '&f冶煉爐控制器'
   type:
   - '&7&o元件'
 SMITHIUM_ALLOY:
+  description:
+  - '&7由Smithium熔煉而成的合金。'
+  name: '&f熔融Smithium'
   type:
   - '&7&o資源'
 SMITHIUM_LIQUID:
+  description:
+  - '&7Smithium的熔融型態。'
+  name: '&f熔融Smithium'
   type:
   - '&7&o資源'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
+  description:
+  - '&7若目標背對著你，傷害加倍。'
+  - '&7大幅容差'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f鬼祟 II'
   type:
   - '&7&o元件'
 SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
+  description:
+  - '&7若目標背對著你，傷害加倍。'
+  - '&7小幅容差'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f鬼祟'
   type:
   - '&7&o元件'
 SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7尖刺傷害會被無視並反彈回去'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f刺尖'
   type:
   - '&7&o元件'
 SOFT_II_TRAIT_PROP_ROD_ALUMINUM_SINGULARITY:
+  description:
+  - '&7耐久度損耗 +100%，工具經驗 +100%。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f柔軟 II'
   type:
   - '&7&o元件'
 SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
+  description:
+  - '&7撞牆不再會受傷'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f輕柔著地'
   type:
   - '&7&o元件'
 SOFT_TOUCH_II_TRAIT_PROP_ROD_SILVER_SINGULARITY:
+  description:
+  - '&7你覺得輕盈了許多。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f輕柔觸感 II'
   type:
   - '&7&o元件'
 SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
+  description:
+  - '&7你覺得輕盈了些。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f輕柔觸感'
   type:
   - '&7&o元件'
 SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
+  description:
+  - '&7耐久度損耗 +100%，工具經驗 +50%。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f柔軟'
   type:
   - '&7&o元件'
 SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
+  description:
+  - '&7在白天回復耐久度。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f太陽能'
   type:
   - '&7&o元件'
 SOLDER_ALLOY:
+  description:
+  - '&7由焊錫熔煉而成的合金。'
+  name: '&f熔融焊錫'
   type:
   - '&7&o資源'
 SOLDER_LIQUID:
+  description:
+  - '&7焊錫的熔融型態。'
+  name: '&f熔融焊錫'
   type:
   - '&7&o資源'
 SPOUT:
+  description:
+  - '&7用於建造冶煉爐。'
+  name: '&f燒灼壺嘴'
   type:
   - '&7&o元件'
 SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
+  description:
+  - '&7讓你跳得更高。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f彈簧'
   type:
   - '&7&o元件'
 STABILITY_II_TRAIT_PROP_HEAD_IRON_SINGULARITY:
+  description:
+  - '&7依舊毫無作用'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f穩定 II'
   type:
   - '&7&o元件'
 STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
+  description:
+  - '&7完全……沒有作用！'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f穩定'
   type:
   - '&7&o元件'
 STAINLESS_STEEL_ALLOY:
+  description:
+  - '&7由不鏽鋼熔煉而成的合金。'
+  name: '&f熔融不鏽鋼'
   type:
   - '&7&o資源'
 STAINLESS_STEEL_LIQUID:
+  description:
+  - '&7不鏽鋼的熔融型態。'
+  name: '&f熔融不鏽鋼'
   type:
   - '&7&o資源'
 STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
+  description:
+  - '&7這件工具或武器不沾血。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f不鏽'
   type:
   - '&7&o元件'
 STARSHINE_TRAIT_PROP_PLATES_DYNATECH_STAR_DUST:
+  description:
+  - '&7夜間有 5% 機率回復 1/2 顆心'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f星輝'
   type:
   - '&7&o元件'
 STAR_DUST_LIQUID:
+  description:
+  - '&7星塵的熔融型態。'
+  name: '&f熔融星塵'
   type:
   - '&7&o資源'
 STEADFAST_II_TRAIT_PROP_PLATES_IRON_SINGULARITY:
+  description:
+  - '&7無視所有爆炸'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f堅定 II'
   type:
   - '&7&o元件'
 STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
+  description:
+  - '&7有 33% 機率無視一次爆炸'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f堅定'
   type:
   - '&7&o元件'
 STEEL_ALLOY:
+  description:
+  - '&7由鋼熔煉而成的合金。'
+  name: '&f熔融鋼'
   type:
   - '&7&o資源'
 STEEL_LIQUID:
+  description:
+  - '&7鋼的熔融型態。'
+  name: '&f熔融鋼'
   type:
   - '&7&o資源'
 STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
+  description:
+  - '&7傷害 +50%，但會讓你霉運纏身'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f堅挺'
   type:
   - '&7&o元件'
 STIFF_TRAIT_PROP_ROD_MIXED_METAL_INGOT:
+  description:
+  - '&7傷害 +50%，但會讓你霉運纏身'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f堅挺'
   type:
   - '&7&o元件'
 STING_OF_GONDOLIN_TRAIT_PROP_ROD_MYTHRIL:
+  description:
+  - '&7附近所有敵對生物都會被驅離。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f剛多林之刺'
   type:
   - '&7&o元件'
 STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
+  description:
+  - '&7生命值提升 +1'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f強壯'
   type:
   - '&7&o元件'
 STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7工具與玩家經驗 +50%，但傷害減半'
+  - '&7而且你的行動會變慢。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f勤學'
   type:
   - '&7&o元件'
 SUPERHOT_TRAIT_PROP_LINKS_ADVANCED_ALLOY:
+  description:
+  - '&7有機率點燃附近的實體'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f超燙'
   type:
   - '&7&o元件'
 SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7有機率點燃附近的實體'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f超燙'
   type:
   - '&7&o元件'
 SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7就像鋼或鎂鋼，卻更加離譜。'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f超級無敵不鏽'
   type:
   - '&7&o元件'
 SUPER_LIGHTWEIGHT_II_TRAIT_PROP_ROD_ZINC_SINGULARITY:
+  description:
+  - '&7潛行時讓你輕如空氣。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f超輕量 II'
   type:
   - '&7&o元件'
 SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
+  description:
+  - '&7未潛行時讓你輕如空氣。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f超輕量'
   type:
   - '&7&o元件'
 SWEATY_TRAIT_PROP_GAMBESON_RUBBER:
+  description:
+  - '&7橡膠內襯實在是太燙了。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f汗流浹背'
   type:
   - '&7&o元件'
 TARNISHED_II_TRAIT_PROP_LINKS_COPPER_SINGULARITY:
+  description:
+  - '&7造成的傷害降低 25%，盔甲經驗 +40%'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f失去光澤 II'
   type:
   - '&7&o元件'
 TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
+  description:
+  - '&7造成的傷害降低 25%，盔甲經驗 +20%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f失去光澤'
   type:
   - '&7&o元件'
 TARNISHED_TRAIT_PROP_PLATES_MAGSTEEL:
+  description:
+  - '&7造成的傷害降低 25%，盔甲經驗 +20%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f失去光澤'
   type:
   - '&7&o元件'
 TERRIBLE_TRAIT_PROP_HEAD_SCRAP:
+  description:
+  - '&7耐久度損耗 +300%，經驗獲得 0%。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f糟透了'
   type:
   - '&7&o元件'
 TESSERACTING_MATERIAL_LIQUID:
+  description:
+  - '&7超立方材料的熔融型態。'
+  name: '&f熔融超立方材料'
   type:
   - '&7&o資源'
 THE_END_TRAIT_PROP_LINKS_VOID_INGOT:
+  description:
+  - '&7降低來自終界龍、終界使者與'
+  - '&7界伏蚌的傷害 10%'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f終界'
   type:
   - '&7&o元件'
 THE_STANDARD_TRAIT_PROP_PLATES_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7所受傷害降低 5%'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f標準規格'
   type:
   - '&7&o元件'
 THICK_TRAIT_PROP_BINDING_LEATHER:
+  description:
+  - '&7工具經驗獲得 +50%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f厚實'
   type:
   - '&7&o元件'
 THICK_TRAIT_PROP_GAMBESON_LEATHER:
+  description:
+  - '&7盔甲經驗獲得 +10%'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f厚實'
   type:
   - '&7&o元件'
 THORIUM_LIQUID:
+  description:
+  - '&7釷的熔融型態。'
+  name: '&f熔融釷'
   type:
   - '&7&o資源'
 TINKERS_ARMOUR_TABLE:
+  description:
+  - '&7將部件組合成盔甲。'
+  name: '&f工匠盔甲製作檯'
   type:
   - '&7&o機器'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_MOD_STATION:
+  description:
+  - '&7為工具與武器套用改造。'
+  name: '&f工匠改造工作站'
   type:
   - '&7&o機器'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_REPAIR_BENCH:
+  description:
+  - '&7修理工具與武器。'
+  name: '&f工匠修理工作檯'
   type:
   - '&7&o機器'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_SMELTERY_CORE:
+  description:
+  - '&7將金屬熔化成液體。'
+  - '&7金屬接著便可煉成合金，並'
+  - '&7鑄造成各種形狀。'
+  - '&7需要岩漿作為燃料'
+  name: '&f工匠冶煉爐'
   type:
   - '&7&o多重方塊'
+  usage:
+  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
 TINKERS_SWAPPING_STATION:
+  description:
+  - '&7用新的部件替換工具上的部件。'
+  name: '&f工匠更換工作站'
   type:
   - '&7&o機器'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_TABLE:
+  description:
+  - '&7將部件組合成工具。'
+  name: '&f工匠工具製作檯'
   type:
   - '&7&o機器'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TINKERS_WORKBENCH:
+  description:
+  - '&7用於合成各種物品'
+  - '&7以及工匠工具與'
+  - '&7結構。同時也作為一個'
+  - '&7強化工作檯。'
+  name: '&f工匠工作檯'
   type:
   - '&7&o機器'
+  usage:
+  - '&eRight Click&7 to open the interface.'
 TIN_LIQUID:
+  description:
+  - '&7錫的熔融型態。'
+  name: '&f熔融錫'
   type:
   - '&7&o資源'
 TIN_SINGULARITY_LIQUID:
+  description:
+  - '&7錫奇點的熔融型態。'
+  name: '&f熔融錫奇點'
   type:
   - '&7&o資源'
 TITANIUM_ALLOY:
+  description:
+  - '&7由鈦熔煉而成的合金。'
+  name: '&f熔融鈦'
   type:
   - '&7&o資源'
 TITANIUM_LIQUID:
+  description:
+  - '&7鈦的熔融型態。'
+  name: '&f熔融鈦'
   type:
   - '&7&o資源'
 TOOL_AXE:
+  description:
+  - '&7由三個部件組成的斧。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠斧'
   type:
   - '&7&o工具'
 TOOL_AXE_ENTRY:
+  description:
+  - '&7由三個部件組成的斧。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠斧'
   type:
   - '&7&o工具'
 TOOL_AXE_EXP:
+  description:
+  - '&7由三個部件組成的斧。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7這個型號可一次破壞一整片方塊。'
+  name: '&f工匠斧 (爆破型)'
   type:
   - '&7&o工具'
 TOOL_HOE:
+  description:
+  - '&7由三個部件組成的鋤。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠鋤'
   type:
   - '&7&o工具'
 TOOL_HOE_ENTRY:
+  description:
+  - '&7由三個部件組成的鋤。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠鋤'
   type:
   - '&7&o工具'
 TOOL_HOE_EXP:
+  description:
+  - '&7由三個部件組成的鋤。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7這個型號可一次破壞一整片方塊。'
+  name: '&f工匠鋤 (爆破型)'
   type:
   - '&7&o工具'
 TOOL_PICKAXE:
+  description:
+  - '&7由三個部件組成的鎬。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠鎬'
   type:
   - '&7&o工具'
 TOOL_PICKAXE_ENTRY:
+  description:
+  - '&7由三個部件組成的鎬。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠鎬'
   type:
   - '&7&o工具'
 TOOL_PICKAXE_EXP:
+  description:
+  - '&7由三個部件組成的鎬。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7這個型號可一次破壞一整片方塊。'
+  name: '&f工匠鎬 (爆破型)'
   type:
   - '&7&o工具'
 TOOL_SHOVEL:
+  description:
+  - '&7由三個部件組成的鏟。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠鏟'
   type:
   - '&7&o工具'
 TOOL_SHOVEL_ENTRY:
+  description:
+  - '&7由三個部件組成的鏟。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠鏟'
   type:
   - '&7&o工具'
 TOOL_SHOVEL_EXP:
+  description:
+  - '&7由三個部件組成的鏟。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7這個型號可一次破壞一整片方塊。'
+  name: '&f工匠鏟 (爆破型)'
   type:
   - '&7&o工具'
 TOOL_SWORD:
+  description:
+  - '&7由三個部件組成的劍。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠劍'
   type:
   - '&7&o工具'
 TOOL_SWORD_ENTRY:
+  description:
+  - '&7由三個部件組成的劍。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  name: '&f工匠劍'
   type:
   - '&7&o工具'
 TOOL_SWORD_EXP:
+  description:
+  - '&7由三個部件組成的劍。'
+  - '&7工匠工具可以升級，並能'
+  - '&7獲得額外的屬性與改造。'
+  - '&7這個型號可一次破壞一整片方塊。'
+  name: '&f工匠劍 (爆破型)'
   type:
   - '&7&o工具'
 TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7？'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f燙手難握'
   type:
   - '&7&o元件'
 TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
+  description:
+  - '&7不會損失耐久度。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f強韌'
   type:
   - '&7&o元件'
 TRICKS_TRAIT_PROP_HEAD_MAGIC_SINGULARITY:
+  description:
+  - '&7對附近的東西惡作劇。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f惡作劇'
   type:
   - '&7&o元件'
 TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
+  description:
+  - '&7將命中的目標擊退，並有機率'
+  - '&7造成暈眩。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f硬底子'
   type:
   - '&7&o元件'
 ULTIMANINIUM_ALLOY:
+  description:
+  - '&7由Ultimaninium熔煉而成的合金。'
+  name: '&f熔融Ultimaninium'
   type:
   - '&7&o資源'
 ULTIMANINIUM_LIQUID:
+  description:
+  - '&7Ultimaninium的熔融型態。'
+  name: '&f熔融Ultimaninium'
   type:
   - '&7&o資源'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
+  description:
+  - '&7所受的任何傷害都會被記住。右鍵'
+  - '&7點擊以為背包中的物品充能。'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f非常規動力'
   type:
   - '&7&o元件'
 VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7有機率依造成的傷害回復生命。'
+  - '&7造成的傷害隨一天的時段而變化。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f吸血'
   type:
   - '&7&o元件'
 VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
+  description:
+  - '&7有機率依造成的傷害回復生命。'
+  - '&7造成的傷害隨一天的時段而變化。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f吸血'
   type:
   - '&7&o元件'
 VEX_GEM_LIQUID:
+  description:
+  - '&7惡靈寶石的熔融型態。'
+  name: '&f熔融惡靈寶石'
   type:
   - '&7&o資源'
 VOID_LIQUID:
+  description:
+  - '&7虛空的熔融型態。'
+  name: '&f熔融虛空'
   type:
   - '&7&o資源'
 VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
+  description:
+  - '&7挖礦或挖掘時隨機生成礦石。'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f虛空礦工'
   type:
   - '&7&o元件'
 WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7在下界炎熱時速度提升 +2。'
+  - '&7在終界寒冷時緩速 +1'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f溫血'
   type:
   - '&7&o元件'
 WARP_TRAIT_PROP_ROD_IRIDIUM:
+  description:
+  - '&7讓你的對手轉過身去。(冷卻: 20 分鐘)'
+  - ''
+  - '&7新增者: LiteXpansion'
+  name: '&f扭曲穿梭'
   type:
   - '&7&o元件'
 WATER_SAFE_TRAIT_PROP_LINKS_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7給予你水下呼吸'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&f水中無虞'
   type:
   - '&7&o元件'
 WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
+  description:
+  - '&7你的攻擊會治癒而非傷害。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f白魔導士'
   type:
   - '&7&o元件'
 WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
+  description:
+  - '&7你腳下的方塊會被充能。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f誰還需要壓力板？'
   type:
   - '&7&o元件'
 WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7對凋零效果免疫。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f抗凋零'
   type:
   - '&7&o元件'
 WIZARD_ROBES_TRAIT_PROP_PLATES_MAGIC_SINGULARITY:
+  description:
+  - '&7攻擊時有機率產生魔法'
+  - ''
+  - '&7新增者: Infinity Expansion'
+  name: '&f巫師長袍'
   type:
   - '&7&o元件'
 WORKS_TRAIT_PROP_BINDING_STRING:
+  description:
+  - '&7沒有特殊效果。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f堪用'
   type:
   - '&7&o元件'
 WORKS_TRAIT_PROP_GAMBESON_STRING:
+  description:
+  - '&7沒有特殊效果，但能快速製作盔甲。'
+  - ''
+  - '&7新增者: Core SlimeTinker'
+  name: '&f堪用'
   type:
   - '&7&o元件'
 YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
+  description:
+  - '&7賦予縹緲的光輝，並讓村民'
+  - '&7對你更友善。'
+  - ''
+  - '&7新增者: DynaTech'
+  name: '&fYvaine'
   type:
   - '&7&o元件'
 ZINC_LIQUID:
+  description:
+  - '&7鋅的熔融型態。'
+  name: '&f熔融鋅'
   type:
   - '&7&o資源'
 ZINC_SINGULARITY_LIQUID:
+  description:
+  - '&7鋅奇點的熔融型態。'
+  name: '&f熔融鋅奇點'
   type:
   - '&7&o資源'

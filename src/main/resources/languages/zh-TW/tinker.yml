@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: 靴子
+  CHESTPLATE: 胸甲
+  HELMET: 頭盔
+  LEGGINGS: 護腿
+lore:
+  added_by: 新增者
+  binder_abbrev: '綁: '
+  gambeson_abbrev: '襯: '
+  head_abbrev: '頭: '
+  level: '等級: '
+  links_abbrev: '鎖: '
+  mod_level: ' 等級 '
+  mod_max: ' - (最大)'
+  modifier_slots: '改造槽: '
+  part_desc_1: 一個工具部件。單獨使用毫無用處，但可以
+  part_desc_2: 在工作站中鍛造成更了不起的東西。
+  part_desc_3: 工匠工作檯。
+  part_material: '材料: '
+  plate_abbrev: '甲: '
+  rod_abbrev: '柄: '
+  sponsored_by: 贊助者
+materials:
+  ADAMANTITE: 精金
+  ADVANCED_ALLOY: 進階合金
+  ALUMINUM: 鋁
+  ALUMINUM_BRASS: 鋁黃銅
+  ALUMINUM_BRONZE: 鋁青銅
+  ALUMINUM_SINGULARITY: 鋁奇點
+  ANNIVERSARIUM: Anniversarium
+  BILLON: 比隆合金
+  BOOMERITE: Boomerite
+  BRASS: 黃銅
+  BRONZE: 青銅
+  CARBON_MESH: 碳纖維網
+  COAL: 煤炭
+  COBALT: 鈷
+  COPPER: 銅
+  COPPER_SINGULARITY: 銅奇點
+  CORINTHIAN_BRONZE: 科林斯青銅
+  CRIMSON_ROOT: 緋紅菌根
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: 大馬士革鋼
+  DAXI_ABSORPTION: Daxi 吸收
+  DAXI_FORTITUDE: Daxi 堅毅
+  DAXI_REGENERATION: Daxi 再生
+  DAXI_SATURATION: Daxi 飽食
+  DAXI_STRENGTH: Daxi 力量
+  DETAILED_DEVOTION: 精緻虔誠
+  DIAMOND: 鑽石
+  DIAMOND_SINGULARITY: 鑽石奇點
+  DRACONIC: 龍族
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: 大地奇點
+  FERROSILICON: 矽鐵
+  FLOWING_FONDNESS: 流動喜愛
+  FORTUNE_SINGULARITY: 幸運奇點
+  GHOSTLY_ESSENCE: 幽靈精華
+  GOLD: 黃金
+  GOLD_SINGULARITY: 黃金奇點
+  HARDENED_METAL: 硬化金屬
+  INFINITE: 無盡
+  INFINITY_SINGULARITY: 無限奇點
+  INTERDIMENSIONAL_PRESENCE: 次元存在
+  IRIDIUM: 銥
+  IRON: 鐵
+  IRON_SINGULARITY: 鐵奇點
+  LEAD: 鉛
+  LEAD_SINGULARITY: 鉛奇點
+  LEATHER: 皮革
+  LIQUID_CHRISTMAS: 液態聖誕
+  LIQUID_LOVE: 液態愛
+  MAGIC_SINGULARITY: 魔法奇點
+  MAGNESIUM: 鎂
+  MAGNESIUM_SINGULARITY: 鎂奇點
+  MAGNONIUM: Magnonium
+  MAGSTEEL: 鎂鋼
+  MAG_THOR: 鎂釷合金
+  METAL_SINGULARITY: 金屬奇點
+  MIXED_METAL: 混合金屬
+  MYTHRIL: 秘銀
+  NICEINIUM: Niceinium
+  NICKEL: 鎳
+  OSMIUM: 鋨
+  OSMIUM_SUPERALLOY: 鋨超合金
+  PURIFIED_PASSION: 純淨熱情
+  REDSTONE: 紅石
+  REDSTONE_ALLOY: 紅石合金
+  REFINED_IRON: 精煉鐵
+  REINFORCED_ALLOY: 強化合金
+  REINFORCED_DRACONIUM: 強化龍晶
+  REINFORCED_SLIME_STEEL: 強化黏液鋼
+  REMOTININIUM: Remotininium
+  RUBBER: 橡膠
+  SCRAP: 廢料
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: 矽
+  SILVER: 銀
+  SILVER_SINGULARITY: 銀奇點
+  SLIME: 黏液
+  SLIME_STEEL: 黏液鋼
+  SMITHIUM: Smithium
+  SOLDER: 焊錫
+  STAINLESS_STEEL: 不鏽鋼
+  STAR_DUST: 星塵
+  STEEL: 鋼
+  STRING: 線
+  TESSERACTING_MATERIAL: 超立方材料
+  THORIUM: 釷
+  TIN: 錫
+  TIN_SINGULARITY: 錫奇點
+  TITANIUM: 鈦
+  TWISTED_VINE: 纏繞藤蔓
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: 惡靈寶石
+  VINE: 藤蔓
+  VOID: 虛空
+  WARPED_ROOT: 扭曲菌根
+  WEEPING_VINE: 垂泣藤蔓
+  ZINC: 鋅
+  ZINC_SINGULARITY: 鋅奇點
+messages:
+  smeltery-incomplete: 這座冶煉爐尚未完工 - 請用 6 個燒灼磚方塊、一個燒灼儲罐和一個壺嘴補齊垂直的 3x3 結構。
+modifiers:
+  DIAMOND: 鑽石
+  EMERALD: 綠寶石
+  LAPIS_LAZULI: 青金石
+  MOD_PLATE: 改造甲片
+  QUARTZ: 石英
+  REDSTONE: 紅石
+part-types:
+  BINDING: 綁帶
+  GAMBESON: 襯衣
+  HEAD_AXE: 斧刃
+  HEAD_HOE: 鋤刃
+  HEAD_PICK: 鎬頭
+  HEAD_SHOVEL: 鏟頭
+  HEAD_SWORD: 劍刃
+  LINKS: 鎖環
+  PLATE_BOOTS: 靴甲片
+  PLATE_CHESTPLATE: 胸甲片
+  PLATE_HELMET: 頭盔甲片
+  PLATE_LEGGINGS: 護腿甲片
+  REPAIR: 修理包
+  ROD: 工具柄
+tool-types:
+  AXE: 斧
+  HOE: 鋤
+  PICK: 鎬
+  PICKAXE: 鎬
+  SHOVEL: 鏟
+  SWORD: 劍
