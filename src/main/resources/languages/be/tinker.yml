@@ -21,15 +21,15 @@ lore:
   rod_abbrev: 'С: '
   sponsored_by: Спансар
 materials:
-  ADAMANTITE: Adamantite
+  ADAMANTITE: Адамантыт
   ADVANCED_ALLOY: Удасканалены сплаў
   ALUMINUM: Алюміній
   ALUMINUM_BRASS: Алюмініевая латунь
   ALUMINUM_BRONZE: Алюмініевая бронза
   ALUMINUM_SINGULARITY: Алюмініевая сінгулярнасць
-  ANNIVERSARIUM: Anniversarium
+  ANNIVERSARIUM: Анівэрсарыум
   BILLON: Білон
-  BOOMERITE: Boomerite
+  BOOMERITE: Бумерыт
   BRASS: Латунь
   BRONZE: Бронза
   CARBON_MESH: Вугляродная сетка
@@ -39,18 +39,18 @@ materials:
   COPPER_SINGULARITY: Медная сінгулярнасць
   CORINTHIAN_BRONZE: Карынфская бронза
   CRIMSON_ROOT: Барвовы корань
-  CRINGLEIUM: Cringleium
+  CRINGLEIUM: Крынглій
   DAMASCUS_STEEL: Дамаская сталь
-  DAXI_ABSORPTION: Daxi Паглынання
-  DAXI_FORTITUDE: Daxi Стойкасці
-  DAXI_REGENERATION: Daxi Рэгенерацыі
-  DAXI_SATURATION: Daxi Сытасці
-  DAXI_STRENGTH: Daxi Сілы
+  DAXI_ABSORPTION: Даксі Паглынання
+  DAXI_FORTITUDE: Даксі Стойкасці
+  DAXI_REGENERATION: Даксі Рэгенерацыі
+  DAXI_SATURATION: Даксі Сытасці
+  DAXI_STRENGTH: Даксі Сілы
   DETAILED_DEVOTION: Дасканалая адданасць
   DIAMOND: Алмаз
   DIAMOND_SINGULARITY: Алмазная сінгулярнасць
   DRACONIC: Драконавая матэрыя
-  DURALIUM: Duralium
+  DURALIUM: Дуралій
   EARTH_SINGULARITY: Зямная сінгулярнасць
   FERROSILICON: Ферасіліцый
   FLOWING_FONDNESS: Цякучая прыхільнасць
@@ -73,13 +73,13 @@ materials:
   MAGIC_SINGULARITY: Магічная сінгулярнасць
   MAGNESIUM: Магній
   MAGNESIUM_SINGULARITY: Магніевая сінгулярнасць
-  MAGNONIUM: Magnonium
-  MAGSTEEL: Magsteel
-  MAG_THOR: Mag Thor
+  MAGNONIUM: Магноній
+  MAGSTEEL: Магсталь
+  MAG_THOR: Маг Тор
   METAL_SINGULARITY: Металічная сінгулярнасць
   MIXED_METAL: Змешаны метал
-  MYTHRIL: Mythril
-  NICEINIUM: Niceinium
+  MYTHRIL: Мітрыл
+  NICEINIUM: Файніній
   NICKEL: Нікель
   OSMIUM: Осмій
   OSMIUM_SUPERALLOY: Осміевы суперсплаў
@@ -88,19 +88,19 @@ materials:
   REDSTONE_ALLOY: Рэдстоунавы сплаў
   REFINED_IRON: Ачышчанае жалеза
   REINFORCED_ALLOY: Узмоцнены сплаў
-  REINFORCED_DRACONIUM: Узмоцнены Draconium
+  REINFORCED_DRACONIUM: Узмоцнены Драконій
   REINFORCED_SLIME_STEEL: Узмоцненая слізевая сталь
-  REMOTININIUM: Remotininium
+  REMOTININIUM: Рэматыніній
   RUBBER: Гума
   SCRAP: Лом
-  SEFIRITE: Sefirite
-  SEGGANESSON: Segganesson
+  SEFIRITE: Сефірыт
+  SEGGANESSON: Сэганесан
   SILICON: Крэмній
   SILVER: Срэбра
   SILVER_SINGULARITY: Срэбная сінгулярнасць
   SLIME: Слізь
   SLIME_STEEL: Слізевая сталь
-  SMITHIUM: Smithium
+  SMITHIUM: Смітый
   SOLDER: Прыпой
   STAINLESS_STEEL: Нержавеючая сталь
   STAR_DUST: Зорны пыл
@@ -112,8 +112,8 @@ materials:
   TIN_SINGULARITY: Волавая сінгулярнасць
   TITANIUM: Тытан
   TWISTED_VINE: Скручаная ліяна
-  ULTIMANINIUM: Ultimaninium
-  UNPATENTABLIUM: Unpatentablium
+  ULTIMANINIUM: Ультыманіній
+  UNPATENTABLIUM: Унпатэнтаблій
   VEX_GEM: Самацвет вэкса
   VINE: Ліяна
   VOID: Пустата
