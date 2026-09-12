@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: But
+  CHESTPLATE: Perisai Dada
+  HELMET: Topi Keledar
+  LEGGINGS: Seluar Perisai
+lore:
+  added_by: Ditambah oleh
+  binder_abbrev: 'Pe: '
+  gambeson_abbrev: 'G: '
+  head_abbrev: 'K: '
+  level: 'Tahap: '
+  links_abbrev: 'R: '
+  mod_level: ' Tahap '
+  mod_max: ' - (MAKS)'
+  modifier_slots: 'Slot Pengubah: '
+  part_desc_1: Bahagian alat. Tidak berguna sendirian tetapi boleh
+  part_desc_2: dijadikan sesuatu yang lebih hebat di
+  part_desc_3: Meja tukang.
+  part_material: 'Bahan : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'B: '
+  sponsored_by: Ditaja oleh
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Aloi Canggih
+  ALUMINUM: Aluminium
+  ALUMINUM_BRASS: Loyang Aluminium
+  ALUMINUM_BRONZE: Gangsa Aluminium
+  ALUMINUM_SINGULARITY: Singulariti Aluminium
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerite
+  BRASS: Loyang
+  BRONZE: Gangsa
+  CARBON_MESH: Jaringan Karbon
+  COAL: Arang Batu
+  COBALT: Kobalt
+  COPPER: Tembaga
+  COPPER_SINGULARITY: Singulariti Tembaga
+  CORINTHIAN_BRONZE: Gangsa Korinth
+  CRIMSON_ROOT: Akar Kirmizi
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Keluli Damsyik
+  DAXI_ABSORPTION: Daxi Penyerapan
+  DAXI_FORTITUDE: Daxi Ketabahan
+  DAXI_REGENERATION: Daxi Pemulihan
+  DAXI_SATURATION: Daxi Kekenyangan
+  DAXI_STRENGTH: Daxi Kekuatan
+  DETAILED_DEVOTION: Ketaatan Terperinci
+  DIAMOND: Berlian
+  DIAMOND_SINGULARITY: Singulariti Berlian
+  DRACONIC: Drakonik
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Singulariti Bumi
+  FERROSILICON: Ferosilikon
+  FLOWING_FONDNESS: Kasih Mengalir
+  FORTUNE_SINGULARITY: Singulariti Tuah
+  GHOSTLY_ESSENCE: Pati Hantu
+  GOLD: Emas
+  GOLD_SINGULARITY: Singulariti Emas
+  HARDENED_METAL: Logam Keras
+  INFINITE: Tak Terhingga
+  INFINITY_SINGULARITY: Singulariti Infiniti
+  INTERDIMENSIONAL_PRESENCE: Kehadiran Antara Dimensi
+  IRIDIUM: Iridium
+  IRON: Besi
+  IRON_SINGULARITY: Singulariti Besi
+  LEAD: Plumbum
+  LEAD_SINGULARITY: Singulariti Plumbum
+  LEATHER: Kulit
+  LIQUID_CHRISTMAS: Krismas Cair
+  LIQUID_LOVE: Cinta Cair
+  MAGIC_SINGULARITY: Singulariti Sihir
+  MAGNESIUM: Magnesium
+  MAGNESIUM_SINGULARITY: Singulariti Magnesium
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Keluli Mag
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Singulariti Logam
+  MIXED_METAL: Logam Campuran
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nikel
+  OSMIUM: Osmium
+  OSMIUM_SUPERALLOY: Aloi Super Osmium
+  PURIFIED_PASSION: Ghairah Tulen
+  REDSTONE: Batu Merah
+  REDSTONE_ALLOY: Aloi Batu Merah
+  REFINED_IRON: Besi Tulen
+  REINFORCED_ALLOY: Aloi Diperkukuh
+  REINFORCED_DRACONIUM: Drakonium Diperkukuh
+  REINFORCED_SLIME_STEEL: Keluli Lendir Diperkukuh
+  REMOTININIUM: Remotininium
+  RUBBER: Getah
+  SCRAP: Sekerap
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Silikon
+  SILVER: Perak
+  SILVER_SINGULARITY: Singulariti Perak
+  SLIME: Lendir
+  SLIME_STEEL: Keluli Lendir
+  SMITHIUM: Smithium
+  SOLDER: Pateri
+  STAINLESS_STEEL: Keluli Tahan Karat
+  STAR_DUST: Debu Bintang
+  STEEL: Keluli
+  STRING: Benang
+  TESSERACTING_MATERIAL: Bahan Tesserak
+  THORIUM: Torium
+  TIN: Timah
+  TIN_SINGULARITY: Singulariti Timah
+  TITANIUM: Titanium
+  TWISTED_VINE: Sulur Terpintal
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Permata Vex
+  VINE: Sulur
+  VOID: Kehampaan
+  WARPED_ROOT: Akar Terpiuh
+  WEEPING_VINE: Sulur Merintih
+  ZINC: Zink
+  ZINC_SINGULARITY: Singulariti Zink
+messages:
+  smeltery-incomplete: Relau lebur ini belum siap - lengkapkan 3x3 menegak dengan 6 Blok Bata Bakar, sebuah Tangki Bakar dan sebuah Muncung.
+modifiers:
+  DIAMOND: Berlian
+  EMERALD: Zamrud
+  LAPIS_LAZULI: Lazuardi
+  MOD_PLATE: Plat Pengubah
+  QUARTZ: Kuarza
+  REDSTONE: Batu Merah
+part-types:
+  BINDING: Pengikat
+  GAMBESON: Gambeson
+  HEAD_AXE: Kepala Kapak
+  HEAD_HOE: Kepala Cangkul
+  HEAD_PICK: Kepala Beliung
+  HEAD_SHOVEL: Kepala Penyodok
+  HEAD_SWORD: Mata Pedang
+  LINKS: Rantai Zirah
+  PLATE_BOOTS: Plat But
+  PLATE_CHESTPLATE: Plat Perisai Dada
+  PLATE_HELMET: Plat Topi Keledar
+  PLATE_LEGGINGS: Plat Seluar
+  REPAIR: Kit Pembaikan
+  ROD: Batang Alat
+tool-types:
+  AXE: Kapak
+  HOE: Cangkul
+  PICK: Beliung
+  PICKAXE: Beliung
+  SHOVEL: Penyodok
+  SWORD: Pedang
