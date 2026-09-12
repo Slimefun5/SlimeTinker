@@ -35,8 +35,8 @@ ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
   - '&7&oΕξάρτημα'
 ADAMANTITE_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Adamantite.'
-  name: '&fAdamantite σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Αδαμαντίτης.'
+  name: '&fΑδαμαντίτης σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
@@ -107,14 +107,14 @@ ALUMINUM_SINGULARITY_LIQUID:
   - '&7&oΠόρος'
 ANNIVERSARIUM_ALLOY:
   description:
-  - '&7Ένα λιωμένο κράμα από Anniversarium.'
-  name: '&fAnniversarium σε Λιωμένη Μορφή'
+  - '&7Ένα λιωμένο κράμα από Ανιβερσάριο.'
+  name: '&fΑνιβερσάριο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 ANNIVERSARIUM_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Anniversarium.'
-  name: '&fAnniversarium σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Ανιβερσάριο.'
+  name: '&fΑνιβερσάριο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
@@ -293,8 +293,8 @@ BILLON_LIQUID:
   - '&7&oΠόρος'
 BLOCK_CAST_ADAMANTITE:
   description:
-  - '&7Ένας κύβος από Adamanitite.'
-  name: '&fΚύβος από Adamanitite'
+  - '&7Ένας κύβος από Αδαμανιτίτης.'
+  name: '&fΚύβος από Αδαμανιτίτης'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_ADVANCED_ALLOY:
@@ -324,7 +324,7 @@ BLOCK_CAST_ALU_BRONZE:
 BLOCK_CAST_ANNIVERSARIUM:
   description:
   - '&710 Χρόνια (Slime)fun!'
-  name: '&fΚύβος από Anniversarium'
+  name: '&fΚύβος από Ανιβερσάριο'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_BILLON:
@@ -335,8 +335,8 @@ BLOCK_CAST_BILLON:
   - '&7&oΠόρος'
 BLOCK_CAST_BOOMERITE:
   description:
-  - '&7Ένας κύβος φτιαγμένος από Boomerite'
-  name: '&fΚύβος από Boomerite'
+  - '&7Ένας κύβος φτιαγμένος από Μπουμερίτη'
+  name: '&fΚύβος από Μπουμερίτης'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_BRASS:
@@ -371,8 +371,8 @@ BLOCK_CAST_COR_BRONZE:
   - '&7&oΠόρος'
 BLOCK_CAST_CRINGLEIUM:
   description:
-  - '&7Ένας κύβος φτιαγμένος από Cringleium'
-  name: '&fΚύβος από Cringleium'
+  - '&7Ένας κύβος φτιαγμένος από Κρίνγκλιο'
+  name: '&fΚύβος από Κρίνγκλιο'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_DAMASCUS_STEEL:
@@ -432,8 +432,8 @@ BLOCK_CAST_MAGNESIUM:
   - '&7&oΠόρος'
 BLOCK_CAST_MAGNONIUM:
   description:
-  - '&7Ένας κύβος από Magnonium.'
-  name: '&fΚύβος από Magnonium'
+  - '&7Ένας κύβος από Μαγνόνιο.'
+  name: '&fΚύβος από Μαγνόνιο'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_MAGSTEEL:
@@ -444,8 +444,8 @@ BLOCK_CAST_MAGSTEEL:
   - '&7&oΠόρος'
 BLOCK_CAST_MAG_THOR:
   description:
-  - '&7Ένας κύβος από Mag-Thor'
-  name: '&fΚύβος από Mag-Thor'
+  - '&7Ένας κύβος από Μαγνησιο-Θόριο'
+  name: '&fΚύβος από Μαγνησιο-Θόριο'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_MIXED_METAL:
@@ -456,8 +456,8 @@ BLOCK_CAST_MIXED_METAL:
   - '&7&oΠόρος'
 BLOCK_CAST_MYTHRIL:
   description:
-  - '&7Ένας κύβος από Mythril.'
-  name: '&fΚύβος από Mythril'
+  - '&7Ένας κύβος από Μίθριλ.'
+  name: '&fΚύβος από Μίθριλ'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_NICE:
@@ -506,7 +506,7 @@ BLOCK_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7Ένας κύβος που ξεχειλίζει από μια'
   - '&7ασυναγώνιστη μανία.'
-  name: '&fΚύβος από ενισχυμένο Draconium'
+  name: '&fΚύβος από ενισχυμένο Δρακόνιο'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_REINFORCED_SLIMESTEEL:
@@ -523,8 +523,8 @@ BLOCK_CAST_SCRAP:
   - '&7&oΠόρος'
 BLOCK_CAST_SEFIRITE:
   description:
-  - '&7Ένας κύβος φτιαγμένος από Sefirite'
-  name: '&fΚύβος από Sefirite'
+  - '&7Ένας κύβος φτιαγμένος από Σεφιρίτη'
+  name: '&fΚύβος από Σεφιρίτης'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_SILVER:
@@ -543,7 +543,7 @@ BLOCK_CAST_SMITHIUM:
   description:
   - '&7Ένα απλό μέταλλο με πολλές χρήσεις'
   - '&7σε βασικές βιομηχανικές εργασίες.'
-  name: '&fΚύβος από Smithium'
+  name: '&fΚύβος από Σμίθιο'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_SOLDER:
@@ -578,8 +578,8 @@ BLOCK_CAST_TITANIUM:
   - '&7&oΠόρος'
 BLOCK_CAST_UNPATENTABILUM:
   description:
-  - '&7Ένας κύβος από Unpatentabilum'
-  name: '&fΚύβος από Unpatentabilum'
+  - '&7Ένας κύβος από Ανπατεντάμπιλο'
+  name: '&fΚύβος από Ανπατεντάμπιλο'
   type:
   - '&7&oΠόρος'
 BLOCK_CAST_VOID:
@@ -596,14 +596,14 @@ BLOCK_CAST_ZINC:
   - '&7&oΠόρος'
 BOOMERITE_ALLOY:
   description:
-  - '&7Ένα λιωμένο κράμα από Boomerite.'
-  name: '&fBoomerite σε Λιωμένη Μορφή'
+  - '&7Ένα λιωμένο κράμα από Μπουμερίτης.'
+  name: '&fΜπουμερίτης σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 BOOMERITE_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Boomerite.'
-  name: '&fBoomerite σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Μπουμερίτης.'
+  name: '&fΜπουμερίτης σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
@@ -1110,14 +1110,14 @@ CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
   - '&7&oΕξάρτημα'
 CRINGLEIUM_ALLOY:
   description:
-  - '&7Ένα λιωμένο κράμα από Cringleium.'
-  name: '&fCringleium σε Λιωμένη Μορφή'
+  - '&7Ένα λιωμένο κράμα από Κρίνγκλιο.'
+  name: '&fΚρίνγκλιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 CRINGLEIUM_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Cringleium.'
-  name: '&fCringleium σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Κρίνγκλιο.'
+  name: '&fΚρίνγκλιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
@@ -2058,55 +2058,55 @@ INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
   - '&7Κάτι δεν πάει καλά με αυτό το εργαλείο.'
   - ''
   - '&7Προστέθηκε από: Core SlimeTinker'
-  name: '&fIngheights'
+  name: '&fΙνγκχάιτς'
   type:
   - '&7&oΕξάρτημα'
 INGOT_CAST_ANNIVERSARIUM:
   description:
   - '&710 Χρόνια (Slime)fun!'
-  name: '&fΠλίνθωμα από Anniversarium'
+  name: '&fΠλίνθωμα από Ανιβερσάριο'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_BOOMERITE:
   description:
   - '&7Ένα πολύ σπάνιο πλίνθωμα. Άγνωστης προέλευσης.'
-  name: '&fΠλίνθωμα από Boomerite'
+  name: '&fΠλίνθωμα από Μπουμερίτης'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_CRINGLEIUM:
   description:
   - '&7Ένα γιορτινό πλίνθωμα, διαθέσιμο μόνο για λίγο καιρό.'
-  name: '&fΠλίνθωμα από Cringleium'
+  name: '&fΠλίνθωμα από Κρίνγκλιο'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_DAXI_ABSORPTION:
   description:
-  - '&7Ένα πλίνθωμα Daxi που αποπνέει αποφασιστικότητα.'
-  name: '&fΠλίνθωμα Daxi Απορρόφησης'
+  - '&7Ένα πλίνθωμα Ντάξι που αποπνέει αποφασιστικότητα.'
+  name: '&fΠλίνθωμα Ντάξι Απορρόφησης'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_DAXI_FORTITUDE:
   description:
-  - '&7Ένα πλίνθωμα Daxi που αποπνέει πείσμα.'
-  name: '&fΠλίνθωμα Daxi Σθένους'
+  - '&7Ένα πλίνθωμα Ντάξι που αποπνέει πείσμα.'
+  name: '&fΠλίνθωμα Ντάξι Σθένους'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_DAXI_REGENERATION:
   description:
-  - '&7Ένα πλίνθωμα Daxi που αποπνέει καλοσύνη.'
-  name: '&fΠλίνθωμα Daxi Αναγέννησης'
+  - '&7Ένα πλίνθωμα Ντάξι που αποπνέει καλοσύνη.'
+  name: '&fΠλίνθωμα Ντάξι Αναγέννησης'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_DAXI_SATURATION:
   description:
-  - '&7Ένα πλίνθωμα Daxi που αποπνέει ζεστασιά.'
-  name: '&fΠλίνθωμα Daxi Κορεσμού'
+  - '&7Ένα πλίνθωμα Ντάξι που αποπνέει ζεστασιά.'
+  name: '&fΠλίνθωμα Ντάξι Κορεσμού'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_DAXI_STRENGTH:
   description:
-  - '&7Ένα πλίνθωμα Daxi που αποπνέει δύναμη.'
-  name: '&fΠλίνθωμα Daxi Δύναμης'
+  - '&7Ένα πλίνθωμα Ντάξι που αποπνέει δύναμη.'
+  name: '&fΠλίνθωμα Ντάξι Δύναμης'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_DEVOTION:
@@ -2147,20 +2147,20 @@ INGOT_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7Ένα πλίνθωμα που ξεχειλίζει από μια'
   - '&7ασυναγώνιστη μανία.'
-  name: '&fΠλίνθωμα από ενισχυμένο Draconium'
+  name: '&fΠλίνθωμα από ενισχυμένο Δρακόνιο'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_SEFIRITE:
   description:
   - '&7Ένα πλίνθωμα διαθέσιμο μόνο για λίγο καιρό.'
-  name: '&fΠλίνθωμα από Sefirite'
+  name: '&fΠλίνθωμα από Σεφιρίτης'
   type:
   - '&7&oΠόρος'
 INGOT_CAST_SMITHIUM:
   description:
   - '&7Ένα απλό μέταλλο με πολλές χρήσεις'
   - '&7σε βασικές βιομηχανικές εργασίες.'
-  name: '&fΠλίνθωμα από Smithium'
+  name: '&fΠλίνθωμα από Σμίθιο'
   type:
   - '&7&oΠόρος'
 INSULATED_TRAIT_PROP_BINDING_RUBBER:
@@ -2437,8 +2437,8 @@ MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
   - '&7&oΕξάρτημα'
 MAGNONIUM_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Magnonium.'
-  name: '&fMagnonium σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Μαγνόνιο.'
+  name: '&fΜαγνόνιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 MAGSTEEL_ALLOY:
@@ -2463,14 +2463,14 @@ MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
   - '&7&oΕξάρτημα'
 MAG_THOR_ALLOY:
   description:
-  - '&7Ένα λιωμένο κράμα από Mag Thor.'
-  name: '&fMag Thor σε Λιωμένη Μορφή'
+  - '&7Ένα λιωμένο κράμα από Μαγνησιοθόριο.'
+  name: '&fΜαγνησιοθόριο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 MAG_THOR_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Mag Thor.'
-  name: '&fMag Thor σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Μαγνησιοθόριο.'
+  name: '&fΜαγνησιοθόριο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
@@ -2610,8 +2610,8 @@ MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
   - '&7&oΕξάρτημα'
 MYTHRIL_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Mythril.'
-  name: '&fMythril σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Μίθριλ.'
+  name: '&fΜίθριλ σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
@@ -2624,14 +2624,14 @@ NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
   - '&7&oΕξάρτημα'
 NICEINIUM_ALLOY:
   description:
-  - '&7Ένα λιωμένο κράμα από Niceinium.'
-  name: '&fNiceinium σε Λιωμένη Μορφή'
+  - '&7Ένα λιωμένο κράμα από Ναϊσίνιο.'
+  name: '&fΝαϊσίνιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 NICEINIUM_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Niceinium.'
-  name: '&fNiceinium σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Ναϊσίνιο.'
+  name: '&fΝαϊσίνιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
@@ -2697,8 +2697,8 @@ NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
   - '&7&oΕξάρτημα'
 NUGGET_CAST_ADAMANTITE:
   description:
-  - '&7Ένα ψήγμα φτιαγμένο από συμπαγές Adamantite'
-  name: '&fΨήγμα από Adamantite'
+  - '&7Ένα ψήγμα φτιαγμένο από συμπαγή Αδαμαντίτη'
+  name: '&fΨήγμα από Αδαμαντίτης'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_ADVANCED_ALLOY:
@@ -2728,7 +2728,7 @@ NUGGET_CAST_ALU_BRONZE:
 NUGGET_CAST_ANNIVERSARIUM:
   description:
   - '&710 Χρόνια (Slime)fun!'
-  name: '&fΨήγμα από Anniversarium'
+  name: '&fΨήγμα από Ανιβερσάριο'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_BILLON:
@@ -2739,8 +2739,8 @@ NUGGET_CAST_BILLON:
   - '&7&oΠόρος'
 NUGGET_CAST_BOOMERITE:
   description:
-  - '&7Ένα ψήγμα φτιαγμένο από Boomerite'
-  name: '&fΨήγμα από Boomerite'
+  - '&7Ένα ψήγμα φτιαγμένο από Μπουμερίτη'
+  name: '&fΨήγμα από Μπουμερίτης'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_BRASS:
@@ -2781,8 +2781,8 @@ NUGGET_CAST_COR_BRONZE:
   - '&7&oΠόρος'
 NUGGET_CAST_CRINGLEIUM:
   description:
-  - '&7Ένα ψήγμα φτιαγμένο από Cringleium.'
-  name: '&fΨήγμα από Cringleium'
+  - '&7Ένα ψήγμα φτιαγμένο από Κρίνγκλιο.'
+  name: '&fΨήγμα από Κρίνγκλιο'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_DAMASCUS_STEEL:
@@ -2793,32 +2793,32 @@ NUGGET_CAST_DAMASCUS_STEEL:
   - '&7&oΠόρος'
 NUGGET_CAST_DAXI_ABSORPTION:
   description:
-  - '&7Ένα ψήγμα Daxi που αποπνέει αποφασιστικότητα.'
-  name: '&fΨήγμα Daxi Απορρόφησης'
+  - '&7Ένα ψήγμα Ντάξι που αποπνέει αποφασιστικότητα.'
+  name: '&fΨήγμα Ντάξι Απορρόφησης'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_DAXI_FORTITUDE:
   description:
-  - '&7Ένα ψήγμα Daxi που αποπνέει πείσμα.'
-  name: '&fΨήγμα Daxi Σθένους'
+  - '&7Ένα ψήγμα Ντάξι που αποπνέει πείσμα.'
+  name: '&fΨήγμα Ντάξι Σθένους'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_DAXI_REGENERATION:
   description:
-  - '&7Ένα ψήγμα Daxi που αποπνέει καλοσύνη.'
-  name: '&fΨήγμα Daxi Αναγέννησης'
+  - '&7Ένα ψήγμα Ντάξι που αποπνέει καλοσύνη.'
+  name: '&fΨήγμα Ντάξι Αναγέννησης'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_DAXI_SATURATION:
   description:
-  - '&7Ένα ψήγμα Daxi που αποπνέει ζεστασιά.'
-  name: '&fΨήγμα Daxi Κορεσμού'
+  - '&7Ένα ψήγμα Ντάξι που αποπνέει ζεστασιά.'
+  name: '&fΨήγμα Ντάξι Κορεσμού'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_DAXI_STRENGTH:
   description:
-  - '&7Ένα ψήγμα Daxi που αποπνέει δύναμη.'
-  name: '&fΨήγμα Daxi Δύναμης'
+  - '&7Ένα ψήγμα Ντάξι που αποπνέει δύναμη.'
+  name: '&fΨήγμα Ντάξι Δύναμης'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_DEVOTION:
@@ -2886,8 +2886,8 @@ NUGGET_CAST_MAGNESIUM:
   - '&7&oΠόρος'
 NUGGET_CAST_MAGNONIUM:
   description:
-  - '&7Ένα ψήγμα φτιαγμένο από συμπαγές Magnonium'
-  name: '&fΨήγμα από Magnonium'
+  - '&7Ένα ψήγμα φτιαγμένο από συμπαγές Μαγνόνιο'
+  name: '&fΨήγμα από Μαγνόνιο'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_MAGSTEEL:
@@ -2898,8 +2898,8 @@ NUGGET_CAST_MAGSTEEL:
   - '&7&oΠόρος'
 NUGGET_CAST_MAG_THOR:
   description:
-  - '&7Ένα ψήγμα Mag-Thor'
-  name: '&fΨήγμα από Mag-Thor'
+  - '&7Ένα ψήγμα Μαγνησιο-Θορίου'
+  name: '&fΨήγμα από Μαγνησιο-Θόριο'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_MIXED_METAL:
@@ -2910,8 +2910,8 @@ NUGGET_CAST_MIXED_METAL:
   - '&7&oΠόρος'
 NUGGET_CAST_MYTHRIL:
   description:
-  - '&7Ένα ψήγμα φτιαγμένο από συμπαγές Mythril'
-  name: '&fΨήγμα από Mythril'
+  - '&7Ένα ψήγμα φτιαγμένο από συμπαγές Μίθριλ'
+  name: '&fΨήγμα από Μίθριλ'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_NICE:
@@ -2967,7 +2967,7 @@ NUGGET_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7Ένα πλίνθωμα που ξεχειλίζει από μια'
   - '&7ασυναγώνιστη μανία.'
-  name: '&fΨήγμα από ενισχυμένο Draconium'
+  name: '&fΨήγμα από ενισχυμένο Δρακόνιο'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_REINFORCED_SLIMESTEEL:
@@ -2984,8 +2984,8 @@ NUGGET_CAST_SCRAP:
   - '&7&oΠόρος'
 NUGGET_CAST_SEFIRITE:
   description:
-  - '&7Ένα ψήγμα φτιαγμένο από Sefirite'
-  name: '&fΨήγμα από Sefirite'
+  - '&7Ένα ψήγμα φτιαγμένο από Σεφιρίτη'
+  name: '&fΨήγμα από Σεφιρίτης'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_SILVER:
@@ -3004,7 +3004,7 @@ NUGGET_CAST_SMITHIUM:
   description:
   - '&7Ένα απλό μέταλλο με πολλές χρήσεις'
   - '&7σε βασικές βιομηχανικές εργασίες.'
-  name: '&fΨήγμα από Smithium'
+  name: '&fΨήγμα από Σμίθιο'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_SOLDER:
@@ -3039,8 +3039,8 @@ NUGGET_CAST_TITANIUM:
   - '&7&oΠόρος'
 NUGGET_CAST_UNPATENTABILUM:
   description:
-  - '&7Ένα ψήγμα Unpatentabilum'
-  name: '&fΨήγμα από Unpatentabilum'
+  - '&7Ένα ψήγμα Ανπατεντάμπιλου'
+  name: '&fΨήγμα από Ανπατεντάμπιλο'
   type:
   - '&7&oΠόρος'
 NUGGET_CAST_ZINC:
@@ -3301,8 +3301,8 @@ PART_GAMBESON_WEEPING_VINE:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEADAMANTITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Adamantite.'
-  name: '&fΚεφαλή Τσεκουριού από Adamantite'
+  - '&7Μια κεφαλή εργαλείου από Αδαμαντίτης.'
+  name: '&fΚεφαλή Τσεκουριού από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEADVANCED_ALLOY:
@@ -3343,8 +3343,8 @@ PART_HEAD_AXEBILLON:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEBOOMERITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Boomerite.'
-  name: '&fΚεφαλή Τσεκουριού από Boomerite'
+  - '&7Μια κεφαλή εργαλείου από Μπουμερίτης.'
+  name: '&fΚεφαλή Τσεκουριού από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEBRASS:
@@ -3493,8 +3493,8 @@ PART_HEAD_AXEMAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEMAGNONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Magnonium.'
-  name: '&fΚεφαλή Τσεκουριού από Magnonium'
+  - '&7Μια κεφαλή εργαλείου από Μαγνόνιο.'
+  name: '&fΚεφαλή Τσεκουριού από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEMAGSTEEL:
@@ -3505,8 +3505,8 @@ PART_HEAD_AXEMAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEMAG_THOR:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mag Thor.'
-  name: '&fΚεφαλή Τσεκουριού από Mag Thor'
+  - '&7Μια κεφαλή εργαλείου από Μαγνησιοθόριο.'
+  name: '&fΚεφαλή Τσεκουριού από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEMETAL_SINGULARITY:
@@ -3523,14 +3523,14 @@ PART_HEAD_AXEMIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEMYTHRIL:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mythril.'
-  name: '&fΚεφαλή Τσεκουριού από Mythril'
+  - '&7Μια κεφαλή εργαλείου από Μίθριλ.'
+  name: '&fΚεφαλή Τσεκουριού από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXENICEINIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Niceinium.'
-  name: '&fΚεφαλή Τσεκουριού από Niceinium'
+  - '&7Μια κεφαλή εργαλείου από Ναϊσίνιο.'
+  name: '&fΚεφαλή Τσεκουριού από Ναϊσίνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXENICKEL:
@@ -3553,8 +3553,8 @@ PART_HEAD_AXEREINFORCED_ALLOY:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXEREINFORCED_DRACONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Draconium.'
-  name: '&fΚεφαλή Τσεκουριού από ενισχυμένο Draconium'
+  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Δρακόνιο.'
+  name: '&fΚεφαλή Τσεκουριού από ενισχυμένο Δρακόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXESCRAP:
@@ -3577,8 +3577,8 @@ PART_HEAD_AXESILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXESMITHIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Smithium.'
-  name: '&fΚεφαλή Τσεκουριού από Smithium'
+  - '&7Μια κεφαλή εργαλείου από Σμίθιο.'
+  name: '&fΚεφαλή Τσεκουριού από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_AXESOLDER:
@@ -3649,8 +3649,8 @@ PART_HEAD_AXEZINC_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEADAMANTITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Adamantite.'
-  name: '&fΚεφαλή Τσάπας από Adamantite'
+  - '&7Μια κεφαλή εργαλείου από Αδαμαντίτης.'
+  name: '&fΚεφαλή Τσάπας από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEADVANCED_ALLOY:
@@ -3691,8 +3691,8 @@ PART_HEAD_HOEBILLON:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEBOOMERITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Boomerite.'
-  name: '&fΚεφαλή Τσάπας από Boomerite'
+  - '&7Μια κεφαλή εργαλείου από Μπουμερίτης.'
+  name: '&fΚεφαλή Τσάπας από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEBRASS:
@@ -3841,8 +3841,8 @@ PART_HEAD_HOEMAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEMAGNONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Magnonium.'
-  name: '&fΚεφαλή Τσάπας από Magnonium'
+  - '&7Μια κεφαλή εργαλείου από Μαγνόνιο.'
+  name: '&fΚεφαλή Τσάπας από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEMAGSTEEL:
@@ -3853,8 +3853,8 @@ PART_HEAD_HOEMAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEMAG_THOR:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mag Thor.'
-  name: '&fΚεφαλή Τσάπας από Mag Thor'
+  - '&7Μια κεφαλή εργαλείου από Μαγνησιοθόριο.'
+  name: '&fΚεφαλή Τσάπας από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEMETAL_SINGULARITY:
@@ -3871,14 +3871,14 @@ PART_HEAD_HOEMIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEMYTHRIL:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mythril.'
-  name: '&fΚεφαλή Τσάπας από Mythril'
+  - '&7Μια κεφαλή εργαλείου από Μίθριλ.'
+  name: '&fΚεφαλή Τσάπας από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOENICEINIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Niceinium.'
-  name: '&fΚεφαλή Τσάπας από Niceinium'
+  - '&7Μια κεφαλή εργαλείου από Ναϊσίνιο.'
+  name: '&fΚεφαλή Τσάπας από Ναϊσίνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOENICKEL:
@@ -3901,8 +3901,8 @@ PART_HEAD_HOEREINFORCED_ALLOY:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOEREINFORCED_DRACONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Draconium.'
-  name: '&fΚεφαλή Τσάπας από ενισχυμένο Draconium'
+  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Δρακόνιο.'
+  name: '&fΚεφαλή Τσάπας από ενισχυμένο Δρακόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOESCRAP:
@@ -3925,8 +3925,8 @@ PART_HEAD_HOESILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOESMITHIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Smithium.'
-  name: '&fΚεφαλή Τσάπας από Smithium'
+  - '&7Μια κεφαλή εργαλείου από Σμίθιο.'
+  name: '&fΚεφαλή Τσάπας από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_HOESOLDER:
@@ -3997,8 +3997,8 @@ PART_HEAD_HOEZINC_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKADAMANTITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Adamantite.'
-  name: '&fΚεφαλή Αξίνας από Adamantite'
+  - '&7Μια κεφαλή εργαλείου από Αδαμαντίτης.'
+  name: '&fΚεφαλή Αξίνας από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKADVANCED_ALLOY:
@@ -4039,8 +4039,8 @@ PART_HEAD_PICKBILLON:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKBOOMERITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Boomerite.'
-  name: '&fΚεφαλή Αξίνας από Boomerite'
+  - '&7Μια κεφαλή εργαλείου από Μπουμερίτης.'
+  name: '&fΚεφαλή Αξίνας από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKBRASS:
@@ -4189,8 +4189,8 @@ PART_HEAD_PICKMAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKMAGNONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Magnonium.'
-  name: '&fΚεφαλή Αξίνας από Magnonium'
+  - '&7Μια κεφαλή εργαλείου από Μαγνόνιο.'
+  name: '&fΚεφαλή Αξίνας από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKMAGSTEEL:
@@ -4201,8 +4201,8 @@ PART_HEAD_PICKMAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKMAG_THOR:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mag Thor.'
-  name: '&fΚεφαλή Αξίνας από Mag Thor'
+  - '&7Μια κεφαλή εργαλείου από Μαγνησιοθόριο.'
+  name: '&fΚεφαλή Αξίνας από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKMETAL_SINGULARITY:
@@ -4219,14 +4219,14 @@ PART_HEAD_PICKMIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKMYTHRIL:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mythril.'
-  name: '&fΚεφαλή Αξίνας από Mythril'
+  - '&7Μια κεφαλή εργαλείου από Μίθριλ.'
+  name: '&fΚεφαλή Αξίνας από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKNICEINIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Niceinium.'
-  name: '&fΚεφαλή Αξίνας από Niceinium'
+  - '&7Μια κεφαλή εργαλείου από Ναϊσίνιο.'
+  name: '&fΚεφαλή Αξίνας από Ναϊσίνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKNICKEL:
@@ -4249,8 +4249,8 @@ PART_HEAD_PICKREINFORCED_ALLOY:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKREINFORCED_DRACONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Draconium.'
-  name: '&fΚεφαλή Αξίνας από ενισχυμένο Draconium'
+  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Δρακόνιο.'
+  name: '&fΚεφαλή Αξίνας από ενισχυμένο Δρακόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKSCRAP:
@@ -4273,8 +4273,8 @@ PART_HEAD_PICKSILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKSMITHIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Smithium.'
-  name: '&fΚεφαλή Αξίνας από Smithium'
+  - '&7Μια κεφαλή εργαλείου από Σμίθιο.'
+  name: '&fΚεφαλή Αξίνας από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_PICKSOLDER:
@@ -4345,8 +4345,8 @@ PART_HEAD_PICKZINC_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELADAMANTITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Adamantite.'
-  name: '&fΚεφαλή Φτυαριού από Adamantite'
+  - '&7Μια κεφαλή εργαλείου από Αδαμαντίτης.'
+  name: '&fΚεφαλή Φτυαριού από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELADVANCED_ALLOY:
@@ -4387,8 +4387,8 @@ PART_HEAD_SHOVELBILLON:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELBOOMERITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Boomerite.'
-  name: '&fΚεφαλή Φτυαριού από Boomerite'
+  - '&7Μια κεφαλή εργαλείου από Μπουμερίτης.'
+  name: '&fΚεφαλή Φτυαριού από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELBRASS:
@@ -4537,8 +4537,8 @@ PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELMAGNONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Magnonium.'
-  name: '&fΚεφαλή Φτυαριού από Magnonium'
+  - '&7Μια κεφαλή εργαλείου από Μαγνόνιο.'
+  name: '&fΚεφαλή Φτυαριού από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELMAGSTEEL:
@@ -4549,8 +4549,8 @@ PART_HEAD_SHOVELMAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELMAG_THOR:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mag Thor.'
-  name: '&fΚεφαλή Φτυαριού από Mag Thor'
+  - '&7Μια κεφαλή εργαλείου από Μαγνησιοθόριο.'
+  name: '&fΚεφαλή Φτυαριού από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELMETAL_SINGULARITY:
@@ -4567,14 +4567,14 @@ PART_HEAD_SHOVELMIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELMYTHRIL:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mythril.'
-  name: '&fΚεφαλή Φτυαριού από Mythril'
+  - '&7Μια κεφαλή εργαλείου από Μίθριλ.'
+  name: '&fΚεφαλή Φτυαριού από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELNICEINIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Niceinium.'
-  name: '&fΚεφαλή Φτυαριού από Niceinium'
+  - '&7Μια κεφαλή εργαλείου από Ναϊσίνιο.'
+  name: '&fΚεφαλή Φτυαριού από Ναϊσίνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELNICKEL:
@@ -4597,8 +4597,8 @@ PART_HEAD_SHOVELREINFORCED_ALLOY:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELREINFORCED_DRACONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Draconium.'
-  name: '&fΚεφαλή Φτυαριού από ενισχυμένο Draconium'
+  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Δρακόνιο.'
+  name: '&fΚεφαλή Φτυαριού από ενισχυμένο Δρακόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELSCRAP:
@@ -4621,8 +4621,8 @@ PART_HEAD_SHOVELSILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELSMITHIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Smithium.'
-  name: '&fΚεφαλή Φτυαριού από Smithium'
+  - '&7Μια κεφαλή εργαλείου από Σμίθιο.'
+  name: '&fΚεφαλή Φτυαριού από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SHOVELSOLDER:
@@ -4693,8 +4693,8 @@ PART_HEAD_SHOVELZINC_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDADAMANTITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Adamantite.'
-  name: '&fΚεφαλή Σπαθιού από Adamantite'
+  - '&7Μια κεφαλή εργαλείου από Αδαμαντίτης.'
+  name: '&fΚεφαλή Σπαθιού από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDADVANCED_ALLOY:
@@ -4735,8 +4735,8 @@ PART_HEAD_SWORDBILLON:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDBOOMERITE:
   description:
-  - '&7Μια κεφαλή εργαλείου από Boomerite.'
-  name: '&fΚεφαλή Σπαθιού από Boomerite'
+  - '&7Μια κεφαλή εργαλείου από Μπουμερίτης.'
+  name: '&fΚεφαλή Σπαθιού από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDBRASS:
@@ -4885,8 +4885,8 @@ PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDMAGNONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Magnonium.'
-  name: '&fΚεφαλή Σπαθιού από Magnonium'
+  - '&7Μια κεφαλή εργαλείου από Μαγνόνιο.'
+  name: '&fΚεφαλή Σπαθιού από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDMAGSTEEL:
@@ -4897,8 +4897,8 @@ PART_HEAD_SWORDMAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDMAG_THOR:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mag Thor.'
-  name: '&fΚεφαλή Σπαθιού από Mag Thor'
+  - '&7Μια κεφαλή εργαλείου από Μαγνησιοθόριο.'
+  name: '&fΚεφαλή Σπαθιού από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDMETAL_SINGULARITY:
@@ -4915,14 +4915,14 @@ PART_HEAD_SWORDMIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDMYTHRIL:
   description:
-  - '&7Μια κεφαλή εργαλείου από Mythril.'
-  name: '&fΚεφαλή Σπαθιού από Mythril'
+  - '&7Μια κεφαλή εργαλείου από Μίθριλ.'
+  name: '&fΚεφαλή Σπαθιού από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDNICEINIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Niceinium.'
-  name: '&fΚεφαλή Σπαθιού από Niceinium'
+  - '&7Μια κεφαλή εργαλείου από Ναϊσίνιο.'
+  name: '&fΚεφαλή Σπαθιού από Ναϊσίνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDNICKEL:
@@ -4945,8 +4945,8 @@ PART_HEAD_SWORDREINFORCED_ALLOY:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDREINFORCED_DRACONIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Draconium.'
-  name: '&fΚεφαλή Σπαθιού από ενισχυμένο Draconium'
+  - '&7Μια κεφαλή εργαλείου από ενισχυμένο Δρακόνιο.'
+  name: '&fΚεφαλή Σπαθιού από ενισχυμένο Δρακόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDSCRAP:
@@ -4969,8 +4969,8 @@ PART_HEAD_SWORDSILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDSMITHIUM:
   description:
-  - '&7Μια κεφαλή εργαλείου από Smithium.'
-  name: '&fΚεφαλή Σπαθιού από Smithium'
+  - '&7Μια κεφαλή εργαλείου από Σμίθιο.'
+  name: '&fΚεφαλή Σπαθιού από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_HEAD_SWORDSOLDER:
@@ -5083,8 +5083,8 @@ PART_LEG_PLATE_DUMMY:
   - '&7&oΕξάρτημα'
 PART_LINKS_ADAMANTITE:
   description:
-  - '&7Ένα σετ κρίκων αλυσίδας από Adamantite.'
-  name: '&fΚρίκοι Αλυσίδας από Adamantite'
+  - '&7Ένα σετ κρίκων αλυσίδας από Αδαμαντίτης.'
+  name: '&fΚρίκοι Αλυσίδας από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_LINKS_ADVANCED_ALLOY:
@@ -5161,8 +5161,8 @@ PART_LINKS_CORINTHIAN_BRONZE:
   - '&7&oΕξάρτημα'
 PART_LINKS_CRINGLEIUM:
   description:
-  - '&7Ένα σετ κρίκων αλυσίδας από Cringleium.'
-  name: '&fΚρίκοι Αλυσίδας από Cringleium'
+  - '&7Ένα σετ κρίκων αλυσίδας από Κρίνγκλιο.'
+  name: '&fΚρίκοι Αλυσίδας από Κρίνγκλιο'
   type:
   - '&7&oΕξάρτημα'
 PART_LINKS_DAMASCUS_STEEL:
@@ -5287,8 +5287,8 @@ PART_LINKS_MAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_LINKS_MAGNONIUM:
   description:
-  - '&7Ένα σετ κρίκων αλυσίδας από Magnonium.'
-  name: '&fΚρίκοι Αλυσίδας από Magnonium'
+  - '&7Ένα σετ κρίκων αλυσίδας από Μαγνόνιο.'
+  name: '&fΚρίκοι Αλυσίδας από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_LINKS_MAGSTEEL:
@@ -5299,8 +5299,8 @@ PART_LINKS_MAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_LINKS_MAG_THOR:
   description:
-  - '&7Ένα σετ κρίκων αλυσίδας από Mag Thor.'
-  name: '&fΚρίκοι Αλυσίδας από Mag Thor'
+  - '&7Ένα σετ κρίκων αλυσίδας από Μαγνησιοθόριο.'
+  name: '&fΚρίκοι Αλυσίδας από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_LINKS_METAL_SINGULARITY:
@@ -5317,8 +5317,8 @@ PART_LINKS_MIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_LINKS_MYTHRIL:
   description:
-  - '&7Ένα σετ κρίκων αλυσίδας από Mythril.'
-  name: '&fΚρίκοι Αλυσίδας από Mythril'
+  - '&7Ένα σετ κρίκων αλυσίδας από Μίθριλ.'
+  name: '&fΚρίκοι Αλυσίδας από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_LINKS_NICKEL:
@@ -5365,8 +5365,8 @@ PART_LINKS_SILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_LINKS_SMITHIUM:
   description:
-  - '&7Ένα σετ κρίκων αλυσίδας από Smithium.'
-  name: '&fΚρίκοι Αλυσίδας από Smithium'
+  - '&7Ένα σετ κρίκων αλυσίδας από Σμίθιο.'
+  name: '&fΚρίκοι Αλυσίδας από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_LINKS_SOLDER:
@@ -5419,8 +5419,8 @@ PART_LINKS_TITANIUM:
   - '&7&oΕξάρτημα'
 PART_LINKS_ULTIMANINIUM:
   description:
-  - '&7Ένα σετ κρίκων αλυσίδας από Ultimaninium.'
-  name: '&fΚρίκοι Αλυσίδας από Ultimaninium'
+  - '&7Ένα σετ κρίκων αλυσίδας από Ουλτιμανίνιο.'
+  name: '&fΚρίκοι Αλυσίδας από Ουλτιμανίνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_LINKS_VOID:
@@ -5463,8 +5463,8 @@ PART_PICKAXE_HEAD_DUMMY:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSADAMANTITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Adamantite.'
-  name: '&fΠλάκες Μποτών από Adamantite'
+  - '&7Ένα σετ πλακών πανοπλίας από Αδαμαντίτης.'
+  name: '&fΠλάκες Μποτών από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSADVANCED_ALLOY:
@@ -5499,8 +5499,8 @@ PART_PLATES_BOOTSALUMINUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSANNIVERSARIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Anniversarium.'
-  name: '&fΠλάκες Μποτών από Anniversarium'
+  - '&7Ένα σετ πλακών πανοπλίας από Ανιβερσάριο.'
+  name: '&fΠλάκες Μποτών από Ανιβερσάριο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSBILLON:
@@ -5511,8 +5511,8 @@ PART_PLATES_BOOTSBILLON:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSBOOMERITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Boomerite.'
-  name: '&fΠλάκες Μποτών από Boomerite'
+  - '&7Ένα σετ πλακών πανοπλίας από Μπουμερίτης.'
+  name: '&fΠλάκες Μποτών από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSBRASS:
@@ -5661,8 +5661,8 @@ PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSMAGNONIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Magnonium.'
-  name: '&fΠλάκες Μποτών από Magnonium'
+  - '&7Ένα σετ πλακών πανοπλίας από Μαγνόνιο.'
+  name: '&fΠλάκες Μποτών από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSMAGSTEEL:
@@ -5673,8 +5673,8 @@ PART_PLATES_BOOTSMAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSMAG_THOR:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Mag Thor.'
-  name: '&fΠλάκες Μποτών από Mag Thor'
+  - '&7Ένα σετ πλακών πανοπλίας από Μαγνησιοθόριο.'
+  name: '&fΠλάκες Μποτών από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSMETAL_SINGULARITY:
@@ -5691,8 +5691,8 @@ PART_PLATES_BOOTSMIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSMYTHRIL:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Mythril.'
-  name: '&fΠλάκες Μποτών από Mythril'
+  - '&7Ένα σετ πλακών πανοπλίας από Μίθριλ.'
+  name: '&fΠλάκες Μποτών από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSNICKEL:
@@ -5727,8 +5727,8 @@ PART_PLATES_BOOTSSCRAP:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSSEFIRITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Sefirite.'
-  name: '&fΠλάκες Μποτών από Sefirite'
+  - '&7Ένα σετ πλακών πανοπλίας από Σεφιρίτης.'
+  name: '&fΠλάκες Μποτών από Σεφιρίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSSILVER:
@@ -5745,8 +5745,8 @@ PART_PLATES_BOOTSSILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSSMITHIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Smithium.'
-  name: '&fΠλάκες Μποτών από Smithium'
+  - '&7Ένα σετ πλακών πανοπλίας από Σμίθιο.'
+  name: '&fΠλάκες Μποτών από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSSOLDER:
@@ -5817,8 +5817,8 @@ PART_PLATES_BOOTSZINC_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEADAMANTITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Adamantite.'
-  name: '&fΠλάκες Θώρακα από Adamantite'
+  - '&7Ένα σετ πλακών πανοπλίας από Αδαμαντίτης.'
+  name: '&fΠλάκες Θώρακα από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEADVANCED_ALLOY:
@@ -5853,8 +5853,8 @@ PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Anniversarium.'
-  name: '&fΠλάκες Θώρακα από Anniversarium'
+  - '&7Ένα σετ πλακών πανοπλίας από Ανιβερσάριο.'
+  name: '&fΠλάκες Θώρακα από Ανιβερσάριο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEBILLON:
@@ -5865,8 +5865,8 @@ PART_PLATES_CHESTPLATEBILLON:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEBOOMERITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Boomerite.'
-  name: '&fΠλάκες Θώρακα από Boomerite'
+  - '&7Ένα σετ πλακών πανοπλίας από Μπουμερίτης.'
+  name: '&fΠλάκες Θώρακα από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEBRASS:
@@ -6015,8 +6015,8 @@ PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEMAGNONIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Magnonium.'
-  name: '&fΠλάκες Θώρακα από Magnonium'
+  - '&7Ένα σετ πλακών πανοπλίας από Μαγνόνιο.'
+  name: '&fΠλάκες Θώρακα από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEMAGSTEEL:
@@ -6027,8 +6027,8 @@ PART_PLATES_CHESTPLATEMAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEMAG_THOR:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Mag Thor.'
-  name: '&fΠλάκες Θώρακα από Mag Thor'
+  - '&7Ένα σετ πλακών πανοπλίας από Μαγνησιοθόριο.'
+  name: '&fΠλάκες Θώρακα από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
@@ -6045,8 +6045,8 @@ PART_PLATES_CHESTPLATEMIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATEMYTHRIL:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Mythril.'
-  name: '&fΠλάκες Θώρακα από Mythril'
+  - '&7Ένα σετ πλακών πανοπλίας από Μίθριλ.'
+  name: '&fΠλάκες Θώρακα από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATENICKEL:
@@ -6081,8 +6081,8 @@ PART_PLATES_CHESTPLATESCRAP:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATESEFIRITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Sefirite.'
-  name: '&fΠλάκες Θώρακα από Sefirite'
+  - '&7Ένα σετ πλακών πανοπλίας από Σεφιρίτης.'
+  name: '&fΠλάκες Θώρακα από Σεφιρίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATESILVER:
@@ -6099,8 +6099,8 @@ PART_PLATES_CHESTPLATESILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATESMITHIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Smithium.'
-  name: '&fΠλάκες Θώρακα από Smithium'
+  - '&7Ένα σετ πλακών πανοπλίας από Σμίθιο.'
+  name: '&fΠλάκες Θώρακα από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_CHESTPLATESOLDER:
@@ -6171,8 +6171,8 @@ PART_PLATES_CHESTPLATEZINC_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETADAMANTITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Adamantite.'
-  name: '&fΠλάκες Κράνους από Adamantite'
+  - '&7Ένα σετ πλακών πανοπλίας από Αδαμαντίτης.'
+  name: '&fΠλάκες Κράνους από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETADVANCED_ALLOY:
@@ -6207,8 +6207,8 @@ PART_PLATES_HELMETALUMINUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETANNIVERSARIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Anniversarium.'
-  name: '&fΠλάκες Κράνους από Anniversarium'
+  - '&7Ένα σετ πλακών πανοπλίας από Ανιβερσάριο.'
+  name: '&fΠλάκες Κράνους από Ανιβερσάριο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETBILLON:
@@ -6219,8 +6219,8 @@ PART_PLATES_HELMETBILLON:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETBOOMERITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Boomerite.'
-  name: '&fΠλάκες Κράνους από Boomerite'
+  - '&7Ένα σετ πλακών πανοπλίας από Μπουμερίτης.'
+  name: '&fΠλάκες Κράνους από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETBRASS:
@@ -6369,8 +6369,8 @@ PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETMAGNONIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Magnonium.'
-  name: '&fΠλάκες Κράνους από Magnonium'
+  - '&7Ένα σετ πλακών πανοπλίας από Μαγνόνιο.'
+  name: '&fΠλάκες Κράνους από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETMAGSTEEL:
@@ -6381,8 +6381,8 @@ PART_PLATES_HELMETMAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETMAG_THOR:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Mag Thor.'
-  name: '&fΠλάκες Κράνους από Mag Thor'
+  - '&7Ένα σετ πλακών πανοπλίας από Μαγνησιοθόριο.'
+  name: '&fΠλάκες Κράνους από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETMETAL_SINGULARITY:
@@ -6399,8 +6399,8 @@ PART_PLATES_HELMETMIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETMYTHRIL:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Mythril.'
-  name: '&fΠλάκες Κράνους από Mythril'
+  - '&7Ένα σετ πλακών πανοπλίας από Μίθριλ.'
+  name: '&fΠλάκες Κράνους από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETNICKEL:
@@ -6435,8 +6435,8 @@ PART_PLATES_HELMETSCRAP:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETSEFIRITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Sefirite.'
-  name: '&fΠλάκες Κράνους από Sefirite'
+  - '&7Ένα σετ πλακών πανοπλίας από Σεφιρίτης.'
+  name: '&fΠλάκες Κράνους από Σεφιρίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETSILVER:
@@ -6453,8 +6453,8 @@ PART_PLATES_HELMETSILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETSMITHIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Smithium.'
-  name: '&fΠλάκες Κράνους από Smithium'
+  - '&7Ένα σετ πλακών πανοπλίας από Σμίθιο.'
+  name: '&fΠλάκες Κράνους από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_HELMETSOLDER:
@@ -6525,8 +6525,8 @@ PART_PLATES_HELMETZINC_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSADAMANTITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Adamantite.'
-  name: '&fΠλάκες Περικνημίδων από Adamantite'
+  - '&7Ένα σετ πλακών πανοπλίας από Αδαμαντίτης.'
+  name: '&fΠλάκες Περικνημίδων από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSADVANCED_ALLOY:
@@ -6561,8 +6561,8 @@ PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Anniversarium.'
-  name: '&fΠλάκες Περικνημίδων από Anniversarium'
+  - '&7Ένα σετ πλακών πανοπλίας από Ανιβερσάριο.'
+  name: '&fΠλάκες Περικνημίδων από Ανιβερσάριο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSBILLON:
@@ -6573,8 +6573,8 @@ PART_PLATES_LEGGINGSBILLON:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSBOOMERITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Boomerite.'
-  name: '&fΠλάκες Περικνημίδων από Boomerite'
+  - '&7Ένα σετ πλακών πανοπλίας από Μπουμερίτης.'
+  name: '&fΠλάκες Περικνημίδων από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSBRASS:
@@ -6723,8 +6723,8 @@ PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSMAGNONIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Magnonium.'
-  name: '&fΠλάκες Περικνημίδων από Magnonium'
+  - '&7Ένα σετ πλακών πανοπλίας από Μαγνόνιο.'
+  name: '&fΠλάκες Περικνημίδων από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSMAGSTEEL:
@@ -6735,8 +6735,8 @@ PART_PLATES_LEGGINGSMAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSMAG_THOR:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Mag Thor.'
-  name: '&fΠλάκες Περικνημίδων από Mag Thor'
+  - '&7Ένα σετ πλακών πανοπλίας από Μαγνησιοθόριο.'
+  name: '&fΠλάκες Περικνημίδων από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSMETAL_SINGULARITY:
@@ -6753,8 +6753,8 @@ PART_PLATES_LEGGINGSMIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSMYTHRIL:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Mythril.'
-  name: '&fΠλάκες Περικνημίδων από Mythril'
+  - '&7Ένα σετ πλακών πανοπλίας από Μίθριλ.'
+  name: '&fΠλάκες Περικνημίδων από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSNICKEL:
@@ -6789,8 +6789,8 @@ PART_PLATES_LEGGINGSSCRAP:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSSEFIRITE:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Sefirite.'
-  name: '&fΠλάκες Περικνημίδων από Sefirite'
+  - '&7Ένα σετ πλακών πανοπλίας από Σεφιρίτης.'
+  name: '&fΠλάκες Περικνημίδων από Σεφιρίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSSILVER:
@@ -6807,8 +6807,8 @@ PART_PLATES_LEGGINGSSILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSSMITHIUM:
   description:
-  - '&7Ένα σετ πλακών πανοπλίας από Smithium.'
-  name: '&fΠλάκες Περικνημίδων από Smithium'
+  - '&7Ένα σετ πλακών πανοπλίας από Σμίθιο.'
+  name: '&fΠλάκες Περικνημίδων από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_LEGGINGSSOLDER:
@@ -6888,8 +6888,8 @@ PART_REPAIR_KIT:
 PART_REPAIR_KIT_ADAMANTITE:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από Adamantite.'
-  name: '&fΣετ Επισκευής από Adamantite'
+  - '&7φτιαγμένο από Αδαμαντίτη.'
+  name: '&fΣετ Επισκευής από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_ADVANCED_ALLOY:
@@ -6930,8 +6930,8 @@ PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
 PART_REPAIR_KIT_ANNIVERSARIUM:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από Anniversarium.'
-  name: '&fΣετ Επισκευής από Anniversarium'
+  - '&7φτιαγμένο από Ανιβερσάριο.'
+  name: '&fΣετ Επισκευής από Ανιβερσάριο'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_BILLON:
@@ -6944,8 +6944,8 @@ PART_REPAIR_KIT_BILLON:
 PART_REPAIR_KIT_BOOMERITE:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από Boomerite.'
-  name: '&fΣετ Επισκευής από Boomerite'
+  - '&7φτιαγμένο από Μπουμερίτη.'
+  name: '&fΣετ Επισκευής από Μπουμερίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_BRASS:
@@ -7125,8 +7125,8 @@ PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
 PART_REPAIR_KIT_MAGNONIUM:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από Magnonium.'
-  name: '&fΣετ Επισκευής από Magnonium'
+  - '&7φτιαγμένο από Μαγνόνιο.'
+  name: '&fΣετ Επισκευής από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_MAGSTEEL:
@@ -7139,8 +7139,8 @@ PART_REPAIR_KIT_MAGSTEEL:
 PART_REPAIR_KIT_MAG_THOR:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από Mag Thor.'
-  name: '&fΣετ Επισκευής από Mag Thor'
+  - '&7φτιαγμένο από Μαγνησιοθόριο.'
+  name: '&fΣετ Επισκευής από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_METAL_SINGULARITY:
@@ -7160,15 +7160,15 @@ PART_REPAIR_KIT_MIXED_METAL:
 PART_REPAIR_KIT_MYTHRIL:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από Mythril.'
-  name: '&fΣετ Επισκευής από Mythril'
+  - '&7φτιαγμένο από Μίθριλ.'
+  name: '&fΣετ Επισκευής από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_NICEINIUM:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από Niceinium.'
-  name: '&fΣετ Επισκευής από Niceinium'
+  - '&7φτιαγμένο από Ναϊσίνιο.'
+  name: '&fΣετ Επισκευής από Ναϊσίνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_NICKEL:
@@ -7202,8 +7202,8 @@ PART_REPAIR_KIT_REINFORCED_ALLOY:
 PART_REPAIR_KIT_REINFORCED_DRACONIUM:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από ενισχυμένο Draconium.'
-  name: '&fΣετ Επισκευής από ενισχυμένο Draconium'
+  - '&7φτιαγμένο από ενισχυμένο Δρακόνιο.'
+  name: '&fΣετ Επισκευής από ενισχυμένο Δρακόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_SCRAP:
@@ -7216,8 +7216,8 @@ PART_REPAIR_KIT_SCRAP:
 PART_REPAIR_KIT_SEFIRITE:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από Sefirite.'
-  name: '&fΣετ Επισκευής από Sefirite'
+  - '&7φτιαγμένο από Σεφιρίτη.'
+  name: '&fΣετ Επισκευής από Σεφιρίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_SILVER:
@@ -7237,8 +7237,8 @@ PART_REPAIR_KIT_SILVER_SINGULARITY:
 PART_REPAIR_KIT_SMITHIUM:
   description:
   - '&7Ένα σετ που μπορεί να επισκευάζει αντικείμενα'
-  - '&7φτιαγμένο από Smithium.'
-  name: '&fΣετ Επισκευής από Smithium'
+  - '&7φτιαγμένο από Σμίθιο.'
+  name: '&fΣετ Επισκευής από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_SOLDER:
@@ -7320,8 +7320,8 @@ PART_REPAIR_KIT_ZINC_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_ROD_ADAMANTITE:
   description:
-  - '&7Μια ράβδος εργαλείου από Adamantite.'
-  name: '&fΡάβδος από Adamantite'
+  - '&7Μια ράβδος εργαλείου από Αδαμαντίτης.'
+  name: '&fΡάβδος από Αδαμαντίτης'
   type:
   - '&7&oΕξάρτημα'
 PART_ROD_ADVANCED_ALLOY:
@@ -7500,8 +7500,8 @@ PART_ROD_MAGNESIUM_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_ROD_MAGNONIUM:
   description:
-  - '&7Μια ράβδος εργαλείου από Magnonium.'
-  name: '&fΡάβδος από Magnonium'
+  - '&7Μια ράβδος εργαλείου από Μαγνόνιο.'
+  name: '&fΡάβδος από Μαγνόνιο'
   type:
   - '&7&oΕξάρτημα'
 PART_ROD_MAGSTEEL:
@@ -7512,8 +7512,8 @@ PART_ROD_MAGSTEEL:
   - '&7&oΕξάρτημα'
 PART_ROD_MAG_THOR:
   description:
-  - '&7Μια ράβδος εργαλείου από Mag Thor.'
-  name: '&fΡάβδος από Mag Thor'
+  - '&7Μια ράβδος εργαλείου από Μαγνησιοθόριο.'
+  name: '&fΡάβδος από Μαγνησιοθόριο'
   type:
   - '&7&oΕξάρτημα'
 PART_ROD_METAL_SINGULARITY:
@@ -7530,8 +7530,8 @@ PART_ROD_MIXED_METAL:
   - '&7&oΕξάρτημα'
 PART_ROD_MYTHRIL:
   description:
-  - '&7Μια ράβδος εργαλείου από Mythril.'
-  name: '&fΡάβδος από Mythril'
+  - '&7Μια ράβδος εργαλείου από Μίθριλ.'
+  name: '&fΡάβδος από Μίθριλ'
   type:
   - '&7&oΕξάρτημα'
 PART_ROD_NICKEL:
@@ -7578,8 +7578,8 @@ PART_ROD_SILVER_SINGULARITY:
   - '&7&oΕξάρτημα'
 PART_ROD_SMITHIUM:
   description:
-  - '&7Μια ράβδος εργαλείου από Smithium.'
-  name: '&fΡάβδος από Smithium'
+  - '&7Μια ράβδος εργαλείου από Σμίθιο.'
+  name: '&fΡάβδος από Σμίθιο'
   type:
   - '&7&oΕξάρτημα'
 PART_ROD_SOLDER:
@@ -7895,14 +7895,14 @@ REINFORCED_ALLOY_LIQUID:
   - '&7&oΠόρος'
 REINFORCED_DRACONIUM_ALLOY:
   description:
-  - '&7Ένα λιωμένο κράμα από ενισχυμένο Draconium.'
-  name: '&fΕνισχυμένο Draconium σε Λιωμένη Μορφή'
+  - '&7Ένα λιωμένο κράμα από ενισχυμένο Δρακόνιο.'
+  name: '&fΕνισχυμένο Δρακόνιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 REINFORCED_DRACONIUM_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από ενισχυμένο Draconium.'
-  name: '&fΕνισχυμένο Draconium σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από ενισχυμένο Δρακόνιο.'
+  name: '&fΕνισχυμένο Δρακόνιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
@@ -7923,8 +7923,8 @@ REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
   - '&7&oΕξάρτημα'
 REMOTININIUM_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Remotininium.'
-  name: '&fRemotininium σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Ρεμοτινίνιο.'
+  name: '&fΡεμοτινίνιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
@@ -7993,8 +7993,8 @@ SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
   - '&7&oΕξάρτημα'
 SEFIRITE_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Sefirite.'
-  name: '&fSefirite σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Σεφιρίτης.'
+  name: '&fΣεφιρίτης σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
@@ -8112,14 +8112,14 @@ SMELTERY_CONTROLLER:
   - '&7&oΕξάρτημα'
 SMITHIUM_ALLOY:
   description:
-  - '&7Ένα λιωμένο κράμα από Smithium.'
-  name: '&fSmithium σε Λιωμένη Μορφή'
+  - '&7Ένα λιωμένο κράμα από Σμίθιο.'
+  name: '&fΣμίθιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 SMITHIUM_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Smithium.'
-  name: '&fSmithium σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Σμίθιο.'
+  name: '&fΣμίθιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
@@ -8712,14 +8712,14 @@ TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
   - '&7&oΕξάρτημα'
 ULTIMANINIUM_ALLOY:
   description:
-  - '&7Ένα λιωμένο κράμα από Ultimaninium.'
-  name: '&fUltimaninium σε Λιωμένη Μορφή'
+  - '&7Ένα λιωμένο κράμα από Ουλτιμανίνιο.'
+  name: '&fΟυλτιμανίνιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 ULTIMANINIUM_LIQUID:
   description:
-  - '&7Η λιωμένη μορφή, φτιαγμένη από Ultimaninium.'
-  name: '&fUltimaninium σε Λιωμένη Μορφή'
+  - '&7Η λιωμένη μορφή, φτιαγμένη από Ουλτιμανίνιο.'
+  name: '&fΟυλτιμανίνιο σε Λιωμένη Μορφή'
   type:
   - '&7&oΠόρος'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
@@ -8848,7 +8848,7 @@ YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
   - '&7πιο φιλικούς απέναντί σου.'
   - ''
   - '&7Προστέθηκε από: DynaTech'
-  name: '&fYvaine'
+  name: '&fΙβέιν'
   type:
   - '&7&oΕξάρτημα'
 ZINC_LIQUID:

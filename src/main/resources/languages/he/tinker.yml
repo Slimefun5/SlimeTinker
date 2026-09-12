@@ -21,15 +21,15 @@ lore:
   rod_abbrev: 'מו: '
   sponsored_by: בחסות
 materials:
-  ADAMANTITE: Adamantite
+  ADAMANTITE: אדמנטיט
   ADVANCED_ALLOY: סגסוגת מתקדמת
   ALUMINUM: אלומיניום
   ALUMINUM_BRASS: פליז אלומיניום
   ALUMINUM_BRONZE: ארד אלומיניום
   ALUMINUM_SINGULARITY: סינגולריות אלומיניום
-  ANNIVERSARIUM: Anniversarium
+  ANNIVERSARIUM: אניברסריום
   BILLON: בילון
-  BOOMERITE: Boomerite
+  BOOMERITE: בומרייט
   BRASS: פליז
   BRONZE: ארד
   CARBON_MESH: רשת פחמן
@@ -39,18 +39,18 @@ materials:
   COPPER_SINGULARITY: סינגולריות נחושת
   CORINTHIAN_BRONZE: ארד קורינתי
   CRIMSON_ROOT: שורש ארגמן
-  CRINGLEIUM: Cringleium
+  CRINGLEIUM: קרינגליום
   DAMASCUS_STEEL: פלדת דמשק
-  DAXI_ABSORPTION: Daxi של ספיגה
-  DAXI_FORTITUDE: Daxi של חוסן
-  DAXI_REGENERATION: Daxi של התחדשות
-  DAXI_SATURATION: Daxi של רוויה
-  DAXI_STRENGTH: Daxi של עוצמה
+  DAXI_ABSORPTION: דאקסי של ספיגה
+  DAXI_FORTITUDE: דאקסי של חוסן
+  DAXI_REGENERATION: דאקסי של התחדשות
+  DAXI_SATURATION: דאקסי של רוויה
+  DAXI_STRENGTH: דאקסי של עוצמה
   DETAILED_DEVOTION: מסירות מפורטת
   DIAMOND: יהלום
   DIAMOND_SINGULARITY: סינגולריות יהלום
   DRACONIC: חומר דרקוני
-  DURALIUM: Duralium
+  DURALIUM: דורליום
   EARTH_SINGULARITY: סינגולריות אדמה
   FERROSILICON: פרוסיליקון
   FLOWING_FONDNESS: חיבה זורמת
@@ -73,13 +73,13 @@ materials:
   MAGIC_SINGULARITY: סינגולריות קסם
   MAGNESIUM: מגנזיום
   MAGNESIUM_SINGULARITY: סינגולריות מגנזיום
-  MAGNONIUM: Magnonium
-  MAGSTEEL: Magsteel
-  MAG_THOR: Mag Thor
+  MAGNONIUM: מגנוניום
+  MAGSTEEL: פלדת מג
+  MAG_THOR: מג תור
   METAL_SINGULARITY: סינגולריות מתכת
   MIXED_METAL: מתכת מעורבת
-  MYTHRIL: Mythril
-  NICEINIUM: Niceinium
+  MYTHRIL: מיתריל
+  NICEINIUM: נייסיניום
   NICKEL: ניקל
   OSMIUM: אוסמיום
   OSMIUM_SUPERALLOY: סופר-סגסוגת אוסמיום
@@ -88,19 +88,19 @@ materials:
   REDSTONE_ALLOY: סגסוגת אבן אדומה
   REFINED_IRON: ברזל מזוקק
   REINFORCED_ALLOY: סגסוגת מחוזקת
-  REINFORCED_DRACONIUM: Draconium מחוזק
+  REINFORCED_DRACONIUM: דרקוניום מחוזק
   REINFORCED_SLIME_STEEL: פלדת רפש מחוזקת
-  REMOTININIUM: Remotininium
+  REMOTININIUM: רמוטיניניום
   RUBBER: גומי
   SCRAP: גרוטאות
-  SEFIRITE: Sefirite
-  SEGGANESSON: Segganesson
+  SEFIRITE: ספירייט
+  SEGGANESSON: סגנסון
   SILICON: צורן
   SILVER: כסף
   SILVER_SINGULARITY: סינגולריות כסף
   SLIME: רפש
   SLIME_STEEL: פלדת רפש
-  SMITHIUM: Smithium
+  SMITHIUM: סמיתיום
   SOLDER: בדיל הלחמה
   STAINLESS_STEEL: פלדת אל-חלד
   STAR_DUST: אבק כוכבים
@@ -112,8 +112,8 @@ materials:
   TIN_SINGULARITY: סינגולריות בדיל
   TITANIUM: טיטניום
   TWISTED_VINE: גפן מפותלת
-  ULTIMANINIUM: Ultimaninium
-  UNPATENTABLIUM: Unpatentablium
+  ULTIMANINIUM: אולטימניניום
+  UNPATENTABLIUM: אנפטנטבליום
   VEX_GEM: אבן חן של ווקס
   VINE: גפן
   VOID: תהום

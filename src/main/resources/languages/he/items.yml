@@ -35,8 +35,8 @@ ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
   - '&7&oרכיב'
 ADAMANTITE_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Adamantite.'
-  name: '&fAdamantite במצב מותך'
+  - '&7הצורה המותכת שנוצרת מאדמנטיט.'
+  name: '&fאדמנטיט במצב מותך'
   type:
   - '&7&oמשאב'
 ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
@@ -107,14 +107,14 @@ ALUMINUM_SINGULARITY_LIQUID:
   - '&7&oמשאב'
 ANNIVERSARIUM_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Anniversarium.'
-  name: '&fAnniversarium במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה מאניברסריום.'
+  name: '&fאניברסריום במצב מותך'
   type:
   - '&7&oמשאב'
 ANNIVERSARIUM_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Anniversarium.'
-  name: '&fAnniversarium במצב מותך'
+  - '&7הצורה המותכת שנוצרת מאניברסריום.'
+  name: '&fאניברסריום במצב מותך'
   type:
   - '&7&oמשאב'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
@@ -293,8 +293,8 @@ BILLON_LIQUID:
   - '&7&oמשאב'
 BLOCK_CAST_ADAMANTITE:
   description:
-  - '&7בלוק עשוי מ-Adamanitite.'
-  name: '&fבלוק מ-Adamanitite'
+  - '&7בלוק עשוי מאדמניטיט.'
+  name: '&fבלוק מאדמניטיט'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_ADVANCED_ALLOY:
@@ -324,7 +324,7 @@ BLOCK_CAST_ALU_BRONZE:
 BLOCK_CAST_ANNIVERSARIUM:
   description:
   - '&710 שנים של (Slime)fun!'
-  name: '&fבלוק מ-Anniversarium'
+  name: '&fבלוק מאניברסריום'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_BILLON:
@@ -335,8 +335,8 @@ BLOCK_CAST_BILLON:
   - '&7&oמשאב'
 BLOCK_CAST_BOOMERITE:
   description:
-  - '&7בלוק עשוי מ-Boomerite'
-  name: '&fבלוק מ-Boomerite'
+  - '&7בלוק עשוי מבומרייט'
+  name: '&fבלוק מבומרייט'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_BRASS:
@@ -371,8 +371,8 @@ BLOCK_CAST_COR_BRONZE:
   - '&7&oמשאב'
 BLOCK_CAST_CRINGLEIUM:
   description:
-  - '&7בלוק עשוי מ-Cringleium'
-  name: '&fבלוק מ-Cringleium'
+  - '&7בלוק עשוי מקרינגליום'
+  name: '&fבלוק מקרינגליום'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_DAMASCUS_STEEL:
@@ -383,8 +383,8 @@ BLOCK_CAST_DAMASCUS_STEEL:
   - '&7&oמשאב'
 BLOCK_CAST_DURALIUM:
   description:
-  - '&7בלוק עשוי מ-Duralium'
-  name: '&fבלוק מ-Duralium'
+  - '&7בלוק עשוי מדורליום'
+  name: '&fבלוק מדורליום'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_FERROSILICON:
@@ -432,20 +432,20 @@ BLOCK_CAST_MAGNESIUM:
   - '&7&oמשאב'
 BLOCK_CAST_MAGNONIUM:
   description:
-  - '&7בלוק עשוי מ-Magnonium.'
-  name: '&fבלוק מ-Magnonium'
+  - '&7בלוק עשוי ממגנוניום.'
+  name: '&fבלוק ממגנוניום'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_MAGSTEEL:
   description:
-  - '&7בלוק עשוי מ-MagSteel.'
-  name: '&fבלוק מ-MagSteel'
+  - '&7בלוק עשוי מפלדת מג.'
+  name: '&fבלוק מפלדת מג'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_MAG_THOR:
   description:
-  - '&7בלוק של Mag-Thor'
-  name: '&fבלוק מ-Mag-Thor'
+  - '&7בלוק של מג-תור'
+  name: '&fבלוק ממג-תור'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_MIXED_METAL:
@@ -456,8 +456,8 @@ BLOCK_CAST_MIXED_METAL:
   - '&7&oמשאב'
 BLOCK_CAST_MYTHRIL:
   description:
-  - '&7בלוק עשוי מ-Mythril.'
-  name: '&fבלוק מ-Mythril'
+  - '&7בלוק עשוי ממיתריל.'
+  name: '&fבלוק ממיתריל'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_NICE:
@@ -506,7 +506,7 @@ BLOCK_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7בלוק שגואה כולו'
   - '&7בזעם שאין שני לו.'
-  name: '&fבלוק מ-Draconium מחוזק'
+  name: '&fבלוק מדרקוניום מחוזק'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_REINFORCED_SLIMESTEEL:
@@ -523,8 +523,8 @@ BLOCK_CAST_SCRAP:
   - '&7&oמשאב'
 BLOCK_CAST_SEFIRITE:
   description:
-  - '&7בלוק עשוי מ-Sefirite'
-  name: '&fבלוק מ-Sefirite'
+  - '&7בלוק עשוי מספירייט'
+  name: '&fבלוק מספירייט'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_SILVER:
@@ -543,7 +543,7 @@ BLOCK_CAST_SMITHIUM:
   description:
   - '&7מתכת פשוטה עם שימושים מגוונים'
   - '&7במשימות תעשייה בסיסיות.'
-  name: '&fבלוק מ-Smithium'
+  name: '&fבלוק מסמיתיום'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_SOLDER:
@@ -578,8 +578,8 @@ BLOCK_CAST_TITANIUM:
   - '&7&oמשאב'
 BLOCK_CAST_UNPATENTABILUM:
   description:
-  - '&7בלוק של Unpatentabilum'
-  name: '&fבלוק מ-Unpatentabilum'
+  - '&7בלוק של אנפטנטבילום'
+  name: '&fבלוק מאנפטנטבילום'
   type:
   - '&7&oמשאב'
 BLOCK_CAST_VOID:
@@ -596,14 +596,14 @@ BLOCK_CAST_ZINC:
   - '&7&oמשאב'
 BOOMERITE_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Boomerite.'
-  name: '&fBoomerite במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה מבומרייט.'
+  name: '&fבומרייט במצב מותך'
   type:
   - '&7&oמשאב'
 BOOMERITE_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Boomerite.'
-  name: '&fBoomerite במצב מותך'
+  - '&7הצורה המותכת שנוצרת מבומרייט.'
+  name: '&fבומרייט במצב מותך'
   type:
   - '&7&oמשאב'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
@@ -1110,14 +1110,14 @@ CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
   - '&7&oרכיב'
 CRINGLEIUM_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Cringleium.'
-  name: '&fCringleium במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה מקרינגליום.'
+  name: '&fקרינגליום במצב מותך'
   type:
   - '&7&oמשאב'
 CRINGLEIUM_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Cringleium.'
-  name: '&fCringleium במצב מותך'
+  - '&7הצורה המותכת שנוצרת מקרינגליום.'
+  name: '&fקרינגליום במצב מותך'
   type:
   - '&7&oמשאב'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
@@ -1386,14 +1386,14 @@ DURABLE_TRAIT_PROP_ROD_TITANIUM:
   - '&7&oרכיב'
 DURALIUM_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Duralium.'
-  name: '&fDuralium במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה מדורליום.'
+  name: '&fדורליום במצב מותך'
   type:
   - '&7&oמשאב'
 DURALIUM_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Duralium.'
-  name: '&fDuralium במצב מותך'
+  - '&7הצורה המותכת שנוצרת מדורליום.'
+  name: '&fדורליום במצב מותך'
   type:
   - '&7&oמשאב'
 DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
@@ -2064,49 +2064,49 @@ INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
 INGOT_CAST_ANNIVERSARIUM:
   description:
   - '&710 שנים של (Slime)fun!'
-  name: '&fמטיל מ-Anniversarium'
+  name: '&fמטיל מאניברסריום'
   type:
   - '&7&oמשאב'
 INGOT_CAST_BOOMERITE:
   description:
   - '&7מטיל נדיר מאוד. מקורו אינו ידוע.'
-  name: '&fמטיל מ-Boomerite'
+  name: '&fמטיל מבומרייט'
   type:
   - '&7&oמשאב'
 INGOT_CAST_CRINGLEIUM:
   description:
   - '&7מטיל חגיגי הזמין לזמן קצר בלבד.'
-  name: '&fמטיל מ-Cringleium'
+  name: '&fמטיל מקרינגליום'
   type:
   - '&7&oמשאב'
 INGOT_CAST_DAXI_ABSORPTION:
   description:
-  - '&7מטיל של Daxi המקרין נחישות.'
-  name: '&fמטיל Daxi של ספיגה'
+  - '&7מטיל של דאקסי המקרין נחישות.'
+  name: '&fמטיל דאקסי של ספיגה'
   type:
   - '&7&oמשאב'
 INGOT_CAST_DAXI_FORTITUDE:
   description:
-  - '&7מטיל של Daxi המקרין התרסה.'
-  name: '&fמטיל Daxi של חוסן'
+  - '&7מטיל של דאקסי המקרין התרסה.'
+  name: '&fמטיל דאקסי של חוסן'
   type:
   - '&7&oמשאב'
 INGOT_CAST_DAXI_REGENERATION:
   description:
-  - '&7מטיל של Daxi המקרין חסד.'
-  name: '&fמטיל Daxi של התחדשות'
+  - '&7מטיל של דאקסי המקרין חסד.'
+  name: '&fמטיל דאקסי של התחדשות'
   type:
   - '&7&oמשאב'
 INGOT_CAST_DAXI_SATURATION:
   description:
-  - '&7מטיל של Daxi המקרין חום.'
-  name: '&fמטיל Daxi של רוויה'
+  - '&7מטיל של דאקסי המקרין חום.'
+  name: '&fמטיל דאקסי של רוויה'
   type:
   - '&7&oמשאב'
 INGOT_CAST_DAXI_STRENGTH:
   description:
-  - '&7מטיל של Daxi המקרין עוצמה.'
-  name: '&fמטיל Daxi של עוצמה'
+  - '&7מטיל של דאקסי המקרין עוצמה.'
+  name: '&fמטיל דאקסי של עוצמה'
   type:
   - '&7&oמשאב'
 INGOT_CAST_DEVOTION:
@@ -2147,20 +2147,20 @@ INGOT_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7מטיל שגואה כולו'
   - '&7בזעם שאין שני לו.'
-  name: '&fמטיל מ-Draconium מחוזק'
+  name: '&fמטיל מדרקוניום מחוזק'
   type:
   - '&7&oמשאב'
 INGOT_CAST_SEFIRITE:
   description:
   - '&7מטיל הזמין לזמן קצר בלבד.'
-  name: '&fמטיל מ-Sefirite'
+  name: '&fמטיל מספירייט'
   type:
   - '&7&oמשאב'
 INGOT_CAST_SMITHIUM:
   description:
   - '&7מתכת פשוטה עם שימושים מגוונים'
   - '&7במשימות תעשייה בסיסיות.'
-  name: '&fמטיל מ-Smithium'
+  name: '&fמטיל מסמיתיום'
   type:
   - '&7&oמשאב'
 INSULATED_TRAIT_PROP_BINDING_RUBBER:
@@ -2437,20 +2437,20 @@ MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
   - '&7&oרכיב'
 MAGNONIUM_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Magnonium.'
-  name: '&fMagnonium במצב מותך'
+  - '&7הצורה המותכת שנוצרת ממגנוניום.'
+  name: '&fמגנוניום במצב מותך'
   type:
   - '&7&oמשאב'
 MAGSTEEL_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Magsteel.'
-  name: '&fMagsteel במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה מפלדת מג.'
+  name: '&fפלדת מג במצב מותך'
   type:
   - '&7&oמשאב'
 MAGSTEEL_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Magsteel.'
-  name: '&fMagsteel במצב מותך'
+  - '&7הצורה המותכת שנוצרת מפלדת מג.'
+  name: '&fפלדת מג במצב מותך'
   type:
   - '&7&oמשאב'
 MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
@@ -2463,14 +2463,14 @@ MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
   - '&7&oרכיב'
 MAG_THOR_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Mag Thor.'
-  name: '&fMag Thor במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה ממג תור.'
+  name: '&fמג תור במצב מותך'
   type:
   - '&7&oמשאב'
 MAG_THOR_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Mag Thor.'
-  name: '&fMag Thor במצב מותך'
+  - '&7הצורה המותכת שנוצרת ממג תור.'
+  name: '&fמג תור במצב מותך'
   type:
   - '&7&oמשאב'
 MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
@@ -2610,8 +2610,8 @@ MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
   - '&7&oרכיב'
 MYTHRIL_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Mythril.'
-  name: '&fMythril במצב מותך'
+  - '&7הצורה המותכת שנוצרת ממיתריל.'
+  name: '&fמיתריל במצב מותך'
   type:
   - '&7&oמשאב'
 NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
@@ -2624,14 +2624,14 @@ NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
   - '&7&oרכיב'
 NICEINIUM_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Niceinium.'
-  name: '&fNiceinium במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה מנייסיניום.'
+  name: '&fנייסיניום במצב מותך'
   type:
   - '&7&oמשאב'
 NICEINIUM_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Niceinium.'
-  name: '&fNiceinium במצב מותך'
+  - '&7הצורה המותכת שנוצרת מנייסיניום.'
+  name: '&fנייסיניום במצב מותך'
   type:
   - '&7&oמשאב'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
@@ -2697,8 +2697,8 @@ NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
   - '&7&oרכיב'
 NUGGET_CAST_ADAMANTITE:
   description:
-  - '&7גרגר עשוי מ-Adamantite מוצק'
-  name: '&fגרגר מ-Adamantite'
+  - '&7גרגר עשוי מאדמנטיט מוצק'
+  name: '&fגרגר מאדמנטיט'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_ADVANCED_ALLOY:
@@ -2728,7 +2728,7 @@ NUGGET_CAST_ALU_BRONZE:
 NUGGET_CAST_ANNIVERSARIUM:
   description:
   - '&710 שנים של (Slime)fun!'
-  name: '&fגרגר מ-Anniversarium'
+  name: '&fגרגר מאניברסריום'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_BILLON:
@@ -2739,8 +2739,8 @@ NUGGET_CAST_BILLON:
   - '&7&oמשאב'
 NUGGET_CAST_BOOMERITE:
   description:
-  - '&7גרגר עשוי מ-Boomerite'
-  name: '&fגרגר מ-Boomerite'
+  - '&7גרגר עשוי מבומרייט'
+  name: '&fגרגר מבומרייט'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_BRASS:
@@ -2781,8 +2781,8 @@ NUGGET_CAST_COR_BRONZE:
   - '&7&oמשאב'
 NUGGET_CAST_CRINGLEIUM:
   description:
-  - '&7גרגר עשוי מ-Cringleium.'
-  name: '&fגרגר מ-Cringleium'
+  - '&7גרגר עשוי מקרינגליום.'
+  name: '&fגרגר מקרינגליום'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_DAMASCUS_STEEL:
@@ -2793,32 +2793,32 @@ NUGGET_CAST_DAMASCUS_STEEL:
   - '&7&oמשאב'
 NUGGET_CAST_DAXI_ABSORPTION:
   description:
-  - '&7גרגר של Daxi המקרין נחישות.'
-  name: '&fגרגר Daxi של ספיגה'
+  - '&7גרגר של דאקסי המקרין נחישות.'
+  name: '&fגרגר דאקסי של ספיגה'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_DAXI_FORTITUDE:
   description:
-  - '&7גרגר של Daxi המקרין התרסה.'
-  name: '&fגרגר Daxi של חוסן'
+  - '&7גרגר של דאקסי המקרין התרסה.'
+  name: '&fגרגר דאקסי של חוסן'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_DAXI_REGENERATION:
   description:
-  - '&7גרגר של Daxi המקרין חסד.'
-  name: '&fגרגר Daxi של התחדשות'
+  - '&7גרגר של דאקסי המקרין חסד.'
+  name: '&fגרגר דאקסי של התחדשות'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_DAXI_SATURATION:
   description:
-  - '&7גרגר של Daxi המקרין חום.'
-  name: '&fגרגר Daxi של רוויה'
+  - '&7גרגר של דאקסי המקרין חום.'
+  name: '&fגרגר דאקסי של רוויה'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_DAXI_STRENGTH:
   description:
-  - '&7גרגר של Daxi המקרין עוצמה.'
-  name: '&fגרגר Daxi של עוצמה'
+  - '&7גרגר של דאקסי המקרין עוצמה.'
+  name: '&fגרגר דאקסי של עוצמה'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_DEVOTION:
@@ -2830,8 +2830,8 @@ NUGGET_CAST_DEVOTION:
   - '&7&oמשאב'
 NUGGET_CAST_DURALIUM:
   description:
-  - '&7גרגר עשוי מ-Duralium'
-  name: '&fגרגר מ-Duralium'
+  - '&7גרגר עשוי מדורליום'
+  name: '&fגרגר מדורליום'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_FERROSILICON:
@@ -2886,20 +2886,20 @@ NUGGET_CAST_MAGNESIUM:
   - '&7&oמשאב'
 NUGGET_CAST_MAGNONIUM:
   description:
-  - '&7גרגר עשוי מ-Magnonium מוצק'
-  name: '&fגרגר מ-Magnonium'
+  - '&7גרגר עשוי ממגנוניום מוצק'
+  name: '&fגרגר ממגנוניום'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_MAGSTEEL:
   description:
-  - '&7גרגר עשוי מ-MagSteel מוצק'
-  name: '&fגרגר מ-MagSteel'
+  - '&7גרגר עשוי מפלדת מג מוצקה'
+  name: '&fגרגר מפלדת מג'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_MAG_THOR:
   description:
-  - '&7גרגר של Mag-Thor'
-  name: '&fגרגר מ-Mag-Thor'
+  - '&7גרגר של מג-תור'
+  name: '&fגרגר ממג-תור'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_MIXED_METAL:
@@ -2910,8 +2910,8 @@ NUGGET_CAST_MIXED_METAL:
   - '&7&oמשאב'
 NUGGET_CAST_MYTHRIL:
   description:
-  - '&7גרגר עשוי מ-Mythril מוצק'
-  name: '&fגרגר מ-Mythril'
+  - '&7גרגר עשוי ממיתריל מוצק'
+  name: '&fגרגר ממיתריל'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_NICE:
@@ -2967,7 +2967,7 @@ NUGGET_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7מטיל שגואה כולו'
   - '&7בזעם שאין שני לו.'
-  name: '&fגרגר מ-Draconium מחוזק'
+  name: '&fגרגר מדרקוניום מחוזק'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_REINFORCED_SLIMESTEEL:
@@ -2984,8 +2984,8 @@ NUGGET_CAST_SCRAP:
   - '&7&oמשאב'
 NUGGET_CAST_SEFIRITE:
   description:
-  - '&7גרגר עשוי מ-Sefirite'
-  name: '&fגרגר מ-Sefirite'
+  - '&7גרגר עשוי מספירייט'
+  name: '&fגרגר מספירייט'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_SILVER:
@@ -3004,7 +3004,7 @@ NUGGET_CAST_SMITHIUM:
   description:
   - '&7מתכת פשוטה עם שימושים מגוונים'
   - '&7במשימות תעשייה בסיסיות.'
-  name: '&fגרגר מ-Smithium'
+  name: '&fגרגר מסמיתיום'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_SOLDER:
@@ -3039,8 +3039,8 @@ NUGGET_CAST_TITANIUM:
   - '&7&oמשאב'
 NUGGET_CAST_UNPATENTABILUM:
   description:
-  - '&7גרגר של Unpatentabilum'
-  name: '&fגרגר מ-Unpatentabilum'
+  - '&7גרגר של אנפטנטבילום'
+  name: '&fגרגר מאנפטנטבילום'
   type:
   - '&7&oמשאב'
 NUGGET_CAST_ZINC:
@@ -3301,8 +3301,8 @@ PART_GAMBESON_WEEPING_VINE:
   - '&7&oרכיב'
 PART_HEAD_AXEADAMANTITE:
   description:
-  - '&7ראש כלי עשוי מ-Adamantite.'
-  name: '&fראש גרזן מ-Adamantite'
+  - '&7ראש כלי עשוי מאדמנטיט.'
+  name: '&fראש גרזן מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXEADVANCED_ALLOY:
@@ -3343,8 +3343,8 @@ PART_HEAD_AXEBILLON:
   - '&7&oרכיב'
 PART_HEAD_AXEBOOMERITE:
   description:
-  - '&7ראש כלי עשוי מ-Boomerite.'
-  name: '&fראש גרזן מ-Boomerite'
+  - '&7ראש כלי עשוי מבומרייט.'
+  name: '&fראש גרזן מבומרייט'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXEBRASS:
@@ -3391,8 +3391,8 @@ PART_HEAD_AXEDAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_HEAD_AXEDURALIUM:
   description:
-  - '&7ראש כלי עשוי מ-Duralium.'
-  name: '&fראש גרזן מ-Duralium'
+  - '&7ראש כלי עשוי מדורליום.'
+  name: '&fראש גרזן מדורליום'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXEEARTH_SINGULARITY:
@@ -3493,20 +3493,20 @@ PART_HEAD_AXEMAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_AXEMAGNONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Magnonium.'
-  name: '&fראש גרזן מ-Magnonium'
+  - '&7ראש כלי עשוי ממגנוניום.'
+  name: '&fראש גרזן ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXEMAGSTEEL:
   description:
-  - '&7ראש כלי עשוי מ-Magsteel.'
-  name: '&fראש גרזן מ-Magsteel'
+  - '&7ראש כלי עשוי מפלדת מג.'
+  name: '&fראש גרזן מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXEMAG_THOR:
   description:
-  - '&7ראש כלי עשוי מ-Mag Thor.'
-  name: '&fראש גרזן מ-Mag Thor'
+  - '&7ראש כלי עשוי ממג תור.'
+  name: '&fראש גרזן ממג תור'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXEMETAL_SINGULARITY:
@@ -3523,14 +3523,14 @@ PART_HEAD_AXEMIXED_METAL:
   - '&7&oרכיב'
 PART_HEAD_AXEMYTHRIL:
   description:
-  - '&7ראש כלי עשוי מ-Mythril.'
-  name: '&fראש גרזן מ-Mythril'
+  - '&7ראש כלי עשוי ממיתריל.'
+  name: '&fראש גרזן ממיתריל'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXENICEINIUM:
   description:
-  - '&7ראש כלי עשוי מ-Niceinium.'
-  name: '&fראש גרזן מ-Niceinium'
+  - '&7ראש כלי עשוי מנייסיניום.'
+  name: '&fראש גרזן מנייסיניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXENICKEL:
@@ -3553,8 +3553,8 @@ PART_HEAD_AXEREINFORCED_ALLOY:
   - '&7&oרכיב'
 PART_HEAD_AXEREINFORCED_DRACONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Draconium מחוזק.'
-  name: '&fראש גרזן מ-Draconium מחוזק'
+  - '&7ראש כלי עשוי מדרקוניום מחוזק.'
+  name: '&fראש גרזן מדרקוניום מחוזק'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXESCRAP:
@@ -3577,8 +3577,8 @@ PART_HEAD_AXESILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_AXESMITHIUM:
   description:
-  - '&7ראש כלי עשוי מ-Smithium.'
-  name: '&fראש גרזן מ-Smithium'
+  - '&7ראש כלי עשוי מסמיתיום.'
+  name: '&fראש גרזן מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_HEAD_AXESOLDER:
@@ -3649,8 +3649,8 @@ PART_HEAD_AXEZINC_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_HOEADAMANTITE:
   description:
-  - '&7ראש כלי עשוי מ-Adamantite.'
-  name: '&fראש מעדר מ-Adamantite'
+  - '&7ראש כלי עשוי מאדמנטיט.'
+  name: '&fראש מעדר מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOEADVANCED_ALLOY:
@@ -3691,8 +3691,8 @@ PART_HEAD_HOEBILLON:
   - '&7&oרכיב'
 PART_HEAD_HOEBOOMERITE:
   description:
-  - '&7ראש כלי עשוי מ-Boomerite.'
-  name: '&fראש מעדר מ-Boomerite'
+  - '&7ראש כלי עשוי מבומרייט.'
+  name: '&fראש מעדר מבומרייט'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOEBRASS:
@@ -3739,8 +3739,8 @@ PART_HEAD_HOEDAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_HEAD_HOEDURALIUM:
   description:
-  - '&7ראש כלי עשוי מ-Duralium.'
-  name: '&fראש מעדר מ-Duralium'
+  - '&7ראש כלי עשוי מדורליום.'
+  name: '&fראש מעדר מדורליום'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOEEARTH_SINGULARITY:
@@ -3841,20 +3841,20 @@ PART_HEAD_HOEMAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_HOEMAGNONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Magnonium.'
-  name: '&fראש מעדר מ-Magnonium'
+  - '&7ראש כלי עשוי ממגנוניום.'
+  name: '&fראש מעדר ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOEMAGSTEEL:
   description:
-  - '&7ראש כלי עשוי מ-Magsteel.'
-  name: '&fראש מעדר מ-Magsteel'
+  - '&7ראש כלי עשוי מפלדת מג.'
+  name: '&fראש מעדר מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOEMAG_THOR:
   description:
-  - '&7ראש כלי עשוי מ-Mag Thor.'
-  name: '&fראש מעדר מ-Mag Thor'
+  - '&7ראש כלי עשוי ממג תור.'
+  name: '&fראש מעדר ממג תור'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOEMETAL_SINGULARITY:
@@ -3871,14 +3871,14 @@ PART_HEAD_HOEMIXED_METAL:
   - '&7&oרכיב'
 PART_HEAD_HOEMYTHRIL:
   description:
-  - '&7ראש כלי עשוי מ-Mythril.'
-  name: '&fראש מעדר מ-Mythril'
+  - '&7ראש כלי עשוי ממיתריל.'
+  name: '&fראש מעדר ממיתריל'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOENICEINIUM:
   description:
-  - '&7ראש כלי עשוי מ-Niceinium.'
-  name: '&fראש מעדר מ-Niceinium'
+  - '&7ראש כלי עשוי מנייסיניום.'
+  name: '&fראש מעדר מנייסיניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOENICKEL:
@@ -3901,8 +3901,8 @@ PART_HEAD_HOEREINFORCED_ALLOY:
   - '&7&oרכיב'
 PART_HEAD_HOEREINFORCED_DRACONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Draconium מחוזק.'
-  name: '&fראש מעדר מ-Draconium מחוזק'
+  - '&7ראש כלי עשוי מדרקוניום מחוזק.'
+  name: '&fראש מעדר מדרקוניום מחוזק'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOESCRAP:
@@ -3925,8 +3925,8 @@ PART_HEAD_HOESILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_HOESMITHIUM:
   description:
-  - '&7ראש כלי עשוי מ-Smithium.'
-  name: '&fראש מעדר מ-Smithium'
+  - '&7ראש כלי עשוי מסמיתיום.'
+  name: '&fראש מעדר מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_HEAD_HOESOLDER:
@@ -3997,8 +3997,8 @@ PART_HEAD_HOEZINC_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_PICKADAMANTITE:
   description:
-  - '&7ראש כלי עשוי מ-Adamantite.'
-  name: '&fראש מכוש מ-Adamantite'
+  - '&7ראש כלי עשוי מאדמנטיט.'
+  name: '&fראש מכוש מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKADVANCED_ALLOY:
@@ -4039,8 +4039,8 @@ PART_HEAD_PICKBILLON:
   - '&7&oרכיב'
 PART_HEAD_PICKBOOMERITE:
   description:
-  - '&7ראש כלי עשוי מ-Boomerite.'
-  name: '&fראש מכוש מ-Boomerite'
+  - '&7ראש כלי עשוי מבומרייט.'
+  name: '&fראש מכוש מבומרייט'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKBRASS:
@@ -4087,8 +4087,8 @@ PART_HEAD_PICKDAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_HEAD_PICKDURALIUM:
   description:
-  - '&7ראש כלי עשוי מ-Duralium.'
-  name: '&fראש מכוש מ-Duralium'
+  - '&7ראש כלי עשוי מדורליום.'
+  name: '&fראש מכוש מדורליום'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKEARTH_SINGULARITY:
@@ -4189,20 +4189,20 @@ PART_HEAD_PICKMAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_PICKMAGNONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Magnonium.'
-  name: '&fראש מכוש מ-Magnonium'
+  - '&7ראש כלי עשוי ממגנוניום.'
+  name: '&fראש מכוש ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKMAGSTEEL:
   description:
-  - '&7ראש כלי עשוי מ-Magsteel.'
-  name: '&fראש מכוש מ-Magsteel'
+  - '&7ראש כלי עשוי מפלדת מג.'
+  name: '&fראש מכוש מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKMAG_THOR:
   description:
-  - '&7ראש כלי עשוי מ-Mag Thor.'
-  name: '&fראש מכוש מ-Mag Thor'
+  - '&7ראש כלי עשוי ממג תור.'
+  name: '&fראש מכוש ממג תור'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKMETAL_SINGULARITY:
@@ -4219,14 +4219,14 @@ PART_HEAD_PICKMIXED_METAL:
   - '&7&oרכיב'
 PART_HEAD_PICKMYTHRIL:
   description:
-  - '&7ראש כלי עשוי מ-Mythril.'
-  name: '&fראש מכוש מ-Mythril'
+  - '&7ראש כלי עשוי ממיתריל.'
+  name: '&fראש מכוש ממיתריל'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKNICEINIUM:
   description:
-  - '&7ראש כלי עשוי מ-Niceinium.'
-  name: '&fראש מכוש מ-Niceinium'
+  - '&7ראש כלי עשוי מנייסיניום.'
+  name: '&fראש מכוש מנייסיניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKNICKEL:
@@ -4249,8 +4249,8 @@ PART_HEAD_PICKREINFORCED_ALLOY:
   - '&7&oרכיב'
 PART_HEAD_PICKREINFORCED_DRACONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Draconium מחוזק.'
-  name: '&fראש מכוש מ-Draconium מחוזק'
+  - '&7ראש כלי עשוי מדרקוניום מחוזק.'
+  name: '&fראש מכוש מדרקוניום מחוזק'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKSCRAP:
@@ -4273,8 +4273,8 @@ PART_HEAD_PICKSILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_PICKSMITHIUM:
   description:
-  - '&7ראש כלי עשוי מ-Smithium.'
-  name: '&fראש מכוש מ-Smithium'
+  - '&7ראש כלי עשוי מסמיתיום.'
+  name: '&fראש מכוש מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_HEAD_PICKSOLDER:
@@ -4345,8 +4345,8 @@ PART_HEAD_PICKZINC_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_SHOVELADAMANTITE:
   description:
-  - '&7ראש כלי עשוי מ-Adamantite.'
-  name: '&fראש את חפירה מ-Adamantite'
+  - '&7ראש כלי עשוי מאדמנטיט.'
+  name: '&fראש את חפירה מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELADVANCED_ALLOY:
@@ -4387,8 +4387,8 @@ PART_HEAD_SHOVELBILLON:
   - '&7&oרכיב'
 PART_HEAD_SHOVELBOOMERITE:
   description:
-  - '&7ראש כלי עשוי מ-Boomerite.'
-  name: '&fראש את חפירה מ-Boomerite'
+  - '&7ראש כלי עשוי מבומרייט.'
+  name: '&fראש את חפירה מבומרייט'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELBRASS:
@@ -4435,8 +4435,8 @@ PART_HEAD_SHOVELDAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_HEAD_SHOVELDURALIUM:
   description:
-  - '&7ראש כלי עשוי מ-Duralium.'
-  name: '&fראש את חפירה מ-Duralium'
+  - '&7ראש כלי עשוי מדורליום.'
+  name: '&fראש את חפירה מדורליום'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELEARTH_SINGULARITY:
@@ -4537,20 +4537,20 @@ PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_SHOVELMAGNONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Magnonium.'
-  name: '&fראש את חפירה מ-Magnonium'
+  - '&7ראש כלי עשוי ממגנוניום.'
+  name: '&fראש את חפירה ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELMAGSTEEL:
   description:
-  - '&7ראש כלי עשוי מ-Magsteel.'
-  name: '&fראש את חפירה מ-Magsteel'
+  - '&7ראש כלי עשוי מפלדת מג.'
+  name: '&fראש את חפירה מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELMAG_THOR:
   description:
-  - '&7ראש כלי עשוי מ-Mag Thor.'
-  name: '&fראש את חפירה מ-Mag Thor'
+  - '&7ראש כלי עשוי ממג תור.'
+  name: '&fראש את חפירה ממג תור'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELMETAL_SINGULARITY:
@@ -4567,14 +4567,14 @@ PART_HEAD_SHOVELMIXED_METAL:
   - '&7&oרכיב'
 PART_HEAD_SHOVELMYTHRIL:
   description:
-  - '&7ראש כלי עשוי מ-Mythril.'
-  name: '&fראש את חפירה מ-Mythril'
+  - '&7ראש כלי עשוי ממיתריל.'
+  name: '&fראש את חפירה ממיתריל'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELNICEINIUM:
   description:
-  - '&7ראש כלי עשוי מ-Niceinium.'
-  name: '&fראש את חפירה מ-Niceinium'
+  - '&7ראש כלי עשוי מנייסיניום.'
+  name: '&fראש את חפירה מנייסיניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELNICKEL:
@@ -4597,8 +4597,8 @@ PART_HEAD_SHOVELREINFORCED_ALLOY:
   - '&7&oרכיב'
 PART_HEAD_SHOVELREINFORCED_DRACONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Draconium מחוזק.'
-  name: '&fראש את חפירה מ-Draconium מחוזק'
+  - '&7ראש כלי עשוי מדרקוניום מחוזק.'
+  name: '&fראש את חפירה מדרקוניום מחוזק'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELSCRAP:
@@ -4621,8 +4621,8 @@ PART_HEAD_SHOVELSILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_SHOVELSMITHIUM:
   description:
-  - '&7ראש כלי עשוי מ-Smithium.'
-  name: '&fראש את חפירה מ-Smithium'
+  - '&7ראש כלי עשוי מסמיתיום.'
+  name: '&fראש את חפירה מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_HEAD_SHOVELSOLDER:
@@ -4693,8 +4693,8 @@ PART_HEAD_SHOVELZINC_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_SWORDADAMANTITE:
   description:
-  - '&7ראש כלי עשוי מ-Adamantite.'
-  name: '&fראש חרב מ-Adamantite'
+  - '&7ראש כלי עשוי מאדמנטיט.'
+  name: '&fראש חרב מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDADVANCED_ALLOY:
@@ -4735,8 +4735,8 @@ PART_HEAD_SWORDBILLON:
   - '&7&oרכיב'
 PART_HEAD_SWORDBOOMERITE:
   description:
-  - '&7ראש כלי עשוי מ-Boomerite.'
-  name: '&fראש חרב מ-Boomerite'
+  - '&7ראש כלי עשוי מבומרייט.'
+  name: '&fראש חרב מבומרייט'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDBRASS:
@@ -4783,8 +4783,8 @@ PART_HEAD_SWORDDAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_HEAD_SWORDDURALIUM:
   description:
-  - '&7ראש כלי עשוי מ-Duralium.'
-  name: '&fראש חרב מ-Duralium'
+  - '&7ראש כלי עשוי מדורליום.'
+  name: '&fראש חרב מדורליום'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDEARTH_SINGULARITY:
@@ -4885,20 +4885,20 @@ PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_SWORDMAGNONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Magnonium.'
-  name: '&fראש חרב מ-Magnonium'
+  - '&7ראש כלי עשוי ממגנוניום.'
+  name: '&fראש חרב ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDMAGSTEEL:
   description:
-  - '&7ראש כלי עשוי מ-Magsteel.'
-  name: '&fראש חרב מ-Magsteel'
+  - '&7ראש כלי עשוי מפלדת מג.'
+  name: '&fראש חרב מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDMAG_THOR:
   description:
-  - '&7ראש כלי עשוי מ-Mag Thor.'
-  name: '&fראש חרב מ-Mag Thor'
+  - '&7ראש כלי עשוי ממג תור.'
+  name: '&fראש חרב ממג תור'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDMETAL_SINGULARITY:
@@ -4915,14 +4915,14 @@ PART_HEAD_SWORDMIXED_METAL:
   - '&7&oרכיב'
 PART_HEAD_SWORDMYTHRIL:
   description:
-  - '&7ראש כלי עשוי מ-Mythril.'
-  name: '&fראש חרב מ-Mythril'
+  - '&7ראש כלי עשוי ממיתריל.'
+  name: '&fראש חרב ממיתריל'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDNICEINIUM:
   description:
-  - '&7ראש כלי עשוי מ-Niceinium.'
-  name: '&fראש חרב מ-Niceinium'
+  - '&7ראש כלי עשוי מנייסיניום.'
+  name: '&fראש חרב מנייסיניום'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDNICKEL:
@@ -4945,8 +4945,8 @@ PART_HEAD_SWORDREINFORCED_ALLOY:
   - '&7&oרכיב'
 PART_HEAD_SWORDREINFORCED_DRACONIUM:
   description:
-  - '&7ראש כלי עשוי מ-Draconium מחוזק.'
-  name: '&fראש חרב מ-Draconium מחוזק'
+  - '&7ראש כלי עשוי מדרקוניום מחוזק.'
+  name: '&fראש חרב מדרקוניום מחוזק'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDSCRAP:
@@ -4969,8 +4969,8 @@ PART_HEAD_SWORDSILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_HEAD_SWORDSMITHIUM:
   description:
-  - '&7ראש כלי עשוי מ-Smithium.'
-  name: '&fראש חרב מ-Smithium'
+  - '&7ראש כלי עשוי מסמיתיום.'
+  name: '&fראש חרב מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_HEAD_SWORDSOLDER:
@@ -5083,8 +5083,8 @@ PART_LEG_PLATE_DUMMY:
   - '&7&oרכיב'
 PART_LINKS_ADAMANTITE:
   description:
-  - '&7סט חוליות שריון עשויות מ-Adamantite.'
-  name: '&fחוליות שריון מ-Adamantite'
+  - '&7סט חוליות שריון עשויות מאדמנטיט.'
+  name: '&fחוליות שריון מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_LINKS_ADVANCED_ALLOY:
@@ -5161,8 +5161,8 @@ PART_LINKS_CORINTHIAN_BRONZE:
   - '&7&oרכיב'
 PART_LINKS_CRINGLEIUM:
   description:
-  - '&7סט חוליות שריון עשויות מ-Cringleium.'
-  name: '&fחוליות שריון מ-Cringleium'
+  - '&7סט חוליות שריון עשויות מקרינגליום.'
+  name: '&fחוליות שריון מקרינגליום'
   type:
   - '&7&oרכיב'
 PART_LINKS_DAMASCUS_STEEL:
@@ -5173,8 +5173,8 @@ PART_LINKS_DAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_LINKS_DURALIUM:
   description:
-  - '&7סט חוליות שריון עשויות מ-Duralium.'
-  name: '&fחוליות שריון מ-Duralium'
+  - '&7סט חוליות שריון עשויות מדורליום.'
+  name: '&fחוליות שריון מדורליום'
   type:
   - '&7&oרכיב'
 PART_LINKS_EARTH_SINGULARITY:
@@ -5287,20 +5287,20 @@ PART_LINKS_MAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_LINKS_MAGNONIUM:
   description:
-  - '&7סט חוליות שריון עשויות מ-Magnonium.'
-  name: '&fחוליות שריון מ-Magnonium'
+  - '&7סט חוליות שריון עשויות ממגנוניום.'
+  name: '&fחוליות שריון ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_LINKS_MAGSTEEL:
   description:
-  - '&7סט חוליות שריון עשויות מ-Magsteel.'
-  name: '&fחוליות שריון מ-Magsteel'
+  - '&7סט חוליות שריון עשויות מפלדת מג.'
+  name: '&fחוליות שריון מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_LINKS_MAG_THOR:
   description:
-  - '&7סט חוליות שריון עשויות מ-Mag Thor.'
-  name: '&fחוליות שריון מ-Mag Thor'
+  - '&7סט חוליות שריון עשויות ממג תור.'
+  name: '&fחוליות שריון ממג תור'
   type:
   - '&7&oרכיב'
 PART_LINKS_METAL_SINGULARITY:
@@ -5317,8 +5317,8 @@ PART_LINKS_MIXED_METAL:
   - '&7&oרכיב'
 PART_LINKS_MYTHRIL:
   description:
-  - '&7סט חוליות שריון עשויות מ-Mythril.'
-  name: '&fחוליות שריון מ-Mythril'
+  - '&7סט חוליות שריון עשויות ממיתריל.'
+  name: '&fחוליות שריון ממיתריל'
   type:
   - '&7&oרכיב'
 PART_LINKS_NICKEL:
@@ -5365,8 +5365,8 @@ PART_LINKS_SILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_LINKS_SMITHIUM:
   description:
-  - '&7סט חוליות שריון עשויות מ-Smithium.'
-  name: '&fחוליות שריון מ-Smithium'
+  - '&7סט חוליות שריון עשויות מסמיתיום.'
+  name: '&fחוליות שריון מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_LINKS_SOLDER:
@@ -5419,8 +5419,8 @@ PART_LINKS_TITANIUM:
   - '&7&oרכיב'
 PART_LINKS_ULTIMANINIUM:
   description:
-  - '&7סט חוליות שריון עשויות מ-Ultimaninium.'
-  name: '&fחוליות שריון מ-Ultimaninium'
+  - '&7סט חוליות שריון עשויות מאולטימניניום.'
+  name: '&fחוליות שריון מאולטימניניום'
   type:
   - '&7&oרכיב'
 PART_LINKS_VOID:
@@ -5463,8 +5463,8 @@ PART_PICKAXE_HEAD_DUMMY:
   - '&7&oרכיב'
 PART_PLATES_BOOTSADAMANTITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Adamantite.'
-  name: '&fלוחות מגפיים מ-Adamantite'
+  - '&7סט לוחות שריון עשויים מאדמנטיט.'
+  name: '&fלוחות מגפיים מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSADVANCED_ALLOY:
@@ -5499,8 +5499,8 @@ PART_PLATES_BOOTSALUMINUM_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_BOOTSANNIVERSARIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Anniversarium.'
-  name: '&fלוחות מגפיים מ-Anniversarium'
+  - '&7סט לוחות שריון עשויים מאניברסריום.'
+  name: '&fלוחות מגפיים מאניברסריום'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSBILLON:
@@ -5511,8 +5511,8 @@ PART_PLATES_BOOTSBILLON:
   - '&7&oרכיב'
 PART_PLATES_BOOTSBOOMERITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Boomerite.'
-  name: '&fלוחות מגפיים מ-Boomerite'
+  - '&7סט לוחות שריון עשויים מבומרייט.'
+  name: '&fלוחות מגפיים מבומרייט'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSBRASS:
@@ -5559,8 +5559,8 @@ PART_PLATES_BOOTSDAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_PLATES_BOOTSDURALIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Duralium.'
-  name: '&fלוחות מגפיים מ-Duralium'
+  - '&7סט לוחות שריון עשויים מדורליום.'
+  name: '&fלוחות מגפיים מדורליום'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSEARTH_SINGULARITY:
@@ -5661,20 +5661,20 @@ PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_BOOTSMAGNONIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Magnonium.'
-  name: '&fלוחות מגפיים מ-Magnonium'
+  - '&7סט לוחות שריון עשויים ממגנוניום.'
+  name: '&fלוחות מגפיים ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSMAGSTEEL:
   description:
-  - '&7סט לוחות שריון עשויים מ-Magsteel.'
-  name: '&fלוחות מגפיים מ-Magsteel'
+  - '&7סט לוחות שריון עשויים מפלדת מג.'
+  name: '&fלוחות מגפיים מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSMAG_THOR:
   description:
-  - '&7סט לוחות שריון עשויים מ-Mag Thor.'
-  name: '&fלוחות מגפיים מ-Mag Thor'
+  - '&7סט לוחות שריון עשויים ממג תור.'
+  name: '&fלוחות מגפיים ממג תור'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSMETAL_SINGULARITY:
@@ -5691,8 +5691,8 @@ PART_PLATES_BOOTSMIXED_METAL:
   - '&7&oרכיב'
 PART_PLATES_BOOTSMYTHRIL:
   description:
-  - '&7סט לוחות שריון עשויים מ-Mythril.'
-  name: '&fלוחות מגפיים מ-Mythril'
+  - '&7סט לוחות שריון עשויים ממיתריל.'
+  name: '&fלוחות מגפיים ממיתריל'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSNICKEL:
@@ -5727,8 +5727,8 @@ PART_PLATES_BOOTSSCRAP:
   - '&7&oרכיב'
 PART_PLATES_BOOTSSEFIRITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Sefirite.'
-  name: '&fלוחות מגפיים מ-Sefirite'
+  - '&7סט לוחות שריון עשויים מספירייט.'
+  name: '&fלוחות מגפיים מספירייט'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSSILVER:
@@ -5745,8 +5745,8 @@ PART_PLATES_BOOTSSILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_BOOTSSMITHIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Smithium.'
-  name: '&fלוחות מגפיים מ-Smithium'
+  - '&7סט לוחות שריון עשויים מסמיתיום.'
+  name: '&fלוחות מגפיים מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSSOLDER:
@@ -5817,8 +5817,8 @@ PART_PLATES_BOOTSZINC_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEADAMANTITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Adamantite.'
-  name: '&fלוחות שריון חזה מ-Adamantite'
+  - '&7סט לוחות שריון עשויים מאדמנטיט.'
+  name: '&fלוחות שריון חזה מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEADVANCED_ALLOY:
@@ -5853,8 +5853,8 @@ PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Anniversarium.'
-  name: '&fלוחות שריון חזה מ-Anniversarium'
+  - '&7סט לוחות שריון עשויים מאניברסריום.'
+  name: '&fלוחות שריון חזה מאניברסריום'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEBILLON:
@@ -5865,8 +5865,8 @@ PART_PLATES_CHESTPLATEBILLON:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEBOOMERITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Boomerite.'
-  name: '&fלוחות שריון חזה מ-Boomerite'
+  - '&7סט לוחות שריון עשויים מבומרייט.'
+  name: '&fלוחות שריון חזה מבומרייט'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEBRASS:
@@ -5913,8 +5913,8 @@ PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEDURALIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Duralium.'
-  name: '&fלוחות שריון חזה מ-Duralium'
+  - '&7סט לוחות שריון עשויים מדורליום.'
+  name: '&fלוחות שריון חזה מדורליום'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
@@ -6015,20 +6015,20 @@ PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEMAGNONIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Magnonium.'
-  name: '&fלוחות שריון חזה מ-Magnonium'
+  - '&7סט לוחות שריון עשויים ממגנוניום.'
+  name: '&fלוחות שריון חזה ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEMAGSTEEL:
   description:
-  - '&7סט לוחות שריון עשויים מ-Magsteel.'
-  name: '&fלוחות שריון חזה מ-Magsteel'
+  - '&7סט לוחות שריון עשויים מפלדת מג.'
+  name: '&fלוחות שריון חזה מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEMAG_THOR:
   description:
-  - '&7סט לוחות שריון עשויים מ-Mag Thor.'
-  name: '&fלוחות שריון חזה מ-Mag Thor'
+  - '&7סט לוחות שריון עשויים ממג תור.'
+  name: '&fלוחות שריון חזה ממג תור'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
@@ -6045,8 +6045,8 @@ PART_PLATES_CHESTPLATEMIXED_METAL:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATEMYTHRIL:
   description:
-  - '&7סט לוחות שריון עשויים מ-Mythril.'
-  name: '&fלוחות שריון חזה מ-Mythril'
+  - '&7סט לוחות שריון עשויים ממיתריל.'
+  name: '&fלוחות שריון חזה ממיתריל'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATENICKEL:
@@ -6081,8 +6081,8 @@ PART_PLATES_CHESTPLATESCRAP:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATESEFIRITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Sefirite.'
-  name: '&fלוחות שריון חזה מ-Sefirite'
+  - '&7סט לוחות שריון עשויים מספירייט.'
+  name: '&fלוחות שריון חזה מספירייט'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATESILVER:
@@ -6099,8 +6099,8 @@ PART_PLATES_CHESTPLATESILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATESMITHIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Smithium.'
-  name: '&fלוחות שריון חזה מ-Smithium'
+  - '&7סט לוחות שריון עשויים מסמיתיום.'
+  name: '&fלוחות שריון חזה מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_PLATES_CHESTPLATESOLDER:
@@ -6171,8 +6171,8 @@ PART_PLATES_CHESTPLATEZINC_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_HELMETADAMANTITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Adamantite.'
-  name: '&fלוחות קסדה מ-Adamantite'
+  - '&7סט לוחות שריון עשויים מאדמנטיט.'
+  name: '&fלוחות קסדה מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETADVANCED_ALLOY:
@@ -6207,8 +6207,8 @@ PART_PLATES_HELMETALUMINUM_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_HELMETANNIVERSARIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Anniversarium.'
-  name: '&fלוחות קסדה מ-Anniversarium'
+  - '&7סט לוחות שריון עשויים מאניברסריום.'
+  name: '&fלוחות קסדה מאניברסריום'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETBILLON:
@@ -6219,8 +6219,8 @@ PART_PLATES_HELMETBILLON:
   - '&7&oרכיב'
 PART_PLATES_HELMETBOOMERITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Boomerite.'
-  name: '&fלוחות קסדה מ-Boomerite'
+  - '&7סט לוחות שריון עשויים מבומרייט.'
+  name: '&fלוחות קסדה מבומרייט'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETBRASS:
@@ -6267,8 +6267,8 @@ PART_PLATES_HELMETDAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_PLATES_HELMETDURALIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Duralium.'
-  name: '&fלוחות קסדה מ-Duralium'
+  - '&7סט לוחות שריון עשויים מדורליום.'
+  name: '&fלוחות קסדה מדורליום'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETEARTH_SINGULARITY:
@@ -6369,20 +6369,20 @@ PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_HELMETMAGNONIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Magnonium.'
-  name: '&fלוחות קסדה מ-Magnonium'
+  - '&7סט לוחות שריון עשויים ממגנוניום.'
+  name: '&fלוחות קסדה ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETMAGSTEEL:
   description:
-  - '&7סט לוחות שריון עשויים מ-Magsteel.'
-  name: '&fלוחות קסדה מ-Magsteel'
+  - '&7סט לוחות שריון עשויים מפלדת מג.'
+  name: '&fלוחות קסדה מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETMAG_THOR:
   description:
-  - '&7סט לוחות שריון עשויים מ-Mag Thor.'
-  name: '&fלוחות קסדה מ-Mag Thor'
+  - '&7סט לוחות שריון עשויים ממג תור.'
+  name: '&fלוחות קסדה ממג תור'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETMETAL_SINGULARITY:
@@ -6399,8 +6399,8 @@ PART_PLATES_HELMETMIXED_METAL:
   - '&7&oרכיב'
 PART_PLATES_HELMETMYTHRIL:
   description:
-  - '&7סט לוחות שריון עשויים מ-Mythril.'
-  name: '&fלוחות קסדה מ-Mythril'
+  - '&7סט לוחות שריון עשויים ממיתריל.'
+  name: '&fלוחות קסדה ממיתריל'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETNICKEL:
@@ -6435,8 +6435,8 @@ PART_PLATES_HELMETSCRAP:
   - '&7&oרכיב'
 PART_PLATES_HELMETSEFIRITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Sefirite.'
-  name: '&fלוחות קסדה מ-Sefirite'
+  - '&7סט לוחות שריון עשויים מספירייט.'
+  name: '&fלוחות קסדה מספירייט'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETSILVER:
@@ -6453,8 +6453,8 @@ PART_PLATES_HELMETSILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_HELMETSMITHIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Smithium.'
-  name: '&fלוחות קסדה מ-Smithium'
+  - '&7סט לוחות שריון עשויים מסמיתיום.'
+  name: '&fלוחות קסדה מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_PLATES_HELMETSOLDER:
@@ -6525,8 +6525,8 @@ PART_PLATES_HELMETZINC_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSADAMANTITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Adamantite.'
-  name: '&fלוחות מכנסי שריון מ-Adamantite'
+  - '&7סט לוחות שריון עשויים מאדמנטיט.'
+  name: '&fלוחות מכנסי שריון מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSADVANCED_ALLOY:
@@ -6561,8 +6561,8 @@ PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Anniversarium.'
-  name: '&fלוחות מכנסי שריון מ-Anniversarium'
+  - '&7סט לוחות שריון עשויים מאניברסריום.'
+  name: '&fלוחות מכנסי שריון מאניברסריום'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSBILLON:
@@ -6573,8 +6573,8 @@ PART_PLATES_LEGGINGSBILLON:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSBOOMERITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Boomerite.'
-  name: '&fלוחות מכנסי שריון מ-Boomerite'
+  - '&7סט לוחות שריון עשויים מבומרייט.'
+  name: '&fלוחות מכנסי שריון מבומרייט'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSBRASS:
@@ -6621,8 +6621,8 @@ PART_PLATES_LEGGINGSDAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSDURALIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Duralium.'
-  name: '&fלוחות מכנסי שריון מ-Duralium'
+  - '&7סט לוחות שריון עשויים מדורליום.'
+  name: '&fלוחות מכנסי שריון מדורליום'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSEARTH_SINGULARITY:
@@ -6723,20 +6723,20 @@ PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSMAGNONIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Magnonium.'
-  name: '&fלוחות מכנסי שריון מ-Magnonium'
+  - '&7סט לוחות שריון עשויים ממגנוניום.'
+  name: '&fלוחות מכנסי שריון ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSMAGSTEEL:
   description:
-  - '&7סט לוחות שריון עשויים מ-Magsteel.'
-  name: '&fלוחות מכנסי שריון מ-Magsteel'
+  - '&7סט לוחות שריון עשויים מפלדת מג.'
+  name: '&fלוחות מכנסי שריון מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSMAG_THOR:
   description:
-  - '&7סט לוחות שריון עשויים מ-Mag Thor.'
-  name: '&fלוחות מכנסי שריון מ-Mag Thor'
+  - '&7סט לוחות שריון עשויים ממג תור.'
+  name: '&fלוחות מכנסי שריון ממג תור'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSMETAL_SINGULARITY:
@@ -6753,8 +6753,8 @@ PART_PLATES_LEGGINGSMIXED_METAL:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSMYTHRIL:
   description:
-  - '&7סט לוחות שריון עשויים מ-Mythril.'
-  name: '&fלוחות מכנסי שריון מ-Mythril'
+  - '&7סט לוחות שריון עשויים ממיתריל.'
+  name: '&fלוחות מכנסי שריון ממיתריל'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSNICKEL:
@@ -6789,8 +6789,8 @@ PART_PLATES_LEGGINGSSCRAP:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSSEFIRITE:
   description:
-  - '&7סט לוחות שריון עשויים מ-Sefirite.'
-  name: '&fלוחות מכנסי שריון מ-Sefirite'
+  - '&7סט לוחות שריון עשויים מספירייט.'
+  name: '&fלוחות מכנסי שריון מספירייט'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSSILVER:
@@ -6807,8 +6807,8 @@ PART_PLATES_LEGGINGSSILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSSMITHIUM:
   description:
-  - '&7סט לוחות שריון עשויים מ-Smithium.'
-  name: '&fלוחות מכנסי שריון מ-Smithium'
+  - '&7סט לוחות שריון עשויים מסמיתיום.'
+  name: '&fלוחות מכנסי שריון מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_PLATES_LEGGINGSSOLDER:
@@ -6888,8 +6888,8 @@ PART_REPAIR_KIT:
 PART_REPAIR_KIT_ADAMANTITE:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Adamantite.'
-  name: '&fערכת תיקון מ-Adamantite'
+  - '&7עשוי מאדמנטיט.'
+  name: '&fערכת תיקון מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_ADVANCED_ALLOY:
@@ -6930,8 +6930,8 @@ PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
 PART_REPAIR_KIT_ANNIVERSARIUM:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Anniversarium.'
-  name: '&fערכת תיקון מ-Anniversarium'
+  - '&7עשוי מאניברסריום.'
+  name: '&fערכת תיקון מאניברסריום'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_BILLON:
@@ -6944,8 +6944,8 @@ PART_REPAIR_KIT_BILLON:
 PART_REPAIR_KIT_BOOMERITE:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Boomerite.'
-  name: '&fערכת תיקון מ-Boomerite'
+  - '&7עשוי מבומרייט.'
+  name: '&fערכת תיקון מבומרייט'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_BRASS:
@@ -7006,8 +7006,8 @@ PART_REPAIR_KIT_DUMMY:
 PART_REPAIR_KIT_DURALIUM:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Duralium.'
-  name: '&fערכת תיקון מ-Duralium'
+  - '&7עשוי מדורליום.'
+  name: '&fערכת תיקון מדורליום'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_EARTH_SINGULARITY:
@@ -7125,22 +7125,22 @@ PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
 PART_REPAIR_KIT_MAGNONIUM:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Magnonium.'
-  name: '&fערכת תיקון מ-Magnonium'
+  - '&7עשוי ממגנוניום.'
+  name: '&fערכת תיקון ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_MAGSTEEL:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Magsteel.'
-  name: '&fערכת תיקון מ-Magsteel'
+  - '&7עשוי מפלדת מג.'
+  name: '&fערכת תיקון מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_MAG_THOR:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Mag Thor.'
-  name: '&fערכת תיקון מ-Mag Thor'
+  - '&7עשוי ממג תור.'
+  name: '&fערכת תיקון ממג תור'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_METAL_SINGULARITY:
@@ -7160,15 +7160,15 @@ PART_REPAIR_KIT_MIXED_METAL:
 PART_REPAIR_KIT_MYTHRIL:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Mythril.'
-  name: '&fערכת תיקון מ-Mythril'
+  - '&7עשוי ממיתריל.'
+  name: '&fערכת תיקון ממיתריל'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_NICEINIUM:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Niceinium.'
-  name: '&fערכת תיקון מ-Niceinium'
+  - '&7עשוי מנייסיניום.'
+  name: '&fערכת תיקון מנייסיניום'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_NICKEL:
@@ -7202,8 +7202,8 @@ PART_REPAIR_KIT_REINFORCED_ALLOY:
 PART_REPAIR_KIT_REINFORCED_DRACONIUM:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Draconium מחוזק.'
-  name: '&fערכת תיקון מ-Draconium מחוזק'
+  - '&7עשוי מדרקוניום מחוזק.'
+  name: '&fערכת תיקון מדרקוניום מחוזק'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_SCRAP:
@@ -7216,8 +7216,8 @@ PART_REPAIR_KIT_SCRAP:
 PART_REPAIR_KIT_SEFIRITE:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Sefirite.'
-  name: '&fערכת תיקון מ-Sefirite'
+  - '&7עשוי מספירייט.'
+  name: '&fערכת תיקון מספירייט'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_SILVER:
@@ -7237,8 +7237,8 @@ PART_REPAIR_KIT_SILVER_SINGULARITY:
 PART_REPAIR_KIT_SMITHIUM:
   description:
   - '&7ערכה המסוגלת לתקן פריטים'
-  - '&7עשוי מ-Smithium.'
-  name: '&fערכת תיקון מ-Smithium'
+  - '&7עשוי מסמיתיום.'
+  name: '&fערכת תיקון מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_SOLDER:
@@ -7320,8 +7320,8 @@ PART_REPAIR_KIT_ZINC_SINGULARITY:
   - '&7&oרכיב'
 PART_ROD_ADAMANTITE:
   description:
-  - '&7מוט כלי עשוי מ-Adamantite.'
-  name: '&fמוט מ-Adamantite'
+  - '&7מוט כלי עשוי מאדמנטיט.'
+  name: '&fמוט מאדמנטיט'
   type:
   - '&7&oרכיב'
 PART_ROD_ADVANCED_ALLOY:
@@ -7404,8 +7404,8 @@ PART_ROD_DAMASCUS_STEEL:
   - '&7&oרכיב'
 PART_ROD_DURALIUM:
   description:
-  - '&7מוט כלי עשוי מ-Duralium.'
-  name: '&fמוט מ-Duralium'
+  - '&7מוט כלי עשוי מדורליום.'
+  name: '&fמוט מדורליום'
   type:
   - '&7&oרכיב'
 PART_ROD_EARTH_SINGULARITY:
@@ -7500,20 +7500,20 @@ PART_ROD_MAGNESIUM_SINGULARITY:
   - '&7&oרכיב'
 PART_ROD_MAGNONIUM:
   description:
-  - '&7מוט כלי עשוי מ-Magnonium.'
-  name: '&fמוט מ-Magnonium'
+  - '&7מוט כלי עשוי ממגנוניום.'
+  name: '&fמוט ממגנוניום'
   type:
   - '&7&oרכיב'
 PART_ROD_MAGSTEEL:
   description:
-  - '&7מוט כלי עשוי מ-Magsteel.'
-  name: '&fמוט מ-Magsteel'
+  - '&7מוט כלי עשוי מפלדת מג.'
+  name: '&fמוט מפלדת מג'
   type:
   - '&7&oרכיב'
 PART_ROD_MAG_THOR:
   description:
-  - '&7מוט כלי עשוי מ-Mag Thor.'
-  name: '&fמוט מ-Mag Thor'
+  - '&7מוט כלי עשוי ממג תור.'
+  name: '&fמוט ממג תור'
   type:
   - '&7&oרכיב'
 PART_ROD_METAL_SINGULARITY:
@@ -7530,8 +7530,8 @@ PART_ROD_MIXED_METAL:
   - '&7&oרכיב'
 PART_ROD_MYTHRIL:
   description:
-  - '&7מוט כלי עשוי מ-Mythril.'
-  name: '&fמוט מ-Mythril'
+  - '&7מוט כלי עשוי ממיתריל.'
+  name: '&fמוט ממיתריל'
   type:
   - '&7&oרכיב'
 PART_ROD_NICKEL:
@@ -7578,8 +7578,8 @@ PART_ROD_SILVER_SINGULARITY:
   - '&7&oרכיב'
 PART_ROD_SMITHIUM:
   description:
-  - '&7מוט כלי עשוי מ-Smithium.'
-  name: '&fמוט מ-Smithium'
+  - '&7מוט כלי עשוי מסמיתיום.'
+  name: '&fמוט מסמיתיום'
   type:
   - '&7&oרכיב'
 PART_ROD_SOLDER:
@@ -7895,14 +7895,14 @@ REINFORCED_ALLOY_LIQUID:
   - '&7&oמשאב'
 REINFORCED_DRACONIUM_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Draconium מחוזק.'
-  name: '&fDraconium מחוזק במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה מדרקוניום מחוזק.'
+  name: '&fדרקוניום מחוזק במצב מותך'
   type:
   - '&7&oמשאב'
 REINFORCED_DRACONIUM_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Draconium מחוזק.'
-  name: '&fDraconium מחוזק במצב מותך'
+  - '&7הצורה המותכת שנוצרת מדרקוניום מחוזק.'
+  name: '&fדרקוניום מחוזק במצב מותך'
   type:
   - '&7&oמשאב'
 REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
@@ -7923,8 +7923,8 @@ REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
   - '&7&oרכיב'
 REMOTININIUM_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Remotininium.'
-  name: '&fRemotininium במצב מותך'
+  - '&7הצורה המותכת שנוצרת מרמוטיניניום.'
+  name: '&fרמוטיניניום במצב מותך'
   type:
   - '&7&oמשאב'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
@@ -7993,8 +7993,8 @@ SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
   - '&7&oרכיב'
 SEFIRITE_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Sefirite.'
-  name: '&fSefirite במצב מותך'
+  - '&7הצורה המותכת שנוצרת מספירייט.'
+  name: '&fספירייט במצב מותך'
   type:
   - '&7&oמשאב'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
@@ -8112,14 +8112,14 @@ SMELTERY_CONTROLLER:
   - '&7&oרכיב'
 SMITHIUM_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Smithium.'
-  name: '&fSmithium במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה מסמיתיום.'
+  name: '&fסמיתיום במצב מותך'
   type:
   - '&7&oמשאב'
 SMITHIUM_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Smithium.'
-  name: '&fSmithium במצב מותך'
+  - '&7הצורה המותכת שנוצרת מסמיתיום.'
+  name: '&fסמיתיום במצב מותך'
   type:
   - '&7&oמשאב'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
@@ -8359,7 +8359,7 @@ SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
   - '&7&oרכיב'
 SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
   description:
-  - '&7כמו פלדה או MagSteel אך אבסורדי אף יותר.'
+  - '&7כמו פלדה או פלדת מג אך אבסורדי אף יותר.'
   - ''
   - '&7נוסף על ידי: DynaTech'
   name: '&fאל-חלד סופר-דופר'
@@ -8712,14 +8712,14 @@ TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
   - '&7&oרכיב'
 ULTIMANINIUM_ALLOY:
   description:
-  - '&7סגסוגת מתכת מותכת שנוצרה מ-Ultimaninium.'
-  name: '&fUltimaninium במצב מותך'
+  - '&7סגסוגת מתכת מותכת שנוצרה מאולטימניניום.'
+  name: '&fאולטימניניום במצב מותך'
   type:
   - '&7&oמשאב'
 ULTIMANINIUM_LIQUID:
   description:
-  - '&7הצורה המותכת שנוצרת מ-Ultimaninium.'
-  name: '&fUltimaninium במצב מותך'
+  - '&7הצורה המותכת שנוצרת מאולטימניניום.'
+  name: '&fאולטימניניום במצב מותך'
   type:
   - '&7&oמשאב'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
@@ -8848,7 +8848,7 @@ YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
   - '&7ידידותיים יותר כלפיכם.'
   - ''
   - '&7נוסף על ידי: DynaTech'
-  name: '&fYvaine'
+  name: '&fאיוויין'
   type:
   - '&7&oרכיב'
 ZINC_LIQUID:
