@@ -21,15 +21,15 @@ lore:
   rod_abbrev: 'ด: '
   sponsored_by: สนับสนุนโดย
 materials:
-  ADAMANTITE: Adamantite
+  ADAMANTITE: อะดามันไทต์
   ADVANCED_ALLOY: โลหะผสมขั้นสูง
   ALUMINUM: อะลูมิเนียม
   ALUMINUM_BRASS: ทองเหลืองอะลูมิเนียม
   ALUMINUM_BRONZE: ทองสัมฤทธิ์อะลูมิเนียม
   ALUMINUM_SINGULARITY: เอกฐานอะลูมิเนียม
-  ANNIVERSARIUM: Anniversarium
+  ANNIVERSARIUM: แอนนิเวอร์ซาเรียม
   BILLON: บิลลอน
-  BOOMERITE: Boomerite
+  BOOMERITE: บูมเมอไรต์
   BRASS: ทองเหลือง
   BRONZE: ทองสัมฤทธิ์
   CARBON_MESH: ตาข่ายคาร์บอน
@@ -39,18 +39,18 @@ materials:
   COPPER_SINGULARITY: เอกฐานทองแดง
   CORINTHIAN_BRONZE: ทองสัมฤทธิ์โครินธ์
   CRIMSON_ROOT: รากคริมสัน
-  CRINGLEIUM: Cringleium
+  CRINGLEIUM: คริงเกลียม
   DAMASCUS_STEEL: เหล็กกล้าดามัสกัส
-  DAXI_ABSORPTION: Daxi แห่งการดูดซับ
-  DAXI_FORTITUDE: Daxi แห่งความทรหด
-  DAXI_REGENERATION: Daxi แห่งการฟื้นฟู
-  DAXI_SATURATION: Daxi แห่งความอิ่มเอม
-  DAXI_STRENGTH: Daxi แห่งพละกำลัง
+  DAXI_ABSORPTION: ดาซีแห่งการดูดซับ
+  DAXI_FORTITUDE: ดาซีแห่งความทรหด
+  DAXI_REGENERATION: ดาซีแห่งการฟื้นฟู
+  DAXI_SATURATION: ดาซีแห่งความอิ่มเอม
+  DAXI_STRENGTH: ดาซีแห่งพละกำลัง
   DETAILED_DEVOTION: ความภักดีอันประณีต
   DIAMOND: เพชร
   DIAMOND_SINGULARITY: เอกฐานเพชร
   DRACONIC: ธาตุมังกร
-  DURALIUM: Duralium
+  DURALIUM: ดูราเลียม
   EARTH_SINGULARITY: เอกฐานปฐพี
   FERROSILICON: เฟอร์โรซิลิคอน
   FLOWING_FONDNESS: ความเอ็นดูที่ไหลริน
@@ -73,13 +73,13 @@ materials:
   MAGIC_SINGULARITY: เอกฐานเวทมนตร์
   MAGNESIUM: แมกนีเซียม
   MAGNESIUM_SINGULARITY: เอกฐานแมกนีเซียม
-  MAGNONIUM: Magnonium
-  MAGSTEEL: Magsteel
-  MAG_THOR: Mag Thor
+  MAGNONIUM: แมกโนเนียม
+  MAGSTEEL: เหล็กกล้าแมก
+  MAG_THOR: แมกทอร์
   METAL_SINGULARITY: เอกฐานโลหะ
   MIXED_METAL: โลหะผสมคละ
-  MYTHRIL: Mythril
-  NICEINIUM: Niceinium
+  MYTHRIL: มิธริล
+  NICEINIUM: ไนซิเนียม
   NICKEL: นิกเกิล
   OSMIUM: ออสเมียม
   OSMIUM_SUPERALLOY: โลหะผสมยิ่งยวดออสเมียม
@@ -88,19 +88,19 @@ materials:
   REDSTONE_ALLOY: โลหะผสมเรดสโตน
   REFINED_IRON: เหล็กบริสุทธิ์
   REINFORCED_ALLOY: โลหะผสมเสริมแรง
-  REINFORCED_DRACONIUM: Draconium เสริมแรง
-  REINFORCED_SLIME_STEEL: Slime Steel เสริมแรง
-  REMOTININIUM: Remotininium
+  REINFORCED_DRACONIUM: ดราโคเนียมเสริมแรง
+  REINFORCED_SLIME_STEEL: เหล็กกล้าสไลม์เสริมแรง
+  REMOTININIUM: รีโมทินิเนียม
   RUBBER: ยาง
   SCRAP: เศษโลหะ
-  SEFIRITE: Sefirite
-  SEGGANESSON: Segganesson
+  SEFIRITE: เซฟิไรต์
+  SEGGANESSON: เซกกาเนสสัน
   SILICON: ซิลิคอน
   SILVER: เงิน
   SILVER_SINGULARITY: เอกฐานเงิน
   SLIME: สไลม์
-  SLIME_STEEL: Slime Steel
-  SMITHIUM: Smithium
+  SLIME_STEEL: เหล็กกล้าสไลม์
+  SMITHIUM: สมิเธียม
   SOLDER: ตะกั่วบัดกรี
   STAINLESS_STEEL: เหล็กกล้าไร้สนิม
   STAR_DUST: ผงดาว
@@ -112,8 +112,8 @@ materials:
   TIN_SINGULARITY: เอกฐานดีบุก
   TITANIUM: ไทเทเนียม
   TWISTED_VINE: เถาวัลย์บิดเกลียว
-  ULTIMANINIUM: Ultimaninium
-  UNPATENTABLIUM: Unpatentablium
+  ULTIMANINIUM: อัลติมานิเนียม
+  UNPATENTABLIUM: อันเพเทนทาเบลียม
   VEX_GEM: อัญมณีเว็กซ์
   VINE: เถาวัลย์
   VOID: ห้วงว่าง
