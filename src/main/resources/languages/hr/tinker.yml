@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Čizme
+  CHESTPLATE: Oklop prsa
+  HELMET: Kaciga
+  LEGGINGS: Nogavice
+lore:
+  added_by: Dodaje
+  binder_abbrev: 'V: '
+  gambeson_abbrev: 'Gm: '
+  head_abbrev: 'G: '
+  level: 'Razina: '
+  links_abbrev: 'K: '
+  mod_level: ' Razina '
+  mod_max: ' - (MAKS)'
+  modifier_slots: 'Mjesta za preinake: '
+  part_desc_1: Dio alata. Sam po sebi beskoristan, ali može
+  part_desc_2: pretvoriti u nešto veće na
+  part_desc_3: Majstorov stol.
+  part_material: 'Materijal : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'Š: '
+  sponsored_by: Sponzorira
+materials:
+  ADAMANTITE: Adamantit
+  ADVANCED_ALLOY: Napredna slitina
+  ALUMINUM: Aluminij
+  ALUMINUM_BRASS: Aluminijska mjed
+  ALUMINUM_BRONZE: Aluminijska bronca
+  ALUMINUM_SINGULARITY: Aluminijski singularitet
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Bilon
+  BOOMERITE: Boomerit
+  BRASS: Mjed
+  BRONZE: Bronca
+  CARBON_MESH: Ugljična mreža
+  COAL: Ugljen
+  COBALT: Kobalt
+  COPPER: Bakar
+  COPPER_SINGULARITY: Bakreni singularitet
+  CORINTHIAN_BRONZE: Korintska bronca
+  CRIMSON_ROOT: Grimizni korijen
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Damaščanski čelik
+  DAXI_ABSORPTION: Daxi upijanja
+  DAXI_FORTITUDE: Daxi postojanosti
+  DAXI_REGENERATION: Daxi obnove
+  DAXI_SATURATION: Daxi zasićenosti
+  DAXI_STRENGTH: Daxi snage
+  DETAILED_DEVOTION: Profinjena odanost
+  DIAMOND: Dijamant
+  DIAMOND_SINGULARITY: Dijamantni singularitet
+  DRACONIC: Zmajevina
+  DURALIUM: Duralij
+  EARTH_SINGULARITY: Zemljani singularitet
+  FERROSILICON: Ferosilicij
+  FLOWING_FONDNESS: Tekuća naklonost
+  FORTUNE_SINGULARITY: Singularitet sreće
+  GHOSTLY_ESSENCE: Sablasna bit
+  GOLD: Zlato
+  GOLD_SINGULARITY: Zlatni singularitet
+  HARDENED_METAL: Očvrsnuti metal
+  INFINITE: Beskonačje
+  INFINITY_SINGULARITY: Singularitet beskonačnosti
+  INTERDIMENSIONAL_PRESENCE: Međudimenzijska prisutnost
+  IRIDIUM: Iridij
+  IRON: Željezo
+  IRON_SINGULARITY: Željezni singularitet
+  LEAD: Olovo
+  LEAD_SINGULARITY: Olovni singularitet
+  LEATHER: Koža
+  LIQUID_CHRISTMAS: Tekući Božić
+  LIQUID_LOVE: Tekuća ljubav
+  MAGIC_SINGULARITY: Čarobni singularitet
+  MAGNESIUM: Magnezij
+  MAGNESIUM_SINGULARITY: Magnezijski singularitet
+  MAGNONIUM: Magnonij
+  MAGSTEEL: Magčelik
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Metalni singularitet
+  MIXED_METAL: Miješani metal
+  MYTHRIL: Mitril
+  NICEINIUM: Niceinium
+  NICKEL: Nikal
+  OSMIUM: Osmij
+  OSMIUM_SUPERALLOY: Osmijeva superslitina
+  PURIFIED_PASSION: Pročišćena strast
+  REDSTONE: Crveni kamen
+  REDSTONE_ALLOY: Slitina crvenog kamena
+  REFINED_IRON: Pročišćeno željezo
+  REINFORCED_ALLOY: Ojačana slitina
+  REINFORCED_DRACONIUM: Ojačani Draconium
+  REINFORCED_SLIME_STEEL: Ojačani sluzočelik
+  REMOTININIUM: Remotininium
+  RUBBER: Guma
+  SCRAP: Otpad
+  SEFIRITE: Sefirit
+  SEGGANESSON: Segganesson
+  SILICON: Silicij
+  SILVER: Srebro
+  SILVER_SINGULARITY: Srebrni singularitet
+  SLIME: Sluz
+  SLIME_STEEL: Sluzočelik
+  SMITHIUM: Smithium
+  SOLDER: Lem
+  STAINLESS_STEEL: Nehrđajući čelik
+  STAR_DUST: Zvjezdana prašina
+  STEEL: Čelik
+  STRING: Nit
+  TESSERACTING_MATERIAL: Teseraktna tvar
+  THORIUM: Torij
+  TIN: Kositar
+  TIN_SINGULARITY: Kositreni singularitet
+  TITANIUM: Titan
+  TWISTED_VINE: Uvijena lijana
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vexov dragulj
+  VINE: Lijana
+  VOID: Praznina
+  WARPED_ROOT: Iskrivljeni korijen
+  WEEPING_VINE: Plačuća lijana
+  ZINC: Cink
+  ZINC_SINGULARITY: Cinkov singularitet
+messages:
+  smeltery-incomplete: Ova talionica nije dovršena - dovrši okomiti 3x3 sa 6 blokova pržene opeke, prženim spremnikom i izljevom.
+modifiers:
+  DIAMOND: Dijamant
+  EMERALD: Smaragd
+  LAPIS_LAZULI: Lapis lazuli
+  MOD_PLATE: Ploča preinake
+  QUARTZ: Kvarc
+  REDSTONE: Crveni kamen
+part-types:
+  BINDING: Vezivo
+  GAMBESON: Gambezon
+  HEAD_AXE: glavu sjekire
+  HEAD_HOE: glavu motike
+  HEAD_PICK: glavu pijuka
+  HEAD_SHOVEL: glavu lopate
+  HEAD_SWORD: oštricu mača
+  LINKS: karike
+  PLATE_BOOTS: ploče čizama
+  PLATE_CHESTPLATE: ploče prsnog oklopa
+  PLATE_HELMET: ploče kacige
+  PLATE_LEGGINGS: ploče nogavica
+  REPAIR: popravni komplet
+  ROD: šipku alata
+tool-types:
+  AXE: Sjekira
+  HOE: Motika
+  PICK: Pijuk
+  PICKAXE: Pijuk
+  SHOVEL: Lopata
+  SWORD: Mač
