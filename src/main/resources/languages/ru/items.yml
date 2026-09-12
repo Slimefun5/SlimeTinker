@@ -107,13 +107,13 @@ ALUMINUM_SINGULARITY_LIQUID:
   - '&7&oРесурс'
 ANNIVERSARIUM_ALLOY:
   description:
-  - '&7Расплавленный сплав из Anniversarium.'
+  - '&7Расплавленный сплав из Анниверсариума.'
   name: '&x&A&6&0&A&0&AРасплавленный юбилярий'
   type:
   - '&7&oРесурс'
 ANNIVERSARIUM_LIQUID:
   description:
-  - '&7Расплав из Anniversarium.'
+  - '&7Расплав из Анниверсариума.'
   name: '&x&A&6&0&A&0&AРасплавленный юбилярий'
   type:
   - '&7&oРесурс'
@@ -294,7 +294,7 @@ BILLON_LIQUID:
 BLOCK_CAST_ADAMANTITE:
   description:
   - '&7Блок из адаманитита.'
-  name: '&7Adamanitite Блок'
+  name: '&7Адаманитит Блок'
   type:
   - '&7&oРесурс'
 BLOCK_CAST_ADVANCED_ALLOY:
@@ -335,7 +335,7 @@ BLOCK_CAST_BILLON:
   - '&7&oРесурс'
 BLOCK_CAST_BOOMERITE:
   description:
-  - '&7Блок из Boomerite'
+  - '&7Блок из Бумерита'
   name: '&7Бумерит Блок'
   type:
   - '&7&oРесурс'
@@ -371,7 +371,7 @@ BLOCK_CAST_COR_BRONZE:
   - '&7&oРесурс'
 BLOCK_CAST_CRINGLEIUM:
   description:
-  - '&7Блок из Cringleium'
+  - '&7Блок из Кринглиума'
   name: '&7Крингелий Блок'
   type:
   - '&7&oРесурс'
@@ -383,7 +383,7 @@ BLOCK_CAST_DAMASCUS_STEEL:
   - '&7&oРесурс'
 BLOCK_CAST_DURALIUM:
   description:
-  - '&7Блок из Duralium'
+  - '&7Блок из Дуралиума'
   name: '&7Дюралий Блок'
   type:
   - '&7&oРесурс'
@@ -432,7 +432,7 @@ BLOCK_CAST_MAGNESIUM:
   - '&7&oРесурс'
 BLOCK_CAST_MAGNONIUM:
   description:
-  - '&7Блок из Magnonium.'
+  - '&7Блок из Магнониума.'
   name: '&7Магноний Блок'
   type:
   - '&7&oРесурс'
@@ -523,7 +523,7 @@ BLOCK_CAST_SCRAP:
   - '&7&oРесурс'
 BLOCK_CAST_SEFIRITE:
   description:
-  - '&7Блок из Sefirite'
+  - '&7Блок из Сефирита'
   name: '&7Сефирит Блок'
   type:
   - '&7&oРесурс'
@@ -578,7 +578,7 @@ BLOCK_CAST_TITANIUM:
   - '&7&oРесурс'
 BLOCK_CAST_UNPATENTABILUM:
   description:
-  - '&7Блок Unpatentabilum'
+  - '&7Блок Унпатентабилума'
   name: '&7Незапатентий Блок'
   type:
   - '&7&oРесурс'
@@ -596,13 +596,13 @@ BLOCK_CAST_ZINC:
   - '&7&oРесурс'
 BOOMERITE_ALLOY:
   description:
-  - '&7Расплавленный сплав из Boomerite.'
+  - '&7Расплавленный сплав из Бумерита.'
   name: '&x&A&6&0&A&0&AРасплавленный бумерит'
   type:
   - '&7&oРесурс'
 BOOMERITE_LIQUID:
   description:
-  - '&7Расплав из Boomerite.'
+  - '&7Расплав из Бумерита.'
   name: '&x&A&6&0&A&0&AРасплавленный бумерит'
   type:
   - '&7&oРесурс'
@@ -1110,13 +1110,13 @@ CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
   - '&7&oКомпонент'
 CRINGLEIUM_ALLOY:
   description:
-  - '&7Расплавленный сплав из Cringleium.'
+  - '&7Расплавленный сплав из Кринглиума.'
   name: '&x&A&6&0&A&0&AРасплавленный кринглиум'
   type:
   - '&7&oРесурс'
 CRINGLEIUM_LIQUID:
   description:
-  - '&7Расплав из Cringleium.'
+  - '&7Расплав из Кринглиума.'
   name: '&x&A&6&0&A&0&AРасплавленный кринглиум'
   type:
   - '&7&oРесурс'
@@ -1386,13 +1386,13 @@ DURABLE_TRAIT_PROP_ROD_TITANIUM:
   - '&7&oКомпонент'
 DURALIUM_ALLOY:
   description:
-  - '&7Расплавленный сплав из Duralium.'
+  - '&7Расплавленный сплав из Дуралиума.'
   name: '&x&A&6&0&A&0&AРасплавленный дюралий'
   type:
   - '&7&oРесурс'
 DURALIUM_LIQUID:
   description:
-  - '&7Расплав из Duralium.'
+  - '&7Расплав из Дуралиума.'
   name: '&x&A&6&0&A&0&AРасплавленный дюралий'
   type:
   - '&7&oРесурс'
@@ -2081,31 +2081,31 @@ INGOT_CAST_CRINGLEIUM:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_ABSORPTION:
   description:
-  - '&7Слиток Daxi, источающий решимость.'
+  - '&7Слиток Дакси, источающий решимость.'
   name: '&7Поглощения Дакси Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_FORTITUDE:
   description:
-  - '&7Слиток Daxi, источающий непокорность.'
+  - '&7Слиток Дакси, источающий непокорность.'
   name: '&7Стойкости Дакси Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_REGENERATION:
   description:
-  - '&7Слиток Daxi, источающий доброту.'
+  - '&7Слиток Дакси, источающий доброту.'
   name: '&7Регенерации Дакси Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_SATURATION:
   description:
-  - '&7Слиток Daxi, источающий тепло.'
+  - '&7Слиток Дакси, источающий тепло.'
   name: '&7Насыщения Дакси Слиток'
   type:
   - '&7&oРесурс'
 INGOT_CAST_DAXI_STRENGTH:
   description:
-  - '&7Слиток Daxi, источающий силу.'
+  - '&7Слиток Дакси, источающий силу.'
   name: '&7Силы Дакси Слиток'
   type:
   - '&7&oРесурс'
@@ -2437,8 +2437,8 @@ MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
   - '&7&oКомпонент'
 MAGNONIUM_LIQUID:
   description:
-  - '&7Расплав из Magnonium.'
-  name: '&fРасплав из Magnonium'
+  - '&7Расплав из Магнониума.'
+  name: '&fРасплав из Магнониума'
   type:
   - '&7&oРесурс'
 MAGSTEEL_ALLOY:
@@ -2624,13 +2624,13 @@ NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
   - '&7&oКомпонент'
 NICEINIUM_ALLOY:
   description:
-  - '&7Расплавленный сплав из Niceinium.'
+  - '&7Расплавленный сплав из Найсиниума.'
   name: '&x&A&6&0&A&0&AРасплавленный найсиниум'
   type:
   - '&7&oРесурс'
 NICEINIUM_LIQUID:
   description:
-  - '&7Расплав из Niceinium.'
+  - '&7Расплав из Найсиниума.'
   name: '&x&A&6&0&A&0&AРасплавленный найсиниум'
   type:
   - '&7&oРесурс'
@@ -2739,7 +2739,7 @@ NUGGET_CAST_BILLON:
   - '&7&oРесурс'
 NUGGET_CAST_BOOMERITE:
   description:
-  - '&7Самородок из Boomerite'
+  - '&7Самородок из Бумерита'
   name: '&7Бумерит Самородок'
   type:
   - '&7&oРесурс'
@@ -2781,7 +2781,7 @@ NUGGET_CAST_COR_BRONZE:
   - '&7&oРесурс'
 NUGGET_CAST_CRINGLEIUM:
   description:
-  - '&7Самородок из Cringleium.'
+  - '&7Самородок из Кринглиума.'
   name: '&7Крингелий Самородок'
   type:
   - '&7&oРесурс'
@@ -2793,31 +2793,31 @@ NUGGET_CAST_DAMASCUS_STEEL:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_ABSORPTION:
   description:
-  - '&7Самородок Daxi, источающий решимость.'
+  - '&7Самородок Дакси, источающий решимость.'
   name: '&7Поглощения Дакси Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_FORTITUDE:
   description:
-  - '&7Самородок Daxi, источающий непокорность.'
+  - '&7Самородок Дакси, источающий непокорность.'
   name: '&7Стойкости Дакси Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_REGENERATION:
   description:
-  - '&7Самородок Daxi, источающий доброту.'
+  - '&7Самородок Дакси, источающий доброту.'
   name: '&7Регенерации Дакси Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_SATURATION:
   description:
-  - '&7Самородок Daxi, источающий тепло.'
+  - '&7Самородок Дакси, источающий тепло.'
   name: '&7Насыщения Дакси Самородок'
   type:
   - '&7&oРесурс'
 NUGGET_CAST_DAXI_STRENGTH:
   description:
-  - '&7Самородок Daxi, источающий силу.'
+  - '&7Самородок Дакси, источающий силу.'
   name: '&7Силы Дакси Самородок'
   type:
   - '&7&oРесурс'
@@ -2830,7 +2830,7 @@ NUGGET_CAST_DEVOTION:
   - '&7&oРесурс'
 NUGGET_CAST_DURALIUM:
   description:
-  - '&7Самородок из Duralium'
+  - '&7Самородок из Дуралиума'
   name: '&7Дюралий Самородок'
   type:
   - '&7&oРесурс'
@@ -2886,7 +2886,7 @@ NUGGET_CAST_MAGNESIUM:
   - '&7&oРесурс'
 NUGGET_CAST_MAGNONIUM:
   description:
-  - '&7Самородок из цельного Magnonium'
+  - '&7Самородок из цельного Магнониума'
   name: '&7Магноний Самородок'
   type:
   - '&7&oРесурс'
@@ -2984,7 +2984,7 @@ NUGGET_CAST_SCRAP:
   - '&7&oРесурс'
 NUGGET_CAST_SEFIRITE:
   description:
-  - '&7Самородок из Sefirite'
+  - '&7Самородок из Сефирита'
   name: '&7Сефирит Самородок'
   type:
   - '&7&oРесурс'
@@ -3039,7 +3039,7 @@ NUGGET_CAST_TITANIUM:
   - '&7&oРесурс'
 NUGGET_CAST_UNPATENTABILUM:
   description:
-  - '&7Самородок Unpatentabilum'
+  - '&7Самородок Унпатентабилума'
   name: '&7Незапатентий Самородок'
   type:
   - '&7&oРесурс'
@@ -3343,7 +3343,7 @@ PART_HEAD_AXEBILLON:
   - '&7&oКомпонент'
 PART_HEAD_AXEBOOMERITE:
   description:
-  - '&7Головка инструмента из Boomerite.'
+  - '&7Головка инструмента из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
@@ -3391,7 +3391,7 @@ PART_HEAD_AXEDAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_HEAD_AXEDURALIUM:
   description:
-  - '&7Головка инструмента из Duralium.'
+  - '&7Головка инструмента из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка топора'
   type:
   - '&7&oКомпонент'
@@ -3493,8 +3493,8 @@ PART_HEAD_AXEMAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_AXEMAGNONIUM:
   description:
-  - '&7Головка инструмента из Magnonium.'
-  name: '&fГоловка топора из Magnonium'
+  - '&7Головка инструмента из Магнониума.'
+  name: '&fГоловка топора из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_HEAD_AXEMAGSTEEL:
@@ -3529,7 +3529,7 @@ PART_HEAD_AXEMYTHRIL:
   - '&7&oКомпонент'
 PART_HEAD_AXENICEINIUM:
   description:
-  - '&7Головка инструмента из Niceinium.'
+  - '&7Головка инструмента из Найсиниума.'
   name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
@@ -3577,7 +3577,7 @@ PART_HEAD_AXESILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_AXESMITHIUM:
   description:
-  - '&7Головка инструмента из Smithium.'
+  - '&7Головка инструмента из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие топора'
   type:
   - '&7&oКомпонент'
@@ -3691,7 +3691,7 @@ PART_HEAD_HOEBILLON:
   - '&7&oКомпонент'
 PART_HEAD_HOEBOOMERITE:
   description:
-  - '&7Головка инструмента из Boomerite.'
+  - '&7Головка инструмента из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие мотыги'
   type:
   - '&7&oКомпонент'
@@ -3739,7 +3739,7 @@ PART_HEAD_HOEDAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_HEAD_HOEDURALIUM:
   description:
-  - '&7Головка инструмента из Duralium.'
+  - '&7Головка инструмента из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка мотыги'
   type:
   - '&7&oКомпонент'
@@ -3841,8 +3841,8 @@ PART_HEAD_HOEMAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_HOEMAGNONIUM:
   description:
-  - '&7Головка инструмента из Magnonium.'
-  name: '&fГоловка мотыги из Magnonium'
+  - '&7Головка инструмента из Магнониума.'
+  name: '&fГоловка мотыги из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_HEAD_HOEMAGSTEEL:
@@ -3877,7 +3877,7 @@ PART_HEAD_HOEMYTHRIL:
   - '&7&oКомпонент'
 PART_HEAD_HOENICEINIUM:
   description:
-  - '&7Головка инструмента из Niceinium.'
+  - '&7Головка инструмента из Найсиниума.'
   name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие мотыги'
   type:
   - '&7&oКомпонент'
@@ -3925,7 +3925,7 @@ PART_HEAD_HOESILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_HOESMITHIUM:
   description:
-  - '&7Головка инструмента из Smithium.'
+  - '&7Головка инструмента из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие мотыги'
   type:
   - '&7&oКомпонент'
@@ -4039,7 +4039,7 @@ PART_HEAD_PICKBILLON:
   - '&7&oКомпонент'
 PART_HEAD_PICKBOOMERITE:
   description:
-  - '&7Головка инструмента из Boomerite.'
+  - '&7Головка инструмента из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
@@ -4087,7 +4087,7 @@ PART_HEAD_PICKDAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_HEAD_PICKDURALIUM:
   description:
-  - '&7Головка инструмента из Duralium.'
+  - '&7Головка инструмента из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
@@ -4189,8 +4189,8 @@ PART_HEAD_PICKMAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_PICKMAGNONIUM:
   description:
-  - '&7Головка инструмента из Magnonium.'
-  name: '&fГоловка кирки из Magnonium'
+  - '&7Головка инструмента из Магнониума.'
+  name: '&fГоловка кирки из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_HEAD_PICKMAGSTEEL:
@@ -4225,7 +4225,7 @@ PART_HEAD_PICKMYTHRIL:
   - '&7&oКомпонент'
 PART_HEAD_PICKNICEINIUM:
   description:
-  - '&7Головка инструмента из Niceinium.'
+  - '&7Головка инструмента из Найсиниума.'
   name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
@@ -4273,7 +4273,7 @@ PART_HEAD_PICKSILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_PICKSMITHIUM:
   description:
-  - '&7Головка инструмента из Smithium.'
+  - '&7Головка инструмента из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Головка кирки'
   type:
   - '&7&oКомпонент'
@@ -4387,7 +4387,7 @@ PART_HEAD_SHOVELBILLON:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELBOOMERITE:
   description:
-  - '&7Головка инструмента из Boomerite.'
+  - '&7Головка инструмента из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие лопаты'
   type:
   - '&7&oКомпонент'
@@ -4435,7 +4435,7 @@ PART_HEAD_SHOVELDAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELDURALIUM:
   description:
-  - '&7Головка инструмента из Duralium.'
+  - '&7Головка инструмента из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка лопаты'
   type:
   - '&7&oКомпонент'
@@ -4537,8 +4537,8 @@ PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELMAGNONIUM:
   description:
-  - '&7Головка инструмента из Magnonium.'
-  name: '&fГоловка лопаты из Magnonium'
+  - '&7Головка инструмента из Магнониума.'
+  name: '&fГоловка лопаты из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELMAGSTEEL:
@@ -4573,7 +4573,7 @@ PART_HEAD_SHOVELMYTHRIL:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELNICEINIUM:
   description:
-  - '&7Головка инструмента из Niceinium.'
+  - '&7Головка инструмента из Найсиниума.'
   name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие лопаты'
   type:
   - '&7&oКомпонент'
@@ -4621,7 +4621,7 @@ PART_HEAD_SHOVELSILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_SHOVELSMITHIUM:
   description:
-  - '&7Головка инструмента из Smithium.'
+  - '&7Головка инструмента из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие лопаты'
   type:
   - '&7&oКомпонент'
@@ -4735,7 +4735,7 @@ PART_HEAD_SWORDBILLON:
   - '&7&oКомпонент'
 PART_HEAD_SWORDBOOMERITE:
   description:
-  - '&7Головка инструмента из Boomerite.'
+  - '&7Головка инструмента из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
@@ -4783,7 +4783,7 @@ PART_HEAD_SWORDDAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_HEAD_SWORDDURALIUM:
   description:
-  - '&7Головка инструмента из Duralium.'
+  - '&7Головка инструмента из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Головка меча'
   type:
   - '&7&oКомпонент'
@@ -4885,8 +4885,8 @@ PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_SWORDMAGNONIUM:
   description:
-  - '&7Головка инструмента из Magnonium.'
-  name: '&fГоловка меча из Magnonium'
+  - '&7Головка инструмента из Магнониума.'
+  name: '&fГоловка меча из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_HEAD_SWORDMAGSTEEL:
@@ -4921,7 +4921,7 @@ PART_HEAD_SWORDMYTHRIL:
   - '&7&oКомпонент'
 PART_HEAD_SWORDNICEINIUM:
   description:
-  - '&7Головка инструмента из Niceinium.'
+  - '&7Головка инструмента из Найсиниума.'
   name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
@@ -4969,7 +4969,7 @@ PART_HEAD_SWORDSILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_HEAD_SWORDSMITHIUM:
   description:
-  - '&7Головка инструмента из Smithium.'
+  - '&7Головка инструмента из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Лезвие меча'
   type:
   - '&7&oКомпонент'
@@ -5161,7 +5161,7 @@ PART_LINKS_CORINTHIAN_BRONZE:
   - '&7&oКомпонент'
 PART_LINKS_CRINGLEIUM:
   description:
-  - '&7Комплект кольчужных колец из Cringleium.'
+  - '&7Комплект кольчужных колец из Кринглиума.'
   name: '&x&0&0&C&C&3&6Кринглиум&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
@@ -5173,7 +5173,7 @@ PART_LINKS_DAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_LINKS_DURALIUM:
   description:
-  - '&7Комплект кольчужных колец из Duralium.'
+  - '&7Комплект кольчужных колец из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
@@ -5287,8 +5287,8 @@ PART_LINKS_MAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_LINKS_MAGNONIUM:
   description:
-  - '&7Комплект кольчужных колец из Magnonium.'
-  name: '&fКольчужные кольца из Magnonium'
+  - '&7Комплект кольчужных колец из Магнониума.'
+  name: '&fКольчужные кольца из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_LINKS_MAGSTEEL:
@@ -5365,7 +5365,7 @@ PART_LINKS_SILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_LINKS_SMITHIUM:
   description:
-  - '&7Комплект кольчужных колец из Smithium.'
+  - '&7Комплект кольчужных колец из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Кольчужные звенья'
   type:
   - '&7&oКомпонент'
@@ -5419,8 +5419,8 @@ PART_LINKS_TITANIUM:
   - '&7&oКомпонент'
 PART_LINKS_ULTIMANINIUM:
   description:
-  - '&7Комплект кольчужных колец из Ultimaninium.'
-  name: '&fКольчужные кольца из Ultimaninium'
+  - '&7Комплект кольчужных колец из Ультиманиниума.'
+  name: '&fКольчужные кольца из Ультиманиниума'
   type:
   - '&7&oКомпонент'
 PART_LINKS_VOID:
@@ -5499,7 +5499,7 @@ PART_PLATES_BOOTSALUMINUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSANNIVERSARIUM:
   description:
-  - '&7Комплект бронепластин из Anniversarium.'
+  - '&7Комплект бронепластин из Анниверсариума.'
   name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
@@ -5511,7 +5511,7 @@ PART_PLATES_BOOTSBILLON:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSBOOMERITE:
   description:
-  - '&7Комплект бронепластин из Boomerite.'
+  - '&7Комплект бронепластин из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
@@ -5559,7 +5559,7 @@ PART_PLATES_BOOTSDAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSDURALIUM:
   description:
-  - '&7Комплект бронепластин из Duralium.'
+  - '&7Комплект бронепластин из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
@@ -5661,8 +5661,8 @@ PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSMAGNONIUM:
   description:
-  - '&7Комплект бронепластин из Magnonium.'
-  name: '&fПластины ботинок из Magnonium'
+  - '&7Комплект бронепластин из Магнониума.'
+  name: '&fПластины ботинок из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSMAGSTEEL:
@@ -5727,7 +5727,7 @@ PART_PLATES_BOOTSSCRAP:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSEFIRITE:
   description:
-  - '&7Комплект бронепластин из Sefirite.'
+  - '&7Комплект бронепластин из Сефирита.'
   name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
@@ -5745,7 +5745,7 @@ PART_PLATES_BOOTSSILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSSMITHIUM:
   description:
-  - '&7Комплект бронепластин из Smithium.'
+  - '&7Комплект бронепластин из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины ботинок'
   type:
   - '&7&oКомпонент'
@@ -5853,7 +5853,7 @@ PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
   description:
-  - '&7Комплект бронепластин из Anniversarium.'
+  - '&7Комплект бронепластин из Анниверсариума.'
   name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
@@ -5865,7 +5865,7 @@ PART_PLATES_CHESTPLATEBILLON:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEBOOMERITE:
   description:
-  - '&7Комплект бронепластин из Boomerite.'
+  - '&7Комплект бронепластин из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
@@ -5913,7 +5913,7 @@ PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEDURALIUM:
   description:
-  - '&7Комплект бронепластин из Duralium.'
+  - '&7Комплект бронепластин из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
@@ -6015,8 +6015,8 @@ PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEMAGNONIUM:
   description:
-  - '&7Комплект бронепластин из Magnonium.'
-  name: '&fПластины нагрудника из Magnonium'
+  - '&7Комплект бронепластин из Магнониума.'
+  name: '&fПластины нагрудника из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATEMAGSTEEL:
@@ -6081,7 +6081,7 @@ PART_PLATES_CHESTPLATESCRAP:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESEFIRITE:
   description:
-  - '&7Комплект бронепластин из Sefirite.'
+  - '&7Комплект бронепластин из Сефирита.'
   name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
@@ -6099,7 +6099,7 @@ PART_PLATES_CHESTPLATESILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_CHESTPLATESMITHIUM:
   description:
-  - '&7Комплект бронепластин из Smithium.'
+  - '&7Комплект бронепластин из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины нагрудника'
   type:
   - '&7&oКомпонент'
@@ -6207,7 +6207,7 @@ PART_PLATES_HELMETALUMINUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_HELMETANNIVERSARIUM:
   description:
-  - '&7Комплект бронепластин из Anniversarium.'
+  - '&7Комплект бронепластин из Анниверсариума.'
   name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
@@ -6219,7 +6219,7 @@ PART_PLATES_HELMETBILLON:
   - '&7&oКомпонент'
 PART_PLATES_HELMETBOOMERITE:
   description:
-  - '&7Комплект бронепластин из Boomerite.'
+  - '&7Комплект бронепластин из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
@@ -6267,7 +6267,7 @@ PART_PLATES_HELMETDAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_PLATES_HELMETDURALIUM:
   description:
-  - '&7Комплект бронепластин из Duralium.'
+  - '&7Комплект бронепластин из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
@@ -6369,8 +6369,8 @@ PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_HELMETMAGNONIUM:
   description:
-  - '&7Комплект бронепластин из Magnonium.'
-  name: '&fПластины шлема из Magnonium'
+  - '&7Комплект бронепластин из Магнониума.'
+  name: '&fПластины шлема из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_PLATES_HELMETMAGSTEEL:
@@ -6435,7 +6435,7 @@ PART_PLATES_HELMETSCRAP:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSEFIRITE:
   description:
-  - '&7Комплект бронепластин из Sefirite.'
+  - '&7Комплект бронепластин из Сефирита.'
   name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
@@ -6453,7 +6453,7 @@ PART_PLATES_HELMETSILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_HELMETSMITHIUM:
   description:
-  - '&7Комплект бронепластин из Smithium.'
+  - '&7Комплект бронепластин из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины шлема'
   type:
   - '&7&oКомпонент'
@@ -6561,7 +6561,7 @@ PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
   description:
-  - '&7Комплект бронепластин из Anniversarium.'
+  - '&7Комплект бронепластин из Анниверсариума.'
   name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
@@ -6573,7 +6573,7 @@ PART_PLATES_LEGGINGSBILLON:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSBOOMERITE:
   description:
-  - '&7Комплект бронепластин из Boomerite.'
+  - '&7Комплект бронепластин из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
@@ -6621,7 +6621,7 @@ PART_PLATES_LEGGINGSDAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSDURALIUM:
   description:
-  - '&7Комплект бронепластин из Duralium.'
+  - '&7Комплект бронепластин из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
@@ -6723,8 +6723,8 @@ PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSMAGNONIUM:
   description:
-  - '&7Комплект бронепластин из Magnonium.'
-  name: '&fПластины поножей из Magnonium'
+  - '&7Комплект бронепластин из Магнониума.'
+  name: '&fПластины поножей из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSMAGSTEEL:
@@ -6789,7 +6789,7 @@ PART_PLATES_LEGGINGSSCRAP:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSEFIRITE:
   description:
-  - '&7Комплект бронепластин из Sefirite.'
+  - '&7Комплект бронепластин из Сефирита.'
   name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
@@ -6807,7 +6807,7 @@ PART_PLATES_LEGGINGSSILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_PLATES_LEGGINGSSMITHIUM:
   description:
-  - '&7Комплект бронепластин из Smithium.'
+  - '&7Комплект бронепластин из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Пластины поножей'
   type:
   - '&7&oКомпонент'
@@ -6930,7 +6930,7 @@ PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
 PART_REPAIR_KIT_ANNIVERSARIUM:
   description:
   - '&7Набор, которым можно чинить предметы'
-  - '&7из Anniversarium.'
+  - '&7из Анниверсариума.'
   name: '&x&3&2&B&4&1&EЮбилярий&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
@@ -6944,7 +6944,7 @@ PART_REPAIR_KIT_BILLON:
 PART_REPAIR_KIT_BOOMERITE:
   description:
   - '&7Набор, которым можно чинить предметы'
-  - '&7из Boomerite.'
+  - '&7из Бумерита.'
   name: '&x&D&9&4&C&0&0Бумерит&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
@@ -7006,7 +7006,7 @@ PART_REPAIR_KIT_DUMMY:
 PART_REPAIR_KIT_DURALIUM:
   description:
   - '&7Набор, которым можно чинить предметы'
-  - '&7из Duralium.'
+  - '&7из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
@@ -7125,8 +7125,8 @@ PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
 PART_REPAIR_KIT_MAGNONIUM:
   description:
   - '&7Набор, которым можно чинить предметы'
-  - '&7из Magnonium.'
-  name: '&fРемонтный набор из Magnonium'
+  - '&7из Магнониума.'
+  name: '&fРемонтный набор из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_MAGSTEEL:
@@ -7167,7 +7167,7 @@ PART_REPAIR_KIT_MYTHRIL:
 PART_REPAIR_KIT_NICEINIUM:
   description:
   - '&7Набор, которым можно чинить предметы'
-  - '&7из Niceinium.'
+  - '&7из Найсиниума.'
   name: '&x&8&0&5&5&0&DНайсиниум&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
@@ -7216,7 +7216,7 @@ PART_REPAIR_KIT_SCRAP:
 PART_REPAIR_KIT_SEFIRITE:
   description:
   - '&7Набор, которым можно чинить предметы'
-  - '&7из Sefirite.'
+  - '&7из Сефирита.'
   name: '&x&9&B&E&B&3&4Сефирит&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
@@ -7237,7 +7237,7 @@ PART_REPAIR_KIT_SILVER_SINGULARITY:
 PART_REPAIR_KIT_SMITHIUM:
   description:
   - '&7Набор, которым можно чинить предметы'
-  - '&7из Smithium.'
+  - '&7из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Ремонтный набор'
   type:
   - '&7&oКомпонент'
@@ -7404,7 +7404,7 @@ PART_ROD_DAMASCUS_STEEL:
   - '&7&oКомпонент'
 PART_ROD_DURALIUM:
   description:
-  - '&7Стержень инструмента из Duralium.'
+  - '&7Стержень инструмента из Дуралиума.'
   name: '&x&A&3&A&0&8&9Дюралий&x&4&2&C&8&F&5 Рукоять'
   type:
   - '&7&oКомпонент'
@@ -7500,8 +7500,8 @@ PART_ROD_MAGNESIUM_SINGULARITY:
   - '&7&oКомпонент'
 PART_ROD_MAGNONIUM:
   description:
-  - '&7Стержень инструмента из Magnonium.'
-  name: '&fСтержень из Magnonium'
+  - '&7Стержень инструмента из Магнониума.'
+  name: '&fСтержень из Магнониума'
   type:
   - '&7&oКомпонент'
 PART_ROD_MAGSTEEL:
@@ -7578,7 +7578,7 @@ PART_ROD_SILVER_SINGULARITY:
   - '&7&oКомпонент'
 PART_ROD_SMITHIUM:
   description:
-  - '&7Стержень инструмента из Smithium.'
+  - '&7Стержень инструмента из Смитиума.'
   name: '&x&6&E&7&F&8&0Смитиум&x&4&2&C&8&F&5 Стержень'
   type:
   - '&7&oКомпонент'
@@ -7923,8 +7923,8 @@ REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
   - '&7&oКомпонент'
 REMOTININIUM_LIQUID:
   description:
-  - '&7Расплав из Remotininium.'
-  name: '&fРасплав из Remotininium'
+  - '&7Расплав из Ремотининиума.'
+  name: '&fРасплав из Ремотининиума'
   type:
   - '&7&oРесурс'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
@@ -7993,7 +7993,7 @@ SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
   - '&7&oКомпонент'
 SEFIRITE_LIQUID:
   description:
-  - '&7Расплав из Sefirite.'
+  - '&7Расплав из Сефирита.'
   name: '&x&A&6&0&A&0&AРасплавленный сефирит'
   type:
   - '&7&oРесурс'
@@ -8112,13 +8112,13 @@ SMELTERY_CONTROLLER:
   - '&7&oКомпонент'
 SMITHIUM_ALLOY:
   description:
-  - '&7Расплавленный сплав из Smithium.'
+  - '&7Расплавленный сплав из Смитиума.'
   name: '&x&A&6&0&A&0&AРасплавленный смитиум'
   type:
   - '&7&oРесурс'
 SMITHIUM_LIQUID:
   description:
-  - '&7Расплав из Smithium.'
+  - '&7Расплав из Смитиума.'
   name: '&x&A&6&0&A&0&AРасплавленный смитиум'
   type:
   - '&7&oРесурс'
@@ -8712,14 +8712,14 @@ TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
   - '&7&oКомпонент'
 ULTIMANINIUM_ALLOY:
   description:
-  - '&7Расплавленный сплав из Ultimaninium.'
-  name: '&fРасплав из Ultimaninium'
+  - '&7Расплавленный сплав из Ультиманиниума.'
+  name: '&fРасплав из Ультиманиниума'
   type:
   - '&7&oРесурс'
 ULTIMANINIUM_LIQUID:
   description:
-  - '&7Расплав из Ultimaninium.'
-  name: '&fРасплав из Ultimaninium'
+  - '&7Расплав из Ультиманиниума.'
+  name: '&fРасплав из Ультиманиниума'
   type:
   - '&7&oРесурс'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
@@ -8799,7 +8799,7 @@ WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
   - '&7Ваши атаки лечат, а не ранят.'
   - ''
   - '&7Добавлено: ядро SlimeTinker'
-  name: '&x&B&F&3&0&7&FЧерта : WHM'
+  name: '&x&B&F&3&0&7&FЧерта : Белый маг'
   type:
   - '&7&oКомпонент'
 WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:

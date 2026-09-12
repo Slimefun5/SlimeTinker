@@ -21,15 +21,15 @@ lore:
   rod_abbrev: 'Д: '
   sponsored_by: Спонсорирано от
 materials:
-  ADAMANTITE: Adamantite
+  ADAMANTITE: Адамантит
   ADVANCED_ALLOY: Усъвършенствана сплав
   ALUMINUM: Алуминий
   ALUMINUM_BRASS: Алуминиев месинг
   ALUMINUM_BRONZE: Алуминиев бронз
   ALUMINUM_SINGULARITY: Алуминиева сингулярност
-  ANNIVERSARIUM: Anniversarium
+  ANNIVERSARIUM: Аниверсариум
   BILLON: Билон
-  BOOMERITE: Boomerite
+  BOOMERITE: Бумерит
   BRASS: Месинг
   BRONZE: Бронз
   CARBON_MESH: Карбонова мрежа
@@ -39,13 +39,13 @@ materials:
   COPPER_SINGULARITY: Медна сингулярност
   CORINTHIAN_BRONZE: Коринтски бронз
   CRIMSON_ROOT: Пурпурен корен
-  CRINGLEIUM: Cringleium
+  CRINGLEIUM: Крингълиум
   DAMASCUS_STEEL: Дамаска стомана
-  DAXI_ABSORPTION: Daxi на Поглъщане
-  DAXI_FORTITUDE: Daxi на Издръжливост
-  DAXI_REGENERATION: Daxi на Възстановяване
-  DAXI_SATURATION: Daxi на Насита
-  DAXI_STRENGTH: Daxi на Сила
+  DAXI_ABSORPTION: Дакси на Поглъщане
+  DAXI_FORTITUDE: Дакси на Издръжливост
+  DAXI_REGENERATION: Дакси на Възстановяване
+  DAXI_SATURATION: Дакси на Насита
+  DAXI_STRENGTH: Дакси на Сила
   DETAILED_DEVOTION: Изящна преданост
   DIAMOND: Диамант
   DIAMOND_SINGULARITY: Диамантена сингулярност
@@ -73,13 +73,13 @@ materials:
   MAGIC_SINGULARITY: Магическа сингулярност
   MAGNESIUM: Магнезий
   MAGNESIUM_SINGULARITY: Магнезиева сингулярност
-  MAGNONIUM: Magnonium
+  MAGNONIUM: Магнониум
   MAGSTEEL: Магстомана
   MAG_THOR: Маг-торий
   METAL_SINGULARITY: Метална сингулярност
   MIXED_METAL: Смесен метал
   MYTHRIL: Митрил
-  NICEINIUM: Niceinium
+  NICEINIUM: Найсиниум
   NICKEL: Никел
   OSMIUM: Осмий
   OSMIUM_SUPERALLOY: Осмиева суперсплав
@@ -90,17 +90,17 @@ materials:
   REINFORCED_ALLOY: Подсилена сплав
   REINFORCED_DRACONIUM: Подсилен дракониум
   REINFORCED_SLIME_STEEL: Подсилена слузна стомана
-  REMOTININIUM: Remotininium
+  REMOTININIUM: Ремотининиум
   RUBBER: Гума
   SCRAP: Скрап
-  SEFIRITE: Sefirite
-  SEGGANESSON: Segganesson
+  SEFIRITE: Сефирит
+  SEGGANESSON: Сеганесън
   SILICON: Силиций
   SILVER: Сребро
   SILVER_SINGULARITY: Сребърна сингулярност
   SLIME: Слуз
   SLIME_STEEL: Слузна стомана
-  SMITHIUM: Smithium
+  SMITHIUM: Смитиум
   SOLDER: Припой
   STAINLESS_STEEL: Неръждаема стомана
   STAR_DUST: Звезден прах
@@ -112,8 +112,8 @@ materials:
   TIN_SINGULARITY: Калаена сингулярност
   TITANIUM: Титан
   TWISTED_VINE: Усукана лиана
-  ULTIMANINIUM: Ultimaninium
-  UNPATENTABLIUM: Unpatentablium
+  ULTIMANINIUM: Ултиманиниум
+  UNPATENTABLIUM: Унпатентаблиум
   VEX_GEM: Вексов камък
   VINE: Лиана
   VOID: Бездна
