@@ -35,8 +35,8 @@ ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
   - '&7&oمكون'
 ADAMANTITE_LIQUID:
   description:
-  - '&7الشكل المنصهر من Adamantite.'
-  name: '&fمصهور Adamantite'
+  - '&7الشكل المنصهر من أدامانتيت.'
+  name: '&fمصهور أدامانتيت'
   type:
   - '&7&oمورد'
 ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
@@ -107,14 +107,14 @@ ALUMINUM_SINGULARITY_LIQUID:
   - '&7&oمورد'
 ANNIVERSARIUM_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Anniversarium.'
-  name: '&fمصهور Anniversarium'
+  - '&7سبيكة معدنية منصهرة من أنيفرساريوم.'
+  name: '&fمصهور أنيفرساريوم'
   type:
   - '&7&oمورد'
 ANNIVERSARIUM_LIQUID:
   description:
-  - '&7الشكل المنصهر من Anniversarium.'
-  name: '&fمصهور Anniversarium'
+  - '&7الشكل المنصهر من أنيفرساريوم.'
+  name: '&fمصهور أنيفرساريوم'
   type:
   - '&7&oمورد'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
@@ -293,8 +293,8 @@ BILLON_LIQUID:
   - '&7&oمورد'
 BLOCK_CAST_ADAMANTITE:
   description:
-  - '&7كتلة مصنوعة من Adamanitite.'
-  name: '&fكتلة من Adamanitite'
+  - '&7كتلة مصنوعة من أدامانيتيت.'
+  name: '&fكتلة من أدامانيتيت'
   type:
   - '&7&oمورد'
 BLOCK_CAST_ADVANCED_ALLOY:
@@ -324,7 +324,7 @@ BLOCK_CAST_ALU_BRONZE:
 BLOCK_CAST_ANNIVERSARIUM:
   description:
   - '&7عشر سنوات من (Slime)fun!'
-  name: '&fكتلة من Anniversarium'
+  name: '&fكتلة من أنيفرساريوم'
   type:
   - '&7&oمورد'
 BLOCK_CAST_BILLON:
@@ -335,8 +335,8 @@ BLOCK_CAST_BILLON:
   - '&7&oمورد'
 BLOCK_CAST_BOOMERITE:
   description:
-  - '&7كتلة مصنوعة من Boomerite'
-  name: '&fكتلة من Boomerite'
+  - '&7كتلة مصنوعة من البوميرايت'
+  name: '&fكتلة من بوميرايت'
   type:
   - '&7&oمورد'
 BLOCK_CAST_BRASS:
@@ -371,8 +371,8 @@ BLOCK_CAST_COR_BRONZE:
   - '&7&oمورد'
 BLOCK_CAST_CRINGLEIUM:
   description:
-  - '&7كتلة مصنوعة من Cringleium'
-  name: '&fكتلة من Cringleium'
+  - '&7كتلة مصنوعة من الكرينغليوم'
+  name: '&fكتلة من كرينغليوم'
   type:
   - '&7&oمورد'
 BLOCK_CAST_DAMASCUS_STEEL:
@@ -383,8 +383,8 @@ BLOCK_CAST_DAMASCUS_STEEL:
   - '&7&oمورد'
 BLOCK_CAST_DURALIUM:
   description:
-  - '&7كتلة مصنوعة من Duralium'
-  name: '&fكتلة من Duralium'
+  - '&7كتلة مصنوعة من الدوراليوم'
+  name: '&fكتلة من دوراليوم'
   type:
   - '&7&oمورد'
 BLOCK_CAST_FERROSILICON:
@@ -432,20 +432,20 @@ BLOCK_CAST_MAGNESIUM:
   - '&7&oمورد'
 BLOCK_CAST_MAGNONIUM:
   description:
-  - '&7كتلة مصنوعة من Magnonium.'
-  name: '&fكتلة من Magnonium'
+  - '&7كتلة مصنوعة من ماغنونيوم.'
+  name: '&fكتلة من ماغنونيوم'
   type:
   - '&7&oمورد'
 BLOCK_CAST_MAGSTEEL:
   description:
-  - '&7كتلة مصنوعة من MagSteel.'
-  name: '&fكتلة من MagSteel'
+  - '&7كتلة مصنوعة من فولاذ ماغ.'
+  name: '&fكتلة من فولاذ ماغ'
   type:
   - '&7&oمورد'
 BLOCK_CAST_MAG_THOR:
   description:
-  - '&7كتلة من Mag-Thor'
-  name: '&fكتلة من Mag-Thor'
+  - '&7كتلة من ماغ-ثور'
+  name: '&fكتلة من ماغ-ثور'
   type:
   - '&7&oمورد'
 BLOCK_CAST_MIXED_METAL:
@@ -456,8 +456,8 @@ BLOCK_CAST_MIXED_METAL:
   - '&7&oمورد'
 BLOCK_CAST_MYTHRIL:
   description:
-  - '&7كتلة مصنوعة من Mythril.'
-  name: '&fكتلة من Mythril'
+  - '&7كتلة مصنوعة من ميثريل.'
+  name: '&fكتلة من ميثريل'
   type:
   - '&7&oمورد'
 BLOCK_CAST_NICE:
@@ -506,7 +506,7 @@ BLOCK_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7كتلة تعجّ بـ'
   - '&7غضب لا يُبارى.'
-  name: '&fكتلة من Draconium المُعزّز'
+  name: '&fكتلة من الدراكونيوم المُعزّز'
   type:
   - '&7&oمورد'
 BLOCK_CAST_REINFORCED_SLIMESTEEL:
@@ -523,8 +523,8 @@ BLOCK_CAST_SCRAP:
   - '&7&oمورد'
 BLOCK_CAST_SEFIRITE:
   description:
-  - '&7كتلة مصنوعة من Sefirite'
-  name: '&fكتلة من Sefirite'
+  - '&7كتلة مصنوعة من السيفيرايت'
+  name: '&fكتلة من سيفيرايت'
   type:
   - '&7&oمورد'
 BLOCK_CAST_SILVER:
@@ -543,7 +543,7 @@ BLOCK_CAST_SMITHIUM:
   description:
   - '&7معدن بسيط له استخدامات متنوّعة'
   - '&7في مهام الصناعة الأساسية.'
-  name: '&fكتلة من Smithium'
+  name: '&fكتلة من سميثيوم'
   type:
   - '&7&oمورد'
 BLOCK_CAST_SOLDER:
@@ -578,8 +578,8 @@ BLOCK_CAST_TITANIUM:
   - '&7&oمورد'
 BLOCK_CAST_UNPATENTABILUM:
   description:
-  - '&7كتلة من Unpatentabilum'
-  name: '&fكتلة من Unpatentabilum'
+  - '&7كتلة من الأنباتنتابيلوم'
+  name: '&fكتلة من الأنباتنتابيلوم'
   type:
   - '&7&oمورد'
 BLOCK_CAST_VOID:
@@ -596,14 +596,14 @@ BLOCK_CAST_ZINC:
   - '&7&oمورد'
 BOOMERITE_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Boomerite.'
-  name: '&fمصهور Boomerite'
+  - '&7سبيكة معدنية منصهرة من بوميرايت.'
+  name: '&fمصهور بوميرايت'
   type:
   - '&7&oمورد'
 BOOMERITE_LIQUID:
   description:
-  - '&7الشكل المنصهر من Boomerite.'
-  name: '&fمصهور Boomerite'
+  - '&7الشكل المنصهر من بوميرايت.'
+  name: '&fمصهور بوميرايت'
   type:
   - '&7&oمورد'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
@@ -1110,14 +1110,14 @@ CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
   - '&7&oمكون'
 CRINGLEIUM_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Cringleium.'
-  name: '&fمصهور Cringleium'
+  - '&7سبيكة معدنية منصهرة من كرينغليوم.'
+  name: '&fمصهور كرينغليوم'
   type:
   - '&7&oمورد'
 CRINGLEIUM_LIQUID:
   description:
-  - '&7الشكل المنصهر من Cringleium.'
-  name: '&fمصهور Cringleium'
+  - '&7الشكل المنصهر من كرينغليوم.'
+  name: '&fمصهور كرينغليوم'
   type:
   - '&7&oمورد'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
@@ -1386,14 +1386,14 @@ DURABLE_TRAIT_PROP_ROD_TITANIUM:
   - '&7&oمكون'
 DURALIUM_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Duralium.'
-  name: '&fمصهور Duralium'
+  - '&7سبيكة معدنية منصهرة من دوراليوم.'
+  name: '&fمصهور دوراليوم'
   type:
   - '&7&oمورد'
 DURALIUM_LIQUID:
   description:
-  - '&7الشكل المنصهر من Duralium.'
-  name: '&fمصهور Duralium'
+  - '&7الشكل المنصهر من دوراليوم.'
+  name: '&fمصهور دوراليوم'
   type:
   - '&7&oمورد'
 DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
@@ -2058,55 +2058,55 @@ INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
   - '&7ثمّة خطب ما في هذه الأداة.'
   - ''
   - '&7أضافه: SlimeTinker الأساسي'
-  name: '&fIngheights'
+  name: '&fإنغهايتس'
   type:
   - '&7&oمكون'
 INGOT_CAST_ANNIVERSARIUM:
   description:
   - '&7عشر سنوات من (Slime)fun!'
-  name: '&fسبيكة من Anniversarium'
+  name: '&fسبيكة من أنيفرساريوم'
   type:
   - '&7&oمورد'
 INGOT_CAST_BOOMERITE:
   description:
   - '&7سبيكة نادرة جدًا. أصلها مجهول.'
-  name: '&fسبيكة من Boomerite'
+  name: '&fسبيكة من بوميرايت'
   type:
   - '&7&oمورد'
 INGOT_CAST_CRINGLEIUM:
   description:
   - '&7سبيكة احتفالية متاحة لوقت قصير فقط.'
-  name: '&fسبيكة من Cringleium'
+  name: '&fسبيكة من كرينغليوم'
   type:
   - '&7&oمورد'
 INGOT_CAST_DAXI_ABSORPTION:
   description:
-  - '&7سبيكة Daxi تفيض عزمًا.'
-  name: '&fسبيكة Daxi الامتصاص'
+  - '&7سبيكة داكسي تفيض عزمًا.'
+  name: '&fسبيكة داكسي الامتصاص'
   type:
   - '&7&oمورد'
 INGOT_CAST_DAXI_FORTITUDE:
   description:
-  - '&7سبيكة Daxi تفيض تحدّيًا.'
-  name: '&fسبيكة Daxi الجَلَد'
+  - '&7سبيكة داكسي تفيض تحدّيًا.'
+  name: '&fسبيكة داكسي الجَلَد'
   type:
   - '&7&oمورد'
 INGOT_CAST_DAXI_REGENERATION:
   description:
-  - '&7سبيكة Daxi تفيض لطفًا.'
-  name: '&fسبيكة Daxi التجدّد'
+  - '&7سبيكة داكسي تفيض لطفًا.'
+  name: '&fسبيكة داكسي التجدّد'
   type:
   - '&7&oمورد'
 INGOT_CAST_DAXI_SATURATION:
   description:
-  - '&7سبيكة Daxi تفيض دفئًا.'
-  name: '&fسبيكة Daxi الشِبَع'
+  - '&7سبيكة داكسي تفيض دفئًا.'
+  name: '&fسبيكة داكسي الشِبَع'
   type:
   - '&7&oمورد'
 INGOT_CAST_DAXI_STRENGTH:
   description:
-  - '&7سبيكة Daxi تفيض قوّةً.'
-  name: '&fسبيكة Daxi القوّة'
+  - '&7سبيكة داكسي تفيض قوّةً.'
+  name: '&fسبيكة داكسي القوّة'
   type:
   - '&7&oمورد'
 INGOT_CAST_DEVOTION:
@@ -2147,20 +2147,20 @@ INGOT_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7سبيكة تعجّ بـ'
   - '&7غضب لا يُبارى.'
-  name: '&fسبيكة من Draconium المُعزّز'
+  name: '&fسبيكة من الدراكونيوم المُعزّز'
   type:
   - '&7&oمورد'
 INGOT_CAST_SEFIRITE:
   description:
   - '&7سبيكة متاحة لوقت قصير فقط.'
-  name: '&fسبيكة من Sefirite'
+  name: '&fسبيكة من سيفيرايت'
   type:
   - '&7&oمورد'
 INGOT_CAST_SMITHIUM:
   description:
   - '&7معدن بسيط له استخدامات متنوّعة'
   - '&7في مهام الصناعة الأساسية.'
-  name: '&fسبيكة من Smithium'
+  name: '&fسبيكة من سميثيوم'
   type:
   - '&7&oمورد'
 INSULATED_TRAIT_PROP_BINDING_RUBBER:
@@ -2229,7 +2229,7 @@ KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
   - '&7من فرسان المائدة المستديرة. (إنه غولم ;))'
   - ''
   - '&7أضافه: Infinity Expansion'
-  name: '&fKOTR'
+  name: '&fفارس المستديرة'
   type:
   - '&7&oمكون'
 LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
@@ -2383,7 +2383,7 @@ MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
   - '&7ضمن مدى عشر كتل'
   - ''
   - '&7أضافه: Infinity Expansion'
-  name: '&fMagnetesium II'
+  name: '&fمغنيتيسيوم II'
   type:
   - '&7&oمكون'
 MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
@@ -2392,7 +2392,7 @@ MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
   - '&7ضمن مدى خمس كتل'
   - ''
   - '&7أضافه: SlimeTinker الأساسي'
-  name: '&fMagnetesium'
+  name: '&fمغنيتيسيوم'
   type:
   - '&7&oمكون'
 MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
@@ -2437,20 +2437,20 @@ MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
   - '&7&oمكون'
 MAGNONIUM_LIQUID:
   description:
-  - '&7الشكل المنصهر من Magnonium.'
-  name: '&fمصهور Magnonium'
+  - '&7الشكل المنصهر من ماغنونيوم.'
+  name: '&fمصهور ماغنونيوم'
   type:
   - '&7&oمورد'
 MAGSTEEL_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Magsteel.'
-  name: '&fمصهور Magsteel'
+  - '&7سبيكة معدنية منصهرة من فولاذ ماغ.'
+  name: '&fمصهور فولاذ ماغ'
   type:
   - '&7&oمورد'
 MAGSTEEL_LIQUID:
   description:
-  - '&7الشكل المنصهر من Magsteel.'
-  name: '&fمصهور Magsteel'
+  - '&7الشكل المنصهر من فولاذ ماغ.'
+  name: '&fمصهور فولاذ ماغ'
   type:
   - '&7&oمورد'
 MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
@@ -2463,14 +2463,14 @@ MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
   - '&7&oمكون'
 MAG_THOR_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Mag Thor.'
-  name: '&fمصهور Mag Thor'
+  - '&7سبيكة معدنية منصهرة من ماغ ثور.'
+  name: '&fمصهور ماغ ثور'
   type:
   - '&7&oمورد'
 MAG_THOR_LIQUID:
   description:
-  - '&7الشكل المنصهر من Mag Thor.'
-  name: '&fمصهور Mag Thor'
+  - '&7الشكل المنصهر من ماغ ثور.'
+  name: '&fمصهور ماغ ثور'
   type:
   - '&7&oمورد'
 MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
@@ -2610,8 +2610,8 @@ MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
   - '&7&oمكون'
 MYTHRIL_LIQUID:
   description:
-  - '&7الشكل المنصهر من Mythril.'
-  name: '&fمصهور Mythril'
+  - '&7الشكل المنصهر من ميثريل.'
+  name: '&fمصهور ميثريل'
   type:
   - '&7&oمورد'
 NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
@@ -2624,14 +2624,14 @@ NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
   - '&7&oمكون'
 NICEINIUM_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Niceinium.'
-  name: '&fمصهور Niceinium'
+  - '&7سبيكة معدنية منصهرة من نايسينيوم.'
+  name: '&fمصهور نايسينيوم'
   type:
   - '&7&oمورد'
 NICEINIUM_LIQUID:
   description:
-  - '&7الشكل المنصهر من Niceinium.'
-  name: '&fمصهور Niceinium'
+  - '&7الشكل المنصهر من نايسينيوم.'
+  name: '&fمصهور نايسينيوم'
   type:
   - '&7&oمورد'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
@@ -2697,8 +2697,8 @@ NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
   - '&7&oمكون'
 NUGGET_CAST_ADAMANTITE:
   description:
-  - '&7شذرة مصنوعة من Adamantite الصلب'
-  name: '&fشذرة من Adamantite'
+  - '&7شذرة مصنوعة من الأدامانتيت الصلب'
+  name: '&fشذرة من أدامانتيت'
   type:
   - '&7&oمورد'
 NUGGET_CAST_ADVANCED_ALLOY:
@@ -2728,7 +2728,7 @@ NUGGET_CAST_ALU_BRONZE:
 NUGGET_CAST_ANNIVERSARIUM:
   description:
   - '&7عشر سنوات من (Slime)fun!'
-  name: '&fشذرة من Anniversarium'
+  name: '&fشذرة من أنيفرساريوم'
   type:
   - '&7&oمورد'
 NUGGET_CAST_BILLON:
@@ -2739,8 +2739,8 @@ NUGGET_CAST_BILLON:
   - '&7&oمورد'
 NUGGET_CAST_BOOMERITE:
   description:
-  - '&7شذرة مصنوعة من Boomerite'
-  name: '&fشذرة من Boomerite'
+  - '&7شذرة مصنوعة من البوميرايت'
+  name: '&fشذرة من بوميرايت'
   type:
   - '&7&oمورد'
 NUGGET_CAST_BRASS:
@@ -2781,8 +2781,8 @@ NUGGET_CAST_COR_BRONZE:
   - '&7&oمورد'
 NUGGET_CAST_CRINGLEIUM:
   description:
-  - '&7شذرة مصنوعة من Cringleium.'
-  name: '&fشذرة من Cringleium'
+  - '&7شذرة مصنوعة من الكرينغليوم.'
+  name: '&fشذرة من كرينغليوم'
   type:
   - '&7&oمورد'
 NUGGET_CAST_DAMASCUS_STEEL:
@@ -2793,32 +2793,32 @@ NUGGET_CAST_DAMASCUS_STEEL:
   - '&7&oمورد'
 NUGGET_CAST_DAXI_ABSORPTION:
   description:
-  - '&7شذرة Daxi تفيض عزمًا.'
-  name: '&fشذرة Daxi الامتصاص'
+  - '&7شذرة داكسي تفيض عزمًا.'
+  name: '&fشذرة داكسي الامتصاص'
   type:
   - '&7&oمورد'
 NUGGET_CAST_DAXI_FORTITUDE:
   description:
-  - '&7شذرة Daxi تفيض تحدّيًا.'
-  name: '&fشذرة Daxi الجَلَد'
+  - '&7شذرة داكسي تفيض تحدّيًا.'
+  name: '&fشذرة داكسي الجَلَد'
   type:
   - '&7&oمورد'
 NUGGET_CAST_DAXI_REGENERATION:
   description:
-  - '&7شذرة Daxi تفيض لطفًا.'
-  name: '&fشذرة Daxi التجدّد'
+  - '&7شذرة داكسي تفيض لطفًا.'
+  name: '&fشذرة داكسي التجدّد'
   type:
   - '&7&oمورد'
 NUGGET_CAST_DAXI_SATURATION:
   description:
-  - '&7شذرة Daxi تفيض دفئًا.'
-  name: '&fشذرة Daxi الشِبَع'
+  - '&7شذرة داكسي تفيض دفئًا.'
+  name: '&fشذرة داكسي الشِبَع'
   type:
   - '&7&oمورد'
 NUGGET_CAST_DAXI_STRENGTH:
   description:
-  - '&7شذرة Daxi تفيض قوّةً.'
-  name: '&fشذرة Daxi القوّة'
+  - '&7شذرة داكسي تفيض قوّةً.'
+  name: '&fشذرة داكسي القوّة'
   type:
   - '&7&oمورد'
 NUGGET_CAST_DEVOTION:
@@ -2830,8 +2830,8 @@ NUGGET_CAST_DEVOTION:
   - '&7&oمورد'
 NUGGET_CAST_DURALIUM:
   description:
-  - '&7شذرة مصنوعة من Duralium'
-  name: '&fشذرة من Duralium'
+  - '&7شذرة مصنوعة من الدوراليوم'
+  name: '&fشذرة من دوراليوم'
   type:
   - '&7&oمورد'
 NUGGET_CAST_FERROSILICON:
@@ -2886,20 +2886,20 @@ NUGGET_CAST_MAGNESIUM:
   - '&7&oمورد'
 NUGGET_CAST_MAGNONIUM:
   description:
-  - '&7شذرة مصنوعة من Magnonium الصلب'
-  name: '&fشذرة من Magnonium'
+  - '&7شذرة مصنوعة من الماغنونيوم الصلب'
+  name: '&fشذرة من ماغنونيوم'
   type:
   - '&7&oمورد'
 NUGGET_CAST_MAGSTEEL:
   description:
-  - '&7شذرة مصنوعة من MagSteel الصلب'
-  name: '&fشذرة من MagSteel'
+  - '&7شذرة مصنوعة من فولاذ ماغ الصلب'
+  name: '&fشذرة من فولاذ ماغ'
   type:
   - '&7&oمورد'
 NUGGET_CAST_MAG_THOR:
   description:
-  - '&7شذرة من Mag-Thor'
-  name: '&fشذرة من Mag-Thor'
+  - '&7شذرة من ماغ-ثور'
+  name: '&fشذرة من ماغ-ثور'
   type:
   - '&7&oمورد'
 NUGGET_CAST_MIXED_METAL:
@@ -2910,8 +2910,8 @@ NUGGET_CAST_MIXED_METAL:
   - '&7&oمورد'
 NUGGET_CAST_MYTHRIL:
   description:
-  - '&7شذرة مصنوعة من Mythril الصلب'
-  name: '&fشذرة من Mythril'
+  - '&7شذرة مصنوعة من الميثريل الصلب'
+  name: '&fشذرة من ميثريل'
   type:
   - '&7&oمورد'
 NUGGET_CAST_NICE:
@@ -2967,7 +2967,7 @@ NUGGET_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7سبيكة تعجّ بـ'
   - '&7غضب لا يُبارى.'
-  name: '&fشذرة من Draconium المُعزّز'
+  name: '&fشذرة من الدراكونيوم المُعزّز'
   type:
   - '&7&oمورد'
 NUGGET_CAST_REINFORCED_SLIMESTEEL:
@@ -2984,8 +2984,8 @@ NUGGET_CAST_SCRAP:
   - '&7&oمورد'
 NUGGET_CAST_SEFIRITE:
   description:
-  - '&7شذرة مصنوعة من Sefirite'
-  name: '&fشذرة من Sefirite'
+  - '&7شذرة مصنوعة من السيفيرايت'
+  name: '&fشذرة من سيفيرايت'
   type:
   - '&7&oمورد'
 NUGGET_CAST_SILVER:
@@ -3004,7 +3004,7 @@ NUGGET_CAST_SMITHIUM:
   description:
   - '&7معدن بسيط له استخدامات متنوّعة'
   - '&7في مهام الصناعة الأساسية.'
-  name: '&fشذرة من Smithium'
+  name: '&fشذرة من سميثيوم'
   type:
   - '&7&oمورد'
 NUGGET_CAST_SOLDER:
@@ -3039,8 +3039,8 @@ NUGGET_CAST_TITANIUM:
   - '&7&oمورد'
 NUGGET_CAST_UNPATENTABILUM:
   description:
-  - '&7شذرة من Unpatentabilum'
-  name: '&fشذرة من Unpatentabilum'
+  - '&7شذرة من الأنباتنتابيلوم'
+  name: '&fشذرة من الأنباتنتابيلوم'
   type:
   - '&7&oمورد'
 NUGGET_CAST_ZINC:
@@ -3301,8 +3301,8 @@ PART_GAMBESON_WEEPING_VINE:
   - '&7&oمكون'
 PART_HEAD_AXEADAMANTITE:
   description:
-  - '&7رأس أداة مصنوع من Adamantite.'
-  name: '&fرأس فأس من Adamantite'
+  - '&7رأس أداة مصنوع من الأدامانتيت.'
+  name: '&fرأس فأس من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_HEAD_AXEADVANCED_ALLOY:
@@ -3343,8 +3343,8 @@ PART_HEAD_AXEBILLON:
   - '&7&oمكون'
 PART_HEAD_AXEBOOMERITE:
   description:
-  - '&7رأس أداة مصنوع من Boomerite.'
-  name: '&fرأس فأس من Boomerite'
+  - '&7رأس أداة مصنوع من البوميرايت.'
+  name: '&fرأس فأس من بوميرايت'
   type:
   - '&7&oمكون'
 PART_HEAD_AXEBRASS:
@@ -3391,8 +3391,8 @@ PART_HEAD_AXEDAMASCUS_STEEL:
   - '&7&oمكون'
 PART_HEAD_AXEDURALIUM:
   description:
-  - '&7رأس أداة مصنوع من Duralium.'
-  name: '&fرأس فأس من Duralium'
+  - '&7رأس أداة مصنوع من الدوراليوم.'
+  name: '&fرأس فأس من دوراليوم'
   type:
   - '&7&oمكون'
 PART_HEAD_AXEEARTH_SINGULARITY:
@@ -3493,20 +3493,20 @@ PART_HEAD_AXEMAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_AXEMAGNONIUM:
   description:
-  - '&7رأس أداة مصنوع من Magnonium.'
-  name: '&fرأس فأس من Magnonium'
+  - '&7رأس أداة مصنوع من الماغنونيوم.'
+  name: '&fرأس فأس من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_AXEMAGSTEEL:
   description:
-  - '&7رأس أداة مصنوع من Magsteel.'
-  name: '&fرأس فأس من Magsteel'
+  - '&7رأس أداة مصنوع من فولاذ ماغ.'
+  name: '&fرأس فأس من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_HEAD_AXEMAG_THOR:
   description:
-  - '&7رأس أداة مصنوع من Mag Thor.'
-  name: '&fرأس فأس من Mag Thor'
+  - '&7رأس أداة مصنوع من ماغ ثور.'
+  name: '&fرأس فأس من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_HEAD_AXEMETAL_SINGULARITY:
@@ -3523,14 +3523,14 @@ PART_HEAD_AXEMIXED_METAL:
   - '&7&oمكون'
 PART_HEAD_AXEMYTHRIL:
   description:
-  - '&7رأس أداة مصنوع من Mythril.'
-  name: '&fرأس فأس من Mythril'
+  - '&7رأس أداة مصنوع من الميثريل.'
+  name: '&fرأس فأس من ميثريل'
   type:
   - '&7&oمكون'
 PART_HEAD_AXENICEINIUM:
   description:
-  - '&7رأس أداة مصنوع من Niceinium.'
-  name: '&fرأس فأس من Niceinium'
+  - '&7رأس أداة مصنوع من النايسينيوم.'
+  name: '&fرأس فأس من نايسينيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_AXENICKEL:
@@ -3553,8 +3553,8 @@ PART_HEAD_AXEREINFORCED_ALLOY:
   - '&7&oمكون'
 PART_HEAD_AXEREINFORCED_DRACONIUM:
   description:
-  - '&7رأس أداة مصنوع من Draconium المُعزّز.'
-  name: '&fرأس فأس من Draconium المُعزّز'
+  - '&7رأس أداة مصنوع من الدراكونيوم المُعزّز.'
+  name: '&fرأس فأس من الدراكونيوم المُعزّز'
   type:
   - '&7&oمكون'
 PART_HEAD_AXESCRAP:
@@ -3577,8 +3577,8 @@ PART_HEAD_AXESILVER_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_AXESMITHIUM:
   description:
-  - '&7رأس أداة مصنوع من Smithium.'
-  name: '&fرأس فأس من Smithium'
+  - '&7رأس أداة مصنوع من السميثيوم.'
+  name: '&fرأس فأس من سميثيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_AXESOLDER:
@@ -3649,8 +3649,8 @@ PART_HEAD_AXEZINC_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_HOEADAMANTITE:
   description:
-  - '&7رأس أداة مصنوع من Adamantite.'
-  name: '&fرأس معزقة من Adamantite'
+  - '&7رأس أداة مصنوع من الأدامانتيت.'
+  name: '&fرأس معزقة من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_HEAD_HOEADVANCED_ALLOY:
@@ -3691,8 +3691,8 @@ PART_HEAD_HOEBILLON:
   - '&7&oمكون'
 PART_HEAD_HOEBOOMERITE:
   description:
-  - '&7رأس أداة مصنوع من Boomerite.'
-  name: '&fرأس معزقة من Boomerite'
+  - '&7رأس أداة مصنوع من البوميرايت.'
+  name: '&fرأس معزقة من بوميرايت'
   type:
   - '&7&oمكون'
 PART_HEAD_HOEBRASS:
@@ -3739,8 +3739,8 @@ PART_HEAD_HOEDAMASCUS_STEEL:
   - '&7&oمكون'
 PART_HEAD_HOEDURALIUM:
   description:
-  - '&7رأس أداة مصنوع من Duralium.'
-  name: '&fرأس معزقة من Duralium'
+  - '&7رأس أداة مصنوع من الدوراليوم.'
+  name: '&fرأس معزقة من دوراليوم'
   type:
   - '&7&oمكون'
 PART_HEAD_HOEEARTH_SINGULARITY:
@@ -3841,20 +3841,20 @@ PART_HEAD_HOEMAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_HOEMAGNONIUM:
   description:
-  - '&7رأس أداة مصنوع من Magnonium.'
-  name: '&fرأس معزقة من Magnonium'
+  - '&7رأس أداة مصنوع من الماغنونيوم.'
+  name: '&fرأس معزقة من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_HOEMAGSTEEL:
   description:
-  - '&7رأس أداة مصنوع من Magsteel.'
-  name: '&fرأس معزقة من Magsteel'
+  - '&7رأس أداة مصنوع من فولاذ ماغ.'
+  name: '&fرأس معزقة من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_HEAD_HOEMAG_THOR:
   description:
-  - '&7رأس أداة مصنوع من Mag Thor.'
-  name: '&fرأس معزقة من Mag Thor'
+  - '&7رأس أداة مصنوع من ماغ ثور.'
+  name: '&fرأس معزقة من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_HEAD_HOEMETAL_SINGULARITY:
@@ -3871,14 +3871,14 @@ PART_HEAD_HOEMIXED_METAL:
   - '&7&oمكون'
 PART_HEAD_HOEMYTHRIL:
   description:
-  - '&7رأس أداة مصنوع من Mythril.'
-  name: '&fرأس معزقة من Mythril'
+  - '&7رأس أداة مصنوع من الميثريل.'
+  name: '&fرأس معزقة من ميثريل'
   type:
   - '&7&oمكون'
 PART_HEAD_HOENICEINIUM:
   description:
-  - '&7رأس أداة مصنوع من Niceinium.'
-  name: '&fرأس معزقة من Niceinium'
+  - '&7رأس أداة مصنوع من النايسينيوم.'
+  name: '&fرأس معزقة من نايسينيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_HOENICKEL:
@@ -3901,8 +3901,8 @@ PART_HEAD_HOEREINFORCED_ALLOY:
   - '&7&oمكون'
 PART_HEAD_HOEREINFORCED_DRACONIUM:
   description:
-  - '&7رأس أداة مصنوع من Draconium المُعزّز.'
-  name: '&fرأس معزقة من Draconium المُعزّز'
+  - '&7رأس أداة مصنوع من الدراكونيوم المُعزّز.'
+  name: '&fرأس معزقة من الدراكونيوم المُعزّز'
   type:
   - '&7&oمكون'
 PART_HEAD_HOESCRAP:
@@ -3925,8 +3925,8 @@ PART_HEAD_HOESILVER_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_HOESMITHIUM:
   description:
-  - '&7رأس أداة مصنوع من Smithium.'
-  name: '&fرأس معزقة من Smithium'
+  - '&7رأس أداة مصنوع من السميثيوم.'
+  name: '&fرأس معزقة من سميثيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_HOESOLDER:
@@ -3997,8 +3997,8 @@ PART_HEAD_HOEZINC_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_PICKADAMANTITE:
   description:
-  - '&7رأس أداة مصنوع من Adamantite.'
-  name: '&fرأس معول من Adamantite'
+  - '&7رأس أداة مصنوع من الأدامانتيت.'
+  name: '&fرأس معول من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKADVANCED_ALLOY:
@@ -4039,8 +4039,8 @@ PART_HEAD_PICKBILLON:
   - '&7&oمكون'
 PART_HEAD_PICKBOOMERITE:
   description:
-  - '&7رأس أداة مصنوع من Boomerite.'
-  name: '&fرأس معول من Boomerite'
+  - '&7رأس أداة مصنوع من البوميرايت.'
+  name: '&fرأس معول من بوميرايت'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKBRASS:
@@ -4087,8 +4087,8 @@ PART_HEAD_PICKDAMASCUS_STEEL:
   - '&7&oمكون'
 PART_HEAD_PICKDURALIUM:
   description:
-  - '&7رأس أداة مصنوع من Duralium.'
-  name: '&fرأس معول من Duralium'
+  - '&7رأس أداة مصنوع من الدوراليوم.'
+  name: '&fرأس معول من دوراليوم'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKEARTH_SINGULARITY:
@@ -4189,20 +4189,20 @@ PART_HEAD_PICKMAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_PICKMAGNONIUM:
   description:
-  - '&7رأس أداة مصنوع من Magnonium.'
-  name: '&fرأس معول من Magnonium'
+  - '&7رأس أداة مصنوع من الماغنونيوم.'
+  name: '&fرأس معول من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKMAGSTEEL:
   description:
-  - '&7رأس أداة مصنوع من Magsteel.'
-  name: '&fرأس معول من Magsteel'
+  - '&7رأس أداة مصنوع من فولاذ ماغ.'
+  name: '&fرأس معول من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKMAG_THOR:
   description:
-  - '&7رأس أداة مصنوع من Mag Thor.'
-  name: '&fرأس معول من Mag Thor'
+  - '&7رأس أداة مصنوع من ماغ ثور.'
+  name: '&fرأس معول من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKMETAL_SINGULARITY:
@@ -4219,14 +4219,14 @@ PART_HEAD_PICKMIXED_METAL:
   - '&7&oمكون'
 PART_HEAD_PICKMYTHRIL:
   description:
-  - '&7رأس أداة مصنوع من Mythril.'
-  name: '&fرأس معول من Mythril'
+  - '&7رأس أداة مصنوع من الميثريل.'
+  name: '&fرأس معول من ميثريل'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKNICEINIUM:
   description:
-  - '&7رأس أداة مصنوع من Niceinium.'
-  name: '&fرأس معول من Niceinium'
+  - '&7رأس أداة مصنوع من النايسينيوم.'
+  name: '&fرأس معول من نايسينيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKNICKEL:
@@ -4249,8 +4249,8 @@ PART_HEAD_PICKREINFORCED_ALLOY:
   - '&7&oمكون'
 PART_HEAD_PICKREINFORCED_DRACONIUM:
   description:
-  - '&7رأس أداة مصنوع من Draconium المُعزّز.'
-  name: '&fرأس معول من Draconium المُعزّز'
+  - '&7رأس أداة مصنوع من الدراكونيوم المُعزّز.'
+  name: '&fرأس معول من الدراكونيوم المُعزّز'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKSCRAP:
@@ -4273,8 +4273,8 @@ PART_HEAD_PICKSILVER_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_PICKSMITHIUM:
   description:
-  - '&7رأس أداة مصنوع من Smithium.'
-  name: '&fرأس معول من Smithium'
+  - '&7رأس أداة مصنوع من السميثيوم.'
+  name: '&fرأس معول من سميثيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_PICKSOLDER:
@@ -4345,8 +4345,8 @@ PART_HEAD_PICKZINC_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_SHOVELADAMANTITE:
   description:
-  - '&7رأس أداة مصنوع من Adamantite.'
-  name: '&fرأس مجرفة من Adamantite'
+  - '&7رأس أداة مصنوع من الأدامانتيت.'
+  name: '&fرأس مجرفة من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELADVANCED_ALLOY:
@@ -4387,8 +4387,8 @@ PART_HEAD_SHOVELBILLON:
   - '&7&oمكون'
 PART_HEAD_SHOVELBOOMERITE:
   description:
-  - '&7رأس أداة مصنوع من Boomerite.'
-  name: '&fرأس مجرفة من Boomerite'
+  - '&7رأس أداة مصنوع من البوميرايت.'
+  name: '&fرأس مجرفة من بوميرايت'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELBRASS:
@@ -4435,8 +4435,8 @@ PART_HEAD_SHOVELDAMASCUS_STEEL:
   - '&7&oمكون'
 PART_HEAD_SHOVELDURALIUM:
   description:
-  - '&7رأس أداة مصنوع من Duralium.'
-  name: '&fرأس مجرفة من Duralium'
+  - '&7رأس أداة مصنوع من الدوراليوم.'
+  name: '&fرأس مجرفة من دوراليوم'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELEARTH_SINGULARITY:
@@ -4537,20 +4537,20 @@ PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_SHOVELMAGNONIUM:
   description:
-  - '&7رأس أداة مصنوع من Magnonium.'
-  name: '&fرأس مجرفة من Magnonium'
+  - '&7رأس أداة مصنوع من الماغنونيوم.'
+  name: '&fرأس مجرفة من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELMAGSTEEL:
   description:
-  - '&7رأس أداة مصنوع من Magsteel.'
-  name: '&fرأس مجرفة من Magsteel'
+  - '&7رأس أداة مصنوع من فولاذ ماغ.'
+  name: '&fرأس مجرفة من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELMAG_THOR:
   description:
-  - '&7رأس أداة مصنوع من Mag Thor.'
-  name: '&fرأس مجرفة من Mag Thor'
+  - '&7رأس أداة مصنوع من ماغ ثور.'
+  name: '&fرأس مجرفة من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELMETAL_SINGULARITY:
@@ -4567,14 +4567,14 @@ PART_HEAD_SHOVELMIXED_METAL:
   - '&7&oمكون'
 PART_HEAD_SHOVELMYTHRIL:
   description:
-  - '&7رأس أداة مصنوع من Mythril.'
-  name: '&fرأس مجرفة من Mythril'
+  - '&7رأس أداة مصنوع من الميثريل.'
+  name: '&fرأس مجرفة من ميثريل'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELNICEINIUM:
   description:
-  - '&7رأس أداة مصنوع من Niceinium.'
-  name: '&fرأس مجرفة من Niceinium'
+  - '&7رأس أداة مصنوع من النايسينيوم.'
+  name: '&fرأس مجرفة من نايسينيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELNICKEL:
@@ -4597,8 +4597,8 @@ PART_HEAD_SHOVELREINFORCED_ALLOY:
   - '&7&oمكون'
 PART_HEAD_SHOVELREINFORCED_DRACONIUM:
   description:
-  - '&7رأس أداة مصنوع من Draconium المُعزّز.'
-  name: '&fرأس مجرفة من Draconium المُعزّز'
+  - '&7رأس أداة مصنوع من الدراكونيوم المُعزّز.'
+  name: '&fرأس مجرفة من الدراكونيوم المُعزّز'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELSCRAP:
@@ -4621,8 +4621,8 @@ PART_HEAD_SHOVELSILVER_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_SHOVELSMITHIUM:
   description:
-  - '&7رأس أداة مصنوع من Smithium.'
-  name: '&fرأس مجرفة من Smithium'
+  - '&7رأس أداة مصنوع من السميثيوم.'
+  name: '&fرأس مجرفة من سميثيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_SHOVELSOLDER:
@@ -4693,8 +4693,8 @@ PART_HEAD_SHOVELZINC_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_SWORDADAMANTITE:
   description:
-  - '&7رأس أداة مصنوع من Adamantite.'
-  name: '&fرأس سيف من Adamantite'
+  - '&7رأس أداة مصنوع من الأدامانتيت.'
+  name: '&fرأس سيف من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDADVANCED_ALLOY:
@@ -4735,8 +4735,8 @@ PART_HEAD_SWORDBILLON:
   - '&7&oمكون'
 PART_HEAD_SWORDBOOMERITE:
   description:
-  - '&7رأس أداة مصنوع من Boomerite.'
-  name: '&fرأس سيف من Boomerite'
+  - '&7رأس أداة مصنوع من البوميرايت.'
+  name: '&fرأس سيف من بوميرايت'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDBRASS:
@@ -4783,8 +4783,8 @@ PART_HEAD_SWORDDAMASCUS_STEEL:
   - '&7&oمكون'
 PART_HEAD_SWORDDURALIUM:
   description:
-  - '&7رأس أداة مصنوع من Duralium.'
-  name: '&fرأس سيف من Duralium'
+  - '&7رأس أداة مصنوع من الدوراليوم.'
+  name: '&fرأس سيف من دوراليوم'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDEARTH_SINGULARITY:
@@ -4885,20 +4885,20 @@ PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_SWORDMAGNONIUM:
   description:
-  - '&7رأس أداة مصنوع من Magnonium.'
-  name: '&fرأس سيف من Magnonium'
+  - '&7رأس أداة مصنوع من الماغنونيوم.'
+  name: '&fرأس سيف من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDMAGSTEEL:
   description:
-  - '&7رأس أداة مصنوع من Magsteel.'
-  name: '&fرأس سيف من Magsteel'
+  - '&7رأس أداة مصنوع من فولاذ ماغ.'
+  name: '&fرأس سيف من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDMAG_THOR:
   description:
-  - '&7رأس أداة مصنوع من Mag Thor.'
-  name: '&fرأس سيف من Mag Thor'
+  - '&7رأس أداة مصنوع من ماغ ثور.'
+  name: '&fرأس سيف من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDMETAL_SINGULARITY:
@@ -4915,14 +4915,14 @@ PART_HEAD_SWORDMIXED_METAL:
   - '&7&oمكون'
 PART_HEAD_SWORDMYTHRIL:
   description:
-  - '&7رأس أداة مصنوع من Mythril.'
-  name: '&fرأس سيف من Mythril'
+  - '&7رأس أداة مصنوع من الميثريل.'
+  name: '&fرأس سيف من ميثريل'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDNICEINIUM:
   description:
-  - '&7رأس أداة مصنوع من Niceinium.'
-  name: '&fرأس سيف من Niceinium'
+  - '&7رأس أداة مصنوع من النايسينيوم.'
+  name: '&fرأس سيف من نايسينيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDNICKEL:
@@ -4945,8 +4945,8 @@ PART_HEAD_SWORDREINFORCED_ALLOY:
   - '&7&oمكون'
 PART_HEAD_SWORDREINFORCED_DRACONIUM:
   description:
-  - '&7رأس أداة مصنوع من Draconium المُعزّز.'
-  name: '&fرأس سيف من Draconium المُعزّز'
+  - '&7رأس أداة مصنوع من الدراكونيوم المُعزّز.'
+  name: '&fرأس سيف من الدراكونيوم المُعزّز'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDSCRAP:
@@ -4969,8 +4969,8 @@ PART_HEAD_SWORDSILVER_SINGULARITY:
   - '&7&oمكون'
 PART_HEAD_SWORDSMITHIUM:
   description:
-  - '&7رأس أداة مصنوع من Smithium.'
-  name: '&fرأس سيف من Smithium'
+  - '&7رأس أداة مصنوع من السميثيوم.'
+  name: '&fرأس سيف من سميثيوم'
   type:
   - '&7&oمكون'
 PART_HEAD_SWORDSOLDER:
@@ -5083,8 +5083,8 @@ PART_LEG_PLATE_DUMMY:
   - '&7&oمكون'
 PART_LINKS_ADAMANTITE:
   description:
-  - '&7طقم حلقات زَرَد مصنوع من Adamantite.'
-  name: '&fحلقات زَرَد من Adamantite'
+  - '&7طقم حلقات زَرَد مصنوع من الأدامانتيت.'
+  name: '&fحلقات زَرَد من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_LINKS_ADVANCED_ALLOY:
@@ -5161,8 +5161,8 @@ PART_LINKS_CORINTHIAN_BRONZE:
   - '&7&oمكون'
 PART_LINKS_CRINGLEIUM:
   description:
-  - '&7طقم حلقات زَرَد مصنوع من Cringleium.'
-  name: '&fحلقات زَرَد من Cringleium'
+  - '&7طقم حلقات زَرَد مصنوع من كرينغليوم.'
+  name: '&fحلقات زَرَد من كرينغليوم'
   type:
   - '&7&oمكون'
 PART_LINKS_DAMASCUS_STEEL:
@@ -5173,8 +5173,8 @@ PART_LINKS_DAMASCUS_STEEL:
   - '&7&oمكون'
 PART_LINKS_DURALIUM:
   description:
-  - '&7طقم حلقات زَرَد مصنوع من Duralium.'
-  name: '&fحلقات زَرَد من Duralium'
+  - '&7طقم حلقات زَرَد مصنوع من الدوراليوم.'
+  name: '&fحلقات زَرَد من دوراليوم'
   type:
   - '&7&oمكون'
 PART_LINKS_EARTH_SINGULARITY:
@@ -5287,20 +5287,20 @@ PART_LINKS_MAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_LINKS_MAGNONIUM:
   description:
-  - '&7طقم حلقات زَرَد مصنوع من Magnonium.'
-  name: '&fحلقات زَرَد من Magnonium'
+  - '&7طقم حلقات زَرَد مصنوع من الماغنونيوم.'
+  name: '&fحلقات زَرَد من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_LINKS_MAGSTEEL:
   description:
-  - '&7طقم حلقات زَرَد مصنوع من Magsteel.'
-  name: '&fحلقات زَرَد من Magsteel'
+  - '&7طقم حلقات زَرَد مصنوع من فولاذ ماغ.'
+  name: '&fحلقات زَرَد من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_LINKS_MAG_THOR:
   description:
-  - '&7طقم حلقات زَرَد مصنوع من Mag Thor.'
-  name: '&fحلقات زَرَد من Mag Thor'
+  - '&7طقم حلقات زَرَد مصنوع من ماغ ثور.'
+  name: '&fحلقات زَرَد من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_LINKS_METAL_SINGULARITY:
@@ -5317,8 +5317,8 @@ PART_LINKS_MIXED_METAL:
   - '&7&oمكون'
 PART_LINKS_MYTHRIL:
   description:
-  - '&7طقم حلقات زَرَد مصنوع من Mythril.'
-  name: '&fحلقات زَرَد من Mythril'
+  - '&7طقم حلقات زَرَد مصنوع من الميثريل.'
+  name: '&fحلقات زَرَد من ميثريل'
   type:
   - '&7&oمكون'
 PART_LINKS_NICKEL:
@@ -5365,8 +5365,8 @@ PART_LINKS_SILVER_SINGULARITY:
   - '&7&oمكون'
 PART_LINKS_SMITHIUM:
   description:
-  - '&7طقم حلقات زَرَد مصنوع من Smithium.'
-  name: '&fحلقات زَرَد من Smithium'
+  - '&7طقم حلقات زَرَد مصنوع من السميثيوم.'
+  name: '&fحلقات زَرَد من سميثيوم'
   type:
   - '&7&oمكون'
 PART_LINKS_SOLDER:
@@ -5419,8 +5419,8 @@ PART_LINKS_TITANIUM:
   - '&7&oمكون'
 PART_LINKS_ULTIMANINIUM:
   description:
-  - '&7طقم حلقات زَرَد مصنوع من Ultimaninium.'
-  name: '&fحلقات زَرَد من Ultimaninium'
+  - '&7طقم حلقات زَرَد مصنوع من ألتيمانينيوم.'
+  name: '&fحلقات زَرَد من ألتيمانينيوم'
   type:
   - '&7&oمكون'
 PART_LINKS_VOID:
@@ -5463,8 +5463,8 @@ PART_PICKAXE_HEAD_DUMMY:
   - '&7&oمكون'
 PART_PLATES_BOOTSADAMANTITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Adamantite.'
-  name: '&fصفائح حذاء من Adamantite'
+  - '&7طقم صفائح درع مصنوع من الأدامانتيت.'
+  name: '&fصفائح حذاء من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSADVANCED_ALLOY:
@@ -5499,8 +5499,8 @@ PART_PLATES_BOOTSALUMINUM_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_BOOTSANNIVERSARIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Anniversarium.'
-  name: '&fصفائح حذاء من Anniversarium'
+  - '&7طقم صفائح درع مصنوع من الأنيفرساريوم.'
+  name: '&fصفائح حذاء من أنيفرساريوم'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSBILLON:
@@ -5511,8 +5511,8 @@ PART_PLATES_BOOTSBILLON:
   - '&7&oمكون'
 PART_PLATES_BOOTSBOOMERITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Boomerite.'
-  name: '&fصفائح حذاء من Boomerite'
+  - '&7طقم صفائح درع مصنوع من البوميرايت.'
+  name: '&fصفائح حذاء من بوميرايت'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSBRASS:
@@ -5559,8 +5559,8 @@ PART_PLATES_BOOTSDAMASCUS_STEEL:
   - '&7&oمكون'
 PART_PLATES_BOOTSDURALIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Duralium.'
-  name: '&fصفائح حذاء من Duralium'
+  - '&7طقم صفائح درع مصنوع من الدوراليوم.'
+  name: '&fصفائح حذاء من دوراليوم'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSEARTH_SINGULARITY:
@@ -5661,20 +5661,20 @@ PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_BOOTSMAGNONIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Magnonium.'
-  name: '&fصفائح حذاء من Magnonium'
+  - '&7طقم صفائح درع مصنوع من الماغنونيوم.'
+  name: '&fصفائح حذاء من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSMAGSTEEL:
   description:
-  - '&7طقم صفائح درع مصنوع من Magsteel.'
-  name: '&fصفائح حذاء من Magsteel'
+  - '&7طقم صفائح درع مصنوع من فولاذ ماغ.'
+  name: '&fصفائح حذاء من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSMAG_THOR:
   description:
-  - '&7طقم صفائح درع مصنوع من Mag Thor.'
-  name: '&fصفائح حذاء من Mag Thor'
+  - '&7طقم صفائح درع مصنوع من ماغ ثور.'
+  name: '&fصفائح حذاء من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSMETAL_SINGULARITY:
@@ -5691,8 +5691,8 @@ PART_PLATES_BOOTSMIXED_METAL:
   - '&7&oمكون'
 PART_PLATES_BOOTSMYTHRIL:
   description:
-  - '&7طقم صفائح درع مصنوع من Mythril.'
-  name: '&fصفائح حذاء من Mythril'
+  - '&7طقم صفائح درع مصنوع من الميثريل.'
+  name: '&fصفائح حذاء من ميثريل'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSNICKEL:
@@ -5727,8 +5727,8 @@ PART_PLATES_BOOTSSCRAP:
   - '&7&oمكون'
 PART_PLATES_BOOTSSEFIRITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Sefirite.'
-  name: '&fصفائح حذاء من Sefirite'
+  - '&7طقم صفائح درع مصنوع من السيفيرايت.'
+  name: '&fصفائح حذاء من سيفيرايت'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSSILVER:
@@ -5745,8 +5745,8 @@ PART_PLATES_BOOTSSILVER_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_BOOTSSMITHIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Smithium.'
-  name: '&fصفائح حذاء من Smithium'
+  - '&7طقم صفائح درع مصنوع من السميثيوم.'
+  name: '&fصفائح حذاء من سميثيوم'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSSOLDER:
@@ -5817,8 +5817,8 @@ PART_PLATES_BOOTSZINC_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEADAMANTITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Adamantite.'
-  name: '&fصفائح درع صدر من Adamantite'
+  - '&7طقم صفائح درع مصنوع من الأدامانتيت.'
+  name: '&fصفائح درع صدر من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEADVANCED_ALLOY:
@@ -5853,8 +5853,8 @@ PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Anniversarium.'
-  name: '&fصفائح درع صدر من Anniversarium'
+  - '&7طقم صفائح درع مصنوع من الأنيفرساريوم.'
+  name: '&fصفائح درع صدر من أنيفرساريوم'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEBILLON:
@@ -5865,8 +5865,8 @@ PART_PLATES_CHESTPLATEBILLON:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEBOOMERITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Boomerite.'
-  name: '&fصفائح درع صدر من Boomerite'
+  - '&7طقم صفائح درع مصنوع من البوميرايت.'
+  name: '&fصفائح درع صدر من بوميرايت'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEBRASS:
@@ -5913,8 +5913,8 @@ PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEDURALIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Duralium.'
-  name: '&fصفائح درع صدر من Duralium'
+  - '&7طقم صفائح درع مصنوع من الدوراليوم.'
+  name: '&fصفائح درع صدر من دوراليوم'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
@@ -6015,20 +6015,20 @@ PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEMAGNONIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Magnonium.'
-  name: '&fصفائح درع صدر من Magnonium'
+  - '&7طقم صفائح درع مصنوع من الماغنونيوم.'
+  name: '&fصفائح درع صدر من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEMAGSTEEL:
   description:
-  - '&7طقم صفائح درع مصنوع من Magsteel.'
-  name: '&fصفائح درع صدر من Magsteel'
+  - '&7طقم صفائح درع مصنوع من فولاذ ماغ.'
+  name: '&fصفائح درع صدر من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEMAG_THOR:
   description:
-  - '&7طقم صفائح درع مصنوع من Mag Thor.'
-  name: '&fصفائح درع صدر من Mag Thor'
+  - '&7طقم صفائح درع مصنوع من ماغ ثور.'
+  name: '&fصفائح درع صدر من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
@@ -6045,8 +6045,8 @@ PART_PLATES_CHESTPLATEMIXED_METAL:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATEMYTHRIL:
   description:
-  - '&7طقم صفائح درع مصنوع من Mythril.'
-  name: '&fصفائح درع صدر من Mythril'
+  - '&7طقم صفائح درع مصنوع من الميثريل.'
+  name: '&fصفائح درع صدر من ميثريل'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATENICKEL:
@@ -6081,8 +6081,8 @@ PART_PLATES_CHESTPLATESCRAP:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATESEFIRITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Sefirite.'
-  name: '&fصفائح درع صدر من Sefirite'
+  - '&7طقم صفائح درع مصنوع من السيفيرايت.'
+  name: '&fصفائح درع صدر من سيفيرايت'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATESILVER:
@@ -6099,8 +6099,8 @@ PART_PLATES_CHESTPLATESILVER_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATESMITHIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Smithium.'
-  name: '&fصفائح درع صدر من Smithium'
+  - '&7طقم صفائح درع مصنوع من السميثيوم.'
+  name: '&fصفائح درع صدر من سميثيوم'
   type:
   - '&7&oمكون'
 PART_PLATES_CHESTPLATESOLDER:
@@ -6171,8 +6171,8 @@ PART_PLATES_CHESTPLATEZINC_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_HELMETADAMANTITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Adamantite.'
-  name: '&fصفائح خوذة من Adamantite'
+  - '&7طقم صفائح درع مصنوع من الأدامانتيت.'
+  name: '&fصفائح خوذة من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETADVANCED_ALLOY:
@@ -6207,8 +6207,8 @@ PART_PLATES_HELMETALUMINUM_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_HELMETANNIVERSARIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Anniversarium.'
-  name: '&fصفائح خوذة من Anniversarium'
+  - '&7طقم صفائح درع مصنوع من الأنيفرساريوم.'
+  name: '&fصفائح خوذة من أنيفرساريوم'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETBILLON:
@@ -6219,8 +6219,8 @@ PART_PLATES_HELMETBILLON:
   - '&7&oمكون'
 PART_PLATES_HELMETBOOMERITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Boomerite.'
-  name: '&fصفائح خوذة من Boomerite'
+  - '&7طقم صفائح درع مصنوع من البوميرايت.'
+  name: '&fصفائح خوذة من بوميرايت'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETBRASS:
@@ -6267,8 +6267,8 @@ PART_PLATES_HELMETDAMASCUS_STEEL:
   - '&7&oمكون'
 PART_PLATES_HELMETDURALIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Duralium.'
-  name: '&fصفائح خوذة من Duralium'
+  - '&7طقم صفائح درع مصنوع من الدوراليوم.'
+  name: '&fصفائح خوذة من دوراليوم'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETEARTH_SINGULARITY:
@@ -6369,20 +6369,20 @@ PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_HELMETMAGNONIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Magnonium.'
-  name: '&fصفائح خوذة من Magnonium'
+  - '&7طقم صفائح درع مصنوع من الماغنونيوم.'
+  name: '&fصفائح خوذة من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETMAGSTEEL:
   description:
-  - '&7طقم صفائح درع مصنوع من Magsteel.'
-  name: '&fصفائح خوذة من Magsteel'
+  - '&7طقم صفائح درع مصنوع من فولاذ ماغ.'
+  name: '&fصفائح خوذة من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETMAG_THOR:
   description:
-  - '&7طقم صفائح درع مصنوع من Mag Thor.'
-  name: '&fصفائح خوذة من Mag Thor'
+  - '&7طقم صفائح درع مصنوع من ماغ ثور.'
+  name: '&fصفائح خوذة من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETMETAL_SINGULARITY:
@@ -6399,8 +6399,8 @@ PART_PLATES_HELMETMIXED_METAL:
   - '&7&oمكون'
 PART_PLATES_HELMETMYTHRIL:
   description:
-  - '&7طقم صفائح درع مصنوع من Mythril.'
-  name: '&fصفائح خوذة من Mythril'
+  - '&7طقم صفائح درع مصنوع من الميثريل.'
+  name: '&fصفائح خوذة من ميثريل'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETNICKEL:
@@ -6435,8 +6435,8 @@ PART_PLATES_HELMETSCRAP:
   - '&7&oمكون'
 PART_PLATES_HELMETSEFIRITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Sefirite.'
-  name: '&fصفائح خوذة من Sefirite'
+  - '&7طقم صفائح درع مصنوع من السيفيرايت.'
+  name: '&fصفائح خوذة من سيفيرايت'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETSILVER:
@@ -6453,8 +6453,8 @@ PART_PLATES_HELMETSILVER_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_HELMETSMITHIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Smithium.'
-  name: '&fصفائح خوذة من Smithium'
+  - '&7طقم صفائح درع مصنوع من السميثيوم.'
+  name: '&fصفائح خوذة من سميثيوم'
   type:
   - '&7&oمكون'
 PART_PLATES_HELMETSOLDER:
@@ -6525,8 +6525,8 @@ PART_PLATES_HELMETZINC_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSADAMANTITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Adamantite.'
-  name: '&fصفائح سروال من Adamantite'
+  - '&7طقم صفائح درع مصنوع من الأدامانتيت.'
+  name: '&fصفائح سروال من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSADVANCED_ALLOY:
@@ -6561,8 +6561,8 @@ PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Anniversarium.'
-  name: '&fصفائح سروال من Anniversarium'
+  - '&7طقم صفائح درع مصنوع من الأنيفرساريوم.'
+  name: '&fصفائح سروال من أنيفرساريوم'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSBILLON:
@@ -6573,8 +6573,8 @@ PART_PLATES_LEGGINGSBILLON:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSBOOMERITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Boomerite.'
-  name: '&fصفائح سروال من Boomerite'
+  - '&7طقم صفائح درع مصنوع من البوميرايت.'
+  name: '&fصفائح سروال من بوميرايت'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSBRASS:
@@ -6621,8 +6621,8 @@ PART_PLATES_LEGGINGSDAMASCUS_STEEL:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSDURALIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Duralium.'
-  name: '&fصفائح سروال من Duralium'
+  - '&7طقم صفائح درع مصنوع من الدوراليوم.'
+  name: '&fصفائح سروال من دوراليوم'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSEARTH_SINGULARITY:
@@ -6723,20 +6723,20 @@ PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSMAGNONIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Magnonium.'
-  name: '&fصفائح سروال من Magnonium'
+  - '&7طقم صفائح درع مصنوع من الماغنونيوم.'
+  name: '&fصفائح سروال من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSMAGSTEEL:
   description:
-  - '&7طقم صفائح درع مصنوع من Magsteel.'
-  name: '&fصفائح سروال من Magsteel'
+  - '&7طقم صفائح درع مصنوع من فولاذ ماغ.'
+  name: '&fصفائح سروال من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSMAG_THOR:
   description:
-  - '&7طقم صفائح درع مصنوع من Mag Thor.'
-  name: '&fصفائح سروال من Mag Thor'
+  - '&7طقم صفائح درع مصنوع من ماغ ثور.'
+  name: '&fصفائح سروال من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSMETAL_SINGULARITY:
@@ -6753,8 +6753,8 @@ PART_PLATES_LEGGINGSMIXED_METAL:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSMYTHRIL:
   description:
-  - '&7طقم صفائح درع مصنوع من Mythril.'
-  name: '&fصفائح سروال من Mythril'
+  - '&7طقم صفائح درع مصنوع من الميثريل.'
+  name: '&fصفائح سروال من ميثريل'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSNICKEL:
@@ -6789,8 +6789,8 @@ PART_PLATES_LEGGINGSSCRAP:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSSEFIRITE:
   description:
-  - '&7طقم صفائح درع مصنوع من Sefirite.'
-  name: '&fصفائح سروال من Sefirite'
+  - '&7طقم صفائح درع مصنوع من السيفيرايت.'
+  name: '&fصفائح سروال من سيفيرايت'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSSILVER:
@@ -6807,8 +6807,8 @@ PART_PLATES_LEGGINGSSILVER_SINGULARITY:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSSMITHIUM:
   description:
-  - '&7طقم صفائح درع مصنوع من Smithium.'
-  name: '&fصفائح سروال من Smithium'
+  - '&7طقم صفائح درع مصنوع من السميثيوم.'
+  name: '&fصفائح سروال من سميثيوم'
   type:
   - '&7&oمكون'
 PART_PLATES_LEGGINGSSOLDER:
@@ -6888,8 +6888,8 @@ PART_REPAIR_KIT:
 PART_REPAIR_KIT_ADAMANTITE:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Adamantite.'
-  name: '&fعُدّة إصلاح من Adamantite'
+  - '&7مصنوع من الأدامانتيت.'
+  name: '&fعُدّة إصلاح من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_ADVANCED_ALLOY:
@@ -6930,8 +6930,8 @@ PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
 PART_REPAIR_KIT_ANNIVERSARIUM:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Anniversarium.'
-  name: '&fعُدّة إصلاح من Anniversarium'
+  - '&7مصنوع من الأنيفرساريوم.'
+  name: '&fعُدّة إصلاح من أنيفرساريوم'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_BILLON:
@@ -6944,8 +6944,8 @@ PART_REPAIR_KIT_BILLON:
 PART_REPAIR_KIT_BOOMERITE:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Boomerite.'
-  name: '&fعُدّة إصلاح من Boomerite'
+  - '&7مصنوع من البوميرايت.'
+  name: '&fعُدّة إصلاح من بوميرايت'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_BRASS:
@@ -7006,8 +7006,8 @@ PART_REPAIR_KIT_DUMMY:
 PART_REPAIR_KIT_DURALIUM:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Duralium.'
-  name: '&fعُدّة إصلاح من Duralium'
+  - '&7مصنوع من الدوراليوم.'
+  name: '&fعُدّة إصلاح من دوراليوم'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_EARTH_SINGULARITY:
@@ -7125,22 +7125,22 @@ PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
 PART_REPAIR_KIT_MAGNONIUM:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Magnonium.'
-  name: '&fعُدّة إصلاح من Magnonium'
+  - '&7مصنوع من الماغنونيوم.'
+  name: '&fعُدّة إصلاح من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_MAGSTEEL:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Magsteel.'
-  name: '&fعُدّة إصلاح من Magsteel'
+  - '&7مصنوع من فولاذ ماغ.'
+  name: '&fعُدّة إصلاح من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_MAG_THOR:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Mag Thor.'
-  name: '&fعُدّة إصلاح من Mag Thor'
+  - '&7مصنوع من ماغ ثور.'
+  name: '&fعُدّة إصلاح من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_METAL_SINGULARITY:
@@ -7160,15 +7160,15 @@ PART_REPAIR_KIT_MIXED_METAL:
 PART_REPAIR_KIT_MYTHRIL:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Mythril.'
-  name: '&fعُدّة إصلاح من Mythril'
+  - '&7مصنوع من الميثريل.'
+  name: '&fعُدّة إصلاح من ميثريل'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_NICEINIUM:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Niceinium.'
-  name: '&fعُدّة إصلاح من Niceinium'
+  - '&7مصنوع من النايسينيوم.'
+  name: '&fعُدّة إصلاح من نايسينيوم'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_NICKEL:
@@ -7202,8 +7202,8 @@ PART_REPAIR_KIT_REINFORCED_ALLOY:
 PART_REPAIR_KIT_REINFORCED_DRACONIUM:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Draconium المُعزّز.'
-  name: '&fعُدّة إصلاح من Draconium المُعزّز'
+  - '&7مصنوع من الدراكونيوم المُعزّز.'
+  name: '&fعُدّة إصلاح من الدراكونيوم المُعزّز'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_SCRAP:
@@ -7216,8 +7216,8 @@ PART_REPAIR_KIT_SCRAP:
 PART_REPAIR_KIT_SEFIRITE:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Sefirite.'
-  name: '&fعُدّة إصلاح من Sefirite'
+  - '&7مصنوع من السيفيرايت.'
+  name: '&fعُدّة إصلاح من سيفيرايت'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_SILVER:
@@ -7237,8 +7237,8 @@ PART_REPAIR_KIT_SILVER_SINGULARITY:
 PART_REPAIR_KIT_SMITHIUM:
   description:
   - '&7عُدّة قادرة على إصلاح الأغراض'
-  - '&7مصنوع من Smithium.'
-  name: '&fعُدّة إصلاح من Smithium'
+  - '&7مصنوع من السميثيوم.'
+  name: '&fعُدّة إصلاح من سميثيوم'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_SOLDER:
@@ -7320,8 +7320,8 @@ PART_REPAIR_KIT_ZINC_SINGULARITY:
   - '&7&oمكون'
 PART_ROD_ADAMANTITE:
   description:
-  - '&7قضيب أداة مصنوع من Adamantite.'
-  name: '&fقضيب من Adamantite'
+  - '&7قضيب أداة مصنوع من الأدامانتيت.'
+  name: '&fقضيب من أدامانتيت'
   type:
   - '&7&oمكون'
 PART_ROD_ADVANCED_ALLOY:
@@ -7404,8 +7404,8 @@ PART_ROD_DAMASCUS_STEEL:
   - '&7&oمكون'
 PART_ROD_DURALIUM:
   description:
-  - '&7قضيب أداة مصنوع من Duralium.'
-  name: '&fقضيب من Duralium'
+  - '&7قضيب أداة مصنوع من الدوراليوم.'
+  name: '&fقضيب من دوراليوم'
   type:
   - '&7&oمكون'
 PART_ROD_EARTH_SINGULARITY:
@@ -7500,20 +7500,20 @@ PART_ROD_MAGNESIUM_SINGULARITY:
   - '&7&oمكون'
 PART_ROD_MAGNONIUM:
   description:
-  - '&7قضيب أداة مصنوع من Magnonium.'
-  name: '&fقضيب من Magnonium'
+  - '&7قضيب أداة مصنوع من الماغنونيوم.'
+  name: '&fقضيب من ماغنونيوم'
   type:
   - '&7&oمكون'
 PART_ROD_MAGSTEEL:
   description:
-  - '&7قضيب أداة مصنوع من Magsteel.'
-  name: '&fقضيب من Magsteel'
+  - '&7قضيب أداة مصنوع من فولاذ ماغ.'
+  name: '&fقضيب من فولاذ ماغ'
   type:
   - '&7&oمكون'
 PART_ROD_MAG_THOR:
   description:
-  - '&7قضيب أداة مصنوع من Mag Thor.'
-  name: '&fقضيب من Mag Thor'
+  - '&7قضيب أداة مصنوع من ماغ ثور.'
+  name: '&fقضيب من ماغ ثور'
   type:
   - '&7&oمكون'
 PART_ROD_METAL_SINGULARITY:
@@ -7530,8 +7530,8 @@ PART_ROD_MIXED_METAL:
   - '&7&oمكون'
 PART_ROD_MYTHRIL:
   description:
-  - '&7قضيب أداة مصنوع من Mythril.'
-  name: '&fقضيب من Mythril'
+  - '&7قضيب أداة مصنوع من الميثريل.'
+  name: '&fقضيب من ميثريل'
   type:
   - '&7&oمكون'
 PART_ROD_NICKEL:
@@ -7578,8 +7578,8 @@ PART_ROD_SILVER_SINGULARITY:
   - '&7&oمكون'
 PART_ROD_SMITHIUM:
   description:
-  - '&7قضيب أداة مصنوع من Smithium.'
-  name: '&fقضيب من Smithium'
+  - '&7قضيب أداة مصنوع من السميثيوم.'
+  name: '&fقضيب من سميثيوم'
   type:
   - '&7&oمكون'
 PART_ROD_SOLDER:
@@ -7895,14 +7895,14 @@ REINFORCED_ALLOY_LIQUID:
   - '&7&oمورد'
 REINFORCED_DRACONIUM_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Draconium المُعزّز.'
-  name: '&fمصهور Draconium مُعزّز'
+  - '&7سبيكة معدنية منصهرة من الدراكونيوم المُعزّز.'
+  name: '&fمصهور دراكونيوم مُعزّز'
   type:
   - '&7&oمورد'
 REINFORCED_DRACONIUM_LIQUID:
   description:
-  - '&7الشكل المنصهر من Draconium المُعزّز.'
-  name: '&fمصهور Draconium مُعزّز'
+  - '&7الشكل المنصهر من الدراكونيوم المُعزّز.'
+  name: '&fمصهور دراكونيوم مُعزّز'
   type:
   - '&7&oمورد'
 REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
@@ -7923,8 +7923,8 @@ REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
   - '&7&oمكون'
 REMOTININIUM_LIQUID:
   description:
-  - '&7الشكل المنصهر من Remotininium.'
-  name: '&fمصهور Remotininium'
+  - '&7الشكل المنصهر من ريموتينينيوم.'
+  name: '&fمصهور ريموتينينيوم'
   type:
   - '&7&oمورد'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
@@ -7993,8 +7993,8 @@ SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
   - '&7&oمكون'
 SEFIRITE_LIQUID:
   description:
-  - '&7الشكل المنصهر من Sefirite.'
-  name: '&fمصهور Sefirite'
+  - '&7الشكل المنصهر من سيفيرايت.'
+  name: '&fمصهور سيفيرايت'
   type:
   - '&7&oمورد'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
@@ -8112,14 +8112,14 @@ SMELTERY_CONTROLLER:
   - '&7&oمكون'
 SMITHIUM_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Smithium.'
-  name: '&fمصهور Smithium'
+  - '&7سبيكة معدنية منصهرة من سميثيوم.'
+  name: '&fمصهور سميثيوم'
   type:
   - '&7&oمورد'
 SMITHIUM_LIQUID:
   description:
-  - '&7الشكل المنصهر من Smithium.'
-  name: '&fمصهور Smithium'
+  - '&7الشكل المنصهر من سميثيوم.'
+  name: '&fمصهور سميثيوم'
   type:
   - '&7&oمورد'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
@@ -8359,7 +8359,7 @@ SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
   - '&7&oمكون'
 SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
   description:
-  - '&7مثل الفولاذ أو MagSteel لكن أكثر عبثية.'
+  - '&7مثل الفولاذ أو فولاذ ماغ لكن أكثر عبثية.'
   - ''
   - '&7أضافه: DynaTech'
   name: '&fمقاوم للصدأ فائق الفوقية'
@@ -8712,14 +8712,14 @@ TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
   - '&7&oمكون'
 ULTIMANINIUM_ALLOY:
   description:
-  - '&7سبيكة معدنية منصهرة من Ultimaninium.'
-  name: '&fمصهور Ultimaninium'
+  - '&7سبيكة معدنية منصهرة من ألتيمانينيوم.'
+  name: '&fمصهور ألتيمانينيوم'
   type:
   - '&7&oمورد'
 ULTIMANINIUM_LIQUID:
   description:
-  - '&7الشكل المنصهر من Ultimaninium.'
-  name: '&fمصهور Ultimaninium'
+  - '&7الشكل المنصهر من ألتيمانينيوم.'
+  name: '&fمصهور ألتيمانينيوم'
   type:
   - '&7&oمورد'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
@@ -8799,7 +8799,7 @@ WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
   - '&7هجماتك تشفي بدل أن تؤذي.'
   - ''
   - '&7أضافه: SlimeTinker الأساسي'
-  name: '&fWHM'
+  name: '&fساحر أبيض'
   type:
   - '&7&oمكون'
 WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
@@ -8848,7 +8848,7 @@ YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
   - '&7أكثر ودًّا تجاهك.'
   - ''
   - '&7أضافه: DynaTech'
-  name: '&fYvaine'
+  name: '&fإيفين'
   type:
   - '&7&oمكون'
 ZINC_LIQUID:

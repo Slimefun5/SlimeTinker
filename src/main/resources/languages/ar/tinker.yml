@@ -21,15 +21,15 @@ lore:
   rod_abbrev: 'ق: '
   sponsored_by: برعاية
 materials:
-  ADAMANTITE: Adamantite
+  ADAMANTITE: أدامانتيت
   ADVANCED_ALLOY: سبيكة متقدّمة
   ALUMINUM: ألومنيوم
   ALUMINUM_BRASS: نحاس أصفر ألومنيومي
   ALUMINUM_BRONZE: برونز ألومنيومي
   ALUMINUM_SINGULARITY: تفرّد الألومنيوم
-  ANNIVERSARIUM: Anniversarium
+  ANNIVERSARIUM: أنيفرساريوم
   BILLON: بيلون
-  BOOMERITE: Boomerite
+  BOOMERITE: بوميرايت
   BRASS: نحاس أصفر
   BRONZE: برونز
   CARBON_MESH: شبكة كربون
@@ -39,18 +39,18 @@ materials:
   COPPER_SINGULARITY: تفرّد النحاس
   CORINTHIAN_BRONZE: برونز كورنثي
   CRIMSON_ROOT: جذر قرمزي
-  CRINGLEIUM: Cringleium
+  CRINGLEIUM: كرينغليوم
   DAMASCUS_STEEL: فولاذ دمشقي
-  DAXI_ABSORPTION: Daxi الامتصاص
-  DAXI_FORTITUDE: Daxi الجَلَد
-  DAXI_REGENERATION: Daxi التجدّد
-  DAXI_SATURATION: Daxi الشِبَع
-  DAXI_STRENGTH: Daxi القوّة
+  DAXI_ABSORPTION: داكسي الامتصاص
+  DAXI_FORTITUDE: داكسي الجَلَد
+  DAXI_REGENERATION: داكسي التجدّد
+  DAXI_SATURATION: داكسي الشِبَع
+  DAXI_STRENGTH: داكسي القوّة
   DETAILED_DEVOTION: إخلاص مُتقن
   DIAMOND: ألماس
   DIAMOND_SINGULARITY: تفرّد الألماس
   DRACONIC: تنّيني
-  DURALIUM: Duralium
+  DURALIUM: دوراليوم
   EARTH_SINGULARITY: تفرّد الأرض
   FERROSILICON: فيروسيليكون
   FLOWING_FONDNESS: مودّة متدفّقة
@@ -73,13 +73,13 @@ materials:
   MAGIC_SINGULARITY: تفرّد السحر
   MAGNESIUM: مغنيسيوم
   MAGNESIUM_SINGULARITY: تفرّد المغنيسيوم
-  MAGNONIUM: Magnonium
-  MAGSTEEL: Magsteel
-  MAG_THOR: Mag Thor
+  MAGNONIUM: ماغنونيوم
+  MAGSTEEL: فولاذ ماغ
+  MAG_THOR: ماغ ثور
   METAL_SINGULARITY: تفرّد المعدن
   MIXED_METAL: معدن مخلوط
-  MYTHRIL: Mythril
-  NICEINIUM: Niceinium
+  MYTHRIL: ميثريل
+  NICEINIUM: نايسينيوم
   NICKEL: نيكل
   OSMIUM: أوزميوم
   OSMIUM_SUPERALLOY: سبيكة أوزميوم فائقة
@@ -88,19 +88,19 @@ materials:
   REDSTONE_ALLOY: سبيكة الحجر الأحمر
   REFINED_IRON: حديد مُنقّى
   REINFORCED_ALLOY: سبيكة مُعزّزة
-  REINFORCED_DRACONIUM: Draconium مُعزّز
+  REINFORCED_DRACONIUM: دراكونيوم مُعزّز
   REINFORCED_SLIME_STEEL: فولاذ هلامي مُعزّز
-  REMOTININIUM: Remotininium
+  REMOTININIUM: ريموتينينيوم
   RUBBER: مطاط
   SCRAP: خردة
-  SEFIRITE: Sefirite
-  SEGGANESSON: Segganesson
+  SEFIRITE: سيفيرايت
+  SEGGANESSON: سيغانيسون
   SILICON: سيليكون
   SILVER: فضة
   SILVER_SINGULARITY: تفرّد الفضة
   SLIME: هلام
   SLIME_STEEL: فولاذ هلامي
-  SMITHIUM: Smithium
+  SMITHIUM: سميثيوم
   SOLDER: لحام
   STAINLESS_STEEL: فولاذ مقاوم للصدأ
   STAR_DUST: غبار النجوم
@@ -112,8 +112,8 @@ materials:
   TIN_SINGULARITY: تفرّد القصدير
   TITANIUM: تيتانيوم
   TWISTED_VINE: لبلاب ملتوٍ
-  ULTIMANINIUM: Ultimaninium
-  UNPATENTABLIUM: Unpatentablium
+  ULTIMANINIUM: ألتيمانينيوم
+  UNPATENTABLIUM: أنباتنتابليوم
   VEX_GEM: جوهرة المُزعج
   VINE: لبلاب
   VOID: فراغ
