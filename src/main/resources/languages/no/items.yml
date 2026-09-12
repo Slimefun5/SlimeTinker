@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Et støpt øksehode.'
-  name: '&fØksehode Del:'
+  name: '&fDel: Øksehode'
   type:
   - '&7&oKomponent'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7En binding som holder delene sammen.'
-  name: '&fBinding Del:'
+  name: '&fDel: Binding'
   type:
   - '&7&oKomponent'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Et støpt sett med benplater.'
-  name: '&fPlater Del: Støvel'
+  name: '&fDel: Støvelplater'
   type:
   - '&7&oKomponent'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Et støpt sett med brystplater.'
-  name: '&fPlater Del: Bryst'
+  name: '&fDel: Brystplater'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Et stoffplagg som bæres under rustningen'
-  name: '&fGambison Del:'
+  name: '&fDel: Gambison'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Et støpt sett med hjelmplater.'
-  name: '&fHjelmplater Del:'
+  name: '&fDel: Hjelmplater'
   type:
   - '&7&oKomponent'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Et støpt jordhakkehode.'
-  name: '&fJordhakkehode Del:'
+  name: '&fDel: Jordhakkehode'
   type:
   - '&7&oKomponent'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Et støpt sett med benplater.'
-  name: '&fPlater Del: Ben'
+  name: '&fDel: Benplater'
   type:
   - '&7&oKomponent'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Et fleksibelt nett av støpte metallenker'
-  name: '&fBrynjelenker Del:'
+  name: '&fDel: Brynjelenker'
   type:
   - '&7&oKomponent'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Et støpt hakkehode.'
-  name: '&fHode Del: Hakke'
+  name: '&fDel: Hakkehode'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Reparerer ødelagte gjenstander i reparasjonsbenken.'
-  name: '&fReparasjonssett Del:'
+  name: '&fDel: Reparasjonssett'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Et støpt spadehode.'
-  name: '&fSpadehode Del:'
+  name: '&fDel: Spadehode'
   type:
   - '&7&oKomponent'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Et støpt sverdblad.'
-  name: '&fSverdblad Del:'
+  name: '&fDel: Sverdblad'
   type:
   - '&7&oKomponent'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Et støpt verktøyskaft.'
-  name: '&fVerktøyskaft Del:'
+  name: '&fDel: Verktøyskaft'
   type:
   - '&7&oKomponent'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Enhver ''Gambison''-gjenstand.'
-  name: '&fGambison Del:'
+  name: '&fDel: Gambison'
   type:
   - '&7&oKomponent'
 PROP_HEAD:
   description:
   - '&7Enhver ''Hode''-gjenstand (Sverdblad, Øksehode osv.)'
-  name: '&fHode Del:'
+  name: '&fDel: Hode'
   type:
   - '&7&oKomponent'
 PROP_LINKS:
   description:
   - '&7Enhver ''Brynjelenke''-gjenstand.'
-  name: '&fBrynjelenker Del:'
+  name: '&fDel: Brynjelenker'
   type:
   - '&7&oKomponent'
 PROP_PLATES:
   description:
   - '&7Enhver ''Plate''-gjenstand (Hjelmplater, Støvelplater osv.)'
-  name: '&fPlater Del:'
+  name: '&fDel: Plater'
   type:
   - '&7&oKomponent'
 PROP_ROD:
   description:
   - '&7Enhver ''Verktøyskaft''-gjenstand.'
-  name: '&fVerktøyskaft Del:'
+  name: '&fDel: Verktøyskaft'
   type:
   - '&7&oKomponent'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

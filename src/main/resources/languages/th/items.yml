@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7หัวขวานที่หล่อออกจากแม่พิมพ์'
-  name: '&fหัวขวานชิ้นส่วน:'
+  name: '&fชิ้นส่วน: หัวขวาน'
   type:
   - '&7&oส่วนประกอบ'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7ตัวยึดสำหรับรวมชิ้นส่วนเข้าไว้ด้วยกัน'
-  name: '&fตัวยึดชิ้นส่วน:'
+  name: '&fชิ้นส่วน: ตัวยึด'
   type:
   - '&7&oส่วนประกอบ'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7ชุดแผ่นเกราะขาที่หล่อออกจากแม่พิมพ์'
-  name: '&fแผ่นเกราะชิ้นส่วน: รองเท้า'
+  name: '&fชิ้นส่วน: แผ่นเกราะรองเท้า'
   type:
   - '&7&oส่วนประกอบ'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7ชุดแผ่นเกราะอกที่หล่อออกจากแม่พิมพ์'
-  name: '&fแผ่นเกราะชิ้นส่วน: เกราะอก'
+  name: '&fชิ้นส่วน: แผ่นเกราะอก'
   type:
   - '&7&oส่วนประกอบ'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7เสื้อผ้าที่สวมไว้ใต้เกราะ'
-  name: '&fเสื้อบุนวมชิ้นส่วน:'
+  name: '&fชิ้นส่วน: เสื้อบุนวม'
   type:
   - '&7&oส่วนประกอบ'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7ชุดแผ่นเกราะหมวกที่หล่อออกจากแม่พิมพ์'
-  name: '&fแผ่นเกราะหมวกชิ้นส่วน:'
+  name: '&fชิ้นส่วน: แผ่นเกราะหมวก'
   type:
   - '&7&oส่วนประกอบ'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7หัวจอบที่หล่อออกจากแม่พิมพ์'
-  name: '&fหัวจอบชิ้นส่วน:'
+  name: '&fชิ้นส่วน: หัวจอบ'
   type:
   - '&7&oส่วนประกอบ'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7ชุดแผ่นเกราะขาที่หล่อออกจากแม่พิมพ์'
-  name: '&fแผ่นเกราะชิ้นส่วน: เกราะขา'
+  name: '&fชิ้นส่วน: แผ่นเกราะขา'
   type:
   - '&7&oส่วนประกอบ'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7ตาข่ายห่วงโลหะหล่อที่ยืดหยุ่นได้'
-  name: '&fห่วงโซ่เกราะชิ้นส่วน:'
+  name: '&fชิ้นส่วน: ห่วงโซ่เกราะ'
   type:
   - '&7&oส่วนประกอบ'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7หัวอีเต้อที่หล่อออกจากแม่พิมพ์'
-  name: '&fหัวชิ้นส่วน: อีเต้อ'
+  name: '&fชิ้นส่วน: หัวอีเต้อ'
   type:
   - '&7&oส่วนประกอบ'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7ซ่อมไอเทมที่พังแล้วได้ที่โต๊ะซ่อม'
-  name: '&fชุดซ่อมชิ้นส่วน:'
+  name: '&fชิ้นส่วน: ชุดซ่อม'
   type:
   - '&7&oส่วนประกอบ'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7หัวพลั่วที่หล่อออกจากแม่พิมพ์'
-  name: '&fหัวพลั่วชิ้นส่วน:'
+  name: '&fชิ้นส่วน: หัวพลั่ว'
   type:
   - '&7&oส่วนประกอบ'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7ใบดาบที่หล่อออกจากแม่พิมพ์'
-  name: '&fใบดาบชิ้นส่วน:'
+  name: '&fชิ้นส่วน: ใบดาบ'
   type:
   - '&7&oส่วนประกอบ'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7ด้ามเครื่องมือที่หล่อออกจากแม่พิมพ์'
-  name: '&fด้ามเครื่องมือชิ้นส่วน:'
+  name: '&fชิ้นส่วน: ด้ามเครื่องมือ'
   type:
   - '&7&oส่วนประกอบ'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7ไอเทมประเภทเสื้อบุนวมชิ้นใดก็ได้'
-  name: '&fเสื้อบุนวมชิ้นส่วน:'
+  name: '&fชิ้นส่วน: เสื้อบุนวม'
   type:
   - '&7&oส่วนประกอบ'
 PROP_HEAD:
   description:
   - '&7ไอเทมประเภทหัวชิ้นใดก็ได้ (ใบดาบ หัวขวาน ฯลฯ)'
-  name: '&fหัวชิ้นส่วน:'
+  name: '&fชิ้นส่วน: หัว'
   type:
   - '&7&oส่วนประกอบ'
 PROP_LINKS:
   description:
   - '&7ไอเทมประเภทห่วงโซ่เกราะชิ้นใดก็ได้'
-  name: '&fห่วงโซ่เกราะชิ้นส่วน:'
+  name: '&fชิ้นส่วน: ห่วงโซ่เกราะ'
   type:
   - '&7&oส่วนประกอบ'
 PROP_PLATES:
   description:
   - '&7ไอเทมประเภทแผ่นเกราะชิ้นใดก็ได้ (แผ่นเกราะหมวก แผ่นเกราะรองเท้า ฯลฯ)'
-  name: '&fแผ่นเกราะชิ้นส่วน:'
+  name: '&fชิ้นส่วน: แผ่นเกราะ'
   type:
   - '&7&oส่วนประกอบ'
 PROP_ROD:
   description:
   - '&7ไอเทมประเภทด้ามเครื่องมือชิ้นใดก็ได้'
-  name: '&fด้ามเครื่องมือชิ้นส่วน:'
+  name: '&fชิ้นส่วน: ด้ามเครื่องมือ'
   type:
   - '&7&oส่วนประกอบ'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Відлите лезо сокири.'
-  name: '&fЛезо сокири Частина:'
+  name: '&fЧастина: Лезо сокири'
   type:
   - '&7&oКомпонент'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Обв''язка, що тримає частини разом.'
-  name: '&fОбв''язка Частина:'
+  name: '&fЧастина: Обв''язка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Відлитий набір пластин поножів.'
-  name: '&fПластини Частина: черевик'
+  name: '&fЧастина: пластин черевиків'
   type:
   - '&7&oКомпонент'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Відлитий набір пластин нагрудника.'
-  name: '&fПластини Частина: нагрудник'
+  name: '&fЧастина: Пластини нагрудника'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Тканинний піддоспішник'
-  name: '&fҐамбезон Частина:'
+  name: '&fЧастина: Ґамбезон'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Відлитий набір пластин шолома.'
-  name: '&fПластини шолома Частина:'
+  name: '&fЧастина: Пластини шолома'
   type:
   - '&7&oКомпонент'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Відлите лезо сапки.'
-  name: '&fЛезо сапки Частина:'
+  name: '&fЧастина: Лезо сапки'
   type:
   - '&7&oКомпонент'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Відлитий набір пластин поножів.'
-  name: '&fПластини Частина: поножі'
+  name: '&fЧастина: пластин поножів'
   type:
   - '&7&oКомпонент'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Гнучке плетиво з литих металевих кілець'
-  name: '&fКольчужні кільця Частина:'
+  name: '&fЧастина: Кольчужні кільця'
   type:
   - '&7&oКомпонент'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Відлите вістря кирки.'
-  name: '&fГоловка Частина: кирка'
+  name: '&fЧастина: вістря кирки'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Ремонтує зламані предмети на ремонтному верстаті.'
-  name: '&fРемонтний набір Частина:'
+  name: '&fЧастина: Ремонтний набір'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Відлите лезо лопати.'
-  name: '&fЛезо лопати Частина:'
+  name: '&fЧастина: Лезо лопати'
   type:
   - '&7&oКомпонент'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Відлитий клинок меча.'
-  name: '&fКлинок меча Частина:'
+  name: '&fЧастина: Клинок меча'
   type:
   - '&7&oКомпонент'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Відлите руків''я інструмента.'
-  name: '&fРуків''я інструмента Частина:'
+  name: '&fЧастина: Руків''я інструмента'
   type:
   - '&7&oКомпонент'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Будь-який предмет типу «Ґамбезон».'
-  name: '&fҐамбезон Частина:'
+  name: '&fЧастина: Ґамбезон'
   type:
   - '&7&oКомпонент'
 PROP_HEAD:
   description:
   - '&7Будь-який предмет типу «Головка» (клинок меча, лезо сокири тощо)'
-  name: '&fГоловка Частина:'
+  name: '&fЧастина: Головка'
   type:
   - '&7&oКомпонент'
 PROP_LINKS:
   description:
   - '&7Будь-який предмет типу «Кольчужні кільця».'
-  name: '&fКольчужні кільця Частина:'
+  name: '&fЧастина: Кольчужні кільця'
   type:
   - '&7&oКомпонент'
 PROP_PLATES:
   description:
   - '&7Будь-який предмет типу «Пластини» (пластини шолома, пластини черевиків тощо)'
-  name: '&fПластини Частина:'
+  name: '&fЧастина: Пластини'
   type:
   - '&7&oКомпонент'
 PROP_ROD:
   description:
   - '&7Будь-який предмет типу «Руків''я інструмента».'
-  name: '&fРуків''я інструмента Частина:'
+  name: '&fЧастина: Руків''я інструмента'
   type:
   - '&7&oКомпонент'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

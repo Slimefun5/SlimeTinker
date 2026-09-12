@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Odlitá hlava sekery.'
-  name: '&fHlava sekery Díl:'
+  name: '&fDíl: Hlava sekery'
   type:
   - '&7&oKomponenta'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Vazba, která drží díly pohromadě.'
-  name: '&fVazba Díl:'
+  name: '&fDíl: Vazba'
   type:
   - '&7&oKomponenta'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Odlitá sada plátů nohavic.'
-  name: '&fPláty Díl: Bota'
+  name: '&fDíl: Pláty bot'
   type:
   - '&7&oKomponenta'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Odlitá sada plátů krunýře.'
-  name: '&fPláty Díl: Hruď'
+  name: '&fDíl: Pláty krunýře'
   type:
   - '&7&oKomponenta'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Látkový oděv pod zbroj'
-  name: '&fKabátec Díl:'
+  name: '&fDíl: Kabátec'
   type:
   - '&7&oKomponenta'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Odlitá sada plátů helmy.'
-  name: '&fPláty helmy Díl:'
+  name: '&fDíl: Pláty helmy'
   type:
   - '&7&oKomponenta'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Odlitá hlava motyky.'
-  name: '&fHlava motyky Díl:'
+  name: '&fDíl: Hlava motyky'
   type:
   - '&7&oKomponenta'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Odlitá sada plátů nohavic.'
-  name: '&fPláty Díl: Noha'
+  name: '&fDíl: Pláty nohavic'
   type:
   - '&7&oKomponenta'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Pružné pletivo z odlitých kovových kroužků'
-  name: '&fKroužky Díl:'
+  name: '&fDíl: Kroužky'
   type:
   - '&7&oKomponenta'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Odlitá hlava krumpáče.'
-  name: '&fHlava Díl: Krumpáč'
+  name: '&fDíl: Hlava krumpáče'
   type:
   - '&7&oKomponenta'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Opravuje rozbité předměty na opravárenském stole.'
-  name: '&fOpravná sada Díl:'
+  name: '&fDíl: Opravná sada'
   type:
   - '&7&oKomponenta'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Odlitá hlava lopaty.'
-  name: '&fHlava lopaty Díl:'
+  name: '&fDíl: Hlava lopaty'
   type:
   - '&7&oKomponenta'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Odlitá čepel meče.'
-  name: '&fČepel meče Díl:'
+  name: '&fDíl: Čepel meče'
   type:
   - '&7&oKomponenta'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Odlitá násada nástroje.'
-  name: '&fNásada nástroje Díl:'
+  name: '&fDíl: Násada nástroje'
   type:
   - '&7&oKomponenta'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Jakýkoli předmět typu Kabátec.'
-  name: '&fKabátec Díl:'
+  name: '&fDíl: Kabátec'
   type:
   - '&7&oKomponenta'
 PROP_HEAD:
   description:
   - '&7Jakýkoli předmět typu Hlava (čepel meče, hlava sekery apod.)'
-  name: '&fHlava Díl:'
+  name: '&fDíl: Hlava'
   type:
   - '&7&oKomponenta'
 PROP_LINKS:
   description:
   - '&7Jakýkoli předmět typu Kroužky.'
-  name: '&fKroužky Díl:'
+  name: '&fDíl: Kroužky'
   type:
   - '&7&oKomponenta'
 PROP_PLATES:
   description:
   - '&7Jakýkoli předmět typu Plát (pláty helmy, pláty bot apod.)'
-  name: '&fPláty Díl:'
+  name: '&fDíl: Pláty'
   type:
   - '&7&oKomponenta'
 PROP_ROD:
   description:
   - '&7Jakýkoli předmět typu Násada nástroje.'
-  name: '&fNásada nástroje Díl:'
+  name: '&fDíl: Násada nástroje'
   type:
   - '&7&oKomponenta'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

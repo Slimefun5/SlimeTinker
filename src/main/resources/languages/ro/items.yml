@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Un tipar pentru cap de topor.'
-  name: '&fCap de Topor din Piesă:'
+  name: '&fPiesă: Cap de Topor'
   type:
   - '&7&oComponentă'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7O legătură care ține piesele laolaltă.'
-  name: '&fLegătură din Piesă:'
+  name: '&fPiesă: Legătură'
   type:
   - '&7&oComponentă'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Un tipar pentru un set de plăci de jambiere.'
-  name: '&fPlăci din Piesă: Bocanc'
+  name: '&fPiesă: Plăci de Bocanci'
   type:
   - '&7&oComponentă'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Un tipar pentru un set de plăci de platoșă.'
-  name: '&fPlăci din Piesă: Piept'
+  name: '&fPiesă: Plăci de Platoșă'
   type:
   - '&7&oComponentă'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Un veșmânt de pânză purtat sub armură'
-  name: '&fPieptar Matlasat din Piesă:'
+  name: '&fPiesă: Pieptar Matlasat'
   type:
   - '&7&oComponentă'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Un tipar pentru un set de plăci de coif.'
-  name: '&fPlăci de Coif din Piesă:'
+  name: '&fPiesă: Plăci de Coif'
   type:
   - '&7&oComponentă'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Un tipar pentru cap de sapă.'
-  name: '&fCap de Sapă din Piesă:'
+  name: '&fPiesă: Cap de Sapă'
   type:
   - '&7&oComponentă'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Un tipar pentru un set de plăci de jambiere.'
-  name: '&fPlăci din Piesă: Picior'
+  name: '&fPiesă: Plăci de Jambiere'
   type:
   - '&7&oComponentă'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7O plasă flexibilă de zale turnate din metal'
-  name: '&fZale din Piesă:'
+  name: '&fPiesă: Zale'
   type:
   - '&7&oComponentă'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Un tipar pentru cap de târnăcop.'
-  name: '&fCap din Piesă: Târnăcop'
+  name: '&fPiesă: Cap de Târnăcop'
   type:
   - '&7&oComponentă'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Repară obiectele stricate la Bancul de Reparații.'
-  name: '&fTrusă de Reparații din Piesă:'
+  name: '&fPiesă: Trusă de Reparații'
   type:
   - '&7&oComponentă'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Un tipar pentru cap de lopată.'
-  name: '&fCap de Lopată din Piesă:'
+  name: '&fPiesă: Cap de Lopată'
   type:
   - '&7&oComponentă'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Un tipar pentru lamă de sabie.'
-  name: '&fLamă de Sabie din Piesă:'
+  name: '&fPiesă: Lamă de Sabie'
   type:
   - '&7&oComponentă'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Un tipar pentru tijă de unealtă.'
-  name: '&fTijă de Unealtă din Piesă:'
+  name: '&fPiesă: Tijă de Unealtă'
   type:
   - '&7&oComponentă'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Orice obiect de tip Pieptar Matlasat.'
-  name: '&fPieptar Matlasat din Piesă:'
+  name: '&fPiesă: Pieptar Matlasat'
   type:
   - '&7&oComponentă'
 PROP_HEAD:
   description:
   - '&7Orice obiect de tip Cap (Lamă de Sabie, Cap de Topor etc.)'
-  name: '&fCap din Piesă:'
+  name: '&fPiesă: Cap'
   type:
   - '&7&oComponentă'
 PROP_LINKS:
   description:
   - '&7Orice obiect de tip Zale.'
-  name: '&fZale din Piesă:'
+  name: '&fPiesă: Zale'
   type:
   - '&7&oComponentă'
 PROP_PLATES:
   description:
   - '&7Orice obiect de tip Placă (Plăci de Coif, Plăci de Bocanci etc.)'
-  name: '&fPlăci din Piesă:'
+  name: '&fPiesă: Plăci'
   type:
   - '&7&oComponentă'
 PROP_ROD:
   description:
   - '&7Orice obiect de tip Tijă de Unealtă.'
-  name: '&fTijă de Unealtă din Piesă:'
+  name: '&fPiesă: Tijă de Unealtă'
   type:
   - '&7&oComponentă'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

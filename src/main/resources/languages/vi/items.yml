@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Khuôn đúc đầu rìu.'
-  name: '&fĐầu Rìu Bộ Phận:'
+  name: '&fBộ Phận: Đầu Rìu'
   type:
   - '&7&oThành Phần'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Dây buộc để giữ các bộ phận lại với nhau.'
-  name: '&fDây Buộc Bộ Phận:'
+  name: '&fBộ Phận: Dây Buộc'
   type:
   - '&7&oThành Phần'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Khuôn đúc bộ tấm giáp quần.'
-  name: '&fTấm Giáp Bộ Phận: Giày'
+  name: '&fBộ Phận: Tấm Giáp Giày'
   type:
   - '&7&oThành Phần'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Khuôn đúc bộ tấm giáp ngực.'
-  name: '&fTấm Giáp Bộ Phận: Ngực'
+  name: '&fBộ Phận: Tấm Giáp Ngực'
   type:
   - '&7&oThành Phần'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Lớp áo vải mặc dưới giáp'
-  name: '&fGiáp Lót Bộ Phận:'
+  name: '&fBộ Phận: Giáp Lót'
   type:
   - '&7&oThành Phần'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Khuôn đúc bộ tấm giáp mũ.'
-  name: '&fTấm Giáp Mũ Bộ Phận:'
+  name: '&fBộ Phận: Tấm Giáp Mũ'
   type:
   - '&7&oThành Phần'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Khuôn đúc đầu cuốc.'
-  name: '&fĐầu Cuốc Bộ Phận:'
+  name: '&fBộ Phận: Đầu Cuốc'
   type:
   - '&7&oThành Phần'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Khuôn đúc bộ tấm giáp quần.'
-  name: '&fTấm Giáp Bộ Phận: Chân'
+  name: '&fBộ Phận: Tấm Giáp Quần'
   type:
   - '&7&oThành Phần'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Lưới mềm dẻo gồm các mắt xích kim loại đúc'
-  name: '&fMắt Xích Giáp Bộ Phận:'
+  name: '&fBộ Phận: Mắt Xích Giáp'
   type:
   - '&7&oThành Phần'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Khuôn đúc đầu cuốc chim.'
-  name: '&fĐầu Bộ Phận: Cuốc Chim'
+  name: '&fBộ Phận: Đầu Cuốc Chim'
   type:
   - '&7&oThành Phần'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Sửa vật phẩm bị hỏng tại Bàn Sửa Chữa.'
-  name: '&fBộ Sửa Chữa Bộ Phận:'
+  name: '&fBộ Phận: Bộ Sửa Chữa'
   type:
   - '&7&oThành Phần'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Khuôn đúc đầu xẻng.'
-  name: '&fĐầu Xẻng Bộ Phận:'
+  name: '&fBộ Phận: Đầu Xẻng'
   type:
   - '&7&oThành Phần'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Khuôn đúc lưỡi kiếm.'
-  name: '&fLưỡi Kiếm Bộ Phận:'
+  name: '&fBộ Phận: Lưỡi Kiếm'
   type:
   - '&7&oThành Phần'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Khuôn đúc cán công cụ.'
-  name: '&fCán Công Cụ Bộ Phận:'
+  name: '&fBộ Phận: Cán Công Cụ'
   type:
   - '&7&oThành Phần'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Bất kỳ vật phẩm ''Giáp Lót'' nào.'
-  name: '&fGiáp Lót Bộ Phận:'
+  name: '&fBộ Phận: Giáp Lót'
   type:
   - '&7&oThành Phần'
 PROP_HEAD:
   description:
   - '&7Bất kỳ vật phẩm ''Đầu'' nào (Lưỡi Kiếm, Đầu Rìu v.v.)'
-  name: '&fĐầu Bộ Phận:'
+  name: '&fBộ Phận: Đầu'
   type:
   - '&7&oThành Phần'
 PROP_LINKS:
   description:
   - '&7Bất kỳ vật phẩm ''Mắt Xích Giáp'' nào.'
-  name: '&fMắt Xích Giáp Bộ Phận:'
+  name: '&fBộ Phận: Mắt Xích Giáp'
   type:
   - '&7&oThành Phần'
 PROP_PLATES:
   description:
   - '&7Bất kỳ vật phẩm ''Tấm Giáp'' nào (Tấm Giáp Mũ, Tấm Giáp Giày v.v.)'
-  name: '&fTấm Giáp Bộ Phận:'
+  name: '&fBộ Phận: Tấm Giáp'
   type:
   - '&7&oThành Phần'
 PROP_ROD:
   description:
   - '&7Bất kỳ vật phẩm ''Cán Công Cụ'' nào.'
-  name: '&fCán Công Cụ Bộ Phận:'
+  name: '&fBộ Phận: Cán Công Cụ'
   type:
   - '&7&oThành Phần'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

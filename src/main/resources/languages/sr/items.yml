@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Изливена глава секире.'
-  name: '&fГлава секире од дела'
+  name: '&fДео: Глава секире'
   type:
   - '&7&oКомпонента'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Спона која држи делове на окупу.'
-  name: '&fСпона од дела'
+  name: '&fДео: Спона'
   type:
   - '&7&oКомпонента'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Изливен комплет плоча ногавица.'
-  name: '&fПлоче од дела чизме'
+  name: '&fДео: Плоче чизама'
   type:
   - '&7&oКомпонента'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Изливен комплет плоча грудног оклопа.'
-  name: '&fПлоче од дела грудног оклопа'
+  name: '&fДео: Плоче грудног оклопа'
   type:
   - '&7&oКомпонента'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Платнени одевни предмет који се носи испод оклопа'
-  name: '&fГамбезон од дела'
+  name: '&fДео: Гамбезон'
   type:
   - '&7&oКомпонента'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Изливен комплет плоча шлема.'
-  name: '&fПлоче шлема од дела'
+  name: '&fДео: Плоче шлема'
   type:
   - '&7&oКомпонента'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Изливена глава мотике.'
-  name: '&fГлава мотике од дела'
+  name: '&fДео: Глава мотике'
   type:
   - '&7&oКомпонента'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Изливен комплет плоча ногавица.'
-  name: '&fПлоче од дела ногавица'
+  name: '&fДео: Плоче ногавица'
   type:
   - '&7&oКомпонента'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Гипка мрежа изливених металних карика'
-  name: '&fВерижне карике од дела'
+  name: '&fДео: Верижне карике'
   type:
   - '&7&oКомпонента'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Изливена глава крампа.'
-  name: '&fГлава од дела крампа'
+  name: '&fДео: Глава крампа'
   type:
   - '&7&oКомпонента'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Поправља сломљене предмете на столу за поправку.'
-  name: '&fКомплет за поправку од дела'
+  name: '&fДео: Комплет за поправку'
   type:
   - '&7&oКомпонента'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Изливена глава лопате.'
-  name: '&fГлава лопате од дела'
+  name: '&fДео: Глава лопате'
   type:
   - '&7&oКомпонента'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Изливено сечиво мача.'
-  name: '&fСечиво мача од дела'
+  name: '&fДео: Сечиво мача'
   type:
   - '&7&oКомпонента'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Изливена држаља алата.'
-  name: '&fДржаља алата од дела'
+  name: '&fДео: Држаља алата'
   type:
   - '&7&oКомпонента'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Било који предмет врсте „гамбезон".'
-  name: '&fГамбезон од дела'
+  name: '&fДео: Гамбезон'
   type:
   - '&7&oКомпонента'
 PROP_HEAD:
   description:
   - '&7Било који предмет врсте „глава" (сечиво мача, глава секире итд.)'
-  name: '&fГлава од дела'
+  name: '&fДео: Глава'
   type:
   - '&7&oКомпонента'
 PROP_LINKS:
   description:
   - '&7Било који предмет врсте „верижна карика".'
-  name: '&fВерижне карике од дела'
+  name: '&fДео: Верижне карике'
   type:
   - '&7&oКомпонента'
 PROP_PLATES:
   description:
   - '&7Било који предмет врсте „плоча" (плоче шлема, плоче чизама итд.)'
-  name: '&fПлоче од дела'
+  name: '&fДео: Плоче'
   type:
   - '&7&oКомпонента'
 PROP_ROD:
   description:
   - '&7Било који предмет врсте „држаља алата".'
-  name: '&fДржаља алата од дела'
+  name: '&fДео: Држаља алата'
   type:
   - '&7&oКомпонента'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

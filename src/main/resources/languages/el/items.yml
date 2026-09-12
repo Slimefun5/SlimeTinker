@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Μια χυτή κεφαλή τσεκουριού.'
-  name: '&fΚεφαλή Τσεκουριού από Μέρος:'
+  name: '&fΜέρος: Κεφαλή Τσεκουριού'
   type:
   - '&7&oΕξάρτημα'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Ένα δέσιμο που κρατά τα μέρη ενωμένα.'
-  name: '&fΔέσιμο από Μέρος:'
+  name: '&fΜέρος: Δέσιμο'
   type:
   - '&7&oΕξάρτημα'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Ένα χυτό σετ πλακών περικνημίδων.'
-  name: '&fΠλάκες από Μέρος: Μπότα'
+  name: '&fΜέρος: Πλάκες Μποτών'
   type:
   - '&7&oΕξάρτημα'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Ένα χυτό σετ πλακών θώρακα.'
-  name: '&fΠλάκες από Μέρος: Θώρακας'
+  name: '&fΜέρος: Πλάκες Θώρακα'
   type:
   - '&7&oΕξάρτημα'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Ένα υφασμάτινο ρούχο που φοριέται κάτω από την πανοπλία'
-  name: '&fΓκαμπεζόν από Μέρος:'
+  name: '&fΜέρος: Γκαμπεζόν'
   type:
   - '&7&oΕξάρτημα'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Ένα χυτό σετ πλακών κράνους.'
-  name: '&fΠλάκες Κράνους από Μέρος:'
+  name: '&fΜέρος: Πλάκες Κράνους'
   type:
   - '&7&oΕξάρτημα'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Μια χυτή κεφαλή τσάπας.'
-  name: '&fΚεφαλή Τσάπας από Μέρος:'
+  name: '&fΜέρος: Κεφαλή Τσάπας'
   type:
   - '&7&oΕξάρτημα'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Ένα χυτό σετ πλακών περικνημίδων.'
-  name: '&fΠλάκες από Μέρος: Περικνημίδα'
+  name: '&fΜέρος: Πλάκες Περικνημίδων'
   type:
   - '&7&oΕξάρτημα'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Ένα εύκαμπτο πλέγμα από χυτούς μεταλλικούς κρίκους'
-  name: '&fΚρίκοι Αλυσίδας από Μέρος:'
+  name: '&fΜέρος: Κρίκοι Αλυσίδας'
   type:
   - '&7&oΕξάρτημα'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Μια χυτή κεφαλή αξίνας.'
-  name: '&fΚεφαλή από Μέρος: Αξίνα'
+  name: '&fΜέρος: Κεφαλή Αξίνας'
   type:
   - '&7&oΕξάρτημα'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Επισκευάζει σπασμένα αντικείμενα στον Πάγκο Επισκευής.'
-  name: '&fΣετ Επισκευής από Μέρος:'
+  name: '&fΜέρος: Σετ Επισκευής'
   type:
   - '&7&oΕξάρτημα'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Μια χυτή κεφαλή φτυαριού.'
-  name: '&fΚεφαλή Φτυαριού από Μέρος:'
+  name: '&fΜέρος: Κεφαλή Φτυαριού'
   type:
   - '&7&oΕξάρτημα'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Μια χυτή λεπίδα σπαθιού.'
-  name: '&fΛεπίδα Σπαθιού από Μέρος:'
+  name: '&fΜέρος: Λεπίδα Σπαθιού'
   type:
   - '&7&oΕξάρτημα'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Μια χυτή ράβδος εργαλείου.'
-  name: '&fΡάβδος Εργαλείου από Μέρος:'
+  name: '&fΜέρος: Ράβδος Εργαλείου'
   type:
   - '&7&oΕξάρτημα'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Οποιοδήποτε αντικείμενο Γκαμπεζόν.'
-  name: '&fΓκαμπεζόν από Μέρος:'
+  name: '&fΜέρος: Γκαμπεζόν'
   type:
   - '&7&oΕξάρτημα'
 PROP_HEAD:
   description:
   - '&7Οποιοδήποτε αντικείμενο Κεφαλής (Λεπίδα Σπαθιού, Κεφαλή Τσεκουριού κ.λπ.)'
-  name: '&fΚεφαλή από Μέρος:'
+  name: '&fΜέρος: Κεφαλή'
   type:
   - '&7&oΕξάρτημα'
 PROP_LINKS:
   description:
   - '&7Οποιοδήποτε αντικείμενο Κρίκου Αλυσίδας.'
-  name: '&fΚρίκοι Αλυσίδας από Μέρος:'
+  name: '&fΜέρος: Κρίκοι Αλυσίδας'
   type:
   - '&7&oΕξάρτημα'
 PROP_PLATES:
   description:
   - '&7Οποιοδήποτε αντικείμενο Πλάκας (Πλάκες Κράνους, Πλάκες Μποτών κ.λπ.)'
-  name: '&fΠλάκες από Μέρος:'
+  name: '&fΜέρος: Πλάκες'
   type:
   - '&7&oΕξάρτημα'
 PROP_ROD:
   description:
   - '&7Οποιοδήποτε αντικείμενο Ράβδου Εργαλείου.'
-  name: '&fΡάβδος Εργαλείου από Μέρος:'
+  name: '&fΜέρος: Ράβδος Εργαλείου'
   type:
   - '&7&oΕξάρτημα'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

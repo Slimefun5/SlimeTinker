@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Излята глава на секира.'
-  name: '&fГлава на секира Част:'
+  name: '&fЧаст: Глава на секира'
   type:
   - '&7&oКомпонент'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Свръзка, която държи частите заедно.'
-  name: '&fСвръзка Част:'
+  name: '&fЧаст: Свръзка'
   type:
   - '&7&oКомпонент'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Излят комплект плочки за панталони.'
-  name: '&fПлочки Част: обувка'
+  name: '&fЧаст: плочки за обувки'
   type:
   - '&7&oКомпонент'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Излят комплект плочки за нагръдник.'
-  name: '&fПлочки Част: нагръдник'
+  name: '&fЧаст: Плочки за нагръдник'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Платнена дреха, която се носи под бронята'
-  name: '&fГамбезон Част:'
+  name: '&fЧаст: Гамбезон'
   type:
   - '&7&oКомпонент'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Излят комплект плочки за шлем.'
-  name: '&fПлочки за шлем Част:'
+  name: '&fЧаст: Плочки за шлем'
   type:
   - '&7&oКомпонент'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Излята глава на мотика.'
-  name: '&fГлава на мотика Част:'
+  name: '&fЧаст: Глава на мотика'
   type:
   - '&7&oКомпонент'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Излят комплект плочки за панталони.'
-  name: '&fПлочки Част: панталон'
+  name: '&fЧаст: плочки за панталони'
   type:
   - '&7&oКомпонент'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Гъвкава мрежа от излети метални звена'
-  name: '&fЗвена за ризница Част:'
+  name: '&fЧаст: Звена за ризница'
   type:
   - '&7&oКомпонент'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Излята глава на кирка.'
-  name: '&fГлава Част: кирка'
+  name: '&fЧаст: глава на кирка'
   type:
   - '&7&oКомпонент'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Ремонтира счупени предмети на ремонтния тезгях.'
-  name: '&fКомплект за ремонт Част:'
+  name: '&fЧаст: Комплект за ремонт'
   type:
   - '&7&oКомпонент'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Излята глава на лопата.'
-  name: '&fГлава на лопата Част:'
+  name: '&fЧаст: Глава на лопата'
   type:
   - '&7&oКомпонент'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Излято острие на меч.'
-  name: '&fОстрие на меч Част:'
+  name: '&fЧаст: Острие на меч'
   type:
   - '&7&oКомпонент'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Излята дръжка за инструмент.'
-  name: '&fДръжка за инструмент Част:'
+  name: '&fЧаст: Дръжка за инструмент'
   type:
   - '&7&oКомпонент'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Който и да е предмет „Гамбезон“.'
-  name: '&fГамбезон Част:'
+  name: '&fЧаст: Гамбезон'
   type:
   - '&7&oКомпонент'
 PROP_HEAD:
   description:
   - '&7Който и да е предмет „Глава“ (Острие на меч, Глава на секира и др.)'
-  name: '&fГлава Част:'
+  name: '&fЧаст: Глава'
   type:
   - '&7&oКомпонент'
 PROP_LINKS:
   description:
   - '&7Който и да е предмет „Звено за ризница“.'
-  name: '&fЗвена за ризница Част:'
+  name: '&fЧаст: Звена за ризница'
   type:
   - '&7&oКомпонент'
 PROP_PLATES:
   description:
   - '&7Който и да е предмет „Плочки“ (Плочки за шлем, Плочки за обувки и др.)'
-  name: '&fПлочки Част:'
+  name: '&fЧаст: Плочки'
   type:
   - '&7&oКомпонент'
 PROP_ROD:
   description:
   - '&7Който и да е предмет „Дръжка за инструмент“.'
-  name: '&fДръжка за инструмент Част:'
+  name: '&fЧаст: Дръжка за инструмент'
   type:
   - '&7&oКомпонент'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

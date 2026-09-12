@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Адлітая галоўка сякеры.'
-  name: '&fГалоўка сякеры Частка:'
+  name: '&fЧастка: Галоўка сякеры'
   type:
   - '&7&oКампанент'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Змацаванне, каб трымаць часткі разам.'
-  name: '&fЗмацаванне Частка:'
+  name: '&fЧастка: Змацаванне'
   type:
   - '&7&oКампанент'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Адліты набор пласцін нагавіц.'
-  name: '&fПласціны Частка: Бот'
+  name: '&fЧастка: Пласціны ботаў'
   type:
   - '&7&oКампанент'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Адліты набор пласцін нагрудніка.'
-  name: '&fПласціны Частка: Нагруднік'
+  name: '&fЧастка: Пласціны нагрудніка'
   type:
   - '&7&oКампанент'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Тканкавае адзенне пад браню'
-  name: '&fГамбезон Частка:'
+  name: '&fЧастка: Гамбезон'
   type:
   - '&7&oКампанент'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Адліты набор пласцін шлема.'
-  name: '&fПласціны шлема Частка:'
+  name: '&fЧастка: Пласціны шлема'
   type:
   - '&7&oКампанент'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Адлітая галоўка матыкі.'
-  name: '&fГалоўка матыкі Частка:'
+  name: '&fЧастка: Галоўка матыкі'
   type:
   - '&7&oКампанент'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Адліты набор пласцін нагавіц.'
-  name: '&fПласціны Частка: Нагавіцы'
+  name: '&fЧастка: Пласціны нагавіц'
   type:
   - '&7&oКампанент'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Гнуткая сетка з адлітых металічных звёнаў'
-  name: '&fКальчужныя звёны Частка:'
+  name: '&fЧастка: Кальчужныя звёны'
   type:
   - '&7&oКампанент'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Адлітая галоўка кіркі.'
-  name: '&fГалоўка Частка: Кірка'
+  name: '&fЧастка: Галоўка кіркі'
   type:
   - '&7&oКампанент'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Рамантуе зламаныя прадметы на рамонтным варштаце.'
-  name: '&fРамонтны набор Частка:'
+  name: '&fЧастка: Рамонтны набор'
   type:
   - '&7&oКампанент'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Адлітая галоўка рыдлёўкі.'
-  name: '&fГалоўка рыдлёўкі Частка:'
+  name: '&fЧастка: Галоўка рыдлёўкі'
   type:
   - '&7&oКампанент'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Адлітае лязо мяча.'
-  name: '&fЛязо мяча Частка:'
+  name: '&fЧастка: Лязо мяча'
   type:
   - '&7&oКампанент'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Адліты стрыжань інструмента.'
-  name: '&fСтрыжань інструмента Частка:'
+  name: '&fЧастка: Стрыжань інструмента'
   type:
   - '&7&oКампанент'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Любы прадмет «Гамбезон».'
-  name: '&fГамбезон Частка:'
+  name: '&fЧастка: Гамбезон'
   type:
   - '&7&oКампанент'
 PROP_HEAD:
   description:
   - '&7Любы прадмет «Галоўка» (Лязо мяча, Галоўка сякеры і г.д.)'
-  name: '&fГалоўка Частка:'
+  name: '&fЧастка: Галоўка'
   type:
   - '&7&oКампанент'
 PROP_LINKS:
   description:
   - '&7Любы прадмет «Кальчужнае звяно».'
-  name: '&fКальчужныя звёны Частка:'
+  name: '&fЧастка: Кальчужныя звёны'
   type:
   - '&7&oКампанент'
 PROP_PLATES:
   description:
   - '&7Любы прадмет «Пласціны» (Пласціны шлема, Пласціны ботаў і г.д.)'
-  name: '&fПласціны Частка:'
+  name: '&fЧастка: Пласціны'
   type:
   - '&7&oКампанент'
 PROP_ROD:
   description:
   - '&7Любы прадмет «Стрыжань інструмента».'
-  name: '&fСтрыжань інструмента Частка:'
+  name: '&fЧастка: Стрыжань інструмента'
   type:
   - '&7&oКампанент'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

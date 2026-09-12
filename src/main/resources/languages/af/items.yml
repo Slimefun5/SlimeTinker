@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7''n Gegote bylkop.'
-  name: '&fBylkop van Onderdeel:'
+  name: '&fOnderdeel: Bylkop'
   type:
   - '&7&oKomponent'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7''n Binding om onderdele bymekaar te hou.'
-  name: '&fBinding van Onderdeel:'
+  name: '&fOnderdeel: Binding'
   type:
   - '&7&oKomponent'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7''n Gegote stel beenplate.'
-  name: '&fPlate van Onderdeel: Stewel'
+  name: '&fOnderdeel: Stewelplate'
   type:
   - '&7&oKomponent'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7''n Gegote stel borsplate.'
-  name: '&fPlate van Onderdeel: Bors'
+  name: '&fOnderdeel: Borsplaatplate'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7''n Stofkledingstuk wat onder die wapenrusting gedra word'
-  name: '&fWambuis van Onderdeel:'
+  name: '&fOnderdeel: Wambuis'
   type:
   - '&7&oKomponent'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7''n Gegote stel helmplate.'
-  name: '&fHelmplate van Onderdeel:'
+  name: '&fOnderdeel: Helmplate'
   type:
   - '&7&oKomponent'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7''n Gegote skoffelkop.'
-  name: '&fSkoffelkop van Onderdeel:'
+  name: '&fOnderdeel: Skoffelkop'
   type:
   - '&7&oKomponent'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7''n Gegote stel beenplate.'
-  name: '&fPlate van Onderdeel: Been'
+  name: '&fOnderdeel: Beenplate'
   type:
   - '&7&oKomponent'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7''n Buigsame gaas van gegote metaalskakels'
-  name: '&fMalieskakels van Onderdeel:'
+  name: '&fOnderdeel: Malieskakels'
   type:
   - '&7&oKomponent'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7''n Gegote houweelkop.'
-  name: '&fKop van Onderdeel: Houweel'
+  name: '&fOnderdeel: Houweelkop'
   type:
   - '&7&oKomponent'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Herstel gebreekte voorwerpe in die Herstelbank.'
-  name: '&fHerstelstel van Onderdeel:'
+  name: '&fOnderdeel: Herstelstel'
   type:
   - '&7&oKomponent'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7''n Gegote graafkop.'
-  name: '&fGraafkop van Onderdeel:'
+  name: '&fOnderdeel: Graafkop'
   type:
   - '&7&oKomponent'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7''n Gegote swaardlem.'
-  name: '&fSwaardlem van Onderdeel:'
+  name: '&fOnderdeel: Swaardlem'
   type:
   - '&7&oKomponent'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7''n Gegote gereedskapstaaf.'
-  name: '&fGereedskapstaaf van Onderdeel:'
+  name: '&fOnderdeel: Gereedskapstaaf'
   type:
   - '&7&oKomponent'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Enige ''Wambuis''-voorwerp.'
-  name: '&fWambuis van Onderdeel:'
+  name: '&fOnderdeel: Wambuis'
   type:
   - '&7&oKomponent'
 PROP_HEAD:
   description:
   - '&7Enige ''Kop''-voorwerp (Swaardlem, Bylkop ens.)'
-  name: '&fKop van Onderdeel:'
+  name: '&fOnderdeel: Kop'
   type:
   - '&7&oKomponent'
 PROP_LINKS:
   description:
   - '&7Enige ''Malieskakel''-voorwerp.'
-  name: '&fMalieskakels van Onderdeel:'
+  name: '&fOnderdeel: Malieskakels'
   type:
   - '&7&oKomponent'
 PROP_PLATES:
   description:
   - '&7Enige ''Plaat''-voorwerp (Helmplate, Stewelplate ens.)'
-  name: '&fPlate van Onderdeel:'
+  name: '&fOnderdeel: Plate'
   type:
   - '&7&oKomponent'
 PROP_ROD:
   description:
   - '&7Enige ''Gereedskapstaaf''-voorwerp.'
-  name: '&fGereedskapstaaf van Onderdeel:'
+  name: '&fOnderdeel: Gereedskapstaaf'
   type:
   - '&7&oKomponent'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

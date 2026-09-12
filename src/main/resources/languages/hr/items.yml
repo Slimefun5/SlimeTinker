@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Lijevana glava sjekire.'
-  name: '&fGlava sjekire od Dio:'
+  name: '&fDio: Glava sjekire'
   type:
   - '&7&oKomponenta'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Vezivo koje drži dijelove na okupu.'
-  name: '&fVezivo od Dio:'
+  name: '&fDio: Vezivo'
   type:
   - '&7&oKomponenta'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Lijevani komplet ploča nogavica.'
-  name: '&fPloče od Dio: Čizma'
+  name: '&fDio: Ploče čizama'
   type:
   - '&7&oKomponenta'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Lijevani komplet ploča prsnog oklopa.'
-  name: '&fPloče od Dio: Prsa'
+  name: '&fDio: Ploče prsnog oklopa'
   type:
   - '&7&oKomponenta'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Tkani odjevni sloj ispod oklopa'
-  name: '&fGambezon od Dio:'
+  name: '&fDio: Gambezon'
   type:
   - '&7&oKomponenta'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Lijevani komplet ploča kacige.'
-  name: '&fPloče kacige od Dio:'
+  name: '&fDio: Ploče kacige'
   type:
   - '&7&oKomponenta'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Lijevana glava motike.'
-  name: '&fGlava motike od Dio:'
+  name: '&fDio: Glava motike'
   type:
   - '&7&oKomponenta'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Lijevani komplet ploča nogavica.'
-  name: '&fPloče od Dio: Noga'
+  name: '&fDio: Ploče nogavica'
   type:
   - '&7&oKomponenta'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Savitljiva mreža lijevanih metalnih karika'
-  name: '&fKarike od Dio:'
+  name: '&fDio: Karike'
   type:
   - '&7&oKomponenta'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Lijevana glava pijuka.'
-  name: '&fGlava od Dio: Pijuk'
+  name: '&fDio: Glava pijuka'
   type:
   - '&7&oKomponenta'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Popravlja slomljene predmete na stolu za popravke.'
-  name: '&fPopravni komplet od Dio:'
+  name: '&fDio: Popravni komplet'
   type:
   - '&7&oKomponenta'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Lijevana glava lopate.'
-  name: '&fGlava lopate od Dio:'
+  name: '&fDio: Glava lopate'
   type:
   - '&7&oKomponenta'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Lijevana oštrica mača.'
-  name: '&fOštrica mača od Dio:'
+  name: '&fDio: Oštrica mača'
   type:
   - '&7&oKomponenta'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Lijevana šipka alata.'
-  name: '&fŠipka alata od Dio:'
+  name: '&fDio: Šipka alata'
   type:
   - '&7&oKomponenta'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Bilo koji predmet vrste Gambezon.'
-  name: '&fGambezon od Dio:'
+  name: '&fDio: Gambezon'
   type:
   - '&7&oKomponenta'
 PROP_HEAD:
   description:
   - '&7Bilo koji predmet vrste Glava (oštrica mača, glava sjekire itd.)'
-  name: '&fGlava od Dio:'
+  name: '&fDio: Glava'
   type:
   - '&7&oKomponenta'
 PROP_LINKS:
   description:
   - '&7Bilo koji predmet vrste Karika.'
-  name: '&fKarike od Dio:'
+  name: '&fDio: Karike'
   type:
   - '&7&oKomponenta'
 PROP_PLATES:
   description:
   - '&7Bilo koji predmet vrste Ploča (ploče kacige, ploče čizama itd.)'
-  name: '&fPloče od Dio:'
+  name: '&fDio: Ploče'
   type:
   - '&7&oKomponenta'
 PROP_ROD:
   description:
   - '&7Bilo koji predmet vrste Šipka alata.'
-  name: '&fŠipka alata od Dio:'
+  name: '&fDio: Šipka alata'
   type:
   - '&7&oKomponenta'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

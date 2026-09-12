@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Излеана глава на секира.'
-  name: '&fГлава на секира Дел:'
+  name: '&fДел: Глава на секира'
   type:
   - '&7&oКомпонента'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Врзиво што ги држи деловите заедно.'
-  name: '&fВрзиво Дел:'
+  name: '&fДел: Врзиво'
   type:
   - '&7&oКомпонента'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Излеан комплет плочи за нозе.'
-  name: '&fПлочи Дел: чизма'
+  name: '&fДел: Плочи за чизми'
   type:
   - '&7&oКомпонента'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Излеан комплет плочи за гради.'
-  name: '&fПлочи Дел: гради'
+  name: '&fДел: Плочи за гради'
   type:
   - '&7&oКомпонента'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Ткаенина што се носи под оклопот'
-  name: '&fГамбезон Дел:'
+  name: '&fДел: Гамбезон'
   type:
   - '&7&oКомпонента'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Излеан комплет плочи за шлем.'
-  name: '&fПлочи за шлем Дел:'
+  name: '&fДел: Плочи за шлем'
   type:
   - '&7&oКомпонента'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Излеана глава на мотика.'
-  name: '&fГлава на мотика Дел:'
+  name: '&fДел: Глава на мотика'
   type:
   - '&7&oКомпонента'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Излеан комплет плочи за нозе.'
-  name: '&fПлочи Дел: нога'
+  name: '&fДел: Плочи за нозе'
   type:
   - '&7&oКомпонента'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Гибава мрежа од излеани метални алки'
-  name: '&fВерижни алки Дел:'
+  name: '&fДел: Верижни алки'
   type:
   - '&7&oКомпонента'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Излеана глава на кирка.'
-  name: '&fГлава Дел: кирка'
+  name: '&fДел: Глава на кирка'
   type:
   - '&7&oКомпонента'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Поправа скршени предмети на клупата за поправка.'
-  name: '&fКомплет за поправка Дел:'
+  name: '&fДел: Комплет за поправка'
   type:
   - '&7&oКомпонента'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Излеана глава на лопата.'
-  name: '&fГлава на лопата Дел:'
+  name: '&fДел: Глава на лопата'
   type:
   - '&7&oКомпонента'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Излеано сечило на меч.'
-  name: '&fСечило на меч Дел:'
+  name: '&fДел: Сечило на меч'
   type:
   - '&7&oКомпонента'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Излеана алатска дршка.'
-  name: '&fАлатска дршка Дел:'
+  name: '&fДел: Алатска дршка'
   type:
   - '&7&oКомпонента'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Кој било предмет „Гамбезон“.'
-  name: '&fГамбезон Дел:'
+  name: '&fДел: Гамбезон'
   type:
   - '&7&oКомпонента'
 PROP_HEAD:
   description:
   - '&7Кој било предмет „Глава“ (сечило на меч, глава на секира итн.)'
-  name: '&fГлава Дел:'
+  name: '&fДел: Глава'
   type:
   - '&7&oКомпонента'
 PROP_LINKS:
   description:
   - '&7Кој било предмет „Верижни алки“.'
-  name: '&fВерижни алки Дел:'
+  name: '&fДел: Верижни алки'
   type:
   - '&7&oКомпонента'
 PROP_PLATES:
   description:
   - '&7Кој било предмет „Плочи“ (плочи за шлем, плочи за чизми итн.)'
-  name: '&fПлочи Дел:'
+  name: '&fДел: Плочи'
   type:
   - '&7&oКомпонента'
 PROP_ROD:
   description:
   - '&7Кој било предмет „Алатска дршка“.'
-  name: '&fАлатска дршка Дел:'
+  name: '&fДел: Алатска дршка'
   type:
   - '&7&oКомпонента'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

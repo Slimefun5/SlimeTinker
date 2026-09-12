@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7قالبی برای سر تبر.'
-  name: '&fسر تبر بخش:'
+  name: '&fبخش: سر تبر'
   type:
   - '&7&oقطعه'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7بندی برای نگه داشتن بخش‌ها کنار هم.'
-  name: '&fبند بخش:'
+  name: '&fبخش: بند'
   type:
   - '&7&oقطعه'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7قالبی برای یک دست صفحات ساق‌پوش.'
-  name: '&fصفحات بخش: چکمه'
+  name: '&fبخش: صفحات چکمه'
   type:
   - '&7&oقطعه'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7قالبی برای یک دست صفحات سینه‌پوش.'
-  name: '&fصفحات بخش: سینه'
+  name: '&fبخش: صفحات سینه‌پوش'
   type:
   - '&7&oقطعه'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7جامه‌ای پارچه‌ای برای زیر زره'
-  name: '&fزیرزره بخش:'
+  name: '&fبخش: زیرزره'
   type:
   - '&7&oقطعه'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7قالبی برای یک دست صفحات کلاهخود.'
-  name: '&fصفحات کلاهخود بخش:'
+  name: '&fبخش: صفحات کلاهخود'
   type:
   - '&7&oقطعه'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7قالبی برای سر کج‌بیل.'
-  name: '&fسر کج‌بیل بخش:'
+  name: '&fبخش: سر کج‌بیل'
   type:
   - '&7&oقطعه'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7قالبی برای یک دست صفحات ساق‌پوش.'
-  name: '&fصفحات بخش: ساق'
+  name: '&fبخش: صفحات ساق‌پوش'
   type:
   - '&7&oقطعه'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7توری نرمی از حلقه‌های فلزی قالب‌ریزی‌شده'
-  name: '&fحلقه‌های زره بخش:'
+  name: '&fبخش: حلقه‌های زره'
   type:
   - '&7&oقطعه'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7قالبی برای سر کلنگ.'
-  name: '&fسر بخش: کلنگ'
+  name: '&fبخش: سر کلنگ'
   type:
   - '&7&oقطعه'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7اشیای شکسته را در میز تعمیر درست می‌کند.'
-  name: '&fبسته تعمیر بخش:'
+  name: '&fبخش: بسته تعمیر'
   type:
   - '&7&oقطعه'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7قالبی برای سر بیل.'
-  name: '&fسر بیل بخش:'
+  name: '&fبخش: سر بیل'
   type:
   - '&7&oقطعه'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7قالبی برای تیغه شمشیر.'
-  name: '&fتیغه شمشیر بخش:'
+  name: '&fبخش: تیغه شمشیر'
   type:
   - '&7&oقطعه'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7قالبی برای میله ابزار.'
-  name: '&fمیله ابزار بخش:'
+  name: '&fبخش: میله ابزار'
   type:
   - '&7&oقطعه'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7هر شیء «زیرزره».'
-  name: '&fزیرزره بخش:'
+  name: '&fبخش: زیرزره'
   type:
   - '&7&oقطعه'
 PROP_HEAD:
   description:
   - '&7هر شیء «سر» (تیغه شمشیر، سر تبر و مانند آن)'
-  name: '&fسر بخش:'
+  name: '&fبخش: سر'
   type:
   - '&7&oقطعه'
 PROP_LINKS:
   description:
   - '&7هر شیء «حلقه زره».'
-  name: '&fحلقه‌های زره بخش:'
+  name: '&fبخش: حلقه‌های زره'
   type:
   - '&7&oقطعه'
 PROP_PLATES:
   description:
   - '&7هر شیء «صفحه» (صفحات کلاهخود، صفحات چکمه و مانند آن)'
-  name: '&fصفحات بخش:'
+  name: '&fبخش: صفحات'
   type:
   - '&7&oقطعه'
 PROP_ROD:
   description:
   - '&7هر شیء «میله ابزار».'
-  name: '&fمیله ابزار بخش:'
+  name: '&fبخش: میله ابزار'
   type:
   - '&7&oقطعه'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

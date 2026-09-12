@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Isang hinulmang ulo ng palakol.'
-  name: '&fUlo ng Palakol na Bahagi:'
+  name: '&fBahagi: Ulo ng Palakol'
   type:
   - '&7&oBahagi'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Isang tali upang pagdugtungin ang mga bahagi.'
-  name: '&fTaling Bahagi:'
+  name: '&fBahagi: Tali'
   type:
   - '&7&oBahagi'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Isang hinulmang hanay ng plaka ng binti.'
-  name: '&fPlakang Bahagi: Bota'
+  name: '&fBahagi: Plaka ng Bota'
   type:
   - '&7&oBahagi'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Isang hinulmang hanay ng plaka ng dibdib.'
-  name: '&fPlakang Bahagi: Dibdib'
+  name: '&fBahagi: Plaka ng Dibdib'
   type:
   - '&7&oBahagi'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Isang kasuotang tela sa ilalim ng baluti'
-  name: '&fGambesong Bahagi:'
+  name: '&fBahagi: Gambeson'
   type:
   - '&7&oBahagi'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Isang hinulmang hanay ng plaka ng kasko.'
-  name: '&fPlaka ng Kaskong Bahagi:'
+  name: '&fBahagi: Plaka ng Kasko'
   type:
   - '&7&oBahagi'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Isang hinulmang ulo ng asarol.'
-  name: '&fUlo ng Asarol na Bahagi:'
+  name: '&fBahagi: Ulo ng Asarol'
   type:
   - '&7&oBahagi'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Isang hinulmang hanay ng plaka ng binti.'
-  name: '&fPlakang Bahagi: Binti'
+  name: '&fBahagi: Plaka ng Binti'
   type:
   - '&7&oBahagi'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Isang malambot na lambat ng hinulmang kawing na metal'
-  name: '&fKawing na Bahagi:'
+  name: '&fBahagi: Kawing'
   type:
   - '&7&oBahagi'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Isang hinulmang ulo ng piko.'
-  name: '&fUlong Bahagi: Piko'
+  name: '&fBahagi: Ulo ng Piko'
   type:
   - '&7&oBahagi'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Kinukumpuni ang mga sirang bagay sa Mesang Pangkumpuni.'
-  name: '&fPangkumpuning Bahagi:'
+  name: '&fBahagi: Pangkumpuni'
   type:
   - '&7&oBahagi'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Isang hinulmang ulo ng pala.'
-  name: '&fUlo ng Palang Bahagi:'
+  name: '&fBahagi: Ulo ng Pala'
   type:
   - '&7&oBahagi'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Isang hinulmang talim ng espada.'
-  name: '&fTalim ng Espadang Bahagi:'
+  name: '&fBahagi: Talim ng Espada'
   type:
   - '&7&oBahagi'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Isang hinulmang baras ng kasangkapan.'
-  name: '&fBaras ng Kasangkapang Bahagi:'
+  name: '&fBahagi: Baras ng Kasangkapan'
   type:
   - '&7&oBahagi'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Anumang bagay na ''Gambeson''.'
-  name: '&fGambesong Bahagi:'
+  name: '&fBahagi: Gambeson'
   type:
   - '&7&oBahagi'
 PROP_HEAD:
   description:
   - '&7Anumang bagay na ''Ulo'' (Talim ng Espada, Ulo ng Palakol atbp.)'
-  name: '&fUlong Bahagi:'
+  name: '&fBahagi: Ulo'
   type:
   - '&7&oBahagi'
 PROP_LINKS:
   description:
   - '&7Anumang bagay na ''Kawing''.'
-  name: '&fKawing na Bahagi:'
+  name: '&fBahagi: Kawing'
   type:
   - '&7&oBahagi'
 PROP_PLATES:
   description:
   - '&7Anumang bagay na ''Plaka'' (Plaka ng Kasko, Plaka ng Bota atbp.)'
-  name: '&fPlakang Bahagi:'
+  name: '&fBahagi: Plaka'
   type:
   - '&7&oBahagi'
 PROP_ROD:
   description:
   - '&7Anumang bagay na ''Baras ng Kasangkapan''.'
-  name: '&fBaras ng Kasangkapang Bahagi:'
+  name: '&fBahagi: Baras ng Kasangkapan'
   type:
   - '&7&oBahagi'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

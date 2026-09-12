@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Cetakan untuk kepala kapak.'
-  name: '&fKepala Kapak Bagian:'
+  name: '&fBagian: Kepala Kapak'
   type:
   - '&7&oKomponen'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Pengikat untuk menyatukan bagian-bagian.'
-  name: '&fPengikat Bagian:'
+  name: '&fBagian: Pengikat'
   type:
   - '&7&oKomponen'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Cetakan untuk satu set pelat zirah kaki.'
-  name: '&fPelat Bagian: Sepatu Bot'
+  name: '&fBagian: Pelat Sepatu Bot'
   type:
   - '&7&oKomponen'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Cetakan untuk satu set pelat zirah dada.'
-  name: '&fPelat Bagian: Dada'
+  name: '&fBagian: Pelat Zirah Dada'
   type:
   - '&7&oKomponen'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Pakaian kain yang dikenakan di balik zirah'
-  name: '&fGambeson Bagian:'
+  name: '&fBagian: Gambeson'
   type:
   - '&7&oKomponen'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Cetakan untuk satu set pelat helm.'
-  name: '&fPelat Helm Bagian:'
+  name: '&fBagian: Pelat Helm'
   type:
   - '&7&oKomponen'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Cetakan untuk kepala cangkul.'
-  name: '&fKepala Cangkul Bagian:'
+  name: '&fBagian: Kepala Cangkul'
   type:
   - '&7&oKomponen'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Cetakan untuk satu set pelat zirah kaki.'
-  name: '&fPelat Bagian: Kaki'
+  name: '&fBagian: Pelat Zirah Kaki'
   type:
   - '&7&oKomponen'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Jalinan lentur dari mata rantai logam cetak'
-  name: '&fMata Rantai Bagian:'
+  name: '&fBagian: Mata Rantai'
   type:
   - '&7&oKomponen'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Cetakan untuk kepala beliung.'
-  name: '&fKepala Bagian: Beliung'
+  name: '&fBagian: Kepala Beliung'
   type:
   - '&7&oKomponen'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Memperbaiki barang yang rusak di Meja Perbaikan.'
-  name: '&fPeralatan Perbaikan Bagian:'
+  name: '&fBagian: Peralatan Perbaikan'
   type:
   - '&7&oKomponen'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Cetakan untuk kepala sekop.'
-  name: '&fKepala Sekop Bagian:'
+  name: '&fBagian: Kepala Sekop'
   type:
   - '&7&oKomponen'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Cetakan untuk bilah pedang.'
-  name: '&fBilah Pedang Bagian:'
+  name: '&fBagian: Bilah Pedang'
   type:
   - '&7&oKomponen'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Cetakan untuk batang alat.'
-  name: '&fBatang Alat Bagian:'
+  name: '&fBagian: Batang Alat'
   type:
   - '&7&oKomponen'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Barang ''Gambeson'' apa pun.'
-  name: '&fGambeson Bagian:'
+  name: '&fBagian: Gambeson'
   type:
   - '&7&oKomponen'
 PROP_HEAD:
   description:
   - '&7Barang ''Kepala'' apa pun (Bilah Pedang, Kepala Kapak, dll.)'
-  name: '&fKepala Bagian:'
+  name: '&fBagian: Kepala'
   type:
   - '&7&oKomponen'
 PROP_LINKS:
   description:
   - '&7Barang ''Mata Rantai'' apa pun.'
-  name: '&fMata Rantai Bagian:'
+  name: '&fBagian: Mata Rantai'
   type:
   - '&7&oKomponen'
 PROP_PLATES:
   description:
   - '&7Barang ''Pelat'' apa pun (Pelat Helm, Pelat Sepatu Bot, dll.)'
-  name: '&fPelat Bagian:'
+  name: '&fBagian: Pelat'
   type:
   - '&7&oKomponen'
 PROP_ROD:
   description:
   - '&7Barang ''Batang Alat'' apa pun.'
-  name: '&fBatang Alat Bagian:'
+  name: '&fBagian: Batang Alat'
   type:
   - '&7&oKomponen'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

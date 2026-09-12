@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7ראש גרזן יצוק.'
-  name: '&fראש גרזן מחלק:'
+  name: '&fחלק: ראש גרזן'
   type:
   - '&7&oרכיב'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7איגוד שמחזיק את החלקים יחד.'
-  name: '&fאיגוד מחלק:'
+  name: '&fחלק: איגוד'
   type:
   - '&7&oרכיב'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7סט לוחות מכנסי שריון יצוקים.'
-  name: '&fלוחות מחלק: מגף'
+  name: '&fחלק: לוחות מגפיים'
   type:
   - '&7&oרכיב'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7סט לוחות שריון חזה יצוקים.'
-  name: '&fלוחות מחלק: חזה'
+  name: '&fחלק: לוחות שריון חזה'
   type:
   - '&7&oרכיב'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7בגד בד הנלבש מתחת לשריון'
-  name: '&fגמבזון מחלק:'
+  name: '&fחלק: גמבזון'
   type:
   - '&7&oרכיב'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7סט לוחות קסדה יצוקים.'
-  name: '&fלוחות קסדה מחלק:'
+  name: '&fחלק: לוחות קסדה'
   type:
   - '&7&oרכיב'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7ראש מעדר יצוק.'
-  name: '&fראש מעדר מחלק:'
+  name: '&fחלק: ראש מעדר'
   type:
   - '&7&oרכיב'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7סט לוחות מכנסי שריון יצוקים.'
-  name: '&fלוחות מחלק: רגל'
+  name: '&fחלק: לוחות מכנסי שריון'
   type:
   - '&7&oרכיב'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7רשת גמישה של חוליות מתכת יצוקות'
-  name: '&fחוליות שריון מחלק:'
+  name: '&fחלק: חוליות שריון'
   type:
   - '&7&oרכיב'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7ראש מכוש יצוק.'
-  name: '&fראש מחלק: מכוש'
+  name: '&fחלק: ראש מכוש'
   type:
   - '&7&oרכיב'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7מתקן פריטים שבורים בשולחן התיקונים.'
-  name: '&fערכת תיקון מחלק:'
+  name: '&fחלק: ערכת תיקון'
   type:
   - '&7&oרכיב'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7ראש את חפירה יצוק.'
-  name: '&fראש את חפירה מחלק:'
+  name: '&fחלק: ראש את חפירה'
   type:
   - '&7&oרכיב'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7להב חרב יצוק.'
-  name: '&fלהב חרב מחלק:'
+  name: '&fחלק: להב חרב'
   type:
   - '&7&oרכיב'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7מוט כלי יצוק.'
-  name: '&fמוט כלי מחלק:'
+  name: '&fחלק: מוט כלי'
   type:
   - '&7&oרכיב'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7כל פריט מסוג גמבזון.'
-  name: '&fגמבזון מחלק:'
+  name: '&fחלק: גמבזון'
   type:
   - '&7&oרכיב'
 PROP_HEAD:
   description:
   - '&7כל פריט מסוג ראש (להב חרב, ראש גרזן וכדומה)'
-  name: '&fראש מחלק:'
+  name: '&fחלק: ראש'
   type:
   - '&7&oרכיב'
 PROP_LINKS:
   description:
   - '&7כל פריט מסוג חוליית שריון.'
-  name: '&fחוליות שריון מחלק:'
+  name: '&fחלק: חוליות שריון'
   type:
   - '&7&oרכיב'
 PROP_PLATES:
   description:
   - '&7כל פריט מסוג לוח (לוחות קסדה, לוחות מגפיים וכדומה)'
-  name: '&fלוחות מחלק:'
+  name: '&fחלק: לוחות'
   type:
   - '&7&oרכיב'
 PROP_ROD:
   description:
   - '&7כל פריט מסוג מוט כלי.'
-  name: '&fמוט כלי מחלק:'
+  name: '&fחלק: מוט כלי'
   type:
   - '&7&oרכיב'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

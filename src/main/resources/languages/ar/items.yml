@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7رأس فأس مصبوب.'
-  name: '&fرأس فأس من جزء:'
+  name: '&fجزء: رأس فأس'
   type:
   - '&7&oمكون'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7رباط يُمسك الأجزاء معًا.'
-  name: '&fرباط من جزء:'
+  name: '&fجزء: رباط'
   type:
   - '&7&oمكون'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7طقم صفائح سروال مصبوب.'
-  name: '&fصفائح من جزء: حذاء'
+  name: '&fجزء: صفائح حذاء'
   type:
   - '&7&oمكون'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7طقم صفائح صدر مصبوب.'
-  name: '&fصفائح من جزء: صدر'
+  name: '&fجزء: صفائح درع صدر'
   type:
   - '&7&oمكون'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7ثوب قماشي يُلبس تحت الدرع'
-  name: '&fجُبّة مبطّنة من جزء:'
+  name: '&fجزء: جُبّة مبطّنة'
   type:
   - '&7&oمكون'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7طقم صفائح خوذة مصبوب.'
-  name: '&fصفائح خوذة من جزء:'
+  name: '&fجزء: صفائح خوذة'
   type:
   - '&7&oمكون'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7رأس معزقة مصبوب.'
-  name: '&fرأس معزقة من جزء:'
+  name: '&fجزء: رأس معزقة'
   type:
   - '&7&oمكون'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7طقم صفائح سروال مصبوب.'
-  name: '&fصفائح من جزء: ساق'
+  name: '&fجزء: صفائح سروال'
   type:
   - '&7&oمكون'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7شبكة مرنة من حلقات معدنية مصبوبة'
-  name: '&fحلقات زَرَد من جزء:'
+  name: '&fجزء: حلقات زَرَد'
   type:
   - '&7&oمكون'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7رأس معول مصبوب.'
-  name: '&fرأس من جزء: معول'
+  name: '&fجزء: رأس معول'
   type:
   - '&7&oمكون'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7يصلح الأغراض المحطّمة في منضدة الإصلاح.'
-  name: '&fعُدّة إصلاح من جزء:'
+  name: '&fجزء: عُدّة إصلاح'
   type:
   - '&7&oمكون'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7رأس مجرفة مصبوب.'
-  name: '&fرأس مجرفة من جزء:'
+  name: '&fجزء: رأس مجرفة'
   type:
   - '&7&oمكون'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7نصل سيف مصبوب.'
-  name: '&fنصل سيف من جزء:'
+  name: '&fجزء: نصل سيف'
   type:
   - '&7&oمكون'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7قضيب أداة مصبوب.'
-  name: '&fقضيب أداة من جزء:'
+  name: '&fجزء: قضيب أداة'
   type:
   - '&7&oمكون'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7أي غرض من نوع «جُبّة مبطّنة».'
-  name: '&fجُبّة مبطّنة من جزء:'
+  name: '&fجزء: جُبّة مبطّنة'
   type:
   - '&7&oمكون'
 PROP_HEAD:
   description:
   - '&7أي غرض من نوع «رأس» (نصل سيف، رأس فأس، وغيرها).'
-  name: '&fرأس من جزء:'
+  name: '&fجزء: رأس'
   type:
   - '&7&oمكون'
 PROP_LINKS:
   description:
   - '&7أي غرض من نوع «حلقة زَرَد».'
-  name: '&fحلقات زَرَد من جزء:'
+  name: '&fجزء: حلقات زَرَد'
   type:
   - '&7&oمكون'
 PROP_PLATES:
   description:
   - '&7أي غرض من نوع «صفيحة» (صفائح خوذة، صفائح حذاء، وغيرها).'
-  name: '&fصفائح من جزء:'
+  name: '&fجزء: صفائح'
   type:
   - '&7&oمكون'
 PROP_ROD:
   description:
   - '&7أي غرض من نوع «قضيب أداة».'
-  name: '&fقضيب أداة من جزء:'
+  name: '&fجزء: قضيب أداة'
   type:
   - '&7&oمكون'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:

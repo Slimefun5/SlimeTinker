@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Liets kājbruņu plākšņu komplekts.'
-  name: '&fZābaku plāksnes'
+  name: '&fDaļa: Zābaku plāksnes'
   type:
   - '&7&oSastāvdaļa'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Liets krūšu bruņu plākšņu komplekts.'
-  name: '&fKrūšu bruņu plāksnes'
+  name: '&fDaļa: Krūšu bruņu plāksnes'
   type:
   - '&7&oSastāvdaļa'
 PART_GAMBESON_CARBON_MESH:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Liets kājbruņu plākšņu komplekts.'
-  name: '&fKājbruņu plāksnes'
+  name: '&fDaļa: Kājbruņu plāksnes'
   type:
   - '&7&oSastāvdaļa'
 PART_LINKS_ADAMANTITE:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Lieta cērtes galva.'
-  name: '&fCērtes galva'
+  name: '&fDaļa: Cērtes galva'
   type:
   - '&7&oSastāvdaļa'
 PART_PLATES_BOOTSADAMANTITE:

@@ -3084,7 +3084,7 @@ PART_AXE_HEAD:
 PART_AXE_HEAD_DUMMY:
   description:
   - '&7Uma cabeça de machado moldada.'
-  name: '&fCabeça de Machado de Peça:'
+  name: '&fPeça: Cabeça de Machado'
   type:
   - '&7&oComponente'
 PART_BINDING_CARBON_MESH:
@@ -3102,7 +3102,7 @@ PART_BINDING_CRIMSON_ROOT:
 PART_BINDING_DUMMY:
   description:
   - '&7Uma ligadura para manter as peças unidas.'
-  name: '&fLigadura de Peça:'
+  name: '&fPeça: Ligadura'
   type:
   - '&7&oComponente'
 PART_BINDING_GENERAL_DISPLAY:
@@ -3190,7 +3190,7 @@ PART_BOOTS_PLATES:
 PART_BOOT_PLATE_DUMMY:
   description:
   - '&7Um conjunto de placas de perneiras moldadas.'
-  name: '&fPlacas de Peça: Bota'
+  name: '&fPeça: Placas de Botas'
   type:
   - '&7&oComponente'
 PART_CHEST_PLATES:
@@ -3204,7 +3204,7 @@ PART_CHEST_PLATES:
 PART_CHEST_PLATE_DUMMY:
   description:
   - '&7Um conjunto de placas de peitoral moldadas.'
-  name: '&fPlacas de Peça: Peitoral'
+  name: '&fPeça: Placas de Peitoral'
   type:
   - '&7&oComponente'
 PART_GAMBESON_CARBON_MESH:
@@ -3222,7 +3222,7 @@ PART_GAMBESON_CRIMSON_ROOT:
 PART_GAMBESON_DUMMY:
   description:
   - '&7Uma peça de tecido usada por baixo da armadura'
-  name: '&fGambesão de Peça:'
+  name: '&fPeça: Gambesão'
   type:
   - '&7&oComponente'
 PART_GAMBESON_GENERAL_DISPLAY:
@@ -5050,7 +5050,7 @@ PART_HELM_PLATES:
 PART_HELM_PLATE_DUMMY:
   description:
   - '&7Um conjunto de placas de capacete moldadas.'
-  name: '&fPlacas de Capacete de Peça:'
+  name: '&fPeça: Placas de Capacete'
   type:
   - '&7&oComponente'
 PART_HOE_HEAD:
@@ -5064,7 +5064,7 @@ PART_HOE_HEAD:
 PART_HOE_HEAD_DUMMY:
   description:
   - '&7Uma cabeça de enxada moldada.'
-  name: '&fCabeça de Enxada de Peça:'
+  name: '&fPeça: Cabeça de Enxada'
   type:
   - '&7&oComponente'
 PART_LEG_PLATES:
@@ -5078,7 +5078,7 @@ PART_LEG_PLATES:
 PART_LEG_PLATE_DUMMY:
   description:
   - '&7Um conjunto de placas de perneiras moldadas.'
-  name: '&fPlacas de Peça: Perna'
+  name: '&fPeça: Placas de Perneiras'
   type:
   - '&7&oComponente'
 PART_LINKS_ADAMANTITE:
@@ -5444,7 +5444,7 @@ PART_LINKS_ZINC_SINGULARITY:
 PART_MAIL_LINKS_DUMMY:
   description:
   - '&7Uma malha flexível de elos de metal moldado'
-  name: '&fElos de Malha de Peça:'
+  name: '&fPeça: Elos de Malha'
   type:
   - '&7&oComponente'
 PART_PICKAXE_HEAD:
@@ -5458,7 +5458,7 @@ PART_PICKAXE_HEAD:
 PART_PICKAXE_HEAD_DUMMY:
   description:
   - '&7Uma cabeça de picareta moldada.'
-  name: '&fCabeça de Peça: Picareta'
+  name: '&fPeça: Cabeça de Picareta'
   type:
   - '&7&oComponente'
 PART_PLATES_BOOTSADAMANTITE:
@@ -7000,7 +7000,7 @@ PART_REPAIR_KIT_DAMASCUS_STEEL:
 PART_REPAIR_KIT_DUMMY:
   description:
   - '&7Repara itens partidos na Bancada de Reparação.'
-  name: '&fEstojo de Reparação de Peça:'
+  name: '&fPeça: Estojo de Reparação'
   type:
   - '&7&oComponente'
 PART_REPAIR_KIT_DURALIUM:
@@ -7653,7 +7653,7 @@ PART_SHOVEL_HEAD:
 PART_SHOVEL_HEAD_DUMMY:
   description:
   - '&7Uma cabeça de pá moldada.'
-  name: '&fCabeça de Pá de Peça:'
+  name: '&fPeça: Cabeça de Pá'
   type:
   - '&7&oComponente'
 PART_SWORD_BLADE:
@@ -7667,7 +7667,7 @@ PART_SWORD_BLADE:
 PART_SWORD_BLADE_DUMMY:
   description:
   - '&7Uma lâmina de espada moldada.'
-  name: '&fLâmina de Espada de Peça:'
+  name: '&fPeça: Lâmina de Espada'
   type:
   - '&7&oComponente'
 PART_TOOL_ROD:
@@ -7681,7 +7681,7 @@ PART_TOOL_ROD:
 PART_TOOL_ROD_DUMMY:
   description:
   - '&7Uma haste de ferramenta moldada.'
-  name: '&fHaste de Ferramenta de Peça:'
+  name: '&fPeça: Haste de Ferramenta'
   type:
   - '&7&oComponente'
 PATHETIC_TRAIT_PROP_PLATES_SCRAP:
@@ -7736,31 +7736,31 @@ PROP_BINDING:
 PROP_GAMBESON:
   description:
   - '&7Qualquer item ''Gambesão''.'
-  name: '&fGambesão de Peça:'
+  name: '&fPeça: Gambesão'
   type:
   - '&7&oComponente'
 PROP_HEAD:
   description:
   - '&7Qualquer item ''Cabeça'' (Lâmina de Espada, Cabeça de Machado, etc.)'
-  name: '&fCabeça de Peça:'
+  name: '&fPeça: Cabeça'
   type:
   - '&7&oComponente'
 PROP_LINKS:
   description:
   - '&7Qualquer item ''Elo de Malha''.'
-  name: '&fElos de Malha de Peça:'
+  name: '&fPeça: Elos de Malha'
   type:
   - '&7&oComponente'
 PROP_PLATES:
   description:
   - '&7Qualquer item ''Placa'' (Placas de Capacete, Placas de Botas, etc.)'
-  name: '&fPlacas de Peça:'
+  name: '&fPeça: Placas'
   type:
   - '&7&oComponente'
 PROP_ROD:
   description:
   - '&7Qualquer item ''Haste de Ferramenta''.'
-  name: '&fHaste de Ferramenta de Peça:'
+  name: '&fPeça: Haste de Ferramenta'
   type:
   - '&7&oComponente'
 PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:
