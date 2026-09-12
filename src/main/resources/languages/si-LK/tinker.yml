@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: පාවහන්
+  CHESTPLATE: පපුවැසුම
+  HELMET: හිස්වැසුම
+  LEGGINGS: කලවාවැසුම
+lore:
+  added_by: එකතු කළේ
+  binder_abbrev: 'බ: '
+  gambeson_abbrev: 'ක: '
+  head_abbrev: 'හ: '
+  level: 'මට්ටම: '
+  links_abbrev: 'පු: '
+  mod_level: ' මට්ටම '
+  mod_max: ' - (උපරිම)'
+  modifier_slots: 'විකරණ කුටි: '
+  part_desc_1: මෙවලම් කොටසකි. තනිව නිෂ්ඵල වුවත්
+  part_desc_2: වඩා විශිෂ්ට දෙයක් බවට පත් කළ හැක
+  part_desc_3: ශිල්පියාගේ මේසය.
+  part_material: 'ද්‍රව්‍යය : '
+  plate_abbrev: 'ත: '
+  rod_abbrev: 'ද: '
+  sponsored_by: අනුග්‍රහය
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: උසස් මිශ්‍ර ලෝහය
+  ALUMINUM: ඇලුමිනියම්
+  ALUMINUM_BRASS: ඇලුමිනියම් පිත්තල
+  ALUMINUM_BRONZE: ඇලුමිනියම් ලෝකඩ
+  ALUMINUM_SINGULARITY: ඇලුමිනියම් ඒකීයතාව
+  ANNIVERSARIUM: Anniversarium
+  BILLON: බිලොන්
+  BOOMERITE: Boomerite
+  BRASS: පිත්තල
+  BRONZE: ලෝකඩ
+  CARBON_MESH: කාබන් දැල
+  COAL: ගල් අඟුරු
+  COBALT: කොබෝල්ට්
+  COPPER: තඹ
+  COPPER_SINGULARITY: තඹ ඒකීයතාව
+  CORINTHIAN_BRONZE: කොරින්ති ලෝකඩ
+  CRIMSON_ROOT: රතු මුල
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: දමස්කස් වානේ
+  DAXI_ABSORPTION: Daxi අවශෝෂණය
+  DAXI_FORTITUDE: Daxi ධෛර්යය
+  DAXI_REGENERATION: Daxi පුනර්ජනනය
+  DAXI_SATURATION: Daxi තෘප්තිය
+  DAXI_STRENGTH: Daxi ශක්තිය
+  DETAILED_DEVOTION: සවිස්තර භක්තිය
+  DIAMOND: දියමන්ති
+  DIAMOND_SINGULARITY: දියමන්ති ඒකීයතාව
+  DRACONIC: Draconic
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: පෘථිවි ඒකීයතාව
+  FERROSILICON: ෆෙරෝසිලිකන්
+  FLOWING_FONDNESS: ගලන ඇල්ම
+  FORTUNE_SINGULARITY: වාසනා ඒකීයතාව
+  GHOSTLY_ESSENCE: අවතාර සාරය
+  GOLD: රත්‍රන්
+  GOLD_SINGULARITY: රන් ඒකීයතාව
+  HARDENED_METAL: දැඩි ලෝහය
+  INFINITE: අනන්ත
+  INFINITY_SINGULARITY: අනන්ත ඒකීයතාව
+  INTERDIMENSIONAL_PRESENCE: අන්තර්මාන පැවැත්ම
+  IRIDIUM: ඉරිඩියම්
+  IRON: යකඩ
+  IRON_SINGULARITY: යකඩ ඒකීයතාව
+  LEAD: ඊයම්
+  LEAD_SINGULARITY: ඊයම් ඒකීයතාව
+  LEATHER: හම
+  LIQUID_CHRISTMAS: ද්‍රව නත්තල
+  LIQUID_LOVE: ද්‍රව ආදරය
+  MAGIC_SINGULARITY: මායා ඒකීයතාව
+  MAGNESIUM: මැග්නීසියම්
+  MAGNESIUM_SINGULARITY: මැග්නීසියම් ඒකීයතාව
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magsteel
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: ලෝහ ඒකීයතාව
+  MIXED_METAL: මිශ්‍ර ලෝහය
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: නිකල්
+  OSMIUM: ඔස්මියම්
+  OSMIUM_SUPERALLOY: ඔස්මියම් අධිමිශ්‍ර ලෝහය
+  PURIFIED_PASSION: පිරිසිදු ආශාව
+  REDSTONE: රතුගල
+  REDSTONE_ALLOY: රතුගල් මිශ්‍ර ලෝහය
+  REFINED_IRON: පිරිපහදු යකඩ
+  REINFORCED_ALLOY: ශක්තිමත් මිශ්‍ර ලෝහය
+  REINFORCED_DRACONIUM: ශක්තිමත් Draconium
+  REINFORCED_SLIME_STEEL: ශක්තිමත් Slime Steel
+  REMOTININIUM: Remotininium
+  RUBBER: රබර්
+  SCRAP: පරණ ලෝහය
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: සිලිකන්
+  SILVER: රිදී
+  SILVER_SINGULARITY: රිදී ඒකීයතාව
+  SLIME: ලාටු
+  SLIME_STEEL: Slime Steel
+  SMITHIUM: Smithium
+  SOLDER: පෑස්සුම් ලෝහය
+  STAINLESS_STEEL: මල නොබැඳෙන වානේ
+  STAR_DUST: තරු දූවිලි
+  STEEL: වානේ
+  STRING: නූල්
+  TESSERACTING_MATERIAL: ටෙසරැක්ට් ද්‍රව්‍යය
+  THORIUM: තෝරියම්
+  TIN: ටින්
+  TIN_SINGULARITY: ටින් ඒකීයතාව
+  TITANIUM: ටයිටේනියම්
+  TWISTED_VINE: ඇඹරුණු වැල
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Vex මැණික
+  VINE: වැල
+  VOID: ශූන්‍යය
+  WARPED_ROOT: විකෘති මුල
+  WEEPING_VINE: හඬන වැල
+  ZINC: සින්ක්
+  ZINC_SINGULARITY: සින්ක් ඒකීයතාව
+messages:
+  smeltery-incomplete: මෙම ලෝහ උදුන නිම වී නැත - දැවුණු ගඩොල් කුට්ටි 6ක්, දැවුණු ටැංකියක් සහ නාලයක් සමඟ සිරස් 3x3 සම්පූර්ණ කරන්න.
+modifiers:
+  DIAMOND: දියමන්ති
+  EMERALD: මරකත
+  LAPIS_LAZULI: ලැපිස් ලසූලි
+  MOD_PLATE: විකරණ තහඩුව
+  QUARTZ: ක්වාට්ස්
+  REDSTONE: රතුගල
+part-types:
+  BINDING: බැඳුම
+  GAMBESON: කබාය
+  HEAD_AXE: පොරොව් හිස
+  HEAD_HOE: උදැලි හිස
+  HEAD_PICK: උල්පොරොව් හිස
+  HEAD_SHOVEL: සවල් හිස
+  HEAD_SWORD: කඩු තලය
+  LINKS: දම්වැල් පුරුක්
+  PLATE_BOOTS: පාවහන් තහඩු
+  PLATE_CHESTPLATE: පපුවැසුම් තහඩු
+  PLATE_HELMET: හිස්වැසුම් තහඩු
+  PLATE_LEGGINGS: කලවා තහඩු
+  REPAIR: අලුත්වැඩියා කට්ටලය
+  ROD: මෙවලම් දණ්ඩ
+tool-types:
+  AXE: පොරොව
+  HOE: උදැල්ල
+  PICK: උල්පොරොව
+  PICKAXE: උල්පොරොව
+  SHOVEL: සවල
+  SWORD: කඩුව
