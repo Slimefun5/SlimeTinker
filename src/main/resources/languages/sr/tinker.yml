@@ -21,15 +21,15 @@ lore:
   rod_abbrev: 'Д: '
   sponsored_by: Спонзор
 materials:
-  ADAMANTITE: Adamantite
+  ADAMANTITE: Адамантит
   ADVANCED_ALLOY: Напредна легура
   ALUMINUM: Алуминијум
   ALUMINUM_BRASS: Алуминијумски месинг
   ALUMINUM_BRONZE: Алуминијумска бронза
   ALUMINUM_SINGULARITY: Алуминијумски сингуларитет
-  ANNIVERSARIUM: Anniversarium
+  ANNIVERSARIUM: Аниверзаријум
   BILLON: Билон
-  BOOMERITE: Boomerite
+  BOOMERITE: Бумерит
   BRASS: Месинг
   BRONZE: Бронза
   CARBON_MESH: Карбонска мрежа
@@ -39,18 +39,18 @@ materials:
   COPPER_SINGULARITY: Бакарни сингуларитет
   CORINTHIAN_BRONZE: Коринтска бронза
   CRIMSON_ROOT: Гримизни корен
-  CRINGLEIUM: Cringleium
+  CRINGLEIUM: Кринглијум
   DAMASCUS_STEEL: Дамаст челик
-  DAXI_ABSORPTION: Daxi апсорпција
-  DAXI_FORTITUDE: Daxi постојаност
-  DAXI_REGENERATION: Daxi регенерација
-  DAXI_SATURATION: Daxi заситост
-  DAXI_STRENGTH: Daxi снага
+  DAXI_ABSORPTION: Дакси апсорпција
+  DAXI_FORTITUDE: Дакси постојаност
+  DAXI_REGENERATION: Дакси регенерација
+  DAXI_SATURATION: Дакси заситост
+  DAXI_STRENGTH: Дакси снага
   DETAILED_DEVOTION: Изражена оданост
   DIAMOND: Дијамант
   DIAMOND_SINGULARITY: Дијамантски сингуларитет
   DRACONIC: Змајевина
-  DURALIUM: Duralium
+  DURALIUM: Дуралијум
   EARTH_SINGULARITY: Земљани сингуларитет
   FERROSILICON: Феросилицијум
   FLOWING_FONDNESS: Течна наклоност
@@ -73,13 +73,13 @@ materials:
   MAGIC_SINGULARITY: Магијски сингуларитет
   MAGNESIUM: Магнезијум
   MAGNESIUM_SINGULARITY: Магнезијумски сингуларитет
-  MAGNONIUM: Magnonium
+  MAGNONIUM: Магнонијум
   MAGSTEEL: Магчелик
   MAG_THOR: Маг Тор
   METAL_SINGULARITY: Метални сингуларитет
   MIXED_METAL: Мешани метал
-  MYTHRIL: Mythril
-  NICEINIUM: Niceinium
+  MYTHRIL: Митрил
+  NICEINIUM: Најсинијум
   NICKEL: Никл
   OSMIUM: Осмијум
   OSMIUM_SUPERALLOY: Осмијумска суперлегура
@@ -88,19 +88,19 @@ materials:
   REDSTONE_ALLOY: Легура црвеног камена
   REFINED_IRON: Прерађено гвожђе
   REINFORCED_ALLOY: Ојачана легура
-  REINFORCED_DRACONIUM: Ојачани Draconium
+  REINFORCED_DRACONIUM: Ојачани драконијум
   REINFORCED_SLIME_STEEL: Ојачани слузни челик
-  REMOTININIUM: Remotininium
+  REMOTININIUM: Ремотининијум
   RUBBER: Гума
   SCRAP: Отпад
-  SEFIRITE: Sefirite
-  SEGGANESSON: Segganesson
+  SEFIRITE: Сефирит
+  SEGGANESSON: Сеганесон
   SILICON: Силицијум
   SILVER: Сребро
   SILVER_SINGULARITY: Сребрни сингуларитет
   SLIME: Слуз
   SLIME_STEEL: Слузни челик
-  SMITHIUM: Smithium
+  SMITHIUM: Смитијум
   SOLDER: Лем
   STAINLESS_STEEL: Нерђајући челик
   STAR_DUST: Звездана прашина
@@ -112,9 +112,9 @@ materials:
   TIN_SINGULARITY: Калајни сингуларитет
   TITANIUM: Титанијум
   TWISTED_VINE: Увијена лоза
-  ULTIMANINIUM: Ultimaninium
-  UNPATENTABLIUM: Unpatentablium
-  VEX_GEM: Vex драгуљ
+  ULTIMANINIUM: Ултиманинијум
+  UNPATENTABLIUM: Унпатентаблијум
+  VEX_GEM: Вексов драгуљ
   VINE: Лоза
   VOID: Празнина
   WARPED_ROOT: Искривљени корен
