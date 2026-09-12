@@ -14,7 +14,7 @@ ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
   - '&7隨機傳送。'
   - ''
   - '&7新增者: Core SlimeTinker'
-  name: '&fAbra'
+  name: '&f阿布拉'
   type:
   - '&7&o元件'
 ACUPUNCTURE_II_TRAIT_PROP_LINKS_ZINC_SINGULARITY:
@@ -107,14 +107,14 @@ ALUMINUM_SINGULARITY_LIQUID:
   - '&7&o資源'
 ANNIVERSARIUM_ALLOY:
   description:
-  - '&7由Anniversarium熔煉而成的合金。'
-  name: '&f熔融Anniversarium'
+  - '&7由安尼維薩晶熔煉而成的合金。'
+  name: '&f熔融安尼維薩晶'
   type:
   - '&7&o資源'
 ANNIVERSARIUM_LIQUID:
   description:
-  - '&7Anniversarium的熔融型態。'
-  name: '&f熔融Anniversarium'
+  - '&7安尼維薩晶的熔融型態。'
+  name: '&f熔融安尼維薩晶'
   type:
   - '&7&o資源'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
@@ -324,7 +324,7 @@ BLOCK_CAST_ALU_BRONZE:
 BLOCK_CAST_ANNIVERSARIUM:
   description:
   - '&710 年的 (黏液) 歡樂時光！'
-  name: '&fAnniversarium方塊'
+  name: '&f安尼維薩晶方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_BILLON:
@@ -335,8 +335,8 @@ BLOCK_CAST_BILLON:
   - '&7&o資源'
 BLOCK_CAST_BOOMERITE:
   description:
-  - '&7由 Boomerite 製成的方塊'
-  name: '&fBoomerite方塊'
+  - '&7由布默石製成的方塊'
+  name: '&f布默石方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_BRASS:
@@ -371,8 +371,8 @@ BLOCK_CAST_COR_BRONZE:
   - '&7&o資源'
 BLOCK_CAST_CRINGLEIUM:
   description:
-  - '&7由 Cringleium 製成的方塊'
-  name: '&fCringleium方塊'
+  - '&7由克林格晶製成的方塊'
+  name: '&f克林格晶方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_DAMASCUS_STEEL:
@@ -383,8 +383,8 @@ BLOCK_CAST_DAMASCUS_STEEL:
   - '&7&o資源'
 BLOCK_CAST_DURALIUM:
   description:
-  - '&7由 Duralium 製成的方塊'
-  name: '&fDuralium方塊'
+  - '&7由杜拉晶製成的方塊'
+  name: '&f杜拉晶方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_FERROSILICON:
@@ -432,8 +432,8 @@ BLOCK_CAST_MAGNESIUM:
   - '&7&o資源'
 BLOCK_CAST_MAGNONIUM:
   description:
-  - '&7由Magnonium製成的方塊。'
-  name: '&fMagnonium方塊'
+  - '&7由馬格諾晶製成的方塊。'
+  name: '&f馬格諾晶方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_MAGSTEEL:
@@ -523,8 +523,8 @@ BLOCK_CAST_SCRAP:
   - '&7&o資源'
 BLOCK_CAST_SEFIRITE:
   description:
-  - '&7由 Sefirite 製成的方塊'
-  name: '&fSefirite方塊'
+  - '&7由塞菲石製成的方塊'
+  name: '&f塞菲石方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_SILVER:
@@ -543,7 +543,7 @@ BLOCK_CAST_SMITHIUM:
   description:
   - '&7樸實無華、用途廣泛的金屬'
   - '&7在核心工業作業之中。'
-  name: '&fSmithium方塊'
+  name: '&f史密晶方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_SOLDER:
@@ -578,8 +578,8 @@ BLOCK_CAST_TITANIUM:
   - '&7&o資源'
 BLOCK_CAST_UNPATENTABILUM:
   description:
-  - '&7一塊 Unpatentabilum 方塊'
-  name: '&fUnpatentabilum方塊'
+  - '&7一塊安帕騰比倫方塊'
+  name: '&f安帕騰比倫方塊'
   type:
   - '&7&o資源'
 BLOCK_CAST_VOID:
@@ -596,14 +596,14 @@ BLOCK_CAST_ZINC:
   - '&7&o資源'
 BOOMERITE_ALLOY:
   description:
-  - '&7由Boomerite熔煉而成的合金。'
-  name: '&f熔融Boomerite'
+  - '&7由布默石熔煉而成的合金。'
+  name: '&f熔融布默石'
   type:
   - '&7&o資源'
 BOOMERITE_LIQUID:
   description:
-  - '&7Boomerite的熔融型態。'
-  name: '&f熔融Boomerite'
+  - '&7布默石的熔融型態。'
+  name: '&f熔融布默石'
   type:
   - '&7&o資源'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
@@ -1110,14 +1110,14 @@ CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
   - '&7&o元件'
 CRINGLEIUM_ALLOY:
   description:
-  - '&7由Cringleium熔煉而成的合金。'
-  name: '&f熔融Cringleium'
+  - '&7由克林格晶熔煉而成的合金。'
+  name: '&f熔融克林格晶'
   type:
   - '&7&o資源'
 CRINGLEIUM_LIQUID:
   description:
-  - '&7Cringleium的熔融型態。'
-  name: '&f熔融Cringleium'
+  - '&7克林格晶的熔融型態。'
+  name: '&f熔融克林格晶'
   type:
   - '&7&o資源'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
@@ -1386,14 +1386,14 @@ DURABLE_TRAIT_PROP_ROD_TITANIUM:
   - '&7&o元件'
 DURALIUM_ALLOY:
   description:
-  - '&7由Duralium熔煉而成的合金。'
-  name: '&f熔融Duralium'
+  - '&7由杜拉晶熔煉而成的合金。'
+  name: '&f熔融杜拉晶'
   type:
   - '&7&o資源'
 DURALIUM_LIQUID:
   description:
-  - '&7Duralium的熔融型態。'
-  name: '&f熔融Duralium'
+  - '&7杜拉晶的熔融型態。'
+  name: '&f熔融杜拉晶'
   type:
   - '&7&o資源'
 DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
@@ -2058,55 +2058,55 @@ INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
   - '&7這件工具有點不對勁。'
   - ''
   - '&7新增者: Core SlimeTinker'
-  name: '&fIngheights'
+  name: '&f英海茲'
   type:
   - '&7&o元件'
 INGOT_CAST_ANNIVERSARIUM:
   description:
   - '&710 年的 (黏液) 歡樂時光！'
-  name: '&fAnniversarium錠'
+  name: '&f安尼維薩晶錠'
   type:
   - '&7&o資源'
 INGOT_CAST_BOOMERITE:
   description:
   - '&7極為稀有的金屬錠，來歷不明。'
-  name: '&fBoomerite錠'
+  name: '&f布默石錠'
   type:
   - '&7&o資源'
 INGOT_CAST_CRINGLEIUM:
   description:
   - '&7只在短時間內現身的節慶金屬錠。'
-  name: '&fCringleium錠'
+  name: '&f克林格晶錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_ABSORPTION:
   description:
-  - '&7散發著堅毅氣息的 Daxi 錠。'
-  name: '&f吸收 Daxi 錠'
+  - '&7散發著堅毅氣息的達西錠。'
+  name: '&f吸收達西錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_FORTITUDE:
   description:
-  - '&7散發著不屈氣息的 Daxi 錠。'
-  name: '&f堅毅 Daxi 錠'
+  - '&7散發著不屈氣息的達西錠。'
+  name: '&f堅毅達西錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_REGENERATION:
   description:
-  - '&7散發著仁慈氣息的 Daxi 錠。'
-  name: '&f再生 Daxi 錠'
+  - '&7散發著仁慈氣息的達西錠。'
+  name: '&f再生達西錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_SATURATION:
   description:
-  - '&7散發著暖意的 Daxi 錠。'
-  name: '&f飽食 Daxi 錠'
+  - '&7散發著暖意的達西錠。'
+  name: '&f飽食達西錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DAXI_STRENGTH:
   description:
-  - '&7散發著力量氣息的 Daxi 錠。'
-  name: '&f力量 Daxi 錠'
+  - '&7散發著力量氣息的達西錠。'
+  name: '&f力量達西錠'
   type:
   - '&7&o資源'
 INGOT_CAST_DEVOTION:
@@ -2153,14 +2153,14 @@ INGOT_CAST_REINFORCED_DRACONIUM:
 INGOT_CAST_SEFIRITE:
   description:
   - '&7只在短時間內現身的金屬錠。'
-  name: '&fSefirite錠'
+  name: '&f塞菲石錠'
   type:
   - '&7&o資源'
 INGOT_CAST_SMITHIUM:
   description:
   - '&7樸實無華、用途廣泛的金屬'
   - '&7在核心工業作業之中。'
-  name: '&fSmithium錠'
+  name: '&f史密晶錠'
   type:
   - '&7&o資源'
 INSULATED_TRAIT_PROP_BINDING_RUBBER:
@@ -2437,8 +2437,8 @@ MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
   - '&7&o元件'
 MAGNONIUM_LIQUID:
   description:
-  - '&7Magnonium的熔融型態。'
-  name: '&f熔融Magnonium'
+  - '&7馬格諾晶的熔融型態。'
+  name: '&f熔融馬格諾晶'
   type:
   - '&7&o資源'
 MAGSTEEL_ALLOY:
@@ -2624,14 +2624,14 @@ NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
   - '&7&o元件'
 NICEINIUM_ALLOY:
   description:
-  - '&7由Niceinium熔煉而成的合金。'
-  name: '&f熔融Niceinium'
+  - '&7由奈斯尼晶熔煉而成的合金。'
+  name: '&f熔融奈斯尼晶'
   type:
   - '&7&o資源'
 NICEINIUM_LIQUID:
   description:
-  - '&7Niceinium的熔融型態。'
-  name: '&f熔融Niceinium'
+  - '&7奈斯尼晶的熔融型態。'
+  name: '&f熔融奈斯尼晶'
   type:
   - '&7&o資源'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
@@ -2728,7 +2728,7 @@ NUGGET_CAST_ALU_BRONZE:
 NUGGET_CAST_ANNIVERSARIUM:
   description:
   - '&710 年的 (黏液) 歡樂時光！'
-  name: '&fAnniversarium顆粒'
+  name: '&f安尼維薩晶顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_BILLON:
@@ -2739,8 +2739,8 @@ NUGGET_CAST_BILLON:
   - '&7&o資源'
 NUGGET_CAST_BOOMERITE:
   description:
-  - '&7由 Boomerite 製成的顆粒'
-  name: '&fBoomerite顆粒'
+  - '&7由布默石製成的顆粒'
+  name: '&f布默石顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_BRASS:
@@ -2781,8 +2781,8 @@ NUGGET_CAST_COR_BRONZE:
   - '&7&o資源'
 NUGGET_CAST_CRINGLEIUM:
   description:
-  - '&7由 Cringleium 製成的顆粒。'
-  name: '&fCringleium顆粒'
+  - '&7由克林格晶製成的顆粒。'
+  name: '&f克林格晶顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAMASCUS_STEEL:
@@ -2793,32 +2793,32 @@ NUGGET_CAST_DAMASCUS_STEEL:
   - '&7&o資源'
 NUGGET_CAST_DAXI_ABSORPTION:
   description:
-  - '&7散發著堅毅氣息的 Daxi 顆粒。'
-  name: '&f吸收 Daxi 顆粒'
+  - '&7散發著堅毅氣息的達西顆粒。'
+  name: '&f吸收達西顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAXI_FORTITUDE:
   description:
-  - '&7散發著不屈氣息的 Daxi 顆粒。'
-  name: '&f堅毅 Daxi 顆粒'
+  - '&7散發著不屈氣息的達西顆粒。'
+  name: '&f堅毅達西顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAXI_REGENERATION:
   description:
-  - '&7散發著仁慈氣息的 Daxi 顆粒。'
-  name: '&f再生 Daxi 顆粒'
+  - '&7散發著仁慈氣息的達西顆粒。'
+  name: '&f再生達西顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAXI_SATURATION:
   description:
-  - '&7散發著暖意的 Daxi 顆粒。'
-  name: '&f飽食 Daxi 顆粒'
+  - '&7散發著暖意的達西顆粒。'
+  name: '&f飽食達西顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DAXI_STRENGTH:
   description:
-  - '&7散發著力量氣息的 Daxi 顆粒。'
-  name: '&f力量 Daxi 顆粒'
+  - '&7散發著力量氣息的達西顆粒。'
+  name: '&f力量達西顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_DEVOTION:
@@ -2830,8 +2830,8 @@ NUGGET_CAST_DEVOTION:
   - '&7&o資源'
 NUGGET_CAST_DURALIUM:
   description:
-  - '&7由 Duralium 製成的顆粒'
-  name: '&fDuralium顆粒'
+  - '&7由杜拉晶製成的顆粒'
+  name: '&f杜拉晶顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_FERROSILICON:
@@ -2886,8 +2886,8 @@ NUGGET_CAST_MAGNESIUM:
   - '&7&o資源'
 NUGGET_CAST_MAGNONIUM:
   description:
-  - '&7由純 Magnonium 製成的顆粒'
-  name: '&fMagnonium顆粒'
+  - '&7由純馬格諾晶製成的顆粒'
+  name: '&f馬格諾晶顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_MAGSTEEL:
@@ -2984,8 +2984,8 @@ NUGGET_CAST_SCRAP:
   - '&7&o資源'
 NUGGET_CAST_SEFIRITE:
   description:
-  - '&7由 Sefirite 製成的顆粒'
-  name: '&fSefirite顆粒'
+  - '&7由塞菲石製成的顆粒'
+  name: '&f塞菲石顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_SILVER:
@@ -3004,7 +3004,7 @@ NUGGET_CAST_SMITHIUM:
   description:
   - '&7樸實無華、用途廣泛的金屬'
   - '&7在核心工業作業之中。'
-  name: '&fSmithium顆粒'
+  name: '&f史密晶顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_SOLDER:
@@ -3039,8 +3039,8 @@ NUGGET_CAST_TITANIUM:
   - '&7&o資源'
 NUGGET_CAST_UNPATENTABILUM:
   description:
-  - '&7一顆 Unpatentabilum 顆粒'
-  name: '&fUnpatentabilum顆粒'
+  - '&7一顆安帕騰比倫顆粒'
+  name: '&f安帕騰比倫顆粒'
   type:
   - '&7&o資源'
 NUGGET_CAST_ZINC:
@@ -3343,8 +3343,8 @@ PART_HEAD_AXEBILLON:
   - '&7&o元件'
 PART_HEAD_AXEBOOMERITE:
   description:
-  - '&7由Boomerite製成的工具頭部。'
-  name: '&fBoomerite斧刃'
+  - '&7由布默石製成的工具頭部。'
+  name: '&f布默石斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEBRASS:
@@ -3391,8 +3391,8 @@ PART_HEAD_AXEDAMASCUS_STEEL:
   - '&7&o元件'
 PART_HEAD_AXEDURALIUM:
   description:
-  - '&7由Duralium製成的工具頭部。'
-  name: '&fDuralium斧刃'
+  - '&7由杜拉晶製成的工具頭部。'
+  name: '&f杜拉晶斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEEARTH_SINGULARITY:
@@ -3493,8 +3493,8 @@ PART_HEAD_AXEMAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_AXEMAGNONIUM:
   description:
-  - '&7由Magnonium製成的工具頭部。'
-  name: '&fMagnonium斧刃'
+  - '&7由馬格諾晶製成的工具頭部。'
+  name: '&f馬格諾晶斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXEMAGSTEEL:
@@ -3529,8 +3529,8 @@ PART_HEAD_AXEMYTHRIL:
   - '&7&o元件'
 PART_HEAD_AXENICEINIUM:
   description:
-  - '&7由Niceinium製成的工具頭部。'
-  name: '&fNiceinium斧刃'
+  - '&7由奈斯尼晶製成的工具頭部。'
+  name: '&f奈斯尼晶斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXENICKEL:
@@ -3577,8 +3577,8 @@ PART_HEAD_AXESILVER_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_AXESMITHIUM:
   description:
-  - '&7由Smithium製成的工具頭部。'
-  name: '&fSmithium斧刃'
+  - '&7由史密晶製成的工具頭部。'
+  name: '&f史密晶斧刃'
   type:
   - '&7&o元件'
 PART_HEAD_AXESOLDER:
@@ -3691,8 +3691,8 @@ PART_HEAD_HOEBILLON:
   - '&7&o元件'
 PART_HEAD_HOEBOOMERITE:
   description:
-  - '&7由Boomerite製成的工具頭部。'
-  name: '&fBoomerite鋤刃'
+  - '&7由布默石製成的工具頭部。'
+  name: '&f布默石鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEBRASS:
@@ -3739,8 +3739,8 @@ PART_HEAD_HOEDAMASCUS_STEEL:
   - '&7&o元件'
 PART_HEAD_HOEDURALIUM:
   description:
-  - '&7由Duralium製成的工具頭部。'
-  name: '&fDuralium鋤刃'
+  - '&7由杜拉晶製成的工具頭部。'
+  name: '&f杜拉晶鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEEARTH_SINGULARITY:
@@ -3841,8 +3841,8 @@ PART_HEAD_HOEMAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_HOEMAGNONIUM:
   description:
-  - '&7由Magnonium製成的工具頭部。'
-  name: '&fMagnonium鋤刃'
+  - '&7由馬格諾晶製成的工具頭部。'
+  name: '&f馬格諾晶鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOEMAGSTEEL:
@@ -3877,8 +3877,8 @@ PART_HEAD_HOEMYTHRIL:
   - '&7&o元件'
 PART_HEAD_HOENICEINIUM:
   description:
-  - '&7由Niceinium製成的工具頭部。'
-  name: '&fNiceinium鋤刃'
+  - '&7由奈斯尼晶製成的工具頭部。'
+  name: '&f奈斯尼晶鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOENICKEL:
@@ -3925,8 +3925,8 @@ PART_HEAD_HOESILVER_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_HOESMITHIUM:
   description:
-  - '&7由Smithium製成的工具頭部。'
-  name: '&fSmithium鋤刃'
+  - '&7由史密晶製成的工具頭部。'
+  name: '&f史密晶鋤刃'
   type:
   - '&7&o元件'
 PART_HEAD_HOESOLDER:
@@ -4039,8 +4039,8 @@ PART_HEAD_PICKBILLON:
   - '&7&o元件'
 PART_HEAD_PICKBOOMERITE:
   description:
-  - '&7由Boomerite製成的工具頭部。'
-  name: '&fBoomerite鎬頭'
+  - '&7由布默石製成的工具頭部。'
+  name: '&f布默石鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKBRASS:
@@ -4087,8 +4087,8 @@ PART_HEAD_PICKDAMASCUS_STEEL:
   - '&7&o元件'
 PART_HEAD_PICKDURALIUM:
   description:
-  - '&7由Duralium製成的工具頭部。'
-  name: '&fDuralium鎬頭'
+  - '&7由杜拉晶製成的工具頭部。'
+  name: '&f杜拉晶鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKEARTH_SINGULARITY:
@@ -4189,8 +4189,8 @@ PART_HEAD_PICKMAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_PICKMAGNONIUM:
   description:
-  - '&7由Magnonium製成的工具頭部。'
-  name: '&fMagnonium鎬頭'
+  - '&7由馬格諾晶製成的工具頭部。'
+  name: '&f馬格諾晶鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKMAGSTEEL:
@@ -4225,8 +4225,8 @@ PART_HEAD_PICKMYTHRIL:
   - '&7&o元件'
 PART_HEAD_PICKNICEINIUM:
   description:
-  - '&7由Niceinium製成的工具頭部。'
-  name: '&fNiceinium鎬頭'
+  - '&7由奈斯尼晶製成的工具頭部。'
+  name: '&f奈斯尼晶鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKNICKEL:
@@ -4273,8 +4273,8 @@ PART_HEAD_PICKSILVER_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_PICKSMITHIUM:
   description:
-  - '&7由Smithium製成的工具頭部。'
-  name: '&fSmithium鎬頭'
+  - '&7由史密晶製成的工具頭部。'
+  name: '&f史密晶鎬頭'
   type:
   - '&7&o元件'
 PART_HEAD_PICKSOLDER:
@@ -4387,8 +4387,8 @@ PART_HEAD_SHOVELBILLON:
   - '&7&o元件'
 PART_HEAD_SHOVELBOOMERITE:
   description:
-  - '&7由Boomerite製成的工具頭部。'
-  name: '&fBoomerite鏟頭'
+  - '&7由布默石製成的工具頭部。'
+  name: '&f布默石鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELBRASS:
@@ -4435,8 +4435,8 @@ PART_HEAD_SHOVELDAMASCUS_STEEL:
   - '&7&o元件'
 PART_HEAD_SHOVELDURALIUM:
   description:
-  - '&7由Duralium製成的工具頭部。'
-  name: '&fDuralium鏟頭'
+  - '&7由杜拉晶製成的工具頭部。'
+  name: '&f杜拉晶鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELEARTH_SINGULARITY:
@@ -4537,8 +4537,8 @@ PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_SHOVELMAGNONIUM:
   description:
-  - '&7由Magnonium製成的工具頭部。'
-  name: '&fMagnonium鏟頭'
+  - '&7由馬格諾晶製成的工具頭部。'
+  name: '&f馬格諾晶鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELMAGSTEEL:
@@ -4573,8 +4573,8 @@ PART_HEAD_SHOVELMYTHRIL:
   - '&7&o元件'
 PART_HEAD_SHOVELNICEINIUM:
   description:
-  - '&7由Niceinium製成的工具頭部。'
-  name: '&fNiceinium鏟頭'
+  - '&7由奈斯尼晶製成的工具頭部。'
+  name: '&f奈斯尼晶鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELNICKEL:
@@ -4621,8 +4621,8 @@ PART_HEAD_SHOVELSILVER_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_SHOVELSMITHIUM:
   description:
-  - '&7由Smithium製成的工具頭部。'
-  name: '&fSmithium鏟頭'
+  - '&7由史密晶製成的工具頭部。'
+  name: '&f史密晶鏟頭'
   type:
   - '&7&o元件'
 PART_HEAD_SHOVELSOLDER:
@@ -4735,8 +4735,8 @@ PART_HEAD_SWORDBILLON:
   - '&7&o元件'
 PART_HEAD_SWORDBOOMERITE:
   description:
-  - '&7由Boomerite製成的工具頭部。'
-  name: '&fBoomerite劍首'
+  - '&7由布默石製成的工具頭部。'
+  name: '&f布默石劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDBRASS:
@@ -4783,8 +4783,8 @@ PART_HEAD_SWORDDAMASCUS_STEEL:
   - '&7&o元件'
 PART_HEAD_SWORDDURALIUM:
   description:
-  - '&7由Duralium製成的工具頭部。'
-  name: '&fDuralium劍首'
+  - '&7由杜拉晶製成的工具頭部。'
+  name: '&f杜拉晶劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDEARTH_SINGULARITY:
@@ -4885,8 +4885,8 @@ PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_SWORDMAGNONIUM:
   description:
-  - '&7由Magnonium製成的工具頭部。'
-  name: '&fMagnonium劍首'
+  - '&7由馬格諾晶製成的工具頭部。'
+  name: '&f馬格諾晶劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDMAGSTEEL:
@@ -4921,8 +4921,8 @@ PART_HEAD_SWORDMYTHRIL:
   - '&7&o元件'
 PART_HEAD_SWORDNICEINIUM:
   description:
-  - '&7由Niceinium製成的工具頭部。'
-  name: '&fNiceinium劍首'
+  - '&7由奈斯尼晶製成的工具頭部。'
+  name: '&f奈斯尼晶劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDNICKEL:
@@ -4969,8 +4969,8 @@ PART_HEAD_SWORDSILVER_SINGULARITY:
   - '&7&o元件'
 PART_HEAD_SWORDSMITHIUM:
   description:
-  - '&7由Smithium製成的工具頭部。'
-  name: '&fSmithium劍首'
+  - '&7由史密晶製成的工具頭部。'
+  name: '&f史密晶劍首'
   type:
   - '&7&o元件'
 PART_HEAD_SWORDSOLDER:
@@ -5161,8 +5161,8 @@ PART_LINKS_CORINTHIAN_BRONZE:
   - '&7&o元件'
 PART_LINKS_CRINGLEIUM:
   description:
-  - '&7由Cringleium製成的一組鎖環。'
-  name: '&fCringleium鎖環'
+  - '&7由克林格晶製成的一組鎖環。'
+  name: '&f克林格晶鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_DAMASCUS_STEEL:
@@ -5173,8 +5173,8 @@ PART_LINKS_DAMASCUS_STEEL:
   - '&7&o元件'
 PART_LINKS_DURALIUM:
   description:
-  - '&7由Duralium製成的一組鎖環。'
-  name: '&fDuralium鎖環'
+  - '&7由杜拉晶製成的一組鎖環。'
+  name: '&f杜拉晶鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_EARTH_SINGULARITY:
@@ -5287,8 +5287,8 @@ PART_LINKS_MAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_LINKS_MAGNONIUM:
   description:
-  - '&7由Magnonium製成的一組鎖環。'
-  name: '&fMagnonium鎖環'
+  - '&7由馬格諾晶製成的一組鎖環。'
+  name: '&f馬格諾晶鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_MAGSTEEL:
@@ -5365,8 +5365,8 @@ PART_LINKS_SILVER_SINGULARITY:
   - '&7&o元件'
 PART_LINKS_SMITHIUM:
   description:
-  - '&7由Smithium製成的一組鎖環。'
-  name: '&fSmithium鎖環'
+  - '&7由史密晶製成的一組鎖環。'
+  name: '&f史密晶鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_SOLDER:
@@ -5419,8 +5419,8 @@ PART_LINKS_TITANIUM:
   - '&7&o元件'
 PART_LINKS_ULTIMANINIUM:
   description:
-  - '&7由Ultimaninium製成的一組鎖環。'
-  name: '&fUltimaninium鎖環'
+  - '&7由奧提馬尼晶製成的一組鎖環。'
+  name: '&f奧提馬尼晶鎖環'
   type:
   - '&7&o元件'
 PART_LINKS_VOID:
@@ -5499,8 +5499,8 @@ PART_PLATES_BOOTSALUMINUM_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_BOOTSANNIVERSARIUM:
   description:
-  - '&7由Anniversarium製成的一組盔甲甲片。'
-  name: '&fAnniversarium靴甲片'
+  - '&7由安尼維薩晶製成的一組盔甲甲片。'
+  name: '&f安尼維薩晶靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSBILLON:
@@ -5511,8 +5511,8 @@ PART_PLATES_BOOTSBILLON:
   - '&7&o元件'
 PART_PLATES_BOOTSBOOMERITE:
   description:
-  - '&7由Boomerite製成的一組盔甲甲片。'
-  name: '&fBoomerite靴甲片'
+  - '&7由布默石製成的一組盔甲甲片。'
+  name: '&f布默石靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSBRASS:
@@ -5559,8 +5559,8 @@ PART_PLATES_BOOTSDAMASCUS_STEEL:
   - '&7&o元件'
 PART_PLATES_BOOTSDURALIUM:
   description:
-  - '&7由Duralium製成的一組盔甲甲片。'
-  name: '&fDuralium靴甲片'
+  - '&7由杜拉晶製成的一組盔甲甲片。'
+  name: '&f杜拉晶靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSEARTH_SINGULARITY:
@@ -5661,8 +5661,8 @@ PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_BOOTSMAGNONIUM:
   description:
-  - '&7由Magnonium製成的一組盔甲甲片。'
-  name: '&fMagnonium靴甲片'
+  - '&7由馬格諾晶製成的一組盔甲甲片。'
+  name: '&f馬格諾晶靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSMAGSTEEL:
@@ -5727,8 +5727,8 @@ PART_PLATES_BOOTSSCRAP:
   - '&7&o元件'
 PART_PLATES_BOOTSSEFIRITE:
   description:
-  - '&7由Sefirite製成的一組盔甲甲片。'
-  name: '&fSefirite靴甲片'
+  - '&7由塞菲石製成的一組盔甲甲片。'
+  name: '&f塞菲石靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSILVER:
@@ -5745,8 +5745,8 @@ PART_PLATES_BOOTSSILVER_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_BOOTSSMITHIUM:
   description:
-  - '&7由Smithium製成的一組盔甲甲片。'
-  name: '&fSmithium靴甲片'
+  - '&7由史密晶製成的一組盔甲甲片。'
+  name: '&f史密晶靴甲片'
   type:
   - '&7&o元件'
 PART_PLATES_BOOTSSOLDER:
@@ -5853,8 +5853,8 @@ PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
   description:
-  - '&7由Anniversarium製成的一組盔甲甲片。'
-  name: '&fAnniversarium胸甲片'
+  - '&7由安尼維薩晶製成的一組盔甲甲片。'
+  name: '&f安尼維薩晶胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEBILLON:
@@ -5865,8 +5865,8 @@ PART_PLATES_CHESTPLATEBILLON:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEBOOMERITE:
   description:
-  - '&7由Boomerite製成的一組盔甲甲片。'
-  name: '&fBoomerite胸甲片'
+  - '&7由布默石製成的一組盔甲甲片。'
+  name: '&f布默石胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEBRASS:
@@ -5913,8 +5913,8 @@ PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEDURALIUM:
   description:
-  - '&7由Duralium製成的一組盔甲甲片。'
-  name: '&fDuralium胸甲片'
+  - '&7由杜拉晶製成的一組盔甲甲片。'
+  name: '&f杜拉晶胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
@@ -6015,8 +6015,8 @@ PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMAGNONIUM:
   description:
-  - '&7由Magnonium製成的一組盔甲甲片。'
-  name: '&fMagnonium胸甲片'
+  - '&7由馬格諾晶製成的一組盔甲甲片。'
+  name: '&f馬格諾晶胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATEMAGSTEEL:
@@ -6081,8 +6081,8 @@ PART_PLATES_CHESTPLATESCRAP:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESEFIRITE:
   description:
-  - '&7由Sefirite製成的一組盔甲甲片。'
-  name: '&fSefirite胸甲片'
+  - '&7由塞菲石製成的一組盔甲甲片。'
+  name: '&f塞菲石胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESILVER:
@@ -6099,8 +6099,8 @@ PART_PLATES_CHESTPLATESILVER_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESMITHIUM:
   description:
-  - '&7由Smithium製成的一組盔甲甲片。'
-  name: '&fSmithium胸甲片'
+  - '&7由史密晶製成的一組盔甲甲片。'
+  name: '&f史密晶胸甲片'
   type:
   - '&7&o元件'
 PART_PLATES_CHESTPLATESOLDER:
@@ -6207,8 +6207,8 @@ PART_PLATES_HELMETALUMINUM_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_HELMETANNIVERSARIUM:
   description:
-  - '&7由Anniversarium製成的一組盔甲甲片。'
-  name: '&fAnniversarium頭盔甲片'
+  - '&7由安尼維薩晶製成的一組盔甲甲片。'
+  name: '&f安尼維薩晶頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETBILLON:
@@ -6219,8 +6219,8 @@ PART_PLATES_HELMETBILLON:
   - '&7&o元件'
 PART_PLATES_HELMETBOOMERITE:
   description:
-  - '&7由Boomerite製成的一組盔甲甲片。'
-  name: '&fBoomerite頭盔甲片'
+  - '&7由布默石製成的一組盔甲甲片。'
+  name: '&f布默石頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETBRASS:
@@ -6267,8 +6267,8 @@ PART_PLATES_HELMETDAMASCUS_STEEL:
   - '&7&o元件'
 PART_PLATES_HELMETDURALIUM:
   description:
-  - '&7由Duralium製成的一組盔甲甲片。'
-  name: '&fDuralium頭盔甲片'
+  - '&7由杜拉晶製成的一組盔甲甲片。'
+  name: '&f杜拉晶頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETEARTH_SINGULARITY:
@@ -6369,8 +6369,8 @@ PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_HELMETMAGNONIUM:
   description:
-  - '&7由Magnonium製成的一組盔甲甲片。'
-  name: '&fMagnonium頭盔甲片'
+  - '&7由馬格諾晶製成的一組盔甲甲片。'
+  name: '&f馬格諾晶頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETMAGSTEEL:
@@ -6435,8 +6435,8 @@ PART_PLATES_HELMETSCRAP:
   - '&7&o元件'
 PART_PLATES_HELMETSEFIRITE:
   description:
-  - '&7由Sefirite製成的一組盔甲甲片。'
-  name: '&fSefirite頭盔甲片'
+  - '&7由塞菲石製成的一組盔甲甲片。'
+  name: '&f塞菲石頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSILVER:
@@ -6453,8 +6453,8 @@ PART_PLATES_HELMETSILVER_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_HELMETSMITHIUM:
   description:
-  - '&7由Smithium製成的一組盔甲甲片。'
-  name: '&fSmithium頭盔甲片'
+  - '&7由史密晶製成的一組盔甲甲片。'
+  name: '&f史密晶頭盔甲片'
   type:
   - '&7&o元件'
 PART_PLATES_HELMETSOLDER:
@@ -6561,8 +6561,8 @@ PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
   description:
-  - '&7由Anniversarium製成的一組盔甲甲片。'
-  name: '&fAnniversarium護腿甲片'
+  - '&7由安尼維薩晶製成的一組盔甲甲片。'
+  name: '&f安尼維薩晶護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSBILLON:
@@ -6573,8 +6573,8 @@ PART_PLATES_LEGGINGSBILLON:
   - '&7&o元件'
 PART_PLATES_LEGGINGSBOOMERITE:
   description:
-  - '&7由Boomerite製成的一組盔甲甲片。'
-  name: '&fBoomerite護腿甲片'
+  - '&7由布默石製成的一組盔甲甲片。'
+  name: '&f布默石護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSBRASS:
@@ -6621,8 +6621,8 @@ PART_PLATES_LEGGINGSDAMASCUS_STEEL:
   - '&7&o元件'
 PART_PLATES_LEGGINGSDURALIUM:
   description:
-  - '&7由Duralium製成的一組盔甲甲片。'
-  name: '&fDuralium護腿甲片'
+  - '&7由杜拉晶製成的一組盔甲甲片。'
+  name: '&f杜拉晶護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSEARTH_SINGULARITY:
@@ -6723,8 +6723,8 @@ PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMAGNONIUM:
   description:
-  - '&7由Magnonium製成的一組盔甲甲片。'
-  name: '&fMagnonium護腿甲片'
+  - '&7由馬格諾晶製成的一組盔甲甲片。'
+  name: '&f馬格諾晶護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSMAGSTEEL:
@@ -6789,8 +6789,8 @@ PART_PLATES_LEGGINGSSCRAP:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSEFIRITE:
   description:
-  - '&7由Sefirite製成的一組盔甲甲片。'
-  name: '&fSefirite護腿甲片'
+  - '&7由塞菲石製成的一組盔甲甲片。'
+  name: '&f塞菲石護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSILVER:
@@ -6807,8 +6807,8 @@ PART_PLATES_LEGGINGSSILVER_SINGULARITY:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSMITHIUM:
   description:
-  - '&7由Smithium製成的一組盔甲甲片。'
-  name: '&fSmithium護腿甲片'
+  - '&7由史密晶製成的一組盔甲甲片。'
+  name: '&f史密晶護腿甲片'
   type:
   - '&7&o元件'
 PART_PLATES_LEGGINGSSOLDER:
@@ -6930,8 +6930,8 @@ PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
 PART_REPAIR_KIT_ANNIVERSARIUM:
   description:
   - '&7能夠修理物品的工具包'
-  - '&7由 Anniversarium 製成。'
-  name: '&fAnniversarium修理包'
+  - '&7由安尼維薩晶製成。'
+  name: '&f安尼維薩晶修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_BILLON:
@@ -6944,8 +6944,8 @@ PART_REPAIR_KIT_BILLON:
 PART_REPAIR_KIT_BOOMERITE:
   description:
   - '&7能夠修理物品的工具包'
-  - '&7由 Boomerite 製成。'
-  name: '&fBoomerite修理包'
+  - '&7由布默石製成。'
+  name: '&f布默石修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_BRASS:
@@ -7006,8 +7006,8 @@ PART_REPAIR_KIT_DUMMY:
 PART_REPAIR_KIT_DURALIUM:
   description:
   - '&7能夠修理物品的工具包'
-  - '&7由 Duralium 製成。'
-  name: '&fDuralium修理包'
+  - '&7由杜拉晶製成。'
+  name: '&f杜拉晶修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_EARTH_SINGULARITY:
@@ -7125,8 +7125,8 @@ PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
 PART_REPAIR_KIT_MAGNONIUM:
   description:
   - '&7能夠修理物品的工具包'
-  - '&7由 Magnonium 製成。'
-  name: '&fMagnonium修理包'
+  - '&7由馬格諾晶製成。'
+  name: '&f馬格諾晶修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_MAGSTEEL:
@@ -7167,8 +7167,8 @@ PART_REPAIR_KIT_MYTHRIL:
 PART_REPAIR_KIT_NICEINIUM:
   description:
   - '&7能夠修理物品的工具包'
-  - '&7由 Niceinium 製成。'
-  name: '&fNiceinium修理包'
+  - '&7由奈斯尼晶製成。'
+  name: '&f奈斯尼晶修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_NICKEL:
@@ -7216,8 +7216,8 @@ PART_REPAIR_KIT_SCRAP:
 PART_REPAIR_KIT_SEFIRITE:
   description:
   - '&7能夠修理物品的工具包'
-  - '&7由 Sefirite 製成。'
-  name: '&fSefirite修理包'
+  - '&7由塞菲石製成。'
+  name: '&f塞菲石修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_SILVER:
@@ -7237,8 +7237,8 @@ PART_REPAIR_KIT_SILVER_SINGULARITY:
 PART_REPAIR_KIT_SMITHIUM:
   description:
   - '&7能夠修理物品的工具包'
-  - '&7由 Smithium 製成。'
-  name: '&fSmithium修理包'
+  - '&7由史密晶製成。'
+  name: '&f史密晶修理包'
   type:
   - '&7&o元件'
 PART_REPAIR_KIT_SOLDER:
@@ -7404,8 +7404,8 @@ PART_ROD_DAMASCUS_STEEL:
   - '&7&o元件'
 PART_ROD_DURALIUM:
   description:
-  - '&7由Duralium製成的工具柄。'
-  name: '&fDuralium柄'
+  - '&7由杜拉晶製成的工具柄。'
+  name: '&f杜拉晶柄'
   type:
   - '&7&o元件'
 PART_ROD_EARTH_SINGULARITY:
@@ -7500,8 +7500,8 @@ PART_ROD_MAGNESIUM_SINGULARITY:
   - '&7&o元件'
 PART_ROD_MAGNONIUM:
   description:
-  - '&7由Magnonium製成的工具柄。'
-  name: '&fMagnonium柄'
+  - '&7由馬格諾晶製成的工具柄。'
+  name: '&f馬格諾晶柄'
   type:
   - '&7&o元件'
 PART_ROD_MAGSTEEL:
@@ -7578,8 +7578,8 @@ PART_ROD_SILVER_SINGULARITY:
   - '&7&o元件'
 PART_ROD_SMITHIUM:
   description:
-  - '&7由Smithium製成的工具柄。'
-  name: '&fSmithium柄'
+  - '&7由史密晶製成的工具柄。'
+  name: '&f史密晶柄'
   type:
   - '&7&o元件'
 PART_ROD_SOLDER:
@@ -7923,8 +7923,8 @@ REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
   - '&7&o元件'
 REMOTININIUM_LIQUID:
   description:
-  - '&7Remotininium的熔融型態。'
-  name: '&f熔融Remotininium'
+  - '&7雷莫提尼晶的熔融型態。'
+  name: '&f熔融雷莫提尼晶'
   type:
   - '&7&o資源'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
@@ -7993,8 +7993,8 @@ SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
   - '&7&o元件'
 SEFIRITE_LIQUID:
   description:
-  - '&7Sefirite的熔融型態。'
-  name: '&f熔融Sefirite'
+  - '&7塞菲石的熔融型態。'
+  name: '&f熔融塞菲石'
   type:
   - '&7&o資源'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
@@ -8112,14 +8112,14 @@ SMELTERY_CONTROLLER:
   - '&7&o元件'
 SMITHIUM_ALLOY:
   description:
-  - '&7由Smithium熔煉而成的合金。'
-  name: '&f熔融Smithium'
+  - '&7由史密晶熔煉而成的合金。'
+  name: '&f熔融史密晶'
   type:
   - '&7&o資源'
 SMITHIUM_LIQUID:
   description:
-  - '&7Smithium的熔融型態。'
-  name: '&f熔融Smithium'
+  - '&7史密晶的熔融型態。'
+  name: '&f熔融史密晶'
   type:
   - '&7&o資源'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
@@ -8712,14 +8712,14 @@ TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
   - '&7&o元件'
 ULTIMANINIUM_ALLOY:
   description:
-  - '&7由Ultimaninium熔煉而成的合金。'
-  name: '&f熔融Ultimaninium'
+  - '&7由奧提馬尼晶熔煉而成的合金。'
+  name: '&f熔融奧提馬尼晶'
   type:
   - '&7&o資源'
 ULTIMANINIUM_LIQUID:
   description:
-  - '&7Ultimaninium的熔融型態。'
-  name: '&f熔融Ultimaninium'
+  - '&7奧提馬尼晶的熔融型態。'
+  name: '&f熔融奧提馬尼晶'
   type:
   - '&7&o資源'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
@@ -8848,7 +8848,7 @@ YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
   - '&7對你更友善。'
   - ''
   - '&7新增者: DynaTech'
-  name: '&fYvaine'
+  name: '&f伊薇恩'
   type:
   - '&7&o元件'
 ZINC_LIQUID:

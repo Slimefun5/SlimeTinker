@@ -27,9 +27,9 @@ materials:
   ALUMINUM_BRASS: 鋁黃銅
   ALUMINUM_BRONZE: 鋁青銅
   ALUMINUM_SINGULARITY: 鋁奇點
-  ANNIVERSARIUM: Anniversarium
+  ANNIVERSARIUM: 安尼維薩晶
   BILLON: 比隆合金
-  BOOMERITE: Boomerite
+  BOOMERITE: 布默石
   BRASS: 黃銅
   BRONZE: 青銅
   CARBON_MESH: 碳纖維網
@@ -39,18 +39,18 @@ materials:
   COPPER_SINGULARITY: 銅奇點
   CORINTHIAN_BRONZE: 科林斯青銅
   CRIMSON_ROOT: 緋紅菌根
-  CRINGLEIUM: Cringleium
+  CRINGLEIUM: 克林格晶
   DAMASCUS_STEEL: 大馬士革鋼
-  DAXI_ABSORPTION: Daxi 吸收
-  DAXI_FORTITUDE: Daxi 堅毅
-  DAXI_REGENERATION: Daxi 再生
-  DAXI_SATURATION: Daxi 飽食
-  DAXI_STRENGTH: Daxi 力量
+  DAXI_ABSORPTION: 達西吸收
+  DAXI_FORTITUDE: 達西堅毅
+  DAXI_REGENERATION: 達西再生
+  DAXI_SATURATION: 達西飽食
+  DAXI_STRENGTH: 達西力量
   DETAILED_DEVOTION: 精緻虔誠
   DIAMOND: 鑽石
   DIAMOND_SINGULARITY: 鑽石奇點
   DRACONIC: 龍族
-  DURALIUM: Duralium
+  DURALIUM: 杜拉晶
   EARTH_SINGULARITY: 大地奇點
   FERROSILICON: 矽鐵
   FLOWING_FONDNESS: 流動喜愛
@@ -73,13 +73,13 @@ materials:
   MAGIC_SINGULARITY: 魔法奇點
   MAGNESIUM: 鎂
   MAGNESIUM_SINGULARITY: 鎂奇點
-  MAGNONIUM: Magnonium
+  MAGNONIUM: 馬格諾晶
   MAGSTEEL: 鎂鋼
   MAG_THOR: 鎂釷合金
   METAL_SINGULARITY: 金屬奇點
   MIXED_METAL: 混合金屬
   MYTHRIL: 秘銀
-  NICEINIUM: Niceinium
+  NICEINIUM: 奈斯尼晶
   NICKEL: 鎳
   OSMIUM: 鋨
   OSMIUM_SUPERALLOY: 鋨超合金
@@ -90,17 +90,17 @@ materials:
   REINFORCED_ALLOY: 強化合金
   REINFORCED_DRACONIUM: 強化龍晶
   REINFORCED_SLIME_STEEL: 強化黏液鋼
-  REMOTININIUM: Remotininium
+  REMOTININIUM: 雷莫提尼晶
   RUBBER: 橡膠
   SCRAP: 廢料
-  SEFIRITE: Sefirite
-  SEGGANESSON: Segganesson
+  SEFIRITE: 塞菲石
+  SEGGANESSON: 塞加內森
   SILICON: 矽
   SILVER: 銀
   SILVER_SINGULARITY: 銀奇點
   SLIME: 黏液
   SLIME_STEEL: 黏液鋼
-  SMITHIUM: Smithium
+  SMITHIUM: 史密晶
   SOLDER: 焊錫
   STAINLESS_STEEL: 不鏽鋼
   STAR_DUST: 星塵
@@ -112,8 +112,8 @@ materials:
   TIN_SINGULARITY: 錫奇點
   TITANIUM: 鈦
   TWISTED_VINE: 纏繞藤蔓
-  ULTIMANINIUM: Ultimaninium
-  UNPATENTABLIUM: Unpatentablium
+  ULTIMANINIUM: 奧提馬尼晶
+  UNPATENTABLIUM: 安帕騰布晶
   VEX_GEM: 惡靈寶石
   VINE: 藤蔓
   VOID: 虛空
