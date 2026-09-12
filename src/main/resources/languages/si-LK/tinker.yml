@@ -21,15 +21,15 @@ lore:
   rod_abbrev: 'ද: '
   sponsored_by: අනුග්‍රහය
 materials:
-  ADAMANTITE: Adamantite
+  ADAMANTITE: ඇඩමන්ටයිට්
   ADVANCED_ALLOY: උසස් මිශ්‍ර ලෝහය
   ALUMINUM: ඇලුමිනියම්
   ALUMINUM_BRASS: ඇලුමිනියම් පිත්තල
   ALUMINUM_BRONZE: ඇලුමිනියම් ලෝකඩ
   ALUMINUM_SINGULARITY: ඇලුමිනියම් ඒකීයතාව
-  ANNIVERSARIUM: Anniversarium
+  ANNIVERSARIUM: ඇනිවර්සේරියම්
   BILLON: බිලොන්
-  BOOMERITE: Boomerite
+  BOOMERITE: බූමරයිට්
   BRASS: පිත්තල
   BRONZE: ලෝකඩ
   CARBON_MESH: කාබන් දැල
@@ -39,18 +39,18 @@ materials:
   COPPER_SINGULARITY: තඹ ඒකීයතාව
   CORINTHIAN_BRONZE: කොරින්ති ලෝකඩ
   CRIMSON_ROOT: රතු මුල
-  CRINGLEIUM: Cringleium
+  CRINGLEIUM: ක්‍රින්ග්ලියම්
   DAMASCUS_STEEL: දමස්කස් වානේ
-  DAXI_ABSORPTION: Daxi අවශෝෂණය
-  DAXI_FORTITUDE: Daxi ධෛර්යය
-  DAXI_REGENERATION: Daxi පුනර්ජනනය
-  DAXI_SATURATION: Daxi තෘප්තිය
-  DAXI_STRENGTH: Daxi ශක්තිය
+  DAXI_ABSORPTION: ඩැක්සි අවශෝෂණය
+  DAXI_FORTITUDE: ඩැක්සි ධෛර්යය
+  DAXI_REGENERATION: ඩැක්සි පුනර්ජනනය
+  DAXI_SATURATION: ඩැක්සි තෘප්තිය
+  DAXI_STRENGTH: ඩැක්සි ශක්තිය
   DETAILED_DEVOTION: සවිස්තර භක්තිය
   DIAMOND: දියමන්ති
   DIAMOND_SINGULARITY: දියමන්ති ඒකීයතාව
-  DRACONIC: Draconic
-  DURALIUM: Duralium
+  DRACONIC: මකර
+  DURALIUM: ඩුරාලියම්
   EARTH_SINGULARITY: පෘථිවි ඒකීයතාව
   FERROSILICON: ෆෙරෝසිලිකන්
   FLOWING_FONDNESS: ගලන ඇල්ම
@@ -73,13 +73,13 @@ materials:
   MAGIC_SINGULARITY: මායා ඒකීයතාව
   MAGNESIUM: මැග්නීසියම්
   MAGNESIUM_SINGULARITY: මැග්නීසියම් ඒකීයතාව
-  MAGNONIUM: Magnonium
-  MAGSTEEL: Magsteel
-  MAG_THOR: Mag Thor
+  MAGNONIUM: මැග්නෝනියම්
+  MAGSTEEL: මැග් වානේ
+  MAG_THOR: මැග් තෝර්
   METAL_SINGULARITY: ලෝහ ඒකීයතාව
   MIXED_METAL: මිශ්‍ර ලෝහය
-  MYTHRIL: Mythril
-  NICEINIUM: Niceinium
+  MYTHRIL: මිත්‍රිල්
+  NICEINIUM: නයිසීනියම්
   NICKEL: නිකල්
   OSMIUM: ඔස්මියම්
   OSMIUM_SUPERALLOY: ඔස්මියම් අධිමිශ්‍ර ලෝහය
@@ -88,19 +88,19 @@ materials:
   REDSTONE_ALLOY: රතුගල් මිශ්‍ර ලෝහය
   REFINED_IRON: පිරිපහදු යකඩ
   REINFORCED_ALLOY: ශක්තිමත් මිශ්‍ර ලෝහය
-  REINFORCED_DRACONIUM: ශක්තිමත් Draconium
-  REINFORCED_SLIME_STEEL: ශක්තිමත් Slime Steel
-  REMOTININIUM: Remotininium
+  REINFORCED_DRACONIUM: ශක්තිමත් මකර ලෝහය
+  REINFORCED_SLIME_STEEL: ශක්තිමත් ලාටු වානේ
+  REMOTININIUM: රිමොටිනීනියම්
   RUBBER: රබර්
   SCRAP: පරණ ලෝහය
-  SEFIRITE: Sefirite
-  SEGGANESSON: Segganesson
+  SEFIRITE: සෙෆිරයිට්
+  SEGGANESSON: සෙග්ගනෙසන්
   SILICON: සිලිකන්
   SILVER: රිදී
   SILVER_SINGULARITY: රිදී ඒකීයතාව
   SLIME: ලාටු
-  SLIME_STEEL: Slime Steel
-  SMITHIUM: Smithium
+  SLIME_STEEL: ලාටු වානේ
+  SMITHIUM: ස්මිතියම්
   SOLDER: පෑස්සුම් ලෝහය
   STAINLESS_STEEL: මල නොබැඳෙන වානේ
   STAR_DUST: තරු දූවිලි
@@ -112,9 +112,9 @@ materials:
   TIN_SINGULARITY: ටින් ඒකීයතාව
   TITANIUM: ටයිටේනියම්
   TWISTED_VINE: ඇඹරුණු වැල
-  ULTIMANINIUM: Ultimaninium
-  UNPATENTABLIUM: Unpatentablium
-  VEX_GEM: Vex මැණික
+  ULTIMANINIUM: අල්ටිමැනීනියම්
+  UNPATENTABLIUM: අන්පැටන්ටබ්ලියම්
+  VEX_GEM: වෙක්ස් මැණික
   VINE: වැල
   VOID: ශූන්‍යය
   WARPED_ROOT: විකෘති මුල

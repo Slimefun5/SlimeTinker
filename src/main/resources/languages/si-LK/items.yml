@@ -35,8 +35,8 @@ ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
   - '&7&oසංරචකය'
 ADAMANTITE_LIQUID:
   description:
-  - '&7Adamantite වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Adamantite'
+  - '&7ඇඩමන්ටයිට්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ ඇඩමන්ටයිට්'
   type:
   - '&7&oසම්පත'
 ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
@@ -107,19 +107,19 @@ ALUMINUM_SINGULARITY_LIQUID:
   - '&7&oසම්පත'
 ANNIVERSARIUM_ALLOY:
   description:
-  - '&7Anniversarium වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ Anniversarium'
+  - '&7ඇනිවර්සේරියම්වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ ඇනිවර්සේරියම්'
   type:
   - '&7&oසම්පත'
 ANNIVERSARIUM_LIQUID:
   description:
-  - '&7Anniversarium වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Anniversarium'
+  - '&7ඇනිවර්සේරියම්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ ඇනිවර්සේරියම්'
   type:
   - '&7&oසම්පත'
 ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
   description:
-  - '&7Vex මැණික් මෙසේ භාවිතා නොකළ යුතුයි!'
+  - '&7වෙක්ස් මැණික් මෙසේ භාවිතා නොකළ යුතුයි!'
   - ''
   - '&7එකතු කළේ: DynaTech'
   name: '&fකරදරකාරී'
@@ -233,7 +233,7 @@ BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
   - '&7&oසංරචකය'
 BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
   description:
-  - '&7Piglin ලා ඔබේ සන්නාහයට ඇත්තටම කැමතියි'
+  - '&7පිග්ලින් ලා ඔබේ සන්නාහයට ඇත්තටම කැමතියි'
   - ''
   - '&7එකතු කළේ: Infinity Expansion'
   name: '&fහුවමාරුව II'
@@ -241,7 +241,7 @@ BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
   - '&7&oසංරචකය'
 BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
   description:
-  - '&7Piglin ලා ඔබේ සන්නාහයට කැමතියි'
+  - '&7පිග්ලින් ලා ඔබේ සන්නාහයට කැමතියි'
   - ''
   - '&7එකතු කළේ: Core SlimeTinker'
   name: '&fහුවමාරුව'
@@ -293,8 +293,8 @@ BILLON_LIQUID:
   - '&7&oසම්පත'
 BLOCK_CAST_ADAMANTITE:
   description:
-  - '&7Adamanitite වලින් සාදන ලද කුට්ටියකි.'
-  name: '&fAdamanitite කුට්ටිය'
+  - '&7ඇඩමනිටයිට්වලින් සාදන ලද කුට්ටියකි.'
+  name: '&fඇඩමනිටයිට් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_ADVANCED_ALLOY:
@@ -324,7 +324,7 @@ BLOCK_CAST_ALU_BRONZE:
 BLOCK_CAST_ANNIVERSARIUM:
   description:
   - '&7(Slime)fun වසර 10ක්!'
-  name: '&fAnniversarium කුට්ටිය'
+  name: '&fඇනිවර්සේරියම් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_BILLON:
@@ -335,8 +335,8 @@ BLOCK_CAST_BILLON:
   - '&7&oසම්පත'
 BLOCK_CAST_BOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද කුට්ටියකි'
-  name: '&fBoomerite කුට්ටිය'
+  - '&7බූමරයිට්වලින් සාදන ලද කුට්ටියකි'
+  name: '&fබූමරයිට් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_BRASS:
@@ -371,8 +371,8 @@ BLOCK_CAST_COR_BRONZE:
   - '&7&oසම්පත'
 BLOCK_CAST_CRINGLEIUM:
   description:
-  - '&7Cringleium වලින් සාදන ලද කුට්ටියකි'
-  name: '&fCringleium කුට්ටිය'
+  - '&7ක්‍රින්ග්ලියම්වලින් සාදන ලද කුට්ටියකි'
+  name: '&fක්‍රින්ග්ලියම් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_DAMASCUS_STEEL:
@@ -383,8 +383,8 @@ BLOCK_CAST_DAMASCUS_STEEL:
   - '&7&oසම්පත'
 BLOCK_CAST_DURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද කුට්ටියකි'
-  name: '&fDuralium කුට්ටිය'
+  - '&7ඩුරාලියම්වලින් සාදන ලද කුට්ටියකි'
+  name: '&fඩුරාලියම් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_FERROSILICON:
@@ -432,20 +432,20 @@ BLOCK_CAST_MAGNESIUM:
   - '&7&oසම්පත'
 BLOCK_CAST_MAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද කුට්ටියකි.'
-  name: '&fMagnonium කුට්ටිය'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද කුට්ටියකි.'
+  name: '&fමැග්නෝනියම් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_MAGSTEEL:
   description:
-  - '&7MagSteel වලින් සාදන ලද කුට්ටියකි.'
-  name: '&fMagSteel කුට්ටිය'
+  - '&7මැග් වානේවලින් සාදන ලද කුට්ටියකි.'
+  name: '&fමැග් වානේ කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_MAG_THOR:
   description:
-  - '&7Mag-Thor කුට්ටියකි'
-  name: '&fMag-Thor කුට්ටිය'
+  - '&7මැග්-තෝර් කුට්ටියකි'
+  name: '&fමැග්-තෝර් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_MIXED_METAL:
@@ -456,8 +456,8 @@ BLOCK_CAST_MIXED_METAL:
   - '&7&oසම්පත'
 BLOCK_CAST_MYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද කුට්ටියකි.'
-  name: '&fMythril කුට්ටිය'
+  - '&7මිත්‍රිල්වලින් සාදන ලද කුට්ටියකි.'
+  name: '&fමිත්‍රිල් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_NICE:
@@ -506,13 +506,13 @@ BLOCK_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7මෙම කුට්ටිය පිරී ඇත්තේ'
   - '&7අසමසම උදහසකිනි.'
-  name: '&fශක්තිමත් Draconium කුට්ටිය'
+  name: '&fශක්තිමත් මකර ලෝහය කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_REINFORCED_SLIMESTEEL:
   description:
-  - '&7ශක්තිමත් Slimesteel කුට්ටියකි'
-  name: '&fශක්තිමත් Slimesteel කුට්ටිය'
+  - '&7ශක්තිමත් ලාටු වානේ කුට්ටියකි'
+  name: '&fශක්තිමත් ලාටු වානේ කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_SCRAP:
@@ -523,8 +523,8 @@ BLOCK_CAST_SCRAP:
   - '&7&oසම්පත'
 BLOCK_CAST_SEFIRITE:
   description:
-  - '&7Sefirite වලින් සාදන ලද කුට්ටියකි'
-  name: '&fSefirite කුට්ටිය'
+  - '&7සෙෆිරයිට්වලින් සාදන ලද කුට්ටියකි'
+  name: '&fසෙෆිරයිට් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_SILVER:
@@ -535,15 +535,15 @@ BLOCK_CAST_SILVER:
   - '&7&oසම්පත'
 BLOCK_CAST_SLIMESTEEL:
   description:
-  - '&7Slimesteel කුට්ටියකි'
-  name: '&fSlimesteel කුට්ටිය'
+  - '&7ලාටු වානේ කුට්ටියකි'
+  name: '&fලාටු වානේ කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_SMITHIUM:
   description:
   - '&7විවිධ ප්‍රයෝජන ඇති සරල ලෝහයකි'
   - '&7මූලික කර්මාන්ත කටයුතුවලදී.'
-  name: '&fSmithium කුට්ටිය'
+  name: '&fස්මිතියම් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_SOLDER:
@@ -578,8 +578,8 @@ BLOCK_CAST_TITANIUM:
   - '&7&oසම්පත'
 BLOCK_CAST_UNPATENTABILUM:
   description:
-  - '&7Unpatentabilum කුට්ටියකි'
-  name: '&fUnpatentabilum කුට්ටිය'
+  - '&7අන්පැටන්ටබිලම් කුට්ටියකි'
+  name: '&fඅන්පැටන්ටබිලම් කුට්ටිය'
   type:
   - '&7&oසම්පත'
 BLOCK_CAST_VOID:
@@ -596,14 +596,14 @@ BLOCK_CAST_ZINC:
   - '&7&oසම්පත'
 BOOMERITE_ALLOY:
   description:
-  - '&7Boomerite වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ Boomerite'
+  - '&7බූමරයිට්වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ බූමරයිට්'
   type:
   - '&7&oසම්පත'
 BOOMERITE_LIQUID:
   description:
-  - '&7Boomerite වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Boomerite'
+  - '&7බූමරයිට්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ බූමරයිට්'
   type:
   - '&7&oසම්පත'
 BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
@@ -1110,14 +1110,14 @@ CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
   - '&7&oසංරචකය'
 CRINGLEIUM_ALLOY:
   description:
-  - '&7Cringleium වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ Cringleium'
+  - '&7ක්‍රින්ග්ලියම්වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ ක්‍රින්ග්ලියම්'
   type:
   - '&7&oසම්පත'
 CRINGLEIUM_LIQUID:
   description:
-  - '&7Cringleium වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Cringleium'
+  - '&7ක්‍රින්ග්ලියම්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ ක්‍රින්ග්ලියම්'
   type:
   - '&7&oසම්පත'
 CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
@@ -1282,13 +1282,13 @@ DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
   - '&7&oසංරචකය'
 DRACONIC_LIQUID:
   description:
-  - '&7Draconic වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Draconic'
+  - '&7මකරයෙන් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ මකර'
   type:
   - '&7&oසම්පත'
 DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
   description:
-  - '&7Ender මකරාගෙන් පහර ලැබූ විට, ලැබෙන්නේ'
+  - '&7එන්ඩර් මකරාගෙන් පහර ලැබූ විට, ලැබෙන්නේ'
   - '&7තත්පර 15ක් අමතර හානියක්.'
   - '&7එකතු වෙමින් ගොඩනැගේ. ස්ථර කාලය අලුත් කරයි.'
   - ''
@@ -1386,14 +1386,14 @@ DURABLE_TRAIT_PROP_ROD_TITANIUM:
   - '&7&oසංරචකය'
 DURALIUM_ALLOY:
   description:
-  - '&7Duralium වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ Duralium'
+  - '&7ඩුරාලියම්වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ ඩුරාලියම්'
   type:
   - '&7&oසම්පත'
 DURALIUM_LIQUID:
   description:
-  - '&7Duralium වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Duralium'
+  - '&7ඩුරාලියම්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ ඩුරාලියම්'
   type:
   - '&7&oසම්පත'
 DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
@@ -2058,55 +2058,55 @@ INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
   - '&7මෙම මෙවලමේ යම් වරදක් ඇත.'
   - ''
   - '&7එකතු කළේ: Core SlimeTinker'
-  name: '&fIngheights'
+  name: '&fඉන්ග්හයිට්ස්'
   type:
   - '&7&oසංරචකය'
 INGOT_CAST_ANNIVERSARIUM:
   description:
   - '&7(Slime)fun වසර 10ක්!'
-  name: '&fAnniversarium කැටිය'
+  name: '&fඇනිවර්සේරියම් කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_BOOMERITE:
   description:
   - '&7ඉතා දුර්ලභ කැටියකි. සම්භවය නොදනී.'
-  name: '&fBoomerite කැටිය'
+  name: '&fබූමරයිට් කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_CRINGLEIUM:
   description:
   - '&7කෙටි කලකට පමණක් ලැබෙන උත්සව කැටියකි.'
-  name: '&fCringleium කැටිය'
+  name: '&fක්‍රින්ග්ලියම් කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_DAXI_ABSORPTION:
   description:
-  - '&7අධිෂ්ඨානය විහිදුවන Daxi කැටියකි.'
-  name: '&fඅවශෝෂණ Daxi කැටිය'
+  - '&7අධිෂ්ඨානය විහිදුවන ඩැක්සි කැටියකි.'
+  name: '&fඅවශෝෂණ ඩැක්සි කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_DAXI_FORTITUDE:
   description:
-  - '&7නොනැමීම විහිදුවන Daxi කැටියකි.'
-  name: '&fධෛර්ය Daxi කැටිය'
+  - '&7නොනැමීම විහිදුවන ඩැක්සි කැටියකි.'
+  name: '&fධෛර්ය ඩැක්සි කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_DAXI_REGENERATION:
   description:
-  - '&7කරුණාව විහිදුවන Daxi කැටියකි.'
-  name: '&fපුනර්ජනන Daxi කැටිය'
+  - '&7කරුණාව විහිදුවන ඩැක්සි කැටියකි.'
+  name: '&fපුනර්ජනන ඩැක්සි කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_DAXI_SATURATION:
   description:
-  - '&7උණුසුම විහිදුවන Daxi කැටියකි.'
-  name: '&fතෘප්ති Daxi කැටිය'
+  - '&7උණුසුම විහිදුවන ඩැක්සි කැටියකි.'
+  name: '&fතෘප්ති ඩැක්සි කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_DAXI_STRENGTH:
   description:
-  - '&7ශක්තිය විහිදුවන Daxi කැටියකි.'
-  name: '&fශක්ති Daxi කැටිය'
+  - '&7ශක්තිය විහිදුවන ඩැක්සි කැටියකි.'
+  name: '&fශක්ති ඩැක්සි කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_DEVOTION:
@@ -2147,20 +2147,20 @@ INGOT_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7මෙම කැටිය පිරී ඇත්තේ'
   - '&7අසමසම උදහසකිනි.'
-  name: '&fශක්තිමත් Draconium කැටිය'
+  name: '&fශක්තිමත් මකර ලෝහය කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_SEFIRITE:
   description:
   - '&7කෙටි කලකට පමණක් ලැබෙන කැටියකි.'
-  name: '&fSefirite කැටිය'
+  name: '&fසෙෆිරයිට් කැටිය'
   type:
   - '&7&oසම්පත'
 INGOT_CAST_SMITHIUM:
   description:
   - '&7විවිධ ප්‍රයෝජන ඇති සරල ලෝහයකි'
   - '&7මූලික කර්මාන්ත කටයුතුවලදී.'
-  name: '&fSmithium කැටිය'
+  name: '&fස්මිතියම් කැටිය'
   type:
   - '&7&oසම්පත'
 INSULATED_TRAIT_PROP_BINDING_RUBBER:
@@ -2229,7 +2229,7 @@ KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
   - '&7වටමේසයේ. (එය ගොලමයෙකි ;))'
   - ''
   - '&7එකතු කළේ: Infinity Expansion'
-  name: '&fKOTR'
+  name: '&fව.මේ.ර.'
   type:
   - '&7&oසංරචකය'
 LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
@@ -2383,7 +2383,7 @@ MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
   - '&7කුට්ටි 10ක පරාසයක් තුළ'
   - ''
   - '&7එකතු කළේ: Infinity Expansion'
-  name: '&fMagnetesium II'
+  name: '&fමැග්නෙටීසියම් II'
   type:
   - '&7&oසංරචකය'
 MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
@@ -2392,7 +2392,7 @@ MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
   - '&7කුට්ටි 5ක පරාසයක් තුළ'
   - ''
   - '&7එකතු කළේ: Core SlimeTinker'
-  name: '&fMagnetesium'
+  name: '&fමැග්නෙටීසියම්'
   type:
   - '&7&oසංරචකය'
 MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
@@ -2437,20 +2437,20 @@ MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
   - '&7&oසංරචකය'
 MAGNONIUM_LIQUID:
   description:
-  - '&7Magnonium වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Magnonium'
+  - '&7මැග්නෝනියම්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ මැග්නෝනියම්'
   type:
   - '&7&oසම්පත'
 MAGSTEEL_ALLOY:
   description:
-  - '&7Magsteel වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ Magsteel'
+  - '&7මැග් වානේවලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ මැග් වානේ'
   type:
   - '&7&oසම්පත'
 MAGSTEEL_LIQUID:
   description:
-  - '&7Magsteel වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Magsteel'
+  - '&7මැග් වානේවලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ මැග් වානේ'
   type:
   - '&7&oසම්පත'
 MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
@@ -2463,14 +2463,14 @@ MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
   - '&7&oසංරචකය'
 MAG_THOR_ALLOY:
   description:
-  - '&7Mag Thor වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ Mag Thor'
+  - '&7මැග් තෝර්වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ මැග් තෝර්'
   type:
   - '&7&oසම්පත'
 MAG_THOR_LIQUID:
   description:
-  - '&7Mag Thor වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Mag Thor'
+  - '&7මැග් තෝර්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ මැග් තෝර්'
   type:
   - '&7&oසම්පත'
 MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
@@ -2610,8 +2610,8 @@ MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
   - '&7&oසංරචකය'
 MYTHRIL_LIQUID:
   description:
-  - '&7Mythril වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Mythril'
+  - '&7මිත්‍රිල්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ මිත්‍රිල්'
   type:
   - '&7&oසම්පත'
 NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
@@ -2624,14 +2624,14 @@ NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
   - '&7&oසංරචකය'
 NICEINIUM_ALLOY:
   description:
-  - '&7Niceinium වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ Niceinium'
+  - '&7නයිසීනියම්වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ නයිසීනියම්'
   type:
   - '&7&oසම්පත'
 NICEINIUM_LIQUID:
   description:
-  - '&7Niceinium වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Niceinium'
+  - '&7නයිසීනියම්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ නයිසීනියම්'
   type:
   - '&7&oසම්පත'
 NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
@@ -2697,8 +2697,8 @@ NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
   - '&7&oසංරචකය'
 NUGGET_CAST_ADAMANTITE:
   description:
-  - '&7ඝන Adamantite වලින් සාදන ලද පිඬකි'
-  name: '&fAdamantite පිඬ'
+  - '&7ඝන ඇඩමන්ටයිට්වලින් සාදන ලද පිඬකි'
+  name: '&fඇඩමන්ටයිට් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_ADVANCED_ALLOY:
@@ -2728,7 +2728,7 @@ NUGGET_CAST_ALU_BRONZE:
 NUGGET_CAST_ANNIVERSARIUM:
   description:
   - '&7(Slime)fun වසර 10ක්!'
-  name: '&fAnniversarium පිඬ'
+  name: '&fඇනිවර්සේරියම් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_BILLON:
@@ -2739,8 +2739,8 @@ NUGGET_CAST_BILLON:
   - '&7&oසම්පත'
 NUGGET_CAST_BOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද පිඬකි'
-  name: '&fBoomerite පිඬ'
+  - '&7බූමරයිට්වලින් සාදන ලද පිඬකි'
+  name: '&fබූමරයිට් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_BRASS:
@@ -2781,8 +2781,8 @@ NUGGET_CAST_COR_BRONZE:
   - '&7&oසම්පත'
 NUGGET_CAST_CRINGLEIUM:
   description:
-  - '&7Cringleium වලින් සාදන ලද පිඬකි.'
-  name: '&fCringleium පිඬ'
+  - '&7ක්‍රින්ග්ලියම්වලින් සාදන ලද පිඬකි.'
+  name: '&fක්‍රින්ග්ලියම් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_DAMASCUS_STEEL:
@@ -2793,32 +2793,32 @@ NUGGET_CAST_DAMASCUS_STEEL:
   - '&7&oසම්පත'
 NUGGET_CAST_DAXI_ABSORPTION:
   description:
-  - '&7අධිෂ්ඨානය විහිදුවන Daxi පිඬකි.'
-  name: '&fඅවශෝෂණ Daxi පිඬ'
+  - '&7අධිෂ්ඨානය විහිදුවන ඩැක්සි පිඬකි.'
+  name: '&fඅවශෝෂණ ඩැක්සි පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_DAXI_FORTITUDE:
   description:
-  - '&7නොනැමීම විහිදුවන Daxi පිඬකි.'
-  name: '&fධෛර්ය Daxi පිඬ'
+  - '&7නොනැමීම විහිදුවන ඩැක්සි පිඬකි.'
+  name: '&fධෛර්ය ඩැක්සි පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_DAXI_REGENERATION:
   description:
-  - '&7කරුණාව විහිදුවන Daxi පිඬකි.'
-  name: '&fපුනර්ජනන Daxi පිඬ'
+  - '&7කරුණාව විහිදුවන ඩැක්සි පිඬකි.'
+  name: '&fපුනර්ජනන ඩැක්සි පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_DAXI_SATURATION:
   description:
-  - '&7උණුසුම විහිදුවන Daxi පිඬකි.'
-  name: '&fතෘප්ති Daxi පිඬ'
+  - '&7උණුසුම විහිදුවන ඩැක්සි පිඬකි.'
+  name: '&fතෘප්ති ඩැක්සි පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_DAXI_STRENGTH:
   description:
-  - '&7ශක්තිය විහිදුවන Daxi පිඬකි.'
-  name: '&fශක්ති Daxi පිඬ'
+  - '&7ශක්තිය විහිදුවන ඩැක්සි පිඬකි.'
+  name: '&fශක්ති ඩැක්සි පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_DEVOTION:
@@ -2830,8 +2830,8 @@ NUGGET_CAST_DEVOTION:
   - '&7&oසම්පත'
 NUGGET_CAST_DURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද පිඬකි'
-  name: '&fDuralium පිඬ'
+  - '&7ඩුරාලියම්වලින් සාදන ලද පිඬකි'
+  name: '&fඩුරාලියම් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_FERROSILICON:
@@ -2886,20 +2886,20 @@ NUGGET_CAST_MAGNESIUM:
   - '&7&oසම්පත'
 NUGGET_CAST_MAGNONIUM:
   description:
-  - '&7ඝන Magnonium වලින් සාදන ලද පිඬකි'
-  name: '&fMagnonium පිඬ'
+  - '&7ඝන මැග්නෝනියම්වලින් සාදන ලද පිඬකි'
+  name: '&fමැග්නෝනියම් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_MAGSTEEL:
   description:
-  - '&7ඝන MagSteel වලින් සාදන ලද පිඬකි'
-  name: '&fMagSteel පිඬ'
+  - '&7ඝන මැග් වානේවලින් සාදන ලද පිඬකි'
+  name: '&fමැග් වානේ පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_MAG_THOR:
   description:
-  - '&7Mag-Thor පිඬකි'
-  name: '&fMag-Thor පිඬ'
+  - '&7මැග්-තෝර් පිඬකි'
+  name: '&fමැග්-තෝර් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_MIXED_METAL:
@@ -2910,8 +2910,8 @@ NUGGET_CAST_MIXED_METAL:
   - '&7&oසම්පත'
 NUGGET_CAST_MYTHRIL:
   description:
-  - '&7ඝන Mythril වලින් සාදන ලද පිඬකි'
-  name: '&fMythril පිඬ'
+  - '&7ඝන මිත්‍රිල්වලින් සාදන ලද පිඬකි'
+  name: '&fමිත්‍රිල් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_NICE:
@@ -2967,13 +2967,13 @@ NUGGET_CAST_REINFORCED_DRACONIUM:
   description:
   - '&7මෙම කැටිය පිරී ඇත්තේ'
   - '&7අසමසම උදහසකිනි.'
-  name: '&fශක්තිමත් Draconium පිඬ'
+  name: '&fශක්තිමත් මකර ලෝහය පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_REINFORCED_SLIMESTEEL:
   description:
-  - '&7ශක්තිමත් Slimesteel පිඬකි'
-  name: '&fශක්තිමත් Slimesteel පිඬ'
+  - '&7ශක්තිමත් ලාටු වානේ පිඬකි'
+  name: '&fශක්තිමත් ලාටු වානේ පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_SCRAP:
@@ -2984,8 +2984,8 @@ NUGGET_CAST_SCRAP:
   - '&7&oසම්පත'
 NUGGET_CAST_SEFIRITE:
   description:
-  - '&7Sefirite වලින් සාදන ලද පිඬකි'
-  name: '&fSefirite පිඬ'
+  - '&7සෙෆිරයිට්වලින් සාදන ලද පිඬකි'
+  name: '&fසෙෆිරයිට් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_SILVER:
@@ -2996,15 +2996,15 @@ NUGGET_CAST_SILVER:
   - '&7&oසම්පත'
 NUGGET_CAST_SLIMESTEEL:
   description:
-  - '&7Slimesteel පිඬකි'
-  name: '&fSlimesteel පිඬ'
+  - '&7ලාටු වානේ පිඬකි'
+  name: '&fලාටු වානේ පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_SMITHIUM:
   description:
   - '&7විවිධ ප්‍රයෝජන ඇති සරල ලෝහයකි'
   - '&7මූලික කර්මාන්ත කටයුතුවලදී.'
-  name: '&fSmithium පිඬ'
+  name: '&fස්මිතියම් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_SOLDER:
@@ -3039,8 +3039,8 @@ NUGGET_CAST_TITANIUM:
   - '&7&oසම්පත'
 NUGGET_CAST_UNPATENTABILUM:
   description:
-  - '&7Unpatentabilum පිඬකි'
-  name: '&fUnpatentabilum පිඬ'
+  - '&7අන්පැටන්ටබිලම් පිඬකි'
+  name: '&fඅන්පැටන්ටබිලම් පිඬ'
   type:
   - '&7&oසම්පත'
 NUGGET_CAST_ZINC:
@@ -3054,7 +3054,7 @@ OROBORUS_TRAIT_PROP_LINKS_INFINITE_INGOT:
   - '&7ලැබෙන හානිය පරාවර්තනය කිරීමට 20%ක ඉඩක්.'
   - ''
   - '&7එකතු කළේ: Infinity Expansion'
-  name: '&fOroborus'
+  name: '&fඔරොබොරස්'
   type:
   - '&7&oසංරචකය'
 OXYGENATED_TRAIT_PROP_LINKS_MAGNONIUM:
@@ -3157,8 +3157,8 @@ PART_BINDING_TWISTED_VINE:
   - '&7&oසංරචකය'
 PART_BINDING_VEX_GEM:
   description:
-  - '&7Vex මැණික්වලින් සාදන ලද බැඳුමකි.'
-  name: '&fVex මැණික බැඳුම'
+  - '&7වෙක්ස් මැණික්වලින් සාදන ලද බැඳුමකි.'
+  name: '&fවෙක්ස් මැණික බැඳුම'
   type:
   - '&7&oසංරචකය'
 PART_BINDING_VINE:
@@ -3277,8 +3277,8 @@ PART_GAMBESON_TWISTED_VINE:
   - '&7&oසංරචකය'
 PART_GAMBESON_VEX_GEM:
   description:
-  - '&7Vex මැණික්වලින් සාදන ලද කබායකි.'
-  name: '&fVex මැණික කබාය'
+  - '&7වෙක්ස් මැණික්වලින් සාදන ලද කබායකි.'
+  name: '&fවෙක්ස් මැණික කබාය'
   type:
   - '&7&oසංරචකය'
 PART_GAMBESON_VINE:
@@ -3301,8 +3301,8 @@ PART_GAMBESON_WEEPING_VINE:
   - '&7&oසංරචකය'
 PART_HEAD_AXEADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fAdamantite පොරොව් හිස'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඇඩමන්ටයිට් පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXEADVANCED_ALLOY:
@@ -3343,8 +3343,8 @@ PART_HEAD_AXEBILLON:
   - '&7&oසංරචකය'
 PART_HEAD_AXEBOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fBoomerite පොරොව් හිස'
+  - '&7බූමරයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fබූමරයිට් පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXEBRASS:
@@ -3391,8 +3391,8 @@ PART_HEAD_AXEDAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_HEAD_AXEDURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fDuralium පොරොව් හිස'
+  - '&7ඩුරාලියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඩුරාලියම් පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXEEARTH_SINGULARITY:
@@ -3493,20 +3493,20 @@ PART_HEAD_AXEMAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_AXEMAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagnonium පොරොව් හිස'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග්නෝනියම් පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXEMAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagsteel පොරොව් හිස'
+  - '&7මැග් වානේවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් වානේ පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXEMAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMag Thor පොරොව් හිස'
+  - '&7මැග් තෝර්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් තෝර් පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXEMETAL_SINGULARITY:
@@ -3523,14 +3523,14 @@ PART_HEAD_AXEMIXED_METAL:
   - '&7&oසංරචකය'
 PART_HEAD_AXEMYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMythril පොරොව් හිස'
+  - '&7මිත්‍රිල්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමිත්‍රිල් පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXENICEINIUM:
   description:
-  - '&7Niceinium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fNiceinium පොරොව් හිස'
+  - '&7නයිසීනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fනයිසීනියම් පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXENICKEL:
@@ -3553,8 +3553,8 @@ PART_HEAD_AXEREINFORCED_ALLOY:
   - '&7&oසංරචකය'
 PART_HEAD_AXEREINFORCED_DRACONIUM:
   description:
-  - '&7ශක්තිමත් Draconium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fශක්තිමත් Draconium පොරොව් හිස'
+  - '&7ශක්තිමත් මකර ලෝහවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fශක්තිමත් මකර ලෝහය පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXESCRAP:
@@ -3577,8 +3577,8 @@ PART_HEAD_AXESILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_AXESMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fSmithium පොරොව් හිස'
+  - '&7ස්මිතියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fස්මිතියම් පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_AXESOLDER:
@@ -3649,8 +3649,8 @@ PART_HEAD_AXEZINC_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_HOEADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fAdamantite උදැලි හිස'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඇඩමන්ටයිට් උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOEADVANCED_ALLOY:
@@ -3691,8 +3691,8 @@ PART_HEAD_HOEBILLON:
   - '&7&oසංරචකය'
 PART_HEAD_HOEBOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fBoomerite උදැලි හිස'
+  - '&7බූමරයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fබූමරයිට් උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOEBRASS:
@@ -3739,8 +3739,8 @@ PART_HEAD_HOEDAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_HEAD_HOEDURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fDuralium උදැලි හිස'
+  - '&7ඩුරාලියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඩුරාලියම් උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOEEARTH_SINGULARITY:
@@ -3841,20 +3841,20 @@ PART_HEAD_HOEMAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_HOEMAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagnonium උදැලි හිස'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග්නෝනියම් උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOEMAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagsteel උදැලි හිස'
+  - '&7මැග් වානේවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් වානේ උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOEMAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMag Thor උදැලි හිස'
+  - '&7මැග් තෝර්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් තෝර් උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOEMETAL_SINGULARITY:
@@ -3871,14 +3871,14 @@ PART_HEAD_HOEMIXED_METAL:
   - '&7&oසංරචකය'
 PART_HEAD_HOEMYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMythril උදැලි හිස'
+  - '&7මිත්‍රිල්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමිත්‍රිල් උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOENICEINIUM:
   description:
-  - '&7Niceinium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fNiceinium උදැලි හිස'
+  - '&7නයිසීනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fනයිසීනියම් උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOENICKEL:
@@ -3901,8 +3901,8 @@ PART_HEAD_HOEREINFORCED_ALLOY:
   - '&7&oසංරචකය'
 PART_HEAD_HOEREINFORCED_DRACONIUM:
   description:
-  - '&7ශක්තිමත් Draconium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fශක්තිමත් Draconium උදැලි හිස'
+  - '&7ශක්තිමත් මකර ලෝහවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fශක්තිමත් මකර ලෝහය උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOESCRAP:
@@ -3925,8 +3925,8 @@ PART_HEAD_HOESILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_HOESMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fSmithium උදැලි හිස'
+  - '&7ස්මිතියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fස්මිතියම් උදැලි හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_HOESOLDER:
@@ -3997,8 +3997,8 @@ PART_HEAD_HOEZINC_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_PICKADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fAdamantite උල්පොරොව් හිස'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඇඩමන්ටයිට් උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKADVANCED_ALLOY:
@@ -4039,8 +4039,8 @@ PART_HEAD_PICKBILLON:
   - '&7&oසංරචකය'
 PART_HEAD_PICKBOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fBoomerite උල්පොරොව් හිස'
+  - '&7බූමරයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fබූමරයිට් උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKBRASS:
@@ -4087,8 +4087,8 @@ PART_HEAD_PICKDAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_HEAD_PICKDURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fDuralium උල්පොරොව් හිස'
+  - '&7ඩුරාලියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඩුරාලියම් උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKEARTH_SINGULARITY:
@@ -4189,20 +4189,20 @@ PART_HEAD_PICKMAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_PICKMAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagnonium උල්පොරොව් හිස'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග්නෝනියම් උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKMAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagsteel උල්පොරොව් හිස'
+  - '&7මැග් වානේවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් වානේ උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKMAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMag Thor උල්පොරොව් හිස'
+  - '&7මැග් තෝර්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් තෝර් උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKMETAL_SINGULARITY:
@@ -4219,14 +4219,14 @@ PART_HEAD_PICKMIXED_METAL:
   - '&7&oසංරචකය'
 PART_HEAD_PICKMYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMythril උල්පොරොව් හිස'
+  - '&7මිත්‍රිල්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමිත්‍රිල් උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKNICEINIUM:
   description:
-  - '&7Niceinium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fNiceinium උල්පොරොව් හිස'
+  - '&7නයිසීනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fනයිසීනියම් උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKNICKEL:
@@ -4249,8 +4249,8 @@ PART_HEAD_PICKREINFORCED_ALLOY:
   - '&7&oසංරචකය'
 PART_HEAD_PICKREINFORCED_DRACONIUM:
   description:
-  - '&7ශක්තිමත් Draconium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fශක්තිමත් Draconium උල්පොරොව් හිස'
+  - '&7ශක්තිමත් මකර ලෝහවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fශක්තිමත් මකර ලෝහය උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKSCRAP:
@@ -4273,8 +4273,8 @@ PART_HEAD_PICKSILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_PICKSMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fSmithium උල්පොරොව් හිස'
+  - '&7ස්මිතියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fස්මිතියම් උල්පොරොව් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_PICKSOLDER:
@@ -4345,8 +4345,8 @@ PART_HEAD_PICKZINC_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fAdamantite සවල් හිස'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඇඩමන්ටයිට් සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELADVANCED_ALLOY:
@@ -4387,8 +4387,8 @@ PART_HEAD_SHOVELBILLON:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELBOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fBoomerite සවල් හිස'
+  - '&7බූමරයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fබූමරයිට් සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELBRASS:
@@ -4435,8 +4435,8 @@ PART_HEAD_SHOVELDAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELDURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fDuralium සවල් හිස'
+  - '&7ඩුරාලියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඩුරාලියම් සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELEARTH_SINGULARITY:
@@ -4537,20 +4537,20 @@ PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELMAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagnonium සවල් හිස'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග්නෝනියම් සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELMAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagsteel සවල් හිස'
+  - '&7මැග් වානේවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් වානේ සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELMAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMag Thor සවල් හිස'
+  - '&7මැග් තෝර්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් තෝර් සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELMETAL_SINGULARITY:
@@ -4567,14 +4567,14 @@ PART_HEAD_SHOVELMIXED_METAL:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELMYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMythril සවල් හිස'
+  - '&7මිත්‍රිල්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමිත්‍රිල් සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELNICEINIUM:
   description:
-  - '&7Niceinium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fNiceinium සවල් හිස'
+  - '&7නයිසීනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fනයිසීනියම් සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELNICKEL:
@@ -4597,8 +4597,8 @@ PART_HEAD_SHOVELREINFORCED_ALLOY:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELREINFORCED_DRACONIUM:
   description:
-  - '&7ශක්තිමත් Draconium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fශක්තිමත් Draconium සවල් හිස'
+  - '&7ශක්තිමත් මකර ලෝහවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fශක්තිමත් මකර ලෝහය සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELSCRAP:
@@ -4621,8 +4621,8 @@ PART_HEAD_SHOVELSILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELSMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fSmithium සවල් හිස'
+  - '&7ස්මිතියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fස්මිතියම් සවල් හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SHOVELSOLDER:
@@ -4693,8 +4693,8 @@ PART_HEAD_SHOVELZINC_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fAdamantite කඩු හිස'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඇඩමන්ටයිට් කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDADVANCED_ALLOY:
@@ -4735,8 +4735,8 @@ PART_HEAD_SWORDBILLON:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDBOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fBoomerite කඩු හිස'
+  - '&7බූමරයිට්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fබූමරයිට් කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDBRASS:
@@ -4783,8 +4783,8 @@ PART_HEAD_SWORDDAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDDURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fDuralium කඩු හිස'
+  - '&7ඩුරාලියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fඩුරාලියම් කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDEARTH_SINGULARITY:
@@ -4885,20 +4885,20 @@ PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDMAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagnonium කඩු හිස'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග්නෝනියම් කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDMAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMagsteel කඩු හිස'
+  - '&7මැග් වානේවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් වානේ කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDMAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMag Thor කඩු හිස'
+  - '&7මැග් තෝර්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමැග් තෝර් කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDMETAL_SINGULARITY:
@@ -4915,14 +4915,14 @@ PART_HEAD_SWORDMIXED_METAL:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDMYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fMythril කඩු හිස'
+  - '&7මිත්‍රිල්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fමිත්‍රිල් කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDNICEINIUM:
   description:
-  - '&7Niceinium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fNiceinium කඩු හිස'
+  - '&7නයිසීනියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fනයිසීනියම් කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDNICKEL:
@@ -4945,8 +4945,8 @@ PART_HEAD_SWORDREINFORCED_ALLOY:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDREINFORCED_DRACONIUM:
   description:
-  - '&7ශක්තිමත් Draconium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fශක්තිමත් Draconium කඩු හිස'
+  - '&7ශක්තිමත් මකර ලෝහවලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fශක්තිමත් මකර ලෝහය කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDSCRAP:
@@ -4969,8 +4969,8 @@ PART_HEAD_SWORDSILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDSMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද මෙවලම් හිසකි.'
-  name: '&fSmithium කඩු හිස'
+  - '&7ස්මිතියම්වලින් සාදන ලද මෙවලම් හිසකි.'
+  name: '&fස්මිතියම් කඩු හිස'
   type:
   - '&7&oසංරචකය'
 PART_HEAD_SWORDSOLDER:
@@ -5083,8 +5083,8 @@ PART_LEG_PLATE_DUMMY:
   - '&7&oසංරචකය'
 PART_LINKS_ADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
-  name: '&fAdamantite දම්වැල් පුරුක්'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
+  name: '&fඇඩමන්ටයිට් දම්වැල් පුරුක්'
   type:
   - '&7&oසංරචකය'
 PART_LINKS_ADVANCED_ALLOY:
@@ -5161,8 +5161,8 @@ PART_LINKS_CORINTHIAN_BRONZE:
   - '&7&oසංරචකය'
 PART_LINKS_CRINGLEIUM:
   description:
-  - '&7Cringleium වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
-  name: '&fCringleium දම්වැල් පුරුක්'
+  - '&7ක්‍රින්ග්ලියම්වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
+  name: '&fක්‍රින්ග්ලියම් දම්වැල් පුරුක්'
   type:
   - '&7&oසංරචකය'
 PART_LINKS_DAMASCUS_STEEL:
@@ -5173,8 +5173,8 @@ PART_LINKS_DAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_LINKS_DURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
-  name: '&fDuralium දම්වැල් පුරුක්'
+  - '&7ඩුරාලියම්වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
+  name: '&fඩුරාලියම් දම්වැල් පුරුක්'
   type:
   - '&7&oසංරචකය'
 PART_LINKS_EARTH_SINGULARITY:
@@ -5287,20 +5287,20 @@ PART_LINKS_MAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_LINKS_MAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
-  name: '&fMagnonium දම්වැල් පුරුක්'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
+  name: '&fමැග්නෝනියම් දම්වැල් පුරුක්'
   type:
   - '&7&oසංරචකය'
 PART_LINKS_MAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
-  name: '&fMagsteel දම්වැල් පුරුක්'
+  - '&7මැග් වානේවලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
+  name: '&fමැග් වානේ දම්වැල් පුරුක්'
   type:
   - '&7&oසංරචකය'
 PART_LINKS_MAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
-  name: '&fMag Thor දම්වැල් පුරුක්'
+  - '&7මැග් තෝර්වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
+  name: '&fමැග් තෝර් දම්වැල් පුරුක්'
   type:
   - '&7&oසංරචකය'
 PART_LINKS_METAL_SINGULARITY:
@@ -5317,8 +5317,8 @@ PART_LINKS_MIXED_METAL:
   - '&7&oසංරචකය'
 PART_LINKS_MYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
-  name: '&fMythril දම්වැල් පුරුක්'
+  - '&7මිත්‍රිල්වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
+  name: '&fමිත්‍රිල් දම්වැල් පුරුක්'
   type:
   - '&7&oසංරචකය'
 PART_LINKS_NICKEL:
@@ -5365,8 +5365,8 @@ PART_LINKS_SILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_LINKS_SMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
-  name: '&fSmithium දම්වැල් පුරුක්'
+  - '&7ස්මිතියම්වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
+  name: '&fස්මිතියම් දම්වැල් පුරුක්'
   type:
   - '&7&oසංරචකය'
 PART_LINKS_SOLDER:
@@ -5419,8 +5419,8 @@ PART_LINKS_TITANIUM:
   - '&7&oසංරචකය'
 PART_LINKS_ULTIMANINIUM:
   description:
-  - '&7Ultimaninium වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
-  name: '&fUltimaninium දම්වැල් පුරුක්'
+  - '&7අල්ටිමැනීනියම්වලින් සාදන ලද දම්වැල් පුරුක් කට්ටලයකි.'
+  name: '&fඅල්ටිමැනීනියම් දම්වැල් පුරුක්'
   type:
   - '&7&oසංරචකය'
 PART_LINKS_VOID:
@@ -5463,8 +5463,8 @@ PART_PICKAXE_HEAD_DUMMY:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fAdamantite පාවහන් තහඩු'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඇඩමන්ටයිට් පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSADVANCED_ALLOY:
@@ -5499,8 +5499,8 @@ PART_PLATES_BOOTSALUMINUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSANNIVERSARIUM:
   description:
-  - '&7Anniversarium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fAnniversarium පාවහන් තහඩු'
+  - '&7ඇනිවර්සේරියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඇනිවර්සේරියම් පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSBILLON:
@@ -5511,8 +5511,8 @@ PART_PLATES_BOOTSBILLON:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSBOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fBoomerite පාවහන් තහඩු'
+  - '&7බූමරයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fබූමරයිට් පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSBRASS:
@@ -5559,8 +5559,8 @@ PART_PLATES_BOOTSDAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSDURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fDuralium පාවහන් තහඩු'
+  - '&7ඩුරාලියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඩුරාලියම් පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSEARTH_SINGULARITY:
@@ -5661,20 +5661,20 @@ PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSMAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMagnonium පාවහන් තහඩු'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග්නෝනියම් පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSMAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMagsteel පාවහන් තහඩු'
+  - '&7මැග් වානේවලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග් වානේ පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSMAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMag Thor පාවහන් තහඩු'
+  - '&7මැග් තෝර්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග් තෝර් පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSMETAL_SINGULARITY:
@@ -5691,8 +5691,8 @@ PART_PLATES_BOOTSMIXED_METAL:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSMYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMythril පාවහන් තහඩු'
+  - '&7මිත්‍රිල්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමිත්‍රිල් පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSNICKEL:
@@ -5727,8 +5727,8 @@ PART_PLATES_BOOTSSCRAP:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSSEFIRITE:
   description:
-  - '&7Sefirite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fSefirite පාවහන් තහඩු'
+  - '&7සෙෆිරයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fසෙෆිරයිට් පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSSILVER:
@@ -5745,8 +5745,8 @@ PART_PLATES_BOOTSSILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSSMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fSmithium පාවහන් තහඩු'
+  - '&7ස්මිතියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fස්මිතියම් පාවහන් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_BOOTSSOLDER:
@@ -5817,8 +5817,8 @@ PART_PLATES_BOOTSZINC_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fAdamantite පපුවැසුම් තහඩු'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඇඩමන්ටයිට් පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEADVANCED_ALLOY:
@@ -5853,8 +5853,8 @@ PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEANNIVERSARIUM:
   description:
-  - '&7Anniversarium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fAnniversarium පපුවැසුම් තහඩු'
+  - '&7ඇනිවර්සේරියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඇනිවර්සේරියම් පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEBILLON:
@@ -5865,8 +5865,8 @@ PART_PLATES_CHESTPLATEBILLON:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEBOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fBoomerite පපුවැසුම් තහඩු'
+  - '&7බූමරයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fබූමරයිට් පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEBRASS:
@@ -5913,8 +5913,8 @@ PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEDURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fDuralium පපුවැසුම් තහඩු'
+  - '&7ඩුරාලියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඩුරාලියම් පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
@@ -6015,20 +6015,20 @@ PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEMAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMagnonium පපුවැසුම් තහඩු'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග්නෝනියම් පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEMAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMagsteel පපුවැසුම් තහඩු'
+  - '&7මැග් වානේවලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග් වානේ පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEMAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMag Thor පපුවැසුම් තහඩු'
+  - '&7මැග් තෝර්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග් තෝර් පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
@@ -6045,8 +6045,8 @@ PART_PLATES_CHESTPLATEMIXED_METAL:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATEMYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMythril පපුවැසුම් තහඩු'
+  - '&7මිත්‍රිල්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමිත්‍රිල් පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATENICKEL:
@@ -6081,8 +6081,8 @@ PART_PLATES_CHESTPLATESCRAP:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATESEFIRITE:
   description:
-  - '&7Sefirite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fSefirite පපුවැසුම් තහඩු'
+  - '&7සෙෆිරයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fසෙෆිරයිට් පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATESILVER:
@@ -6099,8 +6099,8 @@ PART_PLATES_CHESTPLATESILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATESMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fSmithium පපුවැසුම් තහඩු'
+  - '&7ස්මිතියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fස්මිතියම් පපුවැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_CHESTPLATESOLDER:
@@ -6171,8 +6171,8 @@ PART_PLATES_CHESTPLATEZINC_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fAdamantite හිස්වැසුම් තහඩු'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඇඩමන්ටයිට් හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETADVANCED_ALLOY:
@@ -6207,8 +6207,8 @@ PART_PLATES_HELMETALUMINUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETANNIVERSARIUM:
   description:
-  - '&7Anniversarium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fAnniversarium හිස්වැසුම් තහඩු'
+  - '&7ඇනිවර්සේරියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඇනිවර්සේරියම් හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETBILLON:
@@ -6219,8 +6219,8 @@ PART_PLATES_HELMETBILLON:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETBOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fBoomerite හිස්වැසුම් තහඩු'
+  - '&7බූමරයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fබූමරයිට් හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETBRASS:
@@ -6267,8 +6267,8 @@ PART_PLATES_HELMETDAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETDURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fDuralium හිස්වැසුම් තහඩු'
+  - '&7ඩුරාලියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඩුරාලියම් හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETEARTH_SINGULARITY:
@@ -6369,20 +6369,20 @@ PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETMAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMagnonium හිස්වැසුම් තහඩු'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග්නෝනියම් හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETMAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMagsteel හිස්වැසුම් තහඩු'
+  - '&7මැග් වානේවලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග් වානේ හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETMAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMag Thor හිස්වැසුම් තහඩු'
+  - '&7මැග් තෝර්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග් තෝර් හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETMETAL_SINGULARITY:
@@ -6399,8 +6399,8 @@ PART_PLATES_HELMETMIXED_METAL:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETMYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMythril හිස්වැසුම් තහඩු'
+  - '&7මිත්‍රිල්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමිත්‍රිල් හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETNICKEL:
@@ -6435,8 +6435,8 @@ PART_PLATES_HELMETSCRAP:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETSEFIRITE:
   description:
-  - '&7Sefirite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fSefirite හිස්වැසුම් තහඩු'
+  - '&7සෙෆිරයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fසෙෆිරයිට් හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETSILVER:
@@ -6453,8 +6453,8 @@ PART_PLATES_HELMETSILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETSMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fSmithium හිස්වැසුම් තහඩු'
+  - '&7ස්මිතියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fස්මිතියම් හිස්වැසුම් තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_HELMETSOLDER:
@@ -6525,8 +6525,8 @@ PART_PLATES_HELMETZINC_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fAdamantite කලවා තහඩු'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඇඩමන්ටයිට් කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSADVANCED_ALLOY:
@@ -6561,8 +6561,8 @@ PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSANNIVERSARIUM:
   description:
-  - '&7Anniversarium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fAnniversarium කලවා තහඩු'
+  - '&7ඇනිවර්සේරියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඇනිවර්සේරියම් කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSBILLON:
@@ -6573,8 +6573,8 @@ PART_PLATES_LEGGINGSBILLON:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSBOOMERITE:
   description:
-  - '&7Boomerite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fBoomerite කලවා තහඩු'
+  - '&7බූමරයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fබූමරයිට් කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSBRASS:
@@ -6621,8 +6621,8 @@ PART_PLATES_LEGGINGSDAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSDURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fDuralium කලවා තහඩු'
+  - '&7ඩුරාලියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fඩුරාලියම් කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSEARTH_SINGULARITY:
@@ -6723,20 +6723,20 @@ PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSMAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMagnonium කලවා තහඩු'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග්නෝනියම් කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSMAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMagsteel කලවා තහඩු'
+  - '&7මැග් වානේවලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග් වානේ කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSMAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMag Thor කලවා තහඩු'
+  - '&7මැග් තෝර්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමැග් තෝර් කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSMETAL_SINGULARITY:
@@ -6753,8 +6753,8 @@ PART_PLATES_LEGGINGSMIXED_METAL:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSMYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fMythril කලවා තහඩු'
+  - '&7මිත්‍රිල්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fමිත්‍රිල් කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSNICKEL:
@@ -6789,8 +6789,8 @@ PART_PLATES_LEGGINGSSCRAP:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSSEFIRITE:
   description:
-  - '&7Sefirite වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fSefirite කලවා තහඩු'
+  - '&7සෙෆිරයිට්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fසෙෆිරයිට් කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSSILVER:
@@ -6807,8 +6807,8 @@ PART_PLATES_LEGGINGSSILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSSMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
-  name: '&fSmithium කලවා තහඩු'
+  - '&7ස්මිතියම්වලින් සාදන ලද සන්නාහ තහඩු කට්ටලයකි.'
+  name: '&fස්මිතියම් කලවා තහඩු'
   type:
   - '&7&oසංරචකය'
 PART_PLATES_LEGGINGSSOLDER:
@@ -6888,8 +6888,8 @@ PART_REPAIR_KIT:
 PART_REPAIR_KIT_ADAMANTITE:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Adamantite වලින් සාදා ඇත.'
-  name: '&fAdamantite අලුත්වැඩියා කට්ටලය'
+  - '&7ඇඩමන්ටයිට්වලින් සාදා ඇත.'
+  name: '&fඇඩමන්ටයිට් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_ADVANCED_ALLOY:
@@ -6930,8 +6930,8 @@ PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
 PART_REPAIR_KIT_ANNIVERSARIUM:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Anniversarium වලින් සාදා ඇත.'
-  name: '&fAnniversarium අලුත්වැඩියා කට්ටලය'
+  - '&7ඇනිවර්සේරියම්වලින් සාදා ඇත.'
+  name: '&fඇනිවර්සේරියම් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_BILLON:
@@ -6944,8 +6944,8 @@ PART_REPAIR_KIT_BILLON:
 PART_REPAIR_KIT_BOOMERITE:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Boomerite වලින් සාදා ඇත.'
-  name: '&fBoomerite අලුත්වැඩියා කට්ටලය'
+  - '&7බූමරයිට්වලින් සාදා ඇත.'
+  name: '&fබූමරයිට් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_BRASS:
@@ -7006,8 +7006,8 @@ PART_REPAIR_KIT_DUMMY:
 PART_REPAIR_KIT_DURALIUM:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Duralium වලින් සාදා ඇත.'
-  name: '&fDuralium අලුත්වැඩියා කට්ටලය'
+  - '&7ඩුරාලියම්වලින් සාදා ඇත.'
+  name: '&fඩුරාලියම් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_EARTH_SINGULARITY:
@@ -7125,22 +7125,22 @@ PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
 PART_REPAIR_KIT_MAGNONIUM:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Magnonium වලින් සාදා ඇත.'
-  name: '&fMagnonium අලුත්වැඩියා කට්ටලය'
+  - '&7මැග්නෝනියම්වලින් සාදා ඇත.'
+  name: '&fමැග්නෝනියම් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_MAGSTEEL:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Magsteel වලින් සාදා ඇත.'
-  name: '&fMagsteel අලුත්වැඩියා කට්ටලය'
+  - '&7මැග් වානේවලින් සාදා ඇත.'
+  name: '&fමැග් වානේ අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_MAG_THOR:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Mag Thor වලින් සාදා ඇත.'
-  name: '&fMag Thor අලුත්වැඩියා කට්ටලය'
+  - '&7මැග් තෝර්වලින් සාදා ඇත.'
+  name: '&fමැග් තෝර් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_METAL_SINGULARITY:
@@ -7160,15 +7160,15 @@ PART_REPAIR_KIT_MIXED_METAL:
 PART_REPAIR_KIT_MYTHRIL:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Mythril වලින් සාදා ඇත.'
-  name: '&fMythril අලුත්වැඩියා කට්ටලය'
+  - '&7මිත්‍රිල්වලින් සාදා ඇත.'
+  name: '&fමිත්‍රිල් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_NICEINIUM:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Niceinium වලින් සාදා ඇත.'
-  name: '&fNiceinium අලුත්වැඩියා කට්ටලය'
+  - '&7නයිසීනියම්වලින් සාදා ඇත.'
+  name: '&fනයිසීනියම් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_NICKEL:
@@ -7202,8 +7202,8 @@ PART_REPAIR_KIT_REINFORCED_ALLOY:
 PART_REPAIR_KIT_REINFORCED_DRACONIUM:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7ශක්තිමත් Draconium වලින් සාදා ඇත.'
-  name: '&fශක්තිමත් Draconium අලුත්වැඩියා කට්ටලය'
+  - '&7ශක්තිමත් මකර ලෝහවලින් සාදා ඇත.'
+  name: '&fශක්තිමත් මකර ලෝහය අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_SCRAP:
@@ -7216,8 +7216,8 @@ PART_REPAIR_KIT_SCRAP:
 PART_REPAIR_KIT_SEFIRITE:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Sefirite වලින් සාදා ඇත.'
-  name: '&fSefirite අලුත්වැඩියා කට්ටලය'
+  - '&7සෙෆිරයිට්වලින් සාදා ඇත.'
+  name: '&fසෙෆිරයිට් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_SILVER:
@@ -7237,8 +7237,8 @@ PART_REPAIR_KIT_SILVER_SINGULARITY:
 PART_REPAIR_KIT_SMITHIUM:
   description:
   - '&7භාණ්ඩ අලුත්වැඩියා කළ හැකි කට්ටලයකි'
-  - '&7Smithium වලින් සාදා ඇත.'
-  name: '&fSmithium අලුත්වැඩියා කට්ටලය'
+  - '&7ස්මිතියම්වලින් සාදා ඇත.'
+  name: '&fස්මිතියම් අලුත්වැඩියා කට්ටලය'
   type:
   - '&7&oසංරචකය'
 PART_REPAIR_KIT_SOLDER:
@@ -7320,8 +7320,8 @@ PART_REPAIR_KIT_ZINC_SINGULARITY:
   - '&7&oසංරචකය'
 PART_ROD_ADAMANTITE:
   description:
-  - '&7Adamantite වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
-  name: '&fAdamantite දණ්ඩ'
+  - '&7ඇඩමන්ටයිට්වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
+  name: '&fඇඩමන්ටයිට් දණ්ඩ'
   type:
   - '&7&oසංරචකය'
 PART_ROD_ADVANCED_ALLOY:
@@ -7404,8 +7404,8 @@ PART_ROD_DAMASCUS_STEEL:
   - '&7&oසංරචකය'
 PART_ROD_DURALIUM:
   description:
-  - '&7Duralium වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
-  name: '&fDuralium දණ්ඩ'
+  - '&7ඩුරාලියම්වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
+  name: '&fඩුරාලියම් දණ්ඩ'
   type:
   - '&7&oසංරචකය'
 PART_ROD_EARTH_SINGULARITY:
@@ -7500,20 +7500,20 @@ PART_ROD_MAGNESIUM_SINGULARITY:
   - '&7&oසංරචකය'
 PART_ROD_MAGNONIUM:
   description:
-  - '&7Magnonium වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
-  name: '&fMagnonium දණ්ඩ'
+  - '&7මැග්නෝනියම්වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
+  name: '&fමැග්නෝනියම් දණ්ඩ'
   type:
   - '&7&oසංරචකය'
 PART_ROD_MAGSTEEL:
   description:
-  - '&7Magsteel වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
-  name: '&fMagsteel දණ්ඩ'
+  - '&7මැග් වානේවලින් සාදන ලද මෙවලම් දණ්ඩකි.'
+  name: '&fමැග් වානේ දණ්ඩ'
   type:
   - '&7&oසංරචකය'
 PART_ROD_MAG_THOR:
   description:
-  - '&7Mag Thor වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
-  name: '&fMag Thor දණ්ඩ'
+  - '&7මැග් තෝර්වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
+  name: '&fමැග් තෝර් දණ්ඩ'
   type:
   - '&7&oසංරචකය'
 PART_ROD_METAL_SINGULARITY:
@@ -7530,8 +7530,8 @@ PART_ROD_MIXED_METAL:
   - '&7&oසංරචකය'
 PART_ROD_MYTHRIL:
   description:
-  - '&7Mythril වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
-  name: '&fMythril දණ්ඩ'
+  - '&7මිත්‍රිල්වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
+  name: '&fමිත්‍රිල් දණ්ඩ'
   type:
   - '&7&oසංරචකය'
 PART_ROD_NICKEL:
@@ -7578,8 +7578,8 @@ PART_ROD_SILVER_SINGULARITY:
   - '&7&oසංරචකය'
 PART_ROD_SMITHIUM:
   description:
-  - '&7Smithium වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
-  name: '&fSmithium දණ්ඩ'
+  - '&7ස්මිතියම්වලින් සාදන ලද මෙවලම් දණ්ඩකි.'
+  name: '&fස්මිතියම් දණ්ඩ'
   type:
   - '&7&oසංරචකය'
 PART_ROD_SOLDER:
@@ -7895,14 +7895,14 @@ REINFORCED_ALLOY_LIQUID:
   - '&7&oසම්පත'
 REINFORCED_DRACONIUM_ALLOY:
   description:
-  - '&7ශක්තිමත් Draconium වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ ශක්තිමත් Draconium'
+  - '&7ශක්තිමත් මකර ලෝහවලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ ශක්තිමත් මකර ලෝහය'
   type:
   - '&7&oසම්පත'
 REINFORCED_DRACONIUM_LIQUID:
   description:
-  - '&7ශක්තිමත් Draconium වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ ශක්තිමත් Draconium'
+  - '&7ශක්තිමත් මකර ලෝහවලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ ශක්තිමත් මකර ලෝහය'
   type:
   - '&7&oසම්පත'
 REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
@@ -7923,8 +7923,8 @@ REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
   - '&7&oසංරචකය'
 REMOTININIUM_LIQUID:
   description:
-  - '&7Remotininium වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Remotininium'
+  - '&7රිමොටිනීනියම්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ රිමොටිනීනියම්'
   type:
   - '&7&oසම්පත'
 RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
@@ -7956,7 +7956,7 @@ SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
   - '&7කල්පැවැත්ම් හානිය දෙගුණ වේ. සෞඛ්‍යය 1/2ට වඩා පහත වැටුණු විට වේගය 3 ලැබේ.'
   - ''
   - '&7එකතු කළේ: Core SlimeTinker'
-  name: '&fScarpaaarr!'
+  name: '&fපලාආආයන්න!'
   type:
   - '&7&oසංරචකය'
 SCRAP_LIQUID:
@@ -7993,8 +7993,8 @@ SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
   - '&7&oසංරචකය'
 SEFIRITE_LIQUID:
   description:
-  - '&7Sefirite වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Sefirite'
+  - '&7සෙෆිරයිට්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ සෙෆිරයිට්'
   type:
   - '&7&oසම්පත'
 SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
@@ -8112,14 +8112,14 @@ SMELTERY_CONTROLLER:
   - '&7&oසංරචකය'
 SMITHIUM_ALLOY:
   description:
-  - '&7Smithium වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ Smithium'
+  - '&7ස්මිතියම්වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ ස්මිතියම්'
   type:
   - '&7&oසම්පත'
 SMITHIUM_LIQUID:
   description:
-  - '&7Smithium වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Smithium'
+  - '&7ස්මිතියම්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ ස්මිතියම්'
   type:
   - '&7&oසම්පත'
 SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
@@ -8145,7 +8145,7 @@ SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
   - '&7කටු හානිය නොසලකා හැර ආපසු පරාවර්තනය වේ'
   - ''
   - '&7එකතු කළේ: Core SlimeTinker'
-  name: '&fSnroht'
+  name: '&fටුක'
   type:
   - '&7&oසංරචකය'
 SOFT_II_TRAIT_PROP_ROD_ALUMINUM_SINGULARITY:
@@ -8321,7 +8321,7 @@ STING_OF_GONDOLIN_TRAIT_PROP_ROD_MYTHRIL:
   - '&7අවට සිටින සතුරු සතුන් සියල්ල පලවා හරියි.'
   - ''
   - '&7එකතු කළේ: Infinity Expansion'
-  name: '&fGondolin හි කටුව'
+  name: '&fගොන්ඩොලින් හි කටුව'
   type:
   - '&7&oසංරචකය'
 STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
@@ -8359,7 +8359,7 @@ SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
   - '&7&oසංරචකය'
 SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
   description:
-  - '&7වානේ හෝ MagSteel වැනිය, නමුත් තවත් විකාරයි.'
+  - '&7වානේ හෝ මැග් වානේ වැනිය, නමුත් තවත් විකාරයි.'
   - ''
   - '&7එකතු කළේ: DynaTech'
   name: '&fඅති විශිෂ්ට මල නොබැඳෙන'
@@ -8429,8 +8429,8 @@ TESSERACTING_MATERIAL_LIQUID:
   - '&7&oසම්පත'
 THE_END_TRAIT_PROP_LINKS_VOID_INGOT:
   description:
-  - '&7මකරාගෙන්, Enderman ලාගෙන් සහ'
-  - '&7Shulker ලාගෙන් එන හානිය 10%කින්'
+  - '&7මකරාගෙන්, එන්ඩර්මෑන් ලාගෙන් සහ'
+  - '&7ෂල්කර් ලාගෙන් එන හානිය 10%කින්'
   - ''
   - '&7එකතු කළේ: Infinity Expansion'
   name: '&fඅවසානය'
@@ -8712,14 +8712,14 @@ TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
   - '&7&oසංරචකය'
 ULTIMANINIUM_ALLOY:
   description:
-  - '&7Ultimaninium වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
-  name: '&fඋණු කළ Ultimaninium'
+  - '&7අල්ටිමැනීනියම්වලින් සාදන ලද උණු කළ මිශ්‍ර ලෝහයකි.'
+  name: '&fඋණු කළ අල්ටිමැනීනියම්'
   type:
   - '&7&oසම්පත'
 ULTIMANINIUM_LIQUID:
   description:
-  - '&7Ultimaninium වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Ultimaninium'
+  - '&7අල්ටිමැනීනියම්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ අල්ටිමැනීනියම්'
   type:
   - '&7&oසම්පත'
 UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
@@ -8751,8 +8751,8 @@ VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
   - '&7&oසංරචකය'
 VEX_GEM_LIQUID:
   description:
-  - '&7Vex මැණික්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
-  name: '&fඋණු කළ Vex මැණික'
+  - '&7වෙක්ස් මැණික්වලින් සැදුණු උණු කළ ස්වරූපයයි.'
+  name: '&fඋණු කළ වෙක්ස් මැණික'
   type:
   - '&7&oසම්පත'
 VOID_LIQUID:
@@ -8771,7 +8771,7 @@ VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
   - '&7&oසංරචකය'
 WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
   description:
-  - '&7Nether හි උණුසුම් වූ විට වේගය + 2.'
+  - '&7නෙදර් හි උණුසුම් වූ විට වේගය + 2.'
   - '&7අවසානයේ සීතල වූ විට මන්දගාමිත්වය + 1'
   - ''
   - '&7එකතු කළේ: Core SlimeTinker'
@@ -8799,7 +8799,7 @@ WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
   - '&7ඔබේ පහරවල් හානි කරනවා වෙනුවට සුවපත් කරයි.'
   - ''
   - '&7එකතු කළේ: Core SlimeTinker'
-  name: '&fWHM'
+  name: '&fසු.මා.'
   type:
   - '&7&oසංරචකය'
 WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
@@ -8815,7 +8815,7 @@ WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
   - '&7විනාශවීමේ බලපෑමට ප්‍රතිශක්තිය ඇත.'
   - ''
   - '&7එකතු කළේ: Core SlimeTinker'
-  name: '&fWither ප්‍රතිරෝධී'
+  name: '&fවිදර් ප්‍රතිරෝධී'
   type:
   - '&7&oසංරචකය'
 WIZARD_ROBES_TRAIT_PROP_PLATES_MAGIC_SINGULARITY:
@@ -8848,7 +8848,7 @@ YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
   - '&7ඔබට වඩා මිත්‍රශීලී කරයි.'
   - ''
   - '&7එකතු කළේ: DynaTech'
-  name: '&fYvaine'
+  name: '&fඉවේන්'
   type:
   - '&7&oසංරචකය'
 ZINC_LIQUID:
