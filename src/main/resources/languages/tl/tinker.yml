@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Bota
+  CHESTPLATE: Baluting Pandibdib
+  HELMET: Kasko
+  LEGGINGS: Baluting Pambinti
+lore:
+  added_by: Idinagdag ng
+  binder_abbrev: 'T: '
+  gambeson_abbrev: 'G: '
+  head_abbrev: 'U: '
+  level: 'Antas: '
+  links_abbrev: 'K: '
+  mod_level: ' Antas '
+  mod_max: ' - (PINAKAMATAAS)'
+  modifier_slots: 'Puwang ng Pagbabago: '
+  part_desc_1: Isang bahagi ng kasangkapan. Walang silbi mag-isa ngunit maaaring
+  part_desc_2: gawing mas dakilang bagay sa
+  part_desc_3: Mesa ng panday.
+  part_material: 'Materyal : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'B: '
+  sponsored_by: Itinaguyod ni
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Abanteng Haluang Metal
+  ALUMINUM: Aluminyo
+  ALUMINUM_BRASS: Aluminyong Laton
+  ALUMINUM_BRONZE: Aluminyong Bronse
+  ALUMINUM_SINGULARITY: Singularidad ng Aluminyo
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Billon
+  BOOMERITE: Boomerite
+  BRASS: Laton
+  BRONZE: Bronse
+  CARBON_MESH: Lambat na Karbon
+  COAL: Uling
+  COBALT: Kobalto
+  COPPER: Tanso
+  COPPER_SINGULARITY: Singularidad ng Tanso
+  CORINTHIAN_BRONZE: Bronseng Korinto
+  CRIMSON_ROOT: Krimsong Ugat
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Aserong Damasko
+  DAXI_ABSORPTION: Daxi ng Pagsipsip
+  DAXI_FORTITUDE: Daxi ng Tatag
+  DAXI_REGENERATION: Daxi ng Panunumbalik
+  DAXI_SATURATION: Daxi ng Kabusugan
+  DAXI_STRENGTH: Daxi ng Lakas
+  DETAILED_DEVOTION: Masusing Debosyon
+  DIAMOND: Diyamante
+  DIAMOND_SINGULARITY: Singularidad ng Diyamante
+  DRACONIC: Drakoniko
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Singularidad ng Lupa
+  FERROSILICON: Ferosilikon
+  FLOWING_FONDNESS: Umaagos na Paglingap
+  FORTUNE_SINGULARITY: Singularidad ng Swerte
+  GHOSTLY_ESSENCE: Esensya ng Multo
+  GOLD: Ginto
+  GOLD_SINGULARITY: Singularidad ng Ginto
+  HARDENED_METAL: Pinatigas na Metal
+  INFINITE: Walang Hanggan
+  INFINITY_SINGULARITY: Singularidad ng Kawalang-hanggan
+  INTERDIMENSIONAL_PRESENCE: Presensyang Interdimensyonal
+  IRIDIUM: Iridyum
+  IRON: Bakal
+  IRON_SINGULARITY: Singularidad ng Bakal
+  LEAD: Tingga
+  LEAD_SINGULARITY: Singularidad ng Tingga
+  LEATHER: Katad
+  LIQUID_CHRISTMAS: Likidong Pasko
+  LIQUID_LOVE: Likidong Pag-ibig
+  MAGIC_SINGULARITY: Singularidad ng Mahika
+  MAGNESIUM: Magnesyo
+  MAGNESIUM_SINGULARITY: Singularidad ng Magnesyo
+  MAGNONIUM: Magnonium
+  MAGSTEEL: Magasero
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Singularidad ng Metal
+  MIXED_METAL: Halong Metal
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Nikel
+  OSMIUM: Osmyo
+  OSMIUM_SUPERALLOY: Superhalo ng Osmyo
+  PURIFIED_PASSION: Dinalisay na Simbuyo
+  REDSTONE: Pulang Bato
+  REDSTONE_ALLOY: Haluang Pulang Bato
+  REFINED_IRON: Dinalisay na Bakal
+  REINFORCED_ALLOY: Pinatibay na Haluang Metal
+  REINFORCED_DRACONIUM: Pinatibay na Draconium
+  REINFORCED_SLIME_STEEL: Pinatibay na Aserong Lagkit
+  REMOTININIUM: Remotininium
+  RUBBER: Goma
+  SCRAP: Retaso
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Silikon
+  SILVER: Pilak
+  SILVER_SINGULARITY: Singularidad ng Pilak
+  SLIME: Lagkit
+  SLIME_STEEL: Aserong Lagkit
+  SMITHIUM: Smithium
+  SOLDER: Panghinang
+  STAINLESS_STEEL: Aserong Di-kinakalawang
+  STAR_DUST: Alikabok ng Bituin
+  STEEL: Asero
+  STRING: Sinulid
+  TESSERACTING_MATERIAL: Materyal na Teserakto
+  THORIUM: Toryo
+  TIN: Lata
+  TIN_SINGULARITY: Singularidad ng Lata
+  TITANIUM: Titanyo
+  TWISTED_VINE: Pilipit na Baging
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Hiyas ng Vex
+  VINE: Baging
+  VOID: Kawalan
+  WARPED_ROOT: Baluktot na Ugat
+  WEEPING_VINE: Tumatangis na Baging
+  ZINC: Sink
+  ZINC_SINGULARITY: Singularidad ng Sink
+messages:
+  smeltery-incomplete: Hindi pa tapos ang tunawang ito - buuin ang patayong 3x3 gamit ang 6 na Blokeng Inihaw na Laryo, isang Inihaw na Tangke at isang Pansalin.
+modifiers:
+  DIAMOND: Diyamante
+  EMERALD: Esmeralda
+  LAPIS_LAZULI: Lapislasuli
+  MOD_PLATE: Plaka ng Pagbabago
+  QUARTZ: Kwarts
+  REDSTONE: Pulang Bato
+part-types:
+  BINDING: Tali
+  GAMBESON: Gambeson
+  HEAD_AXE: Ulo ng Palakol
+  HEAD_HOE: Ulo ng Asarol
+  HEAD_PICK: Ulo ng Piko
+  HEAD_SHOVEL: Ulo ng Pala
+  HEAD_SWORD: Talim ng Espada
+  LINKS: Kawing
+  PLATE_BOOTS: Plaka ng Bota
+  PLATE_CHESTPLATE: Plaka ng Dibdib
+  PLATE_HELMET: Plaka ng Kasko
+  PLATE_LEGGINGS: Plaka ng Binti
+  REPAIR: Pangkumpuni
+  ROD: Baras ng Kasangkapan
+tool-types:
+  AXE: Palakol
+  HOE: Asarol
+  PICK: Piko
+  PICKAXE: Piko
+  SHOVEL: Pala
+  SWORD: Espada
