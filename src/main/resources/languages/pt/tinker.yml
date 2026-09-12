@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: Botas
+  CHESTPLATE: Peitoral
+  HELMET: Capacete
+  LEGGINGS: Perneiras
+lore:
+  added_by: Adicionado por
+  binder_abbrev: 'L: '
+  gambeson_abbrev: 'G: '
+  head_abbrev: 'C: '
+  level: 'Nível: '
+  links_abbrev: 'E: '
+  mod_level: ' Nível '
+  mod_max: ' - (MÁX)'
+  modifier_slots: 'Espaços de Modificação: '
+  part_desc_1: Uma peça de ferramenta. Inútil por si só, mas pode
+  part_desc_2: ser transformada em algo maior na
+  part_desc_3: Mesa do Latoeiro.
+  part_material: 'Material : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'H: '
+  sponsored_by: Patrocinado por
+materials:
+  ADAMANTITE: Adamantite
+  ADVANCED_ALLOY: Liga Avançada
+  ALUMINUM: Alumínio
+  ALUMINUM_BRASS: Latão de Alumínio
+  ALUMINUM_BRONZE: Bronze de Alumínio
+  ALUMINUM_SINGULARITY: Singularidade de Alumínio
+  ANNIVERSARIUM: Anniversarium
+  BILLON: Bolhão
+  BOOMERITE: Boomerite
+  BRASS: Latão
+  BRONZE: Bronze
+  CARBON_MESH: Malha de Carbono
+  COAL: Carvão
+  COBALT: Cobalto
+  COPPER: Cobre
+  COPPER_SINGULARITY: Singularidade de Cobre
+  CORINTHIAN_BRONZE: Bronze Coríntio
+  CRIMSON_ROOT: Raiz Carmesim
+  CRINGLEIUM: Cringleium
+  DAMASCUS_STEEL: Aço de Damasco
+  DAXI_ABSORPTION: Daxi de Absorção
+  DAXI_FORTITUDE: Daxi de Fortitude
+  DAXI_REGENERATION: Daxi de Regeneração
+  DAXI_SATURATION: Daxi de Saturação
+  DAXI_STRENGTH: Daxi de Força
+  DETAILED_DEVOTION: Devoção Detalhada
+  DIAMOND: Diamante
+  DIAMOND_SINGULARITY: Singularidade de Diamante
+  DRACONIC: Dracónico
+  DURALIUM: Duralium
+  EARTH_SINGULARITY: Singularidade de Terra
+  FERROSILICON: Ferrossilício
+  FLOWING_FONDNESS: Afeto Fluente
+  FORTUNE_SINGULARITY: Singularidade de Fortuna
+  GHOSTLY_ESSENCE: Essência Fantasmagórica
+  GOLD: Ouro
+  GOLD_SINGULARITY: Singularidade de Ouro
+  HARDENED_METAL: Metal Endurecido
+  INFINITE: Infinito
+  INFINITY_SINGULARITY: Singularidade de Infinidade
+  INTERDIMENSIONAL_PRESENCE: Presença Interdimensional
+  IRIDIUM: Irídio
+  IRON: Ferro
+  IRON_SINGULARITY: Singularidade de Ferro
+  LEAD: Chumbo
+  LEAD_SINGULARITY: Singularidade de Chumbo
+  LEATHER: Couro
+  LIQUID_CHRISTMAS: Natal Líquido
+  LIQUID_LOVE: Amor Líquido
+  MAGIC_SINGULARITY: Singularidade Mágica
+  MAGNESIUM: Magnésio
+  MAGNESIUM_SINGULARITY: Singularidade de Magnésio
+  MAGNONIUM: Magnónio
+  MAGSTEEL: MagAço
+  MAG_THOR: Mag Thor
+  METAL_SINGULARITY: Singularidade de Metal
+  MIXED_METAL: Metal Misto
+  MYTHRIL: Mythril
+  NICEINIUM: Niceinium
+  NICKEL: Níquel
+  OSMIUM: Ósmio
+  OSMIUM_SUPERALLOY: Superliga de Ósmio
+  PURIFIED_PASSION: Paixão Purificada
+  REDSTONE: Redstone
+  REDSTONE_ALLOY: Liga de Redstone
+  REFINED_IRON: Ferro Refinado
+  REINFORCED_ALLOY: Liga Reforçada
+  REINFORCED_DRACONIUM: Draconium Reforçado
+  REINFORCED_SLIME_STEEL: Aço de Slime Reforçado
+  REMOTININIUM: Remotininium
+  RUBBER: Borracha
+  SCRAP: Sucata
+  SEFIRITE: Sefirite
+  SEGGANESSON: Segganesson
+  SILICON: Silício
+  SILVER: Prata
+  SILVER_SINGULARITY: Singularidade de Prata
+  SLIME: Slime
+  SLIME_STEEL: Aço de Slime
+  SMITHIUM: Smithium
+  SOLDER: Solda
+  STAINLESS_STEEL: Aço Inoxidável
+  STAR_DUST: Pó de Estrelas
+  STEEL: Aço
+  STRING: Linha
+  TESSERACTING_MATERIAL: Material de Tesseracto
+  THORIUM: Tório
+  TIN: Estanho
+  TIN_SINGULARITY: Singularidade de Estanho
+  TITANIUM: Titânio
+  TWISTED_VINE: Liana Retorcida
+  ULTIMANINIUM: Ultimaninium
+  UNPATENTABLIUM: Unpatentablium
+  VEX_GEM: Gema de Vex
+  VINE: Trepadeira
+  VOID: Vazio
+  WARPED_ROOT: Raiz Deformada
+  WEEPING_VINE: Liana Chorosa
+  ZINC: Zinco
+  ZINC_SINGULARITY: Singularidade de Zinco
+messages:
+  smeltery-incomplete: Esta fundição não está terminada - completa o 3x3 vertical com 6 Blocos de Tijolo Calcinado, um Tanque Calcinado e uma Bica.
+modifiers:
+  DIAMOND: Diamante
+  EMERALD: Esmeralda
+  LAPIS_LAZULI: Lápis-Lazúli
+  MOD_PLATE: Placa de Modificação
+  QUARTZ: Quartzo
+  REDSTONE: Redstone
+part-types:
+  BINDING: Ligadura
+  GAMBESON: Gambesão
+  HEAD_AXE: Cabeça de Machado
+  HEAD_HOE: Cabeça de Enxada
+  HEAD_PICK: Cabeça de Picareta
+  HEAD_SHOVEL: Cabeça de Pá
+  HEAD_SWORD: Lâmina de Espada
+  LINKS: Elos de Malha
+  PLATE_BOOTS: Placas de Botas
+  PLATE_CHESTPLATE: Placas de Peitoral
+  PLATE_HELMET: Placas de Capacete
+  PLATE_LEGGINGS: Placas de Perneiras
+  REPAIR: Estojo de Reparação
+  ROD: Haste de Ferramenta
+tool-types:
+  AXE: Machado
+  HOE: Enxada
+  PICK: Picareta
+  PICKAXE: Picareta
+  SHOVEL: Pá
+  SWORD: Espada
