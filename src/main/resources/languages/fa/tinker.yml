@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: چکمه
+  CHESTPLATE: سینه‌پوش
+  HELMET: کلاهخود
+  LEGGINGS: ساق‌پوش
+lore:
+  added_by: افزوده از
+  binder_abbrev: 'ب: '
+  gambeson_abbrev: 'ز: '
+  head_abbrev: 'س: '
+  level: 'سطح: '
+  links_abbrev: 'ح: '
+  mod_level: ' سطح '
+  mod_max: ' - (بیشینه)'
+  modifier_slots: 'جاهای بهساز: '
+  part_desc_1: بخشی از ابزار. به تنهایی بی‌فایده است اما می‌تواند
+  part_desc_2: به چیزی بزرگ‌تر بدل شود در
+  part_desc_3: میز رویگر.
+  part_material: 'ماده : '
+  plate_abbrev: 'ص: '
+  rod_abbrev: 'م: '
+  sponsored_by: با پشتیبانی
+materials:
+  ADAMANTITE: آدامانتیت
+  ADVANCED_ALLOY: آلیاژ پیشرفته
+  ALUMINUM: آلومینیوم
+  ALUMINUM_BRASS: برنج آلومینیومی
+  ALUMINUM_BRONZE: برنز آلومینیومی
+  ALUMINUM_SINGULARITY: تکینگی آلومینیوم
+  ANNIVERSARIUM: آنیورساریوم
+  BILLON: بیلون
+  BOOMERITE: بومریت
+  BRASS: برنج
+  BRONZE: برنز
+  CARBON_MESH: توری کربنی
+  COAL: زغال‌سنگ
+  COBALT: کبالت
+  COPPER: مس
+  COPPER_SINGULARITY: تکینگی مس
+  CORINTHIAN_BRONZE: برنز کورنتی
+  CRIMSON_ROOT: ریشه سرخ‌فام
+  CRINGLEIUM: کرینگلیوم
+  DAMASCUS_STEEL: فولاد دمشقی
+  DAXI_ABSORPTION: داکسی جذب
+  DAXI_FORTITUDE: داکسی استواری
+  DAXI_REGENERATION: داکسی بازآفرینی
+  DAXI_SATURATION: داکسی سیری
+  DAXI_STRENGTH: داکسی نیرو
+  DETAILED_DEVOTION: ارادت ظریف
+  DIAMOND: الماس
+  DIAMOND_SINGULARITY: تکینگی الماس
+  DRACONIC: اژدهایی
+  DURALIUM: دورالیوم
+  EARTH_SINGULARITY: تکینگی خاک
+  FERROSILICON: فروسیلیسیم
+  FLOWING_FONDNESS: مهر روان
+  FORTUNE_SINGULARITY: تکینگی اقبال
+  GHOSTLY_ESSENCE: جوهر شبح
+  GOLD: طلا
+  GOLD_SINGULARITY: تکینگی طلا
+  HARDENED_METAL: فلز سخت‌شده
+  INFINITE: بی‌نهایت
+  INFINITY_SINGULARITY: تکینگی بیکرانگی
+  INTERDIMENSIONAL_PRESENCE: حضور میان‌بعدی
+  IRIDIUM: ایریدیم
+  IRON: آهن
+  IRON_SINGULARITY: تکینگی آهن
+  LEAD: سرب
+  LEAD_SINGULARITY: تکینگی سرب
+  LEATHER: چرم
+  LIQUID_CHRISTMAS: کریسمس مایع
+  LIQUID_LOVE: عشق مایع
+  MAGIC_SINGULARITY: تکینگی جادو
+  MAGNESIUM: منیزیم
+  MAGNESIUM_SINGULARITY: تکینگی منیزیم
+  MAGNONIUM: مگنونیوم
+  MAGSTEEL: مگ‌فولاد
+  MAG_THOR: مگ‌ثور
+  METAL_SINGULARITY: تکینگی فلز
+  MIXED_METAL: فلز آمیخته
+  MYTHRIL: میتریل
+  NICEINIUM: نایسینیوم
+  NICKEL: نیکل
+  OSMIUM: اسمیم
+  OSMIUM_SUPERALLOY: ابرآلیاژ اسمیم
+  PURIFIED_PASSION: شور پالوده
+  REDSTONE: سنگ‌سرخ
+  REDSTONE_ALLOY: آلیاژ سنگ‌سرخ
+  REFINED_IRON: آهن تصفیه‌شده
+  REINFORCED_ALLOY: آلیاژ تقویت‌شده
+  REINFORCED_DRACONIUM: دراکونیوم تقویت‌شده
+  REINFORCED_SLIME_STEEL: لجن‌فولاد تقویت‌شده
+  REMOTININIUM: رموتینینیوم
+  RUBBER: لاستیک
+  SCRAP: قراضه
+  SEFIRITE: سفیریت
+  SEGGANESSON: سگانسون
+  SILICON: سیلیسیم
+  SILVER: نقره
+  SILVER_SINGULARITY: تکینگی نقره
+  SLIME: لجن
+  SLIME_STEEL: لجن‌فولاد
+  SMITHIUM: اسمیتیوم
+  SOLDER: لحیم
+  STAINLESS_STEEL: فولاد زنگ‌نزن
+  STAR_DUST: غبار ستاره
+  STEEL: فولاد
+  STRING: نخ
+  TESSERACTING_MATERIAL: ماده ابرمکعبی
+  THORIUM: توریم
+  TIN: قلع
+  TIN_SINGULARITY: تکینگی قلع
+  TITANIUM: تیتانیوم
+  TWISTED_VINE: پیچک تابدار
+  ULTIMANINIUM: اولتیمانینیوم
+  UNPATENTABLIUM: آنپتنتابیلوم
+  VEX_GEM: گوهر وکس
+  VINE: پیچک
+  VOID: تهیگی
+  WARPED_ROOT: ریشه کژتاب
+  WEEPING_VINE: پیچک گریان
+  ZINC: روی
+  ZINC_SINGULARITY: تکینگی روی
+messages:
+  smeltery-incomplete: این کوره ذوب کامل نیست - 3x3 عمودی را با 6 بلوک آجر برشته، یک مخزن برشته و یک ناودان کامل کن.
+modifiers:
+  DIAMOND: الماس
+  EMERALD: زمرد
+  LAPIS_LAZULI: لاجورد
+  MOD_PLATE: صفحه بهساز
+  QUARTZ: کوارتز
+  REDSTONE: سنگ‌سرخ
+part-types:
+  BINDING: بند
+  GAMBESON: زیرزره
+  HEAD_AXE: سر تبر
+  HEAD_HOE: سر کج‌بیل
+  HEAD_PICK: سر کلنگ
+  HEAD_SHOVEL: سر بیل
+  HEAD_SWORD: تیغه شمشیر
+  LINKS: حلقه‌های زره
+  PLATE_BOOTS: صفحات چکمه
+  PLATE_CHESTPLATE: صفحات سینه‌پوش
+  PLATE_HELMET: صفحات کلاهخود
+  PLATE_LEGGINGS: صفحات ساق‌پوش
+  REPAIR: بسته تعمیر
+  ROD: میله ابزار
+tool-types:
+  AXE: تبر
+  HOE: کج‌بیل
+  PICK: کلنگ
+  PICKAXE: کلنگ
+  SHOVEL: بیل
+  SWORD: شمشیر
