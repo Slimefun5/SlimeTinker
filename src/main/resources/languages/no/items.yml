@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Øksehode'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8Inn: &e27 enheter'
+  - '&8Ut: &e1 Øksehode'
   type:
   - '&7&oKomponent'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for metallblokk'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8Inn: &e81 enheter'
+  - '&8Ut: &e1 Blokk'
   type:
   - '&7&oKomponent'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Støvelplater'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8Inn: &e36 enheter'
+  - '&8Ut: &e1 sett med støvelplater'
   type:
   - '&7&oKomponent'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Brystplater'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8Inn: &e72 enheter'
+  - '&8Ut: &e1 sett med brystplater'
   type:
   - '&7&oKomponent'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7En støpeform for ikke-metalliske væsker.'
   name: '&fStøpeform for Edelstein'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8Inn: &e9 enheter'
+  - '&8Ut: &e1 Edelstein'
   type:
   - '&7&oKomponent'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Hjelmplater'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8Inn: &e45 enheter'
+  - '&8Ut: &e1 sett med hjelmplater'
   type:
   - '&7&oKomponent'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Jordhakkehode'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8Inn: &e18 enheter'
+  - '&8Ut: &e1 Jordhakkehode'
   type:
   - '&7&oKomponent'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Metallbarre'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8Inn: &e9 enheter'
+  - '&8Ut: &e1 Barre'
   type:
   - '&7&oKomponent'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Benplater'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8Inn: &e63 enheter'
+  - '&8Ut: &e1 sett med benplater'
   type:
   - '&7&oKomponent'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Brynjelenker'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8Inn: &e18 enheter'
+  - '&8Ut: &e1 sett med brynjelenker'
   type:
   - '&7&oKomponent'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Metallklump'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8Inn: &e1 enhet'
+  - '&8Ut: &e1 Klump'
   type:
   - '&7&oKomponent'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Hakkehode'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8Inn: &e27 enheter'
+  - '&8Ut: &e1 Hakkehode'
   type:
   - '&7&oKomponent'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Reparasjonssett'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8Inn: &e27 enheter'
+  - '&8Ut: &e1 Reparasjonssett'
   type:
   - '&7&oKomponent'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Spadehode'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8Inn: &e9 enheter'
+  - '&8Ut: &e1 Spadehode'
   type:
   - '&7&oKomponent'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Sverdblad'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8Inn: &e18 enheter'
+  - '&8Ut: &e1 Sverdblad'
   type:
   - '&7&oKomponent'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7En støpeform for metaller.'
   name: '&fStøpeform for Verktøyskaft'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8Inn: &e9 enheter'
+  - '&8Ut: &e1 Verktøyskaft'
   type:
   - '&7&oKomponent'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&oMaskin'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eHøyreklikk for å åpne grensesnittet.'
 TINKERS_MOD_STATION:
   description:
   - '&7Setter modifikasjoner på verktøy og våpen.'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&oMaskin'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eHøyreklikk for å åpne grensesnittet.'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7Reparerer verktøy og våpen.'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&oMaskin'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eHøyreklikk for å åpne grensesnittet.'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7Smelter metaller om til væske.'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&oMultiblokk'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - Bygg multiblokken, og høyreklikk så på smelteverkskontrolleren for å bruke den.
 TINKERS_SWAPPING_STATION:
   description:
   - '&7Bytter ut deler i verktøy med nye deler.'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&oMaskin'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eHøyreklikk for å åpne grensesnittet.'
 TINKERS_TABLE:
   description:
   - '&7Setter sammen deler til verktøy.'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&oMaskin'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eHøyreklikk for å åpne grensesnittet.'
 TINKERS_WORKBENCH:
   description:
   - '&7Brukes til å lage ulike gjenstander'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&oMaskin'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eHøyreklikk for å åpne grensesnittet.'
 TIN_LIQUID:
   description:
   - '&7Den smeltede formen av tinn.'

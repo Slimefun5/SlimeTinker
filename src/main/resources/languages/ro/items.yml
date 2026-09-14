@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Cap de Topor'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8Intrare: &e27 Unități'
+  - '&8Ieșire: &e1 Cap de Topor'
   type:
   - '&7&oComponentă'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7Un tipar pentru metale.'
   name: '&fTipar de Bloc Metalic'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8Intrare: &e81 Unități'
+  - '&8Ieșire: &e1 Bloc'
   type:
   - '&7&oComponentă'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Plăci de Bocanci'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8Intrare: &e36 Unități'
+  - '&8Ieșire: &e1 Set de Plăci de Bocanci'
   type:
   - '&7&oComponentă'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Plăci de Platoșă'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8Intrare: &e72 Unități'
+  - '&8Ieșire: &e1 Set de Plăci de Platoșă'
   type:
   - '&7&oComponentă'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7Un tipar pentru lichide nemetalice.'
   name: '&fTipar pentru Nestemată'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8Intrare: &e9 Unități'
+  - '&8Ieșire: &e1 Nestemată'
   type:
   - '&7&oComponentă'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Plăci de Coif'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8Intrare: &e45 Unități'
+  - '&8Ieșire: &e1 Set de Plăci de Coif'
   type:
   - '&7&oComponentă'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Cap de Sapă'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8Intrare: &e18 Unități'
+  - '&8Ieșire: &e1 Cap de Sapă'
   type:
   - '&7&oComponentă'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Lingou de Metal'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8Intrare: &e9 Unități'
+  - '&8Ieșire: &e1 Lingou'
   type:
   - '&7&oComponentă'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Plăci de Jambiere'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8Intrare: &e63 Unități'
+  - '&8Ieșire: &e1 Set de Plăci de Jambiere'
   type:
   - '&7&oComponentă'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Zale'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8Intrare: &e18 Unități'
+  - '&8Ieșire: &e1 Set de Zale'
   type:
   - '&7&oComponentă'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Pepită de Metal'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8Intrare: &e1 Unitate'
+  - '&8Ieșire: &e1 Pepită'
   type:
   - '&7&oComponentă'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Cap de Târnăcop'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8Intrare: &e27 Unități'
+  - '&8Ieșire: &e1 Cap de Târnăcop'
   type:
   - '&7&oComponentă'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Trusă de Reparații'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8Intrare: &e27 Unități'
+  - '&8Ieșire: &e1 Trusă de Reparații'
   type:
   - '&7&oComponentă'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Cap de Lopată'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8Intrare: &e9 Unități'
+  - '&8Ieșire: &e1 Cap de Lopată'
   type:
   - '&7&oComponentă'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Lamă de Sabie'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8Intrare: &e18 Unități'
+  - '&8Ieșire: &e1 Lamă de Sabie'
   type:
   - '&7&oComponentă'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7Un tipar pentru metale.'
   name: '&fTipar pentru Tijă de Unealtă'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8Intrare: &e9 Unități'
+  - '&8Ieșire: &e1 Tijă de Unealtă'
   type:
   - '&7&oComponentă'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&oMașină'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDă clic dreapta ca să deschizi interfața.'
 TINKERS_MOD_STATION:
   description:
   - '&7Aplică modificări uneltelor și armelor.'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&oMașină'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDă clic dreapta ca să deschizi interfața.'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7Repară unelte și arme.'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&oMașină'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDă clic dreapta ca să deschizi interfața.'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7Topește metalele, prefăcându-le în lichide.'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&oMultibloc'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - Ridică multiblocul, apoi dă clic dreapta pe Controlerul de Topitorie ca să îl folosești.
 TINKERS_SWAPPING_STATION:
   description:
   - '&7Schimbă piesele uneltelor cu piese noi.'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&oMașină'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDă clic dreapta ca să deschizi interfața.'
 TINKERS_TABLE:
   description:
   - '&7Îmbină piesele în unelte.'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&oMașină'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDă clic dreapta ca să deschizi interfața.'
 TINKERS_WORKBENCH:
   description:
   - '&7Folosit la meșterirea a felurite obiecte'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&oMașină'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDă clic dreapta ca să deschizi interfața.'
 TIN_LIQUID:
   description:
   - '&7Forma topită, obținută din Cositor.'

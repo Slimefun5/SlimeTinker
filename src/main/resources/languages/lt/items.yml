@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7Forma metalams.'
   name: '&fKirvio galvos forma'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8Įvestis: &e27 vienetai'
+  - '&8Išvestis: &e1 kirvio galva'
   type:
   - '&7&oKomponentas'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7Forma metalams.'
   name: '&fMetalo bloko forma'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8Įvestis: &e81 vienetas'
+  - '&8Išvestis: &e1 blokas'
   type:
   - '&7&oKomponentas'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7Forma metalams.'
   name: '&fBatų plokščių forma'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8Įvestis: &e36 vienetai'
+  - '&8Išvestis: &e1 batų plokščių rinkinys'
   type:
   - '&7&oKomponentas'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7Forma metalams.'
   name: '&fKrūtinės šarvo plokščių forma'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8Įvestis: &e72 vienetai'
+  - '&8Išvestis: &e1 krūtinės šarvo plokščių rinkinys'
   type:
   - '&7&oKomponentas'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7Forma nemetaliniams skysčiams.'
   name: '&fBrangakmenio forma'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8Įvestis: &e9 vienetai'
+  - '&8Išvestis: &e1 brangakmenis'
   type:
   - '&7&oKomponentas'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7Forma metalams.'
   name: '&fŠalmo plokščių forma'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8Įvestis: &e45 vienetai'
+  - '&8Išvestis: &e1 šalmo plokščių rinkinys'
   type:
   - '&7&oKomponentas'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7Forma metalams.'
   name: '&fKauptuko galvos forma'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8Įvestis: &e18 vienetų'
+  - '&8Išvestis: &e1 kauptuko galva'
   type:
   - '&7&oKomponentas'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7Forma metalams.'
   name: '&fMetalo luito forma'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8Įvestis: &e9 vienetai'
+  - '&8Išvestis: &e1 luitas'
   type:
   - '&7&oKomponentas'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7Forma metalams.'
   name: '&fKelnių plokščių forma'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8Įvestis: &e63 vienetai'
+  - '&8Išvestis: &e1 kelnių plokščių rinkinys'
   type:
   - '&7&oKomponentas'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7Forma metalams.'
   name: '&fGrandinės žiedų forma'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8Įvestis: &e18 vienetų'
+  - '&8Išvestis: &e1 grandinės žiedų rinkinys'
   type:
   - '&7&oKomponentas'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7Forma metalams.'
   name: '&fMetalo grynuolio forma'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8Įvestis: &e1 vienetas'
+  - '&8Išvestis: &e1 grynuolis'
   type:
   - '&7&oKomponentas'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7Forma metalams.'
   name: '&fKirtiklio galvos forma'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8Įvestis: &e27 vienetai'
+  - '&8Išvestis: &e1 kirtiklio galva'
   type:
   - '&7&oKomponentas'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7Forma metalams.'
   name: '&fRemonto rinkinio forma'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8Įvestis: &e27 vienetai'
+  - '&8Išvestis: &e1 remonto rinkinys'
   type:
   - '&7&oKomponentas'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7Forma metalams.'
   name: '&fKastuvo galvos forma'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8Įvestis: &e9 vienetai'
+  - '&8Išvestis: &e1 kastuvo galva'
   type:
   - '&7&oKomponentas'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7Forma metalams.'
   name: '&fKalavijo ašmenų forma'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8Įvestis: &e18 vienetų'
+  - '&8Išvestis: &e1 kalavijo ašmenys'
   type:
   - '&7&oKomponentas'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7Forma metalams.'
   name: '&fĮrankio strypo forma'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8Įvestis: &e9 vienetai'
+  - '&8Išvestis: &e1 įrankio strypas'
   type:
   - '&7&oKomponentas'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&oMašina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eSpustelėk dešiniuoju, kad atvertum sąsają.'
 TINKERS_MOD_STATION:
   description:
   - '&7Prideda modifikacijas įrankiams ir ginklams.'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&oMašina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eSpustelėk dešiniuoju, kad atvertum sąsają.'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7Taiso įrankius ir ginklus.'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&oMašina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eSpustelėk dešiniuoju, kad atvertum sąsają.'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7Išlydo metalus į skysčius.'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&oDaugiablokis'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - Pastatyk daugiablokį, tada spustelėk lydyklos valdiklį dešiniuoju, kad juo naudotumeisi.
 TINKERS_SWAPPING_STATION:
   description:
   - '&7Pakeičia įrankių dalis naujomis.'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&oMašina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eSpustelėk dešiniuoju, kad atvertum sąsają.'
 TINKERS_TABLE:
   description:
   - '&7Sujungia dalis į įrankius.'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&oMašina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eSpustelėk dešiniuoju, kad atvertum sąsają.'
 TINKERS_WORKBENCH:
   description:
   - '&7Naudojamas įvairiems daiktams gaminti'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&oMašina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eSpustelėk dešiniuoju, kad atvertum sąsają.'
 TIN_LIQUID:
   description:
   - '&7Išlydyta Alavo forma.'

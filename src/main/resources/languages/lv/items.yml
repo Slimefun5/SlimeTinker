@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7Veidne metāliem.'
   name: '&fCirvja galvas veidne'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8Ievade: &e27 vienības'
+  - '&8Izvade: &e1 cirvja galva'
   type:
   - '&7&oSastāvdaļa'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7Veidne metāliem.'
   name: '&fMetāla bloka veidne'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8Ievade: &e81 vienība'
+  - '&8Izvade: &e1 bloks'
   type:
   - '&7&oSastāvdaļa'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7Veidne metāliem.'
   name: '&fZābaku plākšņu veidne'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8Ievade: &e36 vienības'
+  - '&8Izvade: &e1 zābaku plākšņu komplekts'
   type:
   - '&7&oSastāvdaļa'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7Veidne metāliem.'
   name: '&fKrūšu bruņu plākšņu veidne'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8Ievade: &e72 vienības'
+  - '&8Izvade: &e1 krūšu bruņu plākšņu komplekts'
   type:
   - '&7&oSastāvdaļa'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7Veidne nemetāliskiem šķidrumiem.'
   name: '&fDārgakmens veidne'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8Ievade: &e9 vienības'
+  - '&8Izvade: &e1 dārgakmens'
   type:
   - '&7&oSastāvdaļa'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7Veidne metāliem.'
   name: '&fĶiveres plākšņu veidne'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8Ievade: &e45 vienības'
+  - '&8Izvade: &e1 ķiveres plākšņu komplekts'
   type:
   - '&7&oSastāvdaļa'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7Veidne metāliem.'
   name: '&fKapļa galvas veidne'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8Ievade: &e18 vienības'
+  - '&8Izvade: &e1 kapļa galva'
   type:
   - '&7&oSastāvdaļa'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7Veidne metāliem.'
   name: '&fMetāla lietņa veidne'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8Ievade: &e9 vienības'
+  - '&8Izvade: &e1 lietnis'
   type:
   - '&7&oSastāvdaļa'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7Veidne metāliem.'
   name: '&fKājbruņu plākšņu veidne'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8Ievade: &e63 vienības'
+  - '&8Izvade: &e1 kājbruņu plākšņu komplekts'
   type:
   - '&7&oSastāvdaļa'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7Veidne metāliem.'
   name: '&fBruņkrekla posmu veidne'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8Ievade: &e18 vienības'
+  - '&8Izvade: &e1 bruņkrekla posmu komplekts'
   type:
   - '&7&oSastāvdaļa'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7Veidne metāliem.'
   name: '&fMetāla tīrradņa veidne'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8Ievade: &e1 vienība'
+  - '&8Izvade: &e1 tīrradnis'
   type:
   - '&7&oSastāvdaļa'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7Veidne metāliem.'
   name: '&fCērtes galvas veidne'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8Ievade: &e27 vienības'
+  - '&8Izvade: &e1 cērtes galva'
   type:
   - '&7&oSastāvdaļa'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7Veidne metāliem.'
   name: '&fRemontkomplekta veidne'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8Ievade: &e27 vienības'
+  - '&8Izvade: &e1 remontkomplekts'
   type:
   - '&7&oSastāvdaļa'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7Veidne metāliem.'
   name: '&fLāpstas galvas veidne'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8Ievade: &e9 vienības'
+  - '&8Izvade: &e1 lāpstas galva'
   type:
   - '&7&oSastāvdaļa'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7Veidne metāliem.'
   name: '&fZobena asmens veidne'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8Ievade: &e18 vienības'
+  - '&8Izvade: &e1 zobena asmens'
   type:
   - '&7&oSastāvdaļa'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7Veidne metāliem.'
   name: '&fDarbarīka kāta veidne'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8Ievade: &e9 vienības'
+  - '&8Izvade: &e1 darbarīka kāts'
   type:
   - '&7&oSastāvdaļa'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&oMašīna'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eAr labo peles pogu atver saskarni.'
 TINKERS_MOD_STATION:
   description:
   - '&7Uzliek modifikācijas darbarīkiem un ieročiem.'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&oMašīna'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eAr labo peles pogu atver saskarni.'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7Salabo darbarīkus un ieročus.'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&oMašīna'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eAr labo peles pogu atver saskarni.'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7Izkausē metālus šķidrumos.'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&oDaudzbloks'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - Uzbūvē daudzbloku konstrukciju, tad ar labo peles pogu noklikšķini uz kausētavas vadības bloka, lai to lietotu.
 TINKERS_SWAPPING_STATION:
   description:
   - '&7Nomaina darbarīku daļas pret jaunām.'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&oMašīna'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eAr labo peles pogu atver saskarni.'
 TINKERS_TABLE:
   description:
   - '&7Apvieno daļas darbarīkos.'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&oMašīna'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eAr labo peles pogu atver saskarni.'
 TINKERS_WORKBENCH:
   description:
   - '&7Izmanto dažādu priekšmetu darināšanai'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&oMašīna'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eAr labo peles pogu atver saskarni.'
 TIN_LIQUID:
   description:
   - '&7Alvas izkausētais veidols.'

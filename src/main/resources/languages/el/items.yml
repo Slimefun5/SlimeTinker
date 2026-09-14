@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Κεφαλής Τσεκουριού'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8Είσοδος: &e27 Μονάδες'
+  - '&8Έξοδος: &e1 Κεφαλή Τσεκουριού'
   type:
   - '&7&oΕξάρτημα'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Κύβου Μετάλλου'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8Είσοδος: &e81 Μονάδες'
+  - '&8Έξοδος: &e1 Κύβος'
   type:
   - '&7&oΕξάρτημα'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Πλακών Μποτών'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8Είσοδος: &e36 Μονάδες'
+  - '&8Έξοδος: &e1 Σετ Πλακών Μποτών'
   type:
   - '&7&oΕξάρτημα'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Πλακών Θώρακα'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8Είσοδος: &e72 Μονάδες'
+  - '&8Έξοδος: &e1 Σετ Πλακών Θώρακα'
   type:
   - '&7&oΕξάρτημα'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7Ένα καλούπι για μη μεταλλικά υγρά.'
   name: '&fΚαλούπι Πετραδιού'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8Είσοδος: &e9 Μονάδες'
+  - '&8Έξοδος: &e1 Πετράδι'
   type:
   - '&7&oΕξάρτημα'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Πλακών Κράνους'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8Είσοδος: &e45 Μονάδες'
+  - '&8Έξοδος: &e1 Σετ Πλακών Κράνους'
   type:
   - '&7&oΕξάρτημα'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Κεφαλής Τσάπας'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8Είσοδος: &e18 Μονάδες'
+  - '&8Έξοδος: &e1 Κεφαλή Τσάπας'
   type:
   - '&7&oΕξάρτημα'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Πλινθώματος Μετάλλου'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8Είσοδος: &e9 Μονάδες'
+  - '&8Έξοδος: &e1 Πλίνθωμα'
   type:
   - '&7&oΕξάρτημα'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Πλακών Περικνημίδων'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8Είσοδος: &e63 Μονάδες'
+  - '&8Έξοδος: &e1 Σετ Πλακών Περικνημίδων'
   type:
   - '&7&oΕξάρτημα'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Κρίκων Αλυσίδας'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8Είσοδος: &e18 Μονάδες'
+  - '&8Έξοδος: &e1 Σετ Κρίκων Αλυσίδας'
   type:
   - '&7&oΕξάρτημα'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Ψήγματος Μετάλλου'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8Είσοδος: &e1 Μονάδα'
+  - '&8Έξοδος: &e1 Ψήγμα'
   type:
   - '&7&oΕξάρτημα'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Κεφαλής Αξίνας'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8Είσοδος: &e27 Μονάδες'
+  - '&8Έξοδος: &e1 Κεφαλή Αξίνας'
   type:
   - '&7&oΕξάρτημα'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Σετ Επισκευής'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8Είσοδος: &e27 Μονάδες'
+  - '&8Έξοδος: &e1 Σετ Επισκευής'
   type:
   - '&7&oΕξάρτημα'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Κεφαλής Φτυαριού'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8Είσοδος: &e9 Μονάδες'
+  - '&8Έξοδος: &e1 Κεφαλή Φτυαριού'
   type:
   - '&7&oΕξάρτημα'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Λεπίδας Σπαθιού'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8Είσοδος: &e18 Μονάδες'
+  - '&8Έξοδος: &e1 Λεπίδα Σπαθιού'
   type:
   - '&7&oΕξάρτημα'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7Ένα καλούπι για μέταλλα.'
   name: '&fΚαλούπι Ράβδου Εργαλείου'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8Είσοδος: &e9 Μονάδες'
+  - '&8Έξοδος: &e1 Ράβδος Εργαλείου'
   type:
   - '&7&oΕξάρτημα'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&oΜηχανή'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eΔεξί κλικ για να ανοίξεις τη διεπαφή.'
 TINKERS_MOD_STATION:
   description:
   - '&7Εφαρμόζει τροποποιήσεις σε εργαλεία και όπλα.'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&oΜηχανή'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eΔεξί κλικ για να ανοίξεις τη διεπαφή.'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7Επισκευάζει εργαλεία και όπλα.'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&oΜηχανή'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eΔεξί κλικ για να ανοίξεις τη διεπαφή.'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7Λιώνει τα μέταλλα σε υγρά.'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&oΠολυμπλόκ'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - Χτίσε την πολυδομή και μετά κάνε δεξί κλικ στον Ελεγκτή Χυτηρίου για να τη χρησιμοποιήσεις.
 TINKERS_SWAPPING_STATION:
   description:
   - '&7Αντικαθιστά μέρη εργαλείων με καινούργια.'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&oΜηχανή'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eΔεξί κλικ για να ανοίξεις τη διεπαφή.'
 TINKERS_TABLE:
   description:
   - '&7Συνδυάζει μέρη σε εργαλεία.'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&oΜηχανή'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eΔεξί κλικ για να ανοίξεις τη διεπαφή.'
 TINKERS_WORKBENCH:
   description:
   - '&7Χρησιμοποιείται για την κατασκευή διαφόρων αντικειμένων'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&oΜηχανή'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eΔεξί κλικ για να ανοίξεις τη διεπαφή.'
 TIN_LIQUID:
   description:
   - '&7Η λιωμένη μορφή, φτιαγμένη από κασσίτερο.'

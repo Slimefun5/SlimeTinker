@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Đầu Rìu'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8Đầu vào: &e27 Đơn vị'
+  - '&8Đầu ra: &e1 Đầu Rìu'
   type:
   - '&7&oThành Phần'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Khối Kim Loại'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8Đầu vào: &e81 Đơn vị'
+  - '&8Đầu ra: &e1 Khối'
   type:
   - '&7&oThành Phần'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Tấm Giáp Giày'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8Đầu vào: &e36 Đơn vị'
+  - '&8Đầu ra: &e1 Bộ Tấm Giáp Giày'
   type:
   - '&7&oThành Phần'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Tấm Giáp Ngực'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8Đầu vào: &e72 Đơn vị'
+  - '&8Đầu ra: &e1 Bộ Tấm Giáp Ngực'
   type:
   - '&7&oThành Phần'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7Khuôn đúc dành cho chất lỏng phi kim.'
   name: '&fKhuôn Đúc Cho Đá Quý'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8Đầu vào: &e9 Đơn vị'
+  - '&8Đầu ra: &e1 Đá Quý'
   type:
   - '&7&oThành Phần'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Tấm Giáp Mũ'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8Đầu vào: &e45 Đơn vị'
+  - '&8Đầu ra: &e1 Bộ Tấm Giáp Mũ'
   type:
   - '&7&oThành Phần'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Đầu Cuốc'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8Đầu vào: &e18 Đơn vị'
+  - '&8Đầu ra: &e1 Đầu Cuốc'
   type:
   - '&7&oThành Phần'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Thỏi Kim Loại'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8Đầu vào: &e9 Đơn vị'
+  - '&8Đầu ra: &e1 Thỏi'
   type:
   - '&7&oThành Phần'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Tấm Giáp Quần'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8Đầu vào: &e63 Đơn vị'
+  - '&8Đầu ra: &e1 Bộ Tấm Giáp Quần'
   type:
   - '&7&oThành Phần'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Mắt Xích Giáp'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8Đầu vào: &e18 Đơn vị'
+  - '&8Đầu ra: &e1 Bộ Mắt Xích Giáp'
   type:
   - '&7&oThành Phần'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Mẩu Kim Loại'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8Đầu vào: &e1 Đơn vị'
+  - '&8Đầu ra: &e1 Mẩu'
   type:
   - '&7&oThành Phần'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Đầu Cuốc Chim'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8Đầu vào: &e27 Đơn vị'
+  - '&8Đầu ra: &e1 Đầu Cuốc Chim'
   type:
   - '&7&oThành Phần'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Bộ Sửa Chữa'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8Đầu vào: &e27 Đơn vị'
+  - '&8Đầu ra: &e1 Bộ Sửa Chữa'
   type:
   - '&7&oThành Phần'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Đầu Xẻng'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8Đầu vào: &e9 Đơn vị'
+  - '&8Đầu ra: &e1 Đầu Xẻng'
   type:
   - '&7&oThành Phần'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Lưỡi Kiếm'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8Đầu vào: &e18 Đơn vị'
+  - '&8Đầu ra: &e1 Lưỡi Kiếm'
   type:
   - '&7&oThành Phần'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7Khuôn đúc dành cho kim loại.'
   name: '&fKhuôn Đúc Cho Cán Công Cụ'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8Đầu vào: &e9 Đơn vị'
+  - '&8Đầu ra: &e1 Cán Công Cụ'
   type:
   - '&7&oThành Phần'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&oMáy Móc'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eChuột phải để mở giao diện.'
 TINKERS_MOD_STATION:
   description:
   - '&7Áp dụng cải biến lên công cụ và vũ khí.'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&oMáy Móc'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eChuột phải để mở giao diện.'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7Sửa chữa công cụ và vũ khí.'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&oMáy Móc'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eChuột phải để mở giao diện.'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7Nấu chảy kim loại thành chất lỏng.'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&oĐa khối'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - Dựng đa khối, sau đó Chuột phải vào Bộ Điều Khiển Lò Nấu Kim để sử dụng.
 TINKERS_SWAPPING_STATION:
   description:
   - '&7Thay bộ phận của công cụ bằng bộ phận mới.'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&oMáy Móc'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eChuột phải để mở giao diện.'
 TINKERS_TABLE:
   description:
   - '&7Ghép các bộ phận thành công cụ.'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&oMáy Móc'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eChuột phải để mở giao diện.'
 TINKERS_WORKBENCH:
   description:
   - '&7Dùng để chế tạo nhiều vật phẩm khác nhau'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&oMáy Móc'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eChuột phải để mở giao diện.'
 TIN_LIQUID:
   description:
   - '&7Dạng nóng chảy của Thiếc.'

@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7用於金屬的鑄模。'
   name: '&f斧刃專用鑄模'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8輸入: &e27 單位'
+  - '&8產出: &e1 個斧刃'
   type:
   - '&7&o元件'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7用於金屬的鑄模。'
   name: '&f金屬方塊鑄模'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8輸入: &e81 單位'
+  - '&8產出: &e1 個方塊'
   type:
   - '&7&o元件'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7用於金屬的鑄模。'
   name: '&f靴甲片專用鑄模'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8輸入: &e36 單位'
+  - '&8產出: &e1 組靴甲片'
   type:
   - '&7&o元件'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7用於金屬的鑄模。'
   name: '&f胸甲片專用鑄模'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8輸入: &e72 單位'
+  - '&8產出: &e1 組胸甲片'
   type:
   - '&7&o元件'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7用於非金屬液體的鑄模。'
   name: '&f寶石專用鑄模'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8輸入: &e9 單位'
+  - '&8產出: &e1 顆寶石'
   type:
   - '&7&o元件'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7用於金屬的鑄模。'
   name: '&f頭盔甲片專用鑄模'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8輸入: &e45 單位'
+  - '&8產出: &e1 組頭盔甲片'
   type:
   - '&7&o元件'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7用於金屬的鑄模。'
   name: '&f鋤刃專用鑄模'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8輸入: &e18 單位'
+  - '&8產出: &e1 個鋤刃'
   type:
   - '&7&o元件'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7用於金屬的鑄模。'
   name: '&f金屬錠專用鑄模'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8輸入: &e9 單位'
+  - '&8產出: &e1 塊錠'
   type:
   - '&7&o元件'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7用於金屬的鑄模。'
   name: '&f護腿甲片專用鑄模'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8輸入: &e63 單位'
+  - '&8產出: &e1 組護腿甲片'
   type:
   - '&7&o元件'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7用於金屬的鑄模。'
   name: '&f鎖環專用鑄模'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8輸入: &e18 單位'
+  - '&8產出: &e1 組鎖環'
   type:
   - '&7&o元件'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7用於金屬的鑄模。'
   name: '&f金屬顆粒專用鑄模'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8輸入: &e1 單位'
+  - '&8產出: &e1 顆顆粒'
   type:
   - '&7&o元件'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7用於金屬的鑄模。'
   name: '&f鎬頭專用鑄模'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8輸入: &e27 單位'
+  - '&8產出: &e1 個鎬頭'
   type:
   - '&7&o元件'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7用於金屬的鑄模。'
   name: '&f修理包專用鑄模'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8輸入: &e27 單位'
+  - '&8產出: &e1 個修理包'
   type:
   - '&7&o元件'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7用於金屬的鑄模。'
   name: '&f鏟頭專用鑄模'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8輸入: &e9 單位'
+  - '&8產出: &e1 個鏟頭'
   type:
   - '&7&o元件'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7用於金屬的鑄模。'
   name: '&f劍刃專用鑄模'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8輸入: &e18 單位'
+  - '&8產出: &e1 片劍刃'
   type:
   - '&7&o元件'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7用於金屬的鑄模。'
   name: '&f工具柄專用鑄模'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8輸入: &e9 單位'
+  - '&8產出: &e1 根工具柄'
   type:
   - '&7&o元件'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&o機器'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&e右鍵點擊以開啟介面。'
 TINKERS_MOD_STATION:
   description:
   - '&7為工具與武器套用改造。'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&o機器'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&e右鍵點擊以開啟介面。'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7修理工具與武器。'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&o機器'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&e右鍵點擊以開啟介面。'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7將金屬熔化成液體。'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&o多重方塊'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - 建好多方塊結構，然後右鍵點擊冶煉爐控制器即可使用。
 TINKERS_SWAPPING_STATION:
   description:
   - '&7用新的部件替換工具上的部件。'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&o機器'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&e右鍵點擊以開啟介面。'
 TINKERS_TABLE:
   description:
   - '&7將部件組合成工具。'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&o機器'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&e右鍵點擊以開啟介面。'
 TINKERS_WORKBENCH:
   description:
   - '&7用於合成各種物品'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&o機器'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&e右鍵點擊以開啟介面。'
 TIN_LIQUID:
   description:
   - '&7錫的熔融型態。'

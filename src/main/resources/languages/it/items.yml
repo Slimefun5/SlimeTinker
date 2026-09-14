@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Testa d''Ascia'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8Ingresso: &e27 unità'
+  - '&8Uscita: &e1 Testa d''Ascia'
   type:
   - '&7&oComponente'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Blocco di Metallo'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8Ingresso: &e81 unità'
+  - '&8Uscita: &e1 Blocco'
   type:
   - '&7&oComponente'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Piastre degli Stivali'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8Ingresso: &e36 unità'
+  - '&8Uscita: &e1 set di Piastre da Stivali'
   type:
   - '&7&oComponente'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Piastre della Corazza'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8Ingresso: &e72 unità'
+  - '&8Uscita: &e1 set di Piastre da Corazza'
   type:
   - '&7&oComponente'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7Uno stampo per i liquidi non metallici.'
   name: '&eStampo: Gemma'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8Ingresso: &e9 unità'
+  - '&8Uscita: &e1 Gemma'
   type:
   - '&7&oComponente'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Piastre dell''Elmo'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8Ingresso: &e45 unità'
+  - '&8Uscita: &e1 set di Piastre da Elmo'
   type:
   - '&7&oComponente'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Testa di Zappa'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8Ingresso: &e18 unità'
+  - '&8Uscita: &e1 Testa di Zappa'
   type:
   - '&7&oComponente'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Lingotto di Metallo'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8Ingresso: &e9 unità'
+  - '&8Uscita: &e1 Lingotto'
   type:
   - '&7&oComponente'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Piastre dei Gambali'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8Ingresso: &e63 unità'
+  - '&8Uscita: &e1 set di Piastre da Gambiere'
   type:
   - '&7&oComponente'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Maglie'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8Ingresso: &e18 unità'
+  - '&8Uscita: &e1 set di Maglie di Cotta'
   type:
   - '&7&oComponente'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Pepita di Metallo'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8Ingresso: &e1 unità'
+  - '&8Uscita: &e1 Pepita'
   type:
   - '&7&oComponente'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Testa di Piccone'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8Ingresso: &e27 unità'
+  - '&8Uscita: &e1 Testa di Piccone'
   type:
   - '&7&oComponente'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Kit di Riparazione'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8Ingresso: &e27 unità'
+  - '&8Uscita: &e1 Corredo di Riparazione'
   type:
   - '&7&oComponente'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Testa di Pala'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8Ingresso: &e9 unità'
+  - '&8Uscita: &e1 Testa di Pala'
   type:
   - '&7&oComponente'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Lama di Spada'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8Ingresso: &e18 unità'
+  - '&8Uscita: &e1 Lama di Spada'
   type:
   - '&7&oComponente'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7Uno stampo per i metalli.'
   name: '&eStampo: Asta dello Strumento'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8Ingresso: &e9 unità'
+  - '&8Uscita: &e1 Manico d''Attrezzo'
   type:
   - '&7&oComponente'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&oMacchina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eFai clic destro per aprire l''interfaccia.'
 TINKERS_MOD_STATION:
   description:
   - '&7Applica modifiche ad attrezzi e armi.'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&oMacchina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eFai clic destro per aprire l''interfaccia.'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7Ripara attrezzi e armi.'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&oMacchina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eFai clic destro per aprire l''interfaccia.'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7Fonde i metalli in liquidi.'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&oMultiblocco'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - Costruisci il multiblocco, poi fai clic destro sulla Centralina della Fonderia per usarla.
 TINKERS_SWAPPING_STATION:
   description:
   - '&7Sostituisce le parti degli attrezzi con parti nuove.'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&oMacchina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eFai clic destro per aprire l''interfaccia.'
 TINKERS_TABLE:
   description:
   - '&7Combina le parti in attrezzi.'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&oMacchina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eFai clic destro per aprire l''interfaccia.'
 TINKERS_WORKBENCH:
   description:
   - '&7Usato per fabbricare vari oggetti'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&oMacchina'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eFai clic destro per aprire l''interfaccia.'
 TIN_LIQUID:
   description:
   - '&7La forma fusa di Stagno.'

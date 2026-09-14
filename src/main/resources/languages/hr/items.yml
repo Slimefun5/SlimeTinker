@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7Kalup za metale.'
   name: '&fKalup za glavu sjekire'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8Ulaz: &e27 jedinica'
+  - '&8Izlaz: &e1 glava sjekire'
   type:
   - '&7&oKomponenta'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7Kalup za metale.'
   name: '&fKalup za metalni blok'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8Ulaz: &e81 jedinica'
+  - '&8Izlaz: &e1 blok'
   type:
   - '&7&oKomponenta'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7Kalup za metale.'
   name: '&fKalup za ploče čizama'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8Ulaz: &e36 jedinica'
+  - '&8Izlaz: &e1 komplet ploča čizama'
   type:
   - '&7&oKomponenta'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7Kalup za metale.'
   name: '&fKalup za ploče prsnog oklopa'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8Ulaz: &e72 jedinice'
+  - '&8Izlaz: &e1 komplet ploča prsnog oklopa'
   type:
   - '&7&oKomponenta'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7Kalup za nemetalne tekućine.'
   name: '&fKalup za dragulj'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8Ulaz: &e9 jedinica'
+  - '&8Izlaz: &e1 dragulj'
   type:
   - '&7&oKomponenta'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7Kalup za metale.'
   name: '&fKalup za ploče kacige'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8Ulaz: &e45 jedinica'
+  - '&8Izlaz: &e1 komplet ploča kacige'
   type:
   - '&7&oKomponenta'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7Kalup za metale.'
   name: '&fKalup za glavu motike'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8Ulaz: &e18 jedinica'
+  - '&8Izlaz: &e1 glava motike'
   type:
   - '&7&oKomponenta'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7Kalup za metale.'
   name: '&fKalup za metalnu polugu'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8Ulaz: &e9 jedinica'
+  - '&8Izlaz: &e1 poluga'
   type:
   - '&7&oKomponenta'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7Kalup za metale.'
   name: '&fKalup za ploče nogavica'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8Ulaz: &e63 jedinice'
+  - '&8Izlaz: &e1 komplet ploča nogavica'
   type:
   - '&7&oKomponenta'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7Kalup za metale.'
   name: '&fKalup za karike'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8Ulaz: &e18 jedinica'
+  - '&8Izlaz: &e1 komplet karika'
   type:
   - '&7&oKomponenta'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7Kalup za metale.'
   name: '&fKalup za metalni grumen'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8Ulaz: &e1 jedinica'
+  - '&8Izlaz: &e1 grumen'
   type:
   - '&7&oKomponenta'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7Kalup za metale.'
   name: '&fKalup za glavu pijuka'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8Ulaz: &e27 jedinica'
+  - '&8Izlaz: &e1 glava pijuka'
   type:
   - '&7&oKomponenta'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7Kalup za metale.'
   name: '&fKalup za popravni komplet'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8Ulaz: &e27 jedinica'
+  - '&8Izlaz: &e1 popravni komplet'
   type:
   - '&7&oKomponenta'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7Kalup za metale.'
   name: '&fKalup za glavu lopate'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8Ulaz: &e9 jedinica'
+  - '&8Izlaz: &e1 glava lopate'
   type:
   - '&7&oKomponenta'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7Kalup za metale.'
   name: '&fKalup za oštricu mača'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8Ulaz: &e18 jedinica'
+  - '&8Izlaz: &e1 oštrica mača'
   type:
   - '&7&oKomponenta'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7Kalup za metale.'
   name: '&fKalup za šipku alata'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8Ulaz: &e9 jedinica'
+  - '&8Izlaz: &e1 šipka alata'
   type:
   - '&7&oKomponenta'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&oStroj'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDesnim klikom otvori sučelje.'
 TINKERS_MOD_STATION:
   description:
   - '&7Nanosi preinake na alate i oružja.'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&oStroj'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDesnim klikom otvori sučelje.'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7Popravlja alate i oružja.'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&oStroj'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDesnim klikom otvori sučelje.'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7Tali metale u tekućine.'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&oVišeblok'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - Sagradi višedijelnu građevinu, a zatim desnim klikom na upravljač talionice pokreni je.
 TINKERS_SWAPPING_STATION:
   description:
   - '&7Zamjenjuje dijelove alata novima.'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&oStroj'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDesnim klikom otvori sučelje.'
 TINKERS_TABLE:
   description:
   - '&7Spaja dijelove u alate.'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&oStroj'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDesnim klikom otvori sučelje.'
 TINKERS_WORKBENCH:
   description:
   - '&7Koristi se za izradu raznih predmeta'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&oStroj'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eDesnim klikom otvori sučelje.'
 TIN_LIQUID:
   description:
   - '&7Rastaljeni oblik kositra.'

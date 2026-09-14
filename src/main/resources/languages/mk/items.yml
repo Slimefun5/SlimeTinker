@@ -802,8 +802,8 @@ CAST_AXE_HEAD:
   - '&7Калап за метали.'
   name: '&fКалап за глава на секира'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Axe Head'
+  - '&8Внес: &e27 единици'
+  - '&8Излез: &e1 глава на секира'
   type:
   - '&7&oКомпонента'
 CAST_BLOCK:
@@ -811,8 +811,8 @@ CAST_BLOCK:
   - '&7Калап за метали.'
   name: '&fКалап за метален блок'
   stats:
-  - '&8Input: &e81 Units'
-  - '&8Output: &e1 Block'
+  - '&8Внес: &e81 единици'
+  - '&8Излез: &e1 блок'
   type:
   - '&7&oКомпонента'
 CAST_BOOT_PLATE:
@@ -820,8 +820,8 @@ CAST_BOOT_PLATE:
   - '&7Калап за метали.'
   name: '&fКалап за плочи за чизми'
   stats:
-  - '&8Input: &e36 Units'
-  - '&8Output: &e1 Set of Boot Plates'
+  - '&8Внес: &e36 единици'
+  - '&8Излез: &e1 комплет плочи за чизми'
   type:
   - '&7&oКомпонента'
 CAST_CHEST_PLATE:
@@ -829,8 +829,8 @@ CAST_CHEST_PLATE:
   - '&7Калап за метали.'
   name: '&fКалап за плочи за гради'
   stats:
-  - '&8Input: &e72 Units'
-  - '&8Output: &e1 Set of Chestplate Plates'
+  - '&8Внес: &e72 единици'
+  - '&8Излез: &e1 комплет плочи за гради'
   type:
   - '&7&oКомпонента'
 CAST_GEM:
@@ -838,8 +838,8 @@ CAST_GEM:
   - '&7Калап за неметални течности.'
   name: '&fКалап за скапоцен камен'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Gem'
+  - '&8Внес: &e9 единици'
+  - '&8Излез: &e1 скапоцен камен'
   type:
   - '&7&oКомпонента'
 CAST_HELM_PLATE:
@@ -847,8 +847,8 @@ CAST_HELM_PLATE:
   - '&7Калап за метали.'
   name: '&fКалап за плочи за шлем'
   stats:
-  - '&8Input: &e45 Units'
-  - '&8Output: &e1 Set of Helmet Plates'
+  - '&8Внес: &e45 единици'
+  - '&8Излез: &e1 комплет плочи за шлем'
   type:
   - '&7&oКомпонента'
 CAST_HOEHEAD:
@@ -856,8 +856,8 @@ CAST_HOEHEAD:
   - '&7Калап за метали.'
   name: '&fКалап за глава на мотика'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Hoe Head'
+  - '&8Внес: &e18 единици'
+  - '&8Излез: &e1 глава на мотика'
   type:
   - '&7&oКомпонента'
 CAST_INGOT:
@@ -865,8 +865,8 @@ CAST_INGOT:
   - '&7Калап за метали.'
   name: '&fКалап за метален ингот'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Ingot'
+  - '&8Внес: &e9 единици'
+  - '&8Излез: &e1 ингот'
   type:
   - '&7&oКомпонента'
 CAST_LEG_PLATE:
@@ -874,8 +874,8 @@ CAST_LEG_PLATE:
   - '&7Калап за метали.'
   name: '&fКалап за плочи за нозе'
   stats:
-  - '&8Input: &e63 Units'
-  - '&8Output: &e1 Set of Legging Plates'
+  - '&8Внес: &e63 единици'
+  - '&8Излез: &e1 комплет плочи за нозе'
   type:
   - '&7&oКомпонента'
 CAST_MAIL_LINK:
@@ -883,8 +883,8 @@ CAST_MAIL_LINK:
   - '&7Калап за метали.'
   name: '&fКалап за верижни алки'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Set of Mail Links'
+  - '&8Внес: &e18 единици'
+  - '&8Излез: &e1 комплет верижни алки'
   type:
   - '&7&oКомпонента'
 CAST_NUGGET:
@@ -892,8 +892,8 @@ CAST_NUGGET:
   - '&7Калап за метали.'
   name: '&fКалап за метално зрно'
   stats:
-  - '&8Input: &e1 Units'
-  - '&8Output: &e1 Nugget'
+  - '&8Внес: &e1 единица'
+  - '&8Излез: &e1 зрно'
   type:
   - '&7&oКомпонента'
 CAST_PICKAXEHEAD:
@@ -901,8 +901,8 @@ CAST_PICKAXEHEAD:
   - '&7Калап за метали.'
   name: '&fКалап за глава на кирка'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Pickaxe Head'
+  - '&8Внес: &e27 единици'
+  - '&8Излез: &e1 глава на кирка'
   type:
   - '&7&oКомпонента'
 CAST_REPAIRKIT:
@@ -910,8 +910,8 @@ CAST_REPAIRKIT:
   - '&7Калап за метали.'
   name: '&fКалап за комплет за поправка'
   stats:
-  - '&8Input: &e27 Units'
-  - '&8Output: &e1 Repair Kit'
+  - '&8Внес: &e27 единици'
+  - '&8Излез: &e1 комплет за поправка'
   type:
   - '&7&oКомпонента'
 CAST_SHOVELHEAD:
@@ -919,8 +919,8 @@ CAST_SHOVELHEAD:
   - '&7Калап за метали.'
   name: '&fКалап за глава на лопата'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Shovel Head'
+  - '&8Внес: &e9 единици'
+  - '&8Излез: &e1 глава на лопата'
   type:
   - '&7&oКомпонента'
 CAST_SWORDBLADE:
@@ -928,8 +928,8 @@ CAST_SWORDBLADE:
   - '&7Калап за метали.'
   name: '&fКалап за сечило на меч'
   stats:
-  - '&8Input: &e18 Units'
-  - '&8Output: &e1 Sword Blade'
+  - '&8Внес: &e18 единици'
+  - '&8Излез: &e1 сечило на меч'
   type:
   - '&7&oКомпонента'
 CAST_TOOLROD:
@@ -937,8 +937,8 @@ CAST_TOOLROD:
   - '&7Калап за метали.'
   name: '&fКалап за алатска дршка'
   stats:
-  - '&8Input: &e9 Units'
-  - '&8Output: &e1 Tool Rod'
+  - '&8Внес: &e9 единици'
+  - '&8Излез: &e1 алатска дршка'
   type:
   - '&7&oКомпонента'
 CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
@@ -8473,7 +8473,7 @@ TINKERS_ARMOUR_TABLE:
   type:
   - '&7&oМашина'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eКликни со десен клик за да го отвориш прозорецот.'
 TINKERS_MOD_STATION:
   description:
   - '&7Става надградби на алати и оружја.'
@@ -8481,7 +8481,7 @@ TINKERS_MOD_STATION:
   type:
   - '&7&oМашина'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eКликни со десен клик за да го отвориш прозорецот.'
 TINKERS_REPAIR_BENCH:
   description:
   - '&7Поправа алати и оружја.'
@@ -8489,7 +8489,7 @@ TINKERS_REPAIR_BENCH:
   type:
   - '&7&oМашина'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eКликни со десен клик за да го отвориш прозорецот.'
 TINKERS_SMELTERY_CORE:
   description:
   - '&7Ги топи металите во течности.'
@@ -8500,7 +8500,7 @@ TINKERS_SMELTERY_CORE:
   type:
   - '&7&oМултиблок'
   usage:
-  - Build the multiblock, then &eRight Click&7 the Smeltery Controller to use it.
+  - Изгради ја повеќеблоковската градба, потоа кликни со десен клик на управувачот на топилницата за да ја користиш.
 TINKERS_SWAPPING_STATION:
   description:
   - '&7Ги заменува деловите на алатите со нови.'
@@ -8508,7 +8508,7 @@ TINKERS_SWAPPING_STATION:
   type:
   - '&7&oМашина'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eКликни со десен клик за да го отвориш прозорецот.'
 TINKERS_TABLE:
   description:
   - '&7Ги спојува деловите во алати.'
@@ -8516,7 +8516,7 @@ TINKERS_TABLE:
   type:
   - '&7&oМашина'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eКликни со десен клик за да го отвориш прозорецот.'
 TINKERS_WORKBENCH:
   description:
   - '&7Се користи за изработка на разни предмети'
@@ -8527,7 +8527,7 @@ TINKERS_WORKBENCH:
   type:
   - '&7&oМашина'
   usage:
-  - '&eRight Click&7 to open the interface.'
+  - '&eКликни со десен клик за да го отвориш прозорецот.'
 TIN_LIQUID:
   description:
   - '&7Стопена форма од калај.'
