@@ -1489,7 +1489,7 @@ ENCHANTING_II_TRAIT_PROP_LINKS_SILVER_SINGULARITY:
 ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
   description:
   - '&7Alet tecrübe kazancı yarıya iner. Aletler bir'
-  - '&7rastgele vanilya büyüsünü seviye atlarken ekler. Alet'
+  - '&7rastgele standart büyüyü seviye atlarken ekler. Alet'
   - '&7türüyle uyuşabilir de uyuşmayabilir de.'
   - ''
   - '&7Ekleyen: Çekirdek SlimeTinker'
