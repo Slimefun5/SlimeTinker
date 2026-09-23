@@ -7,7 +7,7 @@ plugins {
 group = "dev.sefiraat"
 description = "SlimeTinker is a Slimefun addon that recreates Tinker's Construct within Slimefun."
 
-apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/stable/slimefun-addon.gradle")
+apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/main/slimefun-addon.gradle")
 
 repositories {
     maven("https://repo.aikar.co/content/groups/aikar/")
