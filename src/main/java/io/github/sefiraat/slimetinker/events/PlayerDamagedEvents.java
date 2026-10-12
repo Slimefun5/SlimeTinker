@@ -38,6 +38,7 @@ import org.bukkit.potion.PotionEffectType;
 import java.util.concurrent.ThreadLocalRandom;
 
 import static io.github.sefiraat.slimetinker.utils.EntityUtils.increaseEffect;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public final class PlayerDamagedEvents {
 
@@ -136,10 +137,10 @@ public final class PlayerDamagedEvents {
                 p.getWorld().spawnParticle(Particle.REDSTONE, p.getLocation(), 30, 3, 3, 3, 1, dustOptions2);
                 Particle.DustOptions dustOptions3 = new Particle.DustOptions(Color.fromRGB(40, 40, 40), 2);
                 p.getWorld().spawnParticle(Particle.REDSTONE, p.getLocation(), 30, 3, 3, 3, 1, dustOptions3);
-                p.sendMessage(ThemeUtils.WARNING + "Protective has saved you from death. It's now on cooldown - take care!");
+                Messages.send(p, ThemeUtils.WARNING, "ability.protective-saved", "Protective has saved you from death. It's now on cooldown - take care!");
                 ItemUtils.setCooldown(i, "PROTECTIVE", 1200000);
             } else {
-                p.sendMessage(ThemeUtils.WARNING + "Skill is on cooldown");
+                Messages.send(p, ThemeUtils.WARNING, "ability.skill-cooldown", "Skill is on cooldown");
             }
 
         }

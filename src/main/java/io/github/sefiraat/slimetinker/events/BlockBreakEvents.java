@@ -32,6 +32,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import java.util.concurrent.ThreadLocalRandom;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public final class BlockBreakEvents {
 
@@ -66,12 +67,13 @@ public final class BlockBreakEvents {
             int durationTicks = (int) (hasteEnd - timeNow) / 50;
             PotionEffect newEffect = new PotionEffect(PotionEffectType.FAST_DIGGING, durationTicks, nextLevel);
             player.addPotionEffect(newEffect);
-            player.sendMessage(ThemeUtils.SUCCESS + "Haste Burst has hit level " + (nextLevel + 1) + "!");
+            Messages.send(player, ThemeUtils.SUCCESS, "ability.haste-level", "Haste Burst has hit level %level%!",
+                    line -> line.replace("%level%", String.valueOf(nextLevel + 1)));
         }
     }
 
     public static void headNice(EventFriend friend) {
-        friend.getPlayer().sendMessage(ThemeUtils.WARNING + "Nice");
+        Messages.send(friend.getPlayer(), ThemeUtils.WARNING, "ability.nice", "Nice");
     }
 
     public static void headCorbronze(EventFriend friend) {

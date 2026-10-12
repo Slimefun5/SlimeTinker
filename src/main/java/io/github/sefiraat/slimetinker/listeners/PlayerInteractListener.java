@@ -20,6 +20,7 @@ import org.bukkit.inventory.ItemStack;
 import static io.github.sefiraat.slimetinker.events.friend.EventChannels.checkArmour;
 import static io.github.sefiraat.slimetinker.events.friend.EventChannels.checkTool;
 import static io.github.sefiraat.slimetinker.events.friend.EventChannels.settlePotionEffects;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public class PlayerInteractListener implements Listener {
 
@@ -48,8 +49,8 @@ public class PlayerInteractListener implements Listener {
             if (eventIsTinkersTillOrPath(itemStack, event.getClickedBlock())) {
                 if (ItemUtils.isTinkersBroken(itemStack)) {
                     event.setCancelled(true);
-                    event.getPlayer()
-                         .sendMessage(ThemeUtils.WARNING + "Your tool is broken, you should really repair it!");
+                    Messages.send(event.getPlayer(), ThemeUtils.WARNING, "tool.broken",
+                            "Your tool is broken, you should really repair it!");
                 } else {
                     Experience.addExp(itemStack, 1, event.getPlayer(), true);
                 }

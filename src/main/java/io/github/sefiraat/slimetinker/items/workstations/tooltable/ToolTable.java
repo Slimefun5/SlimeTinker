@@ -24,6 +24,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
 import javax.annotation.Nonnull;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public class ToolTable extends TickingMenuBlock {
 
@@ -168,11 +169,11 @@ public class ToolTable extends TickingMenuBlock {
         ItemStack rod = blockMenu.getItemInSlot(INPUT_ROD);
 
         if (head == null || binding == null || rod == null) {
-            player.sendMessage(ThemeUtils.ERROR + "Not all items present");
+            Messages.send(player, ThemeUtils.ERROR, "table.missing-items", "Not all items present");
             return;
         }
         if (!validateClass(head, Ids.HEAD) || !validateBinder(binding) || !validateClass(rod, Ids.ROD)) {
-            player.sendMessage(ThemeUtils.WARNING + "One or more items are either not Tinker's parts or in the wrong slot?");
+            Messages.send(player, ThemeUtils.WARNING, "table.wrong-parts", "One or more items are either not Tinker's parts or in the wrong slot?");
             return;
         }
 

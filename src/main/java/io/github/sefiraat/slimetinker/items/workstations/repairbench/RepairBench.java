@@ -21,6 +21,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 
 import javax.annotation.Nonnull;
 import java.util.concurrent.ThreadLocalRandom;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public class RepairBench extends MenuBlock {
 
@@ -40,17 +41,17 @@ public class RepairBench extends MenuBlock {
         ItemStack kit = blockMenu.getItemInSlot(INPUT_KIT);
 
         if (item == null) {
-            player.sendMessage(ThemeUtils.WARNING + "Input a item into the first slot.");
+            Messages.send(player, ThemeUtils.WARNING, "repair.input-item", "Input a item into the first slot.");
             return;
         }
 
         if (!ItemUtils.isTool(item) && !ItemUtils.isArmour(item)) {
-            player.sendMessage(ThemeUtils.WARNING + "The item in the first slot isn't a Tinker's item.");
+            Messages.send(player, ThemeUtils.WARNING, "repair.not-tinkers-item", "The item in the first slot isn't a Tinker's item.");
             return;
         }
 
         if (kit == null || !RepairkitTemplate.isRepairKit(kit)) {
-            player.sendMessage(ThemeUtils.WARNING + "Input a repair kit into the second slot.");
+            Messages.send(player, ThemeUtils.WARNING, "repair.input-kit", "Input a repair kit into the second slot.");
             return;
         }
 
@@ -71,10 +72,10 @@ public class RepairBench extends MenuBlock {
             if (!freeFix) {
                 blockMenu.getItemInSlot(INPUT_KIT).setAmount(blockMenu.getItemInSlot(INPUT_KIT).getAmount() -1);
             } else {
-                player.sendMessage(ThemeUtils.SUCCESS + "Free repair!");
+                Messages.send(player, ThemeUtils.SUCCESS, "repair.free-repair", "Free repair!");
             }
         } else {
-            player.sendMessage(ThemeUtils.WARNING + "The kit type does not match the item material.");
+            Messages.send(player, ThemeUtils.WARNING, "repair.kit-mismatch", "The kit type does not match the item material.");
         }
     }
 

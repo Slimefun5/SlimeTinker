@@ -17,6 +17,7 @@ import io.github.sefiraat.slimetinker.utils.ThemeUtils;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 @CommandAlias("SlimeTinker|st|tinker")
 public class Commands extends BaseCommand {
@@ -24,7 +25,7 @@ public class Commands extends BaseCommand {
     @Default
     public void onDefault(CommandSender sender) {
         if (sender instanceof Player) {
-            sender.sendMessage(ThemeUtils.ERROR + "Please provide a valid subcommand.");
+            Messages.send(sender, ThemeUtils.ERROR, "command.invalid-subcommand", "Please provide a valid subcommand.");
         }
     }
 
@@ -40,7 +41,7 @@ public class Commands extends BaseCommand {
                 Experience.addExp(i, amount, p, false);
             }
         } else {
-            sender.sendMessage(ThemeUtils.ERROR + "This can only be done as a player.");
+            Messages.send(sender, ThemeUtils.ERROR, "command.player-only", "This can only be done as a player.");
         }
     }
 
@@ -58,7 +59,7 @@ public class Commands extends BaseCommand {
                 ArmourDefinition armour = new ArmourDefinition(Ids.PLATE, type, plateMat, gambesonMat, linksMat);
                 p.getInventory().addItem(Guide.HELM.getStack(armour));
             } else {
-                sender.sendMessage(ThemeUtils.ERROR + "This can only be done as a player.");
+                Messages.send(sender, ThemeUtils.ERROR, "command.player-only", "This can only be done as a player.");
             }
         }
 
@@ -75,7 +76,7 @@ public class Commands extends BaseCommand {
                     p.getInventory().addItem(Guide.SHOVEL.getStack(tool));
                 }
             } else {
-                sender.sendMessage(ThemeUtils.ERROR + "This can only be done as a player.");
+                Messages.send(sender, ThemeUtils.ERROR, "command.player-only", "This can only be done as a player.");
             }
         }
 

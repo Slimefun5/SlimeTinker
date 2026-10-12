@@ -25,6 +25,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public final class TinkersSmelteryCache extends AbstractCache {
 
@@ -235,14 +236,14 @@ public final class TinkersSmelteryCache extends AbstractCache {
         ItemStack inputItem = blockMenu.getItemInSlot(TinkersSmeltery.CAST_SLOT);
 
         if (inputItem == null || !SlimeTinker.getInstance().getCmManager().castingRecipes.containsKey(StackUtils.getIdOrType(inputItem))) {
-            player.sendMessage(ThemeUtils.WARNING + "Please input a valid cast before trying to pour metals.");
+            Messages.send(player, ThemeUtils.WARNING, "smeltery.need-cast", "Please input a valid cast before trying to pour metals.");
             return;
         }
 
         Optional<String> first = tankContent.keySet().stream().findFirst();
 
         if (!first.isPresent()) {
-            player.sendMessage(ThemeUtils.WARNING + "There isn't any metal to pour.");
+            Messages.send(player, ThemeUtils.WARNING, "smeltery.no-metal", "There isn't any metal to pour.");
             return;
         }
 
@@ -251,7 +252,7 @@ public final class TinkersSmelteryCache extends AbstractCache {
         CastResult result = SlimeTinker.getInstance().getCmManager().castingRecipes.get(StackUtils.getIdOrType(inputItem));
 
         if (!result.getOutputs().containsKey(tinkerMaterial)) {
-            player.sendMessage(ThemeUtils.WARNING + "The selected metal cannot be shaped into the selected cast.");
+            Messages.send(player, ThemeUtils.WARNING, "smeltery.cannot-shape", "The selected metal cannot be shaped into the selected cast.");
             return;
         }
 
@@ -259,12 +260,12 @@ public final class TinkersSmelteryCache extends AbstractCache {
         int metalAmount = result.getAmount();
 
         if (tankContent.get(metalID) < metalAmount) {
-            player.sendMessage(ThemeUtils.WARNING + "You do not have enough metal to fill this cast");
+            Messages.send(player, ThemeUtils.WARNING, "smeltery.not-enough-metal", "You do not have enough metal to fill this cast");
             return;
         }
 
         if (!blockMenu.fits(outputItem, TinkersSmeltery.OUTPUT_SLOT)) {
-            player.sendMessage(ThemeUtils.WARNING + "Please clear your casting table first");
+            Messages.send(player, ThemeUtils.WARNING, "smeltery.clear-casting-table", "Please clear your casting table first");
             return;
         }
 

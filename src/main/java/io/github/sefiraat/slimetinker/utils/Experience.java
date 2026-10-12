@@ -10,6 +10,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 
 import java.util.Map;
 import java.util.concurrent.ThreadLocalRandom;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public final class Experience {
 
@@ -55,7 +56,7 @@ public final class Experience {
             modSlots++;
             expRequired = (expRequired * EXP_GROWTH);
             promoteMaterial(itemStack, level, player);
-            player.sendMessage(ThemeUtils.SUCCESS + "Your Tinker's tool has leveled up! +1 Modifier Slot");
+            Messages.send(player, ThemeUtils.SUCCESS, "tool.levelled-up", "Your Tinker's tool has leveled up! +1 Modifier Slot");
 
             silverChecks(itemStack, im, player);
 
@@ -93,7 +94,7 @@ public final class Experience {
         if (Guide.getGrowthMap().get(type).containsKey(level)) {
             itemStack.setType(Guide.getGrowthMap().get(type).get(level));
             ItemUtils.repairItem(itemStack);
-            player.sendMessage(ThemeUtils.SUCCESS + "Your tool has been promoted!");
+            Messages.send(player, ThemeUtils.SUCCESS, "tool.promoted", "Your tool has been promoted!");
         }
 
     }
@@ -116,7 +117,8 @@ public final class Experience {
             for (int i = 0; i < amount; i++) {
                 ItemUtils.incrementRandomEnchant(itemStack, im);
             }
-            player.sendMessage(ThemeUtils.SUCCESS + "It also gained [" + amount + "] random enchantment(s)! Hope it's good :>");
+            Messages.send(player, ThemeUtils.SUCCESS, "tool.gained-enchants", "It also gained [%amount%] random enchantment(s)! Hope it's good :>",
+                    line -> line.replace("%amount%", String.valueOf(amount)));
         }
     }
 }

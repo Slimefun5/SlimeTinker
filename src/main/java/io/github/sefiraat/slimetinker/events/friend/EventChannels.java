@@ -15,6 +15,7 @@ import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
 import java.util.Map;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public final class EventChannels {
 
@@ -72,7 +73,7 @@ public final class EventChannels {
         if (eventShouldCancelIfBroken(i, friend.getEventType())) {
             friend.setActionTaken(true);
             friend.setCancelEvent(true);
-            friend.getPlayer().sendMessage(ThemeUtils.WARNING + "Your tool is broken, you should really repair it!");
+            Messages.send(friend.getPlayer(), ThemeUtils.WARNING, "tool.broken", "Your tool is broken, you should really repair it!");
             return;
         }
 

@@ -9,6 +9,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.scheduler.BukkitRunnable;
 
 import javax.annotation.Nonnull;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public class ArmourRemove extends BukkitRunnable {
 
@@ -43,10 +44,10 @@ public class ArmourRemove extends BukkitRunnable {
         itemStack.setAmount(0);
         if (i.firstEmpty() > -1) {
             i.addItem(newItem);
-            player.sendMessage(ThemeUtils.WARNING + "A piece of armour has broken! It's been placed in your inventory.");
+            Messages.send(player, ThemeUtils.WARNING, "armour.broken-stored", "A piece of armour has broken! It's been placed in your inventory.");
         } else {
             player.getWorld().dropItemNaturally(player.getLocation(), newItem);
-            player.sendMessage(ThemeUtils.WARNING + "A piece of armour has broken! You had no room for it and it has been dropped.");
+            Messages.send(player, ThemeUtils.WARNING, "armour.broken-dropped", "A piece of armour has broken! You had no room for it and it has been dropped.");
         }
     }
 }

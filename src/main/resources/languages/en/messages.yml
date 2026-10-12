@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Please provide a valid subcommand."
+  player-only: "This can only be done as a player."
+
+ability:
+  haste-level: "Haste Burst has hit level %level%!"
+  haste-cooldown: "Haste Burst is on cooldown!"
+  haste-active: "Haste Burst is active"
+  location-set: "Location set!"
+  recall-cooldown: "Recall is on cooldown!"
+  recall-unset: "You have not yet set a location to recall to!"
+  recall-whoosh: "Whoosh!"
+  teleport-failed: "Couldn't teleport! Try again."
+  natural-cooldown: "It's Natural is on cooldown"
+  on-cooldown: "This ability is on cooldown."
+  skill-on-cooldown: "This skill is on cooldown"
+  skill-cooldown: "Skill is on cooldown"
+  protective-saved: "Protective has saved you from death. It's now on cooldown - take care!"
+  nice: "Nice"
+
+network:
+  grid-detected: "Network Grid detected at %location%"
+  must-be-grid: "Must be set to a Network Grid (not crafting grid)."
+  networks-required: "Network Remote requires the Networks plugin."
+
+tool:
+  repaired-with-iron: "Your tool was repaired with some iron you had lying around!"
+  broken: "Your tool is broken, you should really repair it!"
+  levelled-up: "Your Tinker's tool has leveled up! +1 Modifier Slot"
+  promoted: "Your tool has been promoted!"
+  gained-enchants: "It also gained [%amount%] random enchantment(s)! Hope it's good :>"
+
+armour:
+  broken-stored: "A piece of armour has broken! It's been placed in your inventory."
+  broken-dropped: "A piece of armour has broken! You had no room for it and it has been dropped."
+
+table:
+  missing-items: "Not all items present"
+  wrong-parts: "One or more items are either not Tinker's parts or in the wrong slot?"
+
+modification:
+  input-item: "Input a tool/piece of armour into the first slot."
+  nope-nerd: "Nope - nerd"
+  not-tinkers-item: "The item in the first slot isn't a Tinker's tool/armour piece."
+  input-modifier: "Input a valid modifier into the second slot."
+  maxed-out: "You have already maxed out this modifier"
+  no-free-slots: "You do not have enough free Modification slots for this"
+  clear-output: "Clear the output slot first"
+
+repair:
+  input-item: "Input a item into the first slot."
+  not-tinkers-item: "The item in the first slot isn't a Tinker's item."
+  input-kit: "Input a repair kit into the second slot."
+  free-repair: "Free repair!"
+  kit-mismatch: "The kit type does not match the item material."
+
+smeltery:
+  need-cast: "Please input a valid cast before trying to pour metals."
+  no-metal: "There isn't any metal to pour."
+  cannot-shape: "The selected metal cannot be shaped into the selected cast."
+  not-enough-metal: "You do not have enough metal to fill this cast"
+  clear-casting-table: "Please clear your casting table first"
+
+swapping:
+  input-tool: "Input a tool into the first slot."
+  input-part: "Input a replacement part into the second slot."
+  part-not-swappable: "This part cannot be swapped onto this tool."
+  head-not-swappable: "This head type cannot be swapped onto this tool."
+  plate-not-swappable: "This plate type cannot be swapped onto this armour."
+
+item:
+  cannot-drop: "This cannot be dropped."

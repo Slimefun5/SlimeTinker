@@ -37,6 +37,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public final class InteractionEvents {
 
@@ -51,9 +52,9 @@ public final class InteractionEvents {
 
         if (player.isSneaking()) {
             if (ItemUtils.onCooldown(itemStack, cooldownName)) {
-                player.sendMessage(ThemeUtils.WARNING + "Haste Burst is on cooldown!");
+                Messages.send(player, ThemeUtils.WARNING, "ability.haste-cooldown", "Haste Burst is on cooldown!");
             } else {
-                player.sendMessage(ThemeUtils.SUCCESS + "Haste Burst is active");
+                Messages.send(player, ThemeUtils.SUCCESS, "ability.haste-active", "Haste Burst is active");
                 MemoryManager.getInstance().setHasteBurstEnd(player.getUniqueId(), 30000);
                 ItemUtils.setCooldown(itemStack, cooldownName, 300000);
             }
@@ -74,20 +75,20 @@ public final class InteractionEvents {
 
             if (p.isSneaking()) {
                 Pdc.setString(im, keyLoc.toString(), GeneralUtils.serializeLocation(p.getLocation()));
-                p.sendMessage(ThemeUtils.SUCCESS + "Location set!");
+                Messages.send(p, ThemeUtils.SUCCESS, "ability.location-set", "Location set!");
                 i.setItemMeta(im);
             } else {
                 if (ItemUtils.onCooldown(i, cooldownName)) {
-                    p.sendMessage(ThemeUtils.WARNING + "Recall is on cooldown!");
+                    Messages.send(p, ThemeUtils.WARNING, "ability.recall-cooldown", "Recall is on cooldown!");
                     return;
                 } else if (!Pdc.hasString(im, keyLoc.toString())) {
-                    p.sendMessage(ThemeUtils.WARNING + "You have not yet set a location to recall to!");
+                    Messages.send(p, ThemeUtils.WARNING, "ability.recall-unset", "You have not yet set a location to recall to!");
                     return;
                 }
                 String sl = Pdc.getString(im, keyLoc.toString());
                 Location l = GeneralUtils.deserializeLocation(sl);
                 p.teleport(l);
-                p.sendMessage(ThemeUtils.SUCCESS + "Whoosh!");
+                Messages.send(p, ThemeUtils.SUCCESS, "ability.recall-whoosh", "Whoosh!");
                 ItemUtils.setCooldown(i, cooldownName, 300000);
             }
 
@@ -115,7 +116,7 @@ public final class InteractionEvents {
                 p.getWorld().playEffect(friend.getPlayer().getLocation(), Effect.SMOKE, 10);
                 ItemUtils.setCooldown(i, "NOCLIP", 300000);
             } else {
-                p.sendMessage(ThemeUtils.WARNING + "Couldn't teleport! Try again.");
+                Messages.send(p, ThemeUtils.WARNING, "ability.teleport-failed", "Couldn't teleport! Try again.");
             }
         }
     }
@@ -148,7 +149,7 @@ public final class InteractionEvents {
         ItemStack i = friend.getActiveStack();
         int cdMinutes = 2;
         if (ItemUtils.onCooldown(i, cdName)) {
-            p.sendMessage(ThemeUtils.WARNING + "It's Natural is on cooldown");
+            Messages.send(p, ThemeUtils.WARNING, "ability.natural-cooldown", "It's Natural is on cooldown");
         } else {
             List<Animals> animals = EntityUtils.getNearbyEntitiesByType(Animals.class, p, 3, 3, 3);
             if (animals.size() >= 2) {
@@ -178,7 +179,7 @@ public final class InteractionEvents {
                 task.runTaskTimer(SlimeTinker.getInstance(), 0, 20);
                 ItemUtils.setCooldown(i, cdName, 20 * 60000L);
             } else {
-                p.sendMessage(ThemeUtils.WARNING + "This ability is on cooldown.");
+                Messages.send(p, ThemeUtils.WARNING, "ability.on-cooldown", "This ability is on cooldown.");
             }
         }
     }
@@ -249,7 +250,7 @@ public final class InteractionEvents {
                 ItemUtils.setCooldown(tool, "celebrate", 3600000);
             }
         } else {
-            player.sendMessage(ThemeUtils.WARNING + "This ability is on cooldown.");
+            Messages.send(player, ThemeUtils.WARNING, "ability.on-cooldown", "This ability is on cooldown.");
         }
     }
 
@@ -274,12 +275,13 @@ public final class InteractionEvents {
             if (Slimefun.getProtectionManager().hasPermission(player, block, Interaction.INTERACT_BLOCK)
                 && slimefunItem != null && slimefunItem.getId().equals("NETWORK_GRID")
             ) {
-                player.sendMessage(ThemeUtils.SUCCESS + "Network Grid detected at " + block.getLocation());
+                Messages.send(player, ThemeUtils.SUCCESS, "network.grid-detected", "Network Grid detected at %location%",
+                        line -> line.replace("%location%", String.valueOf(block.getLocation())));
             } else {
-                player.sendMessage(ThemeUtils.ERROR + "Must be set to a Network Grid (not crafting grid).");
+                Messages.send(player, ThemeUtils.ERROR, "network.must-be-grid", "Must be set to a Network Grid (not crafting grid).");
             }
         } else if (friend.getAction() == Action.LEFT_CLICK_AIR) {
-            player.sendMessage(ThemeUtils.WARNING + "Network Remote requires the Networks plugin.");
+            Messages.send(player, ThemeUtils.WARNING, "network.networks-required", "Network Remote requires the Networks plugin.");
         }
     }
 }

@@ -7,6 +7,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerDropItemEvent;
 import org.bukkit.inventory.ItemStack;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public class DropItemListener implements Listener {
 
@@ -20,7 +21,7 @@ public class DropItemListener implements Listener {
         ItemStack itemStack = event.getItemDrop().getItemStack();
         if (ItemUtils.cannotDrop(itemStack)) {
             event.setCancelled(true);
-            event.getPlayer().sendMessage(ThemeUtils.WARNING + "This cannot be dropped.");
+            Messages.send(event.getPlayer(), ThemeUtils.WARNING, "item.cannot-drop", "This cannot be dropped.");
         }
 
     }

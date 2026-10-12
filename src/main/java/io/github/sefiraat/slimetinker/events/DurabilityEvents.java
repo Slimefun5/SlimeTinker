@@ -10,6 +10,7 @@ import org.bukkit.inventory.meta.Damageable;
 import org.bukkit.inventory.meta.ItemMeta;
 
 import java.util.concurrent.ThreadLocalRandom;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public final class DurabilityEvents {
 
@@ -84,7 +85,7 @@ public final class DurabilityEvents {
         if (friend.getPlayer().getInventory().containsAtLeast(new ItemStack(MaterialCompat.safe(XMaterial.IRON_INGOT)), 1)) {
             ItemUtils.repairItem(friend.getTool(), 50);
             friend.getPlayer().getInventory().removeItem(i);
-            friend.getPlayer().sendMessage(ThemeUtils.SUCCESS + "Your tool was repaired with some iron you had lying around!");
+            Messages.send(friend.getPlayer(), ThemeUtils.SUCCESS, "tool.repaired-with-iron", "Your tool was repaired with some iron you had lying around!");
         }
 
     }

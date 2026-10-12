@@ -24,6 +24,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
 import javax.annotation.Nonnull;
+import io.github.sefiraat.slimetinker.i18n.Messages;
 
 public class SwappingStation extends MenuBlock {
 
@@ -42,17 +43,17 @@ public class SwappingStation extends MenuBlock {
         ItemStack part = blockMenu.getItemInSlot(INPUT_PART);
 
         if (item == null) {
-            player.sendMessage(ThemeUtils.WARNING + "Input a tool into the first slot.");
+            Messages.send(player, ThemeUtils.WARNING, "swapping.input-tool", "Input a tool into the first slot.");
             return;
         }
 
         if (item.getAmount() > 1) {
-            player.sendMessage(ThemeUtils.WARNING + "Nope - nerd");
+            Messages.send(player, ThemeUtils.WARNING, "modification.nope-nerd", "Nope - nerd");
             return;
         }
 
         if (part == null) {
-            player.sendMessage(ThemeUtils.WARNING + "Input a replacement part into the second slot.");
+            Messages.send(player, ThemeUtils.WARNING, "swapping.input-part", "Input a replacement part into the second slot.");
             return;
         }
 
@@ -64,16 +65,16 @@ public class SwappingStation extends MenuBlock {
             if (partClass != null && ItemUtils.partIsTool(partClass)) {
                 swapTool(blockMenu, player, item, partClass, partType, partMaterial);
             } else {
-                player.sendMessage(ThemeUtils.WARNING + "This part cannot be swapped onto this tool.");
+                Messages.send(player, ThemeUtils.WARNING, "swapping.part-not-swappable", "This part cannot be swapped onto this tool.");
             }
         } else if (ItemUtils.isArmour(item)) {
             if (partClass != null && ItemUtils.partIsArmour(partClass)) {
                 swapArmour(blockMenu, player, item, partClass, partType, partMaterial);
             } else {
-                player.sendMessage(ThemeUtils.WARNING + "This part cannot be swapped onto this tool.");
+                Messages.send(player, ThemeUtils.WARNING, "swapping.part-not-swappable", "This part cannot be swapped onto this tool.");
             }
         } else {
-            player.sendMessage(ThemeUtils.WARNING + "The item in the first slot isn't a Tinker's item.");
+            Messages.send(player, ThemeUtils.WARNING, "repair.not-tinkers-item", "The item in the first slot isn't a Tinker's item.");
         }
     }
 
@@ -86,7 +87,7 @@ public class SwappingStation extends MenuBlock {
     ) {
         // The part is a head part but the type is either null or not matching the tool (Axe head part for shovel etc.)
         if (partClass.equals(Ids.HEAD) && (partType != null && !partType.equals(ItemUtils.getToolTypeName(item)))) {
-            player.sendMessage(ThemeUtils.WARNING + "This head type cannot be swapped onto this tool.");
+            Messages.send(player, ThemeUtils.WARNING, "swapping.head-not-swappable", "This head type cannot be swapped onto this tool.");
             return;
         }
 
@@ -128,7 +129,7 @@ public class SwappingStation extends MenuBlock {
     ) {
         // The part is a plate part but the type is either null or not matching the armour (Helm plates for boots etc..)
         if (partClass.equals(Ids.PLATE) && (partType != null && !partType.equals(ItemUtils.getArmourTypeName(item)))) {
-            player.sendMessage(ThemeUtils.WARNING + "This plate type cannot be swapped onto this armour.");
+            Messages.send(player, ThemeUtils.WARNING, "swapping.plate-not-swappable", "This plate type cannot be swapped onto this armour.");
             return;
         }
 
