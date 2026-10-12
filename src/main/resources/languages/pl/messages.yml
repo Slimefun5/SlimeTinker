@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Podaj prawidłową podkomendę."
+  player-only: "To może zrobić tylko gracz."
+
+ability:
+  haste-level: "Zryw Pośpiechu osiągnął poziom %level%!"
+  haste-cooldown: "Zryw Pośpiechu się odnawia!"
+  haste-active: "Zryw Pośpiechu jest aktywny"
+  location-set: "Lokalizacja zapisana!"
+  recall-cooldown: "Powrót się odnawia!"
+  recall-unset: "Nie zapisałeś jeszcze lokalizacji, do której można wrócić!"
+  recall-whoosh: "Fiuu!"
+  teleport-failed: "Nie udało się teleportować! Spróbuj ponownie."
+  natural-cooldown: "To Naturalne się odnawia"
+  on-cooldown: "Ta zdolność się odnawia."
+  skill-on-cooldown: "Ta umiejętność się odnawia"
+  skill-cooldown: "Umiejętność się odnawia"
+  protective-saved: "Ochronny uratował cię od śmierci. Teraz się odnawia - uważaj na siebie!"
+  nice: "Niezłe"
+
+network:
+  grid-detected: "Siatka Sieciowa wykryta w %location%"
+  must-be-grid: "Musi być ustawione na Siatkę Sieciową (nie siatkę tworzenia)."
+  networks-required: "Zdalne Sterowanie Sieci wymaga wtyczki Networks."
+
+tool:
+  repaired-with-iron: "Twoje narzędzie zostało naprawione żelazem, które miałeś pod ręką!"
+  broken: "Twoje narzędzie jest zepsute, naprawdę powinieneś je naprawić!"
+  levelled-up: "Twoje narzędzie Majsterkowicza awansowało na wyższy poziom! +1 slot modyfikacji"
+  promoted: "Twoje narzędzie zostało ulepszone!"
+  gained-enchants: "Zyskało też [%amount%] losowe zaklęcie(a)! Oby były dobre :>"
+
+armour:
+  broken-stored: "Element zbroi się zniszczył! Został umieszczony w twoim ekwipunku."
+  broken-dropped: "Element zbroi się zniszczył! Nie miałeś na niego miejsca, więc został wyrzucony."
+
+table:
+  missing-items: "Nie wszystkie przedmioty są obecne"
+  wrong-parts: "Jeden lub więcej przedmiotów nie jest częścią Majsterkowicza albo jest w złym slocie?"
+
+modification:
+  input-item: "Włóż narzędzie lub element zbroi do pierwszego slotu."
+  nope-nerd: "Nie - kujonie"
+  not-tinkers-item: "Przedmiot w pierwszym slocie nie jest narzędziem ani zbroją Majsterkowicza."
+  input-modifier: "Włóż prawidłowy modyfikator do drugiego slotu."
+  maxed-out: "Już maksymalnie rozwinąłeś ten modyfikator"
+  no-free-slots: "Nie masz na to wystarczająco wolnych slotów modyfikacji"
+  clear-output: "Najpierw opróżnij slot wyjściowy"
+
+repair:
+  input-item: "Włóż przedmiot do pierwszego slotu."
+  not-tinkers-item: "Przedmiot w pierwszym slocie nie jest przedmiotem Majsterkowicza."
+  input-kit: "Włóż zestaw naprawczy do drugiego slotu."
+  free-repair: "Darmowa naprawa!"
+  kit-mismatch: "Rodzaj zestawu nie zgadza się z materiałem przedmiotu."
+
+smeltery:
+  need-cast: "Włóż prawidłową formę, zanim zaczniesz wylewać metal."
+  no-metal: "Nie ma metalu do wylania."
+  cannot-shape: "Wybranego metalu nie można uformować w wybranej formie."
+  not-enough-metal: "Nie masz wystarczająco metalu, aby wypełnić tę formę"
+  clear-casting-table: "Najpierw opróżnij swój stół odlewniczy"
+
+swapping:
+  input-tool: "Włóż narzędzie do pierwszego slotu."
+  input-part: "Włóż zamienną część do drugiego slotu."
+  part-not-swappable: "Tej części nie można zamontować na tym narzędziu."
+  head-not-swappable: "Tego rodzaju głowicy nie można zamontować na tym narzędziu."
+  plate-not-swappable: "Tego rodzaju płyty nie można zamontować na tej zbroi."
+
+item:
+  cannot-drop: "Tego nie można wyrzucić."

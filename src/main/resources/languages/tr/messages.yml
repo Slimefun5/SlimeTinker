@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Lütfen geçerli bir alt komut gir."
+  player-only: "Bu yalnızca bir oyuncu tarafından yapılabilir."
+
+ability:
+  haste-level: "Çabukluk Patlaması %level%. seviyeye ulaştı!"
+  haste-cooldown: "Çabukluk Patlaması bekleme süresinde!"
+  haste-active: "Çabukluk Patlaması etkin"
+  location-set: "Konum kaydedildi!"
+  recall-cooldown: "Geri çağırma bekleme süresinde!"
+  recall-unset: "Geri döneceğin bir konumu henüz kaydetmedin!"
+  recall-whoosh: "Vuuş!"
+  teleport-failed: "Işınlanamadı! Tekrar dene."
+  natural-cooldown: "Bu Doğal bekleme süresinde"
+  on-cooldown: "Bu yetenek bekleme süresinde."
+  skill-on-cooldown: "Bu beceri bekleme süresinde"
+  skill-cooldown: "Beceri bekleme süresinde"
+  protective-saved: "Koruyucu seni ölümden kurtardı. Şimdi bekleme süresinde - dikkatli ol!"
+  nice: "Güzel"
+
+network:
+  grid-detected: "Ağ Izgarası şurada bulundu: %location%"
+  must-be-grid: "Bir Ağ Izgarasına ayarlanmalı (üretim ızgarasına değil)."
+  networks-required: "Ağ Kumandası, Networks eklentisini gerektirir."
+
+tool:
+  repaired-with-iron: "Aletin, elinde duran biraz demirle onarıldı!"
+  broken: "Aletin kırılmış, gerçekten onarmalısın!"
+  levelled-up: "Zanaatkâr aletin seviye atladı! +1 değiştirici yuvası"
+  promoted: "Aletin terfi etti!"
+  gained-enchants: "Ayrıca [%amount%] rastgele büyü kazandı! Umarım iyidir :>"
+
+armour:
+  broken-stored: "Bir zırh parçası kırıldı! Envanterine yerleştirildi."
+  broken-dropped: "Bir zırh parçası kırıldı! Ona yerin yoktu, bu yüzden yere düşürüldü."
+
+table:
+  missing-items: "Tüm eşyalar yerinde değil"
+  wrong-parts: "Bir veya daha fazla eşya Zanaatkâr parçası değil ya da yanlış yuvada mı?"
+
+modification:
+  input-item: "İlk yuvaya bir alet ya da zırh parçası koy."
+  nope-nerd: "Hayır - inek"
+  not-tinkers-item: "İlk yuvadaki eşya bir Zanaatkâr aleti ya da zırhı değil."
+  input-modifier: "İkinci yuvaya geçerli bir değiştirici koy."
+  maxed-out: "Bu değiştiriciyi zaten en üst seviyeye çıkardın"
+  no-free-slots: "Bunun için yeterli boş değiştirici yuvan yok"
+  clear-output: "Önce çıktı yuvasını boşalt"
+
+repair:
+  input-item: "İlk yuvaya bir eşya koy."
+  not-tinkers-item: "İlk yuvadaki eşya bir Zanaatkâr eşyası değil."
+  input-kit: "İkinci yuvaya bir onarım kiti koy."
+  free-repair: "Bedava onarım!"
+  kit-mismatch: "Kitin türü eşyanın malzemesiyle uyuşmuyor."
+
+smeltery:
+  need-cast: "Lütfen metal dökmeden önce geçerli bir kalıp koy."
+  no-metal: "Dökülecek metal yok."
+  cannot-shape: "Seçilen metal, seçilen kalıba dökülemez."
+  not-enough-metal: "Bu kalıbı doldurmak için yeterli metalin yok"
+  clear-casting-table: "Lütfen önce döküm masanı boşalt"
+
+swapping:
+  input-tool: "İlk yuvaya bir alet koy."
+  input-part: "İkinci yuvaya bir yedek parça koy."
+  part-not-swappable: "Bu parça bu alete takılamaz."
+  head-not-swappable: "Bu baş türü bu alete takılamaz."
+  plate-not-swappable: "Bu plaka türü bu zırha takılamaz."
+
+item:
+  cannot-drop: "Bu atılamaz."

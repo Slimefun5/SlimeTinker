@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Sila berikan subperintah yang sah."
+  player-only: "Ini hanya boleh dilakukan oleh pemain."
+
+ability:
+  haste-level: "Ledakan Pantas mencapai tahap %level%!"
+  haste-cooldown: "Ledakan Pantas sedang menyejuk!"
+  haste-active: "Ledakan Pantas sedang aktif"
+  location-set: "Kedudukan disimpan!"
+  recall-cooldown: "Panggilan balik sedang menyejuk!"
+  recall-unset: "Kamu belum menyimpan kedudukan untuk dipanggil balik!"
+  recall-whoosh: "Wusss!"
+  teleport-failed: "Gagal berteleport! Cuba lagi."
+  natural-cooldown: "Itu Semula Jadi sedang menyejuk"
+  on-cooldown: "Kebolehan ini sedang menyejuk."
+  skill-on-cooldown: "Kemahiran ini sedang menyejuk"
+  skill-cooldown: "Kemahiran sedang menyejuk"
+  protective-saved: "Melindungi menyelamatkan kamu daripada kematian. Sekarang ia sedang menyejuk - berhati-hati!"
+  nice: "Bagus"
+
+network:
+  grid-detected: "Grid Rangkaian ditemui di %location%"
+  must-be-grid: "Mesti ditetapkan kepada Grid Rangkaian (bukan grid pembuatan)."
+  networks-required: "Pengawal Rangkaian memerlukan pemalam Networks."
+
+tool:
+  repaired-with-iron: "Alat kamu telah dibaiki dengan sedikit besi yang kamu ada!"
+  broken: "Alat kamu rosak, kamu patut membaikinya!"
+  levelled-up: "Alat Tukang kamu naik tahap! +1 slot pengubahsuaian"
+  promoted: "Alat kamu telah dinaikkan taraf!"
+  gained-enchants: "Ia juga memperoleh [%amount%] jampi rawak! Harap ia bagus :>"
+
+armour:
+  broken-stored: "Sekeping perisai telah rosak! Ia diletakkan dalam inventori kamu."
+  broken-dropped: "Sekeping perisai telah rosak! Kamu tiada ruang untuknya dan ia terjatuh."
+
+table:
+  missing-items: "Tidak semua item ada"
+  wrong-parts: "Satu atau lebih item bukan bahagian Tukang atau berada di slot yang salah?"
+
+modification:
+  input-item: "Masukkan alat atau sekeping perisai ke slot pertama."
+  nope-nerd: "Tidak - kutu buku"
+  not-tinkers-item: "Item di slot pertama bukan alat atau perisai Tukang."
+  input-modifier: "Masukkan pengubah yang sah ke slot kedua."
+  maxed-out: "Kamu sudah memaksimumkan pengubah ini"
+  no-free-slots: "Slot pengubahsuaian kosong kamu tidak cukup untuk ini"
+  clear-output: "Kosongkan slot keluaran dahulu"
+
+repair:
+  input-item: "Masukkan item ke slot pertama."
+  not-tinkers-item: "Item di slot pertama bukan item Tukang."
+  input-kit: "Masukkan kit pembaikan ke slot kedua."
+  free-repair: "Pembaikan percuma!"
+  kit-mismatch: "Jenis kit tidak sepadan dengan bahan item."
+
+smeltery:
+  need-cast: "Sila masukkan acuan yang sah sebelum menuang logam."
+  no-metal: "Tiada logam untuk dituang."
+  cannot-shape: "Logam yang dipilih tidak boleh dibentuk dalam acuan yang dipilih."
+  not-enough-metal: "Logam kamu tidak cukup untuk mengisi acuan ini"
+  clear-casting-table: "Sila kosongkan meja tuangan kamu dahulu"
+
+swapping:
+  input-tool: "Masukkan alat ke slot pertama."
+  input-part: "Masukkan bahagian ganti ke slot kedua."
+  part-not-swappable: "Bahagian ini tidak boleh dipasang pada alat ini."
+  head-not-swappable: "Jenis kepala ini tidak boleh dipasang pada alat ini."
+  plate-not-swappable: "Jenis plat ini tidak boleh dipasang pada perisai ini."
+
+item:
+  cannot-drop: "Ini tidak boleh dibuang."

@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Lūdzu, norādi derīgu apakškomandu."
+  player-only: "To var izdarīt tikai spēlētājs."
+
+ability:
+  haste-level: "Steigas uzplūds sasniedza %level%. līmeni!"
+  haste-cooldown: "Steigas uzplūds atjaunojas!"
+  haste-active: "Steigas uzplūds ir aktīvs"
+  location-set: "Atrašanās vieta saglabāta!"
+  recall-cooldown: "Atgriešanās atjaunojas!"
+  recall-unset: "Tu vēl neesi saglabājis vietu, uz kuru atgriezties!"
+  recall-whoosh: "Švīkt!"
+  teleport-failed: "Neizdevās teleportēties! Mēģini vēlreiz."
+  natural-cooldown: "Tas ir dabiski atjaunojas"
+  on-cooldown: "Šī spēja atjaunojas."
+  skill-on-cooldown: "Šī iemaņa atjaunojas"
+  skill-cooldown: "Iemaņa atjaunojas"
+  protective-saved: "Sargājošais izglāba tevi no nāves. Tagad tas atjaunojas - esi uzmanīgs!"
+  nice: "Jauki"
+
+network:
+  grid-detected: "Tīkla režģis atrasts: %location%"
+  must-be-grid: "Jābūt iestatītam uz Tīkla režģi (nevis uz amatniecības režģi)."
+  networks-required: "Tīkla tālvadībai nepieciešams Networks spraudnis."
+
+tool:
+  repaired-with-iron: "Tavs darbarīks tika salabots ar dzelzi, kas tev bija pa rokai!"
+  broken: "Tavs darbarīks ir salūzis, tev to tiešām vajadzētu salabot!"
+  levelled-up: "Tavs Amatnieka darbarīks paaugstināja līmeni! +1 modifikācijas vieta"
+  promoted: "Tavs darbarīks tika paaugstināts!"
+  gained-enchants: "Tas ieguva arī [%amount%] nejaušu(as) apburšanu(as)! Cerams, tā ir laba :>"
+
+armour:
+  broken-stored: "Bruņu daļa salūza! Tā tika ielikta tavā inventārā."
+  broken-dropped: "Bruņu daļa salūza! Tev tai nebija vietas, tāpēc tā tika nomesta."
+
+table:
+  missing-items: "Nav visu priekšmetu"
+  wrong-parts: "Viens vai vairāki priekšmeti nav Amatnieka daļas vai ir nepareizajā vietā?"
+
+modification:
+  input-item: "Ieliec darbarīku vai bruņu daļu pirmajā vietā."
+  nope-nerd: "Nē - zinīti"
+  not-tinkers-item: "Priekšmets pirmajā vietā nav Amatnieka darbarīks vai bruņas."
+  input-modifier: "Ieliec derīgu modifikatoru otrajā vietā."
+  maxed-out: "Tu jau esi izcēlis šo modifikatoru līdz maksimumam"
+  no-free-slots: "Tev nav pietiekami daudz brīvu modifikācijas vietu šim"
+  clear-output: "Vispirms iztukšo izvades vietu"
+
+repair:
+  input-item: "Ieliec priekšmetu pirmajā vietā."
+  not-tinkers-item: "Priekšmets pirmajā vietā nav Amatnieka priekšmets."
+  input-kit: "Ieliec remonta komplektu otrajā vietā."
+  free-repair: "Bezmaksas remonts!"
+  kit-mismatch: "Komplekta veids neatbilst priekšmeta materiālam."
+
+smeltery:
+  need-cast: "Lūdzu, ieliec derīgu veidni, pirms lej metālu."
+  no-metal: "Nav metāla, ko liet."
+  cannot-shape: "Izvēlēto metālu nevar ieliet izvēlētajā veidnē."
+  not-enough-metal: "Tev nav pietiekami daudz metāla, lai piepildītu šo veidni"
+  clear-casting-table: "Lūdzu, vispirms iztukšo savu liešanas galdu"
+
+swapping:
+  input-tool: "Ieliec darbarīku pirmajā vietā."
+  input-part: "Ieliec rezerves daļu otrajā vietā."
+  part-not-swappable: "Šo daļu nevar uzlikt uz šī darbarīka."
+  head-not-swappable: "Šo galvas veidu nevar uzlikt uz šī darbarīka."
+  plate-not-swappable: "Šo plāksnes veidu nevar uzlikt uz šīm bruņām."
+
+item:
+  cannot-drop: "Šo nevar nomest."

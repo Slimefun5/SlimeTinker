@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Magbigay ng tamang subcommand."
+  player-only: "Magagawa lamang ito ng isang manlalaro."
+
+ability:
+  haste-level: "Umabot na ang Sabog na Liksi sa antas %level%!"
+  haste-cooldown: "Nagpapalamig pa ang Sabog na Liksi!"
+  haste-active: "Gumagana ang Sabog na Liksi"
+  location-set: "Nakatakda na ang lugar!"
+  recall-cooldown: "Nagpapalamig pa ang pagbawi!"
+  recall-unset: "Wala ka pang naitakdang lugar na babalikan!"
+  recall-whoosh: "Wusss!"
+  teleport-failed: "Hindi makateleport! Subukan muli."
+  natural-cooldown: "Nagpapalamig pa ang Likas Lang Iyon"
+  on-cooldown: "Nagpapalamig pa ang kakayahang ito."
+  skill-on-cooldown: "Nagpapalamig pa ang galing na ito"
+  skill-cooldown: "Nagpapalamig pa ang galing"
+  protective-saved: "Iniligtas ka ng Mapangalaga sa kamatayan. Nagpapalamig na ito ngayon - mag-ingat ka!"
+  nice: "Ayos"
+
+network:
+  grid-detected: "Nakakita ng Network Grid sa %location%"
+  must-be-grid: "Dapat nakatakda sa isang Network Grid (hindi sa grid ng paggawa)."
+  networks-required: "Kailangan ng Network Remote ang plugin na Networks."
+
+tool:
+  repaired-with-iron: "Nakumpuni ang kasangkapan mo sa tulong ng bakal na nakatabi mo!"
+  broken: "Sira na ang kasangkapan mo, dapat mo na talagang kumpunihin!"
+  levelled-up: "Tumaas ang antas ng kasangkapan mo ng Panday! +1 puwesto ng pagbabago"
+  promoted: "Umangat ang kasangkapan mo!"
+  gained-enchants: "Nakakuha rin ito ng [%amount%] pabasang pabalani! Sana maganda :>"
+
+armour:
+  broken-stored: "Nasira ang isang piraso ng baluti! Inilagay ito sa imbentaryo mo."
+  broken-dropped: "Nasira ang isang piraso ng baluti! Wala kang espasyo para dito kaya nabitawan ito."
+
+table:
+  missing-items: "Kulang pa ang mga aytem"
+  wrong-parts: "Isa o higit pang aytem ay hindi piyesa ng Panday o nasa maling puwesto?"
+
+modification:
+  input-item: "Maglagay ng kasangkapan o piraso ng baluti sa unang puwesto."
+  nope-nerd: "Hindi - utak-lamok"
+  not-tinkers-item: "Ang aytem sa unang puwesto ay hindi kasangkapan o baluti ng Panday."
+  input-modifier: "Maglagay ng tamang pambago sa ikalawang puwesto."
+  maxed-out: "Nasa sukdulan na ang pambagong ito"
+  no-free-slots: "Kulang ang bakanteng puwesto ng pagbabago para dito"
+  clear-output: "Linisin muna ang puwesto ng labas"
+
+repair:
+  input-item: "Maglagay ng aytem sa unang puwesto."
+  not-tinkers-item: "Ang aytem sa unang puwesto ay hindi aytem ng Panday."
+  input-kit: "Maglagay ng pangkumpuning kit sa ikalawang puwesto."
+  free-repair: "Libreng kumpuni!"
+  kit-mismatch: "Hindi tugma ang uri ng kit sa materyales ng aytem."
+
+smeltery:
+  need-cast: "Maglagay ng tamang moldehan bago magbuhos ng metal."
+  no-metal: "Walang metal na maibubuhos."
+  cannot-shape: "Hindi kayang hulmahin ang napiling metal sa napiling moldehan."
+  not-enough-metal: "Kulang ang metal mo para punuin ang moldehang ito"
+  clear-casting-table: "Linisin muna ang mesa ng paghuhulma mo"
+
+swapping:
+  input-tool: "Maglagay ng kasangkapan sa unang puwesto."
+  input-part: "Maglagay ng pamalit na piyesa sa ikalawang puwesto."
+  part-not-swappable: "Hindi maikakabit ang piyesang ito sa kasangkapang ito."
+  head-not-swappable: "Hindi maikakabit ang uring ulo na ito sa kasangkapang ito."
+  plate-not-swappable: "Hindi maikakabit ang uring plato na ito sa baluting ito."
+
+item:
+  cannot-drop: "Hindi ito maaaring ibagsak."

@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Bitte gib einen gültigen Unterbefehl an."
+  player-only: "Das kann nur ein Spieler tun."
+
+ability:
+  haste-level: "Der Eile-Schub hat Stufe %level% erreicht!"
+  haste-cooldown: "Der Eile-Schub hat Abklingzeit!"
+  haste-active: "Der Eile-Schub ist aktiv"
+  location-set: "Ort gespeichert!"
+  recall-cooldown: "Die Rückkehr hat Abklingzeit!"
+  recall-unset: "Du hast noch keinen Ort zur Rückkehr gespeichert!"
+  recall-whoosh: "Wusch!"
+  teleport-failed: "Teleport fehlgeschlagen! Versuche es erneut."
+  natural-cooldown: "Ganz natürlich hat Abklingzeit"
+  on-cooldown: "Diese Fähigkeit hat Abklingzeit."
+  skill-on-cooldown: "Diese Fertigkeit hat Abklingzeit"
+  skill-cooldown: "Fertigkeit hat Abklingzeit"
+  protective-saved: "Schützend hat dich vor dem Tod bewahrt. Es hat jetzt Abklingzeit - sei vorsichtig!"
+  nice: "Nett"
+
+network:
+  grid-detected: "Netzwerk-Raster erkannt bei %location%"
+  must-be-grid: "Muss auf ein Netzwerk-Raster gesetzt werden (kein Handwerksraster)."
+  networks-required: "Die Netzwerk-Fernsteuerung benötigt das Networks-Plugin."
+
+tool:
+  repaired-with-iron: "Dein Werkzeug wurde mit etwas herumliegendem Eisen repariert!"
+  broken: "Dein Werkzeug ist kaputt, du solltest es wirklich reparieren!"
+  levelled-up: "Dein Werkzeug des Tüftlers ist aufgestiegen! +1 Modifikationsplatz"
+  promoted: "Dein Werkzeug wurde befördert!"
+  gained-enchants: "Es hat außerdem [%amount%] zufällige Verzauberung(en) erhalten! Hoffentlich etwas Gutes :>"
+
+armour:
+  broken-stored: "Ein Rüstungsteil ist zerbrochen! Es wurde in dein Inventar gelegt."
+  broken-dropped: "Ein Rüstungsteil ist zerbrochen! Du hattest keinen Platz dafür, also wurde es fallen gelassen."
+
+table:
+  missing-items: "Nicht alle Gegenstände vorhanden"
+  wrong-parts: "Ein oder mehrere Gegenstände sind keine Teile des Tüftlers oder im falschen Slot?"
+
+modification:
+  input-item: "Lege ein Werkzeug oder Rüstungsteil in den ersten Slot."
+  nope-nerd: "Nein - Streber"
+  not-tinkers-item: "Der Gegenstand im ersten Slot ist kein Werkzeug oder Rüstungsteil des Tüftlers."
+  input-modifier: "Lege einen gültigen Modifikator in den zweiten Slot."
+  maxed-out: "Du hast diesen Modifikator bereits voll ausgebaut"
+  no-free-slots: "Du hast dafür nicht genug freie Modifikationsplätze"
+  clear-output: "Leere zuerst den Ausgabeslot"
+
+repair:
+  input-item: "Lege einen Gegenstand in den ersten Slot."
+  not-tinkers-item: "Der Gegenstand im ersten Slot ist kein Gegenstand des Tüftlers."
+  input-kit: "Lege ein Reparaturset in den zweiten Slot."
+  free-repair: "Kostenlose Reparatur!"
+  kit-mismatch: "Die Art des Sets passt nicht zum Material des Gegenstands."
+
+smeltery:
+  need-cast: "Lege eine gültige Form ein, bevor du Metall gießt."
+  no-metal: "Es ist kein Metall zum Gießen vorhanden."
+  cannot-shape: "Das gewählte Metall kann nicht in die gewählte Form gegossen werden."
+  not-enough-metal: "Du hast nicht genug Metall, um diese Form zu füllen"
+  clear-casting-table: "Leere zuerst deinen Gusstisch"
+
+swapping:
+  input-tool: "Lege ein Werkzeug in den ersten Slot."
+  input-part: "Lege ein Ersatzteil in den zweiten Slot."
+  part-not-swappable: "Dieses Teil kann nicht an dieses Werkzeug angebaut werden."
+  head-not-swappable: "Diese Kopfart kann nicht an dieses Werkzeug angebaut werden."
+  plate-not-swappable: "Diese Plattenart kann nicht an diese Rüstung angebaut werden."
+
+item:
+  cannot-drop: "Das kann nicht weggeworfen werden."

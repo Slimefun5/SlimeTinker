@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Kérlek, adj meg egy érvényes alparancsot."
+  player-only: "Ezt csak játékos teheti meg."
+
+ability:
+  haste-level: "A Sietséglöket elérte a %level%. szintet!"
+  haste-cooldown: "A Sietséglöket várakozás alatt van!"
+  haste-active: "A Sietséglöket aktív"
+  location-set: "Hely elmentve!"
+  recall-cooldown: "A visszatérés várakozás alatt van!"
+  recall-unset: "Még nem mentettél el helyet, ahová visszatérhetsz!"
+  recall-whoosh: "Zsupsz!"
+  teleport-failed: "Nem sikerült a teleportálás! Próbáld újra."
+  natural-cooldown: "Ez Természetes várakozás alatt van"
+  on-cooldown: "Ez a képesség várakozás alatt van."
+  skill-on-cooldown: "Ez a tudás várakozás alatt van"
+  skill-cooldown: "A tudás várakozás alatt van"
+  protective-saved: "Az Óvó megmentett a haláltól. Most várakozás alatt van - vigyázz magadra!"
+  nice: "Szép"
+
+network:
+  grid-detected: "Hálózati Rács észlelve itt: %location%"
+  must-be-grid: "Hálózati Rácsra kell állítani (nem barkácsrácsra)."
+  networks-required: "A Hálózati Távvezérlő a Networks kiegészítőt igényli."
+
+tool:
+  repaired-with-iron: "A szerszámodat megjavítottuk némi nálad lévő vassal!"
+  broken: "A szerszámod eltört, igazán meg kellene javítanod!"
+  levelled-up: "A Mesterkovács szerszámod szintet lépett! +1 módosítóhely"
+  promoted: "A szerszámod előléptetést kapott!"
+  gained-enchants: "Kapott még [%amount%] véletlen bűbájt is! Remélem, jó lett :>"
+
+armour:
+  broken-stored: "Egy páncéldarab eltört! Bekerült a felszerelésedbe."
+  broken-dropped: "Egy páncéldarab eltört! Nem volt rá helyed, ezért a földre esett."
+
+table:
+  missing-items: "Nincs ott minden tárgy"
+  wrong-parts: "Egy vagy több tárgy nem a Mesterkovács alkatrésze, vagy rossz helyen van?"
+
+modification:
+  input-item: "Tegyél egy szerszámot vagy páncéldarabot az első helyre."
+  nope-nerd: "Nem - okoska"
+  not-tinkers-item: "Az első helyen lévő tárgy nem a Mesterkovács szerszáma vagy páncélja."
+  input-modifier: "Tegyél egy érvényes módosítót a második helyre."
+  maxed-out: "Ezt a módosítót már a maximumra fejlesztetted"
+  no-free-slots: "Nincs ehhez elég szabad módosítóhelyed"
+  clear-output: "Először ürítsd ki a kimeneti helyet"
+
+repair:
+  input-item: "Tegyél egy tárgyat az első helyre."
+  not-tinkers-item: "Az első helyen lévő tárgy nem a Mesterkovács tárgya."
+  input-kit: "Tegyél egy javítókészletet a második helyre."
+  free-repair: "Ingyenes javítás!"
+  kit-mismatch: "A készlet típusa nem egyezik a tárgy anyagával."
+
+smeltery:
+  need-cast: "Kérlek, tegyél be egy érvényes öntőformát, mielőtt fémet öntesz."
+  no-metal: "Nincs kiönthető fém."
+  cannot-shape: "A kiválasztott fémet nem lehet a kiválasztott öntőformába önteni."
+  not-enough-metal: "Nincs elég fémed az öntőforma megtöltéséhez"
+  clear-casting-table: "Kérlek, először ürítsd ki az öntőasztalodat"
+
+swapping:
+  input-tool: "Tegyél egy szerszámot az első helyre."
+  input-part: "Tegyél egy cserealkatrészt a második helyre."
+  part-not-swappable: "Ezt az alkatrészt nem lehet erre a szerszámra tenni."
+  head-not-swappable: "Ezt a fejtípust nem lehet erre a szerszámra tenni."
+  plate-not-swappable: "Ezt a lemeztípust nem lehet erre a páncélra tenni."
+
+item:
+  cannot-drop: "Ezt nem lehet eldobni."

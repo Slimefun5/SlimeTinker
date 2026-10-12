@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Verskaf asseblief 'n geldige subopdrag."
+  player-only: "Dit kan net deur 'n speler gedoen word."
+
+ability:
+  haste-level: "Haastigheidsuitbarsting het vlak %level% bereik!"
+  haste-cooldown: "Haastigheidsuitbarsting is in afkoeltyd!"
+  haste-active: "Haastigheidsuitbarsting is aktief"
+  location-set: "Ligging gestoor!"
+  recall-cooldown: "Die terugroep is in afkoeltyd!"
+  recall-unset: "Jy het nog nie 'n ligging gestoor om na terug te roep nie!"
+  recall-whoosh: "Woesj!"
+  teleport-failed: "Kon nie teleporteer nie! Probeer weer."
+  natural-cooldown: "Dit Is Natuurlik is in afkoeltyd"
+  on-cooldown: "Hierdie vermoë is in afkoeltyd."
+  skill-on-cooldown: "Hierdie vaardigheid is in afkoeltyd"
+  skill-cooldown: "Vaardigheid is in afkoeltyd"
+  protective-saved: "Beskermend het jou van die dood gered. Dit is nou in afkoeltyd - wees versigtig!"
+  nice: "Mooi"
+
+network:
+  grid-detected: "Netwerkrooster bespeur by %location%"
+  must-be-grid: "Moet op 'n Netwerkrooster gestel word (nie 'n maakrooster nie)."
+  networks-required: "Die Netwerk-afstandbeheer vereis die Networks-inprop."
+
+tool:
+  repaired-with-iron: "Jou gereedskap is herstel met 'n bietjie yster wat jy rondgehad het!"
+  broken: "Jou gereedskap is gebreek, jy behoort dit regtig te herstel!"
+  levelled-up: "Jou Ketellapper se gereedskap het 'n vlak gevorder! +1 wysigingsplek"
+  promoted: "Jou gereedskap is bevorder!"
+  gained-enchants: "Dit het ook [%amount%] toevallige beswering(s) gekry! Hoop dit is goed :>"
+
+armour:
+  broken-stored: "'n Stuk wapenrusting het gebreek! Dit is in jou voorraad geplaas."
+  broken-dropped: "'n Stuk wapenrusting het gebreek! Jy het nie plek daarvoor gehad nie, so dit is laat val."
+
+table:
+  missing-items: "Nie al die items is teenwoordig nie"
+  wrong-parts: "Een of meer items is nie Ketellapper-onderdele nie of is in die verkeerde plek?"
+
+modification:
+  input-item: "Sit 'n stuk gereedskap of wapenrusting in die eerste plek."
+  nope-nerd: "Nee - slimjan"
+  not-tinkers-item: "Die item in die eerste plek is nie Ketellapper-gereedskap of -wapenrusting nie."
+  input-modifier: "Sit 'n geldige wysiger in die tweede plek."
+  maxed-out: "Jy het hierdie wysiger al tot die maksimum gevoer"
+  no-free-slots: "Jy het nie genoeg vrye wysigingsplekke hiervoor nie"
+  clear-output: "Maak eers die afvoerplek leeg"
+
+repair:
+  input-item: "Sit 'n item in die eerste plek."
+  not-tinkers-item: "Die item in die eerste plek is nie 'n Ketellapper-item nie."
+  input-kit: "Sit 'n herstelstel in die tweede plek."
+  free-repair: "Gratis herstel!"
+  kit-mismatch: "Die stel se tipe pas nie by die item se materiaal nie."
+
+smeltery:
+  need-cast: "Sit asseblief 'n geldige gietvorm in voordat jy metaal giet."
+  no-metal: "Daar is geen metaal om te giet nie."
+  cannot-shape: "Die gekose metaal kan nie in die gekose gietvorm gegiet word nie."
+  not-enough-metal: "Jy het nie genoeg metaal om hierdie gietvorm te vul nie"
+  clear-casting-table: "Maak asseblief eers jou giettafel leeg"
+
+swapping:
+  input-tool: "Sit 'n stuk gereedskap in die eerste plek."
+  input-part: "Sit 'n vervangingsonderdeel in die tweede plek."
+  part-not-swappable: "Hierdie onderdeel kan nie op hierdie gereedskap gesit word nie."
+  head-not-swappable: "Hierdie kopsoort kan nie op hierdie gereedskap gesit word nie."
+  plate-not-swappable: "Hierdie plaatsoort kan nie op hierdie wapenrusting gesit word nie."
+
+item:
+  cannot-drop: "Dit kan nie weggegooi word nie."

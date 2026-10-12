@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "올바른 하위 명령어를 입력하세요."
+  player-only: "이것은 플레이어만 할 수 있습니다."
+
+ability:
+  haste-level: "성급함 폭발이 %level% 레벨에 도달했습니다!"
+  haste-cooldown: "성급함 폭발이 재사용 대기 중입니다!"
+  haste-active: "성급함 폭발이 활성화되었습니다"
+  location-set: "위치를 저장했습니다!"
+  recall-cooldown: "귀환이 재사용 대기 중입니다!"
+  recall-unset: "귀환할 위치를 아직 저장하지 않았습니다!"
+  recall-whoosh: "휙!"
+  teleport-failed: "순간이동에 실패했습니다! 다시 시도하세요."
+  natural-cooldown: "자연스러운 일이 재사용 대기 중입니다"
+  on-cooldown: "이 능력은 재사용 대기 중입니다."
+  skill-on-cooldown: "이 기술은 재사용 대기 중입니다"
+  skill-cooldown: "기술이 재사용 대기 중입니다"
+  protective-saved: "보호가 당신을 죽음에서 구했습니다. 이제 재사용 대기 중입니다 - 조심하세요!"
+  nice: "좋아요"
+
+network:
+  grid-detected: "%location%에서 네트워크 격자를 찾았습니다"
+  must-be-grid: "네트워크 격자로 설정해야 합니다 (제작 격자가 아닙니다)."
+  networks-required: "네트워크 리모컨은 Networks 플러그인이 필요합니다."
+
+tool:
+  repaired-with-iron: "가지고 있던 철로 도구를 수리했습니다!"
+  broken: "도구가 망가졌습니다. 정말 수리해야 합니다!"
+  levelled-up: "팅커의 도구가 레벨 업했습니다! +1 개조 슬롯"
+  promoted: "도구가 승급했습니다!"
+  gained-enchants: "무작위 마법 부여 [%amount%]개도 얻었습니다! 좋은 것이면 좋겠네요 :>"
+
+armour:
+  broken-stored: "방어구 한 조각이 부서졌습니다! 인벤토리에 넣었습니다."
+  broken-dropped: "방어구 한 조각이 부서졌습니다! 자리가 없어 바닥에 떨어뜨렸습니다."
+
+table:
+  missing-items: "모든 아이템이 놓여 있지 않습니다"
+  wrong-parts: "하나 이상의 아이템이 팅커의 부품이 아니거나 잘못된 슬롯에 있습니다?"
+
+modification:
+  input-item: "첫 번째 슬롯에 도구나 방어구를 넣으세요."
+  nope-nerd: "안 됩니다 - 공부벌레"
+  not-tinkers-item: "첫 번째 슬롯의 아이템은 팅커의 도구나 방어구가 아닙니다."
+  input-modifier: "두 번째 슬롯에 올바른 개조 재료를 넣으세요."
+  maxed-out: "이 개조는 이미 최대입니다"
+  no-free-slots: "이를 위한 빈 개조 슬롯이 부족합니다"
+  clear-output: "먼저 결과 슬롯을 비우세요"
+
+repair:
+  input-item: "첫 번째 슬롯에 아이템을 넣으세요."
+  not-tinkers-item: "첫 번째 슬롯의 아이템은 팅커의 아이템이 아닙니다."
+  input-kit: "두 번째 슬롯에 수리 키트를 넣으세요."
+  free-repair: "무료 수리!"
+  kit-mismatch: "키트 종류가 아이템의 재료와 맞지 않습니다."
+
+smeltery:
+  need-cast: "금속을 붓기 전에 올바른 주형을 넣으세요."
+  no-metal: "부을 금속이 없습니다."
+  cannot-shape: "선택한 금속은 선택한 주형으로 만들 수 없습니다."
+  not-enough-metal: "이 주형을 채울 금속이 부족합니다"
+  clear-casting-table: "먼저 주조대를 비우세요"
+
+swapping:
+  input-tool: "첫 번째 슬롯에 도구를 넣으세요."
+  input-part: "두 번째 슬롯에 교체할 부품을 넣으세요."
+  part-not-swappable: "이 부품은 이 도구에 장착할 수 없습니다."
+  head-not-swappable: "이 머리 종류는 이 도구에 장착할 수 없습니다."
+  plate-not-swappable: "이 판 종류는 이 방어구에 장착할 수 없습니다."
+
+item:
+  cannot-drop: "이것은 버릴 수 없습니다."

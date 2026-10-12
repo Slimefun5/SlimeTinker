@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Por favor, indica un subcomando válido."
+  player-only: "Esto solo puede hacerlo un jugador."
+
+ability:
+  haste-level: "¡La Ráfaga de Prisa ha alcanzado el nivel %level%!"
+  haste-cooldown: "¡La Ráfaga de Prisa está en espera!"
+  haste-active: "La Ráfaga de Prisa está activa"
+  location-set: "¡Lugar guardado!"
+  recall-cooldown: "¡El regreso está en espera!"
+  recall-unset: "¡Todavía no has guardado un lugar al que regresar!"
+  recall-whoosh: "¡Fiuu!"
+  teleport-failed: "¡No se pudo teletransportar! Inténtalo de nuevo."
+  natural-cooldown: "Es Natural está en espera"
+  on-cooldown: "Esta habilidad está en espera."
+  skill-on-cooldown: "Esta destreza está en espera"
+  skill-cooldown: "Destreza en espera"
+  protective-saved: "Protector te ha salvado de la muerte. Ahora está en espera, ¡ten cuidado!"
+  nice: "Bien hecho"
+
+network:
+  grid-detected: "Rejilla de Red detectada en %location%"
+  must-be-grid: "Debe apuntar a una Rejilla de Red (no a una rejilla de fabricación)."
+  networks-required: "El Mando de Red requiere el plugin Networks."
+
+tool:
+  repaired-with-iron: "¡Tu herramienta se reparó con algo de hierro que tenías por ahí!"
+  broken: "¡Tu herramienta está rota, deberías repararla!"
+  levelled-up: "¡Tu herramienta del Manitas ha subido de nivel! +1 ranura de modificador"
+  promoted: "¡Tu herramienta ha ascendido!"
+  gained-enchants: "¡También ganó [%amount%] encantamiento(s) aleatorio(s)! Espero que sean buenos :>"
+
+armour:
+  broken-stored: "¡Una pieza de armadura se ha roto! Se ha colocado en tu inventario."
+  broken-dropped: "¡Una pieza de armadura se ha roto! No tenías espacio y se ha tirado al suelo."
+
+table:
+  missing-items: "No están todos los objetos"
+  wrong-parts: "¿Uno o más objetos no son piezas del Manitas o están en la ranura equivocada?"
+
+modification:
+  input-item: "Pon una herramienta o pieza de armadura en la primera ranura."
+  nope-nerd: "Nop - listillo"
+  not-tinkers-item: "El objeto de la primera ranura no es una herramienta ni armadura del Manitas."
+  input-modifier: "Pon un modificador válido en la segunda ranura."
+  maxed-out: "Ya has llevado este modificador al máximo"
+  no-free-slots: "No tienes suficientes ranuras de modificación libres para esto"
+  clear-output: "Vacía primero la ranura de salida"
+
+repair:
+  input-item: "Pon un objeto en la primera ranura."
+  not-tinkers-item: "El objeto de la primera ranura no es un objeto del Manitas."
+  input-kit: "Pon un kit de reparación en la segunda ranura."
+  free-repair: "¡Reparación gratuita!"
+  kit-mismatch: "El tipo de kit no coincide con el material del objeto."
+
+smeltery:
+  need-cast: "Por favor, pon un molde válido antes de verter metales."
+  no-metal: "No hay metal que verter."
+  cannot-shape: "El metal seleccionado no se puede moldear en el molde seleccionado."
+  not-enough-metal: "No tienes suficiente metal para llenar este molde"
+  clear-casting-table: "Por favor, vacía primero tu mesa de fundición"
+
+swapping:
+  input-tool: "Pon una herramienta en la primera ranura."
+  input-part: "Pon una pieza de repuesto en la segunda ranura."
+  part-not-swappable: "Esta pieza no se puede montar en esta herramienta."
+  head-not-swappable: "Este tipo de cabeza no se puede montar en esta herramienta."
+  plate-not-swappable: "Este tipo de placa no se puede montar en esta armadura."
+
+item:
+  cannot-drop: "Esto no se puede tirar."

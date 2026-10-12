@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Veuillez fournir une sous-commande valide."
+  player-only: "Cela ne peut être fait que par un joueur."
+
+ability:
+  haste-level: "La Bouffée de Célérité a atteint le niveau %level% !"
+  haste-cooldown: "La Bouffée de Célérité est en recharge !"
+  haste-active: "La Bouffée de Célérité est active"
+  location-set: "Lieu enregistré !"
+  recall-cooldown: "Le retour est en recharge !"
+  recall-unset: "Vous n'avez pas encore enregistré de lieu de retour !"
+  recall-whoosh: "Whoosh !"
+  teleport-failed: "Téléportation impossible ! Réessayez."
+  natural-cooldown: "C'est Naturel est en recharge"
+  on-cooldown: "Cette capacité est en recharge."
+  skill-on-cooldown: "Cette compétence est en recharge"
+  skill-cooldown: "Compétence en recharge"
+  protective-saved: "Protecteur vous a sauvé de la mort. Il est maintenant en recharge - faites attention !"
+  nice: "Pas mal"
+
+network:
+  grid-detected: "Grille de Réseau détectée à %location%"
+  must-be-grid: "Doit être réglé sur une Grille de Réseau (pas une grille d'artisanat)."
+  networks-required: "La Télécommande de Réseau nécessite le plugin Networks."
+
+tool:
+  repaired-with-iron: "Votre outil a été réparé avec du fer qui traînait !"
+  broken: "Votre outil est cassé, vous devriez vraiment le réparer !"
+  levelled-up: "Votre outil du Bricoleur a gagné un niveau ! +1 emplacement de modificateur"
+  promoted: "Votre outil a été promu !"
+  gained-enchants: "Il a aussi gagné [%amount%] enchantement(s) aléatoire(s) ! En espérant qu'ils soient bons :>"
+
+armour:
+  broken-stored: "Une pièce d'armure s'est brisée ! Elle a été placée dans votre inventaire."
+  broken-dropped: "Une pièce d'armure s'est brisée ! Vous n'aviez pas de place, elle a donc été jetée au sol."
+
+table:
+  missing-items: "Tous les objets ne sont pas présents"
+  wrong-parts: "Un ou plusieurs objets ne sont pas des pièces du Bricoleur ou sont dans le mauvais emplacement ?"
+
+modification:
+  input-item: "Placez un outil ou une pièce d'armure dans le premier emplacement."
+  nope-nerd: "Non - petit malin"
+  not-tinkers-item: "L'objet du premier emplacement n'est pas un outil ou une armure du Bricoleur."
+  input-modifier: "Placez un modificateur valide dans le deuxième emplacement."
+  maxed-out: "Vous avez déjà poussé ce modificateur au maximum"
+  no-free-slots: "Vous n'avez pas assez d'emplacements de modificateur libres pour cela"
+  clear-output: "Videz d'abord l'emplacement de sortie"
+
+repair:
+  input-item: "Placez un objet dans le premier emplacement."
+  not-tinkers-item: "L'objet du premier emplacement n'est pas un objet du Bricoleur."
+  input-kit: "Placez un kit de réparation dans le deuxième emplacement."
+  free-repair: "Réparation gratuite !"
+  kit-mismatch: "Le type de kit ne correspond pas au matériau de l'objet."
+
+smeltery:
+  need-cast: "Veuillez placer un moule valide avant de couler les métaux."
+  no-metal: "Il n'y a aucun métal à couler."
+  cannot-shape: "Le métal sélectionné ne peut pas être coulé dans le moule sélectionné."
+  not-enough-metal: "Vous n'avez pas assez de métal pour remplir ce moule"
+  clear-casting-table: "Videz d'abord votre table de coulée"
+
+swapping:
+  input-tool: "Placez un outil dans le premier emplacement."
+  input-part: "Placez une pièce de remplacement dans le deuxième emplacement."
+  part-not-swappable: "Cette pièce ne peut pas être montée sur cet outil."
+  head-not-swappable: "Ce type de tête ne peut pas être monté sur cet outil."
+  plate-not-swappable: "Ce type de plaque ne peut pas être monté sur cette armure."
+
+item:
+  cannot-drop: "Cela ne peut pas être jeté."

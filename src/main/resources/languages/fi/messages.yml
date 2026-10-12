@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Anna kelvollinen alikomento."
+  player-only: "Tämän voi tehdä vain pelaaja."
+
+ability:
+  haste-level: "Kiirepurske saavutti tason %level%!"
+  haste-cooldown: "Kiirepurske on jäähtymässä!"
+  haste-active: "Kiirepurske on aktiivinen"
+  location-set: "Sijainti tallennettu!"
+  recall-cooldown: "Paluu on jäähtymässä!"
+  recall-unset: "Et ole vielä tallentanut sijaintia, johon palata!"
+  recall-whoosh: "Huiskis!"
+  teleport-failed: "Teleportaus ei onnistunut! Yritä uudelleen."
+  natural-cooldown: "Se On Luonnollista on jäähtymässä"
+  on-cooldown: "Tämä kyky on jäähtymässä."
+  skill-on-cooldown: "Tämä taito on jäähtymässä"
+  skill-cooldown: "Taito on jäähtymässä"
+  protective-saved: "Suojaava pelasti sinut kuolemalta. Se on nyt jäähtymässä - ole varovainen!"
+  nice: "Hienoa"
+
+network:
+  grid-detected: "Verkkoruudukko löytyi sijainnista %location%"
+  must-be-grid: "Täytyy olla asetettu Verkkoruudukkoon (ei valmistusruudukkoon)."
+  networks-required: "Verkkokaukosäädin vaatii Networks-lisäosan."
+
+tool:
+  repaired-with-iron: "Työkalusi korjattiin raudalla, jota sinulla oli tallessa!"
+  broken: "Työkalusi on rikki, sinun pitäisi todella korjata se!"
+  levelled-up: "Sepän työkalusi nousi tasolle! +1 muokkauspaikka"
+  promoted: "Työkalusi ylennettiin!"
+  gained-enchants: "Se sai myös [%amount%] satunnaista lumousta! Toivottavasti se on hyvä :>"
+
+armour:
+  broken-stored: "Haarniskan osa hajosi! Se siirrettiin tavaraluetteloosi."
+  broken-dropped: "Haarniskan osa hajosi! Sinulla ei ollut tilaa sille, joten se pudotettiin."
+
+table:
+  missing-items: "Kaikki esineet eivät ole paikallaan"
+  wrong-parts: "Yksi tai useampi esine ei ole Sepän osa tai on väärässä paikassa?"
+
+modification:
+  input-item: "Aseta työkalu tai haarniskan osa ensimmäiseen paikkaan."
+  nope-nerd: "Eikä - nörtti"
+  not-tinkers-item: "Ensimmäisessä paikassa oleva esine ei ole Sepän työkalu tai haarniska."
+  input-modifier: "Aseta kelvollinen muokkain toiseen paikkaan."
+  maxed-out: "Olet jo nostanut tämän muokkaimen täyteen"
+  no-free-slots: "Sinulla ei ole tarpeeksi vapaita muokkauspaikkoja tähän"
+  clear-output: "Tyhjennä ensin tulostepaikka"
+
+repair:
+  input-item: "Aseta esine ensimmäiseen paikkaan."
+  not-tinkers-item: "Ensimmäisessä paikassa oleva esine ei ole Sepän esine."
+  input-kit: "Aseta korjaussarja toiseen paikkaan."
+  free-repair: "Ilmainen korjaus!"
+  kit-mismatch: "Sarjan tyyppi ei vastaa esineen materiaalia."
+
+smeltery:
+  need-cast: "Aseta kelvollinen valumuotti, ennen kuin kaadat metallia."
+  no-metal: "Kaadettavaa metallia ei ole."
+  cannot-shape: "Valittua metallia ei voi valaa valittuun muottiin."
+  not-enough-metal: "Sinulla ei ole tarpeeksi metallia tämän muotin täyttämiseen"
+  clear-casting-table: "Tyhjennä ensin valupöytäsi"
+
+swapping:
+  input-tool: "Aseta työkalu ensimmäiseen paikkaan."
+  input-part: "Aseta vaihto-osa toiseen paikkaan."
+  part-not-swappable: "Tätä osaa ei voi asentaa tähän työkaluun."
+  head-not-swappable: "Tätä kärkityyppiä ei voi asentaa tähän työkaluun."
+  plate-not-swappable: "Tätä levytyyppiä ei voi asentaa tähän haarniskaan."
+
+item:
+  cannot-drop: "Tätä ei voi pudottaa."

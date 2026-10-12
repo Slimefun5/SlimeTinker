@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Per favore, fornisci un sottocomando valido."
+  player-only: "Questo può essere fatto solo da un giocatore."
+
+ability:
+  haste-level: "Lo Scatto di Foga ha raggiunto il livello %level%!"
+  haste-cooldown: "Lo Scatto di Foga è in ricarica!"
+  haste-active: "Lo Scatto di Foga è attivo"
+  location-set: "Posizione memorizzata!"
+  recall-cooldown: "Il ritorno è in ricarica!"
+  recall-unset: "Non hai ancora memorizzato una posizione a cui tornare!"
+  recall-whoosh: "Fiuu!"
+  teleport-failed: "Teletrasporto non riuscito! Riprova."
+  natural-cooldown: "È Naturale è in ricarica"
+  on-cooldown: "Questa abilità è in ricarica."
+  skill-on-cooldown: "Questa capacità è in ricarica"
+  skill-cooldown: "Capacità in ricarica"
+  protective-saved: "Protettivo ti ha salvato dalla morte. Ora è in ricarica - fai attenzione!"
+  nice: "Bella"
+
+network:
+  grid-detected: "Griglia di Rete rilevata a %location%"
+  must-be-grid: "Deve puntare a una Griglia di Rete (non a una griglia di creazione)."
+  networks-required: "Il Telecomando di Rete richiede il plugin Networks."
+
+tool:
+  repaired-with-iron: "Il tuo strumento è stato riparato con un po' di ferro che avevi in giro!"
+  broken: "Il tuo strumento è rotto, dovresti davvero ripararlo!"
+  levelled-up: "Il tuo strumento del Riparatore è salito di livello! +1 slot per modificatori"
+  promoted: "Il tuo strumento è stato promosso!"
+  gained-enchants: "Ha anche ottenuto [%amount%] incantesimo(i) casuale(i)! Spero sia buono :>"
+
+armour:
+  broken-stored: "Un pezzo di armatura si è rotto! È stato messo nel tuo inventario."
+  broken-dropped: "Un pezzo di armatura si è rotto! Non avevi spazio ed è stato lasciato a terra."
+
+table:
+  missing-items: "Non tutti gli oggetti sono presenti"
+  wrong-parts: "Uno o più oggetti non sono parti del Riparatore o sono nello slot sbagliato?"
+
+modification:
+  input-item: "Inserisci uno strumento o un pezzo di armatura nel primo slot."
+  nope-nerd: "No - secchione"
+  not-tinkers-item: "L'oggetto nel primo slot non è uno strumento o un'armatura del Riparatore."
+  input-modifier: "Inserisci un modificatore valido nel secondo slot."
+  maxed-out: "Hai già portato al massimo questo modificatore"
+  no-free-slots: "Non hai abbastanza slot di modifica liberi per questo"
+  clear-output: "Svuota prima lo slot di uscita"
+
+repair:
+  input-item: "Inserisci un oggetto nel primo slot."
+  not-tinkers-item: "L'oggetto nel primo slot non è un oggetto del Riparatore."
+  input-kit: "Inserisci un kit di riparazione nel secondo slot."
+  free-repair: "Riparazione gratuita!"
+  kit-mismatch: "Il tipo di kit non corrisponde al materiale dell'oggetto."
+
+smeltery:
+  need-cast: "Per favore, inserisci uno stampo valido prima di colare i metalli."
+  no-metal: "Non c'è metallo da colare."
+  cannot-shape: "Il metallo selezionato non può essere colato nello stampo selezionato."
+  not-enough-metal: "Non hai abbastanza metallo per riempire questo stampo"
+  clear-casting-table: "Per favore, svuota prima il tuo tavolo di colata"
+
+swapping:
+  input-tool: "Inserisci uno strumento nel primo slot."
+  input-part: "Inserisci una parte di ricambio nel secondo slot."
+  part-not-swappable: "Questa parte non può essere montata su questo strumento."
+  head-not-swappable: "Questo tipo di testa non può essere montato su questo strumento."
+  plate-not-swappable: "Questo tipo di piastra non può essere montato su questa armatura."
+
+item:
+  cannot-drop: "Questo non può essere lasciato cadere."

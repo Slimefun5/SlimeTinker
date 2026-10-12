@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "אנא ספק תת-פקודה חוקית."
+  player-only: "זה יכול להיעשות רק על ידי שחקן."
+
+ability:
+  haste-level: "פרץ הזריזות הגיע לרמה %level%!"
+  haste-cooldown: "פרץ הזריזות בזמן המתנה!"
+  haste-active: "פרץ הזריזות פעיל"
+  location-set: "המיקום נשמר!"
+  recall-cooldown: "ההחזרה בזמן המתנה!"
+  recall-unset: "עוד לא שמרת מיקום שאליו תוחזר!"
+  recall-whoosh: "שוושש!"
+  teleport-failed: "לא ניתן היה להתמגנט! נסה שוב."
+  natural-cooldown: "זה טבעי בזמן המתנה"
+  on-cooldown: "היכולת הזו בזמן המתנה."
+  skill-on-cooldown: "המומחיות הזו בזמן המתנה"
+  skill-cooldown: "המומחיות בזמן המתנה"
+  protective-saved: "המגן הציל אותך ממוות. הוא כעת בזמן המתנה - שמור על עצמך!"
+  nice: "נחמד"
+
+network:
+  grid-detected: "סריג רשת זוהה ב%location%"
+  must-be-grid: "חייב להיות מוגדר לסריג רשת (לא לסריג יצירה)."
+  networks-required: "שלט הרשת דורש את התוסף Networks."
+
+tool:
+  repaired-with-iron: "הכלי שלך תוקן עם קצת ברזל שהיה לך מסביב!"
+  broken: "הכלי שלך שבור, כדאי לך באמת לתקן אותו!"
+  levelled-up: "הכלי של האומן שלך עלה רמה! +1 מקום שינוי"
+  promoted: "הכלי שלך קודם!"
+  gained-enchants: "הוא גם קיבל [%amount%] כישוף(ים) מקרי(ים)! מקווה שזה טוב :>"
+
+armour:
+  broken-stored: "חלק שריון נשבר! הוא הונח במלאי שלך."
+  broken-dropped: "חלק שריון נשבר! לא היה לך מקום בשבילו והוא הושלך לרצפה."
+
+table:
+  missing-items: "לא כל הפריטים נמצאים"
+  wrong-parts: "פריט אחד או יותר אינם חלקים של האומן או נמצאים במקום הלא נכון?"
+
+modification:
+  input-item: "הכנס כלי או חלק שריון למקום הראשון."
+  nope-nerd: "לא - חנון"
+  not-tinkers-item: "הפריט במקום הראשון אינו כלי או שריון של האומן."
+  input-modifier: "הכנס משנה חוקי למקום השני."
+  maxed-out: "כבר הבאת את המשנה הזה למקסימום"
+  no-free-slots: "אין לך מספיק מקומות שינוי פנויים לכך"
+  clear-output: "פנה קודם את מקום הפלט"
+
+repair:
+  input-item: "הכנס פריט למקום הראשון."
+  not-tinkers-item: "הפריט במקום הראשון אינו פריט של האומן."
+  input-kit: "הכנס ערכת תיקון למקום השני."
+  free-repair: "תיקון חינם!"
+  kit-mismatch: "סוג הערכה אינו תואם לחומר הפריט."
+
+smeltery:
+  need-cast: "אנא הכנס תבנית חוקית לפני יציקת מתכות."
+  no-metal: "אין מתכת ליציקה."
+  cannot-shape: "לא ניתן ליצוק את המתכת הנבחרת לתבנית הנבחרת."
+  not-enough-metal: "אין לך מספיק מתכת למלא את התבנית הזו"
+  clear-casting-table: "אנא פנה קודם את שולחן היציקה שלך"
+
+swapping:
+  input-tool: "הכנס כלי למקום הראשון."
+  input-part: "הכנס חלק חלופי למקום השני."
+  part-not-swappable: "לא ניתן להרכיב את החלק הזה על הכלי הזה."
+  head-not-swappable: "לא ניתן להרכיב סוג ראש זה על הכלי הזה."
+  plate-not-swappable: "לא ניתן להרכיב סוג לוח זה על השריון הזה."
+
+item:
+  cannot-drop: "לא ניתן להשליך את זה."

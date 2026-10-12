@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Oppgi en gyldig underkommando."
+  player-only: "Dette kan bare gjøres av en spiller."
+
+ability:
+  haste-level: "Hastverksrush har nådd nivå %level%!"
+  haste-cooldown: "Hastverksrush har nedkjøling!"
+  haste-active: "Hastverksrush er aktivt"
+  location-set: "Sted lagret!"
+  recall-cooldown: "Tilbakekallingen har nedkjøling!"
+  recall-unset: "Du har ennå ikke lagret et sted å bli kalt tilbake til!"
+  recall-whoosh: "Vusj!"
+  teleport-failed: "Kunne ikke teleportere! Prøv igjen."
+  natural-cooldown: "Det Er Naturlig har nedkjøling"
+  on-cooldown: "Denne evnen har nedkjøling."
+  skill-on-cooldown: "Denne ferdigheten har nedkjøling"
+  skill-cooldown: "Ferdigheten har nedkjøling"
+  protective-saved: "Beskyttende har redet deg fra døden. Den har nå nedkjøling - vær forsiktig!"
+  nice: "Flott"
+
+network:
+  grid-detected: "Nettverksrutenett funnet ved %location%"
+  must-be-grid: "Må settes til et Nettverksrutenett (ikke et håndverksrutenett)."
+  networks-required: "Nettverksfjernkontrollen krever Networks-tillegget."
+
+tool:
+  repaired-with-iron: "Verktøyet ditt ble reparert med litt jern du hadde liggende!"
+  broken: "Verktøyet ditt er ødelagt, du burde virkelig reparere det!"
+  levelled-up: "Håndverkerens verktøy har gått opp et nivå! +1 modifikasjonsplass"
+  promoted: "Verktøyet ditt har blitt forfremmet!"
+  gained-enchants: "Det fikk også [%amount%] tilfeldig(e) fortrylling(er)! Håper den er god :>"
+
+armour:
+  broken-stored: "En rustningsdel har gått i stykker! Den har blitt lagt i inventaret ditt."
+  broken-dropped: "En rustningsdel har gått i stykker! Du hadde ikke plass til den, så den har blitt sluppet."
+
+table:
+  missing-items: "Ikke alle gjenstander er på plass"
+  wrong-parts: "En eller flere gjenstander er ikke Håndverkerens deler eller ligger i feil plass?"
+
+modification:
+  input-item: "Legg et verktøy eller en rustningsdel i den første plassen."
+  nope-nerd: "Nei - nerd"
+  not-tinkers-item: "Gjenstanden i den første plassen er ikke Håndverkerens verktøy eller rustning."
+  input-modifier: "Legg en gyldig modifikator i den andre plassen."
+  maxed-out: "Du har allerede maksimert denne modifikatoren"
+  no-free-slots: "Du har ikke nok ledige modifikasjonsplasser til dette"
+  clear-output: "Tøm utgangsplassen først"
+
+repair:
+  input-item: "Legg en gjenstand i den første plassen."
+  not-tinkers-item: "Gjenstanden i den første plassen er ikke en av Håndverkerens gjenstander."
+  input-kit: "Legg et reparasjonssett i den andre plassen."
+  free-repair: "Gratis reparasjon!"
+  kit-mismatch: "Settets type passer ikke til gjenstandens materiale."
+
+smeltery:
+  need-cast: "Legg inn en gyldig støpeform før du heller metall."
+  no-metal: "Det er ikke noe metall å helle."
+  cannot-shape: "Det valgte metallet kan ikke formes i den valgte støpeformen."
+  not-enough-metal: "Du har ikke nok metall til å fylle denne støpeformen"
+  clear-casting-table: "Tøm støpebordet ditt først"
+
+swapping:
+  input-tool: "Legg et verktøy i den første plassen."
+  input-part: "Legg en erstatningsdel i den andre plassen."
+  part-not-swappable: "Denne delen kan ikke settes på dette verktøyet."
+  head-not-swappable: "Denne hodetypen kan ikke settes på dette verktøyet."
+  plate-not-swappable: "Denne platetypen kan ikke settes på denne rustningen."
+
+item:
+  cannot-drop: "Dette kan ikke slippes."

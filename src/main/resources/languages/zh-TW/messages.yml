@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "請提供有效的子指令。"
+  player-only: "這只能由玩家執行。"
+
+ability:
+  haste-level: "加速爆發已達到 %level% 級！"
+  haste-cooldown: "加速爆發正在冷卻！"
+  haste-active: "加速爆發已啟動"
+  location-set: "已記錄位置！"
+  recall-cooldown: "召回正在冷卻！"
+  recall-unset: "你還沒有記錄可召回的位置！"
+  recall-whoosh: "咻！"
+  teleport-failed: "傳送失敗！請再試一次。"
+  natural-cooldown: "這很自然正在冷卻"
+  on-cooldown: "這個能力正在冷卻。"
+  skill-on-cooldown: "這個技能正在冷卻"
+  skill-cooldown: "技能正在冷卻"
+  protective-saved: "保護使你免於死亡。它現在正在冷卻，當心！"
+  nice: "不錯"
+
+network:
+  grid-detected: "在 %location% 偵測到網路網格"
+  must-be-grid: "必須設定為網路網格（而非合成網格）。"
+  networks-required: "網路遙控器需要 Networks 插件。"
+
+tool:
+  repaired-with-iron: "你的工具用你隨手備著的鐵修好了！"
+  broken: "你的工具已損壞，你真該修一修了！"
+  levelled-up: "你的工匠工具升級了！+1 改造槽位"
+  promoted: "你的工具已晉升！"
+  gained-enchants: "它還獲得了 [%amount%] 個隨機附魔！希望是好的 :>"
+
+armour:
+  broken-stored: "一件盔甲損壞了！它已被放入你的物品欄。"
+  broken-dropped: "一件盔甲損壞了！你沒有空位，它已被丟到地上。"
+
+table:
+  missing-items: "物品尚未齊全"
+  wrong-parts: "有一件或多件物品不是工匠部件，或者放錯了槽位？"
+
+modification:
+  input-item: "請把工具或盔甲放入第一個槽位。"
+  nope-nerd: "不行——書呆子"
+  not-tinkers-item: "第一個槽位中的物品不是工匠的工具或盔甲。"
+  input-modifier: "請把有效的改造材料放入第二個槽位。"
+  maxed-out: "你已經把這個改造升到滿級了"
+  no-free-slots: "你沒有足夠的空餘改造槽位來做這件事"
+  clear-output: "請先清空輸出槽位"
+
+repair:
+  input-item: "請把物品放入第一個槽位。"
+  not-tinkers-item: "第一個槽位中的物品不是工匠的物品。"
+  input-kit: "請把修復套件放入第二個槽位。"
+  free-repair: "免費修復！"
+  kit-mismatch: "套件類型與物品材料不符。"
+
+smeltery:
+  need-cast: "請在澆注金屬之前放入有效的鑄模。"
+  no-metal: "沒有可澆注的金屬。"
+  cannot-shape: "所選金屬無法鑄入所選鑄模。"
+  not-enough-metal: "你的金屬不足以填滿這個鑄模"
+  clear-casting-table: "請先清空你的鑄造台"
+
+swapping:
+  input-tool: "請把工具放入第一個槽位。"
+  input-part: "請把替換部件放入第二個槽位。"
+  part-not-swappable: "這個部件無法裝到這件工具上。"
+  head-not-swappable: "這種頭部無法裝到這件工具上。"
+  plate-not-swappable: "這種甲片無法裝到這件盔甲上。"
+
+item:
+  cannot-drop: "這個無法丟棄。"

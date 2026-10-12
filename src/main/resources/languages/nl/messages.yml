@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Geef een geldig subcommando op."
+  player-only: "Dit kan alleen door een speler worden gedaan."
+
+ability:
+  haste-level: "Haastuitbarsting heeft niveau %level% bereikt!"
+  haste-cooldown: "Haastuitbarsting heeft nog afkoeltijd!"
+  haste-active: "Haastuitbarsting is actief"
+  location-set: "Locatie opgeslagen!"
+  recall-cooldown: "Terugroepen heeft nog afkoeltijd!"
+  recall-unset: "Je hebt nog geen locatie opgeslagen om naar terug te roepen!"
+  recall-whoosh: "Woesj!"
+  teleport-failed: "Teleporteren mislukt! Probeer het opnieuw."
+  natural-cooldown: "Het Is Natuurlijk heeft nog afkoeltijd"
+  on-cooldown: "Deze vaardigheid heeft nog afkoeltijd."
+  skill-on-cooldown: "Deze kunde heeft nog afkoeltijd"
+  skill-cooldown: "Kunde heeft afkoeltijd"
+  protective-saved: "Beschermend heeft je van de dood gered. Het heeft nu afkoeltijd - wees voorzichtig!"
+  nice: "Mooi"
+
+network:
+  grid-detected: "Netwerk-Raster gevonden op %location%"
+  must-be-grid: "Moet op een Netwerk-Raster gezet worden (geen maakraster)."
+  networks-required: "De Netwerk-Afstandsbediening vereist de Networks-plugin."
+
+tool:
+  repaired-with-iron: "Je gereedschap is gerepareerd met wat ijzer dat je nog had liggen!"
+  broken: "Je gereedschap is stuk, je zou het echt moeten repareren!"
+  levelled-up: "Je gereedschap van de Knutselaar is een niveau gestegen! +1 modificatieplek"
+  promoted: "Je gereedschap is gepromoveerd!"
+  gained-enchants: "Het kreeg ook [%amount%] willekeurige bezwering(en)! Hopelijk iets goeds :>"
+
+armour:
+  broken-stored: "Een stuk harnas is gebroken! Het is in je inventaris gelegd."
+  broken-dropped: "Een stuk harnas is gebroken! Je had er geen plaats voor, dus het is op de grond gevallen."
+
+table:
+  missing-items: "Niet alle voorwerpen aanwezig"
+  wrong-parts: "Een of meer voorwerpen zijn geen onderdelen van de Knutselaar of zitten in de verkeerde plek?"
+
+modification:
+  input-item: "Leg een stuk gereedschap of harnas in de eerste plek."
+  nope-nerd: "Nee - nerd"
+  not-tinkers-item: "Het voorwerp in de eerste plek is geen gereedschap of harnas van de Knutselaar."
+  input-modifier: "Leg een geldige modificator in de tweede plek."
+  maxed-out: "Je hebt deze modificator al volledig uitgebouwd"
+  no-free-slots: "Je hebt hier niet genoeg vrije modificatieplekken voor"
+  clear-output: "Maak eerst de uitvoerplek leeg"
+
+repair:
+  input-item: "Leg een voorwerp in de eerste plek."
+  not-tinkers-item: "Het voorwerp in de eerste plek is geen voorwerp van de Knutselaar."
+  input-kit: "Leg een reparatieset in de tweede plek."
+  free-repair: "Gratis reparatie!"
+  kit-mismatch: "Het type set past niet bij het materiaal van het voorwerp."
+
+smeltery:
+  need-cast: "Leg een geldige gietvorm in voordat je metaal giet."
+  no-metal: "Er is geen metaal om te gieten."
+  cannot-shape: "Het gekozen metaal kan niet in de gekozen gietvorm gegoten worden."
+  not-enough-metal: "Je hebt niet genoeg metaal om deze gietvorm te vullen"
+  clear-casting-table: "Maak eerst je giettafel leeg"
+
+swapping:
+  input-tool: "Leg een stuk gereedschap in de eerste plek."
+  input-part: "Leg een vervangend onderdeel in de tweede plek."
+  part-not-swappable: "Dit onderdeel kan niet op dit gereedschap gezet worden."
+  head-not-swappable: "Dit type kop kan niet op dit gereedschap gezet worden."
+  plate-not-swappable: "Dit type plaat kan niet op dit harnas gezet worden."
+
+item:
+  cannot-drop: "Dit kan niet weggegooid worden."

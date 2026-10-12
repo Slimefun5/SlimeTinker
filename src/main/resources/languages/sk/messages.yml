@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Zadaj prosím platný podpríkaz."
+  player-only: "To môže urobiť iba hráč."
+
+ability:
+  haste-level: "Výbuch náhlenia dosiahol úroveň %level%!"
+  haste-cooldown: "Výbuch náhlenia sa nabíja!"
+  haste-active: "Výbuch náhlenia je aktívny"
+  location-set: "Miesto uložené!"
+  recall-cooldown: "Návrat sa nabíja!"
+  recall-unset: "Ešte si neuložil miesto, kam sa vrátiť!"
+  recall-whoosh: "Fíí!"
+  teleport-failed: "Teleportácia sa nepodarila! Skús to znova."
+  natural-cooldown: "Je to prirodzené sa nabíja"
+  on-cooldown: "Táto schopnosť sa nabíja."
+  skill-on-cooldown: "Táto zručnosť sa nabíja"
+  skill-cooldown: "Zručnosť sa nabíja"
+  protective-saved: "Ochranný ťa zachránil pred smrťou. Teraz sa nabíja - dávaj na seba pozor!"
+  nice: "Pekné"
+
+network:
+  grid-detected: "Sieťová mriežka nájdená na %location%"
+  must-be-grid: "Musí byť nastavené na Sieťovú mriežku (nie na výrobnú mriežku)."
+  networks-required: "Sieťový ovládač vyžaduje plugin Networks."
+
+tool:
+  repaired-with-iron: "Tvoj nástroj bol opravený železom, ktoré si mal po ruke!"
+  broken: "Tvoj nástroj je pokazený, naozaj by si ho mal opraviť!"
+  levelled-up: "Tvoj Remeselnícky nástroj získal úroveň! +1 slot na modifikáciu"
+  promoted: "Tvoj nástroj bol povýšený!"
+  gained-enchants: "Získal tiež [%amount%] náhodné očarovanie! Snáď je dobré :>"
+
+armour:
+  broken-stored: "Časť zbroje sa zničila! Bola vložená do tvojho inventára."
+  broken-dropped: "Časť zbroje sa zničila! Nemal si pre ňu miesto, takže bola odhodená."
+
+table:
+  missing-items: "Nie sú prítomné všetky predmety"
+  wrong-parts: "Jeden alebo viac predmetov nie sú Remeselníkove časti alebo sú v nesprávnom slote?"
+
+modification:
+  input-item: "Vlož nástroj alebo časť zbroje do prvého slotu."
+  nope-nerd: "Nie - šprt"
+  not-tinkers-item: "Predmet v prvom slote nie je Remeselníkov nástroj ani zbroj."
+  input-modifier: "Vlož platný modifikátor do druhého slotu."
+  maxed-out: "Tento modifikátor už máš na maxime"
+  no-free-slots: "Nemáš na to dosť voľných slotov na modifikácie"
+  clear-output: "Najprv vyprázdni výstupný slot"
+
+repair:
+  input-item: "Vlož predmet do prvého slotu."
+  not-tinkers-item: "Predmet v prvom slote nie je Remeselníkov predmet."
+  input-kit: "Vlož opravnú súpravu do druhého slotu."
+  free-repair: "Oprava zadarmo!"
+  kit-mismatch: "Typ súpravy nezodpovedá materiálu predmetu."
+
+smeltery:
+  need-cast: "Vlož prosím platnú formu, než začneš liať kov."
+  no-metal: "Nie je tu žiadny kov na lievanie."
+  cannot-shape: "Vybraný kov sa nedá odliať do vybranej formy."
+  not-enough-metal: "Nemáš dosť kovu na naplnenie tejto formy"
+  clear-casting-table: "Najprv prosím vyprázdni svoj odlievací stôl"
+
+swapping:
+  input-tool: "Vlož nástroj do prvého slotu."
+  input-part: "Vlož náhradnú časť do druhého slotu."
+  part-not-swappable: "Túto časť nie je možné nasadiť na tento nástroj."
+  head-not-swappable: "Tento typ hlavy nie je možné nasadiť na tento nástroj."
+  plate-not-swappable: "Tento typ platne nie je možné nasadiť na túto zbroj."
+
+item:
+  cannot-drop: "To sa nedá zahodiť."

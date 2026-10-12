@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Molimo te unesi važeću podkomandu."
+  player-only: "Ovo može učiniti samo igrač."
+
+ability:
+  haste-level: "Nalet žurbe je dosegao razinu %level%!"
+  haste-cooldown: "Nalet žurbe se puni!"
+  haste-active: "Nalet žurbe je aktivan"
+  location-set: "Lokacija sačuvana!"
+  recall-cooldown: "Vraćanje se puni!"
+  recall-unset: "Još nisi sačuvao lokaciju na koju se vraćaš!"
+  recall-whoosh: "Fiju!"
+  teleport-failed: "Teleportacija nije uspjela! Pokušaj ponovno."
+  natural-cooldown: "To je prirodno se puni"
+  on-cooldown: "Ova sposobnost se puni."
+  skill-on-cooldown: "Ova vještina se puni"
+  skill-cooldown: "Vještina se puni"
+  protective-saved: "Zaštitnički te je spasio od smrti. Sada se puni - čuvaj se!"
+  nice: "Lijepo"
+
+network:
+  grid-detected: "Mrežna rešetka nađena na %location%"
+  must-be-grid: "Mora biti postavljeno na Mrežnu rešetku (ne na rešetku za izradu)."
+  networks-required: "Mrežni daljinski zahtijeva dodatak Networks."
+
+tool:
+  repaired-with-iron: "Tvoj alat je popravljen željezom koje ti je stajalo uokolo!"
+  broken: "Tvoj alat je pokvaren, zaista bi ga trebao popraviti!"
+  levelled-up: "Tvoj Majstorov alat je dobio razinu! +1 slot za modifikaciju"
+  promoted: "Tvoj alat je promoviran!"
+  gained-enchants: "Dobio je i [%amount%] slučajnih čarolija! Nadam se da su dobre :>"
+
+armour:
+  broken-stored: "Dio oklopa se slomio! Stavljen je u tvoj inventar."
+  broken-dropped: "Dio oklopa se slomio! Nisi imao mjesta za njega, pa je ispušten."
+
+table:
+  missing-items: "Nisu prisutni svi predmeti"
+  wrong-parts: "Jedan ili više predmeta nisu Majstorovi dijelovi ili su u pogrešnom slotu?"
+
+modification:
+  input-item: "Stavi alat ili dio oklopa u prvi slot."
+  nope-nerd: "Ne - štreberu"
+  not-tinkers-item: "Predmet u prvom slotu nije Majstorov alat ni oklop."
+  input-modifier: "Stavi važeći modifikator u drugi slot."
+  maxed-out: "Već si ovaj modifikator doveo do maksimuma"
+  no-free-slots: "Nemaš dovoljno slobodnih slotova za modifikaciju za ovo"
+  clear-output: "Prvo isprazni izlazni slot"
+
+repair:
+  input-item: "Stavi predmet u prvi slot."
+  not-tinkers-item: "Predmet u prvom slotu nije Majstorov predmet."
+  input-kit: "Stavi komplet za popravak u drugi slot."
+  free-repair: "Besplatan popravak!"
+  kit-mismatch: "Tip kompleta ne odgovara materijalu predmeta."
+
+smeltery:
+  need-cast: "Molimo te stavi važeći kalup prije nego što liješ metal."
+  no-metal: "Nema metala za lijevanje."
+  cannot-shape: "Odabrani metal se ne može izliti u odabrani kalup."
+  not-enough-metal: "Nemaš dovoljno metala da napuniš ovaj kalup"
+  clear-casting-table: "Molimo te prvo isprazni svoj stol za lijevanje"
+
+swapping:
+  input-tool: "Stavi alat u prvi slot."
+  input-part: "Stavi zamjenski dio u drugi slot."
+  part-not-swappable: "Ovaj dio se ne može postaviti na ovaj alat."
+  head-not-swappable: "Ovaj tip glave se ne može postaviti na ovaj alat."
+  plate-not-swappable: "Ovaj tip ploče se ne može postaviti na ovaj oklop."
+
+item:
+  cannot-drop: "Ovo se ne može ispustiti."

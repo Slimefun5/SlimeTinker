@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Ange ett giltigt underkommando."
+  player-only: "Detta kan bara göras av en spelare."
+
+ability:
+  haste-level: "Hastskur har nått nivå %level%!"
+  haste-cooldown: "Hastskur har nedkylning!"
+  haste-active: "Hastskur är aktiv"
+  location-set: "Plats sparad!"
+  recall-cooldown: "Återkallelsen har nedkylning!"
+  recall-unset: "Du har ännu inte sparat en plats att återkallas till!"
+  recall-whoosh: "Vosch!"
+  teleport-failed: "Kunde inte teleportera! Försök igen."
+  natural-cooldown: "Det Är Naturligt har nedkylning"
+  on-cooldown: "Denna förmåga har nedkylning."
+  skill-on-cooldown: "Denna färdighet har nedkylning"
+  skill-cooldown: "Färdigheten har nedkylning"
+  protective-saved: "Skyddande räddade dig från döden. Den har nu nedkylning - var försiktig!"
+  nice: "Snyggt"
+
+network:
+  grid-detected: "Nätverksrutnät hittat vid %location%"
+  must-be-grid: "Måste ställas in på ett Nätverksrutnät (inte ett tillverkningsrutnät)."
+  networks-required: "Nätverksfjärrkontrollen kräver Networks-tillägget."
+
+tool:
+  repaired-with-iron: "Ditt verktyg reparerades med lite järn du hade liggande!"
+  broken: "Ditt verktyg är trasigt, du borde verkligen reparera det!"
+  levelled-up: "Ditt Hantverkarens verktyg har gått upp en nivå! +1 modifieringsplats"
+  promoted: "Ditt verktyg har befordrats!"
+  gained-enchants: "Det fick också [%amount%] slumpmässig(a) förtrollning(ar)! Hoppas den är bra :>"
+
+armour:
+  broken-stored: "En rustningsdel har gått sönder! Den har lagts i din inventarie."
+  broken-dropped: "En rustningsdel har gått sönder! Du hade ingen plats för den, så den tappades."
+
+table:
+  missing-items: "Alla föremål finns inte på plats"
+  wrong-parts: "Ett eller flera föremål är inte Hantverkarens delar eller ligger i fel plats?"
+
+modification:
+  input-item: "Lägg ett verktyg eller en rustningsdel i den första platsen."
+  nope-nerd: "Nix - nörd"
+  not-tinkers-item: "Föremålet i den första platsen är inte Hantverkarens verktyg eller rustning."
+  input-modifier: "Lägg en giltig modifierare i den andra platsen."
+  maxed-out: "Du har redan maxat denna modifierare"
+  no-free-slots: "Du har inte tillräckligt med lediga modifieringsplatser för detta"
+  clear-output: "Töm utmatningsplatsen först"
+
+repair:
+  input-item: "Lägg ett föremål i den första platsen."
+  not-tinkers-item: "Föremålet i den första platsen är inte ett av Hantverkarens föremål."
+  input-kit: "Lägg en reparationssats i den andra platsen."
+  free-repair: "Gratis reparation!"
+  kit-mismatch: "Satsens typ matchar inte föremålets material."
+
+smeltery:
+  need-cast: "Lägg in en giltig gjutform innan du häller metall."
+  no-metal: "Det finns ingen metall att hälla."
+  cannot-shape: "Den valda metallen kan inte formas i den valda gjutformen."
+  not-enough-metal: "Du har inte tillräckligt med metall för att fylla denna gjutform"
+  clear-casting-table: "Töm ditt gjutbord först"
+
+swapping:
+  input-tool: "Lägg ett verktyg i den första platsen."
+  input-part: "Lägg en ersättningsdel i den andra platsen."
+  part-not-swappable: "Denna del kan inte sättas på detta verktyg."
+  head-not-swappable: "Denna typ av huvud kan inte sättas på detta verktyg."
+  plate-not-swappable: "Denna typ av platta kan inte sättas på denna rustning."
+
+item:
+  cannot-drop: "Detta kan inte släppas."

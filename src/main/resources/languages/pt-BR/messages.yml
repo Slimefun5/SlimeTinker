@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Por favor, informe um subcomando válido."
+  player-only: "Isso só pode ser feito por um jogador."
+
+ability:
+  haste-level: "O Surto de Pressa alcançou o nível %level%!"
+  haste-cooldown: "O Surto de Pressa está em recarga!"
+  haste-active: "O Surto de Pressa está ativo"
+  location-set: "Local salvo!"
+  recall-cooldown: "O retorno está em recarga!"
+  recall-unset: "Você ainda não salvou um local para retornar!"
+  recall-whoosh: "Fiu!"
+  teleport-failed: "Não foi possível teleportar! Tente novamente."
+  natural-cooldown: "É Natural está em recarga"
+  on-cooldown: "Esta habilidade está em recarga."
+  skill-on-cooldown: "Esta perícia está em recarga"
+  skill-cooldown: "Perícia em recarga"
+  protective-saved: "Protetor te salvou da morte. Agora está em recarga - tome cuidado!"
+  nice: "Boa"
+
+network:
+  grid-detected: "Grade de Rede detectada em %location%"
+  must-be-grid: "Precisa apontar para uma Grade de Rede (não uma grade de criação)."
+  networks-required: "O Controle de Rede requer o plugin Networks."
+
+tool:
+  repaired-with-iron: "Sua ferramenta foi reparada com um pouco de ferro que você tinha por aí!"
+  broken: "Sua ferramenta está quebrada, você deveria mesmo repará-la!"
+  levelled-up: "Sua ferramenta do Latoeiro subiu de nível! +1 espaço de modificador"
+  promoted: "Sua ferramenta foi promovida!"
+  gained-enchants: "Ela também ganhou [%amount%] encantamento(s) aleatório(s)! Espero que sejam bons :>"
+
+armour:
+  broken-stored: "Uma peça de armadura quebrou! Ela foi colocada no seu inventário."
+  broken-dropped: "Uma peça de armadura quebrou! Você não tinha espaço para ela e ela foi derrubada."
+
+table:
+  missing-items: "Não estão todos os itens presentes"
+  wrong-parts: "Um ou mais itens não são peças do Latoeiro ou estão no espaço errado?"
+
+modification:
+  input-item: "Coloque uma ferramenta ou peça de armadura no primeiro espaço."
+  nope-nerd: "Nada disso - nerd"
+  not-tinkers-item: "O item no primeiro espaço não é uma ferramenta nem armadura do Latoeiro."
+  input-modifier: "Coloque um modificador válido no segundo espaço."
+  maxed-out: "Você já levou este modificador ao máximo"
+  no-free-slots: "Você não tem espaços de modificação livres suficientes para isso"
+  clear-output: "Esvazie primeiro o espaço de saída"
+
+repair:
+  input-item: "Coloque um item no primeiro espaço."
+  not-tinkers-item: "O item no primeiro espaço não é um item do Latoeiro."
+  input-kit: "Coloque um kit de reparo no segundo espaço."
+  free-repair: "Reparo gratuito!"
+  kit-mismatch: "O tipo de kit não corresponde ao material do item."
+
+smeltery:
+  need-cast: "Por favor, coloque um molde válido antes de verter metais."
+  no-metal: "Não há metal para verter."
+  cannot-shape: "O metal selecionado não pode ser moldado no molde selecionado."
+  not-enough-metal: "Você não tem metal suficiente para encher este molde"
+  clear-casting-table: "Por favor, esvazie primeiro sua mesa de fundição"
+
+swapping:
+  input-tool: "Coloque uma ferramenta no primeiro espaço."
+  input-part: "Coloque uma peça de reposição no segundo espaço."
+  part-not-swappable: "Esta peça não pode ser montada nesta ferramenta."
+  head-not-swappable: "Este tipo de cabeça não pode ser montado nesta ferramenta."
+  plate-not-swappable: "Este tipo de placa não pode ser montado nesta armadura."
+
+item:
+  cannot-drop: "Isso não pode ser derrubado."

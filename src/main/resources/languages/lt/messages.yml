@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Nurodyk tinkamą pokomandį."
+  player-only: "Tai gali padaryti tik žaidėjas."
+
+ability:
+  haste-level: "Skubos protrūkis pasiekė %level% lygį!"
+  haste-cooldown: "Skubos protrūkis atsistato!"
+  haste-active: "Skubos protrūkis veikia"
+  location-set: "Vieta išsaugota!"
+  recall-cooldown: "Sugrįžimas atsistato!"
+  recall-unset: "Dar neišsaugojai vietos, į kurią grįžtum!"
+  recall-whoosh: "Švyst!"
+  teleport-failed: "Nepavyko teleportuotis! Pabandyk dar kartą."
+  natural-cooldown: "Tai natūralu atsistato"
+  on-cooldown: "Šis gebėjimas atsistato."
+  skill-on-cooldown: "Šis įgūdis atsistato"
+  skill-cooldown: "Įgūdis atsistato"
+  protective-saved: "Saugantis išgelbėjo tave nuo mirties. Dabar jis atsistato - būk atsargus!"
+  nice: "Gražu"
+
+network:
+  grid-detected: "Tinklo lentelė rasta %location%"
+  must-be-grid: "Turi būti nustatyta į Tinklo lentelę (ne į kūrimo tinklelį)."
+  networks-required: "Tinklo pultui reikalingas Networks įskiepis."
+
+tool:
+  repaired-with-iron: "Tavo įrankis buvo pataisytas geležimi, kurios turėjai po ranka!"
+  broken: "Tavo įrankis sulūžęs, tikrai turėtum jį pataisyti!"
+  levelled-up: "Tavo Meistro įrankis pakilo lygiu! +1 modifikacijos vieta"
+  promoted: "Tavo įrankis pakeltas!"
+  gained-enchants: "Jis taip pat gavo [%amount%] atsitiktinių kerėjimų! Tikiuosi, geri :>"
+
+armour:
+  broken-stored: "Šarvų dalis sulūžo! Ji buvo įdėta į tavo inventorių."
+  broken-dropped: "Šarvų dalis sulūžo! Neturėjai jai vietos, todėl ji buvo numesta."
+
+table:
+  missing-items: "Ne visi daiktai yra savo vietose"
+  wrong-parts: "Vienas ar keli daiktai nėra Meistro dalys arba yra ne toje vietoje?"
+
+modification:
+  input-item: "Įdėk įrankį arba šarvų dalį į pirmą vietą."
+  nope-nerd: "Ne - kvaily"
+  not-tinkers-item: "Daiktas pirmoje vietoje nėra Meistro įrankis ar šarvai."
+  input-modifier: "Įdėk tinkamą modifikatorių į antrą vietą."
+  maxed-out: "Šį modifikatorių jau pakėlei iki maksimumo"
+  no-free-slots: "Tam neturi pakankamai laisvų modifikacijos vietų"
+  clear-output: "Pirma ištuštink išvesties vietą"
+
+repair:
+  input-item: "Įdėk daiktą į pirmą vietą."
+  not-tinkers-item: "Daiktas pirmoje vietoje nėra Meistro daiktas."
+  input-kit: "Įdėk taisymo rinkinį į antrą vietą."
+  free-repair: "Nemokamas taisymas!"
+  kit-mismatch: "Rinkinio tipas neatitinka daikto medžiagos."
+
+smeltery:
+  need-cast: "Prieš liedamas metalą, įdėk tinkamą formą."
+  no-metal: "Nėra metalo liejimui."
+  cannot-shape: "Pasirinkto metalo negalima išlieti į pasirinktą formą."
+  not-enough-metal: "Neturi pakankamai metalo šiai formai užpildyti"
+  clear-casting-table: "Pirma ištuštink savo liejimo stalą"
+
+swapping:
+  input-tool: "Įdėk įrankį į pirmą vietą."
+  input-part: "Įdėk keičiamą dalį į antrą vietą."
+  part-not-swappable: "Šios dalies negalima uždėti ant šio įrankio."
+  head-not-swappable: "Šio galvos tipo negalima uždėti ant šio įrankio."
+  plate-not-swappable: "Šio plokštės tipo negalima uždėti ant šių šarvų."
+
+item:
+  cannot-drop: "Šio negalima išmesti."

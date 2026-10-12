@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Te rog oferă o subcomandă validă."
+  player-only: "Asta poate fi făcută doar de un jucător."
+
+ability:
+  haste-level: "Izbucnirea de Grabă a atins nivelul %level%!"
+  haste-cooldown: "Izbucnirea de Grabă este în așteptare!"
+  haste-active: "Izbucnirea de Grabă este activă"
+  location-set: "Locație salvată!"
+  recall-cooldown: "Întoarcerea este în așteptare!"
+  recall-unset: "Nu ai salvat încă o locație la care să te întorci!"
+  recall-whoosh: "Vâj!"
+  teleport-failed: "Nu s-a putut teleporta! Încearcă din nou."
+  natural-cooldown: "E Natural este în așteptare"
+  on-cooldown: "Această abilitate este în așteptare."
+  skill-on-cooldown: "Această pricepere este în așteptare"
+  skill-cooldown: "Priceperea este în așteptare"
+  protective-saved: "Ocrotitor te-a salvat de la moarte. Acum este în așteptare - ai grijă!"
+  nice: "Frumos"
+
+network:
+  grid-detected: "Grilă de Rețea detectată la %location%"
+  must-be-grid: "Trebuie setat pe o Grilă de Rețea (nu pe o grilă de meșteșugit)."
+  networks-required: "Telecomanda de Rețea necesită pluginul Networks."
+
+tool:
+  repaired-with-iron: "Unealta ta a fost reparată cu niște fier care îți stătea degeaba!"
+  broken: "Unealta ta este stricată, ar trebui chiar să o repari!"
+  levelled-up: "Unealta ta a Meșterului a urcat un nivel! +1 slot de modificator"
+  promoted: "Unealta ta a fost promovată!"
+  gained-enchants: "A primit și [%amount%] vrajă(vrăji) aleatorie(aleatorii)! Să sperăm că e bună :>"
+
+armour:
+  broken-stored: "O piesă de armură s-a rupt! A fost pusă în inventarul tău."
+  broken-dropped: "O piesă de armură s-a rupt! Nu aveai loc pentru ea și a fost aruncată pe jos."
+
+table:
+  missing-items: "Nu toate obiectele sunt prezente"
+  wrong-parts: "Unul sau mai multe obiecte nu sunt piese ale Meșterului sau sunt în slotul greșit?"
+
+modification:
+  input-item: "Pune o unealtă sau o piesă de armură în primul slot."
+  nope-nerd: "Nu - tocilarule"
+  not-tinkers-item: "Obiectul din primul slot nu este o unealtă sau o armură a Meșterului."
+  input-modifier: "Pune un modificator valid în al doilea slot."
+  maxed-out: "Ai dus deja acest modificator la maxim"
+  no-free-slots: "Nu ai suficiente sloturi de modificare libere pentru asta"
+  clear-output: "Golește mai întâi slotul de ieșire"
+
+repair:
+  input-item: "Pune un obiect în primul slot."
+  not-tinkers-item: "Obiectul din primul slot nu este un obiect al Meșterului."
+  input-kit: "Pune un kit de reparație în al doilea slot."
+  free-repair: "Reparație gratuită!"
+  kit-mismatch: "Tipul kitului nu se potrivește cu materialul obiectului."
+
+smeltery:
+  need-cast: "Te rog pune o formă validă înainte de a turna metale."
+  no-metal: "Nu există metal de turnat."
+  cannot-shape: "Metalul selectat nu poate fi turnat în forma selectată."
+  not-enough-metal: "Nu ai suficient metal pentru a umple această formă"
+  clear-casting-table: "Te rog golește mai întâi masa de turnare"
+
+swapping:
+  input-tool: "Pune o unealtă în primul slot."
+  input-part: "Pune o piesă de schimb în al doilea slot."
+  part-not-swappable: "Această piesă nu poate fi montată pe această unealtă."
+  head-not-swappable: "Acest tip de cap nu poate fi montat pe această unealtă."
+  plate-not-swappable: "Acest tip de placă nu poate fi montat pe această armură."
+
+item:
+  cannot-drop: "Asta nu poate fi aruncată."

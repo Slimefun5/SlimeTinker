@@ -1,0 +1,72 @@
+command:
+  invalid-subcommand: "Vui lòng cung cấp một lệnh con hợp lệ."
+  player-only: "Việc này chỉ người chơi mới làm được."
+
+ability:
+  haste-level: "Bùng Nổ Vội Vã đã đạt cấp %level%!"
+  haste-cooldown: "Bùng Nổ Vội Vã đang hồi!"
+  haste-active: "Bùng Nổ Vội Vã đang hoạt động"
+  location-set: "Đã lưu vị trí!"
+  recall-cooldown: "Việc gọi về đang hồi!"
+  recall-unset: "Bạn chưa lưu vị trí nào để gọi về!"
+  recall-whoosh: "Vút!"
+  teleport-failed: "Không thể dịch chuyển! Hãy thử lại."
+  natural-cooldown: "Đó Là Tự Nhiên đang hồi"
+  on-cooldown: "Khả năng này đang hồi."
+  skill-on-cooldown: "Kỹ năng này đang hồi"
+  skill-cooldown: "Kỹ năng đang hồi"
+  protective-saved: "Che Chở đã cứu bạn khỏi cái chết. Giờ nó đang hồi - hãy cẩn thận!"
+  nice: "Hay lắm"
+
+network:
+  grid-detected: "Phát hiện Lưới Mạng tại %location%"
+  must-be-grid: "Phải được đặt vào một Lưới Mạng (không phải lưới chế tạo)."
+  networks-required: "Bộ điều khiển Mạng cần plugin Networks."
+
+tool:
+  repaired-with-iron: "Công cụ của bạn đã được sửa bằng ít sắt bạn để dành!"
+  broken: "Công cụ của bạn đã hỏng, bạn nên sửa nó đi!"
+  levelled-up: "Công cụ Thợ Rèn của bạn đã lên cấp! +1 ô biến đổi"
+  promoted: "Công cụ của bạn đã được nâng hạng!"
+  gained-enchants: "Nó còn nhận được [%amount%] phép ngẫu nhiên! Hy vọng là tốt :>"
+
+armour:
+  broken-stored: "Một mảnh giáp đã vỡ! Nó được đặt vào túi đồ của bạn."
+  broken-dropped: "Một mảnh giáp đã vỡ! Bạn không còn chỗ nên nó đã bị rơi xuống đất."
+
+table:
+  missing-items: "Chưa đủ tất cả vật phẩm"
+  wrong-parts: "Một hoặc nhiều vật phẩm không phải bộ phận Thợ Rèn hoặc nằm sai ô?"
+
+modification:
+  input-item: "Hãy đặt một công cụ hoặc mảnh giáp vào ô thứ nhất."
+  nope-nerd: "Không được - cậu mọt sách"
+  not-tinkers-item: "Vật phẩm ở ô thứ nhất không phải công cụ hay giáp của Thợ Rèn."
+  input-modifier: "Hãy đặt một bộ biến đổi hợp lệ vào ô thứ hai."
+  maxed-out: "Bạn đã nâng bộ biến đổi này lên mức tối đa"
+  no-free-slots: "Bạn không còn đủ ô biến đổi trống cho việc này"
+  clear-output: "Hãy dọn ô đầu ra trước"
+
+repair:
+  input-item: "Hãy đặt một vật phẩm vào ô thứ nhất."
+  not-tinkers-item: "Vật phẩm ở ô thứ nhất không phải vật phẩm của Thợ Rèn."
+  input-kit: "Hãy đặt một bộ sửa chữa vào ô thứ hai."
+  free-repair: "Sửa miễn phí!"
+  kit-mismatch: "Loại bộ sửa chữa không khớp với vật liệu của vật phẩm."
+
+smeltery:
+  need-cast: "Vui lòng đặt một khuôn hợp lệ trước khi rót kim loại."
+  no-metal: "Không có kim loại để rót."
+  cannot-shape: "Kim loại đã chọn không thể rót vào khuôn đã chọn."
+  not-enough-metal: "Bạn không có đủ kim loại để làm đầy khuôn này"
+  clear-casting-table: "Vui lòng dọn bàn đúc của bạn trước"
+
+swapping:
+  input-tool: "Hãy đặt một công cụ vào ô thứ nhất."
+  input-part: "Hãy đặt một bộ phận thay thế vào ô thứ hai."
+  part-not-swappable: "Bộ phận này không thể gắn lên công cụ này."
+  head-not-swappable: "Loại đầu này không thể gắn lên công cụ này."
+  plate-not-swappable: "Loại tấm này không thể gắn lên bộ giáp này."
+
+item:
+  cannot-drop: "Cái này không thể bỏ xuống."
