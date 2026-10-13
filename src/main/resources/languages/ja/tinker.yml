@@ -1,0 +1,154 @@
+armour-types:
+  BOOTS: ブーツ
+  CHESTPLATE: チェストプレート
+  HELMET: ヘルメット
+  LEGGINGS: レギンス
+lore:
+  added_by: 追加者
+  binder_abbrev: 'B: '
+  gambeson_abbrev: 'G: '
+  head_abbrev: 'H: '
+  level: 'レベル: '
+  links_abbrev: 'L: '
+  mod_level: ' レベル '
+  mod_max: ' - (最大)'
+  modifier_slots: '改造スロット: '
+  part_desc_1: 道具の部品。単体では
+  part_desc_2: 無価値だが、ティンカーズ
+  part_desc_3: テーブルでより優れた物になる。
+  part_material: '素材 : '
+  plate_abbrev: 'P: '
+  rod_abbrev: 'R: '
+  sponsored_by: スポンサー
+materials:
+  ADAMANTITE: アダマンタイト
+  ADVANCED_ALLOY: 上級合金
+  ALUMINUM: アルミニウム
+  ALUMINUM_BRASS: アルミニウム真鍮
+  ALUMINUM_BRONZE: アルミニウム青銅
+  ALUMINUM_SINGULARITY: アルミニウムシンギュラリティ
+  ANNIVERSARIUM: アニバーサリウム
+  BILLON: ビロン
+  BOOMERITE: ブーメライト
+  BRASS: 真鍮
+  BRONZE: 青銅
+  CARBON_MESH: カーボンメッシュ
+  COAL: 石炭
+  COBALT: コバルト
+  COPPER: 銅
+  COPPER_SINGULARITY: 銅シンギュラリティ
+  CORINTHIAN_BRONZE: コリントス青銅
+  CRIMSON_ROOT: 真紅の根
+  CRINGLEIUM: クリングレイウム
+  DAMASCUS_STEEL: ダマスカス鋼
+  DAXI_ABSORPTION: ダクシの吸収
+  DAXI_FORTITUDE: ダクシの不屈
+  DAXI_REGENERATION: ダクシの再生
+  DAXI_SATURATION: ダクシの満腹
+  DAXI_STRENGTH: ダクシの力
+  DETAILED_DEVOTION: 緻密な献身
+  DIAMOND: ダイヤモンド
+  DIAMOND_SINGULARITY: ダイヤモンドシンギュラリティ
+  DRACONIC: ドラコニック
+  DURALIUM: デュラリウム
+  EARTH_SINGULARITY: アースシンギュラリティ
+  FERROSILICON: フェロシリコン
+  FLOWING_FONDNESS: 流れる好意
+  FORTUNE_SINGULARITY: フォーチュンシンギュラリティ
+  GHOSTLY_ESSENCE: 幽霊のエッセンス
+  GOLD: 金
+  GOLD_SINGULARITY: 金シンギュラリティ
+  HARDENED_METAL: 強化金属
+  INFINITE: 無限
+  INFINITY_SINGULARITY: 無限シンギュラリティ
+  INTERDIMENSIONAL_PRESENCE: 次元間の存在
+  IRIDIUM: イリジウム
+  IRON: 鉄
+  IRON_SINGULARITY: 鉄シンギュラリティ
+  LEAD: 鉛
+  LEAD_SINGULARITY: 鉛シンギュラリティ
+  LEATHER: 革
+  LIQUID_CHRISTMAS: リキッドクリスマス
+  LIQUID_LOVE: リキッドラブ
+  MAGIC_SINGULARITY: マジックシンギュラリティ
+  MAGNESIUM: マグネシウム
+  MAGNESIUM_SINGULARITY: マグネシウムシンギュラリティ
+  MAGNONIUM: マグノニウム
+  MAGSTEEL: マグスチール
+  MAG_THOR: マグソー
+  METAL_SINGULARITY: メタルシンギュラリティ
+  MIXED_METAL: 混合金属
+  MYTHRIL: ミスリル
+  NICEINIUM: ナイセニウム
+  NICKEL: ニッケル
+  OSMIUM: オスミウム
+  OSMIUM_SUPERALLOY: オスミウム超合金
+  PURIFIED_PASSION: 浄化された情熱
+  REDSTONE: レッドストーン
+  REDSTONE_ALLOY: レッドストーン合金
+  REFINED_IRON: 精錬鉄
+  REINFORCED_ALLOY: レインフォースドアロイ
+  REINFORCED_DRACONIUM: 強化ドラコニウム
+  REINFORCED_SLIME_STEEL: 強化スライム鋼
+  REMOTININIUM: リモティニウム
+  RUBBER: ゴム
+  SCRAP: スクラップ
+  SEFIRITE: セフィライト
+  SEGGANESSON: セガネソン
+  SILICON: シリコン
+  SILVER: 銀
+  SILVER_SINGULARITY: 銀シンギュラリティ
+  SLIME: スライム
+  SLIME_STEEL: スライム鋼
+  SMITHIUM: スミシウム
+  SOLDER: はんだ
+  STAINLESS_STEEL: ステンレス鋼
+  STAR_DUST: 星屑
+  STEEL: 鋼
+  STRING: 糸
+  TESSERACTING_MATERIAL: テッセラクト物質
+  THORIUM: トリウム
+  TIN: 錫
+  TIN_SINGULARITY: 錫シンギュラリティ
+  TITANIUM: チタン
+  TWISTED_VINE: ねじれツタ
+  ULTIMANINIUM: アルティマニニウム
+  UNPATENTABLIUM: アンパテンタブリウム
+  VEX_GEM: ヴェックスの宝石
+  VINE: ツタ
+  VOID: ヴォイド
+  WARPED_ROOT: 歪んだ根
+  WEEPING_VINE: しだれツタ
+  ZINC: 亜鉛
+  ZINC_SINGULARITY: 亜鉛シンギュラリティ
+messages:
+  smeltery-incomplete: この溶鉱炉は未完成です。シアードレンガブロック6個、シアードタンク1個、スパウト1個で縦3x3を完成させてください。
+modifiers:
+  DIAMOND: ダイヤモンド
+  EMERALD: エメラルド
+  LAPIS_LAZULI: ラピスラズリ
+  MOD_PLATE: 強化プレート
+  QUARTZ: クォーツ
+  REDSTONE: レッドストーン
+part-types:
+  BINDING: バインダー
+  GAMBESON: ガンベゾン
+  HEAD_AXE: 斧の刃
+  HEAD_HOE: クワの穂先
+  HEAD_PICK: ツルハシの穂先
+  HEAD_SHOVEL: シャベルの穂先
+  HEAD_SWORD: 剣の刃
+  LINKS: 鎖リンク
+  PLATE_BOOTS: ブーツ用プレート
+  PLATE_CHESTPLATE: チェストプレート用プレート
+  PLATE_HELMET: ヘルメット用プレート
+  PLATE_LEGGINGS: レギンス用プレート
+  REPAIR: 修理キット
+  ROD: 道具の柄
+tool-types:
+  AXE: 斧
+  HOE: クワ
+  PICK: ツルハシ
+  PICKAXE: ツルハシ
+  SHOVEL: シャベル
+  SWORD: 剣

@@ -1,0 +1,8865 @@
+10_YEARS_OF_(SLIME)FUN!_TRAIT_PROP_PLATES_INGOT_CAST_ANNIVERSARIUM:
+  description:
+  - '&7(Slime)fun 10周年！'
+  - ''
+  - '&7防具4部位すべてが必要です。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f(Slime)fun 10周年！'
+  type:
+  - '&7&oコンポーネント'
+ABRA_TRAIT_PROP_HEAD_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7攻撃したMobは一定確率で'
+  - '&7ランダムにテレポートする。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fアブラ'
+  type:
+  - '&7&oコンポーネント'
+ACUPUNCTURE_II_TRAIT_PROP_LINKS_ZINC_SINGULARITY:
+  description:
+  - '&7サボテンのトゲがあなたを回復させます。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fアキュパンクチャー II'
+  type:
+  - '&7&oコンポーネント'
+ACUPUNCTURE_TRAIT_PROP_LINKS_ZINC_DUST:
+  description:
+  - '&7サボテンのダメージを受けない'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f鍼治療'
+  type:
+  - '&7&oコンポーネント'
+ADAMANTITE_LIQUID:
+  description:
+  - '&7アダマンタイトの溶融体。'
+  name: '&f溶融アダマンタイト'
+  type:
+  - '&7&o素材'
+ADAMANT_TRAIT_PROP_ROD_ADAMANTITE:
+  description:
+  - '&7あらゆる爆発に対して無敵になる'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&fアダマント'
+  type:
+  - '&7&o部品'
+ADVANCED_ALLOY_LIQUID:
+  description:
+  - '&7アドバンスドアロイの溶融体。'
+  name: '&f溶融アドバンスドアロイ'
+  type:
+  - '&7&o素材'
+ALL_THAT_GLITTERS_II_TRAIT_PROP_ROD_GOLD_SINGULARITY:
+  description:
+  - '&7あなたを輝かせ、虹色にもします…'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fオールザットグリッターズ II'
+  type:
+  - '&7&oコンポーネント'
+ALL_THAT_GLITTERS_TRAIT_PROP_ROD_GOLD_DUST:
+  description:
+  - '&7体が輝きだす...'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f輝くもの'
+  type:
+  - '&7&oコンポーネント'
+ALUMINUM_BRASS_ALLOY:
+  description:
+  - '&7アルミニウム真鍮の溶融合金金属。'
+  name: '&f溶融アルミニウム真鍮'
+  type:
+  - '&7&o素材'
+ALUMINUM_BRASS_LIQUID:
+  description:
+  - '&7アルミニウム真鍮を溶かした状態のもの。'
+  name: '&f溶融アルミニウム真鍮'
+  type:
+  - '&7&o素材'
+ALUMINUM_BRONZE_ALLOY:
+  description:
+  - '&7アルミニウム青銅の溶融合金金属。'
+  name: '&f溶融アルミニウム青銅'
+  type:
+  - '&7&o素材'
+ALUMINUM_BRONZE_LIQUID:
+  description:
+  - '&7アルミニウム青銅を溶かした状態のもの。'
+  name: '&f溶融アルミニウム青銅'
+  type:
+  - '&7&o素材'
+ALUMINUM_LIQUID:
+  description:
+  - '&7アルミニウムを溶かした状態のもの。'
+  name: '&f溶融アルミニウム'
+  type:
+  - '&7&o素材'
+ALUMINUM_SINGULARITY_LIQUID:
+  description:
+  - '&7アルミニウムシンギュラリティの溶融形態。'
+  name: '&f溶融のアルミニウムシンギュラリティ'
+  type:
+  - '&7&o素材'
+ANNIVERSARIUM_ALLOY:
+  description:
+  - '&7アニバーサリウムの溶融合金。'
+  name: '&f溶融のアニバーサリウム'
+  type:
+  - '&7&o素材'
+ANNIVERSARIUM_LIQUID:
+  description:
+  - '&7アニバーサリウムの溶融形態。'
+  name: '&f溶融のアニバーサリウム'
+  type:
+  - '&7&o素材'
+ANNOYING_TRAIT_PROP_GAMBESON_DYNATECH_VEX_GEM:
+  description:
+  - '&7ヴェックスジェムをこんな風に使うべきじゃない！'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&fうっとうしい'
+  type:
+  - '&7&o部品'
+ARMOUR_BOOTS:
+  description:
+  - '&73つのパーツで構成されたブーツ。'
+  - '&7ティンカーズ防具はレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  - '&7壊れると装備が外れます。'
+  name: '&fティンカーズブーツ'
+  type:
+  - '&7&o防具'
+ARMOUR_BOOTS_ENTRY:
+  description:
+  - '&7三つの部位から作られたブーツ。'
+  - '&7ティンカーズ防具はレベルアップし'
+  - '&7追加特性や改造を得られる。'
+  - '&7壊れると装備が外れる。'
+  - '&7インベントリに空きがない場合'
+  - '&7アイテムは地面に落ちる'
+  name: '&fティンカーズブーツ'
+  type:
+  - '&7&o防具'
+ARMOUR_CHESTPLATE:
+  description:
+  - '&73つのパーツで構成されたチェストプレート。'
+  - '&7ティンカーズ防具はレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  - '&7壊れると装備が外れます。'
+  name: '&fティンカーズチェストプレート'
+  type:
+  - '&7&o防具'
+ARMOUR_CHESTPLATE_ENTRY:
+  description:
+  - '&7三つの部位から作られたチェストプレート。'
+  - '&7ティンカーズ防具はレベルアップし'
+  - '&7追加特性や改造を得られる。'
+  - '&7壊れると装備が外れる。'
+  - '&7インベントリに空きがない場合'
+  - '&7アイテムは地面に落ちる'
+  name: '&fティンカーズチェストプレート'
+  type:
+  - '&7&o防具'
+ARMOUR_HELM:
+  description:
+  - '&73つのパーツで構成されたヘルメット。'
+  - '&7ティンカーズ防具はレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  - '&7壊れると装備が外れます。'
+  name: '&fティンカーズヘルメット'
+  type:
+  - '&7&o防具'
+ARMOUR_HELMET_ENTRY:
+  description:
+  - '&7三つの部位から作られたヘルメット。'
+  - '&7ティンカーズ防具はレベルアップし'
+  - '&7追加特性や改造を得られる。'
+  - '&7壊れると装備が外れる。'
+  - '&7インベントリに空きがない場合'
+  - '&7アイテムは地面に落ちる'
+  name: '&fティンカーズヘルメット'
+  type:
+  - '&7&o防具'
+ARMOUR_LEGGINGS:
+  description:
+  - '&73つのパーツで構成されたレギンス。'
+  - '&7ティンカーズ防具はレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  - '&7壊れると装備が外れます。'
+  name: '&fティンカーズレギンス'
+  type:
+  - '&7&o防具'
+ARMOUR_LEGGINGS_ENTRY:
+  description:
+  - '&7三つの部位から作られたレギンス。'
+  - '&7ティンカーズ防具はレベルアップし'
+  - '&7追加特性や改造を得られる。'
+  - '&7壊れると装備が外れる。'
+  - '&7インベントリに空きがない場合'
+  - '&7アイテムは地面に落ちる'
+  name: '&fティンカーズレギンス'
+  type:
+  - '&7&o防具'
+ATTRACTION_TRAIT_PROP_BINDING_TWISTING_VINES:
+  description:
+  - '&7範囲内のドロップアイテムを'
+  - '&75ブロック以内引き寄せます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f引力'
+  type:
+  - '&7&oコンポーネント'
+ATTRACTION_TRAIT_PROP_GAMBESON_TWISTING_VINES:
+  description:
+  - '&7近くのドロップ(5x5範囲)を引き寄せます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f引力'
+  type:
+  - '&7&oコンポーネント'
+BAND_TRAIT_PROP_PLATES_BRASS_INGOT:
+  description:
+  - '&7耐久減少 +200%。耐久が減るほど'
+  - '&7ダメージ軽減が1-25%の範囲で低下する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fバンド'
+  type:
+  - '&7&oコンポーネント'
+BARTER_II_TRAIT_PROP_LINKS_GOLD_SINGULARITY:
+  description:
+  - '&7ピグリンはあなたの防具が大好きだ'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fバーター II'
+  type:
+  - '&7&oコンポーネント'
+BARTER_TRAIT_PROP_LINKS_GOLD_DUST:
+  description:
+  - '&7ピグリンがあなたの防具を気に入る'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f物々交換'
+  type:
+  - '&7&oコンポーネント'
+BEAUTIFUL_TRAIT_PROP_LINKS_FORTUNE_SINGULARITY:
+  description:
+  - '&7歩くと花が咲くことがある。'
+  - ''
+  - '&7追加: Core SlimeTinker'
+  name: '&f美しい'
+  type:
+  - '&7&o部品'
+BEAUTIFUL_TRAIT_PROP_PLATES_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7歩くと花が咲くことがある。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f美しい'
+  type:
+  - '&7&oコンポーネント'
+BEGINNER_II_TRAIT_PROP_PLATES_COPPER_SINGULARITY:
+  description:
+  - '&7被ダメージ+50%。防具経験値+40%'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fビギナー II'
+  type:
+  - '&7&oコンポーネント'
+BEGINNER_TRAIT_PROP_PLATES_COPPER_DUST:
+  description:
+  - '&7被ダメージ +25%。防具経験値 +20%'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f初心者'
+  type:
+  - '&7&oコンポーネント'
+BILLON_ALLOY:
+  description:
+  - '&7ビロンの溶融合金金属。'
+  name: '&f溶融ビロン'
+  type:
+  - '&7&o素材'
+BILLON_LIQUID:
+  description:
+  - '&7ビロンを溶かした状態のもの。'
+  name: '&f溶融ビロン'
+  type:
+  - '&7&o素材'
+BLOCK_CAST_ADAMANTITE:
+  description:
+  - '&7アダマンタイトから作られたブロック。'
+  name: '&fアダマンタイトブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_ADVANCED_ALLOY:
+  description:
+  - '&7上級合金のブロック。'
+  name: '&f上級合金ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_ALUMINUM:
+  description:
+  - '&7純粋なアルミニウムから作られたブロック。'
+  name: '&fアルミニウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_ALU_BRASS:
+  description:
+  - '&7アルミニウム真鍮から作られたブロック。'
+  name: '&fアルミニウム真鍮ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_ALU_BRONZE:
+  description:
+  - '&7アルミニウム青銅から作られたブロック。'
+  name: '&fアルミニウム青銅ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_ANNIVERSARIUM:
+  description:
+  - '&7(Slime)fun 10周年!'
+  name: '&fアニバーサリウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_BILLON:
+  description:
+  - '&7ビロンから作られたブロック。'
+  name: '&fビロンブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_BOOMERITE:
+  description:
+  - '&7ブーメライトから作られたブロック。'
+  name: '&fブーメライトブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_BRASS:
+  description:
+  - '&7真鍮から作られたブロック。'
+  name: '&f真鍮ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_BRONZE:
+  description:
+  - '&7青銅から作られたブロック。'
+  name: '&f青銅ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_COBALT:
+  description:
+  - '&7コバルトから作られたブロック。'
+  name: '&fコバルトブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_COPPER:
+  description:
+  - '&7純粋な銅から作られたブロック。'
+  name: '&f銅ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_COR_BRONZE:
+  description:
+  - '&7コリントス青銅から作られたブロック。'
+  name: '&fコリントス青銅ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_CRINGLEIUM:
+  description:
+  - '&7クリングレイウムから作られたブロック。'
+  name: '&fクリングレイウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_DAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼から作られたブロック。'
+  name: '&fダマスカス鋼ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_DURALIUM:
+  description:
+  - '&7デュラリウムから作られたブロック。'
+  name: '&fデュラリウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_FERROSILICON:
+  description:
+  - '&7フェロシリコンから作られたブロック。'
+  name: '&fフェロシリコンブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_HARD_METAL:
+  description:
+  - '&7強化金属から作られたブロック。'
+  name: '&f強化金属ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_INFINITY:
+  description:
+  - '&7*ため息* 無限から作られたブロック。'
+  name: '&f無限ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_IRIDIUM:
+  description:
+  - '&7イリジウムのブロック。'
+  name: '&fイリジウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_LEAD:
+  description:
+  - '&7純粋な鉛から作られたブロック。'
+  name: '&f鉛ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_LOVE:
+  description:
+  - '&7純粋で混じりけのない愛だけを'
+  - '&7放つブロック。'
+  name: '&f愛のブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_MAGNESIUM:
+  description:
+  - '&7純粋なマグネシウムから作られたブロック。'
+  name: '&fマグネシウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_MAGNONIUM:
+  description:
+  - '&7マグノニウムから作られたブロック。'
+  name: '&fマグノニウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_MAGSTEEL:
+  description:
+  - '&7マグスチールから作られたブロック。'
+  name: '&fマグスチールブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_MAG_THOR:
+  description:
+  - '&7マグソーのブロック。'
+  name: '&fマグソーブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_MIXED_METAL:
+  description:
+  - '&7混合金属のブロック。'
+  name: '&f混合金属ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_MYTHRIL:
+  description:
+  - '&7ミスリルから作られたブロック。'
+  name: '&fミスリルブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_NICE:
+  description:
+  - '&7ナイス。'
+  name: '&fナイスブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_NICKEL:
+  description:
+  - '&7ニッケルから作られたブロック。'
+  name: '&fニッケルブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_OSMIUM:
+  description:
+  - '&7オスミウムのブロック。'
+  name: '&fオスミウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_OSMIUM_SUPER_ALLOY:
+  description:
+  - '&7オスミウム超合金のブロック。'
+  name: '&fオスミウム超合金ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_REDSTONE_ALLOY:
+  description:
+  - '&7レッドストーン合金から作られたブロック。'
+  name: '&fレッドストーン合金ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_REFINED_IRON:
+  description:
+  - '&7精錬鉄のブロック。'
+  name: '&f精錬鉄ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_REINFORCED:
+  description:
+  - '&7レインフォースドアロイから作られたブロック。'
+  name: '&fレインフォースドアロイブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7比類なき怒りに満ちた'
+  - '&7ブロック。'
+  name: '&f強化ドラコニウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_REINFORCED_SLIMESTEEL:
+  description:
+  - '&7強化スライム鋼のブロック。'
+  name: '&f強化スライム鋼ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_SCRAP:
+  description:
+  - '&7スクラップのブロック。'
+  name: '&fスクラップブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_SEFIRITE:
+  description:
+  - '&7セフィライトから作られたブロック。'
+  name: '&fセフィライトブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_SILVER:
+  description:
+  - '&7純粋な銀から作られたブロック。'
+  name: '&f銀ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_SLIMESTEEL:
+  description:
+  - '&7スライム鋼のブロック。'
+  name: '&fスライム鋼ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_SMITHIUM:
+  description:
+  - '&7素直な金属で、基幹産業の'
+  - '&7様々な用途に使われる。'
+  name: '&fスミシウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_SOLDER:
+  description:
+  - '&7はんだから作られたブロック。'
+  name: '&fはんだブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_STAINLESSSTEEL:
+  description:
+  - '&7ステンレスのブロック。'
+  name: '&fステンレス鋼ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_STEEL:
+  description:
+  - '&7純粋な鋼から作られたブロック。'
+  name: '&f鋼ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_TIN:
+  description:
+  - '&7純粋な錫から作られたブロック。'
+  name: '&f錫ブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_TITANIUM:
+  description:
+  - '&7チタンから作られたブロック。'
+  name: '&fチタンブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_UNPATENTABILUM:
+  description:
+  - '&7アンパテンタブリウムのブロック。'
+  name: '&fアンパテンタブリウムブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_VOID:
+  description:
+  - '&7...ヴォイドから作られたブロック?'
+  name: '&fヴォイドブロック'
+  type:
+  - '&7&o資源'
+BLOCK_CAST_ZINC:
+  description:
+  - '&7純粋な亜鉛から作られたブロック。'
+  name: '&f亜鉛ブロック'
+  type:
+  - '&7&o資源'
+BOOMERITE_ALLOY:
+  description:
+  - '&7ブーメライトの溶融合金。'
+  name: '&f溶融のブーメライト'
+  type:
+  - '&7&o素材'
+BOOMERITE_LIQUID:
+  description:
+  - '&7ブーメライトの溶融形態。'
+  name: '&f溶融のブーメライト'
+  type:
+  - '&7&o素材'
+BOOST_II_TRAIT_PROP_LINKS_TIN_SINGULARITY:
+  description:
+  - '&7大ダメージを受けると、大量の吸収を得ます'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fブースト II'
+  type:
+  - '&7&oコンポーネント'
+BOOST_TRAIT_PROP_LINKS_TIN_DUST:
+  description:
+  - '&7大ダメージを受けると吸収効果を得る'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fブースト'
+  type:
+  - '&7&oコンポーネント'
+BOUNCY_TRAIT_PROP_BINDING_SLIME_BALL:
+  description:
+  - '&7落下ダメージが半減します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f弾力'
+  type:
+  - '&7&oコンポーネント'
+BOUNCY_TRAIT_PROP_GAMBESON_SLIME_BALL:
+  description:
+  - '&7落下ダメージ -25%'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f弾力'
+  type:
+  - '&7&oコンポーネント'
+BRAINS,_NOT_BRAWN._TRAIT_PROP_ROD_SCRAP:
+  description:
+  - '&7道具経験値の獲得量が2倍になる。'
+  - '&7与えるダメージは半減する。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f脳筋より頭脳。'
+  type:
+  - '&7&o部品'
+BRAINS,_NOT_BRAWN_II_TRAIT_PROP_HEAD_COPPER_SINGULARITY:
+  description:
+  - '&7ツール経験値+200%、ダメージ50%'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fブレインズノットブラウン II'
+  type:
+  - '&7&oコンポーネント'
+BRAINS,_NOT_BRAWN_TRAIT_PROP_HEAD_COPPER_DUST:
+  description:
+  - '&7道具の経験値獲得が2倍になる。与える'
+  - '&7ダメージは半減する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f腕力より知恵'
+  type:
+  - '&7&oコンポーネント'
+BRASS_ALLOY:
+  description:
+  - '&7真鍮の溶融合金金属。'
+  name: '&f溶融真鍮'
+  type:
+  - '&7&o素材'
+BRASS_LIQUID:
+  description:
+  - '&7真鍮を溶かした状態のもの。'
+  name: '&f溶融真鍮'
+  type:
+  - '&7&o素材'
+BREAKPOINT_TRAIT_PROP_HEAD_INFINITY_SINGULARITY:
+  description:
+  - '&7耐久無限。ダメージ+200%。'
+  - '&7道具経験値+200%、3x3採掘。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&fブレイクポイント'
+  type:
+  - '&7&o部品'
+BRIGHT-BURN_TRAIT_PROP_LINKS_DYNATECH_STAR_DUST:
+  description:
+  - '&7「まばゆい炎」を1スタック付与。4スタックで'
+  - '&7敵対モブを追い払う（ボスを除く）。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&fまばゆい炎'
+  type:
+  - '&7&o部品'
+BRIGHTBURN_TRAIT_PROP_LINKS_FERROSILICON:
+  description:
+  - '&7「燃え盛る炎」を1スタック付与。4スタックで'
+  - '&7敵対モブを撃退します(ボスを除く)。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fブライトバーン'
+  type:
+  - '&7&oコンポーネント'
+BRIGHTBURN_TRAIT_PROP_PLATES_MYTHRIL:
+  description:
+  - '&7「燃え盛る炎」を1スタック付与。4スタックで'
+  - '&7敵対モブを撃退します(ボスを除く)。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fブライトバーン'
+  type:
+  - '&7&oコンポーネント'
+BRIGHT_FURY_TRAIT_PROP_HEAD_DYNATECH_STAR_DUST:
+  description:
+  - '&7攻撃が相手をまばゆく照らし盲目にし、'
+  - '&7威力は50%増加する。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&f閃光の怒り'
+  type:
+  - '&7&o部品'
+BRITTLE_TRAIT_PROP_LINKS_BRONZE_INGOT:
+  description:
+  - '&7耐久減少が2倍になる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f脆い'
+  type:
+  - '&7&oコンポーネント'
+BRITTLE_TRAIT_PROP_ROD_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7耐久減少が2倍になる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f脆い'
+  type:
+  - '&7&oコンポーネント'
+BRONZE_ALLOY:
+  description:
+  - '&7青銅の溶融合金金属。'
+  name: '&f溶融青銅'
+  type:
+  - '&7&o素材'
+BRONZE_LIQUID:
+  description:
+  - '&7青銅を溶かした状態のもの。'
+  name: '&f溶融青銅'
+  type:
+  - '&7&o素材'
+BUILDING_RAGE_TRAIT_PROP_LINKS_MAG_THOR:
+  description:
+  - '&7被弾時、確率で速度上昇1と採掘速度上昇1を得る'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f募る怒り'
+  type:
+  - '&7&o部品'
+BULKY_TRAIT_PROP_HEAD_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&73x3範囲を採掘します'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fバルキー'
+  type:
+  - '&7&oコンポーネント'
+CALL_OF_THE_WILD_TRAIT_PROP_LINKS_MYTHRIL:
+  description:
+  - '&7被弾時、稀にオオカミを召喚して助けを呼びます'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fコールオブザワイルド'
+  type:
+  - '&7&oコンポーネント'
+CAN_II_TRAIT_PROP_ROD_TIN_SINGULARITY:
+  description:
+  - '&7満腹度が減少しません'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fキャン II'
+  type:
+  - '&7&oコンポーネント'
+CAN_TRAIT_PROP_ROD_TIN_DUST:
+  description:
+  - '&7満腹度がなくなっていく'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f缶'
+  type:
+  - '&7&oコンポーネント'
+CARBON_FIBRE_TRAIT_PROP_GAMBESON_RAW_CARBON_MESH:
+  description:
+  - '&7速度+1'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&fカーボンファイバー'
+  type:
+  - '&7&o部品'
+CAST_AXE_HEAD:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&f斧の刃の鋳型'
+  stats:
+  - '&8入力: &e27ユニット'
+  - '&8出力: &e斧の刃 ×1'
+  type:
+  - '&7&o部品'
+CAST_BLOCK:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&f金属ブロックの鋳型'
+  stats:
+  - '&8入力: &e81ユニット'
+  - '&8出力: &eブロック ×1'
+  type:
+  - '&7&o部品'
+CAST_BOOT_PLATE:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&fブーツプレートの鋳型'
+  stats:
+  - '&8入力: &e36ユニット'
+  - '&8出力: &eブーツプレート一式 ×1'
+  type:
+  - '&7&o部品'
+CAST_CHEST_PLATE:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&fチェストプレートの鋳型'
+  stats:
+  - '&8入力: &e72ユニット'
+  - '&8出力: &eチェストプレート一式 ×1'
+  type:
+  - '&7&o部品'
+CAST_GEM:
+  description:
+  - '&7非金属液体用の鋳型。'
+  name: '&fジェムの鋳型'
+  stats:
+  - '&8入力: &e9ユニット'
+  - '&8出力: &eジェム ×1'
+  type:
+  - '&7&o部品'
+CAST_HELM_PLATE:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&fヘルメットプレートの鋳型'
+  stats:
+  - '&8入力: &e45ユニット'
+  - '&8出力: &eヘルメットプレート一式 ×1'
+  type:
+  - '&7&o部品'
+CAST_HOEHEAD:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&fクワの穂先の鋳型'
+  stats:
+  - '&8入力: &e18ユニット'
+  - '&8出力: &eクワの穂先 ×1'
+  type:
+  - '&7&o部品'
+CAST_INGOT:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&f金属インゴットの鋳型'
+  stats:
+  - '&8入力: &e9ユニット'
+  - '&8出力: &eインゴット ×1'
+  type:
+  - '&7&o部品'
+CAST_LEG_PLATE:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&fレギンスプレートの鋳型'
+  stats:
+  - '&8入力: &e63ユニット'
+  - '&8出力: &eレギンスプレート一式 ×1'
+  type:
+  - '&7&o部品'
+CAST_MAIL_LINK:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&f鎖リンクの鋳型'
+  stats:
+  - '&8入力: &e18ユニット'
+  - '&8出力: &e鎖リンク一式 ×1'
+  type:
+  - '&7&o部品'
+CAST_NUGGET:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&f金属ナゲットの鋳型'
+  stats:
+  - '&8入力: &e1ユニット'
+  - '&8出力: &eナゲット ×1'
+  type:
+  - '&7&o部品'
+CAST_PICKAXEHEAD:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&fツルハシの穂先の鋳型'
+  stats:
+  - '&8入力: &e27ユニット'
+  - '&8出力: &eツルハシの穂先 ×1'
+  type:
+  - '&7&o部品'
+CAST_REPAIRKIT:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&f修理キットの鋳型'
+  stats:
+  - '&8入力: &e27ユニット'
+  - '&8出力: &e修理キット ×1'
+  type:
+  - '&7&o部品'
+CAST_SHOVELHEAD:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&fシャベルの穂先の鋳型'
+  stats:
+  - '&8入力: &e9ユニット'
+  - '&8出力: &eシャベルの穂先 ×1'
+  type:
+  - '&7&o部品'
+CAST_SWORDBLADE:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&f剣の刃の鋳型'
+  stats:
+  - '&8入力: &e18ユニット'
+  - '&8出力: &e剣の刃 ×1'
+  type:
+  - '&7&o部品'
+CAST_TOOLROD:
+  description:
+  - '&7金属用の鋳型。'
+  name: '&f道具の柄の鋳型'
+  stats:
+  - '&8入力: &e9ユニット'
+  - '&8出力: &e道具の柄 ×1'
+  type:
+  - '&7&o部品'
+CELEBRATE_TRAIT_PROP_HEAD_INGOT_CAST_SEFIRITE:
+  description:
+  - '&7祝いの時間だ'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fセレブレイト'
+  type:
+  - '&7&oコンポーネント'
+CHARGED_HEAD_+_TRAIT_PROP_HEAD_COBALT_INGOT:
+  description:
+  - '&7単体では何も起きない...'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fチャージヘッド+'
+  type:
+  - '&7&oコンポーネント'
+CHARGED_HEAD_-_TRAIT_PROP_HEAD_NICKEL_INGOT:
+  description:
+  - '&7単体では何も起きない...'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fチャージヘッド-'
+  type:
+  - '&7&oコンポーネント'
+CHARGED_ROD_+_TRAIT_PROP_ROD_COBALT_INGOT:
+  description:
+  - '&7単体では何も起きない...'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fチャージロッド+'
+  type:
+  - '&7&oコンポーネント'
+CHARGED_ROD_-_TRAIT_PROP_ROD_NICKEL_INGOT:
+  description:
+  - '&7単体では何も起きない...'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fチャージロッド-'
+  type:
+  - '&7&oコンポーネント'
+CLEAN_CUT_TRAIT_PROP_HEAD_METAL_SINGULARITY:
+  description:
+  - '&7ダメージ+100%。速度上昇2。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f鮮やかな一撃'
+  type:
+  - '&7&o部品'
+CLEAVE_TRAIT_PROP_HEAD_ADVANCED_ALLOY:
+  description:
+  - '&7攻撃時、近くのモブ全てにダメージを与える。'
+  - '&7この範囲ダメージはティンカーズ効果を発動させない。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f薙ぎ払い'
+  type:
+  - '&7&o部品'
+COAL_LIQUID:
+  description:
+  - '&7石炭を溶かした状態のもの。'
+  name: '&f溶融石炭'
+  type:
+  - '&7&o素材'
+COBALT_ALLOY:
+  description:
+  - '&7コバルトの溶融合金金属。'
+  name: '&f溶融コバルト'
+  type:
+  - '&7&o素材'
+COBALT_LIQUID:
+  description:
+  - '&7コバルトを溶かした状態のもの。'
+  name: '&f溶融コバルト'
+  type:
+  - '&7&o素材'
+COMPOUNDING_TRAIT_PROP_PLATES_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7このパーツを装備するごとに追加体力を得る。'
+  - '&7効果は防具ごとに重複して加算される。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f複利'
+  type:
+  - '&7&oコンポーネント'
+CONCEPTUAL_DEFENCE_TRAIT_PROP_ROD_INFINITE_INGOT:
+  description:
+  - '&7受けるダメージを半減する（切り上げ）。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f概念的防御'
+  type:
+  - '&7&o部品'
+CONDUCTIVE_II_TRAIT_PROP_ROD_COPPER_SINGULARITY:
+  description:
+  - '&7全てのツール経験値がプレイヤー経験値に'
+  - '&750%のボーナス付きで変換されます。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fコンダクティブ II'
+  type:
+  - '&7&oコンポーネント'
+CONDUCTIVE_TRAIT_PROP_ROD_COPPER_DUST:
+  description:
+  - '&7道具の経験値がすべてプレイヤー経験値に変換される。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f伝導性'
+  type:
+  - '&7&oコンポーネント'
+CONDUCTIVITY_II_TRAIT_PROP_PLATES_SILVER_SINGULARITY:
+  description:
+  - '&7被弾時、確率で嵐を召喚します。'
+  - '&7雷ダメージがあなたを回復させます。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fコンダクティビティ II'
+  type:
+  - '&7&oコンポーネント'
+CONDUCTIVITY_TRAIT_PROP_PLATES_SILVER_DUST:
+  description:
+  - '&7雷への耐性を持ち、さらに反射する!'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f導電性'
+  type:
+  - '&7&oコンポーネント'
+CONDUCTOR_TRAIT_PROP_ROD_METAL_SINGULARITY:
+  description:
+  - '&7プレイヤー経験値はすべて10:1の割合で'
+  - '&7道具経験値に変換される。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f伝導者'
+  type:
+  - '&7&o部品'
+COPPER_LIQUID:
+  description:
+  - '&7銅を溶かした状態のもの。'
+  name: '&f溶融銅'
+  type:
+  - '&7&o素材'
+COPPER_SINGULARITY_LIQUID:
+  description:
+  - '&7銅シンギュラリティの溶融形態。'
+  name: '&f溶融の銅シンギュラリティ'
+  type:
+  - '&7&o素材'
+CORINTHIAN_BRONZE_ALLOY:
+  description:
+  - '&7コリンティアン青銅の溶融合金金属。'
+  name: '&f溶融コリンティアン青銅'
+  type:
+  - '&7&o素材'
+CORINTHIAN_BRONZE_LIQUID:
+  description:
+  - '&7コリンティアン青銅を溶かした状態のもの。'
+  name: '&f溶融コリンティアン青銅'
+  type:
+  - '&7&o素材'
+CRAFTSMANSHIP_TRAIT_PROP_LINKS_INGOT_CAST_SMITHIUM:
+  description:
+  - '&725%の確率で修理コストが返還されます！'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f匠の技'
+  type:
+  - '&7&oコンポーネント'
+CRINGLEIUM_ALLOY:
+  description:
+  - '&7クリングレイウムの溶融合金。'
+  name: '&f溶融のクリングレイウム'
+  type:
+  - '&7&o素材'
+CRINGLEIUM_LIQUID:
+  description:
+  - '&7クリングレイウムの溶融形態。'
+  name: '&f溶融のクリングレイウム'
+  type:
+  - '&7&o素材'
+CUTLERY_TRAIT_PROP_ROD_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7動物を殴ると直接満腹度が回復する。なんとも残酷。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&f食器'
+  type:
+  - '&7&o部品'
+DAMASCUS_STEEL_ALLOY:
+  description:
+  - '&7ダマスカス鋼の溶融合金金属。'
+  name: '&f溶融ダマスカス鋼'
+  type:
+  - '&7&o素材'
+DAMASCUS_STEEL_LIQUID:
+  description:
+  - '&7ダマスカス鋼を溶かした状態のもの。'
+  name: '&f溶融ダマスカス鋼'
+  type:
+  - '&7&o素材'
+DECAY_TRAIT_PROP_BINDING_CRIMSON_ROOTS:
+  description:
+  - '&7夜間、ツールを徐々に修理します。'
+  - '&7改造と重複可。手に持つ必要あり'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f腐敗'
+  type:
+  - '&7&oコンポーネント'
+DECAY_TRAIT_PROP_GAMBESON_CRIMSON_ROOTS:
+  description:
+  - '&7夜間、徐々に修理します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f腐敗'
+  type:
+  - '&7&oコンポーネント'
+DEFENDER_TRAIT_PROP_LINKS_MAGSTEEL:
+  description:
+  - '&7被弾時、5%の確率でダメージを無視し'
+  - '&7吸収を得ます。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fディフェンダー'
+  type:
+  - '&7&oコンポーネント'
+DEFLECTIVE_TRAIT_PROP_PLATES_ADAMANTITE:
+  description:
+  - '&7飛び道具ダメージ-25%'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f偏向'
+  type:
+  - '&7&o部品'
+DETAILED_DEVOTION_LIQUID:
+  description:
+  - '&7ディテールドデヴォーションの溶融形態。'
+  name: '&f溶融のディテールドデヴォーション'
+  type:
+  - '&7&o素材'
+DIAMOND_LIQUID:
+  description:
+  - '&7ダイヤモンドの溶融形態。'
+  name: '&f溶融のダイヤモンド'
+  type:
+  - '&7&o素材'
+DIAMOND_SINGULARITY_LIQUID:
+  description:
+  - '&7ダイヤモンドシンギュラリティの溶融形態。'
+  name: '&f溶融のダイヤモンドシンギュラリティ'
+  type:
+  - '&7&o素材'
+DIE_AXE_HEAD:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f石の斧の刃の原型'
+  type:
+  - '&7&o部品'
+DIE_BOOT_PLATE:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f石のブーツプレートの原型'
+  type:
+  - '&7&o部品'
+DIE_CHEST_PLATE:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f石のチェストプレートの原型'
+  type:
+  - '&7&o部品'
+DIE_HELM_PLATE:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f石のヘルメットプレートの原型'
+  type:
+  - '&7&o部品'
+DIE_HOE_HEAD:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f石のクワの穂先の原型'
+  type:
+  - '&7&o部品'
+DIE_LEG_PLATE:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f石のレギンスプレートの原型'
+  type:
+  - '&7&o部品'
+DIE_MAIL_LINK:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f鎖リンクの原型'
+  type:
+  - '&7&o部品'
+DIE_PICKAXE_HEAD:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f石のツルハシの穂先の原型'
+  type:
+  - '&7&o部品'
+DIE_REPAIR_KIT:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f修理キットの原型'
+  type:
+  - '&7&o部品'
+DIE_SHOVEL_HEAD:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f石のシャベルの穂先の原型'
+  type:
+  - '&7&o部品'
+DIE_SWORD_BLADE:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f石の剣の刃の原型'
+  type:
+  - '&7&o部品'
+DIE_TOOL_ROD:
+  description:
+  - '&7鋳型を作るための原型。'
+  name: '&f道具の柄の原型'
+  type:
+  - '&7&o部品'
+DOOM_TRAIT_PROP_BINDING_WEEPING_VINES:
+  description:
+  - '&7嫌な予感がする…'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f破滅'
+  type:
+  - '&7&oコンポーネント'
+DOOM_TRAIT_PROP_GAMBESON_WEEPING_VINES:
+  description:
+  - '&7不吉な予感を付与。村人を隠せ！'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f破滅'
+  type:
+  - '&7&oコンポーネント'
+DRACONIC_LIQUID:
+  description:
+  - '&7ドラコニックの溶融形態。'
+  name: '&f溶融のドラコニック'
+  type:
+  - '&7&o素材'
+DRACONIC_TANTRUM_TRAIT_PROP_HEAD_INGOT_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7エンダードラゴンに攻撃されると15秒間'
+  - '&7追加ダメージを得る。'
+  - '&7スタックは加算され、持続時間も更新される。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  - '&7提供: Bunkky/ReasonFoundDecoy'
+  name: '&fドラゴンの癇癪'
+  type:
+  - '&7&o部品'
+DUMMY_MODIFICATION_STATION:
+  description:
+  - '&7道具は改造ステーションで、適切な'
+  - '&7素材を使って強化される。'
+  - '&7十分な素材が投入されると'
+  - '&7改造のレベルが上がる。'
+  name: '&fティンカーズ改造ステーション'
+  type:
+  - '&7&oその他'
+DUMMY_TINKERS_ARMOUR_TABLE:
+  description:
+  - '&7このアイテムはティンカーズ防具台で作られる。'
+  name: '&fティンカーズ防具台'
+  type:
+  - '&7&oその他'
+DUMMY_TINKERS_SMELTERY:
+  description:
+  - '&7このアイテムは対応する鋳型と'
+  - '&7金属や液体を使って、ティンカーズ'
+  - '&7溶鉱炉から鋳造される。'
+  name: '&fティンカーズ溶鉱炉'
+  type:
+  - '&7&oその他'
+DUMMY_TINKERS_SMELTERY_ALLOY:
+  description:
+  - '&7この合金はティンカーズ溶鉱炉で'
+  - '&7正しい種類の金属を入れて'
+  - '&7「合金」をクリックすると作られる。'
+  name: '&fティンカーズ溶鉱炉'
+  type:
+  - '&7&oその他'
+DUMMY_TINKERS_SMELTERY_MOLTEN:
+  description:
+  - '&7溶融金属はその金属で作られた'
+  - '&7アイテムを溶鉱炉に入れることで'
+  - '&7作られる。熱源として十分な'
+  - '&7溶岩があると、アイテムは溶ける。'
+  name: '&fティンカーズ溶鉱炉'
+  type:
+  - '&7&oその他'
+DUMMY_TINKERS_SMELTERY_MULTI:
+  description:
+  - '&7これはマルチブロックで、ここに'
+  - '&7示すようにワールド内に建造する。'
+  name: '&fティンカーズ溶鉱炉'
+  type:
+  - '&7&oその他'
+DUMMY_TINKERS_SMELTERY_PROP:
+  description:
+  - '&7この金属を使って対応する部位を'
+  - '&7作ると、完成した道具に'
+  - '&7この特性が付与される。'
+  name: '&fティンカーズ溶鉱炉'
+  type:
+  - '&7&oその他'
+DUMMY_TINKERS_TABLE:
+  description:
+  - '&7このアイテムはティンカーズ道具台で作られる。'
+  name: '&fティンカーズ道具台'
+  type:
+  - '&7&oその他'
+DURABLE_TRAIT_PROP_HEAD_DURALUMIN_INGOT:
+  description:
+  - '&7破損を無視するが与ダメージが50%になり、'
+  - '&7採掘速度が低下し経験値も0になる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f耐久性'
+  type:
+  - '&7&oコンポーネント'
+DURABLE_TRAIT_PROP_PLATES_DURALUMIN_INGOT:
+  description:
+  - '&7破損しても機能するが被ダメージ +20%'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f耐久性'
+  type:
+  - '&7&oコンポーネント'
+DURABLE_TRAIT_PROP_ROD_TITANIUM:
+  description:
+  - '&7破損を無視しますがダメージ50%、'
+  - '&7採掘速度低下、経験値0。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fデュラブル'
+  type:
+  - '&7&oコンポーネント'
+DURALIUM_ALLOY:
+  description:
+  - '&7デュラリウムの溶融合金金属。'
+  name: '&f溶融デュラリウム'
+  type:
+  - '&7&o素材'
+DURALIUM_LIQUID:
+  description:
+  - '&7デュラリウムを溶かした状態のもの。'
+  name: '&f溶融デュラリウム'
+  type:
+  - '&7&o素材'
+DWARVEN_SKILLS_TRAIT_PROP_LINKS_HARDENED_METAL_INGOT:
+  description:
+  - '&7採掘中にレアな遺物を見つけることがある。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fドワーフの技'
+  type:
+  - '&7&oコンポーネント'
+DWARVEN_SKILLS_TRAIT_PROP_PLATES_TITANIUM:
+  description:
+  - '&7採掘中、確率でレアな遺物を見つけます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fドワーフの技'
+  type:
+  - '&7&oコンポーネント'
+EARTH_SHAKER_TRAIT_PROP_HEAD_EARTH_SINGULARITY:
+  description:
+  - '&7攻撃したモブをノックバックさせ、着地時に'
+  - '&7スタンさせる。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f大地を揺るがす者'
+  type:
+  - '&7&o部品'
+EARTH_SINGULARITY_LIQUID:
+  description:
+  - '&7アース・シンギュラリティの溶融体。'
+  name: '&f溶融アース・シンギュラリティ'
+  type:
+  - '&7&o素材'
+EASILY_SHAPED_II_TRAIT_PROP_LINKS_ALUMINUM_SINGULARITY:
+  description:
+  - '&7修理には、任意の金属のキットが1つあれば十分です'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fイージリーシェイプド II'
+  type:
+  - '&7&oコンポーネント'
+EASILY_SHAPED_TRAIT_PROP_LINKS_ALUMINUM_DUST:
+  description:
+  - '&7修理に必要なキットが1個だけになる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f成形しやすい'
+  type:
+  - '&7&oコンポーネント'
+EASY_FIX_TRAIT_PROP_ROD_DURALUMIN_INGOT:
+  description:
+  - '&7完全修理に必要なキットは1個だけ。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f簡単修理'
+  type:
+  - '&7&oコンポーネント'
+EJECT!_TRAIT_PROP_LINKS_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7体力が半分以下でダメージを受けると、射出される!'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f射出!'
+  type:
+  - '&7&oコンポーネント'
+ELVEN_SPEED_TRAIT_PROP_HEAD_MYTHRIL:
+  description:
+  - '&7ヘイスト2、スピード1。耐久値減少+50%'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fエルフの速さ'
+  type:
+  - '&7&oコンポーネント'
+ENCHANTING_II_TRAIT_PROP_HEAD_SILVER_SINGULARITY:
+  description:
+  - '&7ツール経験値獲得が半減。レベルアップ時に'
+  - '&71~3個のランダムなエンチャントが'
+  - '&7付与されます。役に立たないかも！'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fエンチャンティング II'
+  type:
+  - '&7&oコンポーネント'
+ENCHANTING_II_TRAIT_PROP_LINKS_SILVER_SINGULARITY:
+  description:
+  - '&7この防具パーツがレベルアップするたびに'
+  - '&71~3個のランダムなエンチャントを得ます。役立たないかも。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fエンチャンティング II'
+  type:
+  - '&7&oコンポーネント'
+ENCHANTING_TRAIT_PROP_HEAD_SILVER_DUST:
+  description:
+  - '&7道具の経験値獲得が半減する。レベルアップ時に'
+  - '&7ランダムなバニラのエンチャントが付与される。道具の'
+  - '&7種類に合うとは限らない。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fエンチャント'
+  type:
+  - '&7&oコンポーネント'
+ENCHANTING_TRAIT_PROP_LINKS_SILVER_DUST:
+  description:
+  - '&7この防具パーツがレベルアップするたびに'
+  - '&7ランダムなエンチャントを得る。役に立つとは限らない。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fエンチャント'
+  type:
+  - '&7&oコンポーネント'
+ESCAPE_TRAIT_PROP_LINKS_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7ランダムにテレポートして攻撃する（クールダウン: 10秒）'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fエスケープ'
+  type:
+  - '&7&oコンポーネント'
+ESCAPE_TRAIT_PROP_PLATES_MAGNONIUM:
+  description:
+  - '&7ランダムにテレポートしてから攻撃する（CD: 10秒）'
+  - ''
+  - '&7追加: Core SlimeTinker'
+  name: '&f逃走'
+  type:
+  - '&7&o部品'
+EVEN_MORE_ADVANCED_TRAIT_PROP_PLATES_ADVANCED_ALLOY:
+  description:
+  - '&7上級改造+1（装備1つにつき）。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&fさらに上級'
+  type:
+  - '&7&o部品'
+EXPERIENCED_TRAIT_PROP_LINKS_ADAMANTITE:
+  description:
+  - '&7道具と防具の経験値+10%'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f熟練'
+  type:
+  - '&7&o部品'
+EXPERIENCED_TRAIT_PROP_PLATES_MIXED_METAL_INGOT:
+  description:
+  - '&7道具と防具の経験値+10%'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f熟練'
+  type:
+  - '&7&o部品'
+FALLING_APART_TRAIT_PROP_LINKS_SCRAP:
+  description:
+  - '&7経験値+200%。確率で防具が'
+  - '&7そのまま脱げ落ちる！'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f崩壊寸前'
+  type:
+  - '&7&o部品'
+FARMER_TRAIT_PROP_PLATES_BRONZE_INGOT:
+  description:
+  - '&7すべての作物のドロップが1個増える。幸運の影響は受けない。'
+  - '&7このコンポーネント同士では重複しないが、他の効果とは重複する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f農夫'
+  type:
+  - '&7&oコンポーネント'
+FAST_TRAIT_PROP_HEAD_BILLON_INGOT:
+  description:
+  - '&7移動速度が上昇し、採掘速度上昇が付与される。'
+  - '&7他の改造と重複する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f速い'
+  type:
+  - '&7&oコンポーネント'
+FEAR_THE_VOID_TRAIT_PROP_ROD_VOID_INGOT:
+  description:
+  - '&7ダメージ+150%。エンドでは250%。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fヴォイドを恐れよ'
+  type:
+  - '&7&oコンポーネント'
+FEELING_CONNECTED_TRAIT_PROP_LINKS_NTW_REMOTE_ULTIMATE:
+  description:
+  - '&7ヘルメットを介した神経の直接接続で、'
+  - '&7ネットワークに無線接続できる'
+  - '&7ようになる。'
+  - ''
+  - '&7空手でシフト+左クリックすると'
+  - '&7グリッドに接続する。'
+  - ''
+  - '&7空手で左クリックすると接続した'
+  - '&7グリッドを開こうとする。'
+  - ''
+  - '&7ヘルメットにのみ機能する。'
+  - ''
+  - '&7追加: Networks'
+  name: '&fつながりを感じて'
+  type:
+  - '&7&o部品'
+FEELING_FESTIVE_TRAIT_PROP_LINKS_INGOT_CAST_CRINGLEIUM:
+  description:
+  - '&7お祭り気分を味わおう！'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fフィーリングフェスティブ'
+  type:
+  - '&7&oコンポーネント'
+FERROSILICON_ALLOY:
+  description:
+  - '&7フェロシリコンの溶融合金。'
+  name: '&f溶融のフェロシリコン'
+  type:
+  - '&7&o素材'
+FERROSILICON_LIQUID:
+  description:
+  - '&7フェロシリコンの溶融形態。'
+  name: '&f溶融のフェロシリコン'
+  type:
+  - '&7&o素材'
+FLAMING_HOT_TRAIT_PROP_HEAD_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7可能な場合、破壊したブロックを製錬する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f灼熱'
+  type:
+  - '&7&oコンポーネント'
+FLAMING_HOT_TRAIT_PROP_ROD_MAGNONIUM:
+  description:
+  - '&7可能な場合、破壊したブロックを製錬する。'
+  - ''
+  - '&7追加: Core SlimeTinker'
+  name: '&f灼熱'
+  type:
+  - '&7&o部品'
+FLAMMABLE_II_TRAIT_PROP_HEAD_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7(ツールレベル x 10)%の確率で'
+  - '&7敵をより長く燃やします。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fフラマブル II'
+  type:
+  - '&7&oコンポーネント'
+FLAMMABLE_TRAIT_PROP_HEAD_MAGNESIUM_DUST:
+  description:
+  - '&7（道具レベル×5）%の確率で'
+  - '&7敵を燃え上がらせる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f可燃性'
+  type:
+  - '&7&oコンポーネント'
+FLAMMABLE_TRAIT_PROP_ROD_MAGSTEEL:
+  description:
+  - '&7(ツールレベル x 5)%の確率で'
+  - '&7敵を燃やします。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fフラマブル'
+  type:
+  - '&7&oコンポーネント'
+FLOWING_FONDNESS_LIQUID:
+  description:
+  - '&7フローイングフォンドネスの溶融形態。'
+  name: '&f溶融のフローイングフォンドネス'
+  type:
+  - '&7&o素材'
+FOIL_II_TRAIT_PROP_PLATES_ALUMINUM_SINGULARITY:
+  description:
+  - '&7被ダメージ+50%。スピード+2'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fホイル II'
+  type:
+  - '&7&oコンポーネント'
+FOIL_TRAIT_PROP_PLATES_ALUMINUM_DUST:
+  description:
+  - '&7被ダメージ +50%。速度 +1'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fホイル'
+  type:
+  - '&7&oコンポーネント'
+FORTUNATE_TRAIT_PROP_HEAD_FORTUNE_SINGULARITY:
+  description:
+  - '&7幸運によるドロップ+200%。ラピスの'
+  - '&7改造とも重複する。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f幸運'
+  type:
+  - '&7&o部品'
+FORTUNE_SINGULARITY_LIQUID:
+  description:
+  - '&7フォーチュン・シンギュラリティの溶融体。'
+  name: '&f溶融フォーチュン・シンギュラリティ'
+  type:
+  - '&7&o素材'
+FUSED_TRAIT_PROP_LINKS_SOLDER_INGOT:
+  description:
+  - '&7死亡時や意図的なドロップができなくなる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f融着'
+  type:
+  - '&7&oコンポーネント'
+FUSED_TRAIT_PROP_ROD_SOLDER_INGOT:
+  description:
+  - '&7この道具はプレイヤーによっても'
+  - '&7死亡時によってもドロップできなくなる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f融着'
+  type:
+  - '&7&oコンポーネント'
+GHOSTLY_ESSENCE_LIQUID:
+  description:
+  - '&7ゴーストリーエッセンスの溶融体。'
+  name: '&f溶融ゴーストリーエッセンス'
+  type:
+  - '&7&o素材'
+GHOSTLY_TRAIT_PROP_LINKS_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7幽霊のように浮遊する'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&f幽霊のような'
+  type:
+  - '&7&o部品'
+GHOST_IN_THE_SHELL_TRAIT_PROP_GAMBESON_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7耐久度を消費して、近くのモブ全てに'
+  - '&7じわじわとダメージを与える。この効果では死なない。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&f攻殻'
+  type:
+  - '&7&o部品'
+GLEAM_TRAIT_PROP_LINKS_METAL_SINGULARITY:
+  description:
+  - '&7被弾時、確率でダメージを反射し'
+  - '&7攻撃者をまばゆく照らす。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f閃き'
+  type:
+  - '&7&o部品'
+GOLDEN_VEIL_II_TRAIT_PROP_HEAD_GOLD_SINGULARITY:
+  description:
+  - '&7プレイヤーを透明にします。武器に'
+  - '&7使用した場合、ダメージ+50%。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fゴールデンヴェール II'
+  type:
+  - '&7&oコンポーネント'
+GOLDEN_VEIL_TRAIT_PROP_HEAD_GOLD_DUST:
+  description:
+  - '&7プレイヤーを透明にする。武器に使うと'
+  - '&7ダメージが-100%になる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f金の帳'
+  type:
+  - '&7&oコンポーネント'
+GOLD_LIQUID:
+  description:
+  - '&7金を溶かした状態のもの。'
+  name: '&f溶融金'
+  type:
+  - '&7&o素材'
+GOLD_SINGULARITY_LIQUID:
+  description:
+  - '&7金シンギュラリティの溶融形態。'
+  name: '&f溶融の金シンギュラリティ'
+  type:
+  - '&7&o素材'
+GO_BOOMER_TRAIT_PROP_PLATES_INGOT_CAST_BOOMERITE:
+  description:
+  - '&7警告…色々と爆発します…'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fゴーブーマー'
+  type:
+  - '&7&oコンポーネント'
+GRACEFUL_II_TRAIT_PROP_HEAD_ZINC_SINGULARITY:
+  description:
+  - '&7イルカのちから、発動…さらに強力に！'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fグレースフル II'
+  type:
+  - '&7&oコンポーネント'
+GRACEFUL_TRAIT_PROP_HEAD_ZINC_DUST:
+  description:
+  - '&7イルカのパワー、発動!'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f優雅'
+  type:
+  - '&7&oコンポーネント'
+GRINDER_TRAIT_PROP_ROD_EARTH_SINGULARITY:
+  description:
+  - '&7破壊したブロックは、粉砕機を通した'
+  - '&7かのような結果になる。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f粉砕機'
+  type:
+  - '&7&o部品'
+GROUT:
+  description:
+  - '&7シアードレンガを作るのに使う。'
+  name: '&fグラウト'
+  type:
+  - '&7&o部品'
+GROWTH_TRAIT_PROP_BINDING_VINE:
+  description:
+  - '&7日中、ツールを徐々に修理します。'
+  - '&7改造と重複可。手に持つ必要あり'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f成長'
+  type:
+  - '&7&oコンポーネント'
+GROWTH_TRAIT_PROP_GAMBESON_VINE:
+  description:
+  - '&7日中、徐々に修理します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f成長'
+  type:
+  - '&7&oコンポーネント'
+HARDENED_METAL_ALLOY:
+  description:
+  - '&7硬化金属の溶融合金金属。'
+  name: '&f溶融硬化金属'
+  type:
+  - '&7&o素材'
+HARDENED_METAL_LIQUID:
+  description:
+  - '&7硬化金属を溶かした状態のもの。'
+  name: '&f溶融硬化金属'
+  type:
+  - '&7&o素材'
+HARDY_TRAIT_PROP_HEAD_INGOT_CAST_SMITHIUM:
+  description:
+  - '&750%の確率で耐久値減少を無視します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f頑丈'
+  type:
+  - '&7&oコンポーネント'
+HARDY_TRAIT_PROP_PLATES_STEEL_INGOT:
+  description:
+  - '&7爆発ダメージが25%減少する'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f頑丈'
+  type:
+  - '&7&oコンポーネント'
+HEAT_CONDUCTOR_TRAIT_PROP_LINKS_BILLON_INGOT:
+  description:
+  - '&7マグマブロックによるダメージを受けなくなる'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f熱伝導体'
+  type:
+  - '&7&oコンポーネント'
+HEAT_RESISTANCE_TRAIT_PROP_PLATES_INGOT_CAST_SMITHIUM:
+  description:
+  - '&725%の確率で炎/熱ダメージを無視します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f耐熱性'
+  type:
+  - '&7&oコンポーネント'
+HEAT_RESISTANT_TRAIT_PROP_HEAD_MAG_THOR:
+  description:
+  - '&7炎と溶岩に対して無敵になる。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f耐熱'
+  type:
+  - '&7&o部品'
+HEAT_RESISTANT_TRAIT_PROP_LINKS_TITANIUM:
+  description:
+  - '&7炎と溶岩に無敵になります。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&f耐熱'
+  type:
+  - '&7&oコンポーネント'
+HEAVY_DUTY_TRAIT_PROP_ROD_ADVANCED_ALLOY:
+  description:
+  - '&7耐久値が低くなると、インベントリの鉄'
+  - '&7インゴットを1個消費して一部回復する。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&fヘビーデューティー'
+  type:
+  - '&7&o部品'
+HEAVY_TRAIT_PROP_ROD_HARDENED_METAL_INGOT:
+  description:
+  - '&73x3の範囲を採掘する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f重い'
+  type:
+  - '&7&oコンポーネント'
+HIDDEN_TRAIT_PROP_HEAD_SOLDER_INGOT:
+  description:
+  - '&7透明化を付与するが、即座に破損する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f隠れた'
+  type:
+  - '&7&oコンポーネント'
+HOW_FORTUNATE_TRAIT_PROP_PLATES_FORTUNE_SINGULARITY:
+  description:
+  - '&7被弾時、0.5%の確率で贈り物を得る。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&fなんて幸運な'
+  type:
+  - '&7&o部品'
+HYBERBOLIC_TESSERATION_TRAIT_PROP_LINKS_DYNATECH_TESSERACTING_OBJECT:
+  description:
+  - '&7自分の家にいる間、エネルギーを蓄える。'
+  - '&7受けたダメージはこのエネルギープールから'
+  - '&7差し引かれる。機能には8個必要で、'
+  - '&71個につき上限は50。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&fハイパーボリック・テッセレーション'
+  type:
+  - '&7&o部品'
+HYBERBOLIC_TESSERATION_TRAIT_PROP_PLATES_DYNATECH_TESSERACTING_OBJECT:
+  description:
+  - '&7自分の家にいる間、エネルギーを蓄える。'
+  - '&7受けたダメージはこのエネルギープールから'
+  - '&7差し引かれる。機能には8個必要で、'
+  - '&71個につき上限は50。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&fハイパーボリック・テッセレーション'
+  type:
+  - '&7&o部品'
+HYDROGEN_TRAIT_PROP_HEAD_FERROSILICON:
+  description:
+  - '&7危険から浮かんで逃れます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f水素'
+  type:
+  - '&7&oコンポーネント'
+HYPERCUBE_[A]_TRAIT_PROP_HEAD_DYNATECH_TESSERACTING_OBJECT:
+  description:
+  - '&7[A]と[B]の両方がないと機能しない。シフト+右'
+  - '&7クリックで位置を記憶。右クリックでその位置'
+  - '&7へ帰還する。（CD: 10分）'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&fハイパーキューブ [A]'
+  type:
+  - '&7&o部品'
+HYPERCUBE_[B]_TRAIT_PROP_ROD_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7[A]と[B]の両方がないと機能しない。シフト+右'
+  - '&7クリックで位置を記憶。右クリックでその位置'
+  - '&7へ帰還する。（CD: 10分）'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&fハイパーキューブ [B]'
+  type:
+  - '&7&o部品'
+INCORPOREAL_TRAIT_PROP_BINDING_DYNATECH_GHOSTLY_ESSENCE:
+  description:
+  - '&7飛び道具がそのまま体を通り抜ける。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&f非物質'
+  type:
+  - '&7&o部品'
+INDOMITABLE_TRAIT_PROP_PLATES_IRIDIUM:
+  description:
+  - '&7受けるダメージの10%を無効化し反射する。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f不屈'
+  type:
+  - '&7&o部品'
+INDUSTRIOUS_TRAIT_PROP_ROD_INGOT_CAST_SMITHIUM:
+  description:
+  - '&7シフト+右クリックでヘイストバーストを30秒間発動。'
+  - '&7発動中は、ブロックを破壊するたびに'
+  - '&7[50 ÷ 採掘速度上昇レベル]%の確率で採掘速度上昇を1スタック付与。'
+  - '&7採掘速度上昇10で上限。クールダウンは5分。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f勤勉'
+  type:
+  - '&7&oコンポーネント'
+INFINITE_CAPACITY_TRAIT_PROP_PLATES_INFINITE_INGOT:
+  description:
+  - '&7ダメージを受けるたびに10%を最大ハート5個'
+  - '&7分まで蓄積する。右クリックで蓄積した'
+  - '&7ダメージを近くのエンティティに放出する'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f無限容量'
+  type:
+  - '&7&o部品'
+INFINITE_DEFENCE_TRAIT_PROP_LINKS_INFINITY_SINGULARITY:
+  description:
+  - '&74つ装備していると、受けるダメージが'
+  - '&7すべて1になる。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f無限防御'
+  type:
+  - '&7&o部品'
+INFINITE_LIQUID:
+  description:
+  - '&7インフィニットの溶融体。'
+  name: '&f溶融インフィニット'
+  type:
+  - '&7&o素材'
+INFINITE_TRAIT_PROP_HEAD_INFINITE_INGOT:
+  description:
+  - '&7この道具は永遠に壊れない。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&fインフィニット'
+  type:
+  - '&7&o部品'
+INFINITLY_POWERFUL_TRAIT_PROP_PLATES_INFINITY_SINGULARITY:
+  description:
+  - '&7軽減前のダメージがX溜まるたびに、'
+  - '&7新しくランダムなエンチャントを1つ解放する。'
+  - '&7上限はないが、'
+  - '&7必要ダメージは解放するたびに増加する。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f無限の力'
+  type:
+  - '&7&o部品'
+INFINITY_SINGULARITY_LIQUID:
+  description:
+  - '&7インフィニティ・シンギュラリティの溶融体。'
+  name: '&f溶融インフィニティ・シンギュラリティ'
+  type:
+  - '&7&o素材'
+INGHEIGHTS_TRAIT_PROP_ROD_BRONZE_INGOT:
+  description:
+  - '&7この道具は何かがおかしい。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fインハイツ'
+  type:
+  - '&7&oコンポーネント'
+INGOT_CAST_ANNIVERSARIUM:
+  description:
+  - '&7(Slime)fun 10周年!'
+  name: '&fアニバーサリウムインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_BOOMERITE:
+  description:
+  - '&7非常に希少なインゴット。起源は不明。'
+  name: '&fブーメライトインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_CRINGLEIUM:
+  description:
+  - '&7短期間だけ手に入る、季節限定のインゴット。'
+  name: '&fクリングレイウムインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_DAXI_ABSORPTION:
+  description:
+  - '&7決意を放つダクシのインゴット。'
+  name: '&fダクシの吸収インゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_DAXI_FORTITUDE:
+  description:
+  - '&7反抗心を放つダクシのインゴット。'
+  name: '&fダクシの不屈インゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_DAXI_REGENERATION:
+  description:
+  - '&7優しさを放つダクシのインゴット。'
+  name: '&fダクシの再生インゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_DAXI_SATURATION:
+  description:
+  - '&7温かさを放つダクシのインゴット。'
+  name: '&fダクシの満腹インゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_DAXI_STRENGTH:
+  description:
+  - '&7力強さを放つダクシのインゴット。'
+  name: '&fダクシの力インゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_DEVOTION:
+  description:
+  - '&7献身という概念から'
+  - '&7作られたインゴット。'
+  name: '&f献身のインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_FONDNESS:
+  description:
+  - '&7好意という概念から'
+  - '&7作られたインゴット。'
+  name: '&f好意のインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_LOVE:
+  description:
+  - '&7純粋で混じりけのない愛だけを'
+  - '&7放つインゴット。'
+  name: '&f愛のインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_NICE:
+  description:
+  - '&7ナイス。'
+  name: '&fナイスインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_PASSION:
+  description:
+  - '&7情熱という概念から'
+  - '&7作られたインゴット。'
+  name: '&f情熱のインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7比類なき怒りに満ちた'
+  - '&7インゴット。'
+  name: '&f強化ドラコニウムインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_SEFIRITE:
+  description:
+  - '&7短期間だけ手に入るインゴット。'
+  name: '&fセフィライトインゴット'
+  type:
+  - '&7&o資源'
+INGOT_CAST_SMITHIUM:
+  description:
+  - '&7素直な金属で、基幹産業の'
+  - '&7様々な用途に使われる。'
+  name: '&fスミシウムインゴット'
+  type:
+  - '&7&o資源'
+INSULATED_TRAIT_PROP_BINDING_RUBBER:
+  description:
+  - '&7雷への耐性を得る。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f絶縁'
+  type:
+  - '&7&o部品'
+INTERDIMENSIONAL_PRESENCE_LIQUID:
+  description:
+  - '&7インターディメンショナル・プレゼンスの溶融体。'
+  name: '&f溶融インターディメンショナル・プレゼンス'
+  type:
+  - '&7&o素材'
+IRIDIUM_LIQUID:
+  description:
+  - '&7イリジウムの溶融体。'
+  name: '&f溶融イリジウム'
+  type:
+  - '&7&o素材'
+IRON_LIQUID:
+  description:
+  - '&7鉄を溶かした状態のもの。'
+  name: '&f溶融鉄'
+  type:
+  - '&7&o素材'
+IRON_SINGULARITY_LIQUID:
+  description:
+  - '&7鉄シンギュラリティの溶融形態。'
+  name: '&f溶融の鉄シンギュラリティ'
+  type:
+  - '&7&o素材'
+IT'S_ALL_YOU_NEED_TRAIT_PROP_LINKS_INGOT_CAST_LOVE:
+  description:
+  - '&7あなたは愛されている'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fそれだけでいい'
+  type:
+  - '&7&oコンポーネント'
+IT'S_ONLY_NATURAL_TRAIT_PROP_LINKS_EARTH_SINGULARITY:
+  description:
+  - '&7右クリックで近くの動物2匹に餌を与える（CD: 2分）'
+  - '&7成功の有無にかかわらずクールダウンが発生する。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&fこれも自然の摂理'
+  type:
+  - '&7&o部品'
+KINGSMAN_TRAIT_PROP_PLATES_REFINED_IRON:
+  description:
+  - '&7右クリックで、色とりどりの破壊の'
+  - '&7行進を召喚する。'
+  - '&7礼儀を持たない者には何も起こらない。'
+  - '&7Kingsmanを4つ装備する必要がある。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&fキングスマン'
+  type:
+  - '&7&o部品'
+KOTR_TRAIT_PROP_PLATES_METAL_SINGULARITY:
+  description:
+  - '&7被弾時、確率で円卓の騎士を'
+  - '&7召喚する（実はゴーレムだ ;)）'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&fKOTR'
+  type:
+  - '&7&o部品'
+LADDER_SIMULATOR™_TRAIT_PROP_HEAD_INGOT_CAST_BOOMERITE:
+  description:
+  - '&7右クリックではしごを設置します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fはしごシミュレーター™'
+  type:
+  - '&7&oコンポーネント'
+LAVA_WALKER_TRAIT_PROP_PLATES_EARTH_SINGULARITY:
+  description:
+  - '&7足元の溶岩がマグマブロックに変わる。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f溶岩の上を歩く者'
+  type:
+  - '&7&o部品'
+LEAD_LIQUID:
+  description:
+  - '&7鉛を溶かした状態のもの。'
+  name: '&f溶融鉛'
+  type:
+  - '&7&o素材'
+LEAD_SINGULARITY_LIQUID:
+  description:
+  - '&7鉛シンギュラリティの溶融形態。'
+  name: '&f溶融の鉛シンギュラリティ'
+  type:
+  - '&7&o素材'
+LEECH_II_TRAIT_PROP_ROD_LEAD_SINGULARITY:
+  description:
+  - '&7体力ボーナスを得ますが、満腹度を消耗します。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fリーチ II'
+  type:
+  - '&7&oコンポーネント'
+LEECH_TRAIT_PROP_ROD_LEAD_DUST:
+  description:
+  - '&7体力が増えるが、満腹度を消耗する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fヒル'
+  type:
+  - '&7&oコンポーネント'
+LIGHTNING_ROD_TRAIT_PROP_ROD_REDSTONE_ALLOY:
+  description:
+  - '&7命中したモブに確率で雷を落とします。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f避雷針'
+  type:
+  - '&7&oコンポーネント'
+LIGHTWEIGHT_TRAIT_PROP_ROD_STEEL_INGOT:
+  description:
+  - '&7道具経験値 +50%。速度 +1'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f軽量'
+  type:
+  - '&7&oコンポーネント'
+LIGHT_II_TRAIT_PROP_PLATES_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7与ダメージ-50%。スピード+2'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fライト II'
+  type:
+  - '&7&oコンポーネント'
+LIGHT_TRAIT_PROP_PLATES_MAGNESIUM_DUST:
+  description:
+  - '&7与ダメージ -25%。速度 +1'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f軽い'
+  type:
+  - '&7&oコンポーネント'
+LIQUID_CHRISTMAS_LIQUID:
+  description:
+  - '&7リキッドクリスマスの溶融形態。'
+  name: '&f溶融のリキッドクリスマス'
+  type:
+  - '&7&o素材'
+LIQUID_LOVE_ALLOY:
+  description:
+  - '&7リキッドラブの溶融合金。'
+  name: '&f溶融のリキッドラブ'
+  type:
+  - '&7&o素材'
+LIQUID_LOVE_LIQUID:
+  description:
+  - '&7リキッドラブの溶融形態。'
+  name: '&f溶融のリキッドラブ'
+  type:
+  - '&7&o素材'
+MAGICAL_MINT_TRAIT_PROP_LINKS_MAGIC_SINGULARITY:
+  description:
+  - '&7それでも不快ではあるが、ドラゴンの'
+  - '&7ブレスでダメージを受けなくなる。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f魔法のミント'
+  type:
+  - '&7&o部品'
+MAGIC_SINGULARITY_LIQUID:
+  description:
+  - '&7マジック・シンギュラリティの溶融体。'
+  name: '&f溶融マジック・シンギュラリティ'
+  type:
+  - '&7&o素材'
+MAGNANIMOUS_TRAIT_PROP_HEAD_MAGNONIUM:
+  description:
+  - '&7あなたはただただ優しすぎる'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f寛大'
+  type:
+  - '&7&o部品'
+MAGNESIGHT™_II_TRAIT_PROP_LINKS_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7暗視を得て、全てのモブを強調表示します'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fマグネサイト™ II'
+  type:
+  - '&7&oコンポーネント'
+MAGNESIGHT™_TRAIT_PROP_LINKS_MAGNESIUM_DUST:
+  description:
+  - '&7暗視効果を得る。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fマグネサイト™'
+  type:
+  - '&7&oコンポーネント'
+MAGNESIUM_LIQUID:
+  description:
+  - '&7マグネシウムを溶かした状態のもの。'
+  name: '&f溶融マグネシウム'
+  type:
+  - '&7&o素材'
+MAGNESIUM_SINGULARITY_LIQUID:
+  description:
+  - '&7マグネシウムシンギュラリティの溶融形態。'
+  name: '&f溶融のマグネシウムシンギュラリティ'
+  type:
+  - '&7&o素材'
+MAGNETESIUM_II_TRAIT_PROP_ROD_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7ランダムなアイテムが範囲内から'
+  - '&710ブロック以内、引き寄せられます'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fマグネテシウム II'
+  type:
+  - '&7&oコンポーネント'
+MAGNETESIUM_TRAIT_PROP_ROD_MAGNESIUM_DUST:
+  description:
+  - '&7周囲5ブロック以内にある'
+  - '&7アイテムがランダムに引き寄せられる'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fマグネテシウム'
+  type:
+  - '&7&oコンポーネント'
+MAGNETIC_+_TRAIT_PROP_LINKS_COBALT_INGOT:
+  description:
+  - '&7磁力1スタックとプラス極性1スタックを得る。'
+  - '&7磁力は周囲のアイテムをすべて引き寄せる。'
+  - '&7範囲 = 磁力レベル - (∆ プラス極性/マイナス極性)'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f磁性+'
+  type:
+  - '&7&oコンポーネント'
+MAGNETIC_+_TRAIT_PROP_PLATES_COBALT_INGOT:
+  description:
+  - '&7磁力1スタックとマイナス極性1スタックを得る。'
+  - '&7磁力は周囲のアイテムをすべて引き寄せる。'
+  - '&7範囲 = 磁力レベル - (∆ プラス極性/マイナス極性)'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f磁性+'
+  type:
+  - '&7&oコンポーネント'
+MAGNETIC_-_TRAIT_PROP_LINKS_NICKEL_INGOT:
+  description:
+  - '&7磁力1スタックとマイナス極性1スタックを得る。'
+  - '&7磁力は周囲のアイテムをすべて引き寄せる。'
+  - '&7範囲 = 磁力レベル - (∆ プラス極性/マイナス極性)'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f磁性-'
+  type:
+  - '&7&oコンポーネント'
+MAGNETIC_-_TRAIT_PROP_PLATES_NICKEL_INGOT:
+  description:
+  - '&7磁力1スタックとマイナス極性1スタックを得る。'
+  - '&7磁力は周囲のアイテムをすべて引き寄せる。'
+  - '&7範囲 = 磁力レベル - (∆ プラス極性/マイナス極性)'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f磁性-'
+  type:
+  - '&7&oコンポーネント'
+MAGNONIUM_LIQUID:
+  description:
+  - '&7マグノニウムの溶融体。'
+  name: '&f溶融マグノニウム'
+  type:
+  - '&7&o素材'
+MAGSTEEL_ALLOY:
+  description:
+  - '&7マグスチールの溶融合金。'
+  name: '&f溶融のマグスチール'
+  type:
+  - '&7&o素材'
+MAGSTEEL_LIQUID:
+  description:
+  - '&7マグスチールの溶融形態。'
+  name: '&f溶融のマグスチール'
+  type:
+  - '&7&o素材'
+MAGUS_TRAIT_PROP_PLATES_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7魔法ダメージ -50%'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fマグス'
+  type:
+  - '&7&oコンポーネント'
+MAG_THOR_ALLOY:
+  description:
+  - '&7マグソーの溶融合金。'
+  name: '&f溶融マグソー'
+  type:
+  - '&7&o素材'
+MAG_THOR_LIQUID:
+  description:
+  - '&7マグソーの溶融体。'
+  name: '&f溶融マグソー'
+  type:
+  - '&7&o素材'
+MALLEABLE_II_TRAIT_PROP_HEAD_TIN_SINGULARITY:
+  description:
+  - '&7与ダメージ50%減少の代わりに、'
+  - '&7大量の運とスピードを得ます。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fマリアブル II'
+  type:
+  - '&7&oコンポーネント'
+MALLEABLE_TRAIT_PROP_HEAD_TIN_DUST:
+  description:
+  - '&7与ダメージが50%減るが、幸運を得る。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f可鍛性'
+  type:
+  - '&7&oコンポーネント'
+MANNERS_MAKETH_MAN_TRAIT_PROP_ROD_REFINED_IRON:
+  description:
+  - '&7速度上昇1、ダメージ+50%。戦う姿が'
+  - '&7とてもクールに見える。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f礼儀が人を作る'
+  type:
+  - '&7&o部品'
+MERCHANT'S_VEIL_TRAIT_PROP_ROD_FORTUNE_SINGULARITY:
+  description:
+  - '&7欠点なしの透明化！'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f商人のヴェール'
+  type:
+  - '&7&o部品'
+METAL_SINGULARITY_LIQUID:
+  description:
+  - '&7メタル・シンギュラリティの溶融体。'
+  name: '&f溶融メタル・シンギュラリティ'
+  type:
+  - '&7&o素材'
+MIXED_METALS_TRAIT_PROP_HEAD_MIXED_METAL_INGOT:
+  description:
+  - '&7材料全ての効果を持つが、'
+  - '&7その効力は半減している。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f混合金属'
+  type:
+  - '&7&o部品'
+MIXED_METAL_ALLOY:
+  description:
+  - '&7ミックスメタルの溶融合金。'
+  name: '&f溶融ミックスメタル'
+  type:
+  - '&7&o素材'
+MIXED_METAL_LIQUID:
+  description:
+  - '&7ミックスメタルの溶融体。'
+  name: '&f溶融ミックスメタル'
+  type:
+  - '&7&o素材'
+MIX_IT_UP!_TRAIT_PROP_LINKS_MIXED_METAL_INGOT:
+  description:
+  - '&7被弾時に物事を少しかき混ぜる'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&fかき混ぜろ！'
+  type:
+  - '&7&o部品'
+MOD_DIAMOND_ENTRY:
+  description:
+  - '&7道具に付与すると、所有者が'
+  - '&7受けたダメージを攻撃者に反射する'
+  - '&7確率を得る。レベルごとに10%'
+  name: '&f改造: ダイヤモンド'
+  type:
+  - '&7&o部品'
+MOD_EMERALD_ENTRY:
+  description:
+  - '&7道具に付与すると、所有者は'
+  - '&7行動ごとに追加の道具経験値を得る。'
+  - '&7道具は+1経験値、武器は'
+  - '&710%増加。'
+  name: '&f改造: エメラルド'
+  type:
+  - '&7&o部品'
+MOD_LAPIS_ENTRY:
+  description:
+  - '&7道具に付与すると、所有者は'
+  - '&7ブロックや撃破から追加アイテムを'
+  - '&7得る。幸運や略奪の後に計算される。'
+  - '&7レベルごとに10%。'
+  name: '&f改造: ラピス'
+  type:
+  - '&7&o部品'
+MOD_PLATE:
+  description:
+  - '&7道具用の改造で、ダメージを'
+  - '&7無視する確率を与える。'
+  name: '&f強化プレート'
+  type:
+  - '&7&o部品'
+MOD_PLATE_ENTRY:
+  description:
+  - '&7この改造を持つ道具は、耐久値'
+  - '&7ダメージを受けない確率を得る。'
+  - '&7レベルごとに10%、レベル10で道具は壊れなくなる'
+  name: '&f改造: 強化プレート'
+  type:
+  - '&7&o部品'
+MOD_QUARTZ_ENTRY:
+  description:
+  - '&7道具に付与すると、所有者は'
+  - '&7追加ダメージを与える。ソーパネスや'
+  - '&7他のダメージ増加エンチャントの後に'
+  - '&7計算される。レベルごとに20%'
+  name: '&f改造: クォーツ'
+  type:
+  - '&7&o部品'
+MOD_REDSTONE_ENTRY:
+  description:
+  - '&7道具に付与すると、所有者は'
+  - '&7改造のレベルに応じた採掘速度上昇を'
+  - '&7得る。'
+  name: '&f改造: レッドストーン'
+  type:
+  - '&7&o部品'
+MYSTIC_TRAIT_PROP_HEAD_ADAMANTITE:
+  description:
+  - '&7プレイヤー経験値+100%（採掘）+50%（モブ）'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f神秘'
+  type:
+  - '&7&o部品'
+MYTHRIL_LIQUID:
+  description:
+  - '&7ミスリルの溶融形態。'
+  name: '&f溶融のミスリル'
+  type:
+  - '&7&o素材'
+NARROWING_TRAIT_PROP_LINKS_REFINED_IRON:
+  description:
+  - '&7攻撃者を盲目にする。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f狭窄'
+  type:
+  - '&7&o部品'
+NICEINIUM_ALLOY:
+  description:
+  - '&7ナイセニウムの溶融合金。'
+  name: '&f溶融のナイセニウム'
+  type:
+  - '&7&o素材'
+NICEINIUM_LIQUID:
+  description:
+  - '&7ナイセニウムの溶融形態。'
+  name: '&f溶融のナイセニウム'
+  type:
+  - '&7&o素材'
+NICE_TRAIT_PROP_HEAD_INGOT_CAST_NICE:
+  description:
+  - '&7ナイス'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fナイス'
+  type:
+  - '&7&oコンポーネント'
+NICKEL_ALLOY:
+  description:
+  - '&7ニッケルの溶融合金金属。'
+  name: '&f溶融ニッケル'
+  type:
+  - '&7&o素材'
+NICKEL_LIQUID:
+  description:
+  - '&7ニッケルを溶かした状態のもの。'
+  name: '&f溶融ニッケル'
+  type:
+  - '&7&o素材'
+NIGHTSTALKER_TRAIT_PROP_ROD_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7暗視効果を付与する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f夜の徘徊者'
+  type:
+  - '&7&oコンポーネント'
+NIMBLE_TRAIT_PROP_BINDING_RAW_CARBON_MESH:
+  description:
+  - '&7速度上昇1。受けるダメージ-33%'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f機敏'
+  type:
+  - '&7&o部品'
+NOCLIP_TRAIT_PROP_BINDING_DYNATECH_VEX_GEM:
+  description:
+  - '&7所持中に右クリックでランダムにテレポートする。'
+  - '&7クールダウンは5分。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&fノークリップ'
+  type:
+  - '&7&o部品'
+NON-CORROSIVE_II_TRAIT_PROP_PLATES_TIN_SINGULARITY:
+  description:
+  - '&7毒が回復に変わり、満腹度減少と弱体化を無効化します。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fノンコロージブ II'
+  type:
+  - '&7&oコンポーネント'
+NON-CORROSIVE_TRAIT_PROP_PLATES_TIN_DUST:
+  description:
+  - '&7毒に耐性を持つ'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f非腐食性'
+  type:
+  - '&7&oコンポーネント'
+NUGGET_CAST_ADAMANTITE:
+  description:
+  - '&7純粋なアダマンタイトから作られたナゲット。'
+  name: '&fアダマンタイトナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_ADVANCED_ALLOY:
+  description:
+  - '&7上級合金のナゲット。'
+  name: '&f上級合金ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_ALUMINUM:
+  description:
+  - '&7純粋なアルミニウムから作られたナゲット。'
+  name: '&fアルミニウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_ALU_BRASS:
+  description:
+  - '&7アルミニウム真鍮から作られたナゲット。'
+  name: '&fアルミニウム真鍮ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_ALU_BRONZE:
+  description:
+  - '&7アルミニウム青銅から作られたナゲット。'
+  name: '&fアルミニウム青銅ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_ANNIVERSARIUM:
+  description:
+  - '&7(Slime)fun 10周年!'
+  name: '&fアニバーサリウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_BILLON:
+  description:
+  - '&7ビロンから作られたナゲット。'
+  name: '&fビロンナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_BOOMERITE:
+  description:
+  - '&7ブーメライトから作られたナゲット。'
+  name: '&fブーメライトナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_BRASS:
+  description:
+  - '&7真鍮から作られたナゲット。'
+  name: '&f真鍮ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_BRONZE:
+  description:
+  - '&7青銅から作られたナゲット。'
+  name: '&f青銅ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_COAL:
+  description:
+  - '&7液化した石炭から作られたナゲット。'
+  name: '&f石炭ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_COBALT:
+  description:
+  - '&7コバルトから作られたナゲット。'
+  name: '&fコバルトナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_COPPER:
+  description:
+  - '&7純粋な銅から作られたナゲット。'
+  name: '&f銅ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_COR_BRONZE:
+  description:
+  - '&7コリントス青銅から作られたナゲット。'
+  name: '&fコリントス青銅ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_CRINGLEIUM:
+  description:
+  - '&7クリングレイウムから作られたナゲット。'
+  name: '&fクリングレイウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_DAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼から作られたナゲット。'
+  name: '&fダマスカス鋼ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_DAXI_ABSORPTION:
+  description:
+  - '&7決意を放つダクシのナゲット。'
+  name: '&fダクシの吸収ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_DAXI_FORTITUDE:
+  description:
+  - '&7反抗心を放つダクシのナゲット。'
+  name: '&fダクシの不屈ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_DAXI_REGENERATION:
+  description:
+  - '&7優しさを放つダクシのナゲット。'
+  name: '&fダクシの再生ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_DAXI_SATURATION:
+  description:
+  - '&7温かさを放つダクシのナゲット。'
+  name: '&fダクシの満腹ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_DAXI_STRENGTH:
+  description:
+  - '&7力強さを放つダクシのナゲット。'
+  name: '&fダクシの力ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_DEVOTION:
+  description:
+  - '&7献身という概念から'
+  - '&7作られたナゲット。'
+  name: '&f献身のナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_DURALIUM:
+  description:
+  - '&7デュラリウムから作られたナゲット。'
+  name: '&fデュラリウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_FERROSILICON:
+  description:
+  - '&7フェロシリコンから作られたナゲット。'
+  name: '&fフェロシリコンナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_FONDNESS:
+  description:
+  - '&7好意という概念から'
+  - '&7作られたナゲット。'
+  name: '&f好意のナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_HARD_METAL:
+  description:
+  - '&7強化金属から作られたナゲット。'
+  name: '&f強化金属ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_INFINITY:
+  description:
+  - '&7純粋な無限から作られたナゲット、そう本当に無限だ!'
+  name: '&f無限ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_IRIDIUM:
+  description:
+  - '&7イリジウムのナゲット。'
+  name: '&fイリジウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_LEAD:
+  description:
+  - '&7純粋な鉛から作られたナゲット。'
+  name: '&f鉛ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_LOVE:
+  description:
+  - '&7純粋で混じりけのない愛だけを'
+  - '&7放つナゲット。'
+  name: '&f愛のナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_MAGNESIUM:
+  description:
+  - '&7純粋なマグネシウムから作られたナゲット。'
+  name: '&fマグネシウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_MAGNONIUM:
+  description:
+  - '&7純粋なマグノニウムから作られたナゲット。'
+  name: '&fマグノニウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_MAGSTEEL:
+  description:
+  - '&7純粋なマグスチールから作られたナゲット。'
+  name: '&fマグスチールナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_MAG_THOR:
+  description:
+  - '&7マグソーのナゲット。'
+  name: '&fマグソーナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_MIXED_METAL:
+  description:
+  - '&7混合金属のナゲット。'
+  name: '&f混合金属ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_MYTHRIL:
+  description:
+  - '&7純粋なミスリルから作られたナゲット。'
+  name: '&fミスリルナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_NICE:
+  description:
+  - '&7ナイス。'
+  name: '&fナイスナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_NICKEL:
+  description:
+  - '&7ニッケルから作られたナゲット。'
+  name: '&fニッケルナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_OSMIUM:
+  description:
+  - '&7オスミウムのナゲット。'
+  name: '&fオスミウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_OSMIUM_SUPER_ALLOY:
+  description:
+  - '&7オスミウム超合金のナゲット。'
+  name: '&fオスミウム超合金ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_PASSION:
+  description:
+  - '&7情熱という概念から'
+  - '&7作られたナゲット。'
+  name: '&f情熱のナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_REDSTONE_ALLOY:
+  description:
+  - '&7レッドストーン合金から作られたナゲット。'
+  name: '&fレッドストーン合金ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_REFINED_IRON:
+  description:
+  - '&7精錬鉄のナゲット。'
+  name: '&f精錬鉄ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_REINFORCED:
+  description:
+  - '&7レインフォースドアロイから作られたナゲット。'
+  name: '&fレインフォースドアロイナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_REINFORCED_DRACONIUM:
+  description:
+  - '&7比類なき怒りに満ちた'
+  - '&7ナゲット。'
+  name: '&f強化ドラコニウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_REINFORCED_SLIMESTEEL:
+  description:
+  - '&7強化スライム鋼のナゲット。'
+  name: '&f強化スライム鋼ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_SCRAP:
+  description:
+  - '&7スクラップのナゲット。'
+  name: '&fスクラップナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_SEFIRITE:
+  description:
+  - '&7セフィライトから作られたナゲット。'
+  name: '&fセフィライトナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_SILVER:
+  description:
+  - '&7純粋な銀から作られたナゲット。'
+  name: '&f銀ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_SLIMESTEEL:
+  description:
+  - '&7スライム鋼のナゲット。'
+  name: '&fスライム鋼ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_SMITHIUM:
+  description:
+  - '&7素直な金属で、基幹産業の'
+  - '&7様々な用途に使われる。'
+  name: '&fスミシウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_SOLDER:
+  description:
+  - '&7はんだから作られたナゲット。'
+  name: '&fはんだナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_STAINLESSSTEEL:
+  description:
+  - '&7ステンレス鋼のナゲット。'
+  name: '&fステンレス鋼ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_STEEL:
+  description:
+  - '&7純粋な鋼から作られたナゲット。'
+  name: '&f鋼ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_TIN:
+  description:
+  - '&7純粋な錫から作られたナゲット。'
+  name: '&f錫ナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_TITANIUM:
+  description:
+  - '&7純粋なチタンから作られたナゲット。'
+  name: '&fチタンナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_UNPATENTABILUM:
+  description:
+  - '&7アンパテンタブリウムのナゲット。'
+  name: '&fアンパテンタブリウムナゲット'
+  type:
+  - '&7&o資源'
+NUGGET_CAST_ZINC:
+  description:
+  - '&7純粋な亜鉛から作られたナゲット。'
+  name: '&f亜鉛ナゲット'
+  type:
+  - '&7&o資源'
+OROBORUS_TRAIT_PROP_LINKS_INFINITE_INGOT:
+  description:
+  - '&720%の確率で受けたダメージを反射する。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&fウロボロス'
+  type:
+  - '&7&o部品'
+OXYGENATED_TRAIT_PROP_LINKS_MAGNONIUM:
+  description:
+  - '&7所持中は水中呼吸を得る。'
+  - ''
+  - '&7追加: Core SlimeTinker'
+  name: '&f酸素供給'
+  type:
+  - '&7&o部品'
+OXYGENATED_TRAIT_PROP_ROD_BRASS_INGOT:
+  description:
+  - '&7所持している間、水中呼吸を付与する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f酸素供給'
+  type:
+  - '&7&oコンポーネント'
+PART_AXE_HEAD:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&f斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_AXE_HEAD_DUMMY:
+  description:
+  - '&7鋳造された斧の刃。'
+  name: '&fパーツ: 斧の刃'
+  type:
+  - '&7&o部品'
+PART_BINDING_CARBON_MESH:
+  description:
+  - '&7カーボンメッシュ製のバインダー。'
+  name: '&fカーボンメッシュバインダー'
+  type:
+  - '&7&o部品'
+PART_BINDING_CRIMSON_ROOT:
+  description:
+  - '&7真紅の根で作られたバインダー。'
+  name: '&f真紅の根バインダー'
+  type:
+  - '&7&oコンポーネント'
+PART_BINDING_DUMMY:
+  description:
+  - '&7部位同士を結合するバインダー。'
+  name: '&fパーツ: バインダー'
+  type:
+  - '&7&o部品'
+PART_BINDING_GENERAL_DISPLAY:
+  description:
+  - '&7バインダーを作るのに適した素材。'
+  - '&7糸だけとは限らないので、似た'
+  - '&7素材も試してみよう。'
+  name: '&fバインダー素材'
+  type:
+  - '&7&o部品'
+PART_BINDING_GHOSTLY_ESSENCE:
+  description:
+  - '&7ゴーストリーエッセンス製のバインダー。'
+  name: '&fゴーストリーエッセンスバインダー'
+  type:
+  - '&7&o部品'
+PART_BINDING_LEATHER:
+  description:
+  - '&7革で作られたバインダー。'
+  name: '&f革バインダー'
+  type:
+  - '&7&oコンポーネント'
+PART_BINDING_RUBBER:
+  description:
+  - '&7ゴム製のバインダー。'
+  name: '&fゴムバインダー'
+  type:
+  - '&7&o部品'
+PART_BINDING_SILICON:
+  description:
+  - '&7シリコンで作られたバインダー。'
+  name: '&fシリコンバインダー'
+  type:
+  - '&7&oコンポーネント'
+PART_BINDING_SLIME:
+  description:
+  - '&7スライムで作られたバインダー。'
+  name: '&fスライムバインダー'
+  type:
+  - '&7&oコンポーネント'
+PART_BINDING_STRING:
+  description:
+  - '&7糸で作られたバインダー。'
+  name: '&f糸バインダー'
+  type:
+  - '&7&oコンポーネント'
+PART_BINDING_TWISTED_VINE:
+  description:
+  - '&7ねじれツタで作られたバインダー。'
+  name: '&fねじれツタバインダー'
+  type:
+  - '&7&oコンポーネント'
+PART_BINDING_VEX_GEM:
+  description:
+  - '&7ヴェックスジェム製のバインダー。'
+  name: '&fヴェックスジェムバインダー'
+  type:
+  - '&7&o部品'
+PART_BINDING_VINE:
+  description:
+  - '&7ツタで作られたバインダー。'
+  name: '&fツタバインダー'
+  type:
+  - '&7&oコンポーネント'
+PART_BINDING_WARPED_ROOT:
+  description:
+  - '&7歪んだ根で作られたバインダー。'
+  name: '&f歪んだ根バインダー'
+  type:
+  - '&7&oコンポーネント'
+PART_BINDING_WEEPING_VINE:
+  description:
+  - '&7しだれツタで作られたバインダー。'
+  name: '&fしだれツタバインダー'
+  type:
+  - '&7&oコンポーネント'
+PART_BOOTS_PLATES:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&fブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_BOOT_PLATE_DUMMY:
+  description:
+  - '&7鋳造されたブーツプレート一式。'
+  name: '&fパーツ: ブーツプレート'
+  type:
+  - '&7&o部品'
+PART_CHEST_PLATES:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&fチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_CHEST_PLATE_DUMMY:
+  description:
+  - '&7鋳造されたチェストプレート一式。'
+  name: '&fパーツ: チェストプレート'
+  type:
+  - '&7&o部品'
+PART_GAMBESON_CARBON_MESH:
+  description:
+  - '&7カーボンメッシュ製のガンベゾン。'
+  name: '&fカーボンメッシュガンベゾン'
+  type:
+  - '&7&o部品'
+PART_GAMBESON_CRIMSON_ROOT:
+  description:
+  - '&7真紅の根で作られたガンベゾン。'
+  name: '&f真紅の根ガンベゾン'
+  type:
+  - '&7&oコンポーネント'
+PART_GAMBESON_DUMMY:
+  description:
+  - '&7防具の下に着る布製の衣服。'
+  name: '&fパーツ: ガンベゾン'
+  type:
+  - '&7&o部品'
+PART_GAMBESON_GENERAL_DISPLAY:
+  description:
+  - '&7ガンベゾンを作るのに適した素材。'
+  - '&7糸だけとは限らないので、似た'
+  - '&7素材も試してみよう。'
+  name: '&fガンベゾン素材'
+  type:
+  - '&7&o部品'
+PART_GAMBESON_GHOSTLY_ESSENCE:
+  description:
+  - '&7ゴーストリーエッセンス製のガンベゾン。'
+  name: '&fゴーストリーエッセンスガンベゾン'
+  type:
+  - '&7&o部品'
+PART_GAMBESON_LEATHER:
+  description:
+  - '&7革で作られたガンベゾン。'
+  name: '&f革ガンベゾン'
+  type:
+  - '&7&oコンポーネント'
+PART_GAMBESON_RUBBER:
+  description:
+  - '&7ゴム製のガンベゾン。'
+  name: '&fゴムガンベゾン'
+  type:
+  - '&7&o部品'
+PART_GAMBESON_SILICON:
+  description:
+  - '&7シリコンで作られたガンベゾン。'
+  name: '&fシリコンガンベゾン'
+  type:
+  - '&7&oコンポーネント'
+PART_GAMBESON_SLIME:
+  description:
+  - '&7スライムで作られたガンベゾン。'
+  name: '&fスライムガンベゾン'
+  type:
+  - '&7&oコンポーネント'
+PART_GAMBESON_STRING:
+  description:
+  - '&7糸で作られたガンベゾン。'
+  name: '&f糸ガンベゾン'
+  type:
+  - '&7&oコンポーネント'
+PART_GAMBESON_TWISTED_VINE:
+  description:
+  - '&7ねじれツタで作られたガンベゾン。'
+  name: '&fねじれツタガンベゾン'
+  type:
+  - '&7&oコンポーネント'
+PART_GAMBESON_VEX_GEM:
+  description:
+  - '&7ヴェックスジェム製のガンベゾン。'
+  name: '&fヴェックスジェムガンベゾン'
+  type:
+  - '&7&o部品'
+PART_GAMBESON_VINE:
+  description:
+  - '&7ツタで作られたガンベゾン。'
+  name: '&fツタガンベゾン'
+  type:
+  - '&7&oコンポーネント'
+PART_GAMBESON_WARPED_ROOT:
+  description:
+  - '&7歪んだ根で作られたガンベゾン。'
+  name: '&f歪んだ根ガンベゾン'
+  type:
+  - '&7&oコンポーネント'
+PART_GAMBESON_WEEPING_VINE:
+  description:
+  - '&7しだれツタで作られたガンベゾン。'
+  name: '&fしだれツタガンベゾン'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEADAMANTITE:
+  description:
+  - '&7アダマンタイト製のヘッド。'
+  name: '&fアダマンタイト斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のヘッド。'
+  name: '&fアドバンスドアロイ斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEALUMINUM:
+  description:
+  - '&7アルミニウム製の道具ヘッド。'
+  name: '&fアルミニウムの斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の道具ヘッド。'
+  name: '&fアルミニウム真鍮の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の道具ヘッド。'
+  name: '&fアルミニウム青銅の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたツールヘッド。'
+  name: '&fアルミニウムシンギュラリティ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEBILLON:
+  description:
+  - '&7ビロン製の道具ヘッド。'
+  name: '&fビロンの斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEBOOMERITE:
+  description:
+  - '&7ブーメライトで作られたツールヘッド。'
+  name: '&fブーメライト斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEBRASS:
+  description:
+  - '&7真鍮製の道具ヘッド。'
+  name: '&f真鍮の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEBRONZE:
+  description:
+  - '&7青銅製の道具ヘッド。'
+  name: '&f青銅の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXECOBALT:
+  description:
+  - '&7コバルト製の道具ヘッド。'
+  name: '&fコバルトの斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXECOPPER:
+  description:
+  - '&7銅製の道具ヘッド。'
+  name: '&f銅の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXECOPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたツールヘッド。'
+  name: '&f銅シンギュラリティ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXECORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の道具ヘッド。'
+  name: '&fコリンティアン青銅の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEDAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の道具ヘッド。'
+  name: '&fダマスカス鋼の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEDURALIUM:
+  description:
+  - '&7デュラリウム製の道具ヘッド。'
+  name: '&fデュラリウムの斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEEARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のヘッド。'
+  name: '&fアース・シンギュラリティ斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEFERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたツールヘッド。'
+  name: '&fフェロシリコン斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEFORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のヘッド。'
+  name: '&fフォーチュン・シンギュラリティ斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEGOLD:
+  description:
+  - '&7金製の道具ヘッド。'
+  name: '&f金の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEGOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたツールヘッド。'
+  name: '&f金シンギュラリティ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEHARDENED_METAL:
+  description:
+  - '&7硬化金属製の道具ヘッド。'
+  name: '&f硬化金属の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEINFINITE:
+  description:
+  - '&7インフィニット製のヘッド。'
+  name: '&fインフィニット斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEINFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のヘッド。'
+  name: '&fインフィニティ・シンギュラリティ斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEIRIDIUM:
+  description:
+  - '&7イリジウム製のヘッド。'
+  name: '&fイリジウム斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEIRON:
+  description:
+  - '&7鉄製の道具ヘッド。'
+  name: '&f鉄の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEIRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたツールヘッド。'
+  name: '&f鉄シンギュラリティ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXELEAD:
+  description:
+  - '&7鉛製の道具ヘッド。'
+  name: '&f鉛の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXELEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f鉛シンギュラリティ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEMAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のヘッド。'
+  name: '&fマジック・シンギュラリティ斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEMAGNESIUM:
+  description:
+  - '&7マグネシウム製の道具ヘッド。'
+  name: '&fマグネシウムの斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEMAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたツールヘッド。'
+  name: '&fマグネシウムシンギュラリティ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEMAGNONIUM:
+  description:
+  - '&7マグノニウム製のヘッド。'
+  name: '&fマグノニウム斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEMAGSTEEL:
+  description:
+  - '&7マグスチールで作られたツールヘッド。'
+  name: '&fマグスチール斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEMAG_THOR:
+  description:
+  - '&7マグソー製のヘッド。'
+  name: '&fマグソー斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEMETAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のヘッド。'
+  name: '&fメタル・シンギュラリティ斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEMIXED_METAL:
+  description:
+  - '&7ミックスメタル製のヘッド。'
+  name: '&fミックスメタル斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEMYTHRIL:
+  description:
+  - '&7ミスリル製のヘッド。'
+  name: '&fミスリル斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXENICEINIUM:
+  description:
+  - '&7ナイセニウムで作られたツールヘッド。'
+  name: '&fナイセニウム斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXENICKEL:
+  description:
+  - '&7ニッケル製の道具ヘッド。'
+  name: '&fニッケルの斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEREFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のヘッド。'
+  name: '&fリファインドアイアン斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXEREINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたツールヘッド。'
+  name: '&fリインフォースドアロイ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEREINFORCED_DRACONIUM:
+  description:
+  - '&7リインフォースド・ドラコニウム製のヘッド。'
+  name: '&fリインフォースド・ドラコニウム斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXESCRAP:
+  description:
+  - '&7スクラップ製のヘッド。'
+  name: '&fスクラップ斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXESILVER:
+  description:
+  - '&7銀製の道具ヘッド。'
+  name: '&f銀の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXESILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたツールヘッド。'
+  name: '&f銀シンギュラリティ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXESMITHIUM:
+  description:
+  - '&7スミシウムで作られたツールヘッド。'
+  name: '&fスミシウム斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXESOLDER:
+  description:
+  - '&7はんだ製の道具ヘッド。'
+  name: '&fはんだの斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXESTAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のヘッド。'
+  name: '&fステンレス鋼斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXESTAR_DUST:
+  description:
+  - '&7スターダスト製のヘッド。'
+  name: '&fスターダスト斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXESTEEL:
+  description:
+  - '&7鋼製の道具ヘッド。'
+  name: '&f鋼の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXETESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のヘッド。'
+  name: '&fテッセラクティング・マテリアル斧ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_AXETIN:
+  description:
+  - '&7錫製の道具ヘッド。'
+  name: '&f錫の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXETIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたツールヘッド。'
+  name: '&f錫シンギュラリティ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXETITANIUM:
+  description:
+  - '&7チタンで作られたツールヘッド。'
+  name: '&fチタン斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEVOID:
+  description:
+  - '&7ヴォイドで作られたツールヘッド。'
+  name: '&fヴォイド斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEZINC:
+  description:
+  - '&7亜鉛製の道具ヘッド。'
+  name: '&f亜鉛の斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_AXEZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f亜鉛シンギュラリティ斧ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEADAMANTITE:
+  description:
+  - '&7アダマンタイト製のヘッド。'
+  name: '&fアダマンタイトクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のヘッド。'
+  name: '&fアドバンスドアロイクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEALUMINUM:
+  description:
+  - '&7アルミニウム製の道具ヘッド。'
+  name: '&fアルミニウムのクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の道具ヘッド。'
+  name: '&fアルミニウム真鍮のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の道具ヘッド。'
+  name: '&fアルミニウム青銅のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたツールヘッド。'
+  name: '&fアルミニウムシンギュラリティクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEBILLON:
+  description:
+  - '&7ビロン製の道具ヘッド。'
+  name: '&fビロンのクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEBOOMERITE:
+  description:
+  - '&7ブーメライトで作られたツールヘッド。'
+  name: '&fブーメライトクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEBRASS:
+  description:
+  - '&7真鍮製の道具ヘッド。'
+  name: '&f真鍮のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEBRONZE:
+  description:
+  - '&7青銅製の道具ヘッド。'
+  name: '&f青銅のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOECOBALT:
+  description:
+  - '&7コバルト製の道具ヘッド。'
+  name: '&fコバルトのクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOECOPPER:
+  description:
+  - '&7銅製の道具ヘッド。'
+  name: '&f銅のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOECOPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたツールヘッド。'
+  name: '&f銅シンギュラリティクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOECORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の道具ヘッド。'
+  name: '&fコリンティアン青銅のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEDAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の道具ヘッド。'
+  name: '&fダマスカス鋼のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEDURALIUM:
+  description:
+  - '&7デュラリウム製の道具ヘッド。'
+  name: '&fデュラリウムのクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEEARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のヘッド。'
+  name: '&fアース・シンギュラリティクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEFERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたツールヘッド。'
+  name: '&fフェロシリコンクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEFORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のヘッド。'
+  name: '&fフォーチュン・シンギュラリティクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEGOLD:
+  description:
+  - '&7金製の道具ヘッド。'
+  name: '&f金のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEGOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたツールヘッド。'
+  name: '&f金シンギュラリティクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEHARDENED_METAL:
+  description:
+  - '&7硬化金属製の道具ヘッド。'
+  name: '&f硬化金属のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEINFINITE:
+  description:
+  - '&7インフィニット製のヘッド。'
+  name: '&fインフィニットクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEINFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のヘッド。'
+  name: '&fインフィニティ・シンギュラリティクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEIRIDIUM:
+  description:
+  - '&7イリジウム製のヘッド。'
+  name: '&fイリジウムクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEIRON:
+  description:
+  - '&7鉄製の道具ヘッド。'
+  name: '&f鉄のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEIRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたツールヘッド。'
+  name: '&f鉄シンギュラリティクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOELEAD:
+  description:
+  - '&7鉛製の道具ヘッド。'
+  name: '&f鉛のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOELEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f鉛シンギュラリティクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEMAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のヘッド。'
+  name: '&fマジック・シンギュラリティクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEMAGNESIUM:
+  description:
+  - '&7マグネシウム製の道具ヘッド。'
+  name: '&fマグネシウムのクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEMAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたツールヘッド。'
+  name: '&fマグネシウムシンギュラリティクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEMAGNONIUM:
+  description:
+  - '&7マグノニウム製のヘッド。'
+  name: '&fマグノニウムクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEMAGSTEEL:
+  description:
+  - '&7マグスチールで作られたツールヘッド。'
+  name: '&fマグスチールクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEMAG_THOR:
+  description:
+  - '&7マグソー製のヘッド。'
+  name: '&fマグソークワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEMETAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のヘッド。'
+  name: '&fメタル・シンギュラリティクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEMIXED_METAL:
+  description:
+  - '&7ミックスメタル製のヘッド。'
+  name: '&fミックスメタルクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEMYTHRIL:
+  description:
+  - '&7ミスリル製のヘッド。'
+  name: '&fミスリルクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOENICEINIUM:
+  description:
+  - '&7ナイセニウムで作られたツールヘッド。'
+  name: '&fナイセニウムクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOENICKEL:
+  description:
+  - '&7ニッケル製の道具ヘッド。'
+  name: '&fニッケルのクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEREFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のヘッド。'
+  name: '&fリファインドアイアンクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOEREINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたツールヘッド。'
+  name: '&fリインフォースドアロイクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEREINFORCED_DRACONIUM:
+  description:
+  - '&7リインフォースド・ドラコニウム製のヘッド。'
+  name: '&fリインフォースド・ドラコニウムクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOESCRAP:
+  description:
+  - '&7スクラップ製のヘッド。'
+  name: '&fスクラップクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOESILVER:
+  description:
+  - '&7銀製の道具ヘッド。'
+  name: '&f銀のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOESILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたツールヘッド。'
+  name: '&f銀シンギュラリティクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOESMITHIUM:
+  description:
+  - '&7スミシウムで作られたツールヘッド。'
+  name: '&fスミシウムクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOESOLDER:
+  description:
+  - '&7はんだ製の道具ヘッド。'
+  name: '&fはんだのクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOESTAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のヘッド。'
+  name: '&fステンレス鋼クワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOESTAR_DUST:
+  description:
+  - '&7スターダスト製のヘッド。'
+  name: '&fスターダストクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOESTEEL:
+  description:
+  - '&7鋼製の道具ヘッド。'
+  name: '&f鋼のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOETESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のヘッド。'
+  name: '&fテッセラクティング・マテリアルクワヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_HOETIN:
+  description:
+  - '&7錫製の道具ヘッド。'
+  name: '&f錫のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOETIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたツールヘッド。'
+  name: '&f錫シンギュラリティクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOETITANIUM:
+  description:
+  - '&7チタンで作られたツールヘッド。'
+  name: '&fチタンクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEVOID:
+  description:
+  - '&7ヴォイドで作られたツールヘッド。'
+  name: '&fヴォイドクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEZINC:
+  description:
+  - '&7亜鉛製の道具ヘッド。'
+  name: '&f亜鉛のクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_HOEZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f亜鉛シンギュラリティクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKADAMANTITE:
+  description:
+  - '&7アダマンタイト製のヘッド。'
+  name: '&fアダマンタイトツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のヘッド。'
+  name: '&fアドバンスドアロイツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKALUMINUM:
+  description:
+  - '&7アルミニウム製の道具ヘッド。'
+  name: '&fアルミニウムのつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の道具ヘッド。'
+  name: '&fアルミニウム真鍮のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の道具ヘッド。'
+  name: '&fアルミニウム青銅のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたツールヘッド。'
+  name: '&fアルミニウムシンギュラリティツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKBILLON:
+  description:
+  - '&7ビロン製の道具ヘッド。'
+  name: '&fビロンのつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKBOOMERITE:
+  description:
+  - '&7ブーメライトで作られたツールヘッド。'
+  name: '&fブーメライトツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKBRASS:
+  description:
+  - '&7真鍮製の道具ヘッド。'
+  name: '&f真鍮のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKBRONZE:
+  description:
+  - '&7青銅製の道具ヘッド。'
+  name: '&f青銅のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKCOBALT:
+  description:
+  - '&7コバルト製の道具ヘッド。'
+  name: '&fコバルトのつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKCOPPER:
+  description:
+  - '&7銅製の道具ヘッド。'
+  name: '&f銅のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKCOPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたツールヘッド。'
+  name: '&f銅シンギュラリティツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKCORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の道具ヘッド。'
+  name: '&fコリンティアン青銅のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKDAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の道具ヘッド。'
+  name: '&fダマスカス鋼のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKDURALIUM:
+  description:
+  - '&7デュラリウム製の道具ヘッド。'
+  name: '&fデュラリウムのつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKEARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のヘッド。'
+  name: '&fアース・シンギュラリティツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKFERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたツールヘッド。'
+  name: '&fフェロシリコンツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKFORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のヘッド。'
+  name: '&fフォーチュン・シンギュラリティツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKGOLD:
+  description:
+  - '&7金製の道具ヘッド。'
+  name: '&f金のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKGOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたツールヘッド。'
+  name: '&f金シンギュラリティツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKHARDENED_METAL:
+  description:
+  - '&7硬化金属製の道具ヘッド。'
+  name: '&f硬化金属のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKINFINITE:
+  description:
+  - '&7インフィニット製のヘッド。'
+  name: '&fインフィニットツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKINFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のヘッド。'
+  name: '&fインフィニティ・シンギュラリティツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKIRIDIUM:
+  description:
+  - '&7イリジウム製のヘッド。'
+  name: '&fイリジウムツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKIRON:
+  description:
+  - '&7鉄製の道具ヘッド。'
+  name: '&f鉄のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKIRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたツールヘッド。'
+  name: '&f鉄シンギュラリティツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKLEAD:
+  description:
+  - '&7鉛製の道具ヘッド。'
+  name: '&f鉛のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKLEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f鉛シンギュラリティツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKMAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のヘッド。'
+  name: '&fマジック・シンギュラリティツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKMAGNESIUM:
+  description:
+  - '&7マグネシウム製の道具ヘッド。'
+  name: '&fマグネシウムのつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKMAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたツールヘッド。'
+  name: '&fマグネシウムシンギュラリティツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKMAGNONIUM:
+  description:
+  - '&7マグノニウム製のヘッド。'
+  name: '&fマグノニウムツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKMAGSTEEL:
+  description:
+  - '&7マグスチールで作られたツールヘッド。'
+  name: '&fマグスチールツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKMAG_THOR:
+  description:
+  - '&7マグソー製のヘッド。'
+  name: '&fマグソーツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKMETAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のヘッド。'
+  name: '&fメタル・シンギュラリティツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKMIXED_METAL:
+  description:
+  - '&7ミックスメタル製のヘッド。'
+  name: '&fミックスメタルツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKMYTHRIL:
+  description:
+  - '&7ミスリル製のヘッド。'
+  name: '&fミスリルツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKNICEINIUM:
+  description:
+  - '&7ナイセニウムで作られたツールヘッド。'
+  name: '&fナイセニウムツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKNICKEL:
+  description:
+  - '&7ニッケル製の道具ヘッド。'
+  name: '&fニッケルのつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKREFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のヘッド。'
+  name: '&fリファインドアイアンツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKREINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたツールヘッド。'
+  name: '&fリインフォースドアロイツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKREINFORCED_DRACONIUM:
+  description:
+  - '&7リインフォースド・ドラコニウム製のヘッド。'
+  name: '&fリインフォースド・ドラコニウムツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKSCRAP:
+  description:
+  - '&7スクラップ製のヘッド。'
+  name: '&fスクラップツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKSILVER:
+  description:
+  - '&7銀製の道具ヘッド。'
+  name: '&f銀のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKSILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたツールヘッド。'
+  name: '&f銀シンギュラリティツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKSMITHIUM:
+  description:
+  - '&7スミシウムで作られたツールヘッド。'
+  name: '&fスミシウムツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKSOLDER:
+  description:
+  - '&7はんだ製の道具ヘッド。'
+  name: '&fはんだのつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKSTAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のヘッド。'
+  name: '&fステンレス鋼ツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKSTAR_DUST:
+  description:
+  - '&7スターダスト製のヘッド。'
+  name: '&fスターダストツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKSTEEL:
+  description:
+  - '&7鋼製の道具ヘッド。'
+  name: '&f鋼のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKTESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のヘッド。'
+  name: '&fテッセラクティング・マテリアルツルハシヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_PICKTIN:
+  description:
+  - '&7錫製の道具ヘッド。'
+  name: '&f錫のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKTIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたツールヘッド。'
+  name: '&f錫シンギュラリティツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKTITANIUM:
+  description:
+  - '&7チタンで作られたツールヘッド。'
+  name: '&fチタンツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKVOID:
+  description:
+  - '&7ヴォイドで作られたツールヘッド。'
+  name: '&fヴォイドツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKZINC:
+  description:
+  - '&7亜鉛製の道具ヘッド。'
+  name: '&f亜鉛のつるはしヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_PICKZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f亜鉛シンギュラリティツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELADAMANTITE:
+  description:
+  - '&7アダマンタイト製のヘッド。'
+  name: '&fアダマンタイトシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のヘッド。'
+  name: '&fアドバンスドアロイシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELALUMINUM:
+  description:
+  - '&7アルミニウム製の道具ヘッド。'
+  name: '&fアルミニウムのシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の道具ヘッド。'
+  name: '&fアルミニウム真鍮のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の道具ヘッド。'
+  name: '&fアルミニウム青銅のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたツールヘッド。'
+  name: '&fアルミニウムシンギュラリティシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELBILLON:
+  description:
+  - '&7ビロン製の道具ヘッド。'
+  name: '&fビロンのシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELBOOMERITE:
+  description:
+  - '&7ブーメライトで作られたツールヘッド。'
+  name: '&fブーメライトシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELBRASS:
+  description:
+  - '&7真鍮製の道具ヘッド。'
+  name: '&f真鍮のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELBRONZE:
+  description:
+  - '&7青銅製の道具ヘッド。'
+  name: '&f青銅のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELCOBALT:
+  description:
+  - '&7コバルトで作られたツールヘッド。'
+  name: '&fコバルトシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELCOPPER:
+  description:
+  - '&7銅製の道具ヘッド。'
+  name: '&f銅のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELCOPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたツールヘッド。'
+  name: '&f銅シンギュラリティシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELCORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の道具ヘッド。'
+  name: '&fコリンティアン青銅のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELDAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の道具ヘッド。'
+  name: '&fダマスカス鋼のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELDURALIUM:
+  description:
+  - '&7デュラリウム製の道具ヘッド。'
+  name: '&fデュラリウムのシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELEARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のヘッド。'
+  name: '&fアース・シンギュラリティシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELFERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたツールヘッド。'
+  name: '&fフェロシリコンシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELFORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のヘッド。'
+  name: '&fフォーチュン・シンギュラリティシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELGOLD:
+  description:
+  - '&7金製の道具ヘッド。'
+  name: '&f金のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELGOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたツールヘッド。'
+  name: '&f金シンギュラリティシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELHARDENED_METAL:
+  description:
+  - '&7硬化金属製の道具ヘッド。'
+  name: '&f硬化金属のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELINFINITE:
+  description:
+  - '&7インフィニット製のヘッド。'
+  name: '&fインフィニットシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELINFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のヘッド。'
+  name: '&fインフィニティ・シンギュラリティシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELIRIDIUM:
+  description:
+  - '&7イリジウム製のヘッド。'
+  name: '&fイリジウムシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELIRON:
+  description:
+  - '&7鉄製の道具ヘッド。'
+  name: '&f鉄のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELIRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたツールヘッド。'
+  name: '&f鉄シンギュラリティシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELLEAD:
+  description:
+  - '&7鉛製の道具ヘッド。'
+  name: '&f鉛のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELLEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f鉛シンギュラリティシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELMAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のヘッド。'
+  name: '&fマジック・シンギュラリティシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELMAGNESIUM:
+  description:
+  - '&7マグネシウム製の道具ヘッド。'
+  name: '&fマグネシウムのシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELMAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたツールヘッド。'
+  name: '&fマグネシウムシンギュラリティシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELMAGNONIUM:
+  description:
+  - '&7マグノニウム製のヘッド。'
+  name: '&fマグノニウムシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELMAGSTEEL:
+  description:
+  - '&7マグスチールで作られたツールヘッド。'
+  name: '&fマグスチールシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELMAG_THOR:
+  description:
+  - '&7マグソー製のヘッド。'
+  name: '&fマグソーシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELMETAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のヘッド。'
+  name: '&fメタル・シンギュラリティシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELMIXED_METAL:
+  description:
+  - '&7ミックスメタル製のヘッド。'
+  name: '&fミックスメタルシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELMYTHRIL:
+  description:
+  - '&7ミスリル製のヘッド。'
+  name: '&fミスリルシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELNICEINIUM:
+  description:
+  - '&7ナイセニウムで作られたツールヘッド。'
+  name: '&fナイセニウムシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELNICKEL:
+  description:
+  - '&7ニッケル製の道具ヘッド。'
+  name: '&fニッケルのシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELREFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のヘッド。'
+  name: '&fリファインドアイアンシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELREINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたツールヘッド。'
+  name: '&fリインフォースドアロイシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELREINFORCED_DRACONIUM:
+  description:
+  - '&7リインフォースド・ドラコニウム製のヘッド。'
+  name: '&fリインフォースド・ドラコニウムシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELSCRAP:
+  description:
+  - '&7スクラップ製のヘッド。'
+  name: '&fスクラップシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELSILVER:
+  description:
+  - '&7銀製の道具ヘッド。'
+  name: '&f銀のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELSILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたツールヘッド。'
+  name: '&f銀シンギュラリティシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELSMITHIUM:
+  description:
+  - '&7スミシウムで作られたツールヘッド。'
+  name: '&fスミシウムシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELSOLDER:
+  description:
+  - '&7はんだ製の道具ヘッド。'
+  name: '&fはんだのシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELSTAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のヘッド。'
+  name: '&fステンレス鋼シャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELSTAR_DUST:
+  description:
+  - '&7スターダスト製のヘッド。'
+  name: '&fスターダストシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELSTEEL:
+  description:
+  - '&7鋼製の道具ヘッド。'
+  name: '&f鋼のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELTESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のヘッド。'
+  name: '&fテッセラクティング・マテリアルシャベルヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SHOVELTIN:
+  description:
+  - '&7錫製の道具ヘッド。'
+  name: '&f錫のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELTIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたツールヘッド。'
+  name: '&f錫シンギュラリティシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELTITANIUM:
+  description:
+  - '&7チタンで作られたツールヘッド。'
+  name: '&fチタンシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELVOID:
+  description:
+  - '&7ヴォイドで作られたツールヘッド。'
+  name: '&fヴォイドシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELZINC:
+  description:
+  - '&7亜鉛製の道具ヘッド。'
+  name: '&f亜鉛のシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SHOVELZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f亜鉛シンギュラリティシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDADAMANTITE:
+  description:
+  - '&7アダマンタイト製のヘッド。'
+  name: '&fアダマンタイト剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のヘッド。'
+  name: '&fアドバンスドアロイ剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDALUMINUM:
+  description:
+  - '&7アルミニウム製の道具ヘッド。'
+  name: '&fアルミニウムの剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の道具ヘッド。'
+  name: '&fアルミニウム真鍮の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の道具ヘッド。'
+  name: '&fアルミニウム青銅の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたツールヘッド。'
+  name: '&fアルミニウムシンギュラリティ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDBILLON:
+  description:
+  - '&7ビロン製の道具ヘッド。'
+  name: '&fビロンの剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDBOOMERITE:
+  description:
+  - '&7ブーメライトで作られたツールヘッド。'
+  name: '&fブーメライト剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDBRASS:
+  description:
+  - '&7真鍮製の道具ヘッド。'
+  name: '&f真鍮の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDBRONZE:
+  description:
+  - '&7青銅製の道具ヘッド。'
+  name: '&f青銅の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDCOBALT:
+  description:
+  - '&7コバルト製の道具ヘッド。'
+  name: '&fコバルトの剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDCOPPER:
+  description:
+  - '&7銅製の道具ヘッド。'
+  name: '&f銅の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDCOPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたツールヘッド。'
+  name: '&f銅シンギュラリティ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDCORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の道具ヘッド。'
+  name: '&fコリンティアン青銅の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDDAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の道具ヘッド。'
+  name: '&fダマスカス鋼の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDDURALIUM:
+  description:
+  - '&7デュラリウム製の道具ヘッド。'
+  name: '&fデュラリウムの剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDEARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のヘッド。'
+  name: '&fアース・シンギュラリティ剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDFERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたツールヘッド。'
+  name: '&fフェロシリコン剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDFORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のヘッド。'
+  name: '&fフォーチュン・シンギュラリティ剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDGOLD:
+  description:
+  - '&7金製の道具ヘッド。'
+  name: '&f金の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDGOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたツールヘッド。'
+  name: '&f金シンギュラリティ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDHARDENED_METAL:
+  description:
+  - '&7硬化金属製の道具ヘッド。'
+  name: '&f硬化金属の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDINFINITE:
+  description:
+  - '&7インフィニット製のヘッド。'
+  name: '&fインフィニット剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDINFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のヘッド。'
+  name: '&fインフィニティ・シンギュラリティ剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDIRIDIUM:
+  description:
+  - '&7イリジウム製のヘッド。'
+  name: '&fイリジウム剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDIRON:
+  description:
+  - '&7鉄製の道具ヘッド。'
+  name: '&f鉄の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDIRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたツールヘッド。'
+  name: '&f鉄シンギュラリティ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDLEAD:
+  description:
+  - '&7鉛製の道具ヘッド。'
+  name: '&f鉛の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDLEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f鉛シンギュラリティ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDMAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のヘッド。'
+  name: '&fマジック・シンギュラリティ剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDMAGNESIUM:
+  description:
+  - '&7マグネシウム製の道具ヘッド。'
+  name: '&fマグネシウムの剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDMAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたツールヘッド。'
+  name: '&fマグネシウムシンギュラリティ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDMAGNONIUM:
+  description:
+  - '&7マグノニウム製のヘッド。'
+  name: '&fマグノニウム剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDMAGSTEEL:
+  description:
+  - '&7マグスチールで作られたツールヘッド。'
+  name: '&fマグスチール剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDMAG_THOR:
+  description:
+  - '&7マグソー製のヘッド。'
+  name: '&fマグソー剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDMETAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のヘッド。'
+  name: '&fメタル・シンギュラリティ剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDMIXED_METAL:
+  description:
+  - '&7ミックスメタル製のヘッド。'
+  name: '&fミックスメタル剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDMYTHRIL:
+  description:
+  - '&7ミスリル製のヘッド。'
+  name: '&fミスリル剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDNICEINIUM:
+  description:
+  - '&7ナイセニウムで作られたツールヘッド。'
+  name: '&fナイセニウム剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDNICKEL:
+  description:
+  - '&7ニッケル製の道具ヘッド。'
+  name: '&fニッケルの剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDREFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のヘッド。'
+  name: '&fリファインドアイアン剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDREINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたツールヘッド。'
+  name: '&fリインフォースドアロイ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDREINFORCED_DRACONIUM:
+  description:
+  - '&7リインフォースド・ドラコニウム製のヘッド。'
+  name: '&fリインフォースド・ドラコニウム剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDSCRAP:
+  description:
+  - '&7スクラップ製のヘッド。'
+  name: '&fスクラップ剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDSILVER:
+  description:
+  - '&7銀製の道具ヘッド。'
+  name: '&f銀の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDSILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたツールヘッド。'
+  name: '&f銀シンギュラリティ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDSMITHIUM:
+  description:
+  - '&7スミシウムで作られたツールヘッド。'
+  name: '&fスミシウム剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDSOLDER:
+  description:
+  - '&7はんだ製の道具ヘッド。'
+  name: '&fはんだの剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDSTAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のヘッド。'
+  name: '&fステンレス鋼剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDSTAR_DUST:
+  description:
+  - '&7スターダスト製のヘッド。'
+  name: '&fスターダスト剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDSTEEL:
+  description:
+  - '&7鋼製の道具ヘッド。'
+  name: '&f鋼の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDTESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のヘッド。'
+  name: '&fテッセラクティング・マテリアル剣ヘッド'
+  type:
+  - '&7&o部品'
+PART_HEAD_SWORDTIN:
+  description:
+  - '&7錫製の道具ヘッド。'
+  name: '&f錫の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDTIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたツールヘッド。'
+  name: '&f錫シンギュラリティ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDTITANIUM:
+  description:
+  - '&7チタンで作られたツールヘッド。'
+  name: '&fチタン剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDVOID:
+  description:
+  - '&7ヴォイドで作られたツールヘッド。'
+  name: '&fヴォイド剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDZINC:
+  description:
+  - '&7亜鉛製の道具ヘッド。'
+  name: '&f亜鉛の剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HEAD_SWORDZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたツールヘッド。'
+  name: '&f亜鉛シンギュラリティ剣ヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HELM_PLATES:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&fヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_HELM_PLATE_DUMMY:
+  description:
+  - '&7鋳造されたヘルメットプレート一式。'
+  name: '&fパーツ: ヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_HOE_HEAD:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&fクワヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_HOE_HEAD_DUMMY:
+  description:
+  - '&7鋳造されたクワの穂先。'
+  name: '&fパーツ: クワの穂先'
+  type:
+  - '&7&o部品'
+PART_LEG_PLATES:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&fレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_LEG_PLATE_DUMMY:
+  description:
+  - '&7鋳造されたレギンスプレート一式。'
+  name: '&fパーツ: レギンスプレート'
+  type:
+  - '&7&o部品'
+PART_LINKS_ADAMANTITE:
+  description:
+  - '&7アダマンタイト製のリンク一式。'
+  name: '&fアダマンタイトリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_ADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のリンク一式。'
+  name: '&fアドバンスドアロイリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_ALUMINUM:
+  description:
+  - '&7アルミニウム製のリンク一式。'
+  name: '&fアルミニウムのリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_ALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製のリンク一式。'
+  name: '&fアルミニウム真鍮のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_ALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製のリンク一式。'
+  name: '&fアルミニウム青銅のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_ALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたメイルリンク一式。'
+  name: '&fアルミニウムシンギュラリティメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_BILLON:
+  description:
+  - '&7ビロン製のリンク一式。'
+  name: '&fビロンのリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_BRASS:
+  description:
+  - '&7真鍮製のリンク一式。'
+  name: '&f真鍮のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_BRONZE:
+  description:
+  - '&7青銅製のリンク一式。'
+  name: '&f青銅のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_COBALT:
+  description:
+  - '&7コバルトで作られたメイルリンク一式。'
+  name: '&fコバルトメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_COPPER:
+  description:
+  - '&7銅製のリンク一式。'
+  name: '&f銅のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_COPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたメイルリンク一式。'
+  name: '&f銅シンギュラリティメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_CORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製のリンク一式。'
+  name: '&fコリンティアン青銅のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_CRINGLEIUM:
+  description:
+  - '&7クリングレイウムで作られたメイルリンク一式。'
+  name: '&fクリングレイウムメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_DAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製のリンク一式。'
+  name: '&fダマスカス鋼のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_DURALIUM:
+  description:
+  - '&7デュラリウム製のリンク一式。'
+  name: '&fデュラリウムのリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_EARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のリンク一式。'
+  name: '&fアース・シンギュラリティリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_FERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたメイルリンク一式。'
+  name: '&fフェロシリコンメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_FORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のリンク一式。'
+  name: '&fフォーチュン・シンギュラリティリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_GHOSTLY_ESSENCE:
+  description:
+  - '&7ゴーストリーエッセンス製のリンク一式。'
+  name: '&fゴーストリーエッセンスリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_GOLD:
+  description:
+  - '&7金製のリンク一式。'
+  name: '&f金のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_GOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたメイルリンク一式。'
+  name: '&f金シンギュラリティメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_HARDENED_METAL:
+  description:
+  - '&7硬化金属製のリンク一式。'
+  name: '&f硬化金属のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_INFINITE:
+  description:
+  - '&7インフィニット製のリンク一式。'
+  name: '&fインフィニットリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_INFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のリンク一式。'
+  name: '&fインフィニティ・シンギュラリティリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_IRIDIUM:
+  description:
+  - '&7イリジウム製のリンク一式。'
+  name: '&fイリジウムリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_IRON:
+  description:
+  - '&7鉄製のリンク一式。'
+  name: '&f鉄のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_IRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたメイルリンク一式。'
+  name: '&f鉄シンギュラリティメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_LEAD:
+  description:
+  - '&7鉛製のリンク一式。'
+  name: '&f鉛のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_LEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたメイルリンク一式。'
+  name: '&f鉛シンギュラリティメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_LIQUID_LOVE:
+  description:
+  - '&7リキッドラブで作られたメイルリンク一式。'
+  name: '&fリキッドラブメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_MAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のリンク一式。'
+  name: '&fマジック・シンギュラリティリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_MAGNESIUM:
+  description:
+  - '&7マグネシウム製のリンク一式。'
+  name: '&fマグネシウムのリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたメイルリンク一式。'
+  name: '&fマグネシウムシンギュラリティメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_MAGNONIUM:
+  description:
+  - '&7マグノニウム製のリンク一式。'
+  name: '&fマグノニウムリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_MAGSTEEL:
+  description:
+  - '&7マグスチールで作られたメイルリンク一式。'
+  name: '&fマグスチールメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_MAG_THOR:
+  description:
+  - '&7マグソー製のリンク一式。'
+  name: '&fマグソーリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_METAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のリンク一式。'
+  name: '&fメタル・シンギュラリティリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_MIXED_METAL:
+  description:
+  - '&7ミックスメタル製のリンク一式。'
+  name: '&fミックスメタルリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_MYTHRIL:
+  description:
+  - '&7ミスリル製のリンク一式。'
+  name: '&fミスリルリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_NICKEL:
+  description:
+  - '&7ニッケル製のリンク一式。'
+  name: '&fニッケルのリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_REDSTONE_ALLOY:
+  description:
+  - '&7レッドストーン合金で作られたメイルリンク一式。'
+  name: '&fレッドストーン合金メイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_REFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のリンク一式。'
+  name: '&fリファインドアイアンリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_REINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたメイルリンク一式。'
+  name: '&fリインフォースドアロイメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_SCRAP:
+  description:
+  - '&7スクラップ製のリンク一式。'
+  name: '&fスクラップリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_SILVER:
+  description:
+  - '&7銀製のリンク一式。'
+  name: '&f銀のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_SILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたメイルリンク一式。'
+  name: '&f銀シンギュラリティメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_SMITHIUM:
+  description:
+  - '&7スミシウムで作られたメイルリンク一式。'
+  name: '&fスミシウムメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_SOLDER:
+  description:
+  - '&7はんだ製のリンク一式。'
+  name: '&fはんだのリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_STAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のリンク一式。'
+  name: '&fステンレス鋼リンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_STAR_DUST:
+  description:
+  - '&7スターダスト製のリンク一式。'
+  name: '&fスターダストリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_STEEL:
+  description:
+  - '&7鋼製のリンク一式。'
+  name: '&f鋼のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_TESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のリンク一式。'
+  name: '&fテッセラクティング・マテリアルリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_TIN:
+  description:
+  - '&7錫製のリンク一式。'
+  name: '&f錫のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_TIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたメイルリンク一式。'
+  name: '&f錫シンギュラリティメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_TITANIUM:
+  description:
+  - '&7チタンで作られたメイルリンク一式。'
+  name: '&fチタンメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_ULTIMANINIUM:
+  description:
+  - '&7アルティマニニウム製のリンク一式。'
+  name: '&fアルティマニニウムリンク'
+  type:
+  - '&7&o部品'
+PART_LINKS_VOID:
+  description:
+  - '&7ヴォイドで作られたメイルリンク一式。'
+  name: '&fヴォイドメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_ZINC:
+  description:
+  - '&7亜鉛製のリンク一式。'
+  name: '&f亜鉛のリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_LINKS_ZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたメイルリンク一式。'
+  name: '&f亜鉛シンギュラリティメイルリンク'
+  type:
+  - '&7&oコンポーネント'
+PART_MAIL_LINKS_DUMMY:
+  description:
+  - '&7鋳造された金属リンクの柔軟な網。'
+  name: '&fパーツ: 鎖リンク'
+  type:
+  - '&7&o部品'
+PART_PICKAXE_HEAD:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&fツルハシヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_PICKAXE_HEAD_DUMMY:
+  description:
+  - '&7鋳造されたツルハシの穂先。'
+  name: '&fパーツ: ツルハシの穂先'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSADAMANTITE:
+  description:
+  - '&7アダマンタイト製のプレート一式。'
+  name: '&fアダマンタイトブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のプレート一式。'
+  name: '&fアドバンスドアロイブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSALUMINUM:
+  description:
+  - '&7アルミニウム製の防具プレート一式。'
+  name: '&fアルミニウムのブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の防具プレート一式。'
+  name: '&fアルミニウム真鍮のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の防具プレート一式。'
+  name: '&fアルミニウム青銅のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたアーマープレート一式。'
+  name: '&fアルミニウムシンギュラリティブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSANNIVERSARIUM:
+  description:
+  - '&7アニバーサリウムで作られたアーマープレート一式。'
+  name: '&fアニバーサリウムブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSBILLON:
+  description:
+  - '&7ビロン製の防具プレート一式。'
+  name: '&fビロンのブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSBOOMERITE:
+  description:
+  - '&7ブーメライトで作られたアーマープレート一式。'
+  name: '&fブーメライトブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSBRASS:
+  description:
+  - '&7真鍮製の防具プレート一式。'
+  name: '&f真鍮のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSBRONZE:
+  description:
+  - '&7青銅製の防具プレート一式。'
+  name: '&f青銅のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSCOBALT:
+  description:
+  - '&7コバルトで作られたアーマープレート一式。'
+  name: '&fコバルトブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSCOPPER:
+  description:
+  - '&7銅製の防具プレート一式。'
+  name: '&f銅のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSCOPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたアーマープレート一式。'
+  name: '&f銅シンギュラリティブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSCORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の防具プレート一式。'
+  name: '&fコリンティアン青銅のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSDAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の防具プレート一式。'
+  name: '&fダマスカス鋼のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSDURALIUM:
+  description:
+  - '&7デュラリウム製の防具プレート一式。'
+  name: '&fデュラリウムのブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSEARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のプレート一式。'
+  name: '&fアース・シンギュラリティブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSFERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたアーマープレート一式。'
+  name: '&fフェロシリコンブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSFORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のプレート一式。'
+  name: '&fフォーチュン・シンギュラリティブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSGOLD:
+  description:
+  - '&7金製の防具プレート一式。'
+  name: '&f金のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSGOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたアーマープレート一式。'
+  name: '&f金シンギュラリティブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSHARDENED_METAL:
+  description:
+  - '&7硬化金属製の防具プレート一式。'
+  name: '&f硬化金属のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSINFINITE:
+  description:
+  - '&7インフィニット製のプレート一式。'
+  name: '&fインフィニットブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSINFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のプレート一式。'
+  name: '&fインフィニティ・シンギュラリティブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSIRIDIUM:
+  description:
+  - '&7イリジウム製のプレート一式。'
+  name: '&fイリジウムブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSIRON:
+  description:
+  - '&7鉄製の防具プレート一式。'
+  name: '&f鉄のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSIRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたアーマープレート一式。'
+  name: '&f鉄シンギュラリティブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSLEAD:
+  description:
+  - '&7鉛製の防具プレート一式。'
+  name: '&f鉛のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSLEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたアーマープレート一式。'
+  name: '&f鉛シンギュラリティブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSMAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のプレート一式。'
+  name: '&fマジック・シンギュラリティブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSMAGNESIUM:
+  description:
+  - '&7マグネシウム製の防具プレート一式。'
+  name: '&fマグネシウムのブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSMAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたアーマープレート一式。'
+  name: '&fマグネシウムシンギュラリティブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSMAGNONIUM:
+  description:
+  - '&7マグノニウム製のプレート一式。'
+  name: '&fマグノニウムブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSMAGSTEEL:
+  description:
+  - '&7マグスチールで作られたアーマープレート一式。'
+  name: '&fマグスチールブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSMAG_THOR:
+  description:
+  - '&7マグソー製のプレート一式。'
+  name: '&fマグソーブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSMETAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のプレート一式。'
+  name: '&fメタル・シンギュラリティブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSMIXED_METAL:
+  description:
+  - '&7ミックスメタル製のプレート一式。'
+  name: '&fミックスメタルブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSMYTHRIL:
+  description:
+  - '&7ミスリル製のプレート一式。'
+  name: '&fミスリルブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSNICKEL:
+  description:
+  - '&7ニッケル製の防具プレート一式。'
+  name: '&fニッケルのブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSREDSTONE_ALLOY:
+  description:
+  - '&7レッドストーン合金で作られたアーマープレート一式。'
+  name: '&fレッドストーン合金ブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSREFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のプレート一式。'
+  name: '&fリファインドアイアンブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSREINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたアーマープレート一式。'
+  name: '&fリインフォースドアロイブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSSCRAP:
+  description:
+  - '&7スクラップ製のプレート一式。'
+  name: '&fスクラップブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSSEFIRITE:
+  description:
+  - '&7セフィライトで作られたアーマープレート一式。'
+  name: '&fセフィライトブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSSILVER:
+  description:
+  - '&7銀製の防具プレート一式。'
+  name: '&f銀のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSSILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたアーマープレート一式。'
+  name: '&f銀シンギュラリティブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSSMITHIUM:
+  description:
+  - '&7スミシウムで作られたアーマープレート一式。'
+  name: '&fスミシウムブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSSOLDER:
+  description:
+  - '&7はんだ製の防具プレート一式。'
+  name: '&fはんだのブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSSTAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のプレート一式。'
+  name: '&fステンレス鋼ブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSSTAR_DUST:
+  description:
+  - '&7スターダスト製のプレート一式。'
+  name: '&fスターダストブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSSTEEL:
+  description:
+  - '&7鋼製の防具プレート一式。'
+  name: '&f鋼のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSTESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のプレート一式。'
+  name: '&fテッセラクティング・マテリアルブーツプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_BOOTSTIN:
+  description:
+  - '&7錫製の防具プレート一式。'
+  name: '&f錫のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSTIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたアーマープレート一式。'
+  name: '&f錫シンギュラリティブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSTITANIUM:
+  description:
+  - '&7チタンで作られたアーマープレート一式。'
+  name: '&fチタンブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSVOID:
+  description:
+  - '&7ヴォイドで作られたアーマープレート一式。'
+  name: '&fヴォイドブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSZINC:
+  description:
+  - '&7亜鉛製の防具プレート一式。'
+  name: '&f亜鉛のブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_BOOTSZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたアーマープレート一式。'
+  name: '&f亜鉛シンギュラリティブーツプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEADAMANTITE:
+  description:
+  - '&7アダマンタイト製のプレート一式。'
+  name: '&fアダマンタイトチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のプレート一式。'
+  name: '&fアドバンスドアロイチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEALUMINUM:
+  description:
+  - '&7アルミニウム製の防具プレート一式。'
+  name: '&fアルミニウムのチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の防具プレート一式。'
+  name: '&fアルミニウム真鍮のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の防具プレート一式。'
+  name: '&fアルミニウム青銅のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたアーマープレート一式。'
+  name: '&fアルミニウムシンギュラリティチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEANNIVERSARIUM:
+  description:
+  - '&7アニバーサリウムで作られたアーマープレート一式。'
+  name: '&fアニバーサリウムチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEBILLON:
+  description:
+  - '&7ビロン製の防具プレート一式。'
+  name: '&fビロンのチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEBOOMERITE:
+  description:
+  - '&7ブーメライトで作られたアーマープレート一式。'
+  name: '&fブーメライトチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEBRASS:
+  description:
+  - '&7真鍮製の防具プレート一式。'
+  name: '&f真鍮のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEBRONZE:
+  description:
+  - '&7青銅製の防具プレート一式。'
+  name: '&f青銅のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATECOBALT:
+  description:
+  - '&7コバルトで作られたアーマープレート一式。'
+  name: '&fコバルトチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATECOPPER:
+  description:
+  - '&7銅製の防具プレート一式。'
+  name: '&f銅のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATECOPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたアーマープレート一式。'
+  name: '&f銅シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATECORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の防具プレート一式。'
+  name: '&fコリンティアン青銅のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEDAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の防具プレート一式。'
+  name: '&fダマスカス鋼のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEDURALIUM:
+  description:
+  - '&7デュラリウム製の防具プレート一式。'
+  name: '&fデュラリウムのチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEEARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のプレート一式。'
+  name: '&fアース・シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEFERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたアーマープレート一式。'
+  name: '&fフェロシリコンチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEFORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のプレート一式。'
+  name: '&fフォーチュン・シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEGOLD:
+  description:
+  - '&7金製の防具プレート一式。'
+  name: '&f金のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEGOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたアーマープレート一式。'
+  name: '&f金シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEHARDENED_METAL:
+  description:
+  - '&7硬化金属製の防具プレート一式。'
+  name: '&f硬化金属のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEINFINITE:
+  description:
+  - '&7インフィニット製のプレート一式。'
+  name: '&fインフィニットチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEINFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のプレート一式。'
+  name: '&fインフィニティ・シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEIRIDIUM:
+  description:
+  - '&7イリジウム製のプレート一式。'
+  name: '&fイリジウムチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEIRON:
+  description:
+  - '&7鉄製の防具プレート一式。'
+  name: '&f鉄のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEIRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたアーマープレート一式。'
+  name: '&f鉄シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATELEAD:
+  description:
+  - '&7鉛製の防具プレート一式。'
+  name: '&f鉛のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATELEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたアーマープレート一式。'
+  name: '&f鉛シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEMAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のプレート一式。'
+  name: '&fマジック・シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEMAGNESIUM:
+  description:
+  - '&7マグネシウム製の防具プレート一式。'
+  name: '&fマグネシウムのチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEMAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたアーマープレート一式。'
+  name: '&fマグネシウムシンギュラリティチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEMAGNONIUM:
+  description:
+  - '&7マグノニウム製のプレート一式。'
+  name: '&fマグノニウムチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEMAGSTEEL:
+  description:
+  - '&7マグスチールで作られたアーマープレート一式。'
+  name: '&fマグスチールチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEMAG_THOR:
+  description:
+  - '&7マグソー製のプレート一式。'
+  name: '&fマグソーチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEMETAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のプレート一式。'
+  name: '&fメタル・シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEMIXED_METAL:
+  description:
+  - '&7ミックスメタル製のプレート一式。'
+  name: '&fミックスメタルチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEMYTHRIL:
+  description:
+  - '&7ミスリル製のプレート一式。'
+  name: '&fミスリルチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATENICKEL:
+  description:
+  - '&7ニッケル製の防具プレート一式。'
+  name: '&fニッケルのチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEREDSTONE_ALLOY:
+  description:
+  - '&7レッドストーン合金で作られたアーマープレート一式。'
+  name: '&fレッドストーン合金チェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEREFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のプレート一式。'
+  name: '&fリファインドアイアンチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATEREINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたアーマープレート一式。'
+  name: '&fリインフォースドアロイチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATESCRAP:
+  description:
+  - '&7スクラップ製のプレート一式。'
+  name: '&fスクラップチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATESEFIRITE:
+  description:
+  - '&7セフィライトで作られたアーマープレート一式。'
+  name: '&fセフィライトチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATESILVER:
+  description:
+  - '&7銀製の防具プレート一式。'
+  name: '&f銀のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATESILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたアーマープレート一式。'
+  name: '&f銀シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATESMITHIUM:
+  description:
+  - '&7スミシウムで作られたアーマープレート一式。'
+  name: '&fスミシウムチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATESOLDER:
+  description:
+  - '&7はんだ製の防具プレート一式。'
+  name: '&fはんだのチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATESTAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のプレート一式。'
+  name: '&fステンレス鋼チェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATESTAR_DUST:
+  description:
+  - '&7スターダスト製のプレート一式。'
+  name: '&fスターダストチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATESTEEL:
+  description:
+  - '&7鋼製の防具プレート一式。'
+  name: '&f鋼のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATETESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のプレート一式。'
+  name: '&fテッセラクティング・マテリアルチェストプレートプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_CHESTPLATETIN:
+  description:
+  - '&7錫製の防具プレート一式。'
+  name: '&f錫のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATETIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたアーマープレート一式。'
+  name: '&f錫シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATETITANIUM:
+  description:
+  - '&7チタンで作られたアーマープレート一式。'
+  name: '&fチタンチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEVOID:
+  description:
+  - '&7ヴォイドで作られたアーマープレート一式。'
+  name: '&fヴォイドチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEZINC:
+  description:
+  - '&7亜鉛製の防具プレート一式。'
+  name: '&f亜鉛のチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_CHESTPLATEZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたアーマープレート一式。'
+  name: '&f亜鉛シンギュラリティチェストプレートプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETADAMANTITE:
+  description:
+  - '&7アダマンタイト製のプレート一式。'
+  name: '&fアダマンタイトヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のプレート一式。'
+  name: '&fアドバンスドアロイヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETALUMINUM:
+  description:
+  - '&7アルミニウム製の防具プレート一式。'
+  name: '&fアルミニウムのヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の防具プレート一式。'
+  name: '&fアルミニウム真鍮のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の防具プレート一式。'
+  name: '&fアルミニウム青銅のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたアーマープレート一式。'
+  name: '&fアルミニウムシンギュラリティヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETANNIVERSARIUM:
+  description:
+  - '&7アニバーサリウムで作られたアーマープレート一式。'
+  name: '&fアニバーサリウムヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETBILLON:
+  description:
+  - '&7ビロン製の防具プレート一式。'
+  name: '&fビロンのヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETBOOMERITE:
+  description:
+  - '&7ブーメライトで作られたアーマープレート一式。'
+  name: '&fブーメライトヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETBRASS:
+  description:
+  - '&7真鍮製の防具プレート一式。'
+  name: '&f真鍮のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETBRONZE:
+  description:
+  - '&7青銅製の防具プレート一式。'
+  name: '&f青銅のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETCOBALT:
+  description:
+  - '&7コバルトで作られたアーマープレート一式。'
+  name: '&fコバルトヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETCOPPER:
+  description:
+  - '&7銅製の防具プレート一式。'
+  name: '&f銅のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETCOPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたアーマープレート一式。'
+  name: '&f銅シンギュラリティヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETCORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の防具プレート一式。'
+  name: '&fコリンティアン青銅のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETDAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の防具プレート一式。'
+  name: '&fダマスカス鋼のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETDURALIUM:
+  description:
+  - '&7デュラリウム製の防具プレート一式。'
+  name: '&fデュラリウムのヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETEARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のプレート一式。'
+  name: '&fアース・シンギュラリティヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETFERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたアーマープレート一式。'
+  name: '&fフェロシリコンヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETFORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のプレート一式。'
+  name: '&fフォーチュン・シンギュラリティヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETGOLD:
+  description:
+  - '&7金製の防具プレート一式。'
+  name: '&f金のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETGOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたアーマープレート一式。'
+  name: '&f金シンギュラリティヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETHARDENED_METAL:
+  description:
+  - '&7硬化金属製の防具プレート一式。'
+  name: '&f硬化金属のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETINFINITE:
+  description:
+  - '&7インフィニット製のプレート一式。'
+  name: '&fインフィニットヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETINFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のプレート一式。'
+  name: '&fインフィニティ・シンギュラリティヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETIRIDIUM:
+  description:
+  - '&7イリジウム製のプレート一式。'
+  name: '&fイリジウムヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETIRON:
+  description:
+  - '&7鉄製の防具プレート一式。'
+  name: '&f鉄のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETIRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたアーマープレート一式。'
+  name: '&f鉄シンギュラリティヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETLEAD:
+  description:
+  - '&7鉛製の防具プレート一式。'
+  name: '&f鉛のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETLEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたアーマープレート一式。'
+  name: '&f鉛シンギュラリティヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETMAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のプレート一式。'
+  name: '&fマジック・シンギュラリティヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETMAGNESIUM:
+  description:
+  - '&7マグネシウム製の防具プレート一式。'
+  name: '&fマグネシウムのヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETMAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたアーマープレート一式。'
+  name: '&fマグネシウムシンギュラリティヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETMAGNONIUM:
+  description:
+  - '&7マグノニウム製のプレート一式。'
+  name: '&fマグノニウムヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETMAGSTEEL:
+  description:
+  - '&7マグスチールで作られたアーマープレート一式。'
+  name: '&fマグスチールヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETMAG_THOR:
+  description:
+  - '&7マグソー製のプレート一式。'
+  name: '&fマグソーヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETMETAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のプレート一式。'
+  name: '&fメタル・シンギュラリティヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETMIXED_METAL:
+  description:
+  - '&7ミックスメタル製のプレート一式。'
+  name: '&fミックスメタルヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETMYTHRIL:
+  description:
+  - '&7ミスリル製のプレート一式。'
+  name: '&fミスリルヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETNICKEL:
+  description:
+  - '&7ニッケル製の防具プレート一式。'
+  name: '&fニッケルのヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETREDSTONE_ALLOY:
+  description:
+  - '&7レッドストーン合金で作られたアーマープレート一式。'
+  name: '&fレッドストーン合金ヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETREFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のプレート一式。'
+  name: '&fリファインドアイアンヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETREINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたアーマープレート一式。'
+  name: '&fリインフォースドアロイヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETSCRAP:
+  description:
+  - '&7スクラップ製のプレート一式。'
+  name: '&fスクラップヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETSEFIRITE:
+  description:
+  - '&7セフィライトで作られたアーマープレート一式。'
+  name: '&fセフィライトヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETSILVER:
+  description:
+  - '&7銀製の防具プレート一式。'
+  name: '&f銀のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETSILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたアーマープレート一式。'
+  name: '&f銀シンギュラリティヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETSMITHIUM:
+  description:
+  - '&7スミシウムで作られたアーマープレート一式。'
+  name: '&fスミシウムヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETSOLDER:
+  description:
+  - '&7はんだ製の防具プレート一式。'
+  name: '&fはんだのヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETSTAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のプレート一式。'
+  name: '&fステンレス鋼ヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETSTAR_DUST:
+  description:
+  - '&7スターダスト製のプレート一式。'
+  name: '&fスターダストヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETSTEEL:
+  description:
+  - '&7鋼製の防具プレート一式。'
+  name: '&f鋼のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETTESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のプレート一式。'
+  name: '&fテッセラクティング・マテリアルヘルメットプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_HELMETTIN:
+  description:
+  - '&7錫製の防具プレート一式。'
+  name: '&f錫のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETTIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたアーマープレート一式。'
+  name: '&f錫シンギュラリティヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETTITANIUM:
+  description:
+  - '&7チタンで作られたアーマープレート一式。'
+  name: '&fチタンヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETVOID:
+  description:
+  - '&7ヴォイドで作られたアーマープレート一式。'
+  name: '&fヴォイドヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETZINC:
+  description:
+  - '&7亜鉛製の防具プレート一式。'
+  name: '&f亜鉛のヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_HELMETZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたアーマープレート一式。'
+  name: '&f亜鉛シンギュラリティヘルメットプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSADAMANTITE:
+  description:
+  - '&7アダマンタイト製のプレート一式。'
+  name: '&fアダマンタイトレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のプレート一式。'
+  name: '&fアドバンスドアロイレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSALUMINUM:
+  description:
+  - '&7アルミニウム製の防具プレート一式。'
+  name: '&fアルミニウムのレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の防具プレート一式。'
+  name: '&fアルミニウム真鍮のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の防具プレート一式。'
+  name: '&fアルミニウム青銅のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたアーマープレート一式。'
+  name: '&fアルミニウムシンギュラリティレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSANNIVERSARIUM:
+  description:
+  - '&7アニバーサリウムで作られたアーマープレート一式。'
+  name: '&fアニバーサリウムレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSBILLON:
+  description:
+  - '&7ビロン製の防具プレート一式。'
+  name: '&fビロンのレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSBOOMERITE:
+  description:
+  - '&7ブーメライトで作られたアーマープレート一式。'
+  name: '&fブーメライトレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSBRASS:
+  description:
+  - '&7真鍮製の防具プレート一式。'
+  name: '&f真鍮のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSBRONZE:
+  description:
+  - '&7青銅製の防具プレート一式。'
+  name: '&f青銅のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSCOBALT:
+  description:
+  - '&7コバルトで作られたアーマープレート一式。'
+  name: '&fコバルトレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSCOPPER:
+  description:
+  - '&7銅製の防具プレート一式。'
+  name: '&f銅のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSCOPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたアーマープレート一式。'
+  name: '&f銅シンギュラリティレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSCORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の防具プレート一式。'
+  name: '&fコリンティアン青銅のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSDAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の防具プレート一式。'
+  name: '&fダマスカス鋼のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSDURALIUM:
+  description:
+  - '&7デュラリウム製の防具プレート一式。'
+  name: '&fデュラリウムのレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSEARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のプレート一式。'
+  name: '&fアース・シンギュラリティレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSFERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたアーマープレート一式。'
+  name: '&fフェロシリコンレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSFORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のプレート一式。'
+  name: '&fフォーチュン・シンギュラリティレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSGOLD:
+  description:
+  - '&7金製の防具プレート一式。'
+  name: '&f金のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSGOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたアーマープレート一式。'
+  name: '&f金シンギュラリティレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSHARDENED_METAL:
+  description:
+  - '&7硬化金属製の防具プレート一式。'
+  name: '&f硬化金属のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSINFINITE:
+  description:
+  - '&7インフィニット製のプレート一式。'
+  name: '&fインフィニットレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSINFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のプレート一式。'
+  name: '&fインフィニティ・シンギュラリティレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSIRIDIUM:
+  description:
+  - '&7イリジウム製のプレート一式。'
+  name: '&fイリジウムレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSIRON:
+  description:
+  - '&7鉄製の防具プレート一式。'
+  name: '&f鉄のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSIRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたアーマープレート一式。'
+  name: '&f鉄シンギュラリティレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSLEAD:
+  description:
+  - '&7鉛製の防具プレート一式。'
+  name: '&f鉛のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSLEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたアーマープレート一式。'
+  name: '&f鉛シンギュラリティレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSMAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のプレート一式。'
+  name: '&fマジック・シンギュラリティレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSMAGNESIUM:
+  description:
+  - '&7マグネシウム製の防具プレート一式。'
+  name: '&fマグネシウムのレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSMAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたアーマープレート一式。'
+  name: '&fマグネシウムシンギュラリティレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSMAGNONIUM:
+  description:
+  - '&7マグノニウム製のプレート一式。'
+  name: '&fマグノニウムレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSMAGSTEEL:
+  description:
+  - '&7マグスチールで作られたアーマープレート一式。'
+  name: '&fマグスチールレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSMAG_THOR:
+  description:
+  - '&7マグソー製のプレート一式。'
+  name: '&fマグソーレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSMETAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のプレート一式。'
+  name: '&fメタル・シンギュラリティレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSMIXED_METAL:
+  description:
+  - '&7ミックスメタル製のプレート一式。'
+  name: '&fミックスメタルレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSMYTHRIL:
+  description:
+  - '&7ミスリル製のプレート一式。'
+  name: '&fミスリルレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSNICKEL:
+  description:
+  - '&7ニッケル製の防具プレート一式。'
+  name: '&fニッケルのレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSREDSTONE_ALLOY:
+  description:
+  - '&7レッドストーン合金で作られたアーマープレート一式。'
+  name: '&fレッドストーン合金レギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSREFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のプレート一式。'
+  name: '&fリファインドアイアンレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSREINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたアーマープレート一式。'
+  name: '&fリインフォースドアロイレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSSCRAP:
+  description:
+  - '&7スクラップ製のプレート一式。'
+  name: '&fスクラップレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSSEFIRITE:
+  description:
+  - '&7セフィライトで作られたアーマープレート一式。'
+  name: '&fセフィライトレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSSILVER:
+  description:
+  - '&7銀製の防具プレート一式。'
+  name: '&f銀のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSSILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたアーマープレート一式。'
+  name: '&f銀シンギュラリティレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSSMITHIUM:
+  description:
+  - '&7スミシウムで作られたアーマープレート一式。'
+  name: '&fスミシウムレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSSOLDER:
+  description:
+  - '&7はんだ製の防具プレート一式。'
+  name: '&fはんだのレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSSTAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のプレート一式。'
+  name: '&fステンレス鋼レギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSSTAR_DUST:
+  description:
+  - '&7スターダスト製のプレート一式。'
+  name: '&fスターダストレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSSTEEL:
+  description:
+  - '&7鋼製の防具プレート一式。'
+  name: '&f鋼のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSTESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のプレート一式。'
+  name: '&fテッセラクティング・マテリアルレギンスプレート'
+  type:
+  - '&7&o部品'
+PART_PLATES_LEGGINGSTIN:
+  description:
+  - '&7錫製の防具プレート一式。'
+  name: '&f錫のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSTIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたアーマープレート一式。'
+  name: '&f錫シンギュラリティレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSTITANIUM:
+  description:
+  - '&7チタンで作られたアーマープレート一式。'
+  name: '&fチタンレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSVOID:
+  description:
+  - '&7ヴォイドで作られたアーマープレート一式。'
+  name: '&fヴォイドレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSZINC:
+  description:
+  - '&7亜鉛製の防具プレート一式。'
+  name: '&f亜鉛のレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_PLATES_LEGGINGSZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたアーマープレート一式。'
+  name: '&f亜鉛シンギュラリティレギンスプレート'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&f修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_ADAMANTITE:
+  description:
+  - '&7アダマンタイト製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fアダマンタイト修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_ADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fアドバンスドアロイ修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_ALUMINUM:
+  description:
+  - '&7アルミニウム製の道具を'
+  - '&7修理できるキット。'
+  name: '&fアルミニウムの修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_ALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の道具を'
+  - '&7修理できるキット。'
+  name: '&fアルミニウム真鍮の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_ALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の道具を'
+  - '&7修理できるキット。'
+  name: '&fアルミニウム青銅の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_ALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fアルミニウムシンギュラリティ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_ANNIVERSARIUM:
+  description:
+  - '&7アニバーサリウムで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fアニバーサリウム修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_BILLON:
+  description:
+  - '&7ビロン製の道具を'
+  - '&7修理できるキット。'
+  name: '&fビロンの修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_BOOMERITE:
+  description:
+  - '&7ブーメライトで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fブーメライト修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_BRASS:
+  description:
+  - '&7真鍮製の道具を'
+  - '&7修理できるキット。'
+  name: '&f真鍮の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_BRONZE:
+  description:
+  - '&7青銅製の道具を'
+  - '&7修理できるキット。'
+  name: '&f青銅の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_COBALT:
+  description:
+  - '&7コバルトで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fコバルト修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_COPPER:
+  description:
+  - '&7銅製の道具を'
+  - '&7修理できるキット。'
+  name: '&f銅の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_COPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&f銅シンギュラリティ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_CORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の道具を'
+  - '&7修理できるキット。'
+  name: '&fコリンティアン青銅の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_DAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の道具を'
+  - '&7修理できるキット。'
+  name: '&fダマスカス鋼の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_DUMMY:
+  description:
+  - '&7修理台で壊れたアイテムを修理する。'
+  name: '&fパーツ: 修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_DURALIUM:
+  description:
+  - '&7デュラリウム製の道具を'
+  - '&7修理できるキット。'
+  name: '&fデュラリウムの修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_EARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fアース・シンギュラリティ修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_FERROSILICON:
+  description:
+  - '&7フェロシリコンで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fフェロシリコン修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_FORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fフォーチュン・シンギュラリティ修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_GOLD:
+  description:
+  - '&7金製の道具を'
+  - '&7修理できるキット。'
+  name: '&f金の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_GOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&f金シンギュラリティ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_HARDENED_METAL:
+  description:
+  - '&7硬化金属製の道具を'
+  - '&7修理できるキット。'
+  name: '&f硬化金属の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_INFINITE:
+  description:
+  - '&7インフィニット製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fインフィニット修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_INFINITY_SINGULARITY:
+  description:
+  - '&7インフィニティ・シンギュラリティ製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fインフィニティ・シンギュラリティ修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_IRIDIUM:
+  description:
+  - '&7イリジウム製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fイリジウム修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_IRON:
+  description:
+  - '&7鉄製の道具を'
+  - '&7修理できるキット。'
+  name: '&f鉄の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_IRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&f鉄シンギュラリティ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_LEAD:
+  description:
+  - '&7鉛製の道具を'
+  - '&7修理できるキット。'
+  name: '&f鉛の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_LEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&f鉛シンギュラリティ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_MAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fマジック・シンギュラリティ修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_MAGNESIUM:
+  description:
+  - '&7マグネシウム製の道具を'
+  - '&7修理できるキット。'
+  name: '&fマグネシウムの修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fマグネシウムシンギュラリティ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_MAGNONIUM:
+  description:
+  - '&7マグノニウム製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fマグノニウム修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_MAGSTEEL:
+  description:
+  - '&7マグスチールで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fマグスチール修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_MAG_THOR:
+  description:
+  - '&7マグソー製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fマグソー修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_METAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fメタル・シンギュラリティ修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_MIXED_METAL:
+  description:
+  - '&7ミックスメタル製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fミックスメタル修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_MYTHRIL:
+  description:
+  - '&7ミスリル製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fミスリル修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_NICEINIUM:
+  description:
+  - '&7ナイセニウムで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fナイセニウム修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_NICKEL:
+  description:
+  - '&7ニッケル製の道具を'
+  - '&7修理できるキット。'
+  name: '&fニッケルの修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_REDSTONE_ALLOY:
+  description:
+  - '&7レッドストーン合金で作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fレッドストーン合金修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_REFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fリファインドアイアン修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_REINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fリインフォースドアロイ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_REINFORCED_DRACONIUM:
+  description:
+  - '&7リインフォースド・ドラコニウム製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fリインフォースド・ドラコニウム修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_SCRAP:
+  description:
+  - '&7スクラップ製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fスクラップ修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_SEFIRITE:
+  description:
+  - '&7セフィライトで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fセフィライト修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_SILVER:
+  description:
+  - '&7銀製の道具を'
+  - '&7修理できるキット。'
+  name: '&f銀の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_SILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&f銀シンギュラリティ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_SMITHIUM:
+  description:
+  - '&7スミシウムで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fスミシウム修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_SOLDER:
+  description:
+  - '&7はんだ製の道具を'
+  - '&7修理できるキット。'
+  name: '&fはんだの修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_STAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fステンレス鋼修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_STAR_DUST:
+  description:
+  - '&7スターダスト製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fスターダスト修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_STEEL:
+  description:
+  - '&7鋼製の道具を'
+  - '&7修理できるキット。'
+  name: '&f鋼の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_TESSERACTING_MATERIAL:
+  description:
+  - '&7テッセラクティング・マテリアル製のアイテムを'
+  - '&7修理できるキット。'
+  name: '&fテッセラクティング・マテリアル修理キット'
+  type:
+  - '&7&o部品'
+PART_REPAIR_KIT_TIN:
+  description:
+  - '&7錫製の道具を'
+  - '&7修理できるキット。'
+  name: '&f錫の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_TIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&f錫シンギュラリティ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_TITANIUM:
+  description:
+  - '&7チタンで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fチタン修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_VOID:
+  description:
+  - '&7ヴォイドで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&fヴォイド修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_ZINC:
+  description:
+  - '&7亜鉛製の道具を'
+  - '&7修理できるキット。'
+  name: '&f亜鉛の修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_REPAIR_KIT_ZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたアイテムを'
+  - '&7修理できるキット。'
+  name: '&f亜鉛シンギュラリティ修理キット'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_ADAMANTITE:
+  description:
+  - '&7アダマンタイト製のロッド。'
+  name: '&fアダマンタイトロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_ADVANCED_ALLOY:
+  description:
+  - '&7アドバンスドアロイ製のロッド。'
+  name: '&fアドバンスドアロイロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_ALUMINUM:
+  description:
+  - '&7アルミニウム製の道具用ロッド。'
+  name: '&fアルミニウムのロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_ALUMINUM_BRASS:
+  description:
+  - '&7アルミニウム真鍮製の道具用ロッド。'
+  name: '&fアルミニウム真鍮のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_ALUMINUM_BRONZE:
+  description:
+  - '&7アルミニウム青銅製の道具用ロッド。'
+  name: '&fアルミニウム青銅のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_ALUMINUM_SINGULARITY:
+  description:
+  - '&7アルミニウムシンギュラリティで作られたツールロッド。'
+  name: '&fアルミニウムシンギュラリティロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_BILLON:
+  description:
+  - '&7ビロン製の道具用ロッド。'
+  name: '&fビロンのロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_BRASS:
+  description:
+  - '&7真鍮製の道具用ロッド。'
+  name: '&f真鍮のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_BRONZE:
+  description:
+  - '&7青銅製の道具用ロッド。'
+  name: '&f青銅のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_COBALT:
+  description:
+  - '&7コバルトで作られたツールロッド。'
+  name: '&fコバルトロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_COPPER:
+  description:
+  - '&7銅製の道具用ロッド。'
+  name: '&f銅のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_COPPER_SINGULARITY:
+  description:
+  - '&7銅シンギュラリティで作られたツールロッド。'
+  name: '&f銅シンギュラリティロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_CORINTHIAN_BRONZE:
+  description:
+  - '&7コリンティアン青銅製の道具用ロッド。'
+  name: '&fコリンティアン青銅のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_DAMASCUS_STEEL:
+  description:
+  - '&7ダマスカス鋼製の道具用ロッド。'
+  name: '&fダマスカス鋼のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_DURALIUM:
+  description:
+  - '&7デュラリウム製の道具用ロッド。'
+  name: '&fデュラリウムのロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_EARTH_SINGULARITY:
+  description:
+  - '&7アース・シンギュラリティ製のロッド。'
+  name: '&fアース・シンギュラリティロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_FORTUNE_SINGULARITY:
+  description:
+  - '&7フォーチュン・シンギュラリティ製のロッド。'
+  name: '&fフォーチュン・シンギュラリティロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_GHOSTLY_ESSENCE:
+  description:
+  - '&7ゴーストリーエッセンス製のロッド。'
+  name: '&fゴーストリーエッセンスロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_GOLD:
+  description:
+  - '&7金製の道具用ロッド。'
+  name: '&f金のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_GOLD_SINGULARITY:
+  description:
+  - '&7金シンギュラリティで作られたツールロッド。'
+  name: '&f金シンギュラリティロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_HARDENED_METAL:
+  description:
+  - '&7硬化金属製の道具用ロッド。'
+  name: '&f硬化金属のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_INFINITE:
+  description:
+  - '&7インフィニット製のロッド。'
+  name: '&fインフィニットロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_IRIDIUM:
+  description:
+  - '&7イリジウム製のロッド。'
+  name: '&fイリジウムロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_IRON:
+  description:
+  - '&7鉄製の道具用ロッド。'
+  name: '&f鉄のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_IRON_SINGULARITY:
+  description:
+  - '&7鉄シンギュラリティで作られたツールロッド。'
+  name: '&f鉄シンギュラリティロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_LEAD:
+  description:
+  - '&7鉛製の道具用ロッド。'
+  name: '&f鉛のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_LEAD_SINGULARITY:
+  description:
+  - '&7鉛シンギュラリティで作られたツールロッド。'
+  name: '&f鉛シンギュラリティロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_MAGIC_SINGULARITY:
+  description:
+  - '&7マジック・シンギュラリティ製のロッド。'
+  name: '&fマジック・シンギュラリティロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_MAGNESIUM:
+  description:
+  - '&7マグネシウム製の道具用ロッド。'
+  name: '&fマグネシウムのロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_MAGNESIUM_SINGULARITY:
+  description:
+  - '&7マグネシウムシンギュラリティで作られたツールロッド。'
+  name: '&fマグネシウムシンギュラリティロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_MAGNONIUM:
+  description:
+  - '&7マグノニウム製のロッド。'
+  name: '&fマグノニウムロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_MAGSTEEL:
+  description:
+  - '&7マグスチールで作られたツールロッド。'
+  name: '&fマグスチールロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_MAG_THOR:
+  description:
+  - '&7マグソー製のロッド。'
+  name: '&fマグソーロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_METAL_SINGULARITY:
+  description:
+  - '&7メタル・シンギュラリティ製のロッド。'
+  name: '&fメタル・シンギュラリティロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_MIXED_METAL:
+  description:
+  - '&7ミックスメタル製のロッド。'
+  name: '&fミックスメタルロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_MYTHRIL:
+  description:
+  - '&7ミスリル製のロッド。'
+  name: '&fミスリルロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_NICKEL:
+  description:
+  - '&7ニッケル製の道具用ロッド。'
+  name: '&fニッケルのロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_REDSTONE_ALLOY:
+  description:
+  - '&7レッドストーン合金で作られたツールロッド。'
+  name: '&fレッドストーン合金ロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_REFINED_IRON:
+  description:
+  - '&7リファインドアイアン製のロッド。'
+  name: '&fリファインドアイアンロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_REINFORCED_ALLOY:
+  description:
+  - '&7リインフォースドアロイで作られたツールロッド。'
+  name: '&fリインフォースドアロイロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_SCRAP:
+  description:
+  - '&7スクラップ製のロッド。'
+  name: '&fスクラップロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_SILVER:
+  description:
+  - '&7銀製の道具用ロッド。'
+  name: '&f銀のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_SILVER_SINGULARITY:
+  description:
+  - '&7銀シンギュラリティで作られたツールロッド。'
+  name: '&f銀シンギュラリティロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_SMITHIUM:
+  description:
+  - '&7スミシウムで作られたツールロッド。'
+  name: '&fスミシウムロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_SOLDER:
+  description:
+  - '&7はんだ製の道具用ロッド。'
+  name: '&fはんだのロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_STAINLESS_STEEL:
+  description:
+  - '&7ステンレス鋼製のロッド。'
+  name: '&fステンレス鋼ロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_STAR_DUST:
+  description:
+  - '&7スターダスト製のロッド。'
+  name: '&fスターダストロッド'
+  type:
+  - '&7&o部品'
+PART_ROD_STEEL:
+  description:
+  - '&7鋼製の道具用ロッド。'
+  name: '&f鋼のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_TIN:
+  description:
+  - '&7錫製の道具用ロッド。'
+  name: '&f錫のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_TIN_SINGULARITY:
+  description:
+  - '&7錫シンギュラリティで作られたツールロッド。'
+  name: '&f錫シンギュラリティロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_TITANIUM:
+  description:
+  - '&7チタンで作られたツールロッド。'
+  name: '&fチタンロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_VOID:
+  description:
+  - '&7ヴォイドで作られたツールロッド。'
+  name: '&fヴォイドロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_ZINC:
+  description:
+  - '&7亜鉛製の道具用ロッド。'
+  name: '&f亜鉛のロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_ROD_ZINC_SINGULARITY:
+  description:
+  - '&7亜鉛シンギュラリティで作られたツールロッド。'
+  name: '&f亜鉛シンギュラリティロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_SHOVEL_HEAD:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&fシャベルヘッド'
+  type:
+  - '&7&oコンポーネント'
+PART_SHOVEL_HEAD_DUMMY:
+  description:
+  - '&7鋳造されたシャベルの穂先。'
+  name: '&fパーツ: シャベルの穂先'
+  type:
+  - '&7&o部品'
+PART_SWORD_BLADE:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&f剣ブレード'
+  type:
+  - '&7&oコンポーネント'
+PART_SWORD_BLADE_DUMMY:
+  description:
+  - '&7鋳造された剣の刃。'
+  name: '&fパーツ: 剣の刃'
+  type:
+  - '&7&o部品'
+PART_TOOL_ROD:
+  description:
+  - '&7ツールパーツ。単体では役に立ちませんが'
+  - '&7ティンカーズテーブルで、より優れた'
+  - '&7ものに加工できます。'
+  name: '&fツールロッド'
+  type:
+  - '&7&oコンポーネント'
+PART_TOOL_ROD_DUMMY:
+  description:
+  - '&7鋳造された道具の柄。'
+  name: '&fパーツ: 道具の柄'
+  type:
+  - '&7&o部品'
+PATHETIC_TRAIT_PROP_PLATES_SCRAP:
+  description:
+  - '&7この防具は身につけないこと。'
+  - '&7とても悪いことが起きるかもしれない'
+  - '&7警告したからな'
+  - '&7経験値+400%。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f哀れ'
+  type:
+  - '&7&o部品'
+PLANEWALKER_TRAIT_PROP_PLATES_VOID_INGOT:
+  description:
+  - '&7ヴォイドはもはや敵ではない'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fプレインウォーカー'
+  type:
+  - '&7&oコンポーネント'
+POISONOUS_II_TRAIT_PROP_HEAD_LEAD_SINGULARITY:
+  description:
+  - '&7より頻繁に、より長く毒を付与します。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fポイズナス II'
+  type:
+  - '&7&oコンポーネント'
+POISONOUS_TRAIT_PROP_HEAD_LEAD_DUST:
+  description:
+  - '&7命中時に25%の確率で毒を付与する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f毒性'
+  type:
+  - '&7&oコンポーネント'
+POWERED_ON_TRAIT_PROP_PLATES_REDSTONE_ALLOY:
+  description:
+  - '&75x2x5範囲内のブロックをランダムに通電します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fパワードオン'
+  type:
+  - '&7&oコンポーネント'
+PROP_BINDING:
+  description:
+  - '&7任意の「バインダー」アイテム。'
+  name: '&fパーツ: バインダー'
+  type:
+  - '&7&o部品'
+PROP_GAMBESON:
+  description:
+  - '&7任意の「ガンベゾン」アイテム。'
+  name: '&fパーツ: ガンベゾン'
+  type:
+  - '&7&o部品'
+PROP_HEAD:
+  description:
+  - '&7任意の「頭部」アイテム(剣の刃、斧の刃など)。'
+  name: '&fパーツ: 頭部'
+  type:
+  - '&7&o部品'
+PROP_LINKS:
+  description:
+  - '&7任意の「鎖リンク」アイテム。'
+  name: '&fパーツ: 鎖リンク'
+  type:
+  - '&7&o部品'
+PROP_PLATES:
+  description:
+  - '&7任意の「プレート」アイテム(ヘルメットプレート、ブーツプレートなど)。'
+  name: '&fパーツ: プレート'
+  type:
+  - '&7&o部品'
+PROP_ROD:
+  description:
+  - '&7任意の「道具の柄」アイテム。'
+  name: '&fパーツ: 道具の柄'
+  type:
+  - '&7&o部品'
+PROSPEROUS_II_TRAIT_PROP_PLATES_GOLD_SINGULARITY:
+  description:
+  - '&7被弾時、1%の確率で金塊1~4個をドロップ'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fプロスペラス II'
+  type:
+  - '&7&oコンポーネント'
+PROSPEROUS_TRAIT_PROP_PLATES_GOLD_DUST:
+  description:
+  - '&7被弾時に1%の確率で金塊をドロップする'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f繁栄'
+  type:
+  - '&7&oコンポーネント'
+PROTECTIVE_TRAIT_PROP_HEAD_IRIDIUM:
+  description:
+  - '&7死から救ってくれる（CD 20分）'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f保護'
+  type:
+  - '&7&o部品'
+PURIFIED_PASSION_LIQUID:
+  description:
+  - '&7ピュリファイドパッションの溶融形態。'
+  name: '&f溶融のピュリファイドパッション'
+  type:
+  - '&7&o素材'
+RADIOACTIVE_PLATES_TRAIT_PROP_PLATES_MAG_THOR:
+  description:
+  - '&7自分を攻撃した敵を毒状態にする。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f放射性プレート'
+  type:
+  - '&7&o部品'
+REALLY_STABLE_TRAIT_PROP_HEAD_REFINED_IRON:
+  description:
+  - '&7何も起こらない。レベルを上げれば変わる…？'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f実に安定'
+  type:
+  - '&7&o部品'
+REALLY_STAINLESS_TRAIT_PROP_HEAD_MAGSTEEL:
+  description:
+  - '&7ステンレスのようだが…本当に。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fリアリーステンレス'
+  type:
+  - '&7&oコンポーネント'
+RECYCLABLE_II_TRAIT_PROP_HEAD_ALUMINUM_SINGULARITY:
+  description:
+  - '&7攻撃時/ブロック破壊時、確率で耐久値を回復'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fリサイクラブル II'
+  type:
+  - '&7&oコンポーネント'
+RECYCLABLE_TRAIT_PROP_HEAD_ALUMINUM_DUST:
+  description:
+  - '&7攻撃/採掘時に耐久値が回復することがある'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fリサイクル可能'
+  type:
+  - '&7&oコンポーネント'
+REDSTONE_ALLOY_ALLOY:
+  description:
+  - '&7レッドストーン合金の溶融合金。'
+  name: '&f溶融のレッドストーン合金'
+  type:
+  - '&7&o素材'
+REDSTONE_ALLOY_LIQUID:
+  description:
+  - '&7レッドストーン合金の溶融形態。'
+  name: '&f溶融のレッドストーン合金'
+  type:
+  - '&7&o素材'
+REDSTONE_LIQUID:
+  description:
+  - '&7レッドストーンの溶融形態。'
+  name: '&f溶融のレッドストーン'
+  type:
+  - '&7&o素材'
+REFINED_IRON_LIQUID:
+  description:
+  - '&7リファインドアイアンの溶融体。'
+  name: '&f溶融リファインドアイアン'
+  type:
+  - '&7&o素材'
+REFRESHING_TRAIT_PROP_BINDING_WARPED_ROOTS:
+  description:
+  - '&7所持者を徐々に回復させます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fリフレッシング'
+  type:
+  - '&7&oコンポーネント'
+REFRESHING_TRAIT_PROP_GAMBESON_WARPED_ROOTS:
+  description:
+  - '&7装備しているプレイヤーを徐々に回復させます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fリフレッシング'
+  type:
+  - '&7&oコンポーネント'
+REINFORCABLE_TRAIT_PROP_PLATES_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7プレートの改造が2倍でカウントされます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fリインフォーサブル'
+  type:
+  - '&7&oコンポーネント'
+REINFORCED_ALLOY_ALLOY:
+  description:
+  - '&7リインフォースドアロイの溶融合金。'
+  name: '&f溶融のリインフォースドアロイ'
+  type:
+  - '&7&o素材'
+REINFORCED_ALLOY_LIQUID:
+  description:
+  - '&7リインフォースドアロイの溶融形態。'
+  name: '&f溶融のリインフォースドアロイ'
+  type:
+  - '&7&o素材'
+REINFORCED_DRACONIUM_ALLOY:
+  description:
+  - '&7リインフォースド・ドラコニウムの溶融合金。'
+  name: '&f溶融リインフォースド・ドラコニウム'
+  type:
+  - '&7&o素材'
+REINFORCED_DRACONIUM_LIQUID:
+  description:
+  - '&7リインフォースド・ドラコニウムの溶融体。'
+  name: '&f溶融リインフォースド・ドラコニウム'
+  type:
+  - '&7&o素材'
+REINFORCED_TRAIT_PROP_HEAD_TITANIUM:
+  description:
+  - '&7ツールのプレート改造は全て2倍でカウントされます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fリインフォースド'
+  type:
+  - '&7&oコンポーネント'
+REINFORCED_TRAIT_PROP_ROD_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7ツールのプレート改造は全て2倍でカウントされます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fリインフォースド'
+  type:
+  - '&7&oコンポーネント'
+REMOTININIUM_LIQUID:
+  description:
+  - '&7レモティニニウムの溶融体。'
+  name: '&f溶融レモティニニウム'
+  type:
+  - '&7&o素材'
+RESISTANCE_TRAIT_PROP_HEAD_BRONZE_INGOT:
+  description:
+  - '&7所持している間、耐火効果を付与する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f耐性'
+  type:
+  - '&7&oコンポーネント'
+RUSTY_II_TRAIT_PROP_LINKS_IRON_SINGULARITY:
+  description:
+  - '&7防具耐久値減少+10%。プレイヤー経験値獲得+20%'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fラスティ II'
+  type:
+  - '&7&oコンポーネント'
+RUSTY_TRAIT_PROP_LINKS_IRON_DUST:
+  description:
+  - '&7防具の耐久減少 +10%。プレイヤー経験値獲得 +10%'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f錆びた'
+  type:
+  - '&7&oコンポーネント'
+SCARPAAARR!_TRAIT_PROP_LINKS_BRASS_INGOT:
+  description:
+  - '&7耐久減少が2倍になる。体力が半分以下でダメージを受けると速度3を得る。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fスカルパー!'
+  type:
+  - '&7&oコンポーネント'
+SCRAP_LIQUID:
+  description:
+  - '&7スクラップの溶融体。'
+  name: '&f溶融スクラップ'
+  type:
+  - '&7&o素材'
+SEARED_BRICK:
+  description:
+  - '&7溶鉱炉のブロックの作成に使用する。'
+  name: '&f焼けたレンガ'
+  type:
+  - '&7&oコンポーネント'
+SEARED_BRICK_BLOCK:
+  description:
+  - '&7溶鉱炉の建設に使用する。'
+  name: '&f焼けたレンガブロック'
+  type:
+  - '&7&oコンポーネント'
+SEARED_TANK:
+  description:
+  - '&7溶鉱炉の建設に使用する。'
+  name: '&f焼けたタンク'
+  type:
+  - '&7&oコンポーネント'
+SECRETS_REVEALED_TRAIT_PROP_ROD_MAGIC_SINGULARITY:
+  description:
+  - '&7近くの生物（そうでないものも！）を全て可視化する。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&f暴かれた秘密'
+  type:
+  - '&7&o部品'
+SEFIRITE_LIQUID:
+  description:
+  - '&7セフィライトの溶融形態。'
+  name: '&f溶融のセフィライト'
+  type:
+  - '&7&o素材'
+SHARP_1_II_TRAIT_PROP_ROD_IRON_SINGULARITY:
+  description:
+  - '&7なんとも紛らわしい名前だ。+ダメージ'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fシャープ1 II'
+  type:
+  - '&7&oコンポーネント'
+SHARP_1_TRAIT_PROP_ROD_IRON_DUST:
+  description:
+  - '&7ダメージが増加し、他のMODや'
+  - '&7特性と重複する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fシャープ1'
+  type:
+  - '&7&oコンポーネント'
+SHARP_2_TRAIT_PROP_HEAD_ALUMINUM_BRONZE_INGOT:
+  description:
+  - '&7ダメージが増加し、他のMODや'
+  - '&7特性と重複する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fシャープ2'
+  type:
+  - '&7&oコンポーネント'
+SHOCK_ABSORBANT_TRAIT_PROP_LINKS_DURALUMIN_INGOT:
+  description:
+  - '&710%の確率でダメージを無効化する。加算されない'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f衝撃吸収'
+  type:
+  - '&7&oコンポーネント'
+SICKLY_II_TRAIT_PROP_LINKS_LEAD_SINGULARITY:
+  description:
+  - '&7鉛の防具は非常に悪い考えだ'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fシックリー II'
+  type:
+  - '&7&oコンポーネント'
+SICKLY_II_TRAIT_PROP_PLATES_LEAD_SINGULARITY:
+  description:
+  - '&7鉛の防具は非常に悪い考えだ'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fシックリー II'
+  type:
+  - '&7&oコンポーネント'
+SICKLY_TRAIT_PROP_LINKS_LEAD_DUST:
+  description:
+  - '&7鉛の防具は良い選択とは言えない'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f病弱'
+  type:
+  - '&7&oコンポーネント'
+SICKLY_TRAIT_PROP_PLATES_LEAD_DUST:
+  description:
+  - '&7鉛の防具は良い選択とは言えない'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f病弱'
+  type:
+  - '&7&oコンポーネント'
+SILICON_LIQUID:
+  description:
+  - '&7シリコンの溶融形態。'
+  name: '&f溶融のシリコン'
+  type:
+  - '&7&o素材'
+SILVER_LIQUID:
+  description:
+  - '&7銀を溶かした状態のもの。'
+  name: '&f溶融銀'
+  type:
+  - '&7&o素材'
+SILVER_SINGULARITY_LIQUID:
+  description:
+  - '&7銀シンギュラリティの溶融形態。'
+  name: '&f溶融の銀シンギュラリティ'
+  type:
+  - '&7&o素材'
+SLIME_LIQUID:
+  description:
+  - '&7スライムの溶融形態。'
+  name: '&f溶融のスライム'
+  type:
+  - '&7&o素材'
+SLOW_LEARNER_TRAIT_PROP_BINDING_SILICON:
+  description:
+  - '&7ブロック破壊時のツール経験値獲得が'
+  - '&7(ツールレベル x 5%)増加します'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fスローラーナー'
+  type:
+  - '&7&oコンポーネント'
+SLOW_LEARNER_TRAIT_PROP_GAMBESON_SILICON:
+  description:
+  - '&7防具経験値獲得 = (レベル x 5%)'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fスローラーナー'
+  type:
+  - '&7&oコンポーネント'
+SMELTERY_CONTROLLER:
+  description:
+  - '&7溶鉱炉のブロックの作成に使用する。'
+  name: '&f溶鉱炉コントローラー'
+  type:
+  - '&7&oコンポーネント'
+SMITHIUM_ALLOY:
+  description:
+  - '&7スミシウムの溶融合金。'
+  name: '&f溶融のスミシウム'
+  type:
+  - '&7&o素材'
+SMITHIUM_LIQUID:
+  description:
+  - '&7スミシウムの溶融形態。'
+  name: '&f溶融のスミシウム'
+  type:
+  - '&7&o素材'
+SNEAKY_II_TRAIT_PROP_PLATES_ZINC_SINGULARITY:
+  description:
+  - '&7対象が背を向けている場合、ダメージが2倍になります。'
+  - '&7判定範囲は広め'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fスニーキー II'
+  type:
+  - '&7&oコンポーネント'
+SNEAKY_TRAIT_PROP_PLATES_ZINC_DUST:
+  description:
+  - '&7対象が背を向けているとダメージが2倍になる。'
+  - '&7わずかな許容範囲あり'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f卑劣'
+  type:
+  - '&7&oコンポーネント'
+SNROHT_TRAIT_PROP_LINKS_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7棘のダメージを無効化し反射する'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fスンロート'
+  type:
+  - '&7&oコンポーネント'
+SOFT_II_TRAIT_PROP_ROD_ALUMINUM_SINGULARITY:
+  description:
+  - '&7耐久値減少+100%、ツール経験値+100%。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fソフト II'
+  type:
+  - '&7&oコンポーネント'
+SOFT_LANDING_TRAIT_PROP_PLATES_SOLDER_INGOT:
+  description:
+  - '&7壁への激突でダメージを受けなくなる'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fソフトランディング'
+  type:
+  - '&7&oコンポーネント'
+SOFT_TOUCH_II_TRAIT_PROP_ROD_SILVER_SINGULARITY:
+  description:
+  - '&7ずっと軽く感じる。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fソフトタッチ II'
+  type:
+  - '&7&oコンポーネント'
+SOFT_TOUCH_TRAIT_PROP_ROD_SILVER_DUST:
+  description:
+  - '&7体が軽く感じる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fソフトタッチ'
+  type:
+  - '&7&oコンポーネント'
+SOFT_TRAIT_PROP_ROD_ALUMINUM_DUST:
+  description:
+  - '&7耐久減少 +100%、道具経験値 +50%。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fソフト'
+  type:
+  - '&7&oコンポーネント'
+SOLAR_POWERED_TRAIT_PROP_PLATES_FERROSILICON:
+  description:
+  - '&7日中に耐久値を回復します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fソーラーパワード'
+  type:
+  - '&7&oコンポーネント'
+SOLDER_ALLOY:
+  description:
+  - '&7はんだの溶融合金金属。'
+  name: '&f溶融はんだ'
+  type:
+  - '&7&o素材'
+SOLDER_LIQUID:
+  description:
+  - '&7はんだを溶かした状態のもの。'
+  name: '&f溶融はんだ'
+  type:
+  - '&7&o素材'
+SPOUT:
+  description:
+  - '&7溶鉱炉の建設に使用する。'
+  name: '&f焼けた注ぎ口'
+  type:
+  - '&7&oコンポーネント'
+SPRINGS_TRAIT_PROP_ROD_BILLON_INGOT:
+  description:
+  - '&7ジャンプ力が上昇する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fバネ'
+  type:
+  - '&7&oコンポーネント'
+STABILITY_II_TRAIT_PROP_HEAD_IRON_SINGULARITY:
+  description:
+  - '&7やはり何も起きない'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fスタビリティ II'
+  type:
+  - '&7&oコンポーネント'
+STABILITY_TRAIT_PROP_HEAD_IRON_DUST:
+  description:
+  - '&7何も...起きない!'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f安定性'
+  type:
+  - '&7&oコンポーネント'
+STAINLESS_STEEL_ALLOY:
+  description:
+  - '&7ステンレス鋼の溶融合金。'
+  name: '&f溶融ステンレス鋼'
+  type:
+  - '&7&o素材'
+STAINLESS_STEEL_LIQUID:
+  description:
+  - '&7ステンレス鋼の溶融体。'
+  name: '&f溶融ステンレス鋼'
+  type:
+  - '&7&o素材'
+STAINLESS_TRAIT_PROP_HEAD_STEEL_INGOT:
+  description:
+  - '&7この道具/武器は血を弾く。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fステンレス'
+  type:
+  - '&7&oコンポーネント'
+STARSHINE_TRAIT_PROP_PLATES_DYNATECH_STAR_DUST:
+  description:
+  - '&7夜間、5%の確率でハート1/2分回復する'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&f星の輝き'
+  type:
+  - '&7&o部品'
+STAR_DUST_LIQUID:
+  description:
+  - '&7スターダストの溶融体。'
+  name: '&f溶融スターダスト'
+  type:
+  - '&7&o素材'
+STEADFAST_II_TRAIT_PROP_PLATES_IRON_SINGULARITY:
+  description:
+  - '&7全ての爆発を無視します'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fステッドファスト II'
+  type:
+  - '&7&oコンポーネント'
+STEADFAST_TRAIT_PROP_PLATES_IRON_DUST:
+  description:
+  - '&733%の確率で爆発を無効化する'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f不動'
+  type:
+  - '&7&oコンポーネント'
+STEEL_ALLOY:
+  description:
+  - '&7鋼の溶融合金金属。'
+  name: '&f溶融鋼'
+  type:
+  - '&7&o素材'
+STEEL_LIQUID:
+  description:
+  - '&7鋼を溶かした状態のもの。'
+  name: '&f溶融鋼'
+  type:
+  - '&7&o素材'
+STIFF_TRAIT_PROP_HEAD_BRASS_INGOT:
+  description:
+  - '&7ダメージ +50%だが不運になる'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f硬直'
+  type:
+  - '&7&oコンポーネント'
+STIFF_TRAIT_PROP_ROD_MIXED_METAL_INGOT:
+  description:
+  - '&7ダメージ+50%だが不運になる'
+  - ''
+  - '&7追加: Core SlimeTinker'
+  name: '&fこわばり'
+  type:
+  - '&7&o部品'
+STING_OF_GONDOLIN_TRAIT_PROP_ROD_MYTHRIL:
+  description:
+  - '&7近くの敵対モブを全て撃退します。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fゴンドリンの針'
+  type:
+  - '&7&oコンポーネント'
+STRONG_TRAIT_PROP_LINKS_STEEL_INGOT:
+  description:
+  - '&7体力増強 +1'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f頑強'
+  type:
+  - '&7&oコンポーネント'
+STUDIOUS_TRAIT_PROP_ROD_ALUMINUM_BRASS_INGOT:
+  description:
+  - '&7道具とプレイヤーの経験値 +50%だがダメージは半減し'
+  - '&7行動が遅くなる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f勤勉'
+  type:
+  - '&7&oコンポーネント'
+SUPERHOT_TRAIT_PROP_LINKS_ADVANCED_ALLOY:
+  description:
+  - '&7近くのエンティティを発火させることがある'
+  - ''
+  - '&7追加: Core SlimeTinker'
+  name: '&fスーパーホット'
+  type:
+  - '&7&o部品'
+SUPERHOT_TRAIT_PROP_PLATES_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7周囲のエンティティを発火させることがある'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fスーパーホット'
+  type:
+  - '&7&oコンポーネント'
+SUPER_DOOPER_STAINLESS_TRAIT_PROP_HEAD_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7スチールやマグスチールに似ているが、さらに常軌を逸している。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&fスーパードゥーパーステンレス'
+  type:
+  - '&7&o部品'
+SUPER_LIGHTWEIGHT_II_TRAIT_PROP_ROD_ZINC_SINGULARITY:
+  description:
+  - '&7スニーク時、空気より軽くなります。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fスーパーライトウェイト II'
+  type:
+  - '&7&oコンポーネント'
+SUPER_LIGHTWEIGHT_TRAIT_PROP_ROD_ZINC_DUST:
+  description:
+  - '&7スニークしていない時、空気より軽くなる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f超軽量'
+  type:
+  - '&7&oコンポーネント'
+SWEATY_TRAIT_PROP_GAMBESON_RUBBER:
+  description:
+  - '&7ゴムの裏地は暑すぎる。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f汗だく'
+  type:
+  - '&7&o部品'
+TARNISHED_II_TRAIT_PROP_LINKS_COPPER_SINGULARITY:
+  description:
+  - '&7与ダメージ25%減少。防具経験値+40%'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fターニッシュド II'
+  type:
+  - '&7&oコンポーネント'
+TARNISHED_TRAIT_PROP_LINKS_COPPER_DUST:
+  description:
+  - '&7与ダメージが25%減少する。防具経験値 +20%'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fくすんだ'
+  type:
+  - '&7&oコンポーネント'
+TARNISHED_TRAIT_PROP_PLATES_MAGSTEEL:
+  description:
+  - '&7与ダメージ25%減少。防具経験値+20%'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fターニッシュド'
+  type:
+  - '&7&oコンポーネント'
+TERRIBLE_TRAIT_PROP_HEAD_SCRAP:
+  description:
+  - '&7耐久値消費+300%。経験値獲得0%。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&fひどい'
+  type:
+  - '&7&o部品'
+TESSERACTING_MATERIAL_LIQUID:
+  description:
+  - '&7テッセラクティング・マテリアルの溶融体。'
+  name: '&f溶融テッセラクティング・マテリアル'
+  type:
+  - '&7&o素材'
+THE_END_TRAIT_PROP_LINKS_VOID_INGOT:
+  description:
+  - '&7ドラゴン、エンダーマン、シュルカーからの'
+  - '&7ダメージを10%軽減します'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fジ・エンド'
+  type:
+  - '&7&oコンポーネント'
+THE_STANDARD_TRAIT_PROP_PLATES_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7受けるダメージを5%軽減する'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&f標準'
+  type:
+  - '&7&o部品'
+THICK_TRAIT_PROP_BINDING_LEATHER:
+  description:
+  - '&7ツール経験値獲得 +50%'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f厚手'
+  type:
+  - '&7&oコンポーネント'
+THICK_TRAIT_PROP_GAMBESON_LEATHER:
+  description:
+  - '&7防具経験値獲得 +10%'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f厚手'
+  type:
+  - '&7&oコンポーネント'
+THORIUM_LIQUID:
+  description:
+  - '&7トリウムの溶融体。'
+  name: '&f溶融トリウム'
+  type:
+  - '&7&o素材'
+TINKERS_ARMOUR_TABLE:
+  description:
+  - '&7パーツを組み合わせて防具を作る。'
+  name: '&fティンカーズの防具テーブル'
+  type:
+  - '&7&o機械'
+  usage:
+  - '&e右クリック&7でインターフェースを開く。'
+TINKERS_MOD_STATION:
+  description:
+  - '&7道具と武器に改造を施す。'
+  name: '&fティンカーズの改造ステーション'
+  type:
+  - '&7&o機械'
+  usage:
+  - '&e右クリック&7でインターフェースを開く。'
+TINKERS_REPAIR_BENCH:
+  description:
+  - '&7道具と武器を修理する。'
+  name: '&fティンカーズの修理台'
+  type:
+  - '&7&o機械'
+  usage:
+  - '&e右クリック&7でインターフェースを開く。'
+TINKERS_SMELTERY_CORE:
+  description:
+  - '&7金属を溶かして液体にする。'
+  - '&7溶けた金属は合金にしたり'
+  - '&7様々な形に鋳造できる。'
+  - '&7燃料として溶岩が必要'
+  name: '&fティンカーズの溶鉱炉'
+  type:
+  - '&7&oマルチブロック'
+  usage:
+  - マルチブロックを組み立てた後、&e右クリック&7で溶鉱炉コントローラーを使用する。
+TINKERS_SWAPPING_STATION:
+  description:
+  - '&7道具のパーツを新しいパーツと交換する。'
+  name: '&fティンカーズの交換ステーション'
+  type:
+  - '&7&o機械'
+  usage:
+  - '&e右クリック&7でインターフェースを開く。'
+TINKERS_TABLE:
+  description:
+  - '&7パーツを組み合わせて道具を作る。'
+  name: '&fティンカーズの道具テーブル'
+  type:
+  - '&7&o機械'
+  usage:
+  - '&e右クリック&7でインターフェースを開く。'
+TINKERS_WORKBENCH:
+  description:
+  - '&7ティンカーズの道具や建造物のための'
+  - '&7様々なアイテムやパーツの'
+  - '&7作成に使用する。また拡張'
+  - '&7クラフトテーブルとしても機能する。'
+  name: '&fティンカーズの作業台'
+  type:
+  - '&7&o機械'
+  usage:
+  - '&e右クリック&7でインターフェースを開く。'
+TIN_LIQUID:
+  description:
+  - '&7錫を溶かした状態のもの。'
+  name: '&f溶融錫'
+  type:
+  - '&7&o素材'
+TIN_SINGULARITY_LIQUID:
+  description:
+  - '&7錫シンギュラリティの溶融形態。'
+  name: '&f溶融の錫シンギュラリティ'
+  type:
+  - '&7&o素材'
+TITANIUM_ALLOY:
+  description:
+  - '&7チタンの溶融合金。'
+  name: '&f溶融のチタン'
+  type:
+  - '&7&o素材'
+TITANIUM_LIQUID:
+  description:
+  - '&7チタンの溶融形態。'
+  name: '&f溶融のチタン'
+  type:
+  - '&7&o素材'
+TOOL_AXE:
+  description:
+  - '&73つのパーツで構成された斧。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  name: '&fティンカーズアックス'
+  type:
+  - '&7&oツール'
+TOOL_AXE_ENTRY:
+  description:
+  - '&73つのパーツから作られる斧。'
+  - '&7ティンカーズの道具はレベルアップし'
+  - '&7追加の特性や改造を得ることができる。'
+  name: '&fティンカーズの斧'
+  type:
+  - '&7&o道具'
+TOOL_AXE_EXP:
+  description:
+  - '&73つのパーツで構成された斧。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  - '&7このバリアントは一度に範囲のブロックを破壊します。'
+  name: '&fティンカーズアックス(爆発)'
+  type:
+  - '&7&oツール'
+TOOL_HOE:
+  description:
+  - '&73つのパーツで構成されたクワ。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  name: '&fティンカーズホー'
+  type:
+  - '&7&oツール'
+TOOL_HOE_ENTRY:
+  description:
+  - '&73つのパーツから作られるクワ。'
+  - '&7ティンカーズの道具はレベルアップし'
+  - '&7追加の特性や改造を得ることができる。'
+  name: '&fティンカーズのクワ'
+  type:
+  - '&7&o道具'
+TOOL_HOE_EXP:
+  description:
+  - '&73つのパーツで構成されたクワ。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  - '&7このバリアントは一度に範囲のブロックを破壊します。'
+  name: '&fティンカーズホー(爆発)'
+  type:
+  - '&7&oツール'
+TOOL_PICKAXE:
+  description:
+  - '&73つのパーツで構成されたツルハシ。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  name: '&fティンカーズピッケル'
+  type:
+  - '&7&oツール'
+TOOL_PICKAXE_ENTRY:
+  description:
+  - '&73つのパーツから作られるつるはし。'
+  - '&7ティンカーズの道具はレベルアップし'
+  - '&7追加の特性や改造を得ることができる。'
+  name: '&fティンカーズのつるはし'
+  type:
+  - '&7&o道具'
+TOOL_PICKAXE_EXP:
+  description:
+  - '&73つのパーツで構成されたツルハシ。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  - '&7このバリアントは一度に範囲のブロックを破壊します。'
+  name: '&fティンカーズピッケル(爆発)'
+  type:
+  - '&7&oツール'
+TOOL_SHOVEL:
+  description:
+  - '&73つのパーツで構成されたシャベル。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  name: '&fティンカーズシャベル'
+  type:
+  - '&7&oツール'
+TOOL_SHOVEL_ENTRY:
+  description:
+  - '&73つのパーツから作られるシャベル。'
+  - '&7ティンカーズの道具はレベルアップし'
+  - '&7追加の特性や改造を得ることができる。'
+  name: '&fティンカーズのシャベル'
+  type:
+  - '&7&o道具'
+TOOL_SHOVEL_EXP:
+  description:
+  - '&73つのパーツで構成されたシャベル。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  - '&7このバリアントは一度に範囲のブロックを破壊します。'
+  name: '&fティンカーズシャベル(爆発)'
+  type:
+  - '&7&oツール'
+TOOL_SWORD:
+  description:
+  - '&73つのパーツで構成された剣。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  name: '&fティンカーズソード'
+  type:
+  - '&7&oツール'
+TOOL_SWORD_ENTRY:
+  description:
+  - '&73つのパーツから作られる剣。'
+  - '&7ティンカーズの道具はレベルアップし'
+  - '&7追加の特性や改造を得ることができる。'
+  name: '&fティンカーズの剣'
+  type:
+  - '&7&o道具'
+TOOL_SWORD_EXP:
+  description:
+  - '&73つのパーツで構成された剣。'
+  - '&7ティンカーズツールはレベルアップし、'
+  - '&7追加の特性や改造を得られます。'
+  - '&7このバリアントは一度に範囲のブロックを破壊します。'
+  name: '&fティンカーズソード(爆発)'
+  type:
+  - '&7&oツール'
+TOO_HOT_TO_HANDLE_TRAIT_PROP_ROD_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7?'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f触れられないほど熱い'
+  type:
+  - '&7&oコンポーネント'
+TOUGHENED_TRAIT_PROP_PLATES_HARDENED_METAL_INGOT:
+  description:
+  - '&7耐久値が減少しなくなる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f強化'
+  type:
+  - '&7&oコンポーネント'
+TRICKS_TRAIT_PROP_HEAD_MAGIC_SINGULARITY:
+  description:
+  - '&7近くの存在にたちの悪いいたずらを仕掛ける。'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&fいたずら'
+  type:
+  - '&7&o部品'
+TUFF_STUFF_TRAIT_PROP_HEAD_HARDENED_METAL_INGOT:
+  description:
+  - '&7命中した相手をノックバックさせ、'
+  - '&7一定確率でスタンさせる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fタフガイ'
+  type:
+  - '&7&oコンポーネント'
+ULTIMANINIUM_ALLOY:
+  description:
+  - '&7アルティマニニウムの溶融合金。'
+  name: '&f溶融アルティマニニウム'
+  type:
+  - '&7&o素材'
+ULTIMANINIUM_LIQUID:
+  description:
+  - '&7アルティマニニウムの溶融体。'
+  name: '&f溶融アルティマニニウム'
+  type:
+  - '&7&o素材'
+UNCONVENTIONAL_POWER_TRAIT_PROP_LINKS_IRIDIUM:
+  description:
+  - '&7受けたダメージは記憶される。右'
+  - '&7クリックでインベントリのアイテムを充電する。'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&f型破りな力'
+  type:
+  - '&7&o部品'
+VAMPIRISM_TRAIT_PROP_HEAD_DAMASCUS_STEEL_INGOT:
+  description:
+  - '&7与えたダメージ分回復することがある。'
+  - '&7与ダメージは時間帯によって変動する。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f吸血'
+  type:
+  - '&7&oコンポーネント'
+VAMPIRISM_TRAIT_PROP_ROD_MAG_THOR:
+  description:
+  - '&7与えたダメージ分、確率で回復する。'
+  - '&7与えるダメージは時間帯によって変動する。'
+  - ''
+  - '&7追加: Core SlimeTinker'
+  name: '&f吸血'
+  type:
+  - '&7&o部品'
+VEX_GEM_LIQUID:
+  description:
+  - '&7ヴェックスジェムの溶融体。'
+  name: '&f溶融ヴェックスジェム'
+  type:
+  - '&7&o素材'
+VOID_LIQUID:
+  description:
+  - '&7ヴォイドの溶融形態。'
+  name: '&f溶融のヴォイド'
+  type:
+  - '&7&o素材'
+VOID_MINER_TRAIT_PROP_HEAD_VOID_INGOT:
+  description:
+  - '&7採掘/掘削中にランダムで鉱石を生成します。'
+  - ''
+  - '&7追加元: Infinity Expansion'
+  name: '&fヴォイドマイナー'
+  type:
+  - '&7&oコンポーネント'
+WARM_BLODDED_TRAIT_PROP_LINKS_CORINTHIAN_BRONZE_INGOT:
+  description:
+  - '&7ネザーで暑いと速度+2。'
+  - '&7エンドで寒いと鈍化+1'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f温血'
+  type:
+  - '&7&oコンポーネント'
+WARP_TRAIT_PROP_ROD_IRIDIUM:
+  description:
+  - '&7相手の向きを反転させる。（CD: 20分）'
+  - ''
+  - '&7追加: LiteXpansion'
+  name: '&fワープ'
+  type:
+  - '&7&o部品'
+WATER_SAFE_TRAIT_PROP_LINKS_DYNATECH_STAINLESS_STEEL_INGOT:
+  description:
+  - '&7水中呼吸を得る'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&f水も安心'
+  type:
+  - '&7&o部品'
+WHM_TRAIT_PROP_PLATES_BILLON_INGOT:
+  description:
+  - '&7攻撃がダメージではなく回復になる。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fWHM'
+  type:
+  - '&7&oコンポーネント'
+WHO_NEEDS_PRESSURE_PLATES?_TRAIT_PROP_LINKS_REDSTONE_ALLOY:
+  description:
+  - '&7立っているブロックが通電します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&f感圧板なんて要らない？'
+  type:
+  - '&7&oコンポーネント'
+WITHERPROOF_TRAIT_PROP_LINKS_REINFORCED_ALLOY_INGOT:
+  description:
+  - '&7衰弱効果を無効化します。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fウィザープルーフ'
+  type:
+  - '&7&oコンポーネント'
+WIZARD_ROBES_TRAIT_PROP_PLATES_MAGIC_SINGULARITY:
+  description:
+  - '&7攻撃時、確率で魔法を発生させる'
+  - ''
+  - '&7追加: Infinity Expansion'
+  name: '&fウィザードローブ'
+  type:
+  - '&7&o部品'
+WORKS_TRAIT_PROP_BINDING_STRING:
+  description:
+  - '&7特別な効果はありません。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fワークス'
+  type:
+  - '&7&oコンポーネント'
+WORKS_TRAIT_PROP_GAMBESON_STRING:
+  description:
+  - '&7特別な効果はありませんが、防具を素早く作れます。'
+  - ''
+  - '&7追加元: Core SlimeTinker'
+  name: '&fワークス'
+  type:
+  - '&7&oコンポーネント'
+YVAINE_TRAIT_PROP_ROD_DYNATECH_STAR_DUST:
+  description:
+  - '&7幻想的な輝きを放ち、村人たちが'
+  - '&7より親しくなる。'
+  - ''
+  - '&7追加: DynaTech'
+  name: '&fイヴェイン'
+  type:
+  - '&7&o部品'
+ZINC_LIQUID:
+  description:
+  - '&7亜鉛を溶かした状態のもの。'
+  name: '&f溶融亜鉛'
+  type:
+  - '&7&o素材'
+ZINC_SINGULARITY_LIQUID:
+  description:
+  - '&7亜鉛シンギュラリティの溶融形態。'
+  name: '&f溶融の亜鉛シンギュラリティ'
+  type:
+  - '&7&o素材'
