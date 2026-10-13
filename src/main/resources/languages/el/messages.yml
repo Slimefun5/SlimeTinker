@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Αυτό δεν μπορεί να πεταχτεί."
+guide:
+  widgets:
+    armor: '&bΠανοπλία Tinker: οδηγός'
+    magic: '&bΤροποποιητές & χαρακτηριστικά: οδηγός'
+    resources: '&bΕξαρτήματα & κατασκευή: οδηγός'
+    tools: '&bΕργαλεία Tinker: οδηγός'

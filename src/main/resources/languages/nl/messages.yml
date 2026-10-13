@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Dit kan niet weggegooid worden."
+guide:
+  widgets:
+    armor: '&bTinker-harnas: gids'
+    magic: '&bModificaties & eigenschappen: gids'
+    resources: '&bOnderdelen & bouwen: gids'
+    tools: '&bTinker-gereedschap: gids'

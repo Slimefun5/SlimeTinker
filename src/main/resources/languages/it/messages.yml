@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Questo non può essere lasciato cadere."
+guide:
+  widgets:
+    armor: '&bArmatura Tinker: guida'
+    magic: '&bModificatori e tratti: guida'
+    resources: '&bParti e costruzione: guida'
+    tools: '&bStrumenti Tinker: guida'

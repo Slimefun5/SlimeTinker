@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Ezt nem lehet eldobni."
+guide:
+  widgets:
+    armor: '&bTinker páncél: útmutató'
+    magic: '&bMódosítók és vonások: útmutató'
+    resources: '&bAlkatrészek és építés: útmutató'
+    tools: '&bTinker szerszámok: útmutató'

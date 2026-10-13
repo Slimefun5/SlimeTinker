@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "لا يمكن إسقاط هذا."
+guide:
+  widgets:
+    armor: '&bدروع Tinker: دليل'
+    magic: '&bالمعدّلات والسمات: دليل'
+    resources: '&bالأجزاء والبناء: دليل'
+    tools: '&bأدوات Tinker: دليل'

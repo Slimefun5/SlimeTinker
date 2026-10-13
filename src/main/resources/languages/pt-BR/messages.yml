@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Isso não pode ser derrubado."
+guide:
+  widgets:
+    armor: '&bArmadura Tinker: guia'
+    magic: '&bModificadores e traços: guia'
+    resources: '&bPeças e construção: guia'
+    tools: '&bFerramentas Tinker: guia'

@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Hindi ito maaaring ibagsak."
+guide:
+  widgets:
+    armor: '&bBaluti ng Tinker: gabay'
+    magic: '&bMga pambago at katangian: gabay'
+    resources: '&bMga parte at pagtatayo: gabay'
+    tools: '&bMga kasangkapan ng Tinker: gabay'

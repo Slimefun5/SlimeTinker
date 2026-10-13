@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "To sa nedá zahodiť."
+guide:
+  widgets:
+    armor: '&bZbroj Tinker: príručka'
+    magic: '&bModifikátory a vlastnosti: príručka'
+    resources: '&bDiely a stavba: príručka'
+    tools: '&bNástroje Tinker: príručka'

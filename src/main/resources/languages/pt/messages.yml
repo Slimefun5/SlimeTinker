@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Isto não pode ser largado."
+guide:
+  widgets:
+    armor: '&bArmadura Tinker: guia'
+    magic: '&bModificadores e traços: guia'
+    resources: '&bPeças e construção: guia'
+    tools: '&bFerramentas Tinker: guia'

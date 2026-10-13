@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Cái này không thể bỏ xuống."
+guide:
+  widgets:
+    armor: '&bGiáp Tinker: hướng dẫn'
+    magic: '&bĐiều chỉnh & đặc tính: hướng dẫn'
+    resources: '&bBộ phận & chế tạo: hướng dẫn'
+    tools: '&bDụng cụ Tinker: hướng dẫn'

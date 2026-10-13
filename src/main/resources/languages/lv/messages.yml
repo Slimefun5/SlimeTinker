@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Šo nevar nomest."
+guide:
+  widgets:
+    armor: '&bTinker bruņas: ceļvedis'
+    magic: '&bModifikatori un īpašības: ceļvedis'
+    resources: '&bDetaļas un būvēšana: ceļvedis'
+    tools: '&bTinker darbarīki: ceļvedis'

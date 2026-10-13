@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Asta nu poate fi aruncată."
+guide:
+  widgets:
+    armor: '&bArmură Tinker: ghid'
+    magic: '&bModificatori și trăsături: ghid'
+    resources: '&bPiese și construcție: ghid'
+    tools: '&bUnelte Tinker: ghid'

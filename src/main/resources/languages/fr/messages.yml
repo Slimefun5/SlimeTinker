@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Cela ne peut pas être jeté."
+guide:
+  widgets:
+    armor: '&bArmure Tinker : guide'
+    magic: '&bModificateurs & traits : guide'
+    resources: '&bPièces & construction : guide'
+    tools: '&bOutils Tinker : guide'

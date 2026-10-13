@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Ini tidak bisa dibuang."
+guide:
+  widgets:
+    armor: '&bBaju besi Tinker: panduan'
+    magic: '&bPengubah & sifat: panduan'
+    resources: '&bKomponen & pembangunan: panduan'
+    tools: '&bPeralatan Tinker: panduan'

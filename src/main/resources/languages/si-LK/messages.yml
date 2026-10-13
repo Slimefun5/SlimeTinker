@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "මෙය බිම දැමිය නොහැක."
+guide:
+  widgets:
+    armor: '&bTinker සන්නාහ: මාර්ගෝපදේශය'
+    magic: '&bවිකරණ සහ ලක්ෂණ: මාර්ගෝපදේශය'
+    resources: '&bකොටස් සහ ගොඩනැගීම: මාර්ගෝපදේශය'
+    tools: '&bTinker මෙවලම්: මාර්ගෝපදේශය'

@@ -142,7 +142,9 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
             GuideWidget.Position.BOTTOM,
             (player, profile) -> WikiIndex.openAddonWiki(player, profile, getName(), category),
             getName(),
-            category));
+            category)
+            .setNameResolver(viewer -> Slimefun.getAddonMessageService()
+                .getMessage(viewer, this, "guide.widgets." + category, name)));
     }
 
     private void registerWiki() {

@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Dette kan ikke slippes."
+guide:
+  widgets:
+    armor: '&bTinker-rustning: guide'
+    magic: '&bModifikatorer & egenskaper: guide'
+    resources: '&bDeler & bygging: guide'
+    tools: '&bTinker-verktøy: guide'

@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Šio negalima išmesti."
+guide:
+  widgets:
+    armor: '&bTinker šarvai: vadovas'
+    magic: '&bModifikatoriai ir savybės: vadovas'
+    resources: '&bDalys ir statyba: vadovas'
+    tools: '&bTinker įrankiai: vadovas'

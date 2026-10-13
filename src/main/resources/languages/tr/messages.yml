@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Bu atılamaz."
+guide:
+  widgets:
+    armor: '&bTinker zırhı: kılavuz'
+    magic: '&bDeğiştiriciler ve özellikler: kılavuz'
+    resources: '&bParçalar ve yapı: kılavuz'
+    tools: '&bTinker aletleri: kılavuz'

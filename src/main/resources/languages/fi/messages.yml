@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Tätä ei voi pudottaa."
+guide:
+  widgets:
+    armor: '&bTinker-haarniska: opas'
+    magic: '&bMuokkaimet & piirteet: opas'
+    resources: '&bOsat & rakentaminen: opas'
+    tools: '&bTinker-työkalut: opas'

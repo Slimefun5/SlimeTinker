@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Ovo se ne može ispustiti."
+guide:
+  widgets:
+    armor: '&bTinker oklop: vodič'
+    magic: '&bModifikatori i osobine: vodič'
+    resources: '&bDijelovi i gradnja: vodič'
+    tools: '&bTinker alati: vodič'

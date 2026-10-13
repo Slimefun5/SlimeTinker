@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Ова не може да се испушти."
+guide:
+  widgets:
+    armor: '&bTinker оклоп: водич'
+    magic: '&bМодификатори и својства: водич'
+    resources: '&bДелови и градба: водич'
+    tools: '&bTinker алатки: водич'

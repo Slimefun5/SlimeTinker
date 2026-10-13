@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "This cannot be dropped."
+guide:
+  widgets:
+    armor: '&bTinker''s Armour Guide'
+    magic: '&bModifiers & Traits Guide'
+    resources: '&bParts & Building Guide'
+    tools: '&bTinker''s Tools Guide'

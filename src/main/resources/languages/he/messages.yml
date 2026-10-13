@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "לא ניתן להשליך את זה."
+guide:
+  widgets:
+    armor: '&bשריון Tinker: מדריך'
+    magic: '&bמאפיינים ותכונות: מדריך'
+    resources: '&bחלקים ובנייה: מדריך'
+    tools: '&bכלי Tinker: מדריך'

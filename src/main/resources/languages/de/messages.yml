@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "Das kann nicht weggeworfen werden."
+guide:
+  widgets:
+    armor: '&bTinker-Rüstung: Anleitung'
+    magic: '&bModifikatoren & Eigenschaften: Anleitung'
+    resources: '&bTeile & Bauen: Anleitung'
+    tools: '&bTinker-Werkzeuge: Anleitung'

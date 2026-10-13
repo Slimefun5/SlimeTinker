@@ -70,3 +70,9 @@ swapping:
 
 item:
   cannot-drop: "这个无法丢弃。"
+guide:
+  widgets:
+    armor: '&bTinker 护甲：指南'
+    magic: '&b修饰与特性：指南'
+    resources: '&b部件与建造：指南'
+    tools: '&bTinker 工具：指南'
