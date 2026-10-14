@@ -1,0 +1,12 @@
+slimetinker:
+  slime-tinker-workstations: 'สถานีงาน'
+  slime-tinker-materials: 'วัสดุ'
+  slime-tinker-molten: 'โลหะหลอมเหลว'
+  slime-tinker-alloys: 'โลหะผสม'
+  slime-tinker-casts: 'แม่พิมพ์'
+  slime-tinker-parts: 'คู่มือสร้างชิ้นส่วน'
+  slime-tinker-tools: 'คู่มือสร้างเครื่องมือ'
+  slime-tinker-armour: 'คู่มือสร้างเกราะ'
+  slime-tinker-properties: 'คุณสมบัติโลหะ'
+  slime-tinker-modifications: 'การดัดแปลง'
+  slime-tinker-part-dict: 'พจนานุกรมชิ้นส่วน'

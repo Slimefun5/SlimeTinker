@@ -1,0 +1,12 @@
+slimetinker:
+  slime-tinker-workstations: 'වැඩ මධ්‍යස්ථාන'
+  slime-tinker-materials: 'ද්‍රව්‍ය'
+  slime-tinker-molten: 'උණු කළ ලෝහ'
+  slime-tinker-alloys: 'මිශ්‍ර ලෝහ'
+  slime-tinker-casts: 'අච්චු'
+  slime-tinker-parts: 'කොටස් තැනීමේ මාර්ගෝපදේශය'
+  slime-tinker-tools: 'මෙවලම් තැනීමේ මාර්ගෝපදේශය'
+  slime-tinker-armour: 'සන්නාහ තැනීමේ මාර්ගෝපදේශය'
+  slime-tinker-properties: 'ලෝහ ලක්ෂණ'
+  slime-tinker-modifications: 'වෙනස් කිරීම්'
+  slime-tinker-part-dict: 'කොටස් ශබ්දකෝෂය'

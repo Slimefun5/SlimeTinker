@@ -107,6 +107,7 @@ public class SlimeTinker extends JavaPlugin implements SlimefunAddon {
         }
 
         Slimefun.getItemTranslationService().registerTranslations(this);
+        Slimefun.getLocalization().registerItemGroupTranslations(this);
         Slimefun.getAddonMessageService().registerTranslations(this);
         TinkerLang.load(this);
         // Assembled tools/armour/parts are named+lored at runtime from their PDC, so they route through

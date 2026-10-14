@@ -1,0 +1,12 @@
+slimetinker:
+  slime-tinker-workstations: 'Stasiun Kerja'
+  slime-tinker-materials: 'Bahan'
+  slime-tinker-molten: 'Logam Cair'
+  slime-tinker-alloys: 'Logam Paduan'
+  slime-tinker-casts: 'Cetakan'
+  slime-tinker-parts: 'Panduan Membuat Bagian'
+  slime-tinker-tools: 'Panduan Membuat Alat'
+  slime-tinker-armour: 'Panduan Membuat Zirah'
+  slime-tinker-properties: 'Sifat Logam'
+  slime-tinker-modifications: 'Modifikasi'
+  slime-tinker-part-dict: 'Kamus Bagian'
