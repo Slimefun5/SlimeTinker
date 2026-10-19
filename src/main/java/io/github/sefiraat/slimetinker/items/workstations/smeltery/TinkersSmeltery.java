@@ -67,7 +67,9 @@ public class TinkersSmeltery extends TickingMenuBlock {
         blockMenuPreset.drawBackground(GUIItems.MENU_BACKGROUND_CAST, BACKGROUND_CAST_SLOTS);
 
         blockMenuPreset.addItem(LAVA_INFO, GUIItems.menuLavaInfo(0, 0, TinkersSmelteryCache.LAVA_MAX));
+        blockMenuPreset.addMenuClickHandler(LAVA_INFO, (player, i, itemStack, clickAction) -> false);
         blockMenuPreset.addItem(METAL_INFO, GUIItems.menuMetalInfo(0, 0, TinkersSmelteryCache.METALS_MAX, null));
+        blockMenuPreset.addMenuClickHandler(METAL_INFO, (player, i, itemStack, clickAction) -> false);
 
         blockMenuPreset.addItem(PURGE_BUTTON, GUIItems.MENU_PURGE);
         blockMenuPreset.addMenuClickHandler(PURGE_BUTTON, (player, i, itemStack, clickAction) -> false);
