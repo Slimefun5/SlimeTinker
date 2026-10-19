@@ -2,7 +2,6 @@ package io.github.sefiraat.slimetinker.items.tinkermaterials.elements;
 
 import io.github.sefiraat.slimetinker.items.BaseItem;
 
-import io.github.mooy1.infinitylib.common.StackUtils;
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.events.friend.TraitEventType;
@@ -137,7 +136,7 @@ public class MaterialTrait {
                     "{0}_TRAIT_{1}_{2}",
                     traitName.toUpperCase(Locale.ROOT).replace(" ", "_"),
                     partType.getItemId().toUpperCase(Locale.ROOT),
-                    StackUtils.getIdOrType(parentCM.getRepresentativeStack())
+                    parentCM.getRepresentativeId()
                 ),
                 getTraitTexture(addedBy),
                 ThemeItemType.PROP,

@@ -1,5 +1,6 @@
 package io.github.sefiraat.slimetinker.items.tinkermaterials;
 
+import io.github.mooy1.infinitylib.common.StackUtils;
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.events.friend.EventFriend;
 import io.github.sefiraat.slimetinker.events.friend.TraitEventType;
@@ -36,6 +37,8 @@ public class TinkerMaterial {
     // Constructor
     private final String id;
     private final ItemStack representativeStack;
+    @Nullable
+    private final String representativeId;
 
     @Nullable
     private String liquidTexture;
@@ -88,8 +91,22 @@ public class TinkerMaterial {
 
     @ParametersAreNonnullByDefault
     public TinkerMaterial(String id, ItemStack representativeStack, String colorHex) {
+        this(id, representativeStack, null, colorHex);
+    }
+
+    /**
+     * @implNote Keeps the {@link XMaterial} name for the ids derived from this material, because on 1.8 a material
+     *           added later (crimson roots, twisting vines) resolves to stone.
+     */
+    @ParametersAreNonnullByDefault
+    public TinkerMaterial(String id, XMaterial material, String colorHex) {
+        this(id, new ItemStack(MaterialCompat.safe(material)), material.name(), colorHex);
+    }
+
+    private TinkerMaterial(@Nonnull String id, @Nonnull ItemStack representativeStack, @Nullable String representativeId, @Nonnull String colorHex) {
         this.id = id;
         this.representativeStack = representativeStack;
+        this.representativeId = representativeId;
         this.colorHex = colorHex;
     }
 
@@ -462,6 +479,11 @@ public class TinkerMaterial {
 
     public ItemStack getRepresentativeStack() {
         return this.representativeStack;
+    }
+
+    @Nonnull
+    public String getRepresentativeId() {
+        return this.representativeId != null ? this.representativeId : StackUtils.getIdOrType(this.representativeStack);
     }
 
     @Nullable
