@@ -2,6 +2,7 @@ package io.github.sefiraat.slimetinker.items;
 
 import io.github.sefiraat.slimetinker.SlimeTinker;
 import io.github.sefiraat.slimetinker.itemgroups.ItemGroups;
+import io.github.sefiraat.slimetinker.items.tinkermaterials.elements.MaterialTrait;
 import io.github.sefiraat.slimetinker.items.templates.PartTemplate;
 import io.github.sefiraat.slimetinker.items.templates.RepairkitTemplate;
 import io.github.sefiraat.slimetinker.items.workstations.smeltery.DummySmeltery;
@@ -148,6 +149,24 @@ public final class Parts {
         registerTemplateOnly(p, LEG_PLATE);
         registerTemplateOnly(p, BOOT_PLATE);
 
+        registerDisplayOnly(p, PART_BINDING_GENERAL_DISPLAY);
+        registerDisplayOnly(p, PART_GAMBESON_GENERAL_DISPLAY);
+        registerDisplayOnly(p, MaterialTrait.PROP_HEAD);
+        registerDisplayOnly(p, MaterialTrait.PROP_BINDING);
+        registerDisplayOnly(p, MaterialTrait.PROP_ROD);
+        registerDisplayOnly(p, MaterialTrait.PROP_PLATES);
+        registerDisplayOnly(p, MaterialTrait.PROP_GAMBESON);
+        registerDisplayOnly(p, MaterialTrait.PROP_LINKS);
+    }
+
+    /**
+     * Registers a stack that only ever appears as an ingredient in guide recipes, so following it in the guide
+     * lands on an item instead of nothing; hidden, and never obtainable as anything usable.
+     */
+    private static void registerDisplayOnly(SlimeTinker plugin, SlimefunItemStack item) {
+        UnplaceableBlock display = new UnplaceableBlock(ItemGroups.DUMMY, item, RecipeType.NULL, new ItemStack[9]);
+        display.register(plugin);
+        display.setHidden(true);
     }
 
     /**
