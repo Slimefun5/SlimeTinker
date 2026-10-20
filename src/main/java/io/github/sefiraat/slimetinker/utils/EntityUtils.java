@@ -18,6 +18,7 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import java.util.List;
 import java.util.Map;
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.EntityCompat;
 
 public final class EntityUtils {
 
@@ -119,7 +120,7 @@ public final class EntityUtils {
     @Nonnull
     public static <T> List<T> getNearbyEntitiesByType(@Nonnull Class<?> clazz, @Nonnull Location l, double x, double y, double z) {
         World world = l.getWorld();
-        return ((List<T>) world.getNearbyEntities(l, x, y, z, clazz::isInstance));
+        return ((List<T>) EntityCompat.getNearbyEntities(world, l, x, y, z, clazz::isInstance));
     }
 
     @Nullable
