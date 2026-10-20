@@ -22,6 +22,7 @@ dependencies {
 tasks {
     shadowJar {
         relocate("org.bstats", "slimetinker.libs.bstats")
+        relocate("dev.walshy.sfmetrics", "slimetinker.libs.sfmetrics")
         relocate("io.github.mooy1.infinitylib", "io.github.sefiraat.slimetinker.infinitylib")
         relocate("co.aikar.commands", "io.github.sefiraat.slimetinker.acf")
         relocate("co.aikar.locales", "io.github.sefiraat.slimetinker.locales")
